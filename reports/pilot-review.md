@@ -1,0 +1,637 @@
+# 试点结果过目表
+
+标记说明：✅ 写手与审核一致 · ⚖️ 仲裁后 · ⚠️ 存疑（删了无法确认的义项） · ⏭️ 跳过
+
+- ✅ **or** `#26` /ˈɔr/ 英 /ɔː/ · or · A1
+  - conj. 或, 或者, 还是 — *used to link alternatives or possibilities*
+  - conj. 否则, 要不然 — *used to warn of a consequence otherwise*
+  - conj. 即, 也就是 — *used to introduce another name or explanation*
+- ✅ **an** `#28` /ən/ 英 /ən/ · an · A1
+  - det. 一, 一个, 每一 — *form of 'a' used before a vowel sound*
+- ✅ **now** `#66` /ˈnaʊ/ 英 /ˈnaʊ/ · now · A1
+  - adv. 现在, 目前, 如今 — *at the present time*
+  - adv. 立刻, 马上 — *immediately, without delay*
+  - conj. 既然, 由于 — *because or since something has happened*
+  - <sub>词族: nowadays</sub>
+- ✅ **great** `#133` /ˈɡreɪt/ 英 /ɡreɪt/ · great · A1
+  - adj. 极好的, 很棒的, 美妙的 — *very good or enjoyable* `informal`
+  - adj. 大的, 巨大的, 大量的 — *very large in size, amount or degree*
+  - adj. 伟大的, 杰出的, 重要的 — *important, famous and admired*
+  - n. 伟人, 名家, 大人物 — *a very famous and successful person* `informal`
+  - <sub>词族: greatly, greatness</sub>
+- ✅ **AM** `#154` /ˈeɪˈɛm/ 英 /ˌeɪˈem/ · AM · A1
+  - abbr. 上午, 午前 — *before noon; used after a time of day*
+  - abbr. 调幅, 调幅广播 — *amplitude modulation, a way of broadcasting radio* `domain:无线电`
+  - <sub>变体: a.m., am</sub>
+- ✅ **three** `#158` /ˈθri/ 英 /θriː/ · three · A1
+  - num. 三, 三个 — *the number 3*
+  - n. 三, 三点钟, 三岁 — *the number, time or age of 3*
+  - <sub>词族: third, thirteen, thirty, threefold</sub>
+- ✅ **lot** `#217` /ˈlɑt/ 英 /lɒt/ · lot · A1
+  - n. 许多, 大量, 很多 — *a large number or amount*
+  - n. 一块地, 场地, 停车场 — *an area of land used for a purpose* `us`
+  - n. 命运, 处境, 遭遇 — *a person's situation or fate in life* `formal`
+  - adv. 很, 非常, 许多 — *very much; often* `informal`
+  - <sub>词族: lottery, allot</sub>
+- ✅ **different** `#226` /ˈdɪfrənt/ 英 /ˈdɪfrənt/ · dif·fer·ent · A1
+  - adj. 不同的, 有差异的 — *not the same as another*
+  - adj. 各种的, 不同的, 各自的 — *separate and distinct from each other*
+  - adj. 与众不同的, 特别的 — *unusual or new in an interesting way* `informal`
+  - <sub>词族: difference, differ, differently, indifferent · 词缀: -ent</sub>
+- ✅ **start** `#243` /ˈstɑrt/ 英 /stɑːt/ · start · A1
+  - v. 开始, 着手, 动身 — *to begin doing something or begin to happen*
+  - v. 创办, 开办, 建立 — *to create a business or organization*
+  - v. 启动, 发动 — *to make a machine or engine begin working*
+  - n. 开始, 开端, 起点 — *the beginning of something*
+  - n. 惊跳, 吃惊 — *a sudden movement caused by surprise or fear*
+  - <sub>词族: starter, restart, startup, starting</sub>
+- ✅ **week** `#245` /ˈwik/ 英 /wiːk/ · week · A1
+  - n. 星期, 周, 礼拜 — *a period of seven days*
+  - n. 工作日, 一周工作时间 — *the days of the week when people work*
+  - <sub>词族: weekly, weekend, weekday, midweek</sub>
+- ✅ **anything** `#247` /ˈɛniˌθɪŋ/ 英 /ˈeniθɪŋ/ · an·y·thing · A1
+  - pron. 任何事物, 任何东西 — *used to refer to a thing, no matter which*
+  - pron. 什么事, 某事 — *used in questions to mean something*
+  - <sub>词族: any, anybody, anyone, anyway, anywhere</sub>
+- ✅ **call** `#278` /ˈkɔl/ 英 /kɔːl/ · call · A1
+  - v. 打电话, 给…打电话 — *to telephone someone*
+  - v. 称呼, 把…叫做, 命名 — *to give someone or something a name*
+  - v. 呼喊, 叫, 召唤 — *to shout or ask someone to come*
+  - n. 电话, 通话 — *an act of telephoning someone*
+  - n. 呼叫, 喊声, 号召 — *a shout or a request for action*
+  - n. 决定, 判断 — *a decision or judgment* `informal`
+  - <sub>词族: caller, calling, recall, phone call</sub>
+- ✅ **anyone** `#389` /ˈɛniˌwʌn/ 英 /ˈeniwʌn/ · an·y·one · A1
+  - pron. 任何人, 无论谁 — *any person at all*
+  - <sub>词族: anybody, anything, anywhere</sub>
+- ✅ **close** `#407` /ˈkloʊz/ 英 /kləʊz/ · close · A1
+  - v. 关, 关闭, 合上 — *to shut something so it is no longer open*
+  - v. 结束, 停业, 终止 — *to stop operating or bring to an end*
+  - adj. 近的, 接近的, 靠近的 — *near in space or time*
+  - adj. 亲密的, 密切的 — *having a strong friendly or loving relationship*
+  - adv. 接近地, 靠近地 — *near to someone or something*
+  - n. 结束, 末尾, 终止 — *the end of a period or activity*
+  - <sub>词族: closely, closed, closure, closeness, enclose</sub>
+- ✅ **watch** `#431` /ˈwɑtʃ/ 英 /wɒtʃ/ · watch · A1
+  - v. 观看, 注视, 看 — *to look at something for a period of time*
+  - v. 当心, 注意, 留意 — *to be careful about something*
+  - v. 照看, 看守, 监视 — *to take care of or guard someone or something*
+  - n. 手表, 表 — *a small clock worn on the wrist*
+  - n. 看守, 监视, 值班 — *the act of guarding or observing carefully*
+  - <sub>词族: watcher, watchful, wristwatch, watchdog</sub>
+- ✅ **after-hours** `#441` /ˌæftərˈaʊərz/ 英 /ˌɑːftərˈaʊəz/ · af·ter-hours · B2 · 低置信
+  - adj. 下班后的, 营业时间后的, 非工作时间的 — *happening after normal working or business hours*
+  - adv. 下班后, 营业时间以后 — *after normal working or business hours*
+  - <sub>变体: after hours</sub>
+- ✅ **report** `#449` /rɪˈpɔrt/ 英 /rɪˈpɔːt/ · re·port · A2
+  - n. 报告, 报道, 汇报 — *a spoken or written account of something*
+  - n. 成绩单, 学习报告 — *a written statement of a student's progress* `uk`
+  - v. 报道, 报告, 汇报 — *to give information about something*
+  - v. 举报, 告发 — *to tell an authority about wrongdoing*
+  - v. 报到, 向…负责 — *to arrive somewhere officially; be managed by someone*
+  - <sub>词族: reporter, reportedly, reporting</sub>
+- ✅ **fun** `#467` /ˈfʌn/ 英 /ˈfʌn/ · fun · A1
+  - n. 乐趣, 娱乐, 快乐 — *enjoyment or pleasure*
+  - adj. 有趣的, 好玩的 — *enjoyable and entertaining* `informal`
+  - <sub>词族: funny, funnily</sub>
+- ✅ **ready** `#496` /ˈrɛdi/ 英 /ˈredi/ · read·y · A1
+  - adj. 准备好的, 就绪的 — *prepared for something you are going to do*
+  - adj. 愿意的, 乐意的 — *willing to do something*
+  - adj. 现成的, 可用的, 随时可取的 — *available to be used immediately*
+  - v. 使做好准备, 预备 — *to prepare someone or something* `formal`
+  - <sub>词族: readily, readiness, already</sub>
+- ✅ **baby** `#510` /ˈbeɪbi/ 英 /ˈbeɪbi/ · ba·by · A1
+  - n. 婴儿, 宝宝, 婴孩 — *a very young child*
+  - n. 宝贝, 亲爱的 — *a loving way to address a partner* `informal`
+  - n. 幼崽, 幼兽 — *a very young animal*
+  - v. 溺爱, 娇惯 — *to treat someone too gently or protectively*
+  - <sub>词族: babyish, babysit, babysitter, babyhood</sub>
+- ✅ **across** `#518` /əˈkrɔs/ 英 /əˈkrɒs/ · a·cross · A2
+  - prep. 穿过, 横过, 越过 — *from one side to the other side of*
+  - prep. 在对面, 在另一边 — *on the other side of*
+  - prep. 遍及, 在各处 — *in every part of a place or group*
+  - adv. 横过, 从一边到另一边 — *from one side to the other*
+  - adv. 宽, 横宽 — *used to give a width measurement*
+- ✅ **thinking** `#536` /ˈθɪŋkɪŋ/ 英 /ˈθɪŋkɪŋ/ · think·ing · B1
+  - n. 思考, 思维, 想法 — *the process of using your mind*
+  - n. 看法, 观点, 想法 — *opinions or ideas about something*
+  - adj. 有思想的, 理智的, 爱思考的 — *intelligent and able to think carefully*
+  - <sub>词族: think, thinker, rethink · 词缀: -ing</sub>
+- ✅ **America** `#554` /əˈmɛrəkə/ 英 /əˈmerɪkə/ · A·mer·i·ca · A1
+  - n. 美国 — *the United States of America*
+  - n. 美洲 — *the continents of North and South America*
+  - <sub>词族: American, Americanize</sub>
+- ✅ **account** `#567` /əˈkaʊnt/ 英 /əˈkaʊnt/ · ac·count · A2
+  - n. 账户, 户头 — *an arrangement to keep money in a bank*
+  - n. 账号, 用户名 — *a registered user arrangement with a website or service*
+  - n. 描述, 叙述, 报道 — *a report or description of an event*
+  - v. 解释, 说明, 占比例 — *to explain or form a part of something*
+  - <sub>词族: accountant, accounting, accountable, accountability</sub>
+- ✅ **TV** `#579` /ˈtiˈvi/ 英 /ˌtiːˈviː/ · TV · A1
+  - abbr. 电视, 电视机 — *television*
+  - <sub>变体: tv</sub>
+- ✅ **hold** `#602` /ˈhoʊld/ 英 /həʊld/ · hold · A2
+  - v. 拿着, 握着, 抱着 — *to have something in your hands or arms*
+  - v. 举行, 召开 — *to organize and have a meeting or event*
+  - v. 容纳, 装得下 — *to have space for a certain amount*
+  - n. 握, 抓, 把握 — *the act of gripping something*
+  - n. 控制, 影响力 — *power or control over someone or something*
+  - n. 货舱, 船舱 — *the part of a ship or plane for cargo*
+  - <sub>词族: holder, holding, household, hold-up</sub>
+- ✅ **wish** `#629` /ˈwɪʃ/ 英 /wɪʃ/ · wish · A2
+  - v. 希望, 但愿, 想要 — *to want something that may not happen*
+  - v. 祝, 祝愿 — *to hope someone will have something good*
+  - n. 愿望, 心愿, 希望 — *a desire or hope for something*
+  - n. 祝福, 祝愿, 问候 — *good hopes expressed for someone*
+  - <sub>词族: wishful, well-wisher</sub>
+- ⚖️ **cool** `#670` /ˈkul/ 英 /ˈkuːl/ · cool · A1
+  - adj. 凉的, 凉爽的, 凉快的 — *fairly cold in a pleasant way*
+  - adj. 酷的, 很棒的, 时髦的 — *fashionable or very good* `informal`
+  - adj. 冷静的, 沉着的 — *calm and not excited or nervous*
+  - v. 冷却, 变凉, 使冷静 — *to become or make colder or calmer*
+  - int. 好的, 太好了 — *used to show agreement or approval* `informal`
+  - <sub>词族: coolly, coolness, cooler · 审核: arbiter:reviewer cool down 是短语动词，不属派生或复合词，应从词族删去</sub>
+- ✅ **director** `#671` /dɚˈɛktɚ/ 英 /dəˈrektə/ · di·rec·tor · A2
+  - n. 导演 — *a person who directs a film or play*
+  - n. 主管, 主任, 负责人 — *a person in charge of an organization or department*
+  - n. 董事, 理事 — *a member of a company's board*
+  - <sub>词族: direct, direction, directorate, directorship · 词缀: -or</sub>
+- ✅ **picture** `#713` /ˈpɪktʃɚ/ 英 /ˈpɪktʃə/ · pic·ture · A1
+  - n. 图画, 图片, 画 — *a drawing, painting or image*
+  - n. 照片, 相片 — *a photograph*
+  - n. 情况, 局面, 印象 — *a general idea or description of a situation*
+  - v. 想象, 设想 — *to imagine something in your mind*
+  - v. 描绘, 描述 — *to show or describe in a particular way*
+  - <sub>词族: picturesque, pictorial</sub>
+- ✅ **blood** `#758` /ˈblʌd/ 英 /blʌd/ · blood · A2
+  - n. 血, 血液 — *red liquid that flows through the body*
+  - n. 血统, 家族, 血缘 — *family origin or ancestry*
+  - <sub>词族: bloody, bloodshed, bleed, bloodstream, bloodless</sub>
+- ✅ **entire** `#783` /ɪnˈtaɪɚ/ 英 /ɪnˈtaɪə/ · en·tire · B1
+  - adj. 全部的, 整个的, 完全的 — *whole; including every part*
+  - <sub>词族: entirely, entirety</sub>
+- ✅ **poor** `#789` /ˈpur/ 英 /ˈpɔː/ · poor · A1
+  - adj. 贫穷的, 贫困的 — *having very little money*
+  - adj. 差的, 劣质的, 不好的 — *of low quality or standard*
+  - adj. 可怜的, 不幸的 — *deserving pity or sympathy*
+  - <sub>词族: poverty, poorly</sub>
+- ✅ **currently** `#803` /ˈkɝəntli/ 英 /ˈkʌrəntli/ · cur·rent·ly · B1
+  - adv. 目前, 现在, 当前 — *at the present time*
+  - <sub>词族: current, currency · 词缀: -ly</sub>
+- ✅ **earth** `#853` /ˈɝθ/ 英 /ɜːθ/ · earth · A2
+  - n. 地球, 世界 — *the planet we live on*
+  - n. 泥土, 土壤, 土地 — *the soil on the ground*
+  - n. 地线, 接地 — *a wire connecting electrical equipment to the ground* `uk domain:电`
+  - <sub>词族: earthly, earthquake, earthy, unearth, earthworm</sub>
+- ✅ **success** `#865` /səkˈsɛs/ 英 /səkˈses/ · suc·cess · A2
+  - n. 成功, 成就 — *achieving what you wanted or planned*
+  - n. 成功的人, 成功的事 — *a person or thing that does well*
+  - <sub>词族: succeed, successful, successfully, unsuccessful</sub>
+- ✅ **access** `#870` /ˈækˌsɛs/ 英 /ˈækses/ · ac·cess · B1
+  - n. 使用权, 机会, 权限 — *the right or chance to use something*
+  - n. 通道, 入口, 进入 — *a way of entering or reaching a place*
+  - v. 访问, 存取, 进入 — *to get into or obtain data or a place*
+  - <sub>词族: accessible, accessibility, inaccessible</sub>
+- ⚖️ **store** `#952` /ˈstɔr/ 英 /ˈstɔː/ · store · A1
+  - n. 商店, 店铺 — *a shop where goods are sold* `us`
+  - n. 储备, 储存, 存货 — *a supply of something kept for later use*
+  - v. 储存, 存放, 储藏 — *to keep something somewhere for later use*
+  - <sub>词族: storage, storeroom, storekeeper · 审核: arbiter:reviewer restore 与 store 词源和共时上均无关，不属同一词族</sub>
+- ✅ **addition** `#961` /əˈdɪʃən/ 英 /əˈdɪʃn/ · ad·di·tion · B1
+  - n. 增加, 添加, 附加 — *the act of adding something*
+  - n. 增加物, 新添的人, 增建部分 — *a thing or person that is added*
+  - n. 加法 — *the process of adding numbers together* `domain:数学`
+  - <sub>词族: add, additional, additionally, additive · 词缀: -ion</sub>
+- ✅ **despite** `#995` /dɪˈspaɪt/ 英 /dɪˈspaɪt/ · de·spite · B1
+  - prep. 尽管, 虽然, 不管 — *without being affected or prevented by something*
+- ✅ **economy** `#1304` /ɪˈkɑnəmi/ 英 /ɪˈkɒnəmi/ · e·con·o·my · B1
+  - n. 经济, 经济体系 — *a country's system of trade, industry and money*
+  - n. 节约, 节省 — *careful use of money or resources*
+  - adj. 经济的, 廉价的 — *cheap or designed to save money*
+  - <sub>词族: economic, economical, economics, economist, economize</sub>
+- ✅ **HTTP** `#1463` /ˌeɪtʃˌtiˌtiˈpi/ 英 /ˌeɪtʃ tiː tiː ˈpiː/ · HTTP · B2
+  - abbr. 超文本传输协议 — *the protocol used to transfer web pages* `domain:计算机`
+  - <sub>词族: HTTPS</sub>
+- ✅ **stone** `#1512` /ˈstoʊn/ 英 /ˈstəʊn/ · stone · A2
+  - n. 石头, 石块, 石料 — *hard solid mineral material or a piece of it*
+  - n. 宝石 — *a jewel or gem*
+  - n. 果核, 核 — *the hard seed inside some fruits* `uk`
+  - v. 向…扔石头, 用石头砸 — *to throw stones at someone*
+  - <sub>词族: stony, stoned, milestone, limestone</sub>
+- ✅ **housing** `#1578` /ˈhaʊzɪŋ/ 英 /ˈhaʊzɪŋ/ · hous·ing · B2
+  - n. 住房, 住宅, 房屋 — *houses and flats considered as a whole*
+  - n. 外壳, 外罩, 护套 — *a hard cover that protects a machine part*
+  - <sub>词族: house, household · 词缀: -ing</sub>
+- ⏭️ **johnson** `#1727` — 跳过：proper-out-of-scope
+- ✅ **pair** `#1732` /ˈpɛr/ 英 /peə/ · pair · A2
+  - n. 一对, 一双, 一副 — *two things of the same kind used together*
+  - n. 一对人, 两人组 — *two people seen together or working together*
+  - v. 配对, 使成对, 搭配 — *to put people or things into groups of two*
+  - <sub>词族: pairing, paired</sub>
+- ✅ **zone** `#1752` /ˈzoʊn/ 英 /zəʊn/ · zone · B1
+  - n. 区域, 地带, 地区 — *an area with a particular feature or use*
+  - n. 时区 — *a region sharing the same standard time*
+  - v. 划分区域, 分区 — *to divide an area for particular uses*
+  - <sub>词族: zoning, time zone, ozone</sub>
+- ✅ **anywhere** `#1756` /ˈɛniˌwɛr/ 英 /ˈeniweə/ · an·y·where · A2
+  - adv. 任何地方, 无论何处 — *in or to any place*
+  - <sub>词族: anyone, anything, anyway</sub>
+- ✅ **dick** `#1792` /ˈdɪk/ 英 /dɪk/ · dick · C1 · 🔒非儿童
+  - n. 阴茎, 鸡巴 — *a rude word for a penis* `slang offensive-strong`
+  - n. 混蛋, 讨厌鬼 — *a rude word for an unpleasant man* `slang offensive-strong`
+  - n. 侦探 — *a detective* `slang dated`
+- ✅ **Italian** `#1900` /ˌɪˈtæljən/ 英 /ɪˈtæliən/ · I·tal·ian · A1
+  - adj. 意大利的, 意大利人的, 意大利语的 — *from or relating to Italy*
+  - n. 意大利人 — *a person from Italy*
+  - n. 意大利语 — *the language spoken in Italy*
+  - <sub>词族: Italy · 词缀: -ian</sub>
+- ✅ **senator** `#2193` /ˈsɛnətɚ/ 英 /ˈsenətə/ · sen·a·tor · B2
+  - n. 参议员, 上议院议员 — *a member of a senate*
+  - <sub>词族: senate, senatorial · 词缀: -or</sub>
+- ⚖️ **dan** `#2464` /ˈdæn/ 英 /dæn/ · dan · C2 · 低置信
+  - n. 段, 段位 — *a grade of skill in judo, karate or go* `domain:体育`
+  - <sub>审核: arbiter:reviewer 小写 dan 确为英语词，指柔道、空手道、围棋的段位，应收录；罕见义保持 low</sub>
+- ✅ **valuable** `#2489` /ˈvæljəbəl/ 英 /ˈvæljuəbl/ · val·u·a·ble · B1
+  - adj. 贵重的, 值钱的 — *worth a lot of money*
+  - adj. 宝贵的, 有价值的, 有用的 — *very useful or important*
+  - n. 贵重物品 — *a small thing worth a lot of money*
+  - <sub>词族: value, invaluable, valueless · 词缀: -able</sub>
+- ⚖️ **en** `#2505` /ˈɛn/ 英 /en/ · en · C2 · 低置信
+  - n. 半角宽, 半方 — *a printing unit equal to half an em* `domain:印刷`
+  - <sub>审核: arbiter:reviewer 对开在排版术语中虽有此用法但易与纸张开本混淆，采用通行的半方；罕见专业义保持 low</sub>
+- ✅ **bone** `#2617` /ˈboʊn/ 英 /bəʊn/ · bone · A2
+  - n. 骨, 骨头, 骨骼 — *one of the hard parts inside the body*
+  - v. 剔骨, 去骨 — *to remove the bones from meat or fish*
+  - <sub>词族: bony, boneless, backbone, jawbone</sub>
+- ✅ **curious** `#2720` /ˈkjʊriəs/ 英 /ˈkjʊəriəs/ · cu·ri·ous · B1
+  - adj. 好奇的, 求知欲强的 — *wanting to know or learn about something*
+  - adj. 奇怪的, 古怪的, 不寻常的 — *strange or unusual*
+  - <sub>词族: curiosity, curiously</sub>
+- ⏭️ **jane** `#2874` — 跳过：proper-out-of-scope
+- ✅ **marry** `#2970` /ˈmɛri/ 英 /ˈmæri/ · mar·ry · A2
+  - v. 结婚, 娶, 嫁 — *to become the husband or wife of someone*
+  - v. 为…主持婚礼 — *to perform a wedding ceremony for a couple*
+  - <sub>词族: marriage, married, remarry</sub>
+- ✅ **gaming** `#3157` /ˈɡeɪmɪŋ/ 英 /ˈɡeɪmɪŋ/ · gam·ing · B1
+  - n. 玩电子游戏, 游戏 — *the activity of playing video or computer games*
+  - n. 赌博, 博彩 — *the activity of gambling*
+  - <sub>词族: game, gamer · 词缀: -ing</sub>
+- ✅ **shake** `#3309` /ˈʃeɪk/ 英 /ʃeɪk/ · shake · A2
+  - v. 摇动, 摇晃, 抖动 — *to move quickly up and down or side to side*
+  - v. 发抖, 颤抖 — *to tremble because of cold, fear or illness*
+  - v. 动摇, 使震惊, 使不安 — *to upset or weaken someone's feelings or beliefs*
+  - n. 摇动, 抖动 — *an act of shaking*
+  - n. 奶昔 — *a cold drink of milk and ice cream* `informal`
+  - <sub>词族: shaky, handshake, milkshake, shaker</sub>
+- ✅ **estimate** `#3499` /ˈɛstəˌmeɪt/ 英 /ˈestɪmeɪt/ · es·ti·mate · B1
+  - v. 估计, 估算, 估量 — *to guess an amount or value roughly*
+  - n. 估计, 估算 — *a rough calculation of an amount or value*
+  - n. 估价单, 报价 — *a statement of how much work will cost*
+  - <sub>词族: estimation, estimated, overestimate, underestimate</sub>
+- ✅ **surprising** `#3580` /sɚˈpraɪzɪŋ/ 英 /səˈpraɪzɪŋ/ · sur·pris·ing · B1
+  - adj. 令人惊讶的, 出人意料的, 惊人的 — *causing surprise; unexpected*
+  - <sub>词族: surprise, surprisingly, surprised · 词缀: -ing</sub>
+- ✅ **dispute** `#3600` /dɪˈspjut/ 英 /dɪˈspjuːt/ · dis·pute · B2
+  - n. 争端, 纠纷, 争论 — *a serious disagreement between people or groups*
+  - v. 对…提出异议, 质疑 — *to say that something is not true or correct*
+  - v. 争夺, 争论 — *to argue or compete for control of something*
+  - <sub>词族: disputed, undisputed, indisputable</sub>
+- ✅ **tune** `#3623` /ˈtun/ 英 /tjuːn/ · tune · B1
+  - n. 曲调, 旋律, 曲子 — *a series of musical notes forming a melody*
+  - v. 调音, 调准 — *to adjust an instrument so it plays correct notes*
+  - v. 调频道, 收听, 收看 — *to set a radio or TV to a station*
+  - v. 调整, 调试, 调校 — *to adjust an engine or system to work better*
+  - <sub>词族: tuneful, tuner, retune</sub>
+- ⏭️ **Alabama** `#3629` — 跳过：proper-out-of-scope
+- ✅ **cave** `#4006` /ˈkeɪv/ 英 /keɪv/ · cave · A2
+  - n. 洞穴, 山洞, 岩洞 — *a large natural hole in rock or a hillside*
+  - v. 让步, 屈服 — *to finally agree after resisting* `informal`
+  - v. 塌陷, 坍塌 — *to fall inward and collapse*
+  - <sub>词族: caveman, cavern, caving</sub>
+- ✅ **rival** `#4179` /ˈraɪvəl/ 英 /ˈraɪvl/ · ri·val · B2
+  - n. 对手, 竞争者, 敌手 — *a person or group competing with another*
+  - adj. 竞争的, 对立的 — *competing with another for the same thing*
+  - v. 比得上, 与…匹敌 — *to be as good as something else*
+  - <sub>词族: rivalry, unrivalled</sub>
+- ✅ **timeline** `#4373` /ˈtaɪmlaɪn/ 英 /ˈtaɪmlaɪn/ · time·line · B2
+  - n. 时间表, 时间安排 — *a plan of when things should happen*
+  - n. 时间线, 年表, 大事年表 — *a list of events in date order*
+  - <sub>变体: time line</sub>
+- ✅ **alike** `#4461` /əˈlaɪk/ 英 /əˈlaɪk/ · a·like · B2
+  - adj. 相像的, 相似的, 相同的 — *very similar*
+  - adv. 同样地, 相似地, 都 — *in a similar way; equally*
+  - <sub>词族: like, likeness</sub>
+- ✅ **mere** `#4499` /ˈmɪr/ 英 /mɪə/ · mere · B2
+  - adj. 仅仅的, 只不过的, 纯粹的 — *used to stress how small or unimportant something is*
+  - <sub>词族: merely</sub>
+- ✅ **diplomatic** `#4611` /ˌdɪpləˈmætɪk/ 英 /ˌdɪpləˈmætɪk/ · dip·lo·mat·ic · B2
+  - adj. 外交的, 外交上的 — *relating to relations between countries*
+  - adj. 圆滑的, 有手腕的, 得体的 — *tactful in dealing with people*
+  - <sub>词族: diplomat, diplomacy, diplomatically, undiplomatic · 词缀: -ic</sub>
+- ✅ **hybrid** `#4625` /ˈhaɪbrɪd/ 英 /ˈhaɪbrɪd/ · hy·brid · C1
+  - n. 混合物, 混合体, 结合体 — *something that mixes two different things*
+  - n. 杂交种, 杂种 — *an animal or plant from two different types* `domain:生物`
+  - n. 混合动力车 — *a car using both petrol and electricity*
+  - adj. 混合的, 杂交的, 混合动力的 — *made by combining two different things*
+  - <sub>词族: hybridize, hybridization</sub>
+- ✅ **promising** `#4643` /ˈprɑməsɪŋ/ 英 /ˈprɒmɪsɪŋ/ · prom·is·ing · B2
+  - adj. 有希望的, 有前途的, 有出息的 — *showing signs of future success*
+  - <sub>词族: promise, promisingly, unpromising · 词缀: -ing</sub>
+- ✅ **declaration** `#4673` /ˌdɛklɚˈeɪʃən/ 英 /ˌdekləˈreɪʃn/ · dec·la·ra·tion · B2
+  - n. 宣言, 声明, 宣布 — *an official or formal statement*
+  - n. 申报, 申报单 — *a written statement of goods or income*
+  - <sub>词族: declare, declared · 词缀: -ation</sub>
+- ✅ **shocking** `#4713` /ˈʃɑkɪŋ/ 英 /ˈʃɒkɪŋ/ · shock·ing · B1
+  - adj. 令人震惊的, 骇人听闻的 — *causing great surprise and upset*
+  - adj. 糟糕的, 极差的 — *very bad* `informal uk`
+  - <sub>词族: shock, shockingly, shocked · 词缀: -ing</sub>
+- ✅ **riot** `#4759` /ˈraɪət/ 英 /ˈraɪət/ · ri·ot · B2
+  - n. 暴乱, 骚乱, 暴动 — *violent public disorder by a crowd*
+  - n. 极有趣的人, 极有趣的事 — *a very funny or entertaining person or thing* `informal`
+  - v. 闹事, 参与暴乱 — *to take part in violent public disorder*
+  - <sub>词族: rioter, rioting, riotous</sub>
+- ✅ **doll** `#4947` /ˈdɑl/ 英 /dɒl/ · doll · A2
+  - n. 玩偶, 洋娃娃, 娃娃 — *a toy shaped like a small person*
+  - n. 美人, 宝贝 — *an attractive or kind person* `informal dated`
+  - <sub>词族: dollhouse</sub>
+- ⚖️ **fiber** `#4951` /ˈfaɪbɚ/ 英 /ˈfaɪbə/ · fi·ber · B2
+  - n. 纤维, 丝 — *a thin thread of natural or artificial material*
+  - n. 膳食纤维, 粗纤维 — *parts of food that help digestion*
+  - n. 光纤 — *a glass thread carrying data as light* `domain:计算机`
+  - <sub>词族: fibrous, fiberglass · 变体: fibre · 审核: arbiter:reviewer 一般义纤维涵盖面最广且是学习者首学义，应排第一</sub>
+- ✅ **rope** `#4977` /ˈroʊp/ 英 /rəʊp/ · rope · B1
+  - n. 绳, 绳索, 粗绳 — *very strong thick string made of twisted fibres*
+  - v. 用绳捆, 用绳系 — *to tie things together with a rope*
+  - <sub>词族: tightrope, jump rope</sub>
+- ✅ **stan** `#4982` /ˈstæn/ 英 /stæn/ · stan · C2 · 低置信
+  - n. 狂热粉丝, 铁粉 — *an extremely devoted fan of a celebrity* `slang`
+  - v. 狂热追捧, 力挺 — *to be an extremely devoted fan of someone* `slang`
+- ✅ **donor** `#5997` /ˈdoʊnɚ/ 英 /ˈdəʊnə/ · do·nor · B2
+  - n. 捐赠者, 捐款人, 赞助人 — *a person who gives money or goods*
+  - n. 献血者, 器官捐献者 — *a person who gives blood or an organ* `domain:医`
+  - <sub>词族: donate, donation</sub>
+- ✅ **scripture** `#7296` /ˈskrɪptʃɚ/ 英 /ˈskrɪptʃə/ · scrip·ture · C1
+  - n. 圣经, 经文, 经典 — *sacred writings of a religion*
+  - <sub>词族: scriptural</sub>
+- ⚖️ **eighty** `#7430` /ˈeɪti/ 英 /ˈeɪti/ · eight·y · A1
+  - num. 八十 — *the number 80*
+  - <sub>词族: eightieth, eight · 审核: arbiter:reviewer eighty 为 eight 加 -ty，写手拆成 -y 有误，按严格规则留空</sub>
+- ✅ **greedy** `#7444` /ˈɡridi/ 英 /ˈɡriːdi/ · greed·y · B1
+  - adj. 贪婪的, 贪心的 — *wanting more money or things than you need*
+  - adj. 贪吃的, 嘴馋的 — *wanting to eat more food than you need*
+  - <sub>词族: greed, greedily, greediness · 词缀: -y</sub>
+- ✅ **naive** `#7464` /ˌnaɪˈiv/ 英 /naɪˈiːv/ · na·ive · B2
+  - adj. 天真的, 幼稚的, 缺乏经验的 — *lacking experience and too willing to trust others*
+  - <sub>词族: naively, naivety · 变体: naïve</sub>
+- ⏭️ **omar** `#7468` — 跳过：proper-out-of-scope
+- ⏭️ **jong** `#7887` — 跳过：junk
+- ⏭️ **RB** `#7948` — 跳过：abbr-rare
+- ✅ **acne** `#8368` /ˈækni/ 英 /ˈækni/ · ac·ne · B2
+  - n. 痤疮, 粉刺, 青春痘 — *a skin condition causing spots on the face*
+- ✅ **affiliation** `#8699` /əˌfɪliˈeɪʃən/ 英 /əˌfɪliˈeɪʃn/ · af·fil·i·a·tion · C1
+  - n. 隶属关系, 联系, 从属 — *an official connection with a group or organization* `formal`
+  - n. 派别, 归属 — *a person's political or religious connection*
+  - <sub>词族: affiliate, affiliated · 词缀: -ation</sub>
+- ✅ **prostitute** `#9339` /ˈprɑstəˌtut/ 英 /ˈprɒstɪtjuːt/ · pros·ti·tute · C1 · 🔒非儿童
+  - n. 妓女, 娼妓, 卖淫者 — *a person who has sex for money*
+  - v. 出卖, 滥用才能 — *to use talents dishonourably for money* `formal`
+  - <sub>词族: prostitution</sub>
+- ✅ **baptism** `#9615` /ˈbæptɪzəm/ 英 /ˈbæptɪzəm/ · bap·tism · C1
+  - n. 洗礼, 浸礼 — *a Christian ceremony of entry into the church*
+  - n. 初次经历, 考验 — *a first difficult experience of something*
+  - <sub>词族: baptize, baptist, baptismal</sub>
+- ⚖️ **malware** `#10450` /ˈmælˌwɛr/ 英 /ˈmælweə/ · mal·ware · B2
+  - n. 恶意软件, 恶意程序 — *software designed to damage or attack computers* `domain:计算机`
+  - <sub>审核: arbiter:merged 采纳审校清空词族；另 malware 是 malicious 与 software 的混成词，mal- 并非标准前缀拆分，一并清空</sub>
+- ✅ **refinery** `#10474` /rɪˈfaɪnɚi/ 英 /rɪˈfaɪnəri/ · re·fin·er·y · C1
+  - n. 精炼厂, 炼油厂, 提炼厂 — *a factory where oil or sugar is purified*
+  - <sub>词族: refine, refined, refinement · 词缀: -ery</sub>
+- ✅ **grail** `#10792` /ˈɡreɪl/ 英 /ɡreɪl/ · grail · C2
+  - n. 圣杯 — *the cup said to be used by Jesus at the Last Supper*
+  - n. 渴望之物, 终极目标 — *something very desired but hard to achieve*
+- ✅ **siren** `#10844` /ˈsaɪrən/ 英 /ˈsaɪrən/ · si·ren · B2
+  - n. 警报器, 汽笛, 警笛 — *a device making a loud warning sound*
+  - n. 妖艳女子, 迷人的女人 — *a dangerously attractive woman* `literary`
+  - n. 海妖, 塞壬 — *a mythical creature luring sailors with song*
+- ✅ **layered** `#10935` /ˈleɪɚd/ 英 /ˈleɪəd/ · lay·ered · B2
+  - adj. 分层的, 层叠的, 多层的 — *arranged in or having several layers*
+  - <sub>词族: layer · 词缀: -ed</sub>
+- ✅ **correctional** `#11159` /kɚˈɛkʃənəl/ 英 /kəˈrekʃənl/ · cor·rec·tion·al · C1
+  - adj. 惩教的, 改造的, 监狱的 — *relating to the punishment and reform of criminals* `us domain:法`
+  - <sub>词族: correct, correction, corrective · 词缀: -al</sub>
+- ✅ **compute** `#11401` /kəmˈpjut/ 英 /kəmˈpjuːt/ · com·pute · C1
+  - v. 计算, 估算, 算出 — *to calculate an answer or amount*
+  - <sub>词族: computer, computation, computing, computational</sub>
+- ✅ **crispy** `#11924` /ˈkrɪspi/ 英 /ˈkrɪspi/ · crisp·y · B1
+  - adj. 脆的, 酥脆的, 松脆的 — *pleasantly hard and breaking easily when bitten*
+  - <sub>词族: crisp, crispness · 词缀: -y</sub>
+- ✅ **inward** `#11958` /ˈɪnwɚd/ 英 /ˈɪnwəd/ · in·ward · C1
+  - adj. 内心的, 精神的 — *relating to private thoughts and feelings*
+  - adj. 向内的, 内部的 — *moving or directed toward the inside*
+  - adv. 向内, 向里 — *toward the inside or center*
+  - <sub>词族: inwardly, inwards, outward · 词缀: -ward · 变体: inwards</sub>
+- ⏭️ **astros** `#12172` — 跳过：proper-out-of-scope
+- ✅ **paisley** `#12822` /ˈpeɪzli/ 英 /ˈpeɪzli/ · pais·ley · C2
+  - n. 佩斯利花纹, 涡旋花纹 — *a pattern of curved teardrop shapes*
+- ✅ **reassure** `#12980` /ˌriəˈʃʊr/ 英 /ˌriːəˈʃʊə/ · re·as·sure · B2
+  - v. 使安心, 使放心, 消除疑虑 — *to make someone feel less worried*
+  - <sub>词族: reassurance, reassuring, reassuringly, assure · 词缀: re-</sub>
+- ⏭️ **kolkata** `#13082` — 跳过：proper-out-of-scope
+- ✅ **sinus** `#13276` /ˈsaɪnəs/ 英 /ˈsaɪnəs/ · si·nus · C1
+  - n. 鼻窦, 窦 — *an air space in the bones of the face* `domain:医`
+  - <sub>词族: sinusitis</sub>
+- ✅ **wannabe** `#13628` /ˈwɑnəˌbi/ 英 /ˈwɒnəbi/ · wan·na·be · C1
+  - n. 模仿者, 追星族, 想出名的人 — *someone who wants to be like a famous person* `informal`
+  - adj. 想要成为…的, 冒牌的 — *wanting or pretending to be something* `informal`
+  - <sub>变体: wannabee</sub>
+- ⏭️ **ulysses** `#14897` — 跳过：proper-out-of-scope
+- ✅ **canteen** `#14922` /kænˈtin/ 英 /kænˈtiːn/ · can·teen · B1
+  - n. 食堂, 餐厅 — *a place where workers or students eat meals*
+  - n. 水壶, 军用水壶 — *a small container for carrying water*
+- ✅ **biotech** `#15078` /ˈbaɪoʊˌtɛk/ 英 /ˈbaɪəʊtek/ · bi·o·tech · C1
+  - n. 生物技术, 生物科技 — *biotechnology* `informal`
+  - n. 生物技术公司 — *a company working in biotechnology* `informal`
+  - <sub>词族: biotechnology</sub>
+- ✅ **inhumane** `#15478` /ˌɪnhjuˈmeɪn/ 英 /ˌɪnhjuːˈmeɪn/ · in·hu·mane · C1
+  - adj. 不人道的, 残忍的, 无人性的 — *cruel and causing unnecessary suffering*
+  - <sub>词族: humane, inhumanely, inhuman, inhumanity · 词缀: in-</sub>
+- ✅ **maximise** `#16138` /ˈmæksəˌmaɪz/ 英 /ˈmæksɪmaɪz/ · max·i·mise · B2 · 低置信
+  - v. 使最大化, 充分利用 — *to make something as large as possible* `uk`
+  - v. 最大化窗口, 放大 — *to make a computer window fill the screen* `domain:计算机`
+  - <sub>词族: maximum, maximal, maximisation · 词缀: -ise · 变体: maximize</sub>
+- ⏭️ **famer** `#17034` — 跳过：junk
+- ⏭️ **tijuana** `#17498` — 跳过：proper-out-of-scope
+- ✅ **stakeholder** `#17864` /ˈsteɪkˌhoʊldɚ/ 英 /ˈsteɪkhəʊldə/ · stake·hold·er · C1
+  - n. 利益相关者, 相关方 — *a person or group with an interest in a business or project*
+  - n. 股东, 出资人 — *someone who has invested money in a company*
+  - <sub>词族: stake</sub>
+- ✅ **precautionary** `#18219` /prɪˈkɔʃənɛri/ 英 /prɪˈkɔːʃənəri/ · pre·cau·tion·ar·y · C1
+  - adj. 预防的, 防备的, 警戒的 — *done to prevent something bad from happening*
+  - <sub>词族: precaution, caution · 词缀: -ary</sub>
+- ✅ **goaltender** `#18354` /ˈɡoʊlˌtɛndɚ/ 英 /ˈɡəʊltendə/ · goal·tend·er · C1 · 低置信
+  - n. 守门员 — *a player who guards the goal, especially in ice hockey* `us domain:体育`
+  - <sub>词族: goalie, goalkeeper, goaltending</sub>
+- ⏭️ **img** `#18368` — 跳过：abbr-rare
+- ✅ **orthogonal** `#18410` /ɔrˈθɔɡənəl/ 英 /ɔːˈθɒɡənl/ · or·thog·o·nal · C2
+  - adj. 正交的, 垂直的, 直角的 — *at right angles to something* `domain:数学`
+  - adj. 无关的, 独立的 — *unrelated or independent of something else* `formal`
+  - <sub>词族: orthogonally, orthogonality</sub>
+- ✅ **exponent** `#18914` /ˈɛkˌspoʊnənt/ 英 /ɪkˈspəʊnənt/ · ex·po·nent · C2
+  - n. 倡导者, 支持者, 拥护者 — *a person who supports an idea or belief* `formal`
+  - n. 指数, 幂 — *a number showing how many times to multiply a quantity* `domain:数`
+  - n. 能手, 代表人物 — *a person skilled in a particular activity* `formal`
+  - <sub>词族: exponential, exponentially</sub>
+- ✅ **cotta** `#20926` /ˈkɑtə/ 英 /ˈkɒtə/ · cot·ta · C2 · 低置信
+  - n. 短白法衣, 短袖白袍 — *a short white robe worn in church services* `domain:宗教`
+- ⏭️ **aang** `#24042` — 跳过：junk
+- ✅ **warlike** `#25059` /ˈwɔrˌlaɪk/ 英 /ˈwɔːlaɪk/ · war·like · C1
+  - adj. 好战的, 尚武的 — *aggressive and eager to fight wars*
+  - adj. 战争的, 军事的 — *relating to or ready for war*
+  - <sub>词族: war, warfare, warrior · 词缀: -like</sub>
+- ⏭️ **ecw** `#26258` — 跳过：junk
+- ✅ **satirist** `#26410` /ˈsætɚəst/ 英 /ˈsætərɪst/ · sat·i·rist · C2
+  - n. 讽刺作家, 讽刺家 — *a person who writes or performs satire*
+  - <sub>词族: satire, satirical, satirize · 词缀: -ist</sub>
+- ✅ **proximate** `#26665` /ˈprɑksəmət/ 英 /ˈprɒksɪmət/ · prox·i·mate · C2
+  - adj. 直接的, 最近的, 紧接的 — *closest in time, space or relationship* `formal`
+  - <sub>词族: proximity, approximate</sub>
+- ✅ **decathlon** `#27961` /diˈkæθlɔn/ 英 /dɪˈkæθlɒn/ · de·cath·lon · C2
+  - n. 十项全能 — *an athletic contest made up of ten events* `domain:体育`
+  - <sub>词族: decathlete</sub>
+- ✅ **internationalization** `#28333` /ˌɪntɚˌnæʃənəlɪˈzeɪʃən/ 英 /ˌɪntəˌnæʃnəlaɪˈzeɪʃn/ · in·ter·na·tion·al·i·za·tion · C1
+  - n. 国际化 — *the process of making something international*
+  - n. 国际化, 多语言适配 — *designing software to work in many languages* `domain:计算机`
+  - <sub>词族: international, internationalize, internationally · 词缀: -ize -ation · 变体: internationalisation</sub>
+- ⚖️ **subjection** `#30537` /səbˈdʒɛkʃən/ 英 /səbˈdʒekʃn/ · sub·jec·tion · C2 · 低置信
+  - n. 征服, 控制, 隶属 — *the state of being controlled by someone else* `formal`
+  - <sub>词族: subject · 词缀: -ion · 审核: arbiter:reviewer subjugate 词根不同，不属 subject 词族，应删去</sub>
+- ✅ **forbearance** `#30683` /fɔrˈbɛrəns/ 英 /fɔːˈbeərəns/ · for·bear·ance · C2
+  - n. 宽容, 克制, 忍耐 — *patient self-control and tolerance* `formal`
+  - <sub>词族: forbear, forbearing · 词缀: -ance</sub>
+- ✅ **apotheosis** `#32137` /əˌpɑθiˈoʊsəs/ 英 /əˌpɒθiˈəʊsɪs/ · a·poth·e·o·sis · C2
+  - n. 典范, 顶峰, 极致 — *the highest or most perfect example of something* `formal`
+  - n. 神化, 尊为神 — *the raising of someone to divine status* `formal`
+- ✅ **imbue** `#32581` /ˌɪmˈbju/ 英 /ɪmˈbjuː/ · im·bue · C2
+  - v. 使充满, 灌输, 使具有 — *to fill someone or something with a quality* `formal`
+- ✅ **benzo** `#34164` /ˈbɛnzoʊ/ 英 /ˈbenzəʊ/ · ben·zo · C2 · 🔒非儿童 · 低置信
+  - n. 苯二氮卓类药, 镇静药 — *a type of sedative drug* `informal domain:医`
+  - <sub>词族: benzodiazepine</sub>
+- ✅ **pinstripe** `#34358` /ˈpɪnˌstraɪp/ 英 /ˈpɪnstraɪp/ · pin·stripe · C2
+  - n. 细条纹, 细条纹布 — *a very thin stripe on cloth, used in suits*
+  - <sub>词族: pinstriped</sub>
+- ⏭️ **dotson** `#34904` — 跳过：proper-out-of-scope
+- ✅ **rando** `#35084` /ˈrɑndoʊ/ 英 /ˈrændəʊ/ · ran·do · C2 · 低置信
+  - n. 陌生人, 路人, 无关的人 — *a random person nobody knows* `slang`
+  - <sub>词族: random</sub>
+- ✅ **pansexual** `#36149` /pænˈsɛkʃuəl/ 英 /pænˈsekʃuəl/ · pan·sex·u·al · C2 · 低置信
+  - adj. 泛性恋的 — *attracted to people regardless of sex or gender*
+  - n. 泛性恋者 — *a person attracted to people of any gender*
+  - <sub>词族: pansexuality · 词缀: pan-</sub>
+- ⏭️ **spengler** `#36218` — 跳过：proper-out-of-scope
+- ✅ **gratin** `#36790` /ˈɡrɑtən/ 英 /ˈɡrætæn/ · gra·tin · C2 · 低置信
+  - n. 焗菜, 奶酪焗烤菜 — *a dish topped with cheese or breadcrumbs and browned* `domain:烹饪`
+- ⏭️ **traill** `#36988` — 跳过：proper-out-of-scope
+- ✅ **arbour** `#38560` /ˈɑrbɚ/ 英 /ˈɑːbə/ · ar·bour · C2
+  - n. 凉亭, 藤架, 树荫处 — *a shady garden shelter covered with climbing plants* `uk`
+  - <sub>变体: arbor</sub>
+- ⏭️ **nro** `#39600` — 跳过：junk
+- ⏭️ **gani** `#39909` — 跳过：junk
+- ⏭️ **jct** `#40816` — 跳过：abbr-rare
+- ✅ **indecisiveness** `#41720` /ˌɪnˈdɛsɪsɪvnəs/ 英 /ˌɪndɪˈsaɪsɪvnəs/ · in·de·ci·sive·ness · C1
+  - n. 优柔寡断, 犹豫不决 — *inability to make decisions quickly*
+  - <sub>词族: indecisive, decisive, indecision, indecisively · 词缀: in- -ness</sub>
+- ⏭️ **ech** `#42100` — 跳过：junk
+- ✅ **infiltrator** `#42179` /ˈɪnfɪlˌtreɪtɚ/ 英 /ˈɪnfɪltreɪtə/ · in·fil·tra·tor · C2
+  - n. 渗透者, 潜入者, 卧底 — *someone who secretly enters a group or place*
+  - <sub>词族: infiltrate, infiltration · 词缀: -or</sub>
+- ⏭️ **retd** `#42747` — 跳过：abbr-rare
+- ✅ **corniche** `#42921` /ˈkɔrnɪʃ/ 英 /ˈkɔːnɪʃ/ · cor·niche · C2 · 低置信
+  - n. 沿海公路, 滨海大道 — *a road built along a coast or cliff*
+- ✅ **adjectival** `#43271` /ˌædʒɪkˈtaɪvəl/ 英 /ˌædʒekˈtaɪvl/ · ad·jec·ti·val · C2 · 低置信
+  - adj. 形容词的, 形容词性的 — *relating to or functioning as an adjective* `domain:语言`
+  - <sub>词族: adjective, adjectivally · 词缀: -al</sub>
+- ✅ **polyhedral** `#44504` /ˌpɑliˈhidrəl/ 英 /ˌpɒliˈhiːdrəl/ · pol·y·he·dral · C2 · 低置信
+  - adj. 多面体的, 多面的 — *having many flat faces* `domain:数学`
+  - <sub>词族: polyhedron · 词缀: -al</sub>
+- ✅ **bacteriologist** `#45112` /bækˌtɪriˈɑlədʒɪst/ 英 /bækˌtɪəriˈɒlədʒɪst/ · bac·te·ri·ol·o·gist · C2 · 低置信
+  - n. 细菌学家 — *a scientist who studies bacteria* `domain:生物`
+  - <sub>词族: bacteria, bacteriology, bacterial · 词缀: -ist</sub>
+- ⏭️ **mariella** `#45803` — 跳过：proper-out-of-scope
+- ⏭️ **londres** `#46244` — 跳过：not-english
+- ⏭️ **nowra** `#46297` — 跳过：proper-out-of-scope
+- ✅ **janky** `#46687` /ˈdʒæŋki/ 英 /ˈdʒæŋki/ · jan·ky · C2 · 低置信
+  - adj. 劣质的, 破旧的, 不靠谱的 — *of poor quality or unreliable* `slang us`
+  - <sub>词族: jank</sub>
+- ⏭️ **aten** `#46996` — 跳过：junk
+- ⏭️ **bli** `#47023` — 跳过：junk
+- ⏭️ **musso** `#47711` — 跳过：junk
+- ⏭️ **galvan** `#49079` — 跳过：proper-out-of-scope
+- ⏭️ **nowdays** `#50774` — 跳过：junk
+- ✅ **subsume** `#51874` /səbˈsum/ 英 /səbˈsjuːm/ · sub·sume · C2 · 低置信
+  - v. 归入, 包含, 纳入 — *to include something within a larger group* `formal`
+  - <sub>词族: subsumption</sub>
+- ⏭️ **freestyling** `#53681` — 跳过：not-lemma
+- ✅ **highborn** `#54781` /ˈhaɪˌbɔrn/ 英 /ˈhaɪbɔːn/ · high·born · C2 · 低置信
+  - adj. 出身高贵的, 名门出身的 — *born into a noble or high-ranking family* `literary`
+  - <sub>变体: high-born</sub>
+- ⏭️ **sorte** `#57180` — 跳过：not-english
+- ⏭️ **pompei** `#57659` — 跳过：proper-out-of-scope
+- ✅ **multistory** `#58167` /ˈmʌltiˌstɔri/ 英 /ˌmʌltiˈstɔːri/ · mul·ti·sto·ry · C1
+  - adj. 多层的 — *having several floors* `us`
+  - <sub>词缀: multi- · 变体: multistorey, multi-storey</sub>
+- ✅ **broodmare** `#59602` /ˈbrudˌmɛr/ 英 /ˈbruːdmeə/ · brood·mare · C2 · 低置信
+  - n. 繁殖母马, 种母马 — *a female horse kept for breeding*
+  - <sub>变体: brood mare</sub>
+- ⏭️ **anns** `#60116` — 跳过：junk
+- ⏭️ **puf** `#61065` — 跳过：junk
+- ⏭️ **bue** `#61287` — 跳过：junk
+- ⏭️ **michy** `#61530` — 跳过：junk
+- ⏭️ **atoka** `#63505` — 跳过：proper-out-of-scope
+- ✅ **evolutionism** `#65444` /ˌɛvəˈluʃəˌnɪzəm/ 英 /ˌiːvəˈluːʃənɪzəm/ · ev·o·lu·tion·ism · C2 · 低置信
+  - n. 进化论, 进化主义 — *belief in the theory of biological evolution* `domain:生物`
+  - <sub>词族: evolution, evolutionist, evolutionary · 词缀: -ism</sub>
+- ⏭️ **oppai** `#66864` — 跳过：not-english
+- ⏭️ **dums** `#67816` — 跳过：junk
+- ⏭️ **bania** `#68312` — 跳过：junk
+- ✅ **looseleaf** `#72971` /ˈlusˌlif/ 英 /ˈluːsliːf/ · loose·leaf · C2 · 低置信
+  - adj. 活页的, 散页的 — *having pages that can be removed or added*
+  - <sub>变体: loose-leaf</sub>
+- ✅ **poststructuralism** `#74345` /ˌpoʊstˈstrʌktʃərəˌlɪzəm/ 英 /ˌpəʊstˈstrʌktʃərəlɪzəm/ · post·struc·tur·al·ism · C2 · 低置信
+  - n. 后结构主义 — *a theory challenging fixed structures of meaning in language* `domain:哲学`
+  - <sub>词族: poststructuralist, structuralism · 词缀: post- -ism · 变体: post-structuralism</sub>
+- ⏭️ **boza** `#76559` — 跳过：not-english
+- ⏭️ **bayona** `#77836` — 跳过：proper-out-of-scope
+- ✅ **trendiness** `#78360` /ˈtrɛndinəs/ 英 /ˈtrendinəs/ · trend·i·ness · C2 · 低置信
+  - n. 时髦, 新潮, 流行 — *the quality of being fashionable* `informal`
+  - <sub>词族: trend, trendy · 词缀: -ness</sub>
+- ⏭️ **maillet** `#78761` — 跳过：proper-out-of-scope
+- ✅ **prudery** `#78851` /ˈprudɚi/ 英 /ˈpruːdəri/ · prud·er·y · C2 · 低置信
+  - n. 过分拘谨, 假正经 — *being too easily shocked by sexual matters* `formal`
+  - <sub>词族: prude, prudish · 词缀: -ery</sub>
+- ✅ **prognosticator** `#79479` /prɑɡˈnɑstɪˌkeɪtɚ/ 英 /prɒɡˈnɒstɪkeɪtə/ · prog·nos·ti·ca·tor · C2 · 低置信
+  - n. 预言者, 预测者 — *a person who predicts future events* `formal`
+  - <sub>词族: prognosticate, prognostication, prognosis · 词缀: -or</sub>
+- ⏭️ **wkly** `#82792` — 跳过：abbr-rare
+- ⏭️ **schier** `#83284` — 跳过：junk
+- ✅ **unpasteurised** `#83997` /ʌnˈpæstʃəˌraɪzd/ 英 /ʌnˈpɑːstʃəraɪzd/ · un·pas·teur·ised · C2 · 低置信
+  - adj. 未经巴氏消毒的, 未消毒的 — *not heated to kill harmful bacteria* `uk`
+  - <sub>词族: pasteurise, pasteurisation · 词缀: un- · 变体: unpasteurized</sub>
+- ⏭️ **niebla** `#85070` — 跳过：not-english
+- ⏭️ **orzechowski** `#90229` — 跳过：proper-out-of-scope
+- ⏭️ **hanis** `#92023` — 跳过：junk
+- ⏭️ **bednarek** `#93117` — 跳过：proper-out-of-scope
+- ⏭️ **nnh** `#95953` — 跳过：junk
+- ⏭️ **makossa** `#97153` — 跳过：not-english
+- ✅ **grammaticality** `#98283` /ɡrəˌmætɪˈkæləti/ 英 /ɡrəˌmætɪˈkæləti/ · gram·mat·i·cal·i·ty · C2 · 低置信
+  - n. 合语法性, 语法正确性 — *the quality of following the rules of grammar* `domain:语言`
+  - <sub>词族: grammatical, grammar, ungrammatical, grammatically · 词缀: -ity</sub>
+- ⏭️ **saloum** `#98515` — 跳过：proper-out-of-scope
+- ✅ **wooer** `#99878` /ˈwuɚ/ 英 /ˈwuːə/ · woo·er · C2 · 低置信
+  - n. 求婚者, 追求者 — *a man who tries to win a woman's love* `dated`
+  - <sub>词族: woo · 词缀: -er</sub>
+- ⏭️ **jokhang** `#100189` — 跳过：proper-out-of-scope
+- ✅ **restfulness** `#102843` /ˈrɛstfəlnəs/ 英 /ˈrestflnəs/ · rest·ful·ness · C2 · 低置信
+  - n. 宁静, 安宁, 悠闲 — *the quality of being calm and relaxing*
+  - <sub>词族: rest, restful, restfully · 词缀: -ful -ness</sub>
+- ✅ **periastron** `#103456` /ˌpɛriˈæstrən/ 英 /ˌperiˈæstrən/ · per·i·as·tron · C2 · 低置信
+  - n. 近星点 — *the point in an orbit closest to the star* `domain:天文`

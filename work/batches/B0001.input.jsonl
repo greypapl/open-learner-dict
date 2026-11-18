@@ -1,0 +1,200 @@
+{"id": "w000001", "rank": 1, "word": "the", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["ðə", "ðʌ"]}
+{"id": "w000002", "rank": 2, "word": "to", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["tu", "tɪ"]}
+{"id": "w000003", "rank": 3, "word": "and", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["ənd", "ænd"]}
+{"id": "w000004", "rank": 4, "word": "of", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["ʌv"]}
+{"id": "w000005", "rank": 5, "word": "a", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["ə", "eɪ"]}
+{"id": "w000006", "rank": 6, "word": "in", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["ɪn", "ɪn"]}
+{"id": "w000007", "rank": 7, "word": "for", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["fɔr", "fɚ"]}
+{"id": "w000008", "rank": 8, "word": "that", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["ðæt", "ðət"]}
+{"id": "w000009", "rank": 9, "word": "you", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["ju"]}
+{"id": "w000010", "rank": 10, "word": "it", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["ɪt", "ɪt"]}
+{"id": "w000011", "rank": 11, "word": "on", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["ɑn", "ɔn"]}
+{"id": "w000012", "rank": 12, "word": "with", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["wɪð", "wɪθ"]}
+{"id": "w000013", "rank": 13, "word": "this", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["ðɪs", "ðɪs"]}
+{"id": "w000014", "rank": 14, "word": "was", "kind": "word", "exam_tags": [], "inflections": {}, "ipa_us_cmu": ["wɑz", "wəz"]}
+{"id": "w000015", "rank": 15, "word": "be", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"past": "was", "third_person": "is", "past_participle": "been", "present_participle": "being"}, "ipa_us_cmu": ["bi", "bi"]}
+{"id": "w000016", "rank": 16, "word": "as", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["æz", "ɛz"]}
+{"id": "w000017", "rank": 17, "word": "are", "kind": "word", "exam_tags": ["gk"], "inflections": {"plural": "ares"}, "ipa_us_cmu": ["ɑr", "ɚ"]}
+{"id": "w000018", "rank": 18, "word": "have", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"present_participle": "having", "past": "had", "third_person": "has", "past_participle": "had"}, "ipa_us_cmu": ["hæv"]}
+{"id": "w000019", "rank": 19, "word": "at", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["æt"]}
+{"id": "w000020", "rank": 20, "word": "he", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["hi"]}
+{"id": "w000021", "rank": 21, "word": "not", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["nɑt"]}
+{"id": "w000022", "rank": 22, "word": "by", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["baɪ"]}
+{"id": "w000023", "rank": 23, "word": "but", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["bʌt"]}
+{"id": "w000024", "rank": 24, "word": "from", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["frʌm"]}
+{"id": "w000025", "rank": 25, "word": "my", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["maɪ"]}
+{"id": "w000026", "rank": 26, "word": "or", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["ɔr", "ɚ"]}
+{"id": "w000027", "rank": 27, "word": "we", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["wi"]}
+{"id": "w000028", "rank": 28, "word": "an", "kind": "word", "exam_tags": [], "inflections": {}, "ipa_us_cmu": ["æn", "ən"]}
+{"id": "w000029", "rank": 29, "word": "your", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["jɔr", "jʊr"]}
+{"id": "w000030", "rank": 30, "word": "all", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["ɔl"]}
+{"id": "w000031", "rank": 31, "word": "so", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["soʊ"]}
+{"id": "w000032", "rank": 32, "word": "his", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["hɪz", "hɪz"]}
+{"id": "w000033", "rank": 33, "word": "they", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["ðeɪ"]}
+{"id": "w000034", "rank": 34, "word": "me", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "mes"}, "ipa_us_cmu": ["mi"]}
+{"id": "w000035", "rank": 35, "word": "if", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["ɪf", "ɪf"]}
+{"id": "w000036", "rank": 36, "word": "one", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "ones"}, "ipa_us_cmu": ["wʌn"]}
+{"id": "w000037", "rank": 37, "word": "can", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "cans", "present_participle": "", "past": "could", "past_participle": ""}, "ipa_us_cmu": ["kæn", "kən"]}
+{"id": "w000038", "rank": 38, "word": "will", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"present_participle": "willing", "past": "willed", "third_person": "wills", "past_participle": "willed"}, "ipa_us_cmu": ["wɪl", "wəl"]}
+{"id": "w000039", "rank": 39, "word": "just", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["dʒʌst", "dʒɪst"]}
+{"id": "w000040", "rank": 40, "word": "like", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"past": "liked", "third_person": "likes", "past_participle": "liked", "plural": "likes", "present_participle": "liking"}, "ipa_us_cmu": ["laɪk"]}
+{"id": "w000041", "rank": 41, "word": "about", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["əˈbaʊt"]}
+{"id": "w000042", "rank": 42, "word": "up", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"past_participle": "upped", "present_participle": "upping", "past": "upped", "plural": "ups"}, "ipa_us_cmu": ["ʌp"]}
+{"id": "w000043", "rank": 43, "word": "out", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"present_participle": "outing", "past": "outed", "third_person": "outs", "past_participle": "outed"}, "ipa_us_cmu": ["aʊt"]}
+{"id": "w000044", "rank": 44, "word": "what", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["wʌt", "hwʌt"]}
+{"id": "w000045", "rank": 45, "word": "when", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["wɛn", "hwɛn"]}
+{"id": "w000046", "rank": 46, "word": "more", "kind": "word", "exam_tags": ["zk"], "inflections": {}, "ipa_us_cmu": ["mɔr"]}
+{"id": "w000047", "rank": 47, "word": "do", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"present_participle": "doing", "past": "did", "third_person": "does", "past_participle": "done"}, "ipa_us_cmu": ["du"]}
+{"id": "w000048", "rank": 48, "word": "no", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["noʊ"]}
+{"id": "w000049", "rank": 49, "word": "who", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["hu"]}
+{"id": "w000050", "rank": 50, "word": "their", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["ðɛr"]}
+{"id": "w000051", "rank": 51, "word": "there", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["ðɛr"]}
+{"id": "w000052", "rank": 52, "word": "her", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"present_participle": "hering"}, "ipa_us_cmu": ["hɝ", "hɚ"]}
+{"id": "w000053", "rank": 53, "word": "which", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["wɪtʃ", "hwɪtʃ"]}
+{"id": "w000054", "rank": 54, "word": "time", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "times", "past_participle": "timed", "present_participle": "timing", "past": "timed", "third_person": "times"}, "ipa_us_cmu": ["taɪm"]}
+{"id": "w000055", "rank": 55, "word": "get", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"past_participle": "got", "past": "got", "present_participle": "getting", "third_person": "gets"}, "ipa_us_cmu": ["ɡɛt", "ɡɪt"]}
+{"id": "w000056", "rank": 56, "word": "would", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["wʊd"]}
+{"id": "w000057", "rank": 57, "word": "she", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["ʃi"]}
+{"id": "w000058", "rank": 58, "word": "new", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"comparative": "newer", "superlative": "newest"}, "ipa_us_cmu": ["nu", "nju"]}
+{"id": "w000059", "rank": 59, "word": "people", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "peoples", "present_participle": "peopling", "past": "peopled", "third_person": "peoples", "past_participle": "peopled"}, "ipa_us_cmu": ["ˈpipəl"]}
+{"id": "w000060", "rank": 60, "word": "how", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["haʊ"]}
+{"id": "w000061", "rank": 61, "word": "so-so", "kind": "word", "exam_tags": [], "inflections": {}, "ipa_us_cmu": ["ˈsoʊˈsoʊ"]}
+{"id": "w000062", "rank": 62, "word": "some", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["sʌm"]}
+{"id": "w000063", "rank": 63, "word": "also", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["ˈɔlsoʊ"]}
+{"id": "w000064", "rank": 64, "word": "so-and-so", "kind": "word", "exam_tags": [], "inflections": {"plural": "so-and-sos"}, "ipa_us_cmu": []}
+{"id": "w000065", "rank": 65, "word": "them", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "thems"}, "ipa_us_cmu": ["ðɛm", "ðəm"]}
+{"id": "w000066", "rank": 66, "word": "now", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["naʊ"]}
+{"id": "w000067", "rank": 67, "word": "other", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "others"}, "ipa_us_cmu": ["ˈʌðɚ"]}
+{"id": "w000068", "rank": 68, "word": "would-be", "kind": "word", "exam_tags": [], "inflections": {}, "ipa_us_cmu": []}
+{"id": "w000069", "rank": 69, "word": "one-to-one", "kind": "word", "exam_tags": [], "inflections": {}, "ipa_us_cmu": []}
+{"id": "w000070", "rank": 70, "word": "all-out", "kind": "word", "exam_tags": [], "inflections": {}, "ipa_us_cmu": ["ˈɔˈlaʊt"]}
+{"id": "w000071", "rank": 71, "word": "its", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["ɪts", "ɪts"]}
+{"id": "w000072", "rank": 72, "word": "our", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["ˈaʊɚ", "aʊr"]}
+{"id": "w000073", "rank": 73, "word": "than", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["ðæn", "ðən"]}
+{"id": "w000074", "rank": 74, "word": "good", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"superlative": "best", "comparative": "better"}, "ipa_us_cmu": ["ɡʊd", "ɡɪd"]}
+{"id": "w000075", "rank": 75, "word": "only", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["ˈoʊnli"]}
+{"id": "w000076", "rank": 76, "word": "after", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["ˈæftɚ"]}
+{"id": "w000077", "rank": 77, "word": "first", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["fɝst"]}
+{"id": "w000078", "rank": 78, "word": "him", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "hims"}, "ipa_us_cmu": ["hɪm", "ɪm"]}
+{"id": "w000079", "rank": 79, "word": "into", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["ˈɪntu", "ɪnˈtu"]}
+{"id": "w000080", "rank": 80, "word": "know", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"past": "knew", "past_participle": "known", "third_person": "knows", "present_participle": "knowing"}, "ipa_us_cmu": ["noʊ"]}
+{"id": "w000081", "rank": 81, "word": "see", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"past_participle": "seen", "past": "saw", "present_participle": "seeing", "third_person": "sees"}, "ipa_us_cmu": ["si"]}
+{"id": "w000082", "rank": 82, "word": "two", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["tu"]}
+{"id": "w000083", "rank": 83, "word": "all-time", "kind": "word", "exam_tags": [], "inflections": {}, "ipa_us_cmu": ["ˌɔlˈtaɪm"]}
+{"id": "w000084", "rank": 84, "word": "make", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"past_participle": "made", "past": "made", "present_participle": "making", "third_person": "makes"}, "ipa_us_cmu": ["meɪk"]}
+{"id": "w000085", "rank": 85, "word": "over", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "overs"}, "ipa_us_cmu": ["ˈoʊvɚ"]}
+{"id": "w000086", "rank": 86, "word": "think", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"past": "thought", "past_participle": "thought", "present_participle": "thinking", "third_person": "thinks"}, "ipa_us_cmu": ["θɪŋk"]}
+{"id": "w000087", "rank": 87, "word": "any", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["ˈɛni"]}
+{"id": "w000088", "rank": 88, "word": "one-time", "kind": "word", "exam_tags": [], "inflections": {}, "ipa_us_cmu": ["ˈwʌnˈtaɪm"]}
+{"id": "w000089", "rank": 89, "word": "then", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["ðɛn"]}
+{"id": "w000090", "rank": 90, "word": "could", "kind": "word", "exam_tags": ["zk"], "inflections": {}, "ipa_us_cmu": ["kʊd"]}
+{"id": "w000091", "rank": 91, "word": "back", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"past_participle": "backed", "plural": "backs", "past": "backed", "present_participle": "backing", "third_person": "backs"}, "ipa_us_cmu": ["bæk"]}
+{"id": "w000092", "rank": 92, "word": "these", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["ðiz"]}
+{"id": "w000093", "rank": 93, "word": "us", "kind": "word", "exam_tags": ["zk"], "inflections": {}, "ipa_us_cmu": ["ʌs", "ˌjuˈɛs"]}
+{"id": "w000094", "rank": 94, "word": "want", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"past": "wanted", "third_person": "wants", "past_participle": "wanted", "present_participle": "wanting"}, "ipa_us_cmu": ["wɑnt", "wɔnt"]}
+{"id": "w000095", "rank": 95, "word": "because", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["bɪˈkɔz", "bɪˈkʌz"]}
+{"id": "w000096", "rank": 96, "word": "get-up", "kind": "word", "exam_tags": [], "inflections": {}, "ipa_us_cmu": []}
+{"id": "w000097", "rank": 97, "word": "go", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"present_participle": "going", "past": "went", "past_participle": "gone", "third_person": "goes"}, "ipa_us_cmu": ["ɡoʊ"]}
+{"id": "w000098", "rank": 98, "word": "well", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "wells", "present_participle": "welling", "past": "welled", "third_person": "wells", "past_participle": "welled"}, "ipa_us_cmu": ["wɛl"]}
+{"id": "w000099", "rank": 99, "word": "way", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "ways"}, "ipa_us_cmu": ["weɪ"]}
+{"id": "w000100", "rank": 100, "word": "most", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["moʊst", "moʊs"]}
+{"id": "w000101", "rank": 101, "word": "much", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["mʌtʃ"]}
+{"id": "w000102", "rank": 102, "word": "very", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["ˈvɛri"]}
+{"id": "w000103", "rank": 103, "word": "where", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["wɛr", "hwɛr"]}
+{"id": "w000104", "rank": 104, "word": "even", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"present_participle": "evening", "past": "evened", "third_person": "evens", "past_participle": "evened"}, "ipa_us_cmu": ["ˈivɪn"]}
+{"id": "w000105", "rank": 105, "word": "should", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["ʃʊd"]}
+{"id": "w000106", "rank": 106, "word": "may", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["meɪ"]}
+{"id": "w000107", "rank": 107, "word": "here", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["hir"]}
+{"id": "w000108", "rank": 108, "word": "need", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "needs", "third_person": "needs", "past_participle": "needed", "past": "needed", "present_participle": "needing"}, "ipa_us_cmu": ["nid"]}
+{"id": "w000109", "rank": 109, "word": "really", "kind": "word", "exam_tags": ["zk"], "inflections": {}, "ipa_us_cmu": ["ˈrɪli", "ˈrili"]}
+{"id": "w000110", "rank": 110, "word": "know-all", "kind": "word", "exam_tags": [], "inflections": {"plural": "know-alls"}, "ipa_us_cmu": []}
+{"id": "w000111", "rank": 111, "word": "right", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "rights", "present_participle": "righting", "past": "righted", "third_person": "rights", "past_participle": "righted"}, "ipa_us_cmu": ["raɪt"]}
+{"id": "w000112", "rank": 112, "word": "work", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"present_participle": "working", "third_person": "works", "past": "worked", "past_participle": "worked"}, "ipa_us_cmu": ["wɝk"]}
+{"id": "w000113", "rank": 113, "word": "year", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "years"}, "ipa_us_cmu": ["jɪr"]}
+{"id": "w000114", "rank": 114, "word": "being", "kind": "word", "exam_tags": ["gk", "cet4", "ky"], "inflections": {"plural": "beings"}, "ipa_us_cmu": ["ˈbiɪŋ"]}
+{"id": "w000115", "rank": 115, "word": "day", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "days"}, "ipa_us_cmu": ["deɪ"]}
+{"id": "w000116", "rank": 116, "word": "too", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["tu"]}
+{"id": "w000117", "rank": 117, "word": "going", "kind": "word", "exam_tags": [], "inflections": {"plural": "goings"}, "ipa_us_cmu": ["ˈɡoʊɪŋ", "ˈɡoʊɪn"]}
+{"id": "w000118", "rank": 118, "word": "before", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["bɪˈfɔr", "ˌbiˈfɔr"]}
+{"id": "w000119", "rank": 119, "word": "off", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"present_participle": "offing", "past": "offed", "third_person": "offs", "past_participle": "offed"}, "ipa_us_cmu": ["ɔf"]}
+{"id": "w000120", "rank": 120, "word": "why", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["waɪ", "hwaɪ"]}
+{"id": "w000121", "rank": 121, "word": "made", "kind": "word", "exam_tags": [], "inflections": {"comparative": "mader"}, "ipa_us_cmu": ["meɪd"]}
+{"id": "w000122", "rank": 122, "word": "still", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "stills", "present_participle": "stilling", "past": "stilled", "third_person": "stills", "past_participle": "stilled"}, "ipa_us_cmu": ["stɪl"]}
+{"id": "w000123", "rank": 123, "word": "take", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"past": "took", "past_participle": "taken", "present_participle": "taking", "third_person": "takes"}, "ipa_us_cmu": ["teɪk"]}
+{"id": "w000124", "rank": 124, "word": "got", "kind": "word", "exam_tags": [], "inflections": {}, "ipa_us_cmu": ["ɡɑt"]}
+{"id": "w000125", "rank": 125, "word": "many", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["ˈmɛni"]}
+{"id": "w000126", "rank": 126, "word": "never", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["ˈnɛvɚ"]}
+{"id": "w000127", "rank": 127, "word": "right-on", "kind": "word", "exam_tags": [], "inflections": {"plural": "right-ons"}, "ipa_us_cmu": []}
+{"id": "w000128", "rank": 128, "word": "those", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["ðoʊz"]}
+{"id": "w000129", "rank": 129, "word": "life", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "lives"}, "ipa_us_cmu": ["laɪf"]}
+{"id": "w000130", "rank": 130, "word": "say", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"past": "said", "third_person": "says", "past_participle": "said", "present_participle": "saying"}, "ipa_us_cmu": ["seɪ"]}
+{"id": "w000131", "rank": 131, "word": "world", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "worlds"}, "ipa_us_cmu": ["wɝld"]}
+{"id": "w000132", "rank": 132, "word": "down", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "downs", "present_participle": "downing", "past": "downed", "third_person": "downs", "past_participle": "downed"}, "ipa_us_cmu": ["daʊn"]}
+{"id": "w000133", "rank": 133, "word": "great", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"comparative": "greater", "superlative": "greatest", "plural": "greats"}, "ipa_us_cmu": ["ɡreɪt"]}
+{"id": "w000134", "rank": 134, "word": "one-way", "kind": "word", "exam_tags": [], "inflections": {}, "ipa_us_cmu": ["ˈwʌnˈweɪ"]}
+{"id": "w000135", "rank": 135, "word": "through", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["θru"]}
+{"id": "w000136", "rank": 136, "word": "last", "kind": "word", "exam_tags": ["gk"], "inflections": {"past": "lasted", "third_person": "lasts", "present_participle": "lasting", "past_participle": "lasted"}, "ipa_us_cmu": ["læst", "læs"]}
+{"id": "w000137", "rank": 137, "word": "while", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["waɪl", "hwaɪl"]}
+{"id": "w000138", "rank": 138, "word": "well-to-do", "kind": "word", "exam_tags": [], "inflections": {}, "ipa_us_cmu": []}
+{"id": "w000139", "rank": 139, "word": "out-of-the-way", "kind": "word", "exam_tags": [], "inflections": {}, "ipa_us_cmu": []}
+{"id": "w000140", "rank": 140, "word": "such", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["sʌtʃ"]}
+{"id": "w000141", "rank": 141, "word": "love", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"past": "loved", "third_person": "loves", "past_participle": "loved", "present_participle": "loving", "plural": "loves"}, "ipa_us_cmu": ["lʌv"]}
+{"id": "w000142", "rank": 142, "word": "man", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "men", "past_participle": "manned", "present_participle": "manning", "past": "manned", "third_person": "mans"}, "ipa_us_cmu": ["mæn"]}
+{"id": "w000143", "rank": 143, "word": "one-off", "kind": "word", "exam_tags": [], "inflections": {"plural": "one-offs"}, "ipa_us_cmu": ["ˌwʌˈnɔf"]}
+{"id": "w000144", "rank": 144, "word": "home", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "homes", "present_participle": "homing", "past": "homed", "third_person": "homes", "past_participle": "homed"}, "ipa_us_cmu": ["hoʊm"]}
+{"id": "w000145", "rank": 145, "word": "long", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"comparative": "longer", "superlative": "longest", "past": "longed", "present_participle": "longing", "past_participle": "longed", "third_person": "longs"}, "ipa_us_cmu": ["lɔŋ"]}
+{"id": "w000146", "rank": 146, "word": "look", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"past": "looked", "present_participle": "looking", "third_person": "looks", "past_participle": "looked", "plural": "looks"}, "ipa_us_cmu": ["lʊk"]}
+{"id": "w000147", "rank": 147, "word": "something", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["ˈsʌmθɪŋ"]}
+{"id": "w000148", "rank": 148, "word": "use", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"past_participle": "used", "present_participle": "using", "past": "used", "third_person": "uses", "plural": "uses"}, "ipa_us_cmu": ["jus", "juz"]}
+{"id": "w000149", "rank": 149, "word": "same", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["seɪm"]}
+{"id": "w000150", "rank": 150, "word": "say-so", "kind": "word", "exam_tags": [], "inflections": {}, "ipa_us_cmu": []}
+{"id": "w000151", "rank": 151, "word": "used", "kind": "word", "exam_tags": ["zk", "cet4", "cet6", "ky"], "inflections": {}, "ipa_us_cmu": ["juzd"]}
+{"id": "w000152", "rank": 152, "word": "both", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["boʊθ"]}
+{"id": "w000153", "rank": 153, "word": "every", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["ˈɛvɚi", "ˈɛvri"]}
+{"id": "w000154", "rank": 154, "word": "AM", "kind": "abbr", "exam_tags": ["gk"], "inflections": {"plural": "ams", "comparative": "amer"}, "ipa_us_cmu": ["æm", "ˈeɪˈɛm"]}
+{"id": "w000155", "rank": 155, "word": "come", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"past": "came", "present_participle": "coming", "third_person": "comes"}, "ipa_us_cmu": ["kʌm"]}
+{"id": "w000156", "rank": 156, "word": "part", "kind": "word", "exam_tags": ["zk", "gk", "cet4", "ky"], "inflections": {"plural": "parts", "past_participle": "parted", "past": "parted", "present_participle": "parting", "third_person": "parts"}, "ipa_us_cmu": ["pɑrt"]}
+{"id": "w000157", "rank": 157, "word": "state", "kind": "word", "exam_tags": ["zk", "gk", "cet4", "cet6", "ky"], "inflections": {"plural": "states", "past": "stated", "past_participle": "stated", "third_person": "states", "present_participle": "stating"}, "ipa_us_cmu": ["steɪt"]}
+{"id": "w000158", "rank": 158, "word": "three", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["θri"]}
+{"id": "w000159", "rank": 159, "word": "around", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["ɚˈaʊnd", "ɚˈaʊn"]}
+{"id": "w000160", "rank": 160, "word": "between", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["bɪˈtwin", "biˈtwin"]}
+{"id": "w000161", "rank": 161, "word": "always", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["ˈɔlˌweɪz", "ˈɔlwiz"]}
+{"id": "w000162", "rank": 162, "word": "better", "kind": "word", "exam_tags": ["gk"], "inflections": {"past_participle": "bettered", "plural": "betters", "present_participle": "bettering", "past": "bettered", "third_person": "betters"}, "ipa_us_cmu": ["ˈbɛtɚ"]}
+{"id": "w000163", "rank": 163, "word": "find", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"past_participle": "found", "past": "found", "present_participle": "finding", "third_person": "finds", "plural": "finds"}, "ipa_us_cmu": ["faɪnd"]}
+{"id": "w000164", "rank": 164, "word": "help", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"past_participle": "helped", "present_participle": "helping", "past": "helped", "third_person": "helps", "plural": "helps"}, "ipa_us_cmu": ["hɛlp"]}
+{"id": "w000165", "rank": 165, "word": "high", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"comparative": "higher", "superlative": "highest", "plural": "highs"}, "ipa_us_cmu": ["haɪ"]}
+{"id": "w000166", "rank": 166, "word": "little", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["ˈlɪtəl"]}
+{"id": "w000167", "rank": 167, "word": "old", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"comparative": "older", "superlative": "oldest", "plural": "olds"}, "ipa_us_cmu": ["oʊld"]}
+{"id": "w000168", "rank": 168, "word": "since", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["sɪns"]}
+{"id": "w000169", "rank": 169, "word": "two-way", "kind": "word", "exam_tags": [], "inflections": {}, "ipa_us_cmu": ["ˈtuˌweɪ"]}
+{"id": "w000170", "rank": 170, "word": "another", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["əˈnʌðɚ"]}
+{"id": "w000171", "rank": 171, "word": "own", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"past_participle": "owned", "third_person": "owns", "past": "owned", "present_participle": "owning"}, "ipa_us_cmu": ["oʊn"]}
+{"id": "w000172", "rank": 172, "word": "go-go", "kind": "word", "exam_tags": [], "inflections": {"third_person": "go-gos"}, "ipa_us_cmu": []}
+{"id": "w000173", "rank": 173, "word": "one-man", "kind": "word", "exam_tags": [], "inflections": {}, "ipa_us_cmu": ["ˈwʌnˈmæn"]}
+{"id": "w000174", "rank": 174, "word": "under", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["ˈʌndɚ"]}
+{"id": "w000175", "rank": 175, "word": "during", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["ˈdʊrɪŋ", "ˈdjʊrɪŋ"]}
+{"id": "w000176", "rank": 176, "word": "game", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "games", "present_participle": "gaming", "past": "gamed", "third_person": "games", "past_participle": "gamed"}, "ipa_us_cmu": ["ɡeɪm"]}
+{"id": "w000177", "rank": 177, "word": "thing", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "things"}, "ipa_us_cmu": ["θɪŋ"]}
+{"id": "w000178", "rank": 178, "word": "give", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"past_participle": "given", "past": "gave", "present_participle": "giving", "third_person": "gives"}, "ipa_us_cmu": ["ɡɪv"]}
+{"id": "w000179", "rank": 179, "word": "house", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "houses", "present_participle": "housing", "past_participle": "housed", "third_person": "houses", "past": "housed"}, "ipa_us_cmu": ["haʊs"]}
+{"id": "w000180", "rank": 180, "word": "place", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "places", "past_participle": "placed", "present_participle": "placing", "past": "placed", "third_person": "places"}, "ipa_us_cmu": ["pleɪs"]}
+{"id": "w000181", "rank": 181, "word": "school", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "schools", "present_participle": "schooling", "past_participle": "schooled", "past": "schooled", "third_person": "schools"}, "ipa_us_cmu": ["skul"]}
+{"id": "w000182", "rank": 182, "word": "again", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["əˈɡɛn", "əˈɡeɪn"]}
+{"id": "w000183", "rank": 183, "word": "next", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["nɛkst", "nɛks"]}
+{"id": "w000184", "rank": 184, "word": "Mr", "kind": "proper", "exam_tags": [], "inflections": {}, "ipa_us_cmu": ["ˈmɪstɚ"]}
+{"id": "w000185", "rank": 185, "word": "each", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["itʃ"]}
+{"id": "w000186", "rank": 186, "word": "well-being", "kind": "word", "exam_tags": [], "inflections": {}, "ipa_us_cmu": ["ˌwɛlˈbiɪŋ"]}
+{"id": "w000187", "rank": 187, "word": "without", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["wɪˈθaʊt", "wɪˈðaʊt"]}
+{"id": "w000188", "rank": 188, "word": "against", "kind": "word", "exam_tags": ["zk", "gk", "cet4", "ky"], "inflections": {}, "ipa_us_cmu": ["əˈɡɛnst", "əˈɡeɪnst"]}
+{"id": "w000189", "rank": 189, "word": "end", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"past": "ended", "plural": "ends", "past_participle": "ended", "present_participle": "ending", "third_person": "ends"}, "ipa_us_cmu": ["ɛnd"]}
+{"id": "w000190", "rank": 190, "word": "found", "kind": "word", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {"past_participle": "founded", "past": "founded", "present_participle": "founding", "third_person": "founds"}, "ipa_us_cmu": ["faʊnd"]}
+{"id": "w000191", "rank": 191, "word": "must", "kind": "word", "exam_tags": ["zk"], "inflections": {}, "ipa_us_cmu": ["mʌst"]}
+{"id": "w000192", "rank": 192, "word": "show", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"past_participle": "shown", "past": "showed", "third_person": "shows", "present_participle": "showing", "plural": "shows"}, "ipa_us_cmu": ["ʃoʊ"]}
+{"id": "w000193", "rank": 193, "word": "well-off", "kind": "word", "exam_tags": [], "inflections": {}, "ipa_us_cmu": []}
+{"id": "w000194", "rank": 194, "word": "big", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"superlative": "biggest", "comparative": "bigger"}, "ipa_us_cmu": ["bɪɡ"]}
+{"id": "w000195", "rank": 195, "word": "feel", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"past": "felt", "present_participle": "feeling", "past_participle": "felt", "third_person": "feels"}, "ipa_us_cmu": ["fil"]}
+{"id": "w000196", "rank": 196, "word": "see-through", "kind": "word", "exam_tags": [], "inflections": {"plural": "see-throughs"}, "ipa_us_cmu": []}
+{"id": "w000197", "rank": 197, "word": "sure", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"superlative": "surest", "comparative": "surer"}, "ipa_us_cmu": ["ʃʊr"]}
+{"id": "w000198", "rank": 198, "word": "team", "kind": "word", "exam_tags": ["zk", "gk", "cet4", "cet6", "ky"], "inflections": {"plural": "teams", "past_participle": "teamed", "past": "teamed", "present_participle": "teaming", "third_person": "teams"}, "ipa_us_cmu": ["tim"]}
+{"id": "w000199", "rank": 199, "word": "ever", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["ˈɛvɚ"]}
+{"id": "w000200", "rank": 200, "word": "family", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "families"}, "ipa_us_cmu": ["ˈfæməli", "ˈfæmli"]}

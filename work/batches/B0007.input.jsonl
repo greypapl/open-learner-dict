@@ -1,0 +1,200 @@
+{"id": "w001204", "rank": 1204, "word": "literally", "kind": "word", "exam_tags": ["cet6", "ky"], "inflections": {}, "ipa_us_cmu": ["ˈlɪtɚəli", "ˈlɪtrəli"]}
+{"id": "w001205", "rank": 1205, "word": "low-key", "kind": "word", "exam_tags": [], "inflections": {}, "ipa_us_cmu": []}
+{"id": "w001206", "rank": 1206, "word": "low-paid", "kind": "word", "exam_tags": [], "inflections": {}, "ipa_us_cmu": []}
+{"id": "w001207", "rank": 1207, "word": "luck", "kind": "word", "exam_tags": ["zk", "gk", "cet4", "ky"], "inflections": {}, "ipa_us_cmu": ["lʌk"]}
+{"id": "w001208", "rank": 1208, "word": "marriage", "kind": "word", "exam_tags": ["zk", "gk", "cet4", "cet6", "ky"], "inflections": {"plural": "marriages"}, "ipa_us_cmu": ["ˈmɛrɪdʒ"]}
+{"id": "w001209", "rank": 1209, "word": "necessary", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "necessaries"}, "ipa_us_cmu": ["ˈnɛsəˌsɛri"]}
+{"id": "w001210", "rank": 1210, "word": "rich", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"comparative": "richer", "superlative": "richest"}, "ipa_us_cmu": ["rɪtʃ"]}
+{"id": "w001211", "rank": 1211, "word": "self-interest", "kind": "word", "exam_tags": [], "inflections": {"plural": "self-interests"}, "ipa_us_cmu": ["ˈsɛlˈfɪntrəst"]}
+{"id": "w001212", "rank": 1212, "word": "short-range", "kind": "word", "exam_tags": [], "inflections": {}, "ipa_us_cmu": []}
+{"id": "w001213", "rank": 1213, "word": "skin", "kind": "word", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {"plural": "skins", "past": "skinned", "present_participle": "skinning", "past_participle": "skinned", "third_person": "skins"}, "ipa_us_cmu": ["skɪn"]}
+{"id": "w001214", "rank": 1214, "word": "speaking", "kind": "word", "exam_tags": [], "inflections": {"plural": "speakings"}, "ipa_us_cmu": ["ˈspikɪŋ"]}
+{"id": "w001215", "rank": 1215, "word": "supposed", "kind": "word", "exam_tags": [], "inflections": {}, "ipa_us_cmu": ["səˈpoʊzd"]}
+{"id": "w001216", "rank": 1216, "word": "sweet", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "sweets", "comparative": "sweeter", "superlative": "sweetest"}, "ipa_us_cmu": ["swit"]}
+{"id": "w001217", "rank": 1217, "word": "thus", "kind": "word", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {}, "ipa_us_cmu": ["ðʌs"]}
+{"id": "w001218", "rank": 1218, "word": "touch", "kind": "word", "exam_tags": ["zk", "gk", "cet4", "cet6", "ky"], "inflections": {"past": "touched", "past_participle": "touched", "present_participle": "touching", "plural": "touches", "third_person": "touches"}, "ipa_us_cmu": ["tʌtʃ"]}
+{"id": "w001219", "rank": 1219, "word": "world-wide", "kind": "word", "exam_tags": ["cet4", "cet6"], "inflections": {}, "ipa_us_cmu": []}
+{"id": "w001220", "rank": 1220, "word": "yesterday", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["ˈjɛstɚˌdeɪ", "ˈjɛstɚdi"]}
+{"id": "w001221", "rank": 1221, "word": "Germany", "kind": "proper", "exam_tags": ["gk", "cet4", "cet6"], "inflections": {}, "ipa_us_cmu": ["ˈdʒɝməni"]}
+{"id": "w001222", "rank": 1222, "word": "closed", "kind": "word", "exam_tags": [], "inflections": {}, "ipa_us_cmu": ["kloʊzd"]}
+{"id": "w001223", "rank": 1223, "word": "co-star", "kind": "word", "exam_tags": [], "inflections": {"plural": "co-stars", "present_participle": "co-starring", "past": "co-starred", "third_person": "co-stars", "past_participle": "co-starred"}, "ipa_us_cmu": []}
+{"id": "w001224", "rank": 1224, "word": "congress", "kind": "word", "exam_tags": ["cet4", "cet6", "ky"], "inflections": {"plural": "congresses"}, "ipa_us_cmu": ["ˈkɑŋɡrəs"]}
+{"id": "w001225", "rank": 1225, "word": "damage", "kind": "word", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {"plural": "damages", "past_participle": "damaged", "present_participle": "damaging", "past": "damaged", "third_person": "damages"}, "ipa_us_cmu": ["ˈdæmədʒ", "ˈdæmɪdʒ"]}
+{"id": "w001226", "rank": 1226, "word": "directly", "kind": "word", "exam_tags": ["cet4", "cet6", "ky"], "inflections": {}, "ipa_us_cmu": ["dɚˈɛktli", "diˈrɛkli"]}
+{"id": "w001227", "rank": 1227, "word": "disease", "kind": "word", "exam_tags": ["zk", "gk", "cet4", "cet6", "ky"], "inflections": {"plural": "diseases"}, "ipa_us_cmu": ["dɪˈziz"]}
+{"id": "w001228", "rank": 1228, "word": "doctor", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "doctors", "present_participle": "doctoring", "past": "doctored", "third_person": "doctors", "past_participle": "doctored"}, "ipa_us_cmu": ["ˈdɑktɚ", "ˈdɔktɚ"]}
+{"id": "w001229", "rank": 1229, "word": "doubt", "kind": "word", "exam_tags": ["zk", "gk", "cet4", "cet6", "ky"], "inflections": {"plural": "doubts", "past": "doubted", "past_participle": "doubted", "present_participle": "doubting", "third_person": "doubts"}, "ipa_us_cmu": ["daʊt"]}
+{"id": "w001230", "rank": 1230, "word": "drink", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "drinks", "present_participle": "drinking", "past": "drank", "past_participle": "drunk", "third_person": "drinks"}, "ipa_us_cmu": ["drɪŋk"]}
+{"id": "w001231", "rank": 1231, "word": "driving", "kind": "word", "exam_tags": [], "inflections": {}, "ipa_us_cmu": ["ˈdraɪvɪŋ"]}
+{"id": "w001232", "rank": 1232, "word": "established", "kind": "word", "exam_tags": [], "inflections": {}, "ipa_us_cmu": ["ɪˈstæblɪʃt"]}
+{"id": "w001234", "rank": 1234, "word": "fish", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "fishes", "past": "fished", "present_participle": "fishing", "past_participle": "fished", "third_person": "fishes"}, "ipa_us_cmu": ["fɪʃ"]}
+{"id": "w001235", "rank": 1235, "word": "gay", "kind": "word", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {"plural": "gays"}, "ipa_us_cmu": ["ɡeɪ"]}
+{"id": "w001236", "rank": 1236, "word": "glad", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"comparative": "gladder"}, "ipa_us_cmu": ["ɡlæd"]}
+{"id": "w001238", "rank": 1238, "word": "grow", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"past": "grew", "past_participle": "grown", "present_participle": "growing", "third_person": "grows"}, "ipa_us_cmu": ["ɡroʊ"]}
+{"id": "w001239", "rank": 1239, "word": "machine", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "machines", "past_participle": "machined", "present_participle": "machining", "past": "machined", "third_person": "machines"}, "ipa_us_cmu": ["məˈʃin"]}
+{"id": "w001240", "rank": 1240, "word": "notice", "kind": "word", "exam_tags": ["zk", "gk", "cet4", "cet6", "ky"], "inflections": {"past": "noticed", "past_participle": "noticed", "present_participle": "noticing", "plural": "notices", "third_person": "notices"}, "ipa_us_cmu": ["ˈnoʊtəs", "ˈnoʊtɪs"]}
+{"id": "w001241", "rank": 1241, "word": "overall", "kind": "word", "exam_tags": ["cet4", "cet6", "ky"], "inflections": {"plural": "overalls"}, "ipa_us_cmu": ["ˈoʊvɚˌɔl"]}
+{"id": "w001242", "rank": 1242, "word": "planning", "kind": "word", "exam_tags": [], "inflections": {}, "ipa_us_cmu": ["ˈplænɪŋ"]}
+{"id": "w001243", "rank": 1243, "word": "professor", "kind": "word", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {"plural": "professors"}, "ipa_us_cmu": ["prəˈfɛsɚ"]}
+{"id": "w001244", "rank": 1244, "word": "side-effect", "kind": "word", "exam_tags": [], "inflections": {"plural": "side-effects"}, "ipa_us_cmu": []}
+{"id": "w001245", "rank": 1245, "word": "sit", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"past": "sat", "present_participle": "sitting", "third_person": "sits", "past_participle": "sat"}, "ipa_us_cmu": ["sɪt"]}
+{"id": "w001246", "rank": 1246, "word": "sit-in", "kind": "word", "exam_tags": [], "inflections": {"plural": "sit-ins"}, "ipa_us_cmu": []}
+{"id": "w001247", "rank": 1247, "word": "trip", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "trips", "present_participle": "tripping", "past": "tripped", "third_person": "trips", "past_participle": "tripped"}, "ipa_us_cmu": ["trɪp"]}
+{"id": "w001248", "rank": 1248, "word": "Japan", "kind": "proper", "exam_tags": ["zk", "gk"], "inflections": {"present_participle": "japanning", "past": "japanned", "third_person": "japans", "past_participle": "japanned"}, "ipa_us_cmu": ["dʒəˈpæn"]}
+{"id": "w001249", "rank": 1249, "word": "Mrs", "kind": "proper", "exam_tags": [], "inflections": {}, "ipa_us_cmu": ["ˈmɪsɪz"]}
+{"id": "w001251", "rank": 1251, "word": "associated", "kind": "word", "exam_tags": [], "inflections": {}, "ipa_us_cmu": ["əˈsoʊsiˌeɪtɪd", "əˈsoʊʃiˌeɪtɪd"]}
+{"id": "w001252", "rank": 1252, "word": "basic", "kind": "word", "exam_tags": ["zk", "gk", "cet4", "ky"], "inflections": {"plural": "basics"}, "ipa_us_cmu": ["ˈbeɪsɪk"]}
+{"id": "w001253", "rank": 1253, "word": "captain", "kind": "word", "exam_tags": ["zk", "gk", "cet4", "cet6", "ky"], "inflections": {"plural": "captains", "past": "captained", "past_participle": "captained", "present_participle": "captaining", "third_person": "captains"}, "ipa_us_cmu": ["ˈkæptən"]}
+{"id": "w001254", "rank": 1254, "word": "carry", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"past_participle": "carried", "present_participle": "carrying", "past": "carried", "third_person": "carries"}, "ipa_us_cmu": ["ˈkæri", "ˈkɛri"]}
+{"id": "w001255", "rank": 1255, "word": "crime", "kind": "word", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {"plural": "crimes"}, "ipa_us_cmu": ["kraɪm"]}
+{"id": "w001256", "rank": 1256, "word": "effective", "kind": "word", "exam_tags": ["cet4", "cet6", "ky"], "inflections": {}, "ipa_us_cmu": ["ɪˈfɛktɪv", "ˈifɛktɪv"]}
+{"id": "w001257", "rank": 1257, "word": "explain", "kind": "word", "exam_tags": ["zk", "gk", "cet4", "cet6", "ky"], "inflections": {"past": "explained", "past_participle": "explained", "third_person": "explains", "present_participle": "explaining"}, "ipa_us_cmu": ["ɪkˈspleɪn"]}
+{"id": "w001258", "rank": 1258, "word": "fully", "kind": "word", "exam_tags": [], "inflections": {}, "ipa_us_cmu": ["ˈfʊli"]}
+{"id": "w001259", "rank": 1259, "word": "highly", "kind": "word", "exam_tags": ["cet4", "cet6", "ky"], "inflections": {}, "ipa_us_cmu": ["ˈhaɪli"]}
+{"id": "w001260", "rank": 1260, "word": "holding", "kind": "word", "exam_tags": [], "inflections": {"plural": "holdings"}, "ipa_us_cmu": ["ˈhoʊldɪŋ"]}
+{"id": "w001261", "rank": 1261, "word": "in-laws", "kind": "word", "exam_tags": [], "inflections": {}, "ipa_us_cmu": ["ɪnˈlɔz"]}
+{"id": "w001262", "rank": 1262, "word": "male", "kind": "word", "exam_tags": ["gk", "cet4", "ky"], "inflections": {"plural": "males"}, "ipa_us_cmu": ["meɪl"]}
+{"id": "w001263", "rank": 1263, "word": "plant", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "plants", "past_participle": "planted", "present_participle": "planting", "past": "planted", "third_person": "plants"}, "ipa_us_cmu": ["plænt"]}
+{"id": "w001264", "rank": 1264, "word": "pro-life", "kind": "word", "exam_tags": [], "inflections": {}, "ipa_us_cmu": []}
+{"id": "w001265", "rank": 1265, "word": "reality", "kind": "word", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {"plural": "realities"}, "ipa_us_cmu": ["ˌriˈæləˌti"]}
+{"id": "w001266", "rank": 1266, "word": "smith", "kind": "word", "exam_tags": [], "inflections": {"plural": "smiths"}, "ipa_us_cmu": ["smɪθ"]}
+{"id": "w001267", "rank": 1267, "word": "spot", "kind": "word", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {"plural": "spots", "past": "spotted", "past_participle": "spotted", "present_participle": "spotting", "third_person": "spots"}, "ipa_us_cmu": ["spɑt"]}
+{"id": "w001268", "rank": 1268, "word": "spot-on", "kind": "word", "exam_tags": [], "inflections": {}, "ipa_us_cmu": []}
+{"id": "w001269", "rank": 1269, "word": "winter", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "winters", "present_participle": "wintering", "past": "wintered", "third_person": "winters", "past_participle": "wintered"}, "ipa_us_cmu": ["ˈwɪntɚ"]}
+{"id": "w001270", "rank": 1270, "word": "worse", "kind": "word", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {}, "ipa_us_cmu": ["wɝs"]}
+{"id": "w001271", "rank": 1271, "word": "Christian", "kind": "proper", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {"plural": "christians"}, "ipa_us_cmu": ["ˈkrɪstʃən", "ˈkrɪstʃɪn"]}
+{"id": "w001272", "rank": 1272, "word": "advice", "kind": "word", "exam_tags": ["zk", "gk", "cet4", "cet6", "ky"], "inflections": {}, "ipa_us_cmu": ["ædˈvaɪs", "ədˈvaɪs"]}
+{"id": "w001273", "rank": 1273, "word": "agreement", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "agreements"}, "ipa_us_cmu": ["əˈɡrimənt"]}
+{"id": "w001274", "rank": 1274, "word": "award", "kind": "word", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {"past_participle": "awarded", "plural": "awards", "past": "awarded", "present_participle": "awarding", "third_person": "awards"}, "ipa_us_cmu": ["əˈwɔrd"]}
+{"id": "w001275", "rank": 1275, "word": "block", "kind": "word", "exam_tags": ["gk"], "inflections": {"plural": "blocks", "past_participle": "blocked", "present_participle": "blocking", "past": "blocked", "third_person": "blocks"}, "ipa_us_cmu": ["blɑk"]}
+{"id": "w001276", "rank": 1276, "word": "broken", "kind": "word", "exam_tags": ["gk", "cet4"], "inflections": {}, "ipa_us_cmu": ["ˈbroʊkən"]}
+{"id": "w001277", "rank": 1277, "word": "challenge", "kind": "word", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {"plural": "challenges", "past_participle": "challenged", "past": "challenged", "present_participle": "challenging", "third_person": "challenges"}, "ipa_us_cmu": ["ˈtʃæləndʒ"]}
+{"id": "w001278", "rank": 1278, "word": "comment", "kind": "word", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {"plural": "comments", "past": "commented", "present_participle": "commenting", "past_participle": "commented", "third_person": "comments"}, "ipa_us_cmu": ["ˈkɑmɛnt"]}
+{"id": "w001279", "rank": 1279, "word": "cross-country", "kind": "word", "exam_tags": [], "inflections": {"plural": "cross-countries"}, "ipa_us_cmu": ["ˈkrɔˌskʌntri"]}
+{"id": "w001280", "rank": 1280, "word": "equipment", "kind": "word", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {"plural": "equipments"}, "ipa_us_cmu": ["ɪˈkwɪpmənt"]}
+{"id": "w001281", "rank": 1281, "word": "eventually", "kind": "word", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {}, "ipa_us_cmu": ["ɪˈvɛntʃəwəli", "ɪˈvɛnʃəli"]}
+{"id": "w001282", "rank": 1282, "word": "holy", "kind": "word", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {"superlative": "holiest", "comparative": "holier", "plural": "holies"}, "ipa_us_cmu": ["ˈhoʊli"]}
+{"id": "w001283", "rank": 1283, "word": "killing", "kind": "word", "exam_tags": [], "inflections": {"plural": "killings"}, "ipa_us_cmu": ["ˈkɪlɪŋ"]}
+{"id": "w001284", "rank": 1284, "word": "nation", "kind": "word", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {"plural": "nations"}, "ipa_us_cmu": ["ˈneɪʃən"]}
+{"id": "w001285", "rank": 1285, "word": "otherwise", "kind": "word", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {}, "ipa_us_cmu": ["ˈʌðɚˌwaɪz"]}
+{"id": "w001286", "rank": 1286, "word": "peter", "kind": "word", "exam_tags": [], "inflections": {"third_person": "peters", "past": "petered", "past_participle": "petered"}, "ipa_us_cmu": ["ˈpitɚ"]}
+{"id": "w001287", "rank": 1287, "word": "primary", "kind": "word", "exam_tags": ["zk", "gk", "cet4", "cet6", "ky"], "inflections": {"plural": "primaries"}, "ipa_us_cmu": ["ˈpraɪˌmɛri"]}
+{"id": "w001288", "rank": 1288, "word": "purpose", "kind": "word", "exam_tags": ["zk", "gk", "cet4", "cet6", "ky"], "inflections": {"plural": "purposes", "present_participle": "purposing", "past": "purposed", "third_person": "purposes", "past_participle": "purposed"}, "ipa_us_cmu": ["ˈpɝpəs"]}
+{"id": "w001289", "rank": 1289, "word": "responsible", "kind": "word", "exam_tags": ["cet4", "cet6", "ky"], "inflections": {}, "ipa_us_cmu": ["riˈspɑnsəbəl"]}
+{"id": "w001290", "rank": 1290, "word": "shop", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "shops", "present_participle": "shopping", "past": "shopped", "third_person": "shops", "past_participle": "shopped"}, "ipa_us_cmu": ["ʃɑp"]}
+{"id": "w001291", "rank": 1291, "word": "sick", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"comparative": "sicker", "superlative": "sickest", "present_participle": "", "past": "", "third_person": "sicks", "past_participle": ""}, "ipa_us_cmu": ["sɪk"]}
+{"id": "w001292", "rank": 1292, "word": "teacher", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "teachers"}, "ipa_us_cmu": ["ˈtitʃɚ"]}
+{"id": "w001293", "rank": 1293, "word": "theory", "kind": "word", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {"plural": "theories"}, "ipa_us_cmu": ["ˈθɪri", "ˈθiɚi"]}
+{"id": "w001294", "rank": 1294, "word": "under-secretary", "kind": "word", "exam_tags": [], "inflections": {"plural": "under-secretaries"}, "ipa_us_cmu": []}
+{"id": "w001296", "rank": 1296, "word": "Saturday", "kind": "proper", "exam_tags": ["zk", "gk"], "inflections": {"plural": "saturdays"}, "ipa_us_cmu": ["ˈsætɚdi", "ˈsæˌtɪˌdeɪ"]}
+{"id": "w001297", "rank": 1297, "word": "agency", "kind": "word", "exam_tags": ["gk", "cet4", "ky"], "inflections": {"plural": "agencies"}, "ipa_us_cmu": ["ˈeɪdʒənsi"]}
+{"id": "w001298", "rank": 1298, "word": "avoid", "kind": "word", "exam_tags": ["zk", "gk", "cet4", "ky"], "inflections": {"past_participle": "avoided", "present_participle": "avoiding", "past": "avoided", "third_person": "avoids"}, "ipa_us_cmu": ["əˈvɔɪd"]}
+{"id": "w001299", "rank": 1299, "word": "camera", "kind": "word", "exam_tags": ["zk", "gk", "cet4", "cet6", "ky"], "inflections": {"plural": "cameras"}, "ipa_us_cmu": ["ˈkæmɚə", "ˈkæmrə"]}
+{"id": "w001300", "rank": 1300, "word": "catch", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"past_participle": "caught", "past": "caught", "present_participle": "catching", "third_person": "catches", "plural": "catches"}, "ipa_us_cmu": ["kætʃ"]}
+{"id": "w001301", "rank": 1301, "word": "cell", "kind": "word", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {"plural": "cells"}, "ipa_us_cmu": ["sɛl"]}
+{"id": "w001302", "rank": 1302, "word": "coast", "kind": "word", "exam_tags": ["zk", "gk", "cet4", "cet6", "ky"], "inflections": {"plural": "coasts", "present_participle": "coasting", "past": "coasted", "third_person": "coasts", "past_participle": "coasted"}, "ipa_us_cmu": ["koʊst"]}
+{"id": "w001303", "rank": 1303, "word": "drug", "kind": "word", "exam_tags": ["zk", "gk", "cet4", "cet6", "ky"], "inflections": {"plural": "drugs", "past_participle": "drugged", "past": "drugged", "present_participle": "drugging", "third_person": "drugs"}, "ipa_us_cmu": ["drʌɡ"]}
+{"id": "w001304", "rank": 1304, "word": "economy", "kind": "word", "exam_tags": ["cet4", "cet6", "ky"], "inflections": {"plural": "economies"}, "ipa_us_cmu": ["ɪˈkɑnəmi", "iˈkɑnəmi"]}
+{"id": "w001305", "rank": 1305, "word": "environment", "kind": "word", "exam_tags": ["zk", "gk", "cet4", "cet6", "ky"], "inflections": {"plural": "environments"}, "ipa_us_cmu": ["ɪnˈvaɪrənmənt"]}
+{"id": "w001306", "rank": 1306, "word": "executive", "kind": "word", "exam_tags": ["cet4", "cet6", "ky"], "inflections": {"plural": "executives"}, "ipa_us_cmu": ["ɪɡˈzɛkjətɪv"]}
+{"id": "w001307", "rank": 1307, "word": "foot", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "feet", "present_participle": "footing", "past": "footed", "third_person": "foots", "past_participle": "footed"}, "ipa_us_cmu": ["fʊt"]}
+{"id": "w001308", "rank": 1308, "word": "hall", "kind": "word", "exam_tags": ["zk", "gk", "cet4", "cet6", "ky"], "inflections": {"plural": "halls", "present_participle": "halling"}, "ipa_us_cmu": ["hɔl"]}
+{"id": "w001309", "rank": 1309, "word": "keep-fit", "kind": "word", "exam_tags": [], "inflections": {}, "ipa_us_cmu": []}
+{"id": "w001310", "rank": 1310, "word": "mass", "kind": "word", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {"plural": "masses", "present_participle": "massing", "past_participle": "massed", "past": "massed", "third_person": "masses"}, "ipa_us_cmu": ["mæs"]}
+{"id": "w001311", "rank": 1311, "word": "meaning", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "meanings"}, "ipa_us_cmu": ["ˈminɪŋ"]}
+{"id": "w001312", "rank": 1312, "word": "mission", "kind": "word", "exam_tags": ["cet4", "cet6", "ky"], "inflections": {"plural": "missions"}, "ipa_us_cmu": ["ˈmɪʃən"]}
+{"id": "w001313", "rank": 1313, "word": "nine", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["naɪn"]}
+{"id": "w001314", "rank": 1314, "word": "politics", "kind": "word", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {}, "ipa_us_cmu": ["ˈpɑləˌtɪks"]}
+{"id": "w001315", "rank": 1315, "word": "pop", "kind": "word", "exam_tags": ["zk", "cet4", "cet6", "ky"], "inflections": {"past": "popped", "present_participle": "popping", "plural": "pops", "third_person": "pops", "past_participle": "popped"}, "ipa_us_cmu": ["pɑp"]}
+{"id": "w001316", "rank": 1316, "word": "status", "kind": "word", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {}, "ipa_us_cmu": ["ˈstætəs", "ˈsteɪtəs"]}
+{"id": "w001317", "rank": 1317, "word": "therefore", "kind": "word", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {}, "ipa_us_cmu": ["ˈðɛrˌfɔr"]}
+{"id": "w001318", "rank": 1318, "word": "trial", "kind": "word", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {"plural": "trials", "past": "trialled"}, "ipa_us_cmu": ["ˈtraɪəl", "traɪl"]}
+{"id": "w001319", "rank": 1319, "word": "truly", "kind": "word", "exam_tags": ["gk", "cet4", "cet6"], "inflections": {}, "ipa_us_cmu": ["ˈtruli"]}
+{"id": "w001320", "rank": 1320, "word": "weather", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"past_participle": "weathered", "plural": "weathers", "past": "weathered", "present_participle": "weathering", "third_person": "weathers"}, "ipa_us_cmu": ["ˈwɛðɚ"]}
+{"id": "w001321", "rank": 1321, "word": "well-established", "kind": "word", "exam_tags": [], "inflections": {}, "ipa_us_cmu": []}
+{"id": "w001322", "rank": 1322, "word": "APP", "kind": "abbr", "exam_tags": [], "inflections": {"third_person": "apps", "plural": "apps"}, "ipa_us_cmu": ["æp"]}
+{"id": "w001323", "rank": 1323, "word": "activity", "kind": "word", "exam_tags": ["zk", "gk", "cet4", "ky"], "inflections": {"plural": "activities"}, "ipa_us_cmu": ["ækˈtɪvəti", "ækˈtɪvɪti"]}
+{"id": "w001324", "rank": 1324, "word": "application", "kind": "word", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {"plural": "applications"}, "ipa_us_cmu": ["ˌæpləˈkeɪʃən"]}
+{"id": "w001325", "rank": 1325, "word": "coffee", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "coffees"}, "ipa_us_cmu": ["ˈkɑfi", "ˈkɔfi"]}
+{"id": "w001326", "rank": 1326, "word": "complex", "kind": "word", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {"plural": "complexes", "past": "complexed"}, "ipa_us_cmu": ["ˈkɑmplɛks", "kəmˈplɛks"]}
+{"id": "w001327", "rank": 1327, "word": "condition", "kind": "word", "exam_tags": ["zk", "gk", "cet4", "cet6", "ky"], "inflections": {"plural": "conditions", "past_participle": "conditioned", "present_participle": "conditioning", "past": "conditioned", "third_person": "conditions"}, "ipa_us_cmu": ["kənˈdɪʃən"]}
+{"id": "w001328", "rank": 1328, "word": "division", "kind": "word", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {"plural": "divisions"}, "ipa_us_cmu": ["dɪˈvɪʒən"]}
+{"id": "w001329", "rank": 1329, "word": "evening", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "evenings"}, "ipa_us_cmu": ["ˈivnɪŋ"]}
+{"id": "w001330", "rank": 1330, "word": "flight", "kind": "word", "exam_tags": ["gk"], "inflections": {"plural": "flights", "present_participle": "flighting", "past": "flighted", "third_person": "flights", "past_participle": "flighted"}, "ipa_us_cmu": ["flaɪt"]}
+{"id": "w001331", "rank": 1331, "word": "freedom", "kind": "word", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {"plural": "freedoms"}, "ipa_us_cmu": ["ˈfridəm"]}
+{"id": "w001333", "rank": 1333, "word": "heat", "kind": "word", "exam_tags": ["zk", "gk", "cet4", "cet6", "ky"], "inflections": {"past_participle": "heated", "plural": "heats", "present_participle": "heating", "third_person": "heats", "past": "heated"}, "ipa_us_cmu": ["hit"]}
+{"id": "w001334", "rank": 1334, "word": "interview", "kind": "word", "exam_tags": ["zk", "gk", "cet4", "cet6", "ky"], "inflections": {"plural": "interviews", "past_participle": "interviewed", "past": "interviewed", "present_participle": "interviewing", "third_person": "interviews"}, "ipa_us_cmu": ["ˈɪntɚˌvju"]}
+{"id": "w001335", "rank": 1335, "word": "library", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "libraries"}, "ipa_us_cmu": ["ˈlaɪbrɛˌri"]}
+{"id": "w001337", "rank": 1337, "word": "location", "kind": "word", "exam_tags": ["cet4", "cet6", "ky"], "inflections": {"plural": "locations"}, "ipa_us_cmu": ["loʊˈkeɪʃən"]}
+{"id": "w001338", "rank": 1338, "word": "murder", "kind": "word", "exam_tags": ["zk", "gk", "cet4", "cet6", "ky"], "inflections": {"past_participle": "murdered", "plural": "murders", "past": "murdered", "present_participle": "murdering", "third_person": "murders"}, "ipa_us_cmu": ["ˈmɝdɚ"]}
+{"id": "w001340", "rank": 1340, "word": "pop-up", "kind": "word", "exam_tags": [], "inflections": {"plural": "pop-ups"}, "ipa_us_cmu": []}
+{"id": "w001341", "rank": 1341, "word": "queen", "kind": "word", "exam_tags": ["zk", "gk", "cet4", "cet6", "ky"], "inflections": {"plural": "queens", "present_participle": "queening", "past": "queened", "third_person": "queens", "past_participle": "queened"}, "ipa_us_cmu": ["kwin"]}
+{"id": "w001342", "rank": 1342, "word": "sit-down", "kind": "word", "exam_tags": [], "inflections": {"plural": "sit-downs"}, "ipa_us_cmu": []}
+{"id": "w001343", "rank": 1343, "word": "standing", "kind": "word", "exam_tags": [], "inflections": {"plural": "standings"}, "ipa_us_cmu": ["ˈstændɪŋ"]}
+{"id": "w001344", "rank": 1344, "word": "walking", "kind": "word", "exam_tags": [], "inflections": {}, "ipa_us_cmu": ["ˈwɔkɪŋ"]}
+{"id": "w001346", "rank": 1346, "word": "accept", "kind": "word", "exam_tags": ["zk", "gk", "cet4", "ky"], "inflections": {"past_participle": "accepted", "past": "accepted", "present_participle": "accepting", "third_person": "accepts"}, "ipa_us_cmu": ["ækˈsɛpt", "əkˈsɛpt"]}
+{"id": "w001347", "rank": 1347, "word": "actual", "kind": "word", "exam_tags": ["gk", "cet4", "ky"], "inflections": {"plural": "actuals"}, "ipa_us_cmu": ["ˈæktʃəwəl", "ˈækʃəl"]}
+{"id": "w001348", "rank": 1348, "word": "appear", "kind": "word", "exam_tags": ["zk", "gk", "cet4", "ky"], "inflections": {"past": "appeared", "third_person": "appears", "present_participle": "appearing", "past_participle": "appeared"}, "ipa_us_cmu": ["əˈpɪr"]}
+{"id": "w001349", "rank": 1349, "word": "attempt", "kind": "word", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {"plural": "attempts", "present_participle": "attempting", "past_participle": "attempted", "past": "attempted", "third_person": "attempts"}, "ipa_us_cmu": ["əˈtɛmpt"]}
+{"id": "w001350", "rank": 1350, "word": "broke", "kind": "word", "exam_tags": [], "inflections": {}, "ipa_us_cmu": ["broʊk"]}
+{"id": "w001351", "rank": 1351, "word": "channel", "kind": "word", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {"plural": "channels", "past_participle": "channelled", "present_participle": "channelling", "past": "channelled", "third_person": "channels"}, "ipa_us_cmu": ["ˈtʃænəl"]}
+{"id": "w001352", "rank": 1352, "word": "distance", "kind": "word", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {"plural": "distances", "present_participle": "distancing", "past_participle": "distanced", "past": "distanced", "third_person": "distances"}, "ipa_us_cmu": ["ˈdɪstəns"]}
+{"id": "w001353", "rank": 1353, "word": "exchange", "kind": "word", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {"plural": "exchanges", "past_participle": "exchanged", "past": "exchanged", "present_participle": "exchanging", "third_person": "exchanges"}, "ipa_us_cmu": ["ɪksˈtʃeɪndʒ"]}
+{"id": "w001354", "rank": 1354, "word": "fat", "kind": "word", "exam_tags": ["zk", "gk", "ky"], "inflections": {"plural": "fats", "comparative": "fatter", "superlative": "fattest", "present_participle": "fatting", "past": "fatted", "third_person": "fats", "past_participle": "fatted"}, "ipa_us_cmu": ["fæt"]}
+{"id": "w001355", "rank": 1355, "word": "fell", "kind": "word", "exam_tags": ["cet6", "ky"], "inflections": {"past_participle": "felled", "plural": "fells", "present_participle": "felling", "third_person": "falls"}, "ipa_us_cmu": ["fɛl"]}
+{"id": "w001356", "rank": 1356, "word": "finding", "kind": "word", "exam_tags": ["cet4", "cet6", "ky"], "inflections": {"plural": "findings"}, "ipa_us_cmu": ["ˈfaɪndɪŋ"]}
+{"id": "w001357", "rank": 1357, "word": "glass", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "glasses", "present_participle": "glassing", "past": "glassed", "third_person": "glasses", "past_participle": "glassed"}, "ipa_us_cmu": ["ɡlæs"]}
+{"id": "w001358", "rank": 1358, "word": "learned", "kind": "word", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {}, "ipa_us_cmu": ["lɝnd", "ˈlɝnɪd"]}
+{"id": "w001359", "rank": 1359, "word": "mobile", "kind": "word", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {"plural": "mobiles"}, "ipa_us_cmu": ["ˈmoʊbəl"]}
+{"id": "w001360", "rank": 1360, "word": "northern", "kind": "word", "exam_tags": ["zk", "gk", "cet4", "cet6", "ky"], "inflections": {}, "ipa_us_cmu": ["ˈnɔrðɚn"]}
+{"id": "w001361", "rank": 1361, "word": "on-screen", "kind": "word", "exam_tags": [], "inflections": {}, "ipa_us_cmu": ["ˈɑnˌskrin"]}
+{"id": "w001362", "rank": 1362, "word": "powerful", "kind": "word", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {}, "ipa_us_cmu": ["ˈpaʊɚfəl"]}
+{"id": "w001363", "rank": 1363, "word": "prior", "kind": "word", "exam_tags": ["cet4", "cet6", "ky"], "inflections": {"plural": "priors"}, "ipa_us_cmu": ["ˈpraɪɚ"]}
+{"id": "w001364", "rank": 1364, "word": "protection", "kind": "word", "exam_tags": ["gk", "cet4", "cet6"], "inflections": {"plural": "protections"}, "ipa_us_cmu": ["prəˈtɛkʃən"]}
+{"id": "w001365", "rank": 1365, "word": "receive", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"past_participle": "received", "past": "received", "present_participle": "receiving", "third_person": "receives"}, "ipa_us_cmu": ["rəˈsiv", "rɪˈsiv"]}
+{"id": "w001366", "rank": 1366, "word": "religious", "kind": "word", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {}, "ipa_us_cmu": ["rɪˈlɪdʒəs", "riˈlɪdʒəs"]}
+{"id": "w001367", "rank": 1367, "word": "ride", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"present_participle": "riding", "past": "rode", "past_participle": "ridden", "plural": "rides", "third_person": "rides"}, "ipa_us_cmu": ["raɪd"]}
+{"id": "w001368", "rank": 1368, "word": "royal", "kind": "word", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {"plural": "royals"}, "ipa_us_cmu": ["ˈrɔɪəl"]}
+{"id": "w001369", "rank": 1369, "word": "screen", "kind": "word", "exam_tags": ["zk", "gk", "cet4", "cet6", "ky"], "inflections": {"plural": "screens", "past_participle": "screened", "present_participle": "screening", "past": "screened", "third_person": "screens"}, "ipa_us_cmu": ["skrin"]}
+{"id": "w001370", "rank": 1370, "word": "serve", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"past_participle": "served", "present_participle": "serving", "past": "served", "third_person": "serves", "plural": "serves"}, "ipa_us_cmu": ["sɝv"]}
+{"id": "w001371", "rank": 1371, "word": "slow", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"comparative": "slower", "present_participle": "slowing", "past": "slowed", "past_participle": "slowed", "third_person": "slows", "superlative": "slowest"}, "ipa_us_cmu": ["sloʊ"]}
+{"id": "w001372", "rank": 1372, "word": "species", "kind": "word", "exam_tags": ["cet4", "cet6", "ky"], "inflections": {}, "ipa_us_cmu": ["ˈspiʃiz"]}
+{"id": "w001373", "rank": 1373, "word": "speech", "kind": "word", "exam_tags": ["zk", "gk", "cet4", "cet6", "ky"], "inflections": {"plural": "speeches"}, "ipa_us_cmu": ["spitʃ"]}
+{"id": "w001374", "rank": 1374, "word": "traffic", "kind": "word", "exam_tags": ["zk", "gk", "cet4", "cet6", "ky"], "inflections": {"present_participle": "trafficking", "past": "trafficked", "third_person": "traffics", "past_participle": "trafficked"}, "ipa_us_cmu": ["ˈtræfɪk"]}
+{"id": "w001375", "rank": 1375, "word": "tree", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "trees", "present_participle": "treeing", "past": "treed", "third_person": "trees", "past_participle": "treed"}, "ipa_us_cmu": ["tri"]}
+{"id": "w001376", "rank": 1376, "word": "vs", "kind": "word", "exam_tags": [], "inflections": {}, "ipa_us_cmu": ["ˈviˈɛs"]}
+{"id": "w001377", "rank": 1377, "word": "whom", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["hum"]}
+{"id": "w001378", "rank": 1378, "word": "wonderful", "kind": "word", "exam_tags": ["zk", "gk", "cet4", "cet6", "ky"], "inflections": {}, "ipa_us_cmu": ["ˈwʌndɚfəl"]}
+{"id": "w001380", "rank": 1380, "word": "airport", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "airports"}, "ipa_us_cmu": ["ˈɛrˌpɔrt"]}
+{"id": "w001381", "rank": 1381, "word": "begin", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"past": "began", "present_participle": "beginning", "past_participle": "begun", "third_person": "begins"}, "ipa_us_cmu": ["bɪˈɡɪn"]}
+{"id": "w001382", "rank": 1382, "word": "bottom", "kind": "word", "exam_tags": ["zk", "gk", "cet4", "ky"], "inflections": {"plural": "bottoms", "present_participle": "bottoming", "past": "bottomed", "third_person": "bottoms", "past_participle": "bottomed"}, "ipa_us_cmu": ["ˈbɑtəm"]}
+{"id": "w001383", "rank": 1383, "word": "broken-down", "kind": "word", "exam_tags": [], "inflections": {}, "ipa_us_cmu": []}
+{"id": "w001384", "rank": 1384, "word": "demand", "kind": "word", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {"plural": "demands", "past": "demanded", "present_participle": "demanding", "past_participle": "demanded", "third_person": "demands"}, "ipa_us_cmu": ["dɪˈmænd"]}
+{"id": "w001385", "rank": 1385, "word": "engine", "kind": "word", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {"plural": "engines", "past": "engined"}, "ipa_us_cmu": ["ˈɛndʒən", "ˈɪndʒən"]}
+{"id": "w001386", "rank": 1386, "word": "everybody", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["ˈɛvriˌbɑdi"]}
+{"id": "w001387", "rank": 1387, "word": "famous", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["ˈfeɪməs"]}
+{"id": "w001388", "rank": 1388, "word": "investment", "kind": "word", "exam_tags": ["cet4", "cet6", "ky"], "inflections": {"plural": "investments"}, "ipa_us_cmu": ["ˌɪnˈvɛstmənt", "ˌɪnˈvɛsmənt"]}
+{"id": "w001389", "rank": 1389, "word": "lie", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"past": "lay", "present_participle": "lying", "third_person": "lies", "plural": "lies", "past_participle": "lain"}, "ipa_us_cmu": ["laɪ"]}
+{"id": "w001390", "rank": 1390, "word": "lie-in", "kind": "word", "exam_tags": [], "inflections": {"plural": "lie-ins"}, "ipa_us_cmu": []}
+{"id": "w001391", "rank": 1391, "word": "partner", "kind": "word", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {"plural": "partners", "present_participle": "partnering", "past_participle": "partnered", "past": "partnered", "third_person": "partners"}, "ipa_us_cmu": ["ˈpɑrtnɚ"]}
+{"id": "w001392", "rank": 1392, "word": "sad", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"superlative": "saddest", "comparative": "sadder"}, "ipa_us_cmu": ["sæd"]}
+{"id": "w001393", "rank": 1393, "word": "solution", "kind": "word", "exam_tags": ["cet4", "cet6", "ky"], "inflections": {"plural": "solutions"}, "ipa_us_cmu": ["səˈluʃən"]}
+{"id": "w001394", "rank": 1394, "word": "southern", "kind": "word", "exam_tags": ["zk", "gk", "cet4", "cet6", "ky"], "inflections": {}, "ipa_us_cmu": ["ˈsʌðɚn"]}
+{"id": "w001395", "rank": 1395, "word": "square", "kind": "word", "exam_tags": ["zk", "gk", "cet4", "cet6", "ky"], "inflections": {"plural": "squares", "past_participle": "squared", "present_participle": "squaring", "past": "squared", "third_person": "squares"}, "ipa_us_cmu": ["skwɛr"]}
+{"id": "w001396", "rank": 1396, "word": "structure", "kind": "word", "exam_tags": ["cet4", "cet6", "ky"], "inflections": {"plural": "structures", "past_participle": "structured", "present_participle": "structuring", "third_person": "structures", "past": "structured"}, "ipa_us_cmu": ["ˈstrʌktʃɚ"]}
+{"id": "w001397", "rank": 1397, "word": "traditional", "kind": "word", "exam_tags": ["zk", "gk", "cet4", "cet6"], "inflections": {}, "ipa_us_cmu": ["trəˈdɪʃənəl"]}
+{"id": "w001398", "rank": 1398, "word": "twice", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {}, "ipa_us_cmu": ["twaɪs"]}
+{"id": "w001399", "rank": 1399, "word": "well-meaning", "kind": "word", "exam_tags": [], "inflections": {}, "ipa_us_cmu": []}
+{"id": "w001400", "rank": 1400, "word": "wind", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "winds", "present_participle": "winding", "past": "wound", "past_participle": "wound", "third_person": "winds"}, "ipa_us_cmu": ["waɪnd", "wɪnd"]}
+{"id": "w001401", "rank": 1401, "word": "worry", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "worries", "past": "worried", "third_person": "worries", "present_participle": "worrying", "past_participle": "worried"}, "ipa_us_cmu": ["ˈwɝi"]}
+{"id": "w001403", "rank": 1403, "word": "brand", "kind": "word", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {"plural": "brands", "past_participle": "branded", "present_participle": "branding", "past": "branded", "third_person": "brands"}, "ipa_us_cmu": ["brænd"]}
+{"id": "w001404", "rank": 1404, "word": "bus", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "buses", "present_participle": "bussing", "past": "bussed", "third_person": "busses", "past_participle": "bussed"}, "ipa_us_cmu": ["bʌs"]}
+{"id": "w001405", "rank": 1405, "word": "cent", "kind": "word", "exam_tags": ["zk", "gk", "cet4", "cet6", "ky"], "inflections": {"plural": "cents"}, "ipa_us_cmu": ["sɛnt"]}
+{"id": "w001406", "rank": 1406, "word": "count", "kind": "word", "exam_tags": ["zk", "gk", "cet4", "cet6", "ky"], "inflections": {"plural": "counts", "past_participle": "counted", "present_participle": "counting", "third_person": "counts", "past": "counted"}, "ipa_us_cmu": ["kaʊnt"]}
+{"id": "w001407", "rank": 1407, "word": "covered", "kind": "word", "exam_tags": [], "inflections": {}, "ipa_us_cmu": ["ˈkʌvɚd"]}
+{"id": "w001408", "rank": 1408, "word": "critical", "kind": "word", "exam_tags": ["cet4", "cet6", "ky"], "inflections": {}, "ipa_us_cmu": ["ˈkrɪtɪkəl"]}
+{"id": "w001409", "rank": 1409, "word": "digital", "kind": "word", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {}, "ipa_us_cmu": ["ˈdɪdʒətəl", "ˈdɪdʒɪtəl"]}
+{"id": "w001410", "rank": 1410, "word": "fourth", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "fourths"}, "ipa_us_cmu": ["fɔrθ"]}
+{"id": "w001411", "rank": 1411, "word": "fresh", "kind": "word", "exam_tags": ["zk", "gk", "cet4", "cet6", "ky"], "inflections": {"comparative": "fresher", "superlative": "freshest"}, "ipa_us_cmu": ["frɛʃ"]}
+{"id": "w001412", "rank": 1412, "word": "lake", "kind": "word", "exam_tags": ["zk", "gk"], "inflections": {"plural": "lakes"}, "ipa_us_cmu": ["leɪk"]}
+{"id": "w001413", "rank": 1413, "word": "mental", "kind": "word", "exam_tags": ["gk", "cet4", "cet6", "ky"], "inflections": {}, "ipa_us_cmu": ["ˈmɛntəl"]}

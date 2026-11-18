@@ -1,0 +1,27 @@
+# 导入时整词剔除（spec §7：词库导入时剔除不雅词）
+# 注意误伤：rapeseed/cocktail/assess 等含子串的词不受影响，黑名单按整词匹配
+fuck
+fucker
+fucking
+shit
+shitty
+cunt
+bitch
+bastard
+asshole
+arsehole
+dick
+dickhead
+cock
+pussy
+whore
+slut
+nigger
+nigga
+faggot
+wanker
+bollocks
+jizz
+boner
+handjob
+blowjob

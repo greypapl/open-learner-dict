@@ -1,0 +1,11 @@
+sources/
+work/raw/
+node_modules/
+__pycache__/
+*.sqlite
+release/
+.venv/
+work/tmp/
+# 可由脚本重建的大文件（prepare.py / select_words.py，需 sources/）
+work/headwords*.jsonl
+work/selected.jsonl
