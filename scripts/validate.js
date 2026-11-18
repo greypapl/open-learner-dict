@@ -8,7 +8,7 @@ const path = require('path')
 const POS = new Set(['n.', 'v.', 'adj.', 'adv.', 'prep.', 'conj.', 'pron.', 'det.', 'int.', 'num.', 'aux.', 'abbr.'])
 const REG = /^(formal|informal|slang|dated|literary|uk|us|offensive-mild|offensive-strong|domain:(医学|解剖|药学|生物|植物|动物|化学|物理|数学|天文|地质|地理|气象|计算机|电子|机械|建筑|军事|航海|航空|法律|经济|金融|商业|政治|宗教|哲学|语言|文学|音乐|美术|体育|烹饪|农业|心理|教育|历史|摄影|纺织|印刷|矿业|统计|逻辑|神话))$/
 const LEVEL = new Set(['A1', 'A2', 'B1', 'B2', 'C1', 'C2'])
-const SKIP = new Set(['not-lemma', 'proper-out-of-scope', 'abbr-rare', 'junk', 'not-english'])
+const SKIP = new Set(['not-lemma', 'proper-out-of-scope', 'abbr-rare', 'junk', 'not-english', 'too-rare'])
 const BLOCK = new Set(fs.readFileSync(path.join(__dirname, 'blocklist.txt'), 'utf8')
   .split(/\r?\n/).map(s => s.trim()).filter(s => s && !s.startsWith('#')))
 

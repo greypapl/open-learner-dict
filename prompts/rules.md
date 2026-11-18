@@ -25,6 +25,7 @@ went | skip:not-lemma
 - `proper-out-of-scope`：专有名词，除 星期/月份/国家/语言/民族与国籍形容词/重大节日/常用称谓缩写（Mr, Dr）外，人名、城市、州、公司、品牌一律跳过。
 - `abbr-rare`：非大众常用缩写（TV、USA、CEO、Co、Inc、Ltd 保留）。
 - `junk`：拼写错误、无意义组合、无法确认是真实英文词。**拿不准时宁可 junk。**
+- `too-rare`：真实存在但对学习者没有价值的极冷僻词（化合物、矿物、罕用医学术语、废词、没人用的机械派生词）。尾部批次已经过初筛，大多数词应当收录；只有确实属于这类的才用 too-rare，**不要把真词标成 junk**。
 - `not-english`：未被英语吸收的外语词。**拉丁学名（属名、种加词，如 sturnus、tamias、pectoris）一律 not-english**；只有已作英语普通名词通用的才收（如 amoeba、chlamydia、hippopotamus、rhododendron）。
 
 ## 释义规则（最重要）
