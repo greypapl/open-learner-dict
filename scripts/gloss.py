@@ -3,6 +3,8 @@
   python -X utf8 -I scripts/gloss.py make [--size 1000]   # triage-skips.jsonl → work/gloss/G0001.in.txt …
   python -X utf8 -I scripts/gloss.py check [G0001 …]      # 校验 G*.out.txt；不带参数则检查全部并汇总
   python -X utf8 -I scripts/gloss.py merge                # → work/merged/gloss.jsonl + gloss-skips.jsonl
+  python -X utf8 -I scripts/gloss.py make-unknown [--size 1000]  # G 层的 skip:unknown → work/gloss/U0001.in.txt …（Opus 重试）
+  merge 时 U*.out.txt 中写出的简释覆盖 G 层的 unknown，source 记为 gloss-v1-opus
 
 prompt: prompts/gloss.md
 """
@@ -75,6 +77,13 @@ if cmd == 'make':
     for i in range(0, len(rows), size):
         (G / f'G{i // size + 1:04d}.in.txt').write_text('\n'.join(r['word'] for r in rows[i:i + size]) + '\n', encoding='utf-8')
     print(len(rows), 'words →', len(list(G.glob('G*.in.txt'))), 'chunks')
+elif cmd == 'make-unknown':
+    size = int(sys.argv[sys.argv.index('--size') + 1]) if '--size' in sys.argv else 1000
+    words = [json.loads(l)['word'] for l in open(M / 'gloss-skips.jsonl', encoding='utf-8')
+             if l.strip() and json.loads(l)['skip'] == 'unknown']
+    for i in range(0, len(words), size):
+        (G / f'U{i // size + 1:04d}.in.txt').write_text('\n'.join(words[i:i + size]) + '\n', encoding='utf-8')
+    print(len(words), 'unknown words →', len(list(G.glob('U*.in.txt'))), 'chunks')
 elif cmd == 'check':
     names = sys.argv[2:] or sorted(p.name[:5] for p in G.glob('G*.in.txt'))
     done = kept = skip = 0
@@ -101,14 +110,23 @@ elif cmd == 'merge':
         if errs:
             sys.exit(f'{n} 未通过校验，先跑 check')
         words = [l.strip() for l in open(G / f'{n}.in.txt', encoding='utf-8') if l.strip()]
-        byword.update(zip(words, res))
+        byword.update((w, dict(r, source='gloss-v1')) for w, r in zip(words, res))
+    for n in sorted(p.name[:5] for p in G.glob('U*.in.txt')):
+        res, errs = check(n)
+        if errs:
+            print(f'跳过 {n}：{errs[0]}')
+            continue
+        words = [l.strip() for l in open(G / f'{n}.in.txt', encoding='utf-8') if l.strip()]
+        for w, r in zip(words, res):
+            if 'senses' in r and byword.get(w, {}).get('skip') == 'unknown':
+                byword[w] = dict(r, source='gloss-v1-opus')
     k = s = 0
     with open(M / 'gloss.jsonl', 'w', encoding='utf-8') as fg, open(M / 'gloss-skips.jsonl', 'w', encoding='utf-8') as fs:
         for r in rows:
             g = byword[r['word']]
             if 'senses' in g:
                 fg.write(json.dumps({'id': r['id'], 'word': r['word'], 'senses': g['senses'], 'flags': g['flags'],
-                                     'confidence': 'low', 'layer': 'gloss', 'source': 'gloss-v1'}, ensure_ascii=False) + '\n')
+                                     'confidence': 'low', 'layer': 'gloss', 'source': g['source']}, ensure_ascii=False) + '\n')
                 k += 1
             else:
                 fs.write(json.dumps({'id': r['id'], 'word': r['word'], 'skip': g['skip'], 'by': 'gloss-v1'}, ensure_ascii=False) + '\n')

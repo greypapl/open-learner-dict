@@ -1,0 +1,1000 @@
+hyperformer | skip:unknown
+hyperfragment | n.超碎片 [domain:物理]
+hypergastritis | skip:unknown
+hypergeostrophic | adj.超地转的 [domain:气象]
+hypergeusesthesia | n.味觉过敏 [domain:医学]
+hyperglandular | adj.腺功能亢进的 [domain:医学]
+hyperglycogenolysis | n.糖原分解过度 [domain:医学]
+hypergroup | n.超群 [domain:数学]
+hypergroupoid | skip:unknown
+hyperguanidinemia | n.高胍血症 [domain:医学]
+hyperharmonic | skip:unknown
+hyperhedonism | skip:unknown
+hyperhemoglobinemia | n.高血红蛋白血症 [domain:医学]
+hyperheparinemia | n.高肝素血症 [domain:医学]
+hyperhistaminemia | n.高组胺血症 [domain:医学]
+hyperhormonal | adj.激素过多的 [domain:医学]
+hyperhormonism | n.激素分泌过多 [domain:医学]
+hyperhydremia | n.水血症 [domain:医学]
+hyperhydric | skip:unknown
+hyperhydrochloria | n.胃酸过多 [domain:医学]
+hyperhydrochloridia | n.胃酸过多 [domain:医学]
+hyperhypnosis | skip:unknown
+hyperhypophysism | n.垂体功能亢进 [domain:医学]
+hypericism | n.金丝桃中毒 [domain:医学]
+hyperideation | skip:unknown
+hyperindicanemia | n.高尿蓝母血症 [domain:医学]
+hyperingestion | n.摄入过多 [domain:医学]
+hyperinosemia | skip:unknown
+hyperinsulinar | skip:unknown
+hyperinterrenal | skip:unknown
+hyperisotonia | skip:unknown
+hyperlactacidemia | n.高乳酸血症 [domain:医学]
+hyperlecithinemia | n.高卵磷脂血症 [domain:医学]
+hyperleptoprosopic | adj.超狭面型的 [domain:解剖]
+hyperleptoprosopy | n.超狭面型 [domain:解剖]
+hyperleptorrhine | adj.超狭鼻型的 [domain:解剖]
+hyperleptosome | skip:unknown
+hyperlethal | skip:unknown
+hyperleydigism | skip:unknown
+hyperliposis | skip:unknown
+hyperlithemia | n.高尿酸血症 [domain:医学]
+hyperlithic | skip:unknown
+hyperlithuria | skip:unknown
+hyperlogia | n.多语症 [domain:医学]
+hyperluteinization | n.黄体化过度 [domain:医学]
+hyperluteoidism | skip:unknown
+hypermastigote | n.超鞭毛虫 [domain:动物]
+hypermatrix | n.超矩阵 [domain:数学]
+hypermedication | n.用药过度 [domain:医学]
+hypermegalia | skip:unknown
+hypermegasoma | skip:unknown
+hypermelanic | adj.黑色素过多的 [domain:医学]
+hypermesis | skip:unknown
+hypermesosoma | skip:unknown
+hypermetamorphic | adj.复变态的 [domain:动物]
+hypermetaplasia | skip:unknown
+hypermetria | n.辨距过度 [domain:医学]
+hypermicrosoma | skip:unknown
+hypermimia | skip:unknown
+hypermodular | skip:unknown
+hypermonotectic | adj.过偏晶的 [domain:化学]
+hypermorph | n.超效等位基因 [domain:生物]
+hypermorphic | adj.超效等位基因的 [domain:生物]
+hypermorphosis | n.超形态发生 [domain:生物]
+hypermultiplet | n.超多重态 [domain:物理]
+hypermyesthesia | n.肌感觉过敏 [domain:医学]
+hypermyotonia | n.肌张力过高 [domain:医学]
+hypermyotrophy | n.肌肥大 [domain:医学]
+hypernanosoma | skip:unknown
+hypernephritis | n.肾上腺炎 [domain:医学]
+hypernephroid | adj.肾上腺样的 [domain:医学]
+hypernephrotrophy | skip:unknown
+hyperneurotization | skip:unknown
+hypernitremia | n.高氮血症 [domain:医学]
+hypernoia | skip:unknown
+hyperonychia | n.甲肥厚 [domain:医学]
+hyperonychosis | n.甲肥厚 [domain:医学]
+hyperorchidism | n.睾丸功能亢进 [domain:医学]
+hyperorthognathous | adj.超正颌的 [domain:解剖]
+hyperorthognathy | n.超正颌 [domain:解剖]
+hyperorthogonal | skip:unknown
+hyperoscillating | skip:unknown
+hyperosphresia | n.嗅觉过敏 [domain:医学]
+hyperosteogeny | n.骨质增生 [domain:医学]
+hyperosteopathy | skip:unknown
+hyperotretan | skip:unknown
+hyperovaria | n.卵巢功能亢进 [domain:医学]
+hyperoxidosis | skip:unknown
+hyperpallesthesia | n.振动觉过敏 [domain:医学]
+hyperpanchromatic | adj.超全色的 [domain:摄影]
+hyperparasitization | n.重寄生 [domain:生物]
+hyperparotidism | skip:unknown
+hyperpelvic | skip:unknown
+hyperperitonitis | skip:unknown
+hyperpexy | skip:unknown
+hyperpharyngeal | skip:unknown
+hyperphasia | n.多语症 [domain:医学]
+hyperphlebectasy | skip:unknown
+hyperphlogosis | skip:unknown
+hyperphoneme | skip:unknown
+hyperphonesis | skip:unknown
+hyperphonia | skip:unknown
+hyperphrenia | skip:unknown
+hyperplasmia | skip:unknown
+hyperplatycnemic | skip:unknown
+hyperplatymeric | skip:unknown
+hyperpolyhedron | n.超多面体 [domain:数学]
+hyperpolypeptidemia | n.高多肽血症 [domain:医学]
+hyperporosis | skip:unknown
+hyperposia | skip:unknown
+hyperpragia | skip:unknown
+hyperpragic | skip:unknown
+hyperpraxia | skip:unknown
+hyperprebetalipoproteinemia | n.高前β脂蛋白血症 [domain:医学]
+hyperpresbyopia | skip:unknown
+hyperprimary | skip:unknown
+hyperprochoresis | skip:unknown
+hyperprognathous | adj.超突颌的 [domain:解剖]
+hyperprosexia | n.注意增强 [domain:心理]
+hyperproteosis | skip:unknown
+hyperprothrombinemia | n.高凝血酶原血症 [domain:医学]
+hyperpselaphesia | n.触觉过敏 [domain:医学]
+hyperpseudoscopy | skip:unknown
+hyperpsychosis | skip:unknown
+hyperpyremia | skip:unknown
+hyperquantization | skip:unknown
+hyperresolution | skip:unknown
+hyperresolvent | skip:unknown
+hypersalemia | skip:unknown
+hypersarcosis | skip:unknown
+hyperscaling | n.超标度 [domain:物理]
+hyperscope | skip:unknown
+hypersensor | skip:unknown
+hypersialosis | n.唾液分泌过多 [domain:医学]
+hypersimple | skip:unknown
+hyperslow | skip:unknown
+hypersolid | n.超立体 [domain:数学]
+hypersomia | skip:unknown
+hypersorber | skip:unknown
+hypersorption | n.超吸附 [domain:化学]
+hyperspasmia | skip:unknown
+hypersplenotrophy | skip:unknown
+hyperspongiosis | skip:unknown
+hypersteatosis | skip:unknown
+hyperstereography | skip:unknown
+hyperstereoscopy | skip:unknown
+hypersthenuria | n.高渗尿 [domain:医学]
+hyperstoichiometry | n.超化学计量 [domain:化学]
+hyperstomatous | skip:unknown
+hyperstress | skip:unknown
+hyperstructure | skip:unknown
+hypersuprarenalemia | skip:unknown
+hypersuprarenalinemia | skip:unknown
+hypersympathicotonus | n.交感神经张力过高 [domain:医学]
+hypersynchronous | adj.超同步的 [domain:医学]
+hypersynchrony | n.超同步 [domain:医学]
+hypersynergia | skip:unknown
+hypersystem | skip:unknown
+hypersystole | n.心收缩过强 [domain:医学]
+hypersystolic | adj.心收缩过强的 [domain:医学]
+hypertagmeme | skip:unknown
+hypertape | skip:unknown
+hypertarachia | skip:unknown
+hypertensor | n.升压药 [domain:药学]
+hypertestoidism | skip:unknown
+hypertherm | skip:unknown
+hyperthermalgesia | n.热痛觉过敏 [domain:医学]
+hyperthermesthesia | n.温觉过敏 [domain:医学]
+hyperthermoesthesia | n.温觉过敏 [domain:医学]
+hyperthermometer | skip:unknown
+hyperthite | skip:unknown
+hyperthrombinemia | n.高凝血酶血症 [domain:医学]
+hyperthymergasia | skip:unknown
+hyperthymergastic | skip:unknown
+hyperthymia | n.情感高涨 [domain:心理]
+hyperthymic | adj.情感高涨的 [domain:心理]
+hyperthymism | n.胸腺功能亢进 [domain:医学]
+hyperthymization | skip:unknown
+hyperthyrotropinism | skip:unknown
+hypertree | n.超树 [domain:数学]
+hypertrephocytosis | skip:unknown
+hypertron | skip:unknown
+hypertrophyte | skip:unknown
+hypertypic | skip:unknown
+hyperurbanism | n.矫枉过正 [domain:语言]
+hyperuresis | n.多尿 [domain:医学]
+hypervaccination | n.超免疫接种 [domain:医学]
+hypervegetative | skip:unknown
+hypervenosity | skip:unknown
+hyperzone | skip:unknown
+hypethron | skip:unknown
+hyphenism | skip:unknown
+hyphephilia | skip:unknown
+hyphidrosis | n.少汗症 [domain:医学]
+hyphodromous | skip:unknown
+hyphogenous | skip:unknown
+hyphology | skip:unknown
+hyphomycetoma | skip:unknown
+hyphomycosis | skip:unknown
+hyphonate | skip:unknown
+hyphopode | n.附着枝 [domain:植物]
+hyphostroma | skip:unknown
+hypinotic | skip:unknown
+hypistoma | skip:unknown
+hypnacetine | skip:unknown
+hypnagogue | n.催眠药 [domain:药学]
+hypnal | skip:unknown
+hypnalgia | skip:unknown
+hypniater | skip:unknown
+hypnoacetin | skip:unknown
+hypnocinematograph | skip:unknown
+hypnodontia | n.牙科催眠术 [domain:医学]
+hypnodontics | n.牙科催眠术 [domain:医学]
+hypnodrama | n.催眠剧 [domain:心理]
+hypnograph | n.睡眠描记器 [domain:医学]
+hypnoidization | skip:unknown
+hypnolepsy | n.发作性睡病 [domain:医学]
+hypnonarcoanalysis | skip:unknown
+hypnonarcosis | skip:unknown
+hypnopathia | skip:unknown
+hypnophrenosis | skip:unknown
+hypnopyrine | skip:unknown
+hypnosia | skip:unknown
+hypnosophy | skip:unknown
+hypnosporangium | n.休眠孢子囊 [domain:植物]
+hypnotoxin | skip:unknown
+hypoachene | skip:unknown
+hypoadenia | skip:unknown
+hypoadrenalinemia | skip:unknown
+hypoaffective | skip:unknown
+hypoaffectivity | skip:unknown
+hypoagnathus | skip:unknown
+hypoalbuminosis | n.低白蛋白血症 [domain:医学]
+hypoalimentosis | skip:unknown
+hypoaminoacidemia | n.低氨基酸血症 [domain:医学]
+hypoazoturia | n.尿氮过少 [domain:医学]
+hypobasal | skip:unknown
+hypobasidial | skip:unknown
+hypobasidium | skip:unknown
+hypobasophilism | skip:unknown
+hypobatholitic | skip:unknown
+hypobilirubinemia | n.低胆红素血症 [domain:医学]
+hypoblepharon | skip:unknown
+hypobromination | skip:unknown
+hypocalcipectic | skip:unknown
+hypocardia | skip:unknown
+hypocarpium | skip:unknown
+hypocarpogean | skip:unknown
+hypocatalepsis | skip:unknown
+hypocatharsis | skip:unknown
+hypocathexis | skip:unknown
+hypocelom | skip:unknown
+hypocenesthesia | skip:unknown
+hypocentrum | skip:unknown
+hypochloridation | skip:unknown
+hypochlorization | skip:unknown
+hypochloruria | n.尿氯过少 [domain:医学]
+hypochnoid | skip:unknown
+hypocholuria | skip:unknown
+hypochord | n.下索 [domain:动物]
+hypochordal | adj.脊索下的 [domain:解剖]
+hypochromatocytosis | skip:unknown
+hypochromatosis | skip:unknown
+hypochrome | skip:unknown
+hypochromemia | skip:unknown
+hypochromotrichia | skip:unknown
+hypochrosis | skip:unknown
+hypochylia | n.胃液分泌过少 [domain:医学]
+hypocist | skip:unknown
+hypocistis | skip:unknown
+hypocleidium | skip:unknown
+hypoclysis | skip:unknown
+hypocoelom | skip:unknown
+hypocondylar | skip:unknown
+hypocondyle | skip:unknown
+hypoconule | n.次小尖 [domain:动物]
+hypocoracoid | skip:unknown
+hypocorticalism | n.肾上腺皮质功能减退 [domain:医学]
+hypocotyledonary | adj.下胚轴的 [domain:植物]
+hypocreaceous | adj.肉座菌科的 [domain:植物]
+hypocrine | skip:unknown
+hypocrinia | skip:unknown
+hypocrinism | skip:unknown
+hypocyclosis | skip:unknown
+hypocythaemia | skip:unknown
+hypodactyle | skip:unknown
+hypodactylia | n.缺指症 [domain:医学]
+hypodactylism | n.缺指症 [domain:医学]
+hypodermia | skip:unknown
+hypodermolithiasis | skip:unknown
+hypodesmus | skip:unknown
+hypodicrotous | skip:unknown
+hypodigm | skip:unknown
+hypodispersion | skip:unknown
+hypodynia | skip:unknown
+hypoeccrisia | skip:unknown
+hypoeccrisis | skip:unknown
+hypoeccritic | skip:unknown
+hypoecrisia | skip:unknown
+hypoelastic | adj.亚弹性的 [domain:物理]
+hypoelasticity | n.亚弹性 [domain:物理]
+hypoelectrolytemia | n.低电解质血症 [domain:医学]
+hypoemia | skip:unknown
+hypoemotivity | skip:unknown
+hypoendocrinia | skip:unknown
+hypoendocrisia | skip:unknown
+hypoeosinophilia | n.嗜酸性粒细胞减少 [domain:医学]
+hypoepinephria | skip:unknown
+hypoepinephry | skip:unknown
+hypoepistephanine | skip:unknown
+hypoequilibrium | skip:unknown
+hypoerythrocythemia | n.红细胞减少 [domain:医学]
+hypoesophoria | skip:unknown
+hypoestrinemia | n.低雌激素血症 [domain:医学]
+hypoevolutism | skip:unknown
+hypoexophoria | skip:unknown
+hypoferrism | skip:unknown
+hypogalactous | adj.乳汁分泌不足的 [domain:医学]
+hypogamy | skip:unknown
+hypogastrectasia | skip:unknown
+hypogastria | skip:unknown
+hypogastrocele | n.下腹疝 [domain:医学]
+hypogastrodidymus | skip:unknown
+hypogastrohemia | skip:unknown
+hypogastropagus | skip:unknown
+hypogastrorrhexis | skip:unknown
+hypogastroschisis | skip:unknown
+hypogee | skip:unknown
+hypogeusesthesia | n.味觉减退 [domain:医学]
+hypoglandular | skip:unknown
+hypoglossiadenitis | skip:unknown
+hypoglossis | skip:unknown
+hypoglossitis | skip:unknown
+hypoglossus | n.舌下神经 [domain:解剖]
+hypognathadenitis | skip:unknown
+hypognathoparasitus | skip:unknown
+hypognathus | skip:unknown
+hypogranulocytosis | n.粒细胞减少 [domain:医学]
+hypographous | skip:unknown
+hypogynium | skip:unknown
+hypohemia | skip:unknown
+hypohemoglobinemia | n.低血红蛋白血症 [domain:医学]
+hypoheparinemia | skip:unknown
+hypohepatia | skip:unknown
+hypohormonal | skip:unknown
+hypohormonic | skip:unknown
+hypohormonism | skip:unknown
+hypohyaline | skip:unknown
+hypohydremia | skip:unknown
+hypohydrochloria | n.胃酸过少 [domain:医学]
+hypohypnosis | skip:unknown
+hypohypnotic | skip:unknown
+hypoinosemia | skip:unknown
+hypoiodidism | skip:unknown
+hypoischium | skip:unknown
+hypokinemia | skip:unknown
+hypokolasia | skip:unknown
+hypolarynx | skip:unknown
+hypolemmal | skip:unknown
+hypolepidoma | skip:unknown
+hypolepsiomania | skip:unknown
+hypoletal | skip:unknown
+hypoleukemia | skip:unknown
+hypoleukia | skip:unknown
+hypoleydigism | skip:unknown
+hypolimnile | skip:unknown
+hypolipaemia | n.低脂血症 [domain:医学]
+hypolipemia | n.低脂血症 [domain:医学]
+hypolipoproteinemia | n.低脂蛋白血症 [domain:医学]
+hypoliposis | skip:unknown
+hypologia | skip:unknown
+hypolutemia | skip:unknown
+hypolymphemia | skip:unknown
+hypomagma | skip:unknown
+hypomedication | skip:unknown
+hypomegasoma | skip:unknown
+hypomelancholia | skip:unknown
+hypomeron | skip:unknown
+hypomesosoma | skip:unknown
+hypometamorphic | skip:unknown
+hypometamorphism | skip:unknown
+hypometria | n.辨距不足 [domain:医学]
+hypometropia | skip:unknown
+hypomicrognathus | skip:unknown
+hypomicron | skip:unknown
+hypomicrosoma | skip:unknown
+hypomimia | n.表情减少 [domain:医学]
+hypomineralocorticoidism | n.盐皮质激素减少症 [domain:医学]
+hypomonotectic | adj.亚偏晶的 [domain:化学]
+hypomoria | skip:unknown
+hypomyotonia | n.肌张力过低 [domain:医学]
+hypomyxia | skip:unknown
+hyponanosoma | skip:unknown
+hyponatruria | n.尿钠过少 [domain:医学]
+hyponeuria | skip:unknown
+hyponeuston | n.下漂浮生物 [domain:生物]
+hyponitremia | skip:unknown
+hyponoia | skip:unknown
+hyponoic | skip:unknown
+hyponomous | skip:unknown
+hyponychon | skip:unknown
+hypoorchidia | skip:unknown
+hypopallesthesia | n.振动觉减退 [domain:医学]
+hypopancreorrhea | skip:unknown
+hypopathia | skip:unknown
+hypopeltate | skip:unknown
+hypopermeability | skip:unknown
+hypopexia | skip:unknown
+hypophamine | skip:unknown
+hypophasic | skip:unknown
+hypophoneme | skip:unknown
+hypophonesis | skip:unknown
+hypovigilance | n.警觉性降低 [domain:医学]
+hysteranthus | skip:unknown
+iatraliptic | adj.涂擦疗法的 [domain:医学]
+iatromathematical | adj.医学占星术的 [domain:医学]
+iatromechanical | adj.医疗机械学派的 [domain:医学]
+iatrophysical | adj.医疗物理学派的 [domain:医学]
+iatrophysicist | n.医疗物理学派学者 [domain:医学]
+iatrophysics | n.医疗物理学 [domain:医学]
+iatrotechnics | skip:unknown
+iconograph | skip:unknown
+iconometry | skip:unknown
+ideogenetic | skip:unknown
+ideokinetic | skip:unknown
+ideologism | skip:unknown
+idiobiology | skip:unknown
+idiocratic | adj.特异体质的 [domain:医学]
+idiocratical | adj.特异体质的 [domain:医学]
+idiocratically | adv.特异体质地 [domain:医学]
+idiogenesis | skip:unknown
+idiogenetic | skip:unknown
+idioglottic | skip:unknown
+idiograph | n.个人签名, 商标
+idiomere | skip:unknown
+idiomorphism | n.自形 [domain:地质]
+idiophase | skip:unknown
+illacrimation | skip:unknown
+illudin | skip:unknown
+illuministic | skip:unknown
+imbracery | skip:unknown
+imbruement | skip:unknown
+imitancy | skip:unknown
+immaculatism | skip:unknown
+immarginate | adj.无边缘的 [domain:生物]
+immunifacient | skip:unknown
+immunocatalysis | skip:unknown
+immunoconglutin | skip:unknown
+immunoconglutination | skip:unknown
+immunoconglutinin | n.免疫胶固素 [domain:医学]
+immunofiltration | skip:unknown
+immunomorphology | skip:unknown
+immunoneutropenia | skip:unknown
+immunopancytopenia | skip:unknown
+immunopathy | skip:unknown
+immunoquantitation | skip:unknown
+immunoradiotherapy | skip:unknown
+immunorepressive | skip:unknown
+immunosedimentation | skip:unknown
+immunoserotherapy | skip:unknown
+immunotransfusion | n.免疫输血 [domain:医学]
+impaludation | skip:unknown
+impansion | skip:unknown
+imparidigitate | adj.奇蹄的 [domain:动物]
+imparkation | skip:unknown
+imparlance | n.答辩延期 [domain:法律]
+impartance | skip:unknown
+impartialist | skip:unknown
+imparticipable | skip:unknown
+impassionable | adj.易激动的
+impayable | adj.无价的 [dated]
+impedible | skip:unknown
+impedicellate | skip:unknown
+impedimetry | skip:unknown
+imperforable | adj.不可穿透的
+imperscriptible | adj.无文字记载的
+impersonification | skip:unknown
+impersonify | skip:unknown
+imperviable | adj.不能透过的
+impetiginization | skip:unknown
+impetrative | skip:unknown
+impetratory | skip:unknown
+impicture | skip:unknown
+impilation | skip:unknown
+implastic | adj.无可塑性的
+implexed | skip:unknown
+implicator | skip:unknown
+impolder | v.围垦
+impolitical | adj.失策的
+imponent | skip:unknown
+impositor | skip:unknown
+impostrous | adj.欺诈的 [dated]
+imposure | skip:unknown
+impredicable | skip:unknown
+inacidity | skip:unknown
+inact | skip:unknown
+inagglutinability | skip:unknown
+incallosal | skip:unknown
+incivilization | skip:unknown
+inclinableness | n.倾向
+incobation | skip:unknown
+incogitability | skip:unknown
+incommodement | skip:unknown
+incompletability | skip:unknown
+incompletable | skip:unknown
+incompletive | skip:unknown
+incuneation | skip:unknown
+incustapedic | skip:unknown
+indenofluorene | skip:unknown
+indenoisoquinoline | skip:unknown
+indenol | skip:unknown
+indigitation | skip:unknown
+indignly | skip:unknown
+indigogen | skip:unknown
+indivisum | skip:unknown
+indoorsman | skip:unknown
+indophenolase | n.靛酚酶 [domain:生物]
+indospicine | skip:unknown
+indoxole | skip:unknown
+indrawal | skip:unknown
+indurite | skip:unknown
+inenucleable | skip:unknown
+inertion | skip:unknown
+inflatee | skip:unknown
+inflatoplane | skip:unknown
+informationism | skip:unknown
+infracommissure | skip:unknown
+infraneuston | skip:unknown
+infrarefraction | skip:unknown
+infrareticulate | skip:unknown
+infriction | skip:unknown
+infusionism | skip:unknown
+infusionist | skip:unknown
+infusodecoction | skip:unknown
+ingotism | skip:unknown
+iniferter | n.引发转移终止剂 [domain:化学]
+initialese | skip:unknown
+initialness | skip:unknown
+inkometer | skip:unknown
+innutrient | skip:unknown
+inopectic | skip:unknown
+inosamine | skip:unknown
+inputter | skip:unknown
+inquinant | skip:unknown
+insaturation | skip:unknown
+inscribableness | skip:unknown
+insolubilizer | skip:unknown
+insulinogen | skip:unknown
+insulose | skip:unknown
+integerrimine | skip:unknown
+intensionometer | skip:unknown
+intensivism | skip:unknown
+interceptometer | skip:unknown
+interdeep | skip:unknown
+interdentality | skip:unknown
+interdigitality | skip:unknown
+interferoid | skip:unknown
+interflex | skip:unknown
+intergrant | skip:unknown
+intergranule | skip:unknown
+interlabium | skip:unknown
+intermenstruum | skip:unknown
+interometer | skip:unknown
+interpleuricostal | skip:unknown
+interpositum | skip:unknown
+interpretoscope | skip:unknown
+interradium | skip:unknown
+interreduplication | skip:unknown
+interselling | skip:unknown
+interseptor | skip:unknown
+interstitioma | skip:unknown
+intertelomerization | skip:unknown
+intertidalite | skip:unknown
+intertraction | skip:unknown
+intortor | skip:unknown
+intrabiopelmicrite | skip:unknown
+intracaine | skip:unknown
+intramicarenite | skip:unknown
+intramicrite | n.内碎屑泥晶灰岩 [domain:地质]
+intramode | skip:unknown
+intrastitial | skip:unknown
+inuncant | skip:unknown
+inundatal | skip:unknown
+invection | skip:unknown
+inversor | skip:unknown
+invertomer | skip:unknown
+iochroite | skip:unknown
+iodacetyl | skip:unknown
+iodalbin | skip:unknown
+iodanil | skip:unknown
+iodanisol | skip:unknown
+iodantipyrine | skip:unknown
+iodatimetry | skip:unknown
+iodcarnallite | skip:unknown
+iodchromate | skip:unknown
+iodinin | skip:unknown
+iodipin | skip:unknown
+iodmetry | skip:unknown
+iodoacetal | skip:unknown
+iodocaffeine | skip:unknown
+iodocresol | skip:unknown
+iodocyanide | skip:unknown
+iodoglobulin | skip:unknown
+iodohydrargyrate | skip:unknown
+iodomercurate | skip:unknown
+iodomethylation | skip:unknown
+iodonaphthol | skip:unknown
+iodonation | skip:unknown
+iodone | skip:unknown
+iodonitrotetrazolium | n.碘硝基四唑 [domain:化学]
+iodophenacetin | skip:unknown
+iodophosphide | skip:unknown
+iodosulfate | skip:unknown
+iodotheobromine | skip:unknown
+iodotrinitromethane | skip:unknown
+ionocolorimeter | skip:unknown
+ionography | skip:unknown
+ionometry | skip:unknown
+ionophone | skip:unknown
+iontophoreser | skip:unknown
+iophobia | skip:unknown
+iothiouracil | skip:unknown
+ipecacuanhin | skip:unknown
+ipecine | skip:unknown
+ipilipil | n.银合欢 [domain:植物]
+ipropethidine | skip:unknown
+irghizite | skip:unknown
+iridoscope | n.虹膜镜 [domain:医学]
+iridoscopy | n.虹膜镜检查 [domain:医学]
+iridostaphyloma | n.虹膜葡萄肿 [domain:医学]
+irigenin | skip:unknown
+irradiatometer | skip:unknown
+isabellin | skip:unknown
+isarin | skip:unknown
+ischicerite | skip:unknown
+ischiomyelitis | skip:unknown
+ischiopodium | n.座节 [domain:动物]
+ishikawaite | n.石川石 [domain:矿业]
+ishkulite | skip:unknown
+ishkyldite | skip:unknown
+isiganeite | skip:unknown
+isoacetylene | skip:unknown
+isoadenine | skip:unknown
+isoajmaline | skip:unknown
+isoalantolactone | n.异土木香内酯 [domain:化学]
+isoallyl | skip:unknown
+isoamylidene | skip:unknown
+isoanethole | skip:unknown
+isoanthracene | skip:unknown
+isoapiole | skip:unknown
+isoarecaidine | skip:unknown
+isoaristolone | skip:unknown
+isobavachalcone | n.异补骨脂查尔酮 [domain:化学]
+isobavachin | n.异补骨脂二氢黄酮 [domain:化学]
+isobebeerine | skip:unknown
+isobergapten | n.异佛手柑内酯 [domain:化学]
+isobergaptene | n.异佛手柑内酯 [domain:化学]
+isobisabolene | skip:unknown
+isobornylene | skip:unknown
+isobutylcapramide | skip:unknown
+isobutylidyne | skip:unknown
+isobutylundecylenamide | skip:unknown
+isobutyroin | skip:unknown
+isobutyrone | skip:unknown
+isobutyropyrrothine | skip:unknown
+isobuzole | skip:unknown
+isocalamendiol | skip:unknown
+isocalciferol | skip:unknown
+isocamphane | n.异莰烷 [domain:化学]
+isocamphor | skip:unknown
+isocaproaldehyde | skip:unknown
+isocapronitrile | skip:unknown
+isocarpel | skip:unknown
+isocarveol | skip:unknown
+isocarvone | skip:unknown
+isocaryophyllene | n.异石竹烯 [domain:化学]
+isocatalysis | skip:unknown
+isocellobiose | skip:unknown
+isocholesterin | skip:unknown
+isocholine | skip:unknown
+isochondodendrine | skip:unknown
+isochromate | skip:unknown
+isochronograph | skip:unknown
+isoclase | skip:unknown
+isoclinotropism | skip:unknown
+isococaine | skip:unknown
+isococlaurine | skip:unknown
+isocomplement | skip:unknown
+isocompound | skip:unknown
+isoconcentrate | skip:unknown
+isoconcentration | skip:unknown
+isoconessimine | skip:unknown
+isocorrelate | skip:unknown
+isocorrelation | skip:unknown
+isocorticosterone | skip:unknown
+isocortisol | skip:unknown
+isocortisone | skip:unknown
+isocorybubine | skip:unknown
+isocorybulbine | skip:unknown
+isocorynoxeine | skip:unknown
+isocorypalmine | skip:unknown
+isocrotyl | skip:unknown
+isocurcumenol | skip:unknown
+isocyan | skip:unknown
+isocyanurimide | skip:unknown
+isocycle | skip:unknown
+isocyclocitral | skip:unknown
+isocycloeudesmol | skip:unknown
+isocycloheximide | skip:unknown
+isocytolysine | skip:unknown
+isocytotoxin | skip:unknown
+isodactylism | skip:unknown
+isodarlingianine | skip:unknown
+isodecarine | skip:unknown
+isodensitometer | skip:unknown
+isodensmosine | skip:unknown
+isodextro | skip:unknown
+isodextropimarinol | skip:unknown
+isodiagnosis | skip:unknown
+isodiazotate | skip:unknown
+isodihydronepetalactone | skip:unknown
+isodihydroperparine | skip:unknown
+isodihydrotoxiferine | skip:unknown
+isodispersoid | skip:unknown
+isodrome | skip:unknown
+isodulcitol | n.鼠李糖 [domain:化学]
+isodynamogenic | skip:unknown
+isoeburnamine | skip:unknown
+isoelliptone | skip:unknown
+isoemodin | skip:unknown
+isoendomorphism | skip:unknown
+isoephedrine | skip:unknown
+isoepoxydone | skip:unknown
+isoequilenin | skip:unknown
+isoerythrolaccin | skip:unknown
+isoestradiol | skip:unknown
+isoestrone | skip:unknown
+isoeugenitin | skip:unknown
+isofebrifugine | skip:unknown
+isofebrifuzine | skip:unknown
+isofenchol | n.异葑醇 [domain:化学]
+isofenchone | n.异葑酮 [domain:化学]
+isofernane | skip:unknown
+isoficine | skip:unknown
+isoflavine | skip:unknown
+isofuranodienone | skip:unknown
+isogalloflarin | skip:unknown
+isogalloflavin | skip:unknown
+isogam | skip:unknown
+isogame | skip:unknown
+isogel | skip:unknown
+isogeraniol | skip:unknown
+isoginkgetin | n.异银杏双黄酮 [domain:化学]
+isogonics | skip:unknown
+isogonism | skip:unknown
+isogredient | skip:unknown
+isoguvacine | skip:unknown
+isoharringtonin | n.异三尖杉酯碱 [domain:药学]
+isoharringtonine | n.异三尖杉酯碱 [domain:药学]
+isohelenalin | skip:unknown
+isohesperidin | skip:unknown
+isohexacosane | skip:unknown
+isohexylidene | skip:unknown
+isohexylidyne | skip:unknown
+isohimachalone | skip:unknown
+isohistocompatibility | skip:unknown
+isohistogenicity | skip:unknown
+isohistoincompatibility | skip:unknown
+isohologamy | skip:unknown
+isohopane | skip:unknown
+isohormone | skip:unknown
+isohydrobenzoin | skip:unknown
+isohydrocarbon | skip:unknown
+isohyle | skip:unknown
+isohypoignavine | skip:unknown
+isoimerubrine | skip:unknown
+isoimperatonin | skip:unknown
+isoinhibitor | skip:unknown
+isoinversion | skip:unknown
+isoionone | skip:unknown
+isokinetin | skip:unknown
+isolactose | skip:unknown
+isoleontine | skip:unknown
+isoleucoagglutinin | skip:unknown
+isoleukocytosis | skip:unknown
+isoliensinine | n.异莲心碱 [domain:化学]
+isolimonene | skip:unknown
+isolinderalactone | n.异乌药内酯 [domain:化学]
+isolinderene | skip:unknown
+isolinderoxide | skip:unknown
+isolineolon | skip:unknown
+isolith | skip:unknown
+isolobelanine | skip:unknown
+isolobinanidine | skip:unknown
+isolobinine | skip:unknown
+isololiolide | skip:unknown
+isoloma | skip:unknown
+isolomatiol | skip:unknown
+isolvency | skip:unknown
+isolycopodine | skip:unknown
+isomahanimbine | skip:unknown
+isomajodine | skip:unknown
+isomaltol | n.异麦芽酚 [domain:化学]
+isomannite | skip:unknown
+isomanoene | skip:unknown
+isomenthol | n.异薄荷醇 [domain:化学]
+isomenthone | n.异薄荷酮 [domain:化学]
+isomethadol | skip:unknown
+isomethylionone | skip:unknown
+isometrography | skip:unknown
+isometropal | skip:unknown
+isomicrogamete | skip:unknown
+isomintlactone | skip:unknown
+isomolecule | skip:unknown
+isomultiple | skip:unknown
+isomuscarine | skip:unknown
+isomycomycin | skip:unknown
+isomyristin | skip:unknown
+isomyrtanol | skip:unknown
+isomytiloxanthone | skip:unknown
+isonapelline | skip:unknown
+isonaphthazarin | skip:unknown
+isonaphthol | skip:unknown
+isoneomatabiol | skip:unknown
+isoneomatatabiol | skip:unknown
+isoneonepetalactone | skip:unknown
+isonephrotoxin | skip:unknown
+isoniazone | skip:unknown
+isonicoteine | skip:unknown
+isonicotine | skip:unknown
+isonitramine | skip:unknown
+isonitrosoacetone | skip:unknown
+isonitrosoacetophenone | skip:unknown
+isonitrosocamphor | skip:unknown
+isonopinone | skip:unknown
+isonorcedrenol | skip:unknown
+isonordrimenone | skip:unknown
+isonorin | skip:unknown
+isonormocytosis | skip:unknown
+isonoruron | skip:unknown
+isonovobiocin | skip:unknown
+isoobtusol | skip:unknown
+isooconovine | skip:unknown
+isooctylhydrocupreine | skip:unknown
+isookanin | skip:unknown
+isooleanane | skip:unknown
+isoolivil | skip:unknown
+isoorensine | skip:unknown
+isoorthotherm | skip:unknown
+isopachyte | skip:unknown
+isopamaquine | skip:unknown
+isoparaclase | skip:unknown
+isoparthenogenesis | skip:unknown
+isopatchoulane | skip:unknown
+isopathotherapy | skip:unknown
+isopatrinene | skip:unknown
+isopenniclavine | skip:unknown
+isopentaquine | skip:unknown
+isopentennyladenine | skip:unknown
+isopentenylputrescine | skip:unknown
+isopentylidene | skip:unknown
+isopentylidyne | skip:unknown
+isopepsin | skip:unknown
+isoperimeter | skip:unknown
+isoperiplocymarin | skip:unknown
+isoperiplogenin | skip:unknown
+isophagy | skip:unknown
+isophane | adj.低精蛋白的 [domain:药学]
+isophase | skip:unknown
+isophasm | skip:unknown
+isophene | skip:unknown
+isophenic | skip:unknown
+isophenindamine | skip:unknown
+isophenogamy | skip:unknown
+isophenol | skip:unknown
+isophenolization | skip:unknown
+isophenous | skip:unknown
+isophonic | skip:unknown
+isophoria | skip:unknown
+isophorol | skip:unknown
+isophot | n.等照度线 [domain:物理]
+isophotometer | skip:unknown
+isophotometry | skip:unknown
+isophyllecladene | skip:unknown
+isophyllia | skip:unknown
+isophyllocladene | skip:unknown
+isopia | skip:unknown
+isopic | skip:unknown
+isopicropodophyllone | skip:unknown
+isopiline | skip:unknown
+isopilosine | skip:unknown
+isopimarinol | skip:unknown
+isopinocampheol | skip:unknown
+isopinocamphone | skip:unknown
+isopinol | skip:unknown
+isopinoresinol | skip:unknown
+isopiperitenone | skip:unknown
+isopiptanthine | skip:unknown
+isoplanar | skip:unknown
+isoplanogametes | skip:unknown
+isoplastic | skip:unknown
+isoplere | skip:unknown
+isoplethes | skip:unknown
+isoplumericin | skip:unknown
+isopneustic | skip:unknown
+isopogonous | skip:unknown
+isopolar | skip:unknown
+isopolybase | skip:unknown
+isopolymorphism | skip:unknown
+isopore | skip:unknown
+isoporic | skip:unknown
+isoporoidine | skip:unknown
+isopral | skip:unknown
+isoprecipitin | n.同种沉淀素 [domain:医学]
+isopreference | skip:unknown
+isopressor | skip:unknown
+isopromethazine | skip:unknown
+isopropaline | skip:unknown
+isopropamide | skip:unknown
+isoprophenamine | skip:unknown
+isopropylacetone | skip:unknown
+isopropylarterenol | n.异丙肾上腺素 [domain:药学]
+isopropylideneacetone | skip:unknown
+isopropylnoradrenaline | n.异丙肾上腺素 [domain:药学]
+isopropylphenylbiphenyloxadiazole | skip:unknown
+isoprotein | skip:unknown
+isoprotoverine | skip:unknown
+isopsoralene | n.异补骨脂素 [domain:化学]
+isopterin | skip:unknown
+isopterofuran | skip:unknown
+isopulse | skip:unknown
+isopurone | skip:unknown
+isopurpurin | skip:unknown
+isopycnosis | skip:unknown
+isopygous | skip:unknown
+isopyrin | skip:unknown
+isopyrocalciferol | skip:unknown
+isopyrocholecalciferol | skip:unknown
+isopyroine | skip:unknown
+isoquassin | skip:unknown
+isoquinine | skip:unknown
+isoquinocycline | skip:unknown
+isoracemization | skip:unknown
+isorauhimbine | skip:unknown
+isorauwolfine | skip:unknown
+isoreagent | skip:unknown
+isoreceptor | skip:unknown
+isoreserpiline | skip:unknown
+isorhamnose | skip:unknown
+isorhamnoside | skip:unknown
+isorheic | skip:unknown
+isorhodanide | n.异硫氰酸盐 [domain:化学]
+isorhodeose | skip:unknown
+isorhodomycin | skip:unknown
+isoridentin | skip:unknown
+isorotation | skip:unknown
+isorotenone | skip:unknown
+isorrhea | skip:unknown
+isorrhopic | skip:unknown
+isorubber | skip:unknown
+isorubijervine | skip:unknown
+isorubijervosine | skip:unknown
+isorubin | skip:unknown
+isosaccharide | skip:unknown
+isosacculatal | skip:unknown
+isosafroeugenol | skip:unknown
+isosakuranetin | n.异樱花素 [domain:化学]
+isosaline | skip:unknown
+isosalipurpol | skip:unknown
+isosalsolinol | skip:unknown
+isosantalene | skip:unknown
+isosarcophytoxide | skip:unknown
+isoscope | skip:unknown
+isosepiapterin | skip:unknown
+isoserotherapy | skip:unknown
+isoserum | n.同种血清 [domain:医学]
+isosesamin | skip:unknown
+isosesquicarene | skip:unknown
+isosetoclavine | skip:unknown
+isoshear | skip:unknown
+isoshehkangenin | skip:unknown
+isoshehkanin | skip:unknown
+isoshyobunone | skip:unknown
+isosibiricin | skip:unknown
+isosinglet | n.同位旋单态 [domain:物理]
+isosinomenine | skip:unknown
+isosite | skip:unknown
+isositsirikine | skip:unknown
+isositsivikine | skip:unknown
+isosol | skip:unknown
+isosolanogantamine | skip:unknown
+isosolaseaforthine | skip:unknown
+isosophoramine | skip:unknown
+isosorbitol | skip:unknown
+isospace | skip:unknown
+isospermotoxin | skip:unknown
+isosphere | skip:unknown
+isospondyl | skip:unknown
+isospondylous | skip:unknown
+isospray | skip:unknown

@@ -12,7 +12,7 @@
 | 选词切批 | ✅ `work/selected.jsonl` → 758 批 `work/batches/B0001–B0758.input.jsonl`（每批 200） |
 | Opus 写 / 审 / Fable 仲裁 | ✅ **B0001–B0453 全部合并**（`work/merged/`；B0089 起为 v3；B0343–B0453 为初筛后的尾部）。主体生产完成 |
 | 已合并词条 | **86,851 条**（453/453 批），disputed 0；另有 61,076 个尾部词经初筛记为 too-rare（`work/merged/triage-skips.jsonl`） |
-| 简释扩展层 | ✅ **45,667 条**（`work/merged/gloss.jsonl`，confidence=low，未审核） |
+| 简释扩展层 | ✅ **48,359 条**（含 Opus 重试 2,692 条）（`work/merged/gloss.jsonl`，confidence=low，未审核） |
 | 扩展层（例句、短语、同反义） | ⏳ 未开始 |
 | 发布脚本（繁体、最终排名、CSV/SQLite/MDX/Anki、质量报告） | ⏳ 未写 |
 | git | ✅ 2026-11-18 首次提交（work/raw、sources、headwords*.jsonl、selected.jsonl 不入库，见 .gitignore） |
@@ -61,6 +61,10 @@ B0307 起为尾部罕见/专业词，拉丁学名按 rules.md 一律 not-english
   - `gloss-skips.jsonl` 共 15,409 个：unknown 14,554、not-english 499、not-lemma 211、junk 95、proper 50。
   - 额度：5 小时窗口 7%→43%（约 0.6%/块）；周额度 64%→69%；约 1 小时。
   - 各块跳过率差别很大（3%–80%），主要取决于字母段：化学、矿物、医学词集中的段落 unknown 多，non-/neo- 派生词多的段落覆盖率高。
+- **Opus 重试 unknown（2026-11-19，用户同意）**：用 `gloss.py make-unknown` 把 14,554 个 unknown 切成 U0001–U0015，交给 Opus 再判断一遍（提示模板在 `work/tmp/opusgloss.txt`，每个 agent 2 块）。
+  - 试点 U0001：写出 426 条，574 个仍 unknown，抽查准确，每块约 2% 的 5 小时额度。
+  - 全部完成后重跑 `gloss.py merge`：U 层写出的简释会覆盖 G 层的 unknown，source 记为 gloss-v1-opus。**merge 之后不要再跑 make-unknown**，否则 U 块会重新切分。
+  - **已完成**：15 块共新增 **2,692 条**（试点 U0001 是 43%，其余各块 9–41%，后面字母段更冷僻）。合并后 gloss.jsonl 共 **48,359 条**，gloss-skips 剩 12,717 个。额度：5 小时 3%→16%，周额度 69%→71%。
   - G0026–27 曾被怀疑偷懒而重写，结果相近，原稿保留为 *.lazy.txt。
 
 ## 2. 手动推进：每批的完整流程（v3，B0089 起）

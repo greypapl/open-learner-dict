@@ -1,0 +1,1000 @@
+peligotite | skip:unknown
+pelioma | skip:unknown
+peliomycin | skip:unknown
+pelitization | skip:unknown
+pellagraphobia | n.糙皮病恐惧症 [domain:医学]
+pellagrologist | n.糙皮病学家 [domain:医学]
+pellagrology | n.糙皮病学 [domain:医学]
+pellagrosarium | skip:unknown
+pellagrosis | skip:unknown
+pelletoid | skip:unknown
+pelletron | skip:unknown
+pellicula | skip:not-english
+pellidol | skip:unknown
+pellidon | skip:unknown
+pellitorine | skip:unknown
+pellote | skip:unknown
+pellotin | skip:unknown
+pellotine | skip:unknown
+pelmatogram | skip:unknown
+pelmicrite | n.球粒微晶灰岩 [domain:地质]
+pelogloea | skip:unknown
+pelohemia | skip:unknown
+pelokonite | skip:unknown
+pelology | skip:unknown
+pelopathy | skip:unknown
+pelophile | skip:unknown
+pelophyte | skip:unknown
+pelopic | skip:unknown
+pelopon | skip:unknown
+peloponium | skip:unknown
+pelopsia | skip:unknown
+pelorize | skip:unknown
+pelosine | skip:unknown
+pelsparite | n.球粒亮晶灰岩 [domain:地质]
+pelsparrudite | skip:unknown
+peltation | n.盾状 [domain:植物]
+peltogen | skip:unknown
+peltogynol | skip:unknown
+pelvicephalography | skip:unknown
+pelvicephalometry | n.骨盆胎头测量 [domain:医学]
+pelvicliseometer | skip:unknown
+pelvifixation | skip:unknown
+pelvigraph | n.骨盆描记器 [domain:医学]
+pelvilithotomy | n.肾盂切开取石术 [domain:医学]
+pelviolithotomy | n.肾盂切开取石术 [domain:医学]
+pelvioneostomy | skip:unknown
+pelvioradiography | n.骨盆放射线摄影 [domain:医学]
+pelvioscope | n.盆腔镜 [domain:医学]
+pelvioscopy | n.盆腔镜检查 [domain:医学]
+pelviotomy | n.骨盆切开术 [domain:医学]
+pelviradiography | n.骨盆放射线摄影 [domain:医学]
+pelvisacral | adj.骨盆骶骨的 [domain:解剖]
+pelvisacrum | skip:unknown
+pelviscope | n.盆腔镜 [domain:医学]
+pelvisection | n.骨盆切开术 [domain:医学]
+pelvisternum | skip:unknown
+pelvitherm | skip:unknown
+pelvitomy | n.骨盆切开术 [domain:医学]
+pelvitrochanterian | adj.骨盆转子的 [domain:解剖]
+pelviureterography | n.肾盂输尿管造影 [domain:医学]
+pelviureteroradiography | n.肾盂输尿管造影 [domain:医学]
+pelvoscopy | n.盆腔镜检查 [domain:医学]
+pelyad | skip:unknown
+pelycalgia | n.骨盆痛 [domain:医学]
+pelycephalometry | n.骨盆胎头测量 [domain:医学]
+pelycochirometresis | skip:unknown
+pelycogram | skip:unknown
+pelyte | skip:unknown
+pempidine | skip:unknown
+penamecillin | skip:unknown
+penatin | skip:unknown
+penbritin | skip:proper-out-of-scope
+pencatite | skip:unknown
+pendentelite | skip:not-english
+pendice | skip:unknown
+pendrin | skip:unknown
+pendule | skip:not-english
+pendulent | skip:junk
+pendulette | skip:not-english
+penduliflory | skip:unknown
+penduline | adj.筑吊巢的 [domain:动物]
+penethamate | skip:unknown
+penetrology | skip:unknown
+penetron | skip:unknown
+penfeather | skip:unknown
+penfieldite | skip:unknown
+penful | n.一笔的墨量
+penichromin | skip:unknown
+penicidin | skip:unknown
+penicillenate | skip:unknown
+penicilliary | skip:unknown
+penicilliopsin | skip:unknown
+penicin | skip:unknown
+penikkavaarite | skip:unknown
+penillamine | skip:unknown
+penilloaldehyde | skip:unknown
+penimepiciclina | skip:not-english
+penimepicycline | skip:unknown
+peninsulate | v.使成半岛 [domain:地理]
+peniotron | skip:unknown
+penischisis | n.阴茎裂 [domain:医学]
+penisfilum | skip:unknown
+penitencer | n.听告解神父 [domain:宗教]
+penmate | skip:unknown
+pennaite | skip:unknown
+pennatularian | n.海鳃 [domain:动物]
+pennatulid | n.海鳃 [domain:动物]
+penniclavine | skip:unknown
+pennogenin | skip:unknown
+pennoncelle | n.小旗, 小三角旗
+penocontemporaneous | skip:junk
+penoncel | n.小旗, 小三角旗
+penroseite | skip:unknown
+pentaaminobenzene | skip:unknown
+pentabromization | skip:unknown
+pentachaenium | skip:unknown
+pentachlorization | skip:unknown
+pentachromic | adj.五色的
+pentacid | skip:unknown
+pentacite | skip:unknown
+pentacoccous | skip:unknown
+pentacotyl | skip:unknown
+pentacresol | skip:unknown
+pentacrinoid | skip:unknown
+pentactin | skip:unknown
+pentactula | skip:unknown
+pentadecanaloxime | skip:unknown
+pentadecanolide | n.十五内酯 [domain:化学]
+pentadigalloylglucose | skip:unknown
+pentaether | skip:unknown
+pentafluorization | skip:unknown
+pentafluoroguanidine | skip:unknown
+pentafluranol | skip:unknown
+pentafungin | skip:unknown
+pentagenic | skip:unknown
+pentagestrone | skip:unknown
+pentaglucose | skip:unknown
+pentaglycol | skip:unknown
+pentagraph | skip:unknown
+pentagraphic | skip:unknown
+pentahapto | skip:unknown
+pentahedroid | skip:unknown
+pentahomoserine | skip:unknown
+pentahydrite | skip:unknown
+pentahydroxybenzophenone | skip:unknown
+pentaiodination | skip:unknown
+pentaiodization | skip:unknown
+pentakiene | skip:unknown
+pentalamide | skip:unknown
+pentalane | skip:unknown
+pentaldol | skip:unknown
+pentalenolactone | skip:unknown
+pentalin | skip:unknown
+pentaline | skip:unknown
+pentalophodon | skip:unknown
+pentalupine | skip:unknown
+pentalyn | skip:unknown
+pentamera | skip:unknown
+pentamerid | skip:unknown
+pentameridina | skip:unknown
+pentamerism | n.五基数 [domain:生物]
+pentamethazol | skip:unknown
+pentamethide | skip:unknown
+pentamethine | skip:unknown
+pentamethoxyl | skip:unknown
+pentamethylaminobenzene | skip:unknown
+pentamethylpararosaniline | skip:unknown
+pentammine | skip:unknown
+pentamoxane | skip:unknown
+pentamustine | skip:unknown
+pentamycin | skip:unknown
+pentanitrine | skip:unknown
+pentanitrocellulose | skip:unknown
+pentanitrol | skip:unknown
+pentanitrophenol | skip:unknown
+pentanochlor | skip:unknown
+pentaoxacyclooctadecane | skip:unknown
+pentaphen | skip:unknown
+pentapiperide | skip:unknown
+pentaprismane | skip:unknown
+pentapropyl | skip:unknown
+pentaquine | skip:unknown
+pentase | skip:unknown
+pentasol | skip:unknown
+pentasternum | skip:unknown
+pentastib | skip:unknown
+pentate | skip:unknown
+pentatone | n.五声音阶 [domain:音乐]
+pentatreme | skip:unknown
+pentatrichomoniasis | skip:unknown
+pentatron | skip:unknown
+pentavaccine | n.五联疫苗 [domain:医学]
+pentaxanthin | skip:unknown
+pentazane | skip:unknown
+pentazdiene | skip:unknown
+pentazine | skip:unknown
+pentazol | skip:unknown
+pentazyl | skip:unknown
+pentecoster | skip:unknown
+pentelide | skip:unknown
+penten | skip:unknown
+pentenomycin | skip:unknown
+pentenylpenicillin | n.戊烯青霉素 [domain:药学]
+pentethide | skip:unknown
+penteticacid | skip:junk
+penthienate | skip:unknown
+pentine | skip:unknown
+pentitrate | skip:unknown
+pentnucleotide | skip:unknown
+pentoglycerine | skip:unknown
+pentol | skip:unknown
+pentolinium | skip:unknown
+pentolite | skip:unknown
+pentolysis | skip:unknown
+pentone | skip:unknown
+pentosamine | skip:unknown
+pentosanpolysulfoester | skip:unknown
+pentosephosphate | n.磷酸戊糖 [domain:化学]
+pentosidase | skip:unknown
+pentoxime | skip:unknown
+pentoxyl | skip:unknown
+pentrinitrol | skip:unknown
+pentritol | skip:unknown
+pentrolone | skip:unknown
+pentrough | skip:unknown
+pentryate | skip:unknown
+pentryl | skip:unknown
+pentylbiphenyl | skip:unknown
+pentymal | skip:unknown
+pentymalnatrium | skip:unknown
+penultimatum | skip:unknown
+penuncus | skip:unknown
+peonin | skip:unknown
+peperine | skip:unknown
+peperite | skip:unknown
+peperonal | skip:unknown
+pepperer | n.胡椒商
+pepsase | skip:unknown
+pepsigogue | n.促胃蛋白酶分泌剂 [domain:医学]
+pepsilphen | skip:unknown
+pepsinase | skip:unknown
+pepsinotherapy | n.胃蛋白酶疗法 [domain:医学]
+pepsitensin | skip:unknown
+pepster | skip:unknown
+peptamine | skip:unknown
+peptase | skip:unknown
+pepthiomycin | skip:unknown
+peptidolytic | adj.分解肽的 [domain:生物]
+peptimist | skip:unknown
+peptimycin | skip:unknown
+peptinogan | skip:unknown
+peptinotoxin | skip:unknown
+peptizate | skip:unknown
+peptizator | skip:unknown
+peptocrinine | skip:unknown
+peptogaster | skip:unknown
+peptogen | skip:unknown
+peptogenic | skip:unknown
+peptogenous | skip:unknown
+peptolysis | n.胨分解 [domain:化学]
+peptolytic | adj.分解胨的 [domain:化学]
+peptomyosin | skip:unknown
+peptonaemia | n.胨血症 [domain:医学]
+peptonate | skip:unknown
+peptonemia | n.胨血症 [domain:医学]
+peptonephridia | skip:unknown
+peptonoid | skip:unknown
+peptonolysis | n.胨分解 [domain:化学]
+peptophilic | skip:unknown
+peptotoxin | skip:unknown
+peptotoxine | skip:unknown
+peptoxine | skip:unknown
+peptozym | skip:unknown
+pequi | skip:unknown
+perabrodil | skip:proper-out-of-scope
+peracephalus | skip:unknown
+peracetate | n.过乙酸盐 [domain:化学]
+peracidite | skip:unknown
+peracidity | n.胃酸过多 [domain:医学]
+peralboranite | skip:unknown
+peralcohol | skip:unknown
+perandren | skip:proper-out-of-scope
+perarticulation | skip:unknown
+peratodynia | skip:unknown
+peraxillary | skip:unknown
+perazine | skip:unknown
+perbasic | skip:unknown
+perborax | skip:unknown
+percarbide | skip:unknown
+perchlorethane | n.六氯乙烷 [domain:化学]
+perchlorether | skip:unknown
+perchlormethylformate | n.双光气 [domain:化学]
+percivalite | skip:unknown
+percnosome | skip:unknown
+percrystalline | skip:unknown
+percrystallization | skip:unknown
+percussopunctator | skip:unknown
+percylite | skip:unknown
+perdeuterioalkane | skip:unknown
+perdistillation | skip:unknown
+peregrinism | skip:unknown
+peregrinity | n.外国性, 异域性 [dated]
+pereionite | skip:unknown
+pereirine | skip:unknown
+perencephaly | skip:unknown
+perequation | skip:unknown
+peresimycin | skip:unknown
+perezinone | skip:unknown
+perezone | skip:unknown
+perferrate | skip:unknown
+perflation | skip:unknown
+perflow | skip:unknown
+perfluamine | skip:unknown
+perfluidone | skip:unknown
+perfluoroallene | skip:unknown
+perfluoroamine | skip:unknown
+perfluorodimethylcyclohexane | n.全氟二甲基环己烷 [domain:化学]
+perhafnate | skip:unknown
+perhalide | skip:unknown
+perhalogenomethane | skip:unknown
+perhapsatron | skip:unknown
+perhydrate | skip:unknown
+perhydridase | skip:unknown
+perhydride | skip:unknown
+perhydrocyclopentanophenanthrene | n.环戊烷多氢菲 [domain:化学]
+periacinal | adj.腺泡周围的 [domain:解剖]
+periadventitial | adj.外膜周围的 [domain:解剖]
+periangiocholitis | n.胆管周围炎 [domain:医学]
+periangioma | skip:unknown
+perianthopodin | skip:unknown
+periastral | skip:unknown
+periblastula | skip:unknown
+periblepsis | skip:unknown
+peribole | skip:unknown
+peribolos | n.神庙围墙 [domain:建筑]
+peribolus | n.神庙围墙 [domain:建筑]
+peribursai | skip:junk
+pericambium | n.中柱鞘 [domain:植物]
+pericanalicular | adj.小管周围的 [domain:解剖]
+pericardiomediastinitis | n.心包纵隔炎 [domain:医学]
+pericardiopleural | adj.心包胸膜的 [domain:解剖]
+pericardiopunctura | skip:not-english
+pericardosis | skip:unknown
+pericementoclasia | skip:unknown
+pericephalic | skip:unknown
+perichaetine | skip:unknown
+perichondroma | skip:unknown
+perichord | n.脊索鞘 [domain:生物]
+perichoretic | skip:unknown
+perichoroid | adj.脉络膜周围的 [domain:解剖]
+perichrome | skip:unknown
+periclaustral | skip:unknown
+periclinium | n.总苞 [domain:植物]
+periconchal | skip:unknown
+periconchitis | skip:unknown
+pericowperitis | n.尿道球腺周围炎 [domain:医学]
+pericyazine | skip:unknown
+pericycloid | skip:unknown
+pericystium | skip:unknown
+pericytial | skip:unknown
+pericytoma | n.周皮细胞瘤 [domain:医学]
+peridectomy | skip:unknown
+perideferentitis | n.输精管周围炎 [domain:医学]
+peridentoclasia | skip:unknown
+peridermioid | skip:unknown
+peridermium | skip:unknown
+peridesmic | adj.韧带周围的 [domain:解剖]
+peridesmitis | n.韧带周围炎 [domain:医学]
+peridesmium | skip:unknown
+peridiastole | skip:unknown
+peridiastolic | skip:unknown
+perididymis | skip:unknown
+peridiole | n.小包 [domain:植物]
+peridiolum | n.小包 [domain:植物]
+periductile | skip:unknown
+peridurogram | skip:unknown
+peridurography | n.硬膜外造影 [domain:医学]
+periencephalitis | n.脑表层炎 [domain:医学]
+periencephalography | skip:unknown
+periencephalomeningitis | skip:unknown
+periendothelioma | skip:unknown
+perienteron | skip:unknown
+periepithelioma | skip:unknown
+perifocus | skip:unknown
+perigalacticum | skip:unknown
+perigemmal | skip:unknown
+periglandulitis | n.腺周炎 [domain:医学]
+periglial | skip:unknown
+periglossitis | n.舌周炎 [domain:医学]
+periglottic | adj.舌周的 [domain:解剖]
+periglottis | skip:unknown
+perignathic | skip:unknown
+perigraph | skip:unknown
+perigraphic | skip:unknown
+perihaemal | skip:unknown
+perihernial | adj.疝周的 [domain:医学]
+perihysteric | skip:unknown
+perikinetic | skip:unknown
+perilabyrinth | skip:unknown
+perilabyrinthitis | n.迷路周围炎 [domain:医学]
+perilobulitis | n.小叶周围炎 [domain:医学]
+perilympha | skip:not-english
+perilymphadenitis | n.淋巴结周围炎 [domain:医学]
+perilymphangeal | adj.淋巴管周围的 [domain:解剖]
+perilymphangial | adj.淋巴管周围的 [domain:解剖]
+perilymphatic | adj.外淋巴的 [domain:解剖]
+perimagmatic | skip:unknown
+perimartian | skip:unknown
+perimastitis | n.乳腺周围炎 [domain:医学]
+perimeningitis | skip:unknown
+perimercurian | skip:unknown
+perimethazine | skip:unknown
+perimetrist | skip:unknown
+perimetrosalpingitis | n.子宫输卵管周围炎 [domain:医学]
+perimidine | skip:unknown
+perimidinyl | skip:unknown
+perimidyl | skip:unknown
+perimorph | skip:unknown
+perimycin | skip:unknown
+perimyelis | skip:unknown
+perimyelitis | skip:unknown
+perimyelography | skip:unknown
+perinaphthene | skip:unknown
+perinaphthenone | skip:unknown
+perinaphthodiazine | skip:unknown
+perineauxesis | skip:unknown
+perineoanoplasty | skip:unknown
+perineocolporectomyomectomy | skip:unknown
+perineometer | n.会阴压力计 [domain:医学]
+perineosynthesis | skip:unknown
+perineovaginorectal | skip:unknown
+perinephrium | skip:unknown
+perinephros | skip:unknown
+periodide | skip:unknown
+periodism | n.周期性
+periodmeter | skip:unknown
+periodograph | skip:unknown
+periodometer | skip:unknown
+periodoscope | skip:unknown
+periodyl | skip:unknown
+periodynia | skip:unknown
+perionyx | skip:unknown
+perionyxis | n.甲周炎 [domain:医学]
+perioophorosalpingitis | skip:unknown
+perioothecitis | skip:unknown
+perioothecosalpingitis | skip:unknown
+perioptometry | skip:unknown
+periosteodema | n.骨膜水肿 [domain:医学]
+periosteolysis | skip:unknown
+periosteomedullitis | n.骨膜骨髓炎 [domain:医学]
+periosteopathy | n.骨膜病 [domain:医学]
+periosteophyte | n.骨膜骨赘 [domain:医学]
+periosteophyton | skip:not-english
+periosteosis | skip:unknown
+periostoma | skip:unknown
+periostomedullitis | n.骨膜骨髓炎 [domain:医学]
+periostosis | skip:unknown
+peripachymeningitis | skip:unknown
+peripenial | skip:unknown
+peripericarditis | n.心包周围炎 [domain:医学]
+periphakitis | skip:unknown
+periphakus | skip:unknown
+peripherad | adv.向周围 [domain:解剖]
+peripheralist | skip:unknown
+peripherine | skip:unknown
+peripherocentral | skip:unknown
+peripheroceptor | skip:unknown
+peripheroneural | skip:unknown
+periphonic | skip:unknown
+periphrenitis | n.膈周炎 [domain:医学]
+periphytic | adj.周丛生物的 [domain:生物]
+periplanatic | skip:unknown
+periplasmodium | skip:unknown
+periplastic | skip:unknown
+peripleuritis | n.胸膜外炎 [domain:医学]
+periplocymarin | skip:unknown
+periplogenin | n.杠柳苷元 [domain:化学]
+peripneustic | skip:unknown
+peripodal | skip:unknown
+peripolesis | skip:unknown
+periproctic | adj.肛周的 [domain:解剖]
+peripterous | adj.周柱式的 [domain:建筑]
+periptery | n.周柱式建筑 [domain:建筑]
+peripuncture | skip:unknown
+peripyema | skip:unknown
+peripylic | skip:unknown
+perirhizoclasia | skip:unknown
+perisaccate | skip:unknown
+perisalpinx | skip:unknown
+perisclerium | skip:unknown
+periselen | skip:unknown
+perisinuitis | n.鼻窦周围炎 [domain:医学]
+perisinuous | skip:unknown
+perisoma | skip:unknown
+perisomal | skip:unknown
+perisome | skip:unknown
+perispermatitis | n.精索周围炎 [domain:医学]
+perisplanchnic | adj.内脏周围的 [domain:解剖]
+perisplanchnitis | n.内脏周围炎 [domain:医学]
+perispomena | skip:not-english
+perispomenon | skip:not-english
+perispondylic | adj.椎周的 [domain:解剖]
+perisporangiate | skip:unknown
+perisporinium | skip:unknown
+perissodactylate | adj.奇蹄的 [domain:动物]
+perissodactylism | skip:unknown
+peristaltin | skip:unknown
+peristaphyline | skip:unknown
+peristaphylitis | skip:unknown
+peristase | skip:unknown
+peristasis | skip:unknown
+peristele | skip:unknown
+peristerite | n.晕长石 [domain:矿业]
+peristole | skip:unknown
+peristolic | skip:unknown
+peristomate | skip:unknown
+peristomatic | skip:unknown
+peristomatous | skip:unknown
+peristroma | skip:unknown
+peristrumitis | skip:unknown
+peristrumous | skip:unknown
+perisynovitis | n.滑膜周围炎 [domain:医学]
+perisyringitis | skip:unknown
+perisystole | skip:unknown
+perisystolic | skip:unknown
+perite | skip:unknown
+peritectoid | adj.包析的 [domain:物理]
+peritectomy | skip:unknown
+peritenonitis | n.腱周炎 [domain:医学]
+perithallium | skip:unknown
+perithecicole | skip:unknown
+perithecigerous | skip:unknown
+peritheciophorous | skip:unknown
+peritomist | skip:unknown
+peritomize | skip:unknown
+peritomy | skip:unknown
+peritonealgia | n.腹膜痛 [domain:医学]
+peritoneoclysis | skip:unknown
+peritoneomuscular | skip:unknown
+peritoneopathy | n.腹膜病 [domain:医学]
+peritoneopericardial | adj.腹膜心包的 [domain:解剖]
+peritoneotome | skip:unknown
+peritoneotony | skip:unknown
+peritonism | n.假性腹膜炎 [domain:医学]
+peritracheitis | n.气管周围炎 [domain:医学]
+peritrichously | adv.周身鞭毛地 [domain:生物]
+peritroch | skip:unknown
+peritrochoid | skip:unknown
+peritrophic | adj.围食膜的 [domain:动物]
+peritropous | skip:unknown
+peritruncal | skip:unknown
+perittogamous | skip:unknown
+perittogamy | skip:unknown
+perituberculosis | skip:unknown
+periuranian | skip:unknown
+periuranium | skip:unknown
+periuvular | skip:unknown
+perivesicular | adj.精囊周围的 [domain:解剖]
+perivesiculitis | n.精囊周围炎 [domain:医学]
+perivisceritis | n.内脏周围炎 [domain:医学]
+perixenitis | skip:unknown
+perixylic | skip:unknown
+perkeratosis | skip:unknown
+perkinism | skip:unknown
+perknite | skip:unknown
+perlid | skip:unknown
+perlimonite | skip:unknown
+permanganyl | skip:unknown
+permeametry | skip:unknown
+permeaselectivity | n.渗透选择性 [domain:化学]
+permeater | skip:unknown
+permer | skip:unknown
+permissionist | skip:unknown
+permissivist | skip:unknown
+permometer | skip:unknown
+permutoid | skip:unknown
+perniciosiform | skip:unknown
+peroba | skip:unknown
+peromely | skip:unknown
+peronarthrosis | skip:unknown
+peronate | skip:unknown
+peroneum | skip:unknown
+peroplasia | skip:unknown
+peropyrene | skip:unknown
+perosplanchnic | skip:unknown
+perotic | skip:unknown
+peroxamine | skip:unknown
+peroxidate | skip:unknown
+peroxonitric | skip:unknown
+perparaldehyde | skip:unknown
+perplanar | skip:unknown
+perplication | skip:unknown
+perradius | skip:unknown
+perryite | skip:unknown
+perseite | n.鳄梨糖醇 [domain:化学]
+perseitol | n.鳄梨糖醇 [domain:化学]
+perseulose | skip:unknown
+persic | skip:unknown
+persilicic | skip:unknown
+personative | skip:unknown
+persorption | skip:unknown
+perspectograph | skip:unknown
+perspectometer | skip:unknown
+perspirability | skip:unknown
+perstriction | skip:unknown
+pertechnic | skip:unknown
+perthophyte | skip:unknown
+perthosite | skip:unknown
+pertusion | skip:unknown
+pertussoid | adj.百日咳样的 [domain:医学]
+peruvite | skip:unknown
+peruvoside | skip:unknown
+pervaporate | v.渗透蒸发 [domain:化学]
+pesticin | n.鼠疫菌素 [domain:生物]
+petalodont | skip:unknown
+petasma | skip:unknown
+petate | skip:unknown
+petaurist | skip:unknown
+petchary | skip:unknown
+petechiasis | n.瘀点形成 [domain:医学]
+petechioid | skip:unknown
+petechiometer | skip:unknown
+peteman | skip:unknown
+petermen | skip:unknown
+petraeous | skip:unknown
+petroacetylene | skip:unknown
+petrobasilar | skip:unknown
+petrobenzene | skip:unknown
+petroclastic | skip:unknown
+petrogenous | skip:unknown
+petrogeometry | skip:unknown
+petroglyphy | n.岩刻艺术 [domain:美术]
+petrogram | skip:unknown
+petrolization | skip:unknown
+petrolized | skip:unknown
+petrometallogeny | skip:unknown
+petronaphthalene | skip:unknown
+petronate | skip:unknown
+petrophone | skip:unknown
+petrosectomy | n.岩骨切除术 [domain:医学]
+petrosilane | skip:unknown
+petrosomastoid | skip:unknown
+petrosphere | skip:unknown
+petrostaphylinus | skip:unknown
+petscheckite | skip:unknown
+petterdite | skip:unknown
+pettle | skip:unknown
+petunin | skip:unknown
+peucedanin | skip:unknown
+peucedanine | skip:unknown
+pezizoid | adj.盘菌状的 [domain:植物]
+phacellite | skip:unknown
+phacelloid | skip:unknown
+phacentocele | skip:unknown
+phacidioid | skip:unknown
+phacoanaphylaxis | n.晶状体过敏症 [domain:医学]
+phacocele | n.晶状体疝 [domain:医学]
+phacochromacytoma | skip:unknown
+phacoglaucoma | n.晶状体性青光眼 [domain:医学]
+phacohymenitis | skip:unknown
+phacoiditis | skip:unknown
+phacoidoscope | skip:unknown
+phacolith | n.岩鞍 [domain:地质]
+phacolysin | skip:unknown
+phacoma | skip:unknown
+phacometer | skip:unknown
+phacopalingenesis | skip:unknown
+phacoscope | skip:unknown
+phacoscopy | skip:unknown
+phacoscotasmus | skip:unknown
+phacotherapy | skip:unknown
+phacozymase | skip:unknown
+phaeism | skip:unknown
+phaenocarpous | skip:unknown
+phaenopetalous | skip:unknown
+phaeochromin | skip:unknown
+phaeodictyosporous | skip:unknown
+phaeodium | skip:unknown
+phaeofacin | skip:unknown
+phaeohemins | skip:unknown
+phaeophragmious | skip:unknown
+phaeophyll | skip:unknown
+phaeoplast | skip:unknown
+phaeoretin | skip:unknown
+phaeospore | skip:unknown
+phagedenism | skip:unknown
+phagedenoma | skip:unknown
+phagelysis | skip:unknown
+phagocaryosis | skip:unknown
+phagocidin | skip:unknown
+phagocytoblast | skip:unknown
+phagodynamometer | skip:unknown
+phagokaryosis | skip:unknown
+phagolessin | skip:unknown
+phagological | skip:unknown
+phagology | skip:unknown
+phagolysis | n.吞噬细胞溶解 [domain:医学]
+phagolytic | skip:unknown
+phagomania | n.贪食癖 [domain:医学]
+phagomycin | skip:unknown
+phagopedin | skip:unknown
+phagophilia | skip:unknown
+phagopyrism | n.荞麦中毒 [domain:医学]
+phagopyrosis | skip:unknown
+phagostatin | skip:unknown
+phagotherapy | skip:unknown
+phakocele | skip:unknown
+phakoerysis | skip:unknown
+phakolysis | n.晶状体溶解 [domain:医学]
+phakoma | skip:unknown
+phakomatoblast | skip:unknown
+phakomatose | skip:unknown
+phakometer | skip:unknown
+phakoscope | skip:unknown
+phalacrosis | n.秃发 [domain:医学]
+phalacrotic | skip:unknown
+phalangette | skip:unknown
+phalangister | skip:unknown
+phalangization | skip:unknown
+phalangophalangeal | skip:unknown
+phalangosis | skip:unknown
+phalansterianism | n.傅立叶主义 [domain:政治]
+phalera | skip:unknown
+phallanastrophe | skip:unknown
+phallaneurysm | skip:unknown
+phallin | skip:unknown
+phallobase | skip:unknown
+phallocampsis | skip:unknown
+phallocrypsis | skip:unknown
+phallocrypt | skip:unknown
+phallomere | skip:unknown
+phalloncus | skip:unknown
+phallorrhagia | n.阴茎出血 [domain:医学]
+phallorrhea | skip:unknown
+phallosome | skip:unknown
+phallotheca | skip:unknown
+phallotomy | skip:unknown
+phallotoxin | n.鬼笔毒素 [domain:生物]
+phallotreme | skip:unknown
+phaneomere | skip:unknown
+phanerite | skip:unknown
+phanerocryst | skip:unknown
+phanerogenic | skip:unknown
+phaneromania | skip:unknown
+phaneromer | skip:unknown
+phaneromere | skip:unknown
+phaneroplasm | skip:unknown
+phaneroplasmodium | skip:unknown
+phaneropore | skip:unknown
+phaneroscope | skip:unknown
+phaneroscopy | skip:unknown
+phanerosis | skip:unknown
+phanerosterol | skip:unknown
+phanerous | skip:unknown
+phanic | skip:unknown
+phanoclastic | skip:unknown
+phanodorm | skip:proper-out-of-scope
+phanodorn | skip:proper-out-of-scope
+phanotron | skip:unknown
+phanquinone | skip:unknown
+phanquone | skip:unknown
+phantasmatology | skip:unknown
+phantasmatomoria | skip:unknown
+phantasmography | skip:unknown
+phantasmology | skip:unknown
+phantasmoscopia | skip:unknown
+phantastran | skip:unknown
+phantastron | skip:unknown
+phantigrade | skip:unknown
+phantophone | skip:unknown
+phantoscope | skip:unknown
+phaochrome | skip:unknown
+pharate | skip:unknown
+pharbitin | n.牵牛子苷 [domain:化学]
+pharmacodiagnosis | n.药物诊断法 [domain:医学]
+pharmacography | skip:unknown
+pharmacomania | n.药物癖 [domain:医学]
+pharmacopedia | skip:unknown
+pharmacophagous | skip:unknown
+pharmacophilia | n.嗜药癖 [domain:医学]
+pharmacopsychosis | n.药物性精神病 [domain:医学]
+pharmacopyrite | skip:unknown
+pharmacoradiography | skip:unknown
+pharmacosiderosis | skip:unknown
+pharmagel | skip:unknown
+pharmic | skip:unknown
+pharoid | skip:unknown
+pharyngectasia | n.咽扩张 [domain:医学]
+pharyngemphraxis | n.咽阻塞 [domain:医学]
+pharyngeus | skip:unknown
+pharyngism | n.咽痉挛 [domain:医学]
+pharyngitid | skip:unknown
+pharyngobranchial | adj.咽鳃的 [domain:动物]
+pharyngoceratosis | skip:unknown
+pharyngoepiglotticus | skip:unknown
+pharyngoesophagus | skip:unknown
+pharyngoglossus | n.咽舌肌 [domain:解剖]
+pharyngognathi | skip:not-english
+pharyngolysis | skip:unknown
+pharyngoneurosis | skip:unknown
+pharyngopalatinus | n.腭咽肌 [domain:解剖]
+pharyngoperistole | skip:unknown
+pharyngopolypus | skip:unknown
+pharyngosalpingitis | n.咽鼓管炎 [domain:医学]
+pharyngoscleroma | n.咽硬结病 [domain:医学]
+pharyngostenia | skip:unknown
+pharyngotherapy | skip:unknown
+pharyngotyphoid | skip:unknown
+pharyngoxerosis | n.咽干燥 [domain:医学]
+phaselin | skip:unknown
+phaseoliform | skip:unknown
+phaseoline | skip:unknown
+phaseolunatin | skip:unknown
+phaseomannite | skip:unknown
+phasin | skip:unknown
+phasitron | skip:unknown
+phasmajector | skip:unknown
+phasmalogen | skip:unknown
+phasocytal | skip:unknown
+phasograph | skip:unknown
+phasotropy | skip:unknown
+phecine | skip:unknown
+phedracine | skip:unknown
+phegma | skip:unknown
+phellandral | skip:unknown
+phellandrium | skip:unknown
+phellium | skip:unknown
+phelloid | skip:unknown
+phellomere | skip:unknown
+phellophilus | skip:unknown
+phelloplastic | skip:unknown
+phellos | skip:unknown
+phemeride | skip:unknown
+phemethylol | skip:unknown
+phemitone | n.甲苯比妥 [domain:药学]
+phenacethydrazine | skip:unknown
+phenacetol | skip:unknown
+phenacetolin | skip:unknown
+phenacetylaniline | skip:unknown
+phenacylamine | skip:unknown
+phenacylidene | skip:unknown
+phenadone | skip:unknown
+phenadoxone | skip:unknown
+phenaglycodol | skip:unknown
+phenalgin | skip:unknown
+phenallymal | skip:unknown
+phenalzine | skip:unknown
+phenamet | skip:unknown
+phenamidine | skip:unknown
+phenamine | skip:unknown
+phenampromid | skip:unknown
+phenampromide | skip:unknown
+phenanthrahydroquinone | skip:unknown
+phenanthrine | skip:unknown
+phenanthrolene | skip:unknown
+phenanthrophenazine | skip:unknown
+phenanthryne | skip:unknown
+phenantoin | skip:unknown
+phenaphthacridone | skip:unknown
+phenarsazine | skip:unknown
+phenarsen | skip:unknown
+phenarsenamine | skip:unknown
+phenarsine | skip:unknown
+phenatine | skip:unknown
+phenazonium | skip:unknown
+phenbenzamine | skip:unknown
+phenbutamide | skip:unknown
+phencapton | skip:unknown
+phencarbamine | skip:unknown
+phendioxin | skip:unknown
+phenegol | skip:unknown
+phenelyl | skip:unknown
+phenemyl | skip:unknown
+phenenyl | skip:unknown
+pheneridine | skip:unknown
+phenesterine | skip:unknown
+phenetamine | skip:unknown
+phenetetrol | skip:unknown
+phenetharbital | skip:unknown
+phenethium | skip:unknown
+phenetide | skip:unknown
+phenetidinuria | skip:unknown
+phenetsal | skip:unknown
+phenetyl | skip:unknown
+phenglurethane | skip:unknown
+phenglutarimide | skip:unknown
+phenicarbazide | skip:unknown
+phenicate | skip:unknown
+phenicin | skip:unknown
+phenide | skip:unknown
+phenidin | skip:unknown
+phenidine | skip:unknown
+phenidone | n.菲尼酮 [domain:摄影]
+phenil | skip:unknown
+phenin | skip:unknown
+pheniodol | skip:unknown
+phenixin | skip:unknown
+phenmethyltriazine | skip:unknown
+phenmiazine | skip:unknown
+phenobutiodil | skip:unknown
+phenocain | skip:unknown
+phenoclast | skip:unknown
+phenocoll | skip:unknown
+phenocontour | skip:unknown
+phenoctide | skip:unknown
+phenocytology | skip:unknown
+phenodeviant | skip:unknown
+phenodianisyl | skip:unknown
+phenodin | skip:unknown
+phenogen | skip:unknown
+phenogroup | skip:unknown
+phenoloid | skip:unknown
+phenololipoid | skip:unknown
+phenolphthalin | skip:unknown
+phenolphthalol | skip:unknown
+phenolquinine | skip:unknown
+phenolysis | skip:unknown
+phenomenistic | skip:unknown
+phenometry | skip:unknown
+phenomorphan | skip:unknown
+phenomycin | skip:unknown
+phenon | skip:unknown
+phenonaphthazine | skip:unknown
+phenophenanthrazine | skip:unknown
+phenopiazine | skip:unknown
+phenopyrazone | skip:unknown
+phenopyrine | skip:unknown
+phenoresorcin | skip:unknown
+phenosal | skip:unknown
+phenosalyl | skip:unknown
+phenose | skip:unknown
+phenoselenazine | skip:unknown
+phenospectrum | skip:unknown
+phenospermy | skip:unknown
+phenostal | skip:unknown
+phenosuccinate | skip:unknown
+phenosulfazole | skip:unknown
+phenothalin | skip:unknown
+phenothioxin | skip:unknown
+phenoval | skip:unknown
+phenoweld | skip:unknown
+phenoxanthein | skip:unknown
+phenoxarsine | skip:unknown
+phenoxaselenin | skip:unknown
+phenoxatellurin | skip:unknown
+phenoxin | skip:unknown
+phenoxthine | skip:unknown
+phenoxycaffeine | skip:unknown
+phenoxyisopropylpenicillin | skip:unknown
+phenoxypropanediol | skip:unknown
+phenoxypropazine | skip:unknown
+phenozygous | skip:unknown
+phenpentermine | skip:unknown
+phenpiazine | skip:unknown
+phenpromethamine | skip:unknown
+phenthiazone | skip:unknown
+phenthiol | skip:unknown
+phentriazine | skip:unknown
+phentriazophos | skip:unknown
+phentydrone | skip:unknown
+phenylaniline | skip:unknown
+phenylazobenzene | skip:unknown
+phenylbenzhydryl | skip:unknown
+phenylborine | skip:unknown
+phenylboronate | skip:unknown
+phenylcarbamido | skip:unknown
+phenylchinaldine | skip:unknown
+phenylcumalin | skip:unknown
+phenyldicarbinol | skip:unknown
+phenyldichloride | skip:unknown
+phenylenebisazo | skip:unknown
+phenylenedimethylene | skip:unknown
+phenylenedimethylidyne | skip:unknown
+phenylethylacetourea | skip:unknown
+phenylethylhydantoin | skip:unknown
+phenylglycal | skip:unknown
+phenylidene | skip:unknown
+phenylisonitramine | skip:unknown
+phenyllactazam | skip:unknown
+phenylmethylacetone | skip:unknown
+phenylmethylquinoline | skip:unknown
+phenylnitrone | skip:unknown
+phenylone | skip:unknown
+phenyloxalate | skip:unknown
+phenyloxydisulfide | skip:unknown
+phenylpropiophenone | skip:unknown
+phenylpropylmethylamine | skip:unknown
+phenylquinaldine | skip:unknown
+phenylsulfamoyl | skip:unknown
+phenylsulfamyl | skip:unknown
+phenylsulfate | skip:unknown
+phenylthioalcohol | skip:unknown
+phenyltolyl | skip:unknown
+phenyramidol | skip:unknown
+phenythilone | skip:unknown
+phenzoline | skip:unknown
+pheohemin | skip:unknown
+pheophorbin | skip:unknown
+pheoplast | skip:unknown
+pheoretin | skip:unknown
