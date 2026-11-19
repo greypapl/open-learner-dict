@@ -67,6 +67,21 @@ B0307 起为尾部罕见/专业词，拉丁学名按 rules.md 一律 not-english
   - **已完成**：15 块共新增 **2,692 条**（试点 U0001 是 43%，其余各块 9–41%，后面字母段更冷僻）。合并后 gloss.jsonl 共 **48,359 条**，gloss-skips 剩 12,717 个。额度：5 小时 3%→16%，周额度 69%→71%。
   - G0026–27 曾被怀疑偷懒而重写，结果相近，原稿保留为 *.lazy.txt。
 
+### 下一步（2026-11-19 用户已决定：compact 后依次做 1 → 2 → 3）
+
+主词典（86,851）和简释层（48,359）都已完成。wordfreq 前 30 万词对比结果：普通单词基本收全，高频词里还缺的主要是专有名词、品牌、缩写，以及屈折变化形式；短语还完全没做。
+
+1. **变形索引**（纯脚本，零额度）
+   - 生成 `work/merged/inflections.jsonl`（形式 → 原词，如 went→go、children→child、best→good）。
+   - 来源：主词典词条的 inflections 字段、ECDICT 的 exchange 字段，以及 not-lemma skip 记录；只收原词在主词典或简释层里的。
+2. **专名层**（类似 gloss，约 5,000 词，估计 5–8% 的 5 小时额度）
+   - wordfreq zipf ≥ 3 中未收录的地名、人名、品牌、机构缩写（chicago、google、fbi…），写标准中文译名。
+   - 单独成层，标 `layer: proper`。
+   - 先用脚本列出候选（排除已收、已 skip、变形），再分块交给 Sonnet；规则另写 `prompts/proper.md`。
+3. **短语层**（价值最高、工作量最大）
+   - 从前 5,000–10,000 个常用词出发，让模型列出常用短语动词、介词短语、习语（give up、in spite of、break the ice），先出候选，再走写手 → 审核（→ 仲裁）。
+   - 需要新的格式和规则（`prompts/phrase-*.md`），预计几千到一万多条，一两个 5 小时窗口。开始前先试点。
+
 ## 2. 手动推进：每批的完整流程（v3，B0089 起）
 
 工作目录 `C:/Users/greypapl/project/整理单词`，Python 一律 `.venv/Scripts/python -X utf8 -I`。
