@@ -1,0 +1,1000 @@
+intrachondrial | adj.软骨内的 [domain:解剖]
+intrachordal | adj.索内的 [domain:解剖]
+intraciliary | adj.纤毛内的 [domain:生物]
+intracisternal | adj.池内的 [domain:解剖]
+intraclast | n.内碎屑 [domain:地质]
+intracloud | adj.云内的 [domain:气象]
+intracolic | adj.结肠内的 [domain:解剖]
+intracompany | adj.公司内部的 [domain:商业]
+intraconnection | n.内部连接
+intracordal | adj.声带内的 [domain:解剖]
+intracordial | skip:junk
+intracoronal | adj.冠内的 [domain:医学]
+intracorporal | adj.体内的 [domain:医学]
+intracorpuscular | adj.血球内的 [domain:医学]
+intracostal | adj.肋内的 [domain:解剖]
+intracranially | adv.颅内地 [domain:医学]
+intracrystalline | adj.晶体内的 [domain:地质]
+intracutaneous | adj.皮内的 [domain:医学]
+intracutaneously | adv.皮内地 [domain:医学]
+intrada | n.前奏曲 [domain:音乐]
+intradental | adj.牙内的 [domain:医学]
+intradepartmental | adj.部门内的
+intradermic | adj.皮内的 [domain:医学]
+intradermoreaction | n.皮内反应 [domain:医学]
+intradisciplinary | adj.学科内的
+intraduodenal | adj.十二指肠内的 [domain:解剖]
+intradural | adj.硬膜内的 [domain:解剖]
+intraepidermal | adj.表皮内的 [domain:解剖]
+intrafallopian | adj.输卵管内的 [domain:解剖]
+intrafascicular | adj.束内的 [domain:植物]
+intrafebrile | adj.发热期的 [domain:医学]
+intrafilar | adj.丝内的
+intrafissural | adj.裂内的
+intrafistular | adj.瘘管内的 [domain:医学]
+intrafloral | adj.花内的 [domain:植物]
+intrafoliaceous | adj.叶内的 [domain:植物]
+intrafollicular | adj.滤泡内的 [domain:解剖]
+intraformational | adj.层内的 [domain:地质]
+intrafusal | adj.梭内的 [domain:解剖]
+intragalactic | adj.星系内的 [domain:天文]
+intraganglionic | adj.神经节内的 [domain:解剖]
+intragemmal | adj.芽内的
+intrageosyncline | n.地槽内 [domain:地质]
+intraglacial | adj.冰内的 [domain:地质]
+intraglandular | adj.腺内的 [domain:解剖]
+intraglobular | adj.球内的
+intragluteal | adj.臀内的 [domain:解剖]
+intragovernmental | adj.政府内部的 [domain:政治]
+intragranular | adj.颗粒内的
+intragyral | adj.脑回内的 [domain:解剖]
+intrahyoid | adj.舌骨内的 [domain:解剖]
+intrajugular | adj.颈静脉内的 [domain:解剖]
+intralamellar | adj.层内的
+intralaryngeal | adj.喉内的 [domain:解剖]
+intraleukocytic | adj.白细胞内的 [domain:医学]
+intraligamentous | adj.韧带内的 [domain:解剖]
+intralingual | adj.舌内的 [domain:解剖]
+intralinguistic | adj.语言内部的 [domain:语言]
+intralobar | adj.叶内的 [domain:解剖]
+intralobular | adj.小叶内的 [domain:解剖]
+intralocular | adj.小室内的
+intralumbar | adj.腰内的 [domain:解剖]
+intramammary | adj.乳房内的 [domain:解剖]
+intramarginal | adj.边缘内的
+intramastoiditis | n.乳突内炎 [domain:医学]
+intramatrical | adj.基质内的 [domain:生物]
+intramembrane | adj.膜内的 [domain:生物]
+intramembranous | adj.膜内的 [domain:解剖]
+intrameningeal | adj.脑膜内的 [domain:解剖]
+intramicarenite | skip:unknown
+intramicrite | skip:unknown
+intramode | skip:unknown
+intramolecularly | adv.分子内地 [domain:化学]
+intramundane | adj.世界内的 [domain:哲学]
+intramyocardial | adj.心肌内的 [domain:解剖]
+intran | skip:junk
+intranarial | adj.鼻孔内的 [domain:解剖]
+intranatal | adj.分娩期间的 [domain:医学]
+intranational | adj.国内的
+intraneural | adj.神经内的 [domain:解剖]
+intranidal | adj.病灶内的 [domain:医学]
+intranquil | adj.不平静的 [literary]
+intransigeance | n.不妥协
+intransitable | adj.不能通行的
+intransitiveness | n.不及物性 [domain:语言]
+intransitivise | v.使成为不及物 [domain:语言]
+intransitivize | v.使成为不及物 [domain:语言]
+intranucellar | adj.珠心内的 [domain:植物]
+intraocularly | adv.眼内地 [domain:医学]
+intraorbital | adj.眶内的 [domain:解剖]
+intraorganic | adj.器官内的
+intraovular | adj.卵内的 [domain:生物]
+intraparenchymatous | adj.实质内的 [domain:解剖]
+intraparotid | adj.腮腺内的 [domain:解剖]
+intraparticle | adj.粒子内的
+intrapelvic | adj.盆腔内的 [domain:解剖]
+intrapericardial | adj.心包内的 [domain:解剖]
+intraperineal | adj.会阴内的 [domain:解剖]
+intrapetiolar | adj.叶柄内的 [domain:植物]
+intrapetrous | adj.岩部内的 [domain:解剖]
+intraphyletic | adj.门内的 [domain:生物]
+intrapial | adj.软脑膜内的 [domain:解剖]
+intraplacental | adj.胎盘内的 [domain:解剖]
+intrapleural | adj.胸膜内的 [domain:解剖]
+intrapolar | adj.极内的
+intrapontine | adj.脑桥内的 [domain:解剖]
+intrapopulation | adj.种群内的 [domain:生物]
+intraprostatic | adj.前列腺内的 [domain:解剖]
+intraprotoplasmic | adj.原生质内的 [domain:生物]
+intrapsychical | adj.心理内部的 [domain:心理]
+intrapulmonary | adj.肺内的 [domain:解剖]
+intrapyretic | adj.发热期的 [domain:医学]
+intrarachidian | adj.椎管内的 [domain:解剖]
+intrarecord | adj.记录内的 [domain:计算机]
+intrarectal | adj.直肠内的 [domain:解剖]
+intraregional | adj.区域内的
+intrarenal | adj.肾内的 [domain:解剖]
+intraretinal | adj.视网膜内的 [domain:解剖]
+intrarhachidian | adj.椎管内的 [domain:解剖]
+intrascleral | adj.巩膜内的 [domain:解剖]
+intrascrotal | adj.阴囊内的 [domain:解剖]
+intrasellar | adj.蝶鞍内的 [domain:解剖]
+intrasentential | adj.句内的 [domain:语言]
+intraserous | adj.浆液内的
+intrasinus | adj.窦内的 [domain:解剖]
+intrasite | adj.站点内的
+intrasonic | adj.内部超声的
+intraspinal | adj.脊髓内的 [domain:解剖]
+intrasplenic | adj.脾内的 [domain:解剖]
+intrastelar | adj.中柱内的 [domain:植物]
+intrasternal | adj.胸骨内的 [domain:解剖]
+intrastitial | skip:unknown
+intrastratal | adj.层内的 [domain:地质]
+intrastromal | adj.基质内的 [domain:解剖]
+intrasubject | adj.受试者内的 [domain:统计]
+intrasynovial | adj.滑膜内的 [domain:解剖]
+intratarsal | adj.跗骨内的 [domain:解剖]
+intratectal | adj.覆盖层内的 [domain:植物]
+intratelluric | adj.地下形成的 [domain:地质]
+intratesticular | adj.睾丸内的 [domain:解剖]
+intrathoracically | adv.胸内地 [domain:医学]
+intrathyroid | adj.甲状腺内的 [domain:解剖]
+intratonsillar | adj.扁桃体内的 [domain:解剖]
+intratrabecular | adj.小梁内的 [domain:解剖]
+intratubal | adj.管内的 [domain:解剖]
+intratubular | adj.小管内的 [domain:解剖]
+intratumorally | adv.肿瘤内地 [domain:医学]
+intratympanic | adj.鼓室内的 [domain:解剖]
+intravagal | adj.迷走神经内的 [domain:解剖]
+intravasation | n.入血管 [domain:医学]
+intravascularly | adv.血管内地 [domain:医学]
+intraventricularly | adv.脑室内地 [domain:医学]
+intraversion | n.内向 [domain:心理]
+intravertebral | adj.椎骨内的 [domain:解剖]
+intravillous | adj.绒毛内的 [domain:解剖]
+intravitally | adv.活体内地 [domain:生物]
+intravitam | skip:not-english
+intravitelline | adj.卵黄内的 [domain:生物]
+intravitreous | adj.玻璃体内的 [domain:解剖]
+intraxylary | adj.木质部内的 [domain:植物]
+intrazonal | adj.非地带性的 [domain:地理]
+intrication | n.缠结
+intriguante | skip:not-english
+intrinsical | adj.内在的
+intrinsicality | n.内在性
+introductive | adj.介绍的
+introflexed | adj.内曲的
+introflexion | n.内曲
+introgastric | adj.胃内的 [domain:解剖]
+introgress | v.渐渗 [domain:生物]
+introgressant | n.渐渗体 [domain:生物]
+intromitter | n.插入器官 [domain:动物]
+intropunitiveness | n.内罚倾向 [domain:心理]
+introspectional | adj.内省的 [domain:心理]
+introspectionistic | adj.内省主义的 [domain:心理]
+introversible | adj.可内翻的
+introversively | adv.内向地
+introvertion | n.内向
+introvertish | adj.内向的
+introvertive | adj.内向的
+introvision | n.内视
+intrusional | adj.侵入的
+intubationist | n.插管医师 [domain:医学]
+intubator | n.插管器 [domain:医学]
+intuitable | adj.可直觉的
+intuitionalism | n.直觉主义 [domain:哲学]
+intuitionalist | n.直觉论者 [domain:哲学]
+intuitivism | n.直觉主义 [domain:哲学]
+intuitivist | n.直觉论者 [domain:哲学]
+intumescency | n.肿胀
+intussusceptive | adj.肠套叠的 [domain:医学]
+inulase | n.菊粉酶 [domain:化学]
+inulinase | n.菊粉酶 [domain:化学]
+inuline | n.菊粉 [domain:化学]
+inuloid | n.类菊粉 [domain:化学]
+inuncant | skip:unknown
+inunct | v.涂油膏 [domain:医学]
+inuncta | skip:not-lemma
+inunctum | skip:not-english
+inundant | adj.泛滥的
+inundatal | skip:unknown
+inundator | n.淹没者
+inundatory | adj.泛滥的
+inundatus | skip:not-english
+inutterable | adj.不可言喻的
+invaginator | n.内陷器 [domain:医学]
+invalidator | n.使无效者
+invalidness | n.无效
+invaluableness | n.无价
+invariableness | n.不变性
+invasin | n.侵袭素 [domain:生物]
+invected | adj.凹弧边的 [domain:历史]
+invection | skip:unknown
+invectiveness | n.谩骂
+inveigher | n.痛骂者
+inventible | adj.可发明的
+inventorial | adj.存货清单的
+inventorially | adv.清单式地
+inveracious | adj.不真实的
+inversor | skip:unknown
+invertebral | adj.无脊椎的
+invertebrated | adj.无脊椎的
+invertedly | adv.倒转地
+invertendo | skip:not-english
+invertin | n.转化酶 [domain:化学]
+invertomer | skip:unknown
+invertor | n.转化器
+invertose | n.转化糖 [domain:化学]
+investigable | adj.可调查的
+investitive | adj.授职的
+inveterateness | n.根深蒂固
+invigorant | n.补药
+invigorative | adj.增强活力的
+invincibleness | n.不可战胜
+inviolableness | n.不可侵犯
+inviolated | adj.未受侵犯的
+inviolateness | n.未受侵犯
+invirility | n.无男子气 [dated]
+inviscate | v.粘住 [dated]
+inviscation | n.粘住 [dated]
+invisibleness | n.看不见
+invocatable | adj.可调用的 [domain:计算机]
+invocate | v.祈求 [literary]
+invocational | adj.祈求的
+invocative | adj.祈求的
+involatile | adj.不挥发的 [domain:化学]
+involucellate | adj.有小总苞的 [domain:植物]
+involucellum | n.小总苞 [domain:植物]
+involucrated | adj.有总苞的 [domain:植物]
+involucred | adj.有总苞的 [domain:植物]
+involucret | n.小总苞 [domain:植物]
+involucrum | n.包壳 [domain:医学]
+involutory | adj.对合的 [domain:数学]
+involvedness | n.错综复杂
+involver | n.牵涉者
+involvucel | n.小总苞 [domain:植物]
+invulnerableness | n.不可伤害
+inwall | v.围以墙 [dated]
+inwash | n.冲入
+inwelling | n.内涌 [literary]
+inwind | v.缠绕
+inwinter | v.过冬 [dated]
+inwreathe | v.以花环缠绕 [literary]
+inyoite | n.板硼钙石 [domain:矿业]
+iochroite | skip:unknown
+iodacetyl | skip:unknown
+iodaemia | n.碘血症 [domain:医学]
+iodalbin | skip:unknown
+iodamide | n.碘酰胺 [domain:药学]
+iodamylum | skip:not-english
+iodanil | skip:unknown
+iodanisol | skip:unknown
+iodantipyrine | skip:unknown
+iodargyrite | n.碘银矿 [domain:矿业]
+iodatimetry | skip:unknown
+iodation | n.碘化 [domain:化学]
+iodazide | n.叠氮化碘 [domain:化学]
+iodcarnallite | skip:unknown
+iodchromate | skip:unknown
+iodembolite | n.碘溴银矿 [domain:矿业]
+iodemia | n.碘血症 [domain:医学]
+iodeosin | n.碘曙红 [domain:化学]
+ioderma | n.碘疹 [domain:医学]
+iodfenphos | n.碘硫磷 [domain:农业]
+iodhydrate | n.氢碘酸盐 [domain:化学]
+iodidum | skip:not-english
+iodimetric | adj.碘量法的 [domain:化学]
+iodimetry | n.碘量法 [domain:化学]
+iodinin | skip:unknown
+iodinophil | adj.嗜碘的 [domain:生物]
+iodinophilia | n.嗜碘性 [domain:生物]
+iodinophilous | adj.嗜碘的 [domain:生物]
+iodipamide | n.碘肥酸 [domain:药学]
+iodipin | skip:unknown
+iodismus | n.碘中毒 [domain:医学]
+iodite | n.亚碘酸盐 [domain:化学]
+iodization | n.碘化 [domain:化学]
+iodizer | n.加碘剂
+iodmetry | skip:unknown
+iodoacetal | skip:unknown
+iodoacetone | n.碘丙酮 [domain:化学]
+iodoacetonitrile | n.碘乙腈 [domain:化学]
+iodoacetylene | n.碘乙炔 [domain:化学]
+iodoalkane | n.碘代烷 [domain:化学]
+iodoamylum | skip:not-english
+iodoaniline | n.碘苯胺 [domain:化学]
+iodoanisole | n.碘苯甲醚 [domain:化学]
+iodoantipyrine | n.碘安替比林 [domain:药学]
+iodobenzene | n.碘苯 [domain:化学]
+iodobromite | n.碘溴银矿 [domain:矿业]
+iodobutane | n.碘丁烷 [domain:化学]
+iodocaffeine | skip:unknown
+iodochlorhydroxyquin | n.氯碘羟喹 [domain:药学]
+iodochlorhydroxyquinoline | n.氯碘羟喹 [domain:药学]
+iodocompound | n.碘化合物 [domain:化学]
+iodocresol | skip:unknown
+iodocyanide | skip:unknown
+iodocyclohexane | n.碘代环己烷 [domain:化学]
+iododecane | n.碘代癸烷 [domain:化学]
+iododerma | n.碘疹 [domain:医学]
+iodoethane | n.碘乙烷 [domain:化学]
+iodoethanol | n.碘乙醇 [domain:化学]
+iodoethylene | n.碘乙烯 [domain:化学]
+iodofenphos | n.碘硫磷 [domain:农业]
+iodogenic | adj.产碘的
+iodoglobulin | skip:unknown
+iodohippurate | n.碘马尿酸盐 [domain:药学]
+iodohydrargyrate | skip:unknown
+iodohydric | adj.氢碘的 [domain:化学]
+iodohydrin | n.碘醇 [domain:化学]
+iodohydrocarbon | n.碘代烃 [domain:化学]
+iodolactonization | n.碘内酯化 [domain:化学]
+iodomercurate | skip:unknown
+iodomethane | n.碘甲烷 [domain:化学]
+iodomethylation | skip:unknown
+iodonaphthol | skip:unknown
+iodonation | skip:unknown
+iodone | skip:unknown
+iodonitrobenzene | n.碘硝基苯 [domain:化学]
+iodonitrotetrazolium | skip:unknown
+iodonium | n.碘鎓 [domain:化学]
+iodooctadecane | n.碘代十八烷 [domain:化学]
+iodopentane | n.碘戊烷 [domain:化学]
+iodophenacetin | skip:unknown
+iodophenol | n.碘酚 [domain:化学]
+iodophil | adj.嗜碘的 [domain:生物]
+iodophilia | n.嗜碘性 [domain:生物]
+iodophosphide | skip:unknown
+iodophthalein | n.碘酞 [domain:药学]
+iodopropane | n.碘丙烷 [domain:化学]
+iodopropylene | n.碘丙烯 [domain:化学]
+iodoprotein | n.碘蛋白 [domain:化学]
+iodopyracet | n.碘吡啦啥 [domain:药学]
+iodopyrrole | n.碘吡咯 [domain:化学]
+iodoquinol | n.双碘喹啉 [domain:药学]
+iodosobenzene | n.亚碘酰苯 [domain:化学]
+iodosulfate | skip:unknown
+iodotheobromine | skip:unknown
+iodotherapy | n.碘疗法 [domain:医学]
+iodothiophen | n.碘噻吩 [domain:化学]
+iodothymol | n.碘代百里酚 [domain:药学]
+iodothyrine | n.甲状腺碘质 [domain:生物]
+iodothyroglobulin | n.碘化甲状腺球蛋白 [domain:生物]
+iodothyronine | n.碘甲状腺原氨酸 [domain:生物]
+iodotrinitromethane | skip:unknown
+iodotyrosine | n.碘酪氨酸 [domain:生物]
+iodouracil | n.碘尿嘧啶 [domain:化学]
+iodous | adj.亚碘的 [domain:化学]
+iodoventriculography | n.碘脑室造影术 [domain:医学]
+iodoxybenzene | n.碘酰苯 [domain:化学]
+ioduria | n.碘尿 [domain:医学]
+iodyrite | n.碘银矿 [domain:矿业]
+ionicity | n.离子性 [domain:化学]
+ioniser | n.电离器 [domain:物理]
+ionite | n.离子交换剂 [domain:化学]
+ionizability | n.可电离性 [domain:物理]
+ionocolorimeter | skip:unknown
+ionogen | n.离子源 [domain:化学]
+ionogram | n.电离图 [domain:物理]
+ionography | skip:unknown
+ionoluminescence | n.离子发光 [domain:物理]
+ionometer | n.离子计 [domain:物理]
+ionometry | skip:unknown
+ionones | skip:not-lemma
+ionophone | skip:unknown
+ionophoresis | n.离子电泳 [domain:化学]
+ionoscope | n.光电摄像管 [domain:电子]
+ionospherically | adv.电离层地 [domain:物理]
+ionotherapy | n.离子疗法 [domain:医学]
+ionotropy | n.离子移变 [domain:化学]
+iontherapy | n.离子疗法 [domain:医学]
+iontophoreser | skip:unknown
+iontophoretically | adv.离子电渗地 [domain:医学]
+iontotherapy | n.离子疗法 [domain:医学]
+iopamidol | n.碘帕醇 [domain:药学]
+iophendylate | n.碘苯酯 [domain:药学]
+iophendylatum | skip:not-english
+iophobia | skip:unknown
+ioport | n.输入输出端口 [domain:计算机]
+iopropane | skip:junk
+iotendylate | skip:junk
+iothiouracil | skip:unknown
+ioxynil | n.碘苯腈 [domain:农业]
+ipecacuanhin | skip:unknown
+ipecine | skip:unknown
+ipilipil | skip:unknown
+ipodate | n.碘泊酸盐 [domain:药学]
+ipriflavone | n.依普黄酮 [domain:药学]
+iprindole | n.丙吲哚 [domain:药学]
+iproclozide | n.异丙氯肼 [domain:药学]
+iprodione | n.异菌脲 [domain:农业]
+iproniazid | n.异丙烟肼 [domain:药学]
+ipronidazole | n.异丙硝唑 [domain:药学]
+ipropethidine | skip:unknown
+ipsolateral | adj.同侧的 [domain:解剖]
+irascibleness | n.易怒
+irefulness | n.愤怒 [literary]
+irenically | adv.和解地
+irghizite | skip:unknown
+iridal | adj.虹膜的 [domain:解剖]
+iridectome | n.虹膜切除刀 [domain:医学]
+iridectomize | v.切除虹膜 [domain:医学]
+iridectopia | n.瞳孔异位 [domain:医学]
+iridectropium | n.虹膜外翻 [domain:医学]
+iridin | n.鸢尾苷 [domain:化学]
+iridioplatinum | n.铱铂合金 [domain:化学]
+iridization | n.虹彩化
+iridize | v.使呈虹彩
+iridocele | n.虹膜脱出 [domain:医学]
+iridochoroiditis | n.虹膜脉络膜炎 [domain:医学]
+iridocyte | n.虹彩细胞 [domain:动物]
+iridodialysis | n.虹膜根部离断 [domain:医学]
+iridodonesis | n.虹膜震颤 [domain:医学]
+iridomyrmecin | n.虹蚁素 [domain:化学]
+iridoplegia | n.虹膜麻痹 [domain:医学]
+iridoschisis | n.虹膜劈裂 [domain:医学]
+iridoscope | skip:unknown
+iridoscopy | skip:unknown
+iridosis | n.虹膜病 [domain:医学]
+iridosmine | n.铱锇矿 [domain:矿业]
+iridosmium | n.铱锇矿 [domain:矿业]
+iridostaphyloma | skip:unknown
+iridovirus | n.虹彩病毒 [domain:生物]
+irigenin | skip:unknown
+irisation | n.虹彩
+iritic | adj.虹膜炎的 [domain:医学]
+ironicalness | n.讽刺性
+ironise | v.讽刺 [uk]
+ironshot | adj.含铁斑点的
+irradiancy | n.辐射
+irradiative | adj.照射的
+irradiatometer | skip:unknown
+irradicable | adj.不可根除的
+irradicably | adv.不可根除地
+irrationalistic | adj.非理性主义的 [domain:哲学]
+irrationalness | n.不合理
+irrealizable | adj.无法实现的
+irreciprocal | adj.不相互的
+irrecognizable | adj.无法辨认的
+irreconcilableness | n.不可调和
+irrecoverableness | n.不可挽回
+irrecusably | adv.不可拒绝地
+irredeemability | n.不可赎回
+irredundant | adj.无冗余的
+irreformability | n.不可改革
+irreformable | adj.不可改革的
+irrefragability | n.不可反驳
+irrefrangibility | n.不可折射性
+irregularia | skip:not-english
+irrelatively | adv.无关地
+irrelievable | adj.无法解除的
+irremediableness | n.无法补救
+irremission | n.不可宽恕
+irremovably | adv.不可移动地
+irreparableness | n.不可修复
+irrepatriable | adj.不可遣返的
+irrepealable | adj.不可废除的
+irreplaceableness | n.不可替代
+irreproachability | n.无可指责
+irreproachableness | n.无可指责
+irresistance | n.不抵抗
+irresistibleness | n.不可抗拒
+irresoluble | adj.不可分解的
+irresolvability | n.不可解决
+irresolvableness | n.不可解决
+irresponsibleness | n.不负责任
+irresuscitable | adj.不能复苏的
+irretention | n.失禁 [domain:医学]
+irretraceable | adj.无法追溯的
+irretrievableness | n.不可挽回
+irreversibleness | n.不可逆
+irrevocableness | n.不可撤销
+irrevokable | adj.不可撤销的
+irridentism | n.民族统一主义 [domain:政治]
+irridentist | n.民族统一主义者 [domain:政治]
+irrigationist | n.灌溉专家 [domain:农业]
+irrigative | adj.灌溉的
+irrigoscopy | n.灌肠镜检查 [domain:医学]
+irritableness | n.易怒
+irroration | n.喷洒露珠 [dated]
+irruptively | adv.闯入地
+isabellin | skip:unknown
+isacoustic | adj.等声强的 [domain:物理]
+isallobaric | adj.等变压的 [domain:气象]
+isanomaly | n.等异常线 [domain:地理]
+isanthous | adj.等花被的 [domain:植物]
+isarin | skip:unknown
+isarithmic | adj.等值的 [domain:地理]
+isatis | n.菘蓝 [domain:植物]
+isauxesis | n.等速生长 [domain:生物]
+ischesis | n.分泌抑制 [domain:医学]
+ischiac | adj.坐骨的 [domain:解剖]
+ischiagra | n.坐骨痛风 [domain:医学]
+ischialgia | n.坐骨神经痛 [domain:医学]
+ischiatitis | n.坐骨炎 [domain:医学]
+ischicerite | skip:unknown
+ischidrosis | n.汗闭 [domain:医学]
+ischiectomy | n.坐骨切除术 [domain:医学]
+ischioanal | adj.坐骨肛门的 [domain:解剖]
+ischiobulbar | adj.坐骨球的 [domain:解剖]
+ischiocapsular | adj.坐骨囊的 [domain:解剖]
+ischiocavernosus | n.坐骨海绵体肌 [domain:解剖]
+ischiocavernous | adj.坐骨海绵体的 [domain:解剖]
+ischiocele | n.坐骨疝 [domain:医学]
+ischiococcygeal | adj.坐骨尾骨的 [domain:解剖]
+ischiococcygeus | n.坐骨尾骨肌 [domain:解剖]
+ischiodynia | n.坐骨痛 [domain:医学]
+ischiofemoral | adj.坐骨股骨的 [domain:解剖]
+ischiofibular | adj.坐骨腓骨的 [domain:解剖]
+ischiomyelitis | skip:unknown
+ischion | n.坐骨 [domain:解剖]
+ischioneuralgia | n.坐骨神经痛 [domain:医学]
+ischiopagia | n.坐骨联胎 [domain:医学]
+ischiopagus | n.坐骨联胎 [domain:医学]
+ischiopagy | n.坐骨联胎 [domain:医学]
+ischioperineal | adj.坐骨会阴的 [domain:解剖]
+ischiopodite | n.座节 [domain:动物]
+ischiopodium | skip:unknown
+ischiopubis | n.坐耻骨 [domain:解剖]
+ischiosacral | adj.坐骨骶骨的 [domain:解剖]
+ischiothoracopagus | n.坐骨胸部联胎 [domain:医学]
+ischiotibial | adj.坐骨胫骨的 [domain:解剖]
+ischiovaginal | adj.坐骨阴道的 [domain:解剖]
+ischnophonia | n.声音嘶哑 [domain:医学]
+ischospermia | n.精液闭止 [domain:医学]
+ischuretic | n.止尿药 [domain:药学]
+isentrope | n.等熵线 [domain:物理]
+isentropity | n.等熵性 [domain:物理]
+iserite | n.钛铁矿 [domain:矿业]
+ishikawaite | skip:unknown
+ishkulite | skip:unknown
+ishkyldite | skip:unknown
+ishmaelitish | adj.被社会摒弃的
+isidiose | adj.有珊瑚芽的 [domain:植物]
+isiganeite | skip:unknown
+islamizing | skip:not-lemma
+islandless | adj.无岛的
+isoacetylene | skip:unknown
+isoadenine | skip:unknown
+isoadrenaline | n.异丙肾上腺素 [domain:药学]
+isoagglutination | n.同种凝集 [domain:医学]
+isoagglutinative | adj.同种凝集的 [domain:医学]
+isoagglutinogen | n.同种凝集原 [domain:医学]
+isoajmaline | skip:unknown
+isoalantolactone | skip:unknown
+isoalkane | n.异构烷烃 [domain:化学]
+isoalkene | n.异构烯烃 [domain:化学]
+isoalkyl | n.异烷基 [domain:化学]
+isoallobar | n.等变压线 [domain:气象]
+isoalloxazine | n.异咯嗪 [domain:化学]
+isoallyl | skip:unknown
+isoaminile | n.异氨基尼 [domain:药学]
+isoamylamine | n.异戊胺 [domain:化学]
+isoamylase | n.异淀粉酶 [domain:化学]
+isoamylene | n.异戊烯 [domain:化学]
+isoamylidene | skip:unknown
+isoamylol | n.异戊醇 [domain:化学]
+isoandrosterone | n.异雄甾酮 [domain:化学]
+isoanethole | skip:unknown
+isoanthracene | skip:unknown
+isoapiole | skip:unknown
+isoarecaidine | skip:unknown
+isoaristolone | skip:unknown
+isobarically | adv.等压地 [domain:物理]
+isobarometric | adj.等气压的 [domain:气象]
+isobase | n.等基线 [domain:地质]
+isobathic | adj.等深的 [domain:地理]
+isobavachalcone | skip:unknown
+isobavachin | skip:unknown
+isobebeerine | skip:unknown
+isobergapten | skip:unknown
+isobergaptene | skip:unknown
+isobilateral | adj.等面的 [domain:植物]
+isobisabolene | skip:unknown
+isoborneol | n.异冰片 [domain:化学]
+isobornyl | n.异冰片基 [domain:化学]
+isobornylene | skip:unknown
+isobrachial | adj.等臂的
+isobutenyl | n.异丁烯基 [domain:化学]
+isobutoxy | n.异丁氧基 [domain:化学]
+isobutylamine | n.异丁胺 [domain:化学]
+isobutylbenzene | n.异丁苯 [domain:化学]
+isobutylcapramide | skip:unknown
+isobutylidene | n.亚异丁基 [domain:化学]
+isobutylidyne | skip:unknown
+isobutylundecylenamide | skip:unknown
+isobutyraldehyde | n.异丁醛 [domain:化学]
+isobutyramide | n.异丁酰胺 [domain:化学]
+isobutyric | adj.异丁酸的 [domain:化学]
+isobutyroin | skip:unknown
+isobutyrone | skip:unknown
+isobutyronitrile | n.异丁腈 [domain:化学]
+isobutyropyrrothine | skip:unknown
+isobutyryl | n.异丁酰基 [domain:化学]
+isobuzole | skip:unknown
+isocalamendiol | skip:unknown
+isocalciferol | skip:unknown
+isocamphane | skip:unknown
+isocamphor | skip:unknown
+isocaproaldehyde | skip:unknown
+isocapronitrile | skip:unknown
+isocarpel | skip:unknown
+isocarveol | skip:unknown
+isocarvone | skip:unknown
+isocaryophyllene | skip:unknown
+isocatalysis | skip:unknown
+isocellobiose | skip:unknown
+isocellular | adj.等细胞的 [domain:生物]
+isocephalic | adj.等高头像的 [domain:美术]
+isocephaly | n.头部等高 [domain:美术]
+isoceraunic | adj.等雷暴的 [domain:气象]
+isocercal | adj.等尾的 [domain:动物]
+isochasm | n.等极光线 [domain:气象]
+isochasmic | adj.等极光的 [domain:气象]
+isocheim | n.等冬温线 [domain:气象]
+isocheimal | adj.等冬温的 [domain:气象]
+isocheimic | adj.等冬温的 [domain:气象]
+isochimene | n.等冬温线 [domain:气象]
+isocholesterin | skip:unknown
+isocholesterol | n.异胆甾醇 [domain:化学]
+isocholine | skip:unknown
+isochondodendrine | skip:unknown
+isochore | n.等容线 [domain:物理]
+isochromate | skip:unknown
+isochromatic | adj.等色的 [domain:物理]
+isochromosome | n.等臂染色体 [domain:生物]
+isochronally | adv.等时地
+isochronize | v.使等时
+isochronograph | skip:unknown
+isochroous | adj.等色的
+isocinnamic | adj.异肉桂酸的 [domain:化学]
+isoclase | skip:unknown
+isoclinal | adj.等倾的 [domain:地质]
+isoclinotropism | skip:unknown
+isococaine | skip:unknown
+isococlaurine | skip:unknown
+isocolloid | n.等胶体 [domain:化学]
+isocomplement | skip:unknown
+isocompound | skip:unknown
+isoconazole | n.异康唑 [domain:药学]
+isoconcentrate | skip:unknown
+isoconcentration | skip:unknown
+isoconessimine | skip:unknown
+isocorrelate | skip:unknown
+isocorrelation | skip:unknown
+isocorticosterone | skip:unknown
+isocortisol | skip:unknown
+isocortisone | skip:unknown
+isocorybubine | skip:unknown
+isocorybulbine | skip:unknown
+isocorydine | n.异紫堇定 [domain:化学]
+isocorynoxeine | skip:unknown
+isocorypalmine | skip:unknown
+isocotidal | adj.等潮的 [domain:航海]
+isocoumarin | n.异香豆素 [domain:化学]
+isocratic | adj.等度的 [domain:化学]
+isocrotyl | skip:unknown
+isocurcumenol | skip:unknown
+isocyan | skip:unknown
+isocyanine | n.异花青 [domain:化学]
+isocyano | adj.异氰基的 [domain:化学]
+isocyanurimide | skip:unknown
+isocycle | skip:unknown
+isocyclocitral | skip:unknown
+isocycloeudesmol | skip:unknown
+isocycloheximide | skip:unknown
+isocytolysine | skip:unknown
+isocytosis | n.红细胞等大 [domain:医学]
+isocytotoxin | skip:unknown
+isodactylism | skip:unknown
+isodarlingianine | skip:unknown
+isodecane | n.异癸烷 [domain:化学]
+isodecanol | n.异癸醇 [domain:化学]
+isodecarine | skip:unknown
+isodecyl | n.异癸基 [domain:化学]
+isodense | adj.等密度的
+isodensitometer | skip:unknown
+isodensity | n.等密度
+isodensmosine | skip:unknown
+isodesmic | adj.等键的 [domain:化学]
+isodesmosine | n.异锁链素 [domain:化学]
+isodextro | skip:unknown
+isodextropimarinol | skip:unknown
+isodiagnosis | skip:unknown
+isodiazotate | skip:unknown
+isodihydronepetalactone | skip:unknown
+isodihydroperparine | skip:unknown
+isodihydrotoxiferine | skip:unknown
+isodimorphic | adj.同二晶型的 [domain:化学]
+isodimorphous | adj.同二晶型的 [domain:化学]
+isodisperse | adj.等分散的 [domain:化学]
+isodispersoid | skip:unknown
+isodont | adj.同型齿的 [domain:动物]
+isodontic | adj.同型齿的 [domain:动物]
+isodrin | n.异狄氏剂 [domain:农业]
+isodrome | skip:unknown
+isodromic | adj.等速的
+isodrosotherm | n.等露点温度线 [domain:气象]
+isodulcite | n.鼠李糖 [domain:化学]
+isodulcitol | skip:unknown
+isodurene | n.异杜烯 [domain:化学]
+isodynamia | n.等力 [domain:生物]
+isodynamogenic | skip:unknown
+isodyne | n.等力线 [domain:物理]
+isoeburnamine | skip:unknown
+isoelastic | adj.等弹性的
+isoelasticity | n.等弹性
+isoelectronically | adv.等电子地 [domain:化学]
+isoelliptone | skip:unknown
+isoemodin | skip:unknown
+isoendomorphism | skip:unknown
+isoenergetic | adj.等能的 [domain:物理]
+isoenthalpy | n.等焓 [domain:物理]
+isoentrope | n.等熵线 [domain:物理]
+isoenzymic | adj.同工酶的 [domain:生物]
+isoephedrine | skip:unknown
+isoepoxydone | skip:unknown
+isoequilenin | skip:unknown
+isoerythrolaccin | skip:unknown
+isoestradiol | skip:unknown
+isoestrone | skip:unknown
+isoetarine | n.异他林 [domain:药学]
+isoetharine | n.异他林 [domain:药学]
+isoeugenitin | skip:unknown
+isoeugenol | n.异丁香酚 [domain:化学]
+isofacial | adj.等面的
+isofebrifugine | skip:unknown
+isofebrifuzine | skip:unknown
+isofenchol | skip:unknown
+isofenchone | skip:unknown
+isofenphos | n.异柳磷 [domain:农业]
+isofernane | skip:unknown
+isoferritin | n.同工铁蛋白 [domain:生物]
+isoficine | skip:unknown
+isoflavanone | n.异黄烷酮 [domain:化学]
+isoflavine | skip:unknown
+isofluorphate | n.二异丙氟磷 [domain:药学]
+isoflupredone | n.异氟泼尼松 [domain:药学]
+isoflurophate | n.二异丙氟磷 [domain:药学]
+isofuranodienone | skip:unknown
+isogalloflarin | skip:unknown
+isogalloflavin | skip:unknown
+isogam | skip:unknown
+isogame | skip:unknown
+isogametangic | adj.同形配子囊的 [domain:植物]
+isogametangium | n.同形配子囊 [domain:植物]
+isogametic | adj.同形配子的 [domain:生物]
+isogamety | n.同配性 [domain:生物]
+isogamic | adj.同配的 [domain:生物]
+isogel | skip:unknown
+isogen | n.等基因系 [domain:生物]
+isogenesis | n.同源发生 [domain:生物]
+isogenous | adj.同源的 [domain:生物]
+isogeny | n.同源 [domain:生物]
+isogeothermal | adj.等地温的 [domain:地质]
+isogeothermic | adj.等地温的 [domain:地质]
+isogeraniol | skip:unknown
+isoginkgetin | skip:unknown
+isoglossal | adj.等语线的 [domain:语言]
+isoglossic | adj.等语线的 [domain:语言]
+isoglucose | n.异构葡萄糖 [domain:化学]
+isoglutamine | n.异谷氨酰胺 [domain:化学]
+isognathous | adj.齿颌等形的 [domain:动物]
+isogon | n.等角多边形 [domain:数学]
+isogonal | adj.等角的 [domain:数学]
+isogonality | n.等角性 [domain:数学]
+isogone | n.等偏线 [domain:地理]
+isogonics | skip:unknown
+isogonism | skip:unknown
+isogony | n.等速生长 [domain:生物]
+isograde | n.等变度线 [domain:地质]
+isogradient | n.等梯度线
+isogranular | adj.等粒的 [domain:地质]
+isograph | n.等值线图 [domain:数学]
+isographic | adj.等值线的 [domain:数学]
+isography | n.等值线法 [domain:数学]
+isogredient | skip:unknown
+isogrid | n.等栅格 [domain:航空]
+isoguanine | n.异鸟嘌呤 [domain:化学]
+isoguvacine | skip:unknown
+isogyre | n.等偏角线 [domain:物理]
+isohaemagglutinin | n.同种血凝素 [domain:医学]
+isohaemagglutinogen | n.同种血凝原 [domain:医学]
+isohaline | adj.等盐度的 [domain:地理]
+isoharringtonin | skip:unknown
+isoharringtonine | skip:unknown
+isohedral | adj.等面的 [domain:数学]
+isohelenalin | skip:unknown
+isohemaggluitinin | skip:junk
+isohemagglutination | n.同种血凝 [domain:医学]
+isohemagglutinin | n.同种血凝素 [domain:医学]
+isohemagglutinogen | n.同种血凝原 [domain:医学]
+isohemoagglutination | n.同种血凝 [domain:医学]
+isohemolysin | n.同种溶血素 [domain:医学]
+isohemolysis | n.同种溶血 [domain:医学]
+isoheptane | n.异庚烷 [domain:化学]
+isohesperidin | skip:unknown
+isohexacosane | skip:unknown
+isohexane | n.异己烷 [domain:化学]
+isohexyl | n.异己基 [domain:化学]
+isohexylidene | skip:unknown
+isohexylidyne | skip:unknown
+isohimachalone | skip:unknown
+isohistocompatibility | skip:unknown
+isohistogenicity | skip:unknown
+isohistoincompatibility | skip:unknown
+isohologamy | skip:unknown
+isohopane | skip:unknown
+isohormone | skip:unknown
+isohydria | n.等氢离子状态 [domain:医学]
+isohydric | adj.等氢离子的 [domain:化学]
+isohydrobenzoin | skip:unknown
+isohydrocarbon | skip:unknown
+isohyetose | adj.等雨量的 [domain:气象]
+isohygrotherm | n.等湿温线 [domain:气象]
+isohyle | skip:unknown
+isohypercytosis | n.白细胞等量增多 [domain:医学]
+isohyperthermic | adj.等高温的 [domain:地理]
+isohypocytosis | n.白细胞等量减少 [domain:医学]
+isohypoignavine | skip:unknown
+isohypse | n.等高线 [domain:地理]
+isoimerubrine | skip:unknown
+isoimperatonin | skip:unknown
+isoimperatorin | n.异欧前胡素 [domain:化学]
+isoindigo | n.异靛蓝 [domain:化学]
+isoindolyl | n.异吲哚基 [domain:化学]
+isoinhibitor | skip:unknown
+isoinversion | skip:unknown
+isoionia | n.离子等浓度 [domain:化学]
+isoionone | skip:unknown
+isokeraunic | adj.等雷暴的 [domain:气象]
+isokinetin | skip:unknown
+isokont | n.等长鞭毛生物 [domain:生物]
+isolability | n.可分离性
+isolactose | skip:unknown
+isolantite | skip:proper-out-of-scope
+isolatedly | adv.孤立地
+isolater | n.隔离者
+isolateral | adj.两侧相同的
+isolaterality | n.两侧相同
+isolative | adj.隔离的
+isoleontine | skip:unknown
+isoleucoagglutinin | skip:unknown
+isoleucyl | n.异亮氨酰 [domain:化学]
+isoleukocytosis | skip:unknown
+isoliensinine | skip:unknown
+isolimonene | skip:unknown
+isolinderalactone | skip:unknown
+isolinderene | skip:unknown
+isolinderoxide | skip:unknown
+isolineolon | skip:unknown
+isoliquiritigenin | n.异甘草素 [domain:化学]
+isolith | skip:unknown
+isolobelanine | skip:unknown
+isolobinanidine | skip:unknown
+isolobinine | skip:unknown
+isolog | n.等配位体 [domain:化学]
+isologue | n.等配位体 [domain:化学]
+isololiolide | skip:unknown
+isoloma | skip:unknown
+isolomatiol | skip:unknown
+isolux | adj.等照度的 [domain:物理]
+isolvency | skip:unknown
+isolycopodine | skip:unknown
+isolysin | n.同种溶素 [domain:医学]
+isolysis | n.同种溶解 [domain:医学]
+isolytic | adj.同种溶解的 [domain:医学]
+isomagnetic | adj.等磁的 [domain:物理]
+isomahanimbine | skip:unknown
+isomajodine | skip:unknown
+isomaltol | skip:unknown
+isomaltose | n.异麦芽糖 [domain:化学]
+isomannite | skip:unknown
+isomanoene | skip:unknown
+isomastigote | n.等鞭毛虫 [domain:生物]
+isomenthol | skip:unknown
+isomenthone | skip:unknown
+isomere | n.同分异构体 [domain:化学]
+isomeride | n.同分异构体 [domain:化学]
+isomerise | v.使异构化 [uk]
+isomery | n.同分异构现象 [domain:化学]
+isomethadol | skip:unknown
+isomethadone | n.异美沙酮 [domain:药学]
+isometheptene | n.异美汀 [domain:药学]
+isomethylionone | skip:unknown
+isometrography | skip:unknown
+isometropal | skip:unknown
+isometropia | n.屈光相等 [domain:医学]
+isomicrogamete | skip:unknown
+isomintlactone | skip:unknown
+isomolecule | skip:unknown
+isomorphy | n.同形 [domain:化学]
+isomultiple | skip:unknown
+isomultiplet | n.同位旋多重态 [domain:物理]
+isomuscarine | skip:unknown
+isomycomycin | skip:unknown
+isomyristin | skip:unknown
+isomyrtanol | skip:unknown
+isomytiloxanthone | skip:unknown
+isonapelline | skip:unknown
+isonaphthazarin | skip:unknown
+isonaphthol | skip:unknown
+isoneomatabiol | skip:unknown
+isoneomatatabiol | skip:unknown
+isoneonepetalactone | skip:unknown
+isonephelic | adj.等云量的 [domain:气象]
+isonephrotoxin | skip:unknown
+isoniazone | skip:unknown
+isonicoteine | skip:unknown
+isonicotine | skip:unknown
+isonicotinylhydrazide | n.异烟肼 [domain:药学]
+isonicotinylhydrazine | n.异烟肼 [domain:药学]
+isonipecaine | n.哌替啶 [domain:药学]
+isonitramine | skip:unknown
+isonitro | adj.异硝基的 [domain:化学]
+isonitroso | adj.异亚硝基的 [domain:化学]
+isonitrosoacetone | skip:unknown
+isonitrosoacetophenone | skip:unknown
+isonitrosocamphor | skip:unknown
+isonomic | adj.法律平等的
+isonomy | n.法律平等
+isononane | n.异壬烷 [domain:化学]
+isonopinone | skip:unknown
+isonorcedrenol | skip:unknown
+isonordrimenone | skip:unknown
+isonorin | skip:unknown
+isonormocytosis | skip:unknown
+isonoruron | skip:unknown
+isonovobiocin | skip:unknown
+isonuclear | adj.同核的 [domain:生物]
+isonym | n.同名异物 [domain:植物]
+isoobtusol | skip:unknown
+isooconovine | skip:unknown
+isooctadecane | n.异十八烷 [domain:化学]
+isooctanol | n.异辛醇 [domain:化学]
+isooctyl | n.异辛基 [domain:化学]
+isooctylhydrocupreine | skip:unknown
+isookanin | skip:unknown
+isooleanane | skip:unknown
+isoolefine | n.异烯烃 [domain:化学]
+isoolivil | skip:unknown
+isoombre | n.等雨量线 [domain:气象]
+isoorensine | skip:unknown
+isoorientin | n.异荭草苷 [domain:化学]
+isoorthotherm | skip:unknown
+isopach | n.等厚线 [domain:地质]
+isopachous | adj.等厚的 [domain:地质]
+isopachyte | skip:unknown
+isopamaquine | skip:unknown
+isoparaclase | skip:unknown
+isoparametric | adj.等参数的 [domain:数学]
+isoparthenogenesis | skip:unknown
+isopatchoulane | skip:unknown
+isopathic | adj.同种疗法的 [domain:医学]
+isopathotherapy | skip:unknown
+isopatrinene | skip:unknown
+isopectic | adj.等冰期的 [domain:气象]
+isopelletierine | n.异石榴碱 [domain:化学]
+isopenicillin | n.异青霉素 [domain:药学]
+isopenniclavine | skip:unknown
+isopentane | n.异戊烷 [domain:化学]
+isopentanol | n.异戊醇 [domain:化学]
+isopentaquine | skip:unknown
+isopentene | n.异戊烯 [domain:化学]
+isopentennyladenine | skip:unknown
+isopentenylputrescine | skip:unknown
+isopentenylpyrophosphate | n.异戊烯焦磷酸 [domain:化学]
+isopentyl | n.异戊基 [domain:化学]
+isopentylidene | skip:unknown
+isopentylidyne | skip:unknown
+isopentyloxy | n.异戊氧基 [domain:化学]
+isopepsin | skip:unknown
+isoperibol | adj.等外温的 [domain:物理]
+isoperimeter | skip:unknown
+isoperimetrical | adj.等周的 [domain:数学]
+isoperiplocymarin | skip:unknown
+isoperiplogenin | skip:unknown
+isoperistaltic | adj.顺蠕动的 [domain:医学]
+isoperm | n.等磁导率合金 [domain:物理]
+isopetalous | adj.花瓣等形的 [domain:植物]

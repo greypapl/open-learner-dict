@@ -1,0 +1,1000 @@
+vernicose | adj.有光泽的 [domain:植物]
+verriculate | adj.有刷毛的 [domain:动物]
+verrucae | skip:not-lemma
+verrucate | adj.有疣的 [domain:生物]
+verruciform | adj.疣状的 [domain:医学]
+verrucoid | adj.疣状的 [domain:医学]
+verrucosis | n.疣病 [domain:医学]
+verruculose | adj.有小疣的 [domain:生物]
+verruga | n.秘鲁疣 [domain:医学]
+versatileness | n.多才多艺, 多功能
+verselet | n.短诗 [domain:文学]
+verseman | n.诗人 [domain:文学,dated]
+versicular | adj.诗节的 [domain:文学]
+versiform | adj.变形的
+versional | adj.译本的
+vertebrally | adv.脊椎地
+vertebration | n.椎骨形成 [domain:解剖]
+vertebrectomy | n.椎骨切除术 [domain:医学]
+vertebrobasilar | adj.椎基底的 [domain:解剖]
+vertebrochondral | adj.椎软骨的 [domain:解剖]
+vertebrocostal | adj.椎肋的 [domain:解剖]
+vertebrosacral | adj.椎骶的 [domain:解剖]
+verticalness | n.垂直
+verticillaster | n.轮伞花序 [domain:植物]
+verticillated | adj.轮生的 [domain:植物]
+verticilliosis | n.轮枝菌病 [domain:植物]
+verticity | n.旋转能力 [dated]
+vertiginate | adj.眩晕的 [domain:动物]
+vertigines | skip:not-lemma
+verumontanum | n.精阜 [domain:解剖]
+vesania | n.精神错乱 [domain:医学,dated]
+vesanic | adj.精神错乱的 [domain:医学,dated]
+vesicocele | n.膀胱膨出 [domain:医学]
+vesicorectal | adj.膀胱直肠的 [domain:医学]
+vesicorenal | adj.膀胱肾的 [domain:医学]
+vesicostomy | n.膀胱造口术 [domain:医学]
+vesicotomy | n.膀胱切开术 [domain:医学]
+vesicoureteric | adj.膀胱输尿管的 [domain:医学]
+vesicourethral | adj.膀胱尿道的 [domain:医学]
+vesicouterine | adj.膀胱子宫的 [domain:医学]
+vesicovaginal | adj.膀胱阴道的 [domain:医学]
+vesicula | n.小泡 [domain:解剖]
+vesiculae | skip:not-lemma
+vesicularity | n.泡状, 多泡 [domain:地质]
+vesiculation | n.起泡, 水疱形成 [domain:医学]
+vesiculectomy | n.精囊切除术 [domain:医学]
+vesiculiform | adj.泡状的 [domain:医学]
+vesiculitis | n.精囊炎 [domain:医学]
+vesiculography | n.精囊造影术 [domain:医学]
+vesiculopapular | adj.水疱丘疹的 [domain:医学]
+vesiculopustular | adj.水疱脓疱的 [domain:医学]
+vesiculose | adj.多泡的 [domain:医学]
+vesiculotomy | n.精囊切开术 [domain:医学]
+vesiculous | adj.多泡的 [domain:医学]
+vesiculovirus | n.水疱病毒 [domain:生物]
+vespertilian | adj.蝙蝠的 [domain:动物]
+vespertilionid | n.蝙蝠科动物 [domain:动物]
+vespertilionine | adj.蝙蝠的 [domain:动物]
+vespiform | adj.黄蜂状的 [domain:动物]
+vespoid | adj.胡蜂状的 [domain:动物]
+vestibula | skip:not-lemma
+vestibulectomy | n.前庭切除术 [domain:医学]
+vestibuli | skip:not-lemma
+vestibulitis | n.前庭炎 [domain:医学]
+vestibulopathy | n.前庭病 [domain:医学]
+vestibuloplasty | n.前庭成形术 [domain:医学]
+vestibulospinal | adj.前庭脊髓的 [domain:解剖]
+vestibulotomy | n.前庭切开术 [domain:医学]
+vestings | skip:not-lemma
+vestlike | adj.背心状的
+vestmental | adj.法衣的 [domain:宗教]
+vexilla | skip:not-lemma
+vexillar | adj.旗的, 旗瓣的
+vexillate | adj.有旗的
+vexillologic | adj.旗帜学的
+viander | n.美食家 [dated]
+viatic | adj.旅行的 [dated]
+viatica | skip:not-lemma
+vibices | skip:not-lemma
+vibist | n.颤音琴演奏者 [domain:音乐]
+vibracula | skip:not-lemma
+vibracular | adj.振动体的 [domain:动物]
+vibraculum | n.振动体 [domain:动物]
+vibraharpist | n.颤音琴演奏者 [domain:音乐]
+vibratility | n.可振动性
+vibrationless | adj.无振动的
+vibrative | adj.振动的
+vibriocidal | adj.杀弧菌的 [domain:医学]
+vibrioid | adj.弧菌状的 [domain:生物]
+vibriosis | n.弧菌病 [domain:医学]
+vibroflotation | n.振冲法 [domain:建筑]
+vibromassage | n.振动按摩 [domain:医学]
+vibromasseur | skip:unknown
+vibrometer | n.振动计 [domain:物理]
+vibrophone | n.振动传声器 [domain:电子]
+vibroseis | n.震源车勘探法 [domain:地质]
+vibrotactile | adj.振动触觉的 [domain:心理]
+vibrotherapy | n.振动疗法 [domain:医学]
+vicarate | n.代牧职务 [domain:宗教]
+vicarship | n.代牧职务 [domain:宗教]
+vicenary | adj.二十的, 二十进制的
+viceregally | adv.总督般地
+vicilin | n.豌豆球蛋白 [domain:生物]
+vicissitudinary | adj.变迁的, 盛衰的
+vicissitudinous | adj.变迁的, 盛衰的
+victimologist | n.被害人学家 [domain:法律]
+victress | n.女胜利者 [dated]
+victualage | n.食物
+videophile | n.视频爱好者
+videoplayer | n.视频播放机
+videoporn | n.色情录像 [informal] | nokid
+videorecord | v.录像
+videotelephony | n.视频电话
+videotheque | n.录像带库
+vidimus | n.核证抄本 [domain:法律]
+viduage | n.寡居 [dated]
+vidual | adj.寡妇的 [dated]
+viewbook | n.风景册
+viewiness | n.幻想性 [dated]
+viewlessly | adv.看不见地
+vigesimo | n.二十开本 [domain:印刷]
+vigilambulism | n.梦游中保持警觉 [domain:医学]
+vigorless | adj.无活力的
+villagery | n.村庄, 村落 [literary]
+villanage | n.农奴身份 [domain:历史]
+villanette | n.维拉内拉舞曲 [domain:音乐]
+villatic | adj.乡村的, 别墅的 [dated]
+villiaumite | n.氟化钠矿 [domain:矿业]
+villiferous | adj.有绒毛的 [domain:生物]
+villitis | n.绒毛炎 [domain:医学]
+vimen | n.长嫩枝 [domain:植物]
+vimineous | adj.长枝条的 [domain:植物]
+vinasse | n.酒糟废液 [domain:化学]
+vincibility | n.可征服性
+vincibleness | n.可征服性
+vinclozolin | n.乙烯菌核利 [domain:农业]
+vindicability | n.可辩护性
+vineal | adj.葡萄树的 [dated]
+vined | adj.有藤蔓的
+vinegariness | n.酸味
+vinegarishness | n.酸味
+vinegarweed | n.醋草 [domain:植物]
+vinelet | n.小藤蔓 [domain:植物]
+vinic | adj.酒的 [domain:化学]
+viniferous | adj.产葡萄酒的
+vinificator | n.酿酒器 [domain:烹饪]
+vinology | n.葡萄酒学 [domain:烹饪]
+vinometer | n.酒精计 [domain:化学]
+vinously | adv.酒似地
+vinylacetylene | n.乙烯基乙炔 [domain:化学]
+vinylamine | n.乙烯胺 [domain:化学]
+vinylation | n.乙烯化 [domain:化学]
+vinylbenzene | n.苯乙烯 [domain:化学]
+vinylene | n.亚乙烯基 [domain:化学]
+vinylic | adj.乙烯基的 [domain:化学]
+vinylog | skip:unknown
+vinylogue | skip:unknown
+vinylogy | skip:unknown
+vinylon | n.维尼纶 [domain:纺织]
+vinylpyrrolidone | n.乙烯基吡咯烷酮 [domain:化学]
+violability | n.可侵犯性
+violableness | n.可侵犯性
+violacein | n.紫色杆菌素 [domain:化学]
+violarite | n.硫镍铁矿 [domain:矿业]
+violaxanthin | n.紫黄质 [domain:植物]
+violescent | adj.略带紫色的
+violetwood | n.紫罗兰木 [domain:植物]
+viomycin | n.紫霉素 [domain:药学]
+viosterol | n.维生素二制剂 [domain:药学]
+viperling | n.小毒蛇 [domain:动物]
+vipoma | n.血管活性肠肽瘤 [domain:医学]
+viraemia | n.病毒血症 [domain:医学]
+viraginity | n.女人男性化 [dated]
+virent | adj.绿的 [literary]
+virgae | skip:not-lemma
+virgated | adj.有条纹的 [domain:生物]
+virginally | adv.处女般地
+virginiamycin | n.维吉尼霉素 [domain:药学]
+virgulate | adj.棒状的 [domain:生物]
+viricidal | adj.杀病毒的 [domain:医学]
+viridescence | n.浅绿色, 变绿 [domain:植物]
+virilescence | n.男性化 [domain:医学]
+virilescent | adj.男性化的 [domain:医学]
+virilisation | n.男性化 [domain:医学,uk]
+virilise | v.使男性化 [domain:医学,uk]
+viripotent | adj.适婚的 [dated]
+virogene | n.病毒基因 [domain:生物]
+virogenesis | n.病毒生成 [domain:生物]
+virologically | adv.病毒学地
+virose | adj.有毒的 [domain:植物]
+virosis | n.病毒病 [domain:医学]
+virosome | n.病毒体 [domain:生物]
+virostatic | adj.抑制病毒的 [domain:药学]
+virtueless | adj.无美德的
+virtuosoship | n.名家身份
+virulency | n.毒力, 恶毒 [formal]
+viruliferous | adj.带病毒的 [domain:生物]
+viruria | n.病毒尿 [domain:医学]
+virusoid | n.类病毒 [domain:生物]
+virustatic | adj.抑制病毒的 [domain:药学]
+visavis | skip:junk
+viscerad | adv.向内脏 [domain:解剖]
+visceralgia | n.内脏痛 [domain:医学]
+visceralism | n.内脏论 [domain:医学]
+visceroptosis | n.内脏下垂 [domain:医学]
+viscerotonia | n.内脏紧张型 [domain:心理]
+viscerotonic | adj.内脏紧张型的 [domain:心理]
+viscidly | adv.黏稠地
+viscidness | n.黏性
+viscoid | adj.类黏性的
+viscoidal | adj.类黏性的
+viscometric | adj.黏度测定的 [domain:物理]
+viscoplasticity | n.黏塑性 [domain:物理]
+viscosimetric | adj.黏度测定的 [domain:物理]
+viscosimetry | n.黏度测定法 [domain:物理]
+visibleness | n.可见性
+visile | n.视觉型的人 [domain:心理]
+visionally | adv.幻想地
+visionariness | n.空想性
+visitator | n.巡视员 [domain:宗教]
+visitatorial | adj.巡视的 [domain:法律]
+visive | adj.视觉的 [dated]
+visna | n.梅迪病 [domain:医学]
+visorless | adj.无面罩的
+visus | n.视力 [domain:医学]
+vitaceous | adj.葡萄科的 [domain:植物]
+vitaliser | n.使有活力者 [uk]
+vitalness | n.必要性, 生命力
+vitaminic | adj.维生素的 [domain:医学]
+vitaminise | v.添加维生素 [uk]
+vitaminization | n.维生素强化 [domain:医学]
+vitaminize | v.添加维生素 [domain:医学]
+vitaminoid | n.类维生素 [domain:医学]
+vitaminology | n.维生素学 [domain:医学]
+vitaminosis | n.维生素病 [domain:医学]
+vitascope | n.早期电影放映机 [domain:摄影]
+vitativeness | skip:unknown
+vitellarium | n.卵黄腺 [domain:动物]
+vitellary | n.卵黄腺 [domain:动物]
+vitellicle | skip:unknown
+vitelligenous | adj.产卵黄的 [domain:动物]
+vitellogenetic | adj.卵黄生成的 [domain:生物]
+vitellogenous | adj.产卵黄的 [domain:动物]
+vitellose | n.卵黄蛋白 [domain:生物]
+vitexin | n.牡荆素 [domain:化学]
+vitia | skip:not-lemma
+vitiable | adj.可损坏的
+vitiator | n.损坏者
+viticolous | adj.栖于葡萄树的 [domain:生物]
+vitiliginous | adj.白癜风的 [domain:医学]
+vitiligoid | adj.类白癜风的 [domain:医学]
+vitium | n.缺陷 [domain:医学]
+vitrescence | n.玻璃化
+vitrescible | adj.可玻璃化的
+vitric | adj.玻璃的
+vitrifaction | n.玻璃化
+vitrifacture | n.玻璃制造 [dated]
+vitriform | adj.玻璃状的
+vitriolate | v.硫酸化 [domain:化学]
+vitriolated | adj.硫酸化的 [domain:化学]
+vitriolically | adv.尖刻地
+vitriolization | n.硫酸化 [domain:化学]
+vitrite | n.镜煤 [domain:矿业]
+vitritis | n.玻璃体炎 [domain:医学]
+vitrophyre | n.玻基斑岩 [domain:地质]
+vittae | skip:not-lemma
+vittate | adj.有条纹的 [domain:生物]
+vitular | adj.小牛的 [dated]
+vituline | adj.小牛的 [dated]
+vituperator | n.辱骂者, 责骂者 [formal]
+vivandier | n.随军女商贩 [domain:历史]
+vivaria | skip:not-lemma
+vividity | n.生动, 鲜明 [dated]
+vivific | adj.赋予生命的 [literary]
+viviparism | n.胎生 [domain:动物]
+viviparously | adv.胎生地 [domain:动物]
+viviparousness | n.胎生 [domain:动物]
+vivipary | n.胎生 [domain:动物]
+vizarded | adj.戴面具的 [literary]
+viziership | n.大臣职位 [domain:历史]
+vizored | adj.戴面甲的 [literary]
+vocabular | n.词汇表 [domain:语言]
+vocalis | n.声带肌 [domain:解剖]
+vocaliser | n.发声者 [uk]
+vocalness | n.发声
+vocationalize | v.使职业化 [domain:教育]
+vocatively | adv.呼格地 [domain:语言]
+vociferance | n.喧嚷
+vociferant | adj.喧嚷的
+vociferator | n.喧嚷者
+vocoid | n.元音类音 [domain:语言]
+voder | n.语音合成器 [domain:电子]
+vodoun | n.伏都教 [domain:宗教]
+voetstoots | adv.照现状 [domain:法律]
+voiceful | adj.声音洪亮的 [literary]
+voicer | n.发声者, 调音师
+voidableness | n.可撤销性 [domain:法律]
+voidage | n.空隙度, 空隙
+voiturette | n.小型汽车 [dated]
+volapukist | n.沃拉普克语者 [domain:语言]
+volary | n.大鸟笼 [dated]
+volatileness | n.挥发性
+volatilisable | adj.可挥发的 [uk]
+volatilizable | adj.可挥发的
+volatilizer | n.挥发器
+volation | n.飞行 [dated]
+volcanian | adj.火山的 [domain:地质]
+volcanize | v.使火山化 [domain:地质]
+volcanoclastic | adj.火山碎屑的 [domain:地质]
+volcanologic | adj.火山学的 [domain:地质]
+volitation | n.飞行 [dated]
+volsella | n.镊子 [domain:医学]
+voltaism | n.伽伐尼电学 [domain:物理,dated]
+voltametry | n.伏安法 [domain:化学]
+volubleness | n.健谈, 流利
+volumeless | adj.无体积的
+volumenometer | n.体积计 [domain:物理]
+volumeter | n.体积计 [domain:物理]
+volutin | n.异染颗粒 [domain:生物]
+volvele | n.活动转盘图 [domain:历史]
+vomicine | n.番木鳖碱 [domain:化学]
+vomiter | n.呕吐者
+vomitoxin | n.呕吐毒素 [domain:农业]
+vomity | adj.作呕的
+voodooistic | adj.巫毒教的 [domain:宗教]
+vorticellae | skip:not-lemma
+vorticular | adj.旋涡的
+vortiginous | adj.旋涡的
+votively | adv.还愿地
+votiveness | n.还愿性
+voudou | n.伏都教 [domain:宗教]
+vouge | n.长柄战斧 [domain:历史]
+voussure | n.拱腹 [domain:建筑]
+vowelise | v.加元音符号 [domain:语言,uk]
+vowellike | adj.类元音的 [domain:语言]
+vower | n.发誓者
+voyageable | adj.可航行的 [domain:航海]
+voyeuristical | adj.窥淫癖的 [domain:心理]
+vraic | n.海藻肥料 [domain:农业]
+vrille | n.尾旋 [domain:航空]
+vrow | n.妇女 [dated]
+vugg | n.岩洞 [domain:地质]
+vugh | n.岩洞 [domain:地质]
+vugular | adj.多晶洞的 [domain:地质]
+vulcanian | adj.火山的 [domain:地质]
+vulcanisate | n.硫化橡胶 [domain:化学,uk]
+vulcanoid | n.祝融星体 [domain:天文]
+vulgariser | n.庸俗化者 [uk]
+vulgarness | n.粗俗
+vulgus | n.普通人群 [dated]
+vulnerableness | n.脆弱性
+vulnerant | n.伤害物 [dated]
+vulneraria | n.疗伤草 [domain:植物]
+vulnerate | v.伤害 [dated]
+vulnus | n.伤口 [domain:医学]
+vulpecular | adj.狐狸的 [domain:动物]
+vulpinite | n.硬石膏 [domain:矿业]
+vulsella | n.镊子 [domain:医学]
+vulturish | adj.秃鹫般的
+vulvae | skip:not-lemma
+vulvectomy | n.外阴切除术 [domain:医学]
+vulviform | adj.外阴状的 [domain:医学]
+vulvismus | n.外阴痉挛 [domain:医学]
+vulvocrural | adj.外阴股的 [domain:解剖]
+vulvopathy | n.外阴病 [domain:医学]
+wabbler | skip:unknown
+wabbliness | skip:unknown
+wabbly | skip:unknown
+wadder | n.填塞者
+waddlingly | adv.摇摇摆摆地
+wadsetter | n.抵押权人 [domain:法律]
+wafery | adj.薄片似的
+waftage | n.飘送
+wafter | n.飘送者
+wageless | adj.无工资的
+wagger | n.摇动者
+waggonage | n.货运费 [uk,dated]
+waggonload | n.一货车的量 [uk]
+wagonage | n.货运, 货运费 [us,dated]
+wagonwright | n.造货车工匠 [dated]
+wagsome | adj.爱开玩笑的 [dated]
+wailful | adj.哀号的 [literary]
+wailfully | adv.哀号地 [literary]
+wainage | n.车辆, 农具 [domain:历史]
+wainrope | n.运货车缆绳 [dated]
+waister | n.上层甲板水手 [domain:航海,dated]
+waiwode | n.总督 [domain:历史]
+wakeless | adj.不能醒的 [literary]
+wakener | n.唤醒者
+wakerife | adj.失眠的 [dated]
+waldgrave | n.林务伯爵 [domain:历史]
+walkdown | n.走下
+wallful | n.满墙的量 [dated]
+wallless | adj.无墙的
+wallpaperer | n.贴墙纸工
+wallwasher | n.泛光灯 [domain:建筑]
+wallwort | n.接骨木 [domain:植物]
+wallydrag | n.懦夫 [dated]
+wallydraigle | n.邋遢人 [dated]
+walty | adj.易倾斜的 [domain:航海]
+wampish | v.挥动, 摆动 [dated]
+wanax | n.迈锡尼国王 [domain:历史]
+wandflower | n.杖花 [domain:植物]
+wanion | n.灾祸 [dated]
+wankle | adj.不稳的, 软弱的 [dated]
+wantable | adj.可缺少的 [dated]
+wantless | adj.无需求的 [dated]
+wantoner | n.放荡者 [dated]
+wapperjaw | n.突颌, 龅牙 [informal]
+wapperjawed | adj.突颌的, 龅牙的 [informal]
+wardenry | n.监护职务
+wardership | n.监护职务
+wardmote | n.区会议 [domain:历史]
+wardsman | n.病房护理员 [domain:医学]
+warehouser | n.仓库管理员
+warfarer | n.战士, 参战者 [literary]
+wargasm | skip:unknown
+warison | n.赏赐 [dated]
+warpwise | adv.沿经线 [domain:纺织]
+warragal | n.澳洲野狗 [domain:动物]
+warrandice | n.担保 [domain:法律]
+warscape | n.战场景象
+warstle | v.摔跤, 挣扎 [dated]
+wartlike | adj.疣状的
+wartweed | n.疣草 [domain:植物]
+wartwort | n.疣草 [domain:植物]
+washboiler | n.洗衣锅炉
+washbox | n.洗涤箱
+washiness | n.水分过多, 淡薄
+washland | n.洪泛草地 [domain:地理]
+washman | n.洗衣工 [dated]
+washplate | n.挡水板 [domain:航海]
+washpot | n.洗涤盆
+wasterful | adj.浪费的 [dated]
+wastery | n.浪费 [dated]
+wasteweir | n.溢流堰 [domain:建筑]
+wasteyard | n.废料场
+wastry | n.浪费 [dated]
+wasty | adj.浪费的 [dated]
+watchboat | n.巡逻艇 [domain:航海]
+watchwork | n.钟表机械
+waterage | n.水运, 水运费
+waterblink | n.水映光 [domain:气象]
+waterbrain | n.脑积水 [domain:医学]
+watercart | n.洒水车
+waterfinder | n.找水者
+waterguard | n.水上缉私队
+waterily | adv.水汪汪地
+waterishness | n.水分多, 淡薄
+waterly | adj.水的 [dated]
+watermanship | n.划船技术 [domain:体育]
+watermeal | n.无根萍 [domain:植物]
+watershoot | n.徒长枝 [domain:植物]
+watersoaked | adj.水浸透的
+waterwall | n.水冷壁 [domain:机械]
+waterward | adv.向水
+waterwort | n.沟繁缕 [domain:植物]
+wavellite | n.银星石 [domain:矿业]
+waveness | n.波动性
+waveshaper | n.波形整形器 [domain:电子]
+waveshaping | n.波形整形 [domain:电子]
+wawl | v.号叫 [dated]
+waxlight | n.蜡烛 [dated]
+waxpaper | n.蜡纸
+waxplant | n.蜡花 [domain:植物]
+waxweed | n.蜡草 [domain:植物]
+waygoing | adj.离开的 [dated]
+wayless | adj.无路的
+waywise | adj.熟悉路途的 [dated]
+wayzgooze | n.印刷工人的年度宴会 [domain:印刷]
+weakhearted | adj.胆小的, 软弱的
+weakishness | n.软弱
+weakliness | n.虚弱
+weaponed | adj.武装的
+weariful | adj.令人疲倦的
+wearifully | adv.令人疲倦地
+wearifulness | n.疲倦
+weariless | adj.不知疲倦的
+wearilessly | adv.不知疲倦地
+wearingly | adv.令人疲倦地
+wearish | adj.疲倦的 [dated]
+wearproof | adj.耐磨的
+weatherability | n.耐候性
+weatherdeck | n.露天甲板 [domain:航海]
+weatherliness | n.逆风航行性能 [domain:航海]
+weathermost | adj.最迎风的 [domain:航海]
+weatherology | n.天气学 [domain:气象]
+weatherometer | n.耐候试验仪 [domain:机械]
+weatherproofness | n.防风雨性
+weazand | n.喉咙, 气管 [dated]
+weazen | adj.干瘪的 [dated]
+webfed | adj.卷筒纸进给的 [domain:印刷]
+webhead | n.网虫 [informal]
+weblike | adj.网状的
+webtoed | adj.有蹼趾的 [domain:动物]
+wedeling | n.摆尾滑雪 [domain:体育]
+wedgelike | adj.楔形的
+wedgewise | adv.楔形地
+weedery | n.杂草丛
+weedhead | n.吸大麻者 [slang] | nokid
+weediness | n.杂草丛生
+weenier | adj.更小的 [informal]
+weepage | n.渗漏 [domain:地质]
+weeviled | adj.有象鼻虫的 [domain:农业]
+weevilly | adj.有象鼻虫的 [domain:农业]
+weftwise | adv.沿纬线 [domain:纺织]
+weigelia | n.锦带花 [domain:植物]
+weighage | n.过磅费 [domain:商业]
+weighhouse | n.过磅房 [domain:商业]
+weighlock | n.运河过磅闸 [domain:历史]
+weighman | n.司磅员
+weighter | n.称量者
+weirdie | n.怪人 [informal]
+welcomely | adv.受欢迎地
+welcomeness | n.受欢迎
+weldbonding | n.焊接粘接 [domain:机械]
+weldless | adj.无缝的 [domain:机械]
+welldoing | n.善行 [dated]
+wellhole | n.井孔, 楼梯井 [domain:建筑]
+wellingtonia | n.巨杉 [domain:植物]
+wellsinker | n.凿井工 [domain:矿业]
+wennish | adj.似肿瘤的 [dated]
+wenny | adj.有囊肿的 [dated]
+wersh | adj.无味的 [dated]
+werst | skip:unknown
+westabout | adv.向西 [dated]
+westernling | n.西方人
+westness | n.偏西
+westwardly | adv.向西
+wetproof | adj.防潮的
+wettish | adj.微湿的
+wetwood | n.湿心材 [domain:植物]
+whalehead | n.鲸头鹳 [domain:动物]
+whalelike | adj.像鲸的
+whalemeat | n.鲸肉 [domain:烹饪]
+whalery | n.捕鲸业
+whalesucker | n.鲫鱼 [domain:动物]
+whame | n.马蝇 [domain:动物]
+whapper | skip:unknown
+whapping | adj.巨大的 [informal]
+wharfman | n.码头工人
+wharfmaster | n.码头管理员
+wharve | n.纺锤盘 [domain:纺织]
+whatfor | n.惩罚 [informal]
+whatizit | skip:unknown
+whatsisface | n.某某人 [informal]
+whatyoumaycallit | n.某某东西 [informal]
+wheatless | adj.无小麦的
+wheatworm | n.麦线虫 [domain:动物]
+wheelage | n.车辆通行费 [dated]
+wheelbox | n.轮毂 [domain:机械]
+wheelless | adj.无轮的
+wheelmark | n.车辙
+wheelrace | n.水轮槽 [domain:机械]
+wheeltrack | n.车辙
+wheest | int.嘘 [dated]
+whelked | adj.有螺纹的
+whenabouts | skip:unknown
+whereinto | adv.进入其中 [dated]
+whereness | n.位置性 [domain:哲学]
+whereout | adv.从中 [dated]
+whereover | adv.在其上 [dated]
+wherethrough | adv.通过其中 [dated]
+whereunder | adv.在其下 [dated]
+whetter | n.磨刀者
+wheyey | adj.乳清似的
+wheyface | n.脸色苍白者 [dated]
+wheyfaced | adj.脸色苍白的 [dated]
+wheyish | adj.乳清似的
+wheylike | adj.乳清似的
+whid | v.疾行 [dated]
+whiffer | n.吹气者
+whiffler | n.清道者 [domain:历史]
+whiggishly | adv.辉格党式地 [domain:政治]
+whigmaleerie | n.小饰物, 怪念头 [dated]
+whimling | n.心血来潮者 [dated]
+whimmy | adj.古怪的 [dated]
+whimperer | n.呜咽者
+whimple | v.曲折 [dated]
+whimsied | adj.异想天开的 [dated]
+whing | skip:unknown
+whipcrack | n.鞭响
+whipgraft | n.舌接 [domain:农业]
+whipless | adj.无鞭的
+whipperwill | skip:junk
+whipstall | n.失速 [domain:航空]
+whipt | skip:not-lemma
+whirlabout | n.旋转
+whirlbone | n.髌骨, 股骨头 [domain:解剖]
+whirler | n.旋转者
+whirlicote | n.旧式马车 [dated]
+whiskerless | adj.无胡须的
+whiskified | adj.醉酒的 [dated]
+whisperously | adv.耳语般地
+whistlable | adj.可吹口哨的
+whistleable | adj.可吹口哨的
+whistly | adj.似口哨声的
+whitecup | n.白杯花 [domain:植物]
+whitehanded | adj.手清白的
+whiteheart | n.白心 [domain:植物]
+whitepox | n.白痘 [domain:医学]
+whiteroom | n.洁净室
+whitewing | n.白翅鸟 [domain:动物]
+whitishness | n.带白色
+whitlavia | n.蓝钟花 [domain:植物]
+whitleather | n.白鞣皮 [domain:纺织]
+whitlowwort | n.指甲草 [domain:植物]
+whittret | n.黄鼠狼 [dated]
+whizzingly | adv.嗖嗖地
+whizzo | adj.极好的 [informal]
+whomso | skip:unknown
+whoosis | n.某某东西 [informal]
+whorler | n.旋转者
+whorly | adj.轮生的 [domain:植物]
+whortle | n.越橘 [domain:植物]
+whoseso | skip:unknown
+whosesoever | pron.无论谁的 [dated]
+whosis | n.某某人 [informal]
+widgie | n.澳洲女飞妹 [domain:历史]
+widish | adj.略宽的
+wifie | n.妻子 [informal]
+wiggery | n.假发
+wiggliness | n.扭动
+wigless | adj.无假发的
+wildered | adj.迷路的 [literary]
+wildering | adj.使迷惑的 [literary]
+wildflysch | n.蛮复理石 [domain:地质]
+wilkeite | skip:unknown
+willable | adj.可立遗嘱处分的 [domain:法律]
+willowish | adj.似柳树的
+wincher | n.踢人的马 [dated]
+windbell | n.风铃
+windlestrae | n.枯草 [dated]
+windmiller | n.风车磨坊主
+windowful | n.一窗的量
+windowy | adj.多窗的
+windrower | n.割草摊晒机 [domain:农业]
+wineless | adj.无酒的
+wingstem | n.翅茎草 [domain:植物]
+winningness | n.迷人
+winnock | n.窗户 [dated]
+winsey | n.棉毛混纺布 [domain:纺织]
+winterclad | adj.穿冬装的
+winterfeed | v.冬季喂养 [domain:农业]
+winterish | adj.似冬季的
+winterkilling | n.冬季冻死 [domain:农业]
+winterless | adj.无冬天的
+winterlong | adj.整个冬季的
+winterly | adj.冬季的
+winterness | n.冬季性
+wirable | adj.可布线的
+wirebar | n.线锭 [domain:机械]
+wiredrawing | n.拉丝 [domain:机械]
+wirelike | adj.线状的
+wirer | n.布线工
+wirerope | n.钢丝绳 [domain:机械]
+wiresmith | n.金属丝工匠
+wirespun | adj.拉丝的 [domain:机械]
+wiseness | n.明智
+wispish | adj.一缕缕的
+wisplike | adj.一缕缕的
+witchlike | adj.像女巫的
+witchwoman | n.女巫
+withdrawer | n.撤回者, 取款人
+withdrawment | n.撤回 [dated]
+withdrawnness | n.孤僻
+withholdment | n.扣留 [dated]
+withindoors | adv.在室内 [dated]
+withinside | adv.在内部 [dated]
+withoutdoors | adv.在室外 [dated]
+withouten | prep.没有 [dated]
+witnessable | adj.可作证的
+witnesser | n.见证人
+woaded | adj.用菘蓝染的 [domain:纺织]
+woadwaxen | n.染料木 [domain:植物]
+woald | n.黄木犀草 [domain:植物]
+wobbleboard | n.摇摆板 [domain:音乐]
+wobbulate | v.扫频 [domain:电子]
+wobbulator | n.扫频振荡器 [domain:电子]
+wodginite | n.锡锰钽矿 [domain:矿业]
+woebegoneness | n.悲哀
+woesome | adj.悲哀的 [dated]
+wohlerite | n.硅铌钙石 [domain:矿业]
+wolfkin | n.小狼
+wolflike | adj.像狼的
+wolfling | n.小狼
+wolframate | n.钨酸盐 [domain:化学]
+wolframic | adj.钨的 [domain:化学]
+wolframium | n.钨 [domain:化学]
+wolfsbergite | n.硫铜锑矿 [domain:矿业]
+womanity | n.女性特质 [dated]
+womanless | adj.无女人的
+womanward | adv.向女性
+womby | adj.子宫似的 [dated]
+wonderberry | n.龙葵果 [domain:植物]
+wontedness | n.习惯, 惯常
+woodbind | n.忍冬 [domain:植物]
+woodfern | n.鳞毛蕨 [domain:植物]
+woodgraining | n.仿木纹 [domain:美术]
+woodhouseite | skip:unknown
+woodless | adj.无树木的
+woodlet | n.小树林
+woodsiness | n.森林气息
+woodwardite | n.水铜铝矾 [domain:矿业]
+wooingly | adv.求爱地
+woold | v.绕缠 [domain:航海]
+wooled | adj.有毛的
+woolenet | n.薄毛织物 [domain:纺织]
+woolenette | n.薄毛织物 [domain:纺织]
+woolfell | n.带毛羊皮
+woolled | adj.有毛的
+woollenette | n.薄毛织物 [domain:纺织,uk]
+woollenize | v.使成毛织品 [dated]
+woollily | adv.羊毛般地
+woolskin | n.带毛羊皮
+woopie | n.积极老年人 [informal]
+worder | n.措辞者
+wordish | adj.冗长的 [dated]
+wordmongering | n.咬文嚼字 [dated]
+workableness | n.可行性
+workably | adv.可行地
+workerist | n.工人主义者 [domain:政治]
+workmanly | adj.技艺精湛的
+workwise | adv.就工作而言
+worldlet | n.小世界
+worldward | adv.向世界
+wormholed | adj.被虫蛀的
+wormless | adj.无虫的
+wormling | n.小虫 [dated]
+worriless | adj.无忧的
+worseness | n.更差
+worshipless | adj.不敬神的 [dated]
+worthful | adj.有价值的 [dated]
+worthwhileness | n.值得
+wortmannin | n.渥曼青霉素 [domain:生物]
+woundable | adj.易受伤的
+woundless | adj.无伤的
+woundy | adv.极其 [dated]
+wourali | n.箭毒 [domain:药学]
+woylie | n.短尾袋鼠 [domain:动物]
+wrackful | adj.破坏性的 [dated]
+wrathless | adj.无怒气的
+wreaker | n.泄愤者
+wreathen | adj.编成花环的 [literary]
+wreathless | adj.无花环的
+wreathy | adj.花环状的
+wreckful | adj.破坏性的 [dated]
+wrinkleless | adj.无皱纹的
+wrongous | adj.不正当的 [domain:法律]
+wrothful | adj.愤怒的 [literary]
+wrothy | adj.愤怒的 [dated]
+wuchereriasis | n.班氏丝虫病 [domain:医学]
+wurtzilite | n.黑沥青 [domain:矿业]
+wustite | n.方铁矿 [domain:矿业]
+wyomingite | n.怀俄明岩 [domain:地质]
+xanthelasmatosis | n.黄斑瘤病 [domain:医学]
+xanthemia | n.黄血症 [domain:医学]
+xanthinuria | n.黄嘌呤尿 [domain:医学]
+xanthism | n.黄化现象 [domain:动物]
+xanthiuria | n.黄嘌呤尿 [domain:医学]
+xanthocarpous | adj.黄果的 [domain:植物]
+xanthochroid | adj.浅肤色金发的 [domain:历史]
+xanthochroism | n.黄化现象 [domain:动物]
+xanthochromia | n.黄变 [domain:医学]
+xanthochromic | adj.黄变的 [domain:医学]
+xanthoconite | n.淡红银矿 [domain:矿业]
+xanthocyanopsia | n.黄蓝视 [domain:医学]
+xanthoderm | n.黄皮肤者 [dated]
+xanthoderma | n.黄皮病 [domain:医学]
+xanthodont | n.黄齿动物 [domain:动物]
+xanthogen | n.黄原酸盐 [domain:化学]
+xanthogenate | n.黄原酸盐 [domain:化学]
+xanthogenic | adj.黄原酸的 [domain:化学]
+xanthogranuloma | n.黄色肉芽肿 [domain:医学]
+xanthogranulomatosis | n.黄色肉芽肿病 [domain:医学]
+xanthohumol | n.黄腐酚 [domain:化学]
+xanthomatous | adj.黄色瘤的 [domain:医学]
+xanthometer | skip:unknown
+xanthomonad | n.黄单胞菌 [domain:生物]
+xanthophyceae | skip:not-english
+xanthophyllite | n.脆云母 [domain:矿业]
+xanthoproteic | adj.黄色蛋白反应的 [domain:化学]
+xanthopterin | n.黄蝶呤 [domain:化学]
+xanthorrhiza | n.黄根 [domain:植物]
+xanthorrhoea | n.草树 [domain:植物]
+xanthosiderite | n.黄针铁矿 [domain:矿业]
+xanthosine | n.黄苷 [domain:化学]
+xanthosis | n.黄变症 [domain:医学]
+xanthosoma | n.黄肉芋 [domain:植物]
+xanthotoxin | n.花椒毒素 [domain:药学]
+xanthoxenite | skip:unknown
+xanthoxin | n.黄质素 [domain:植物]
+xanthuria | n.黄嘌呤尿 [domain:医学]
+xanthydrol | n.呫吨醇 [domain:化学]
+xanthyl | n.呫吨基 [domain:化学]
+xenelasia | n.排外政策 [domain:历史]
+xenium | n.客礼 [domain:历史]
+xenoantibody | n.异种抗体 [domain:医学]
+xenobiosis | n.异种共生 [domain:生物]
+xenoblast | n.异形变晶 [domain:地质]
+xenocentric | adj.崇外的
+xenodiagnosis | n.异种诊断法 [domain:医学]
+xenodiagnostic | adj.异种诊断的 [domain:医学]
+xenodochium | n.旅人招待所 [domain:历史]
+xenogamous | adj.异株受精的 [domain:植物]
+xenogenetic | adj.异种的 [domain:生物]
+xenogenic | adj.异种的 [domain:生物]
+xenology | n.外星生物学
+xenomenia | n.替代性月经 [domain:医学]
+xenoparasite | n.异种寄生物 [domain:生物]
+xenophthalmia | n.异物性眼炎 [domain:医学]
+xenotropic | adj.异嗜性的 [domain:生物]
+xenyl | n.联苯基 [domain:化学]
+xerasia | n.毛发干枯 [domain:医学]
+xerodermia | n.皮肤干燥 [domain:医学]
+xerodermic | adj.皮肤干燥的 [domain:医学]
+xeromorph | n.旱生植物 [domain:植物]
+xeromorphism | n.旱生形态 [domain:植物]
+xeromorphy | n.旱生形态 [domain:植物]
+xerophagia | n.干食 [domain:宗教]
+xerophil | n.嗜旱生物 [domain:生物]
+xerophily | n.适旱性 [domain:生物]
+xerophthalmic | adj.干眼病的 [domain:医学]
+xerophytia | n.旱生性 [domain:植物]
+xerophytism | n.旱生性 [domain:植物]
+xeroprinting | n.静电印刷 [domain:印刷]
+xiphiplastron | n.剑板 [domain:动物]
+xiphisterna | skip:not-lemma
+xiphisternal | adj.剑突的 [domain:解剖]
+xiphocostal | adj.剑突肋骨的 [domain:解剖]
+xiphodynia | n.剑突痛 [domain:医学]
+xiphoiditis | n.剑突炎 [domain:医学]
+xiphopagus | n.剑突连体双胎 [domain:医学]
+xiphosura | skip:not-english
+xonotlite | n.硬硅钙石 [domain:矿业]
+xylary | adj.木质部的 [domain:植物]
+xylidene | n.二甲苯胺 [domain:化学]
+xylindein | n.木蓝素 [domain:化学]
+xylocarpous | adj.木质果的 [domain:植物]
+xylogen | n.木质素 [domain:植物]
+xylographical | adj.木刻的 [domain:美术]
+xyloidin | n.木硝 [domain:化学]
+xylolite | n.木屑菱苦土 [domain:建筑]
+xyloma | n.木瘤 [domain:植物]
+xylomancy | n.木占 [domain:宗教]
+xylometazoline | n.赛洛唑啉 [domain:药学]
+xylometer | n.木材比重计 [domain:物理]
+xylophagan | n.食木虫 [domain:动物]
+xylophage | n.食木虫 [domain:动物]
+xylophilous | adj.喜木的 [domain:生物]
+xylopyranose | n.吡喃木糖 [domain:化学]
+xyloquinone | n.木醌 [domain:化学]
+xyloside | n.木糖苷 [domain:化学]
+xylosuria | n.木糖尿 [domain:医学]
+xylotomist | n.木材切片专家 [domain:植物]
+xylotomous | adj.蛀木的 [domain:动物]
+xylulokinase | n.木酮糖激酶 [domain:生物]
+xylyl | n.二甲苯基 [domain:化学]
+xylylene | n.亚二甲苯基 [domain:化学]
+xyris | n.黄眼草 [domain:植物]
+xystarch | n.体育场管理者 [domain:历史]
+xyster | n.刮骨刀 [domain:医学]
+yacare | n.南美凯门鳄 [domain:动物]
+yaffingale | n.绿啄木鸟 [domain:动物]
+yamulka | n.犹太小圆帽 [domain:宗教]
+yangona | n.卡瓦胡椒 [domain:植物]
+yapock | n.水负鼠 [domain:动物]
+yapok | n.水负鼠 [domain:动物]
+yaqona | n.卡瓦胡椒 [domain:植物]
+yardgrass | n.牛筋草 [domain:植物]
+yarely | adv.敏捷地 [dated]
+yarwhelp | n.斑尾塍鹬 [domain:动物]
+yaup | v.叫喊 [dated]
+yauper | n.叫喊者 [dated]
+yawmeter | n.偏航计 [domain:航空]
+yawnful | adj.令人打呵欠的
+yeared | adj.有年岁的
+yearner | n.渴望者
+yearnful | adj.渴望的
+yeastlike | adj.似酵母的
+yecchy | adj.令人厌恶的 [informal]
+yechy | adj.令人厌恶的 [informal]
+yellowly | adv.呈黄色地
+yellowroot | n.黄根 [domain:植物]
+yellowwort | n.黄花草 [domain:植物]
+yerk | v.猛击 [dated]
+yersiniosis | n.耶尔森菌病 [domain:医学]
+yestereven | n.昨晚 [literary]
+yesterevening | n.昨晚 [literary]
+yestermorning | n.昨晨 [literary]
+yieldability | n.屈服性
+yieldance | n.屈服 [dated]
+ynamine | n.炔胺 [domain:化学]
+yoderite | skip:unknown
+yojan | n.由旬 [domain:历史]
+yottabit | n.尧比特 [domain:计算机]
+youngly | adv.年轻地
+youngness | n.年轻
+youthhood | n.青春期
+youthify | v.使年轻
+youthy | adj.年轻的 [dated]
+ypsiliform | adj.丫形的 [domain:生物]
+ypsiloid | adj.丫形的 [domain:生物]
+ytterbite | n.硅铍钇矿 [domain:矿业]
+ytterbous | adj.含镱的 [domain:化学]
+yttrialite | n.钍钇石 [domain:矿业]
+yttriferous | adj.含钇的 [domain:化学]
+yttrious | adj.含钇的 [domain:化学]
+yttrocerite | n.钇铈萤石 [domain:矿业]
+yttrocolumbite | n.钇铌矿 [domain:矿业]
+yttrocrasite | n.钛钇矿 [domain:矿业]
+yttrogummite | skip:unknown
+yttrotantalite | n.钇钽矿 [domain:矿业]
+yttrotitanite | n.钇榍石 [domain:矿业]
+yttrotungstite | n.钨钇矿 [domain:矿业]
+yugawaralite | n.汤河原沸石 [domain:矿业]
+yukonite | skip:unknown
+yumpie | n.青年专业人士 [informal]
+yuppyish | adj.雅皮士式的 [informal]
+zalophus | skip:not-english
+zambomba | n.桑邦巴鼓 [domain:音乐]
+zanjon | n.灌溉渠 [domain:农业]
+zantedeschia | n.马蹄莲属 [domain:植物]
+zaratite | n.翠镍矿 [domain:矿业]
+zealful | adj.热心的 [dated]
+zealless | adj.不热心的
+zeatin | n.玉米素 [domain:植物]
+zeaxanthine | n.玉米黄质 [domain:化学]
+zelotypia | n.嫉妒狂 [domain:心理]
+zeolitization | n.沸石化 [domain:地质]
+zeophyllite | n.沸叶石 [domain:矿业]
+zeroaxial | adj.零轴的 [domain:数学]
+zerumbet | n.莪术 [domain:植物]
+zestocausis | skip:unknown
+zetetics | n.探究法 [domain:哲学]
+zeugmatography | n.核磁共振成像 [domain:医学]
+zeugopodium | n.前臂, 小腿 [domain:解剖]
+zeunerite | n.砷铜铀矿 [domain:矿业]
+zeylanite | skip:unknown
+zibelline | n.长毛织物 [domain:纺织]
+zigadene | skip:unknown
+zigzaggery | n.之字形
+zileuton | n.齐留通 [domain:药学]
+zimb | n.埃塞俄比亚大蝇 [domain:动物]
+zimelidine | n.齐美利定 [domain:药学]
+zinciferous | adj.含锌的 [domain:化学]
+zincification | n.镀锌 [domain:化学]
+zincify | v.镀锌 [domain:化学]
+zinckenite | n.辉锑铅矿 [domain:矿业]
+zincode | n.锌极 [domain:化学]
+zincographic | adj.锌版印刷的 [domain:印刷]
+zincoid | adj.类锌的 [domain:化学]
+zincy | adj.含锌的 [domain:化学]
+zingerone | n.姜酮 [domain:化学]
+zingiberene | n.姜烯 [domain:化学]
+zingiberol | n.姜醇 [domain:化学]
+zinkenite | n.辉锑铅矿 [domain:矿业]
+zinkify | v.镀锌 [domain:化学]
+zippeite | n.斜方铀矿 [domain:矿业]
+ziram | n.福美锌 [domain:农业]
+zirconic | adj.锆的 [domain:化学]
+zirconite | skip:unknown
+zirconolite | n.锆钛钙石 [domain:矿业]
+zirconyl | n.氧锆基 [domain:化学]
+zirkelite | n.锆钛钍矿 [domain:矿业]
+zizania | n.菰属 [domain:植物]
+zizyphus | n.枣属 [domain:植物]
+zoaea | skip:unknown
+zoalene | skip:unknown
+zoantharia | skip:not-english
+zoantharian | n.六放珊瑚 [domain:动物]
+zoanthropic | adj.变兽妄想的 [domain:医学]
+zoarium | n.苔藓虫群体 [domain:动物]
+zoccolo | n.基座 [domain:建筑]
+zoetic | adj.生命的 [literary]
+zoftick | adj.丰满的 [dated]
+zokor | n.鼢鼠 [domain:动物]
+zombiism | n.僵尸状态
+zomepirac | n.唑美酸 [domain:药学]
+zoneless | adj.无区域的
+zoniferous | adj.有带的
+zonula | n.小带 [domain:解剖]
+zonulitis | n.睫状小带炎 [domain:医学]
+zonulolysis | n.睫状小带溶解 [domain:医学]
+zonulotomy | n.睫状小带切断术 [domain:医学]
+zooblast | n.动物细胞 [domain:生物]
+zoochemical | adj.动物化学的 [domain:化学]
+zoochlorella | n.虫绿藻 [domain:生物]
+zoochore | n.动物传播植物 [domain:植物]
+zoochorous | adj.动物传播的 [domain:植物]
+zoocyst | n.动孢囊 [domain:生物]
+zooecology | n.动物生态学 [domain:生物]
+zooerastia | n.恋兽癖 [domain:心理] | nokid
+zooerasty | n.恋兽癖 [domain:心理] | nokid
+zoogenesis | n.动物起源 [domain:生物]
+zoogenous | adj.动物源的 [domain:生物]
+zooglea | n.菌胶团 [domain:生物]
+zoogony | n.动物生成论 [domain:生物]
+zoograft | n.动物移植片 [domain:医学]
+zoographic | adj.动物志的 [domain:动物]

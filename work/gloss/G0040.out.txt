@@ -1,0 +1,1000 @@
+phenetharbital | skip:unknown
+phenethicillin | n.非奈西林 [domain:药学]
+phenethium | skip:unknown
+phenethyldiguanide | n.苯乙双胍 [domain:药学]
+phenethylol | n.苯乙醇 [domain:化学]
+pheneticillin | n.非奈西林 [domain:药学]
+phenetide | skip:unknown
+phenetidin | n.氨基苯乙醚 [domain:化学]
+phenetidinuria | skip:unknown
+phenetol | n.苯乙醚 [domain:化学]
+phenetsal | skip:unknown
+phenetyl | skip:unknown
+phenglurethane | skip:unknown
+phenglutarimide | skip:unknown
+phengophobia | n.畏光 [domain:医学]
+phenicarbazide | skip:unknown
+phenicate | skip:unknown
+phenicin | skip:unknown
+phenide | skip:unknown
+phenidin | skip:unknown
+phenidine | skip:unknown
+phenidone | skip:unknown
+phenil | skip:unknown
+phenin | skip:unknown
+phenindamine | n.苯茚胺 [domain:药学]
+pheniodol | skip:unknown
+pheniprazine | n.苯异丙肼 [domain:药学]
+phenixin | skip:unknown
+phenmedipham | n.甜菜宁 [domain:农业]
+phenmethyl | n.苄基 [domain:化学]
+phenmethylol | n.苯甲醇 [domain:化学]
+phenmethyltriazine | skip:unknown
+phenmiazine | skip:unknown
+phenobutiodil | skip:unknown
+phenocain | skip:unknown
+phenoclast | skip:unknown
+phenocoll | skip:unknown
+phenocontour | skip:unknown
+phenocrystalline | adj.斑晶的 [domain:地质]
+phenocrystic | adj.斑晶的 [domain:地质]
+phenoctide | skip:unknown
+phenocytology | skip:unknown
+phenodeviant | skip:unknown
+phenodianisyl | skip:unknown
+phenodin | skip:unknown
+phenogamic | adj.显花的 [domain:植物]
+phenogen | skip:unknown
+phenogenetics | n.表型遗传学 [domain:生物]
+phenogroup | skip:unknown
+phenolaemia | n.酚血症 [domain:医学]
+phenolase | n.酚酶 [domain:生物]
+phenolemia | n.酚血症 [domain:医学]
+phenolization | n.酚化 [domain:化学]
+phenolize | v.酚化 [domain:化学]
+phenoloid | skip:unknown
+phenololipoid | skip:unknown
+phenoloxidase | n.酚氧化酶 [domain:生物]
+phenolphthalin | skip:unknown
+phenolphthalol | skip:unknown
+phenolplast | n.酚醛塑料 [domain:化学]
+phenolquinine | skip:unknown
+phenolsulfonate | n.苯酚磺酸盐 [domain:化学]
+phenolsulfonphthalein | n.酚红 [domain:化学]
+phenolsulphatase | n.酚硫酸酯酶 [domain:生物]
+phenoltetrachlorophthalein | n.四氯酚酞 [domain:药学]
+phenoltetraiodophthalein | n.四碘酚酞 [domain:药学]
+phenoluria | n.酚尿 [domain:医学]
+phenolysis | skip:unknown
+phenomenistic | skip:unknown
+phenometry | skip:unknown
+phenomorphan | skip:unknown
+phenomycin | skip:unknown
+phenon | skip:unknown
+phenonaphthazine | skip:unknown
+phenoperidine | n.苯哌利定 [domain:药学]
+phenophase | n.物候期 [domain:生物]
+phenophenanthrazine | skip:unknown
+phenopiazine | skip:unknown
+phenopyrazone | skip:unknown
+phenopyrine | skip:unknown
+phenoquinone | n.酚醌 [domain:化学]
+phenoresorcin | skip:unknown
+phenosafranin | n.酚藏花红 [domain:化学]
+phenosafranine | n.酚藏花红 [domain:化学]
+phenosal | skip:unknown
+phenosalyl | skip:unknown
+phenose | skip:unknown
+phenoselenazine | skip:unknown
+phenospectrum | skip:unknown
+phenospermy | skip:unknown
+phenostal | skip:unknown
+phenosuccinate | skip:unknown
+phenosulfazole | skip:unknown
+phenothalin | skip:unknown
+phenothiazinyl | n.吩噻嗪基 [domain:化学]
+phenothiazone | n.吩噻嗪酮 [domain:化学]
+phenothioxin | skip:unknown
+phenothrin | n.苯醚菊酯 [domain:农业]
+phenoval | skip:unknown
+phenoweld | skip:unknown
+phenoxanthein | skip:unknown
+phenoxarsine | skip:unknown
+phenoxaselenin | skip:unknown
+phenoxatellurin | skip:unknown
+phenoxazine | n.吩噁嗪 [domain:化学]
+phenoxetol | n.苯氧乙醇 [domain:药学]
+phenoxin | skip:unknown
+phenoxthine | skip:unknown
+phenoxycaffeine | skip:unknown
+phenoxyisopropylpenicillin | skip:unknown
+phenoxyl | n.苯氧基 [domain:化学]
+phenoxypropanediol | skip:unknown
+phenoxypropazine | skip:unknown
+phenozygous | skip:unknown
+phenpentermine | skip:unknown
+phenpiazine | skip:unknown
+phenprobamate | n.苯丙氨酯 [domain:药学]
+phenpromethamine | skip:unknown
+phenthiazine | n.吩噻嗪 [domain:化学]
+phenthiazone | skip:unknown
+phenthiol | skip:unknown
+phenthoate | n.稻丰散 [domain:农业]
+phentriazine | skip:unknown
+phentriazophos | skip:unknown
+phentydrone | skip:unknown
+phenurone | n.苯乙酰脲 [domain:药学]
+phenylacetaldehyde | n.苯乙醛 [domain:化学]
+phenylacetamide | n.苯乙酰胺 [domain:化学]
+phenylacetonitrile | n.苯乙腈 [domain:化学]
+phenylacetyl | n.苯乙酰基 [domain:化学]
+phenylacetylene | n.苯乙炔 [domain:化学]
+phenylacetylglutamine | n.苯乙酰谷氨酰胺 [domain:化学]
+phenylacetylglycine | n.苯乙酰甘氨酸 [domain:化学]
+phenylacetylurea | n.苯乙酰脲 [domain:化学]
+phenylacridine | n.苯基吖啶 [domain:化学]
+phenylacrolein | n.苯基丙烯醛 [domain:化学]
+phenylalaninase | n.苯丙氨酸酶 [domain:生物]
+phenylaldehyde | n.苯甲醛 [domain:化学]
+phenylaniline | skip:unknown
+phenylarsine | n.苯胂 [domain:化学]
+phenylate | v.苯基化 [domain:化学]
+phenylated | adj.苯基化的 [domain:化学]
+phenylation | n.苯基化 [domain:化学]
+phenylazide | n.叠氮苯 [domain:化学]
+phenylazobenzene | skip:unknown
+phenylbenzamide | n.苯基苯甲酰胺 [domain:化学]
+phenylbenzene | n.联苯 [domain:化学]
+phenylbenzhydryl | skip:unknown
+phenylbenzoate | n.苯甲酸苯酯 [domain:化学]
+phenylborine | skip:unknown
+phenylboronate | skip:unknown
+phenylbromide | n.溴苯 [domain:化学]
+phenylbutyrate | n.苯丁酸盐 [domain:化学]
+phenylcarbamido | skip:unknown
+phenylcarbamoyl | n.苯氨基甲酰基 [domain:化学]
+phenylcarbinol | n.苯甲醇 [domain:化学]
+phenylchinaldine | skip:unknown
+phenylchinoline | n.苯基喹啉 [domain:化学]
+phenylchloride | n.氯苯 [domain:化学]
+phenylcumalin | skip:unknown
+phenylcyanamide | n.苯基氰胺 [domain:化学]
+phenylcyanide | n.苯甲腈 [domain:化学]
+phenylcyclohexane | n.苯基环己烷 [domain:化学]
+phenylcyclohexanol | n.苯基环己醇 [domain:化学]
+phenyldibromoarsine | n.苯基二溴胂 [domain:化学]
+phenyldicarbinol | skip:unknown
+phenyldichlorarsine | n.苯二氯胂 [domain:化学]
+phenyldichloride | skip:unknown
+phenyldichloroarsine | n.苯二氯胂 [domain:化学]
+phenyldichlorophosphine | n.苯基二氯膦 [domain:化学]
+phenyldimethylpyrazolon | n.安替比林 [domain:药学]
+phenyldimethylpyrazolone | n.安替比林 [domain:药学]
+phenyldiphenylcarbinol | n.三苯甲醇 [domain:化学]
+phenylenebisazo | skip:unknown
+phenylenedimethylene | skip:unknown
+phenylenedimethylidyne | skip:unknown
+phenylethane | n.乙苯 [domain:化学]
+phenylethanol | n.苯乙醇 [domain:化学]
+phenylethanolamine | n.苯乙醇胺 [domain:化学]
+phenylethene | n.苯乙烯 [domain:化学]
+phenylethylacetourea | skip:unknown
+phenylethylhydantoin | skip:unknown
+phenylethylhydrazine | n.苯乙肼 [domain:药学]
+phenylethylmalonylurea | n.苯巴比妥 [domain:药学]
+phenylfluorone | n.苯基荧光酮 [domain:化学]
+phenylglucosazone | n.苯基葡糖脎 [domain:化学]
+phenylglycal | skip:unknown
+phenylglycine | n.苯基甘氨酸 [domain:化学]
+phenylglycocoll | n.苯基甘氨酸 [domain:化学]
+phenylglycol | n.苯基乙二醇 [domain:化学]
+phenylglyoxal | n.苯基乙二醛 [domain:化学]
+phenylhydrazone | n.苯腙 [domain:化学]
+phenylhydroxylamine | n.苯基羟胺 [domain:化学]
+phenylic | adj.苯基的 [domain:化学]
+phenylidene | skip:unknown
+phenylindanedione | n.苯茚二酮 [domain:药学]
+phenylisonitramine | skip:unknown
+phenyllactazam | skip:unknown
+phenyllactosazone | n.苯基乳糖脎 [domain:化学]
+phenylmalonate | n.苯基丙二酸盐 [domain:化学]
+phenylmercaptan | n.苯硫酚 [domain:化学]
+phenylmercuric | adj.苯汞的 [domain:化学]
+phenylmethane | n.甲苯 [domain:化学]
+phenylmethylacetone | skip:unknown
+phenylmethylether | n.苯甲醚 [domain:化学]
+phenylmethylquinoline | skip:unknown
+phenylnaphthalene | n.苯基萘 [domain:化学]
+phenylnaphthylamine | n.苯基萘胺 [domain:化学]
+phenylnitramine | n.苯基硝胺 [domain:化学]
+phenylnitromethane | n.苯基硝基甲烷 [domain:化学]
+phenylnitrone | skip:unknown
+phenylone | skip:unknown
+phenylosazone | n.苯脎 [domain:化学]
+phenyloxalate | skip:unknown
+phenyloxydisulfide | skip:unknown
+phenylpentane | n.苯基戊烷 [domain:化学]
+phenylphenol | n.苯基苯酚 [domain:化学]
+phenylphosphine | n.苯膦 [domain:化学]
+phenylpropane | n.苯基丙烷 [domain:化学]
+phenylpropanol | n.苯丙醇 [domain:化学]
+phenylpropiophenone | skip:unknown
+phenylpropyl | n.苯丙基 [domain:化学]
+phenylpropylmethylamine | skip:unknown
+phenylpyrazolone | n.苯基吡唑酮 [domain:化学]
+phenylpyridine | n.苯基吡啶 [domain:化学]
+phenylpyruvicaciduria | n.苯丙酮酸尿 [domain:医学]
+phenylquinaldine | skip:unknown
+phenylquinoline | n.苯基喹啉 [domain:化学]
+phenylsulfamoyl | skip:unknown
+phenylsulfamyl | skip:unknown
+phenylsulfate | skip:unknown
+phenylsulfinyl | n.苯亚磺酰基 [domain:化学]
+phenylsulfonyl | n.苯磺酰基 [domain:化学]
+phenylthioalcohol | skip:unknown
+phenylthiocarbonimide | n.异硫氰酸苯酯 [domain:化学]
+phenylthioisocyanate | n.异硫氰酸苯酯 [domain:化学]
+phenylthiosemicarbazide | n.苯基氨基硫脲 [domain:化学]
+phenyltin | n.苯基锡 [domain:化学]
+phenyltoloxamine | n.苯托沙敏 [domain:药学]
+phenyltoluene | n.苯基甲苯 [domain:化学]
+phenyltolyl | skip:unknown
+phenylurea | n.苯脲 [domain:化学]
+phenylurethan | n.苯氨基甲酸乙酯 [domain:化学]
+phenylurethane | n.苯氨基甲酸乙酯 [domain:化学]
+phenyramidol | skip:unknown
+phenythilone | skip:unknown
+phenzoline | skip:unknown
+pheochrome | adj.嗜铬的 [domain:生物]
+pheochromoblast | n.成嗜铬细胞 [domain:生物]
+pheochromoblastoma | n.成嗜铬细胞瘤 [domain:医学]
+pheohemin | skip:unknown
+pheophorbide | n.脱镁叶绿酸 [domain:化学]
+pheophorbin | skip:unknown
+pheophytin | n.脱镁叶绿素 [domain:化学]
+pheoplast | skip:unknown
+pheoretin | skip:unknown
+pheoylquinoline | skip:unknown
+pherentasin | skip:unknown
+phetharbital | skip:unknown
+phethenylate | skip:unknown
+phialides | skip:not-lemma
+phialiform | adj.瓶状的 [domain:植物]
+phialis | skip:unknown
+philanthropistic | adj.慈善的, 博爱的
+philanthropize | v.行善, 做慈善
+philanthropoid | skip:unknown
+philipstadite | skip:unknown
+phillipsite | n.钙十字沸石 [domain:地质]
+phillygenin | skip:unknown
+phillygenol | skip:unknown
+phillyria | skip:unknown
+phillyrin | skip:unknown
+philobiblic | adj.爱书的
+philologize | v.研究语文学
+philopatridomania | skip:unknown
+philosophiser | n.哲学思考者
+philosophistical | skip:unknown
+philothion | skip:unknown
+philtromania | skip:unknown
+phimosiectomy | n.包皮环切术 [domain:医学]
+phimotic | adj.包茎的 [domain:医学]
+phlebalgia | n.静脉痛 [domain:医学]
+phlebanesthesia | skip:unknown
+phlebangioma | n.静脉血管瘤 [domain:医学]
+phlebarteriectasia | skip:unknown
+phlebarteriodialysis | skip:unknown
+phlebasthenia | skip:unknown
+phlebeciasia | skip:unknown
+phlebectasia | n.静脉扩张 [domain:医学]
+phlebectasis | n.静脉扩张 [domain:医学]
+phlebectopia | n.静脉异位 [domain:医学]
+phlebectopy | n.静脉异位 [domain:医学]
+phlebektopia | n.静脉异位 [domain:医学]
+phlebemphraxis | n.静脉栓塞 [domain:医学]
+phlebenteric | adj.肠静脉的 [domain:医学]
+phlebepatitis | skip:unknown
+phlebeurysma | skip:unknown
+phlebexairesis | n.静脉摘除术 [domain:医学]
+phlebin | skip:unknown
+phlebismus | skip:unknown
+phlebite | skip:unknown
+phlebocarcinoma | skip:unknown
+phlebocholosis | skip:unknown
+phleboclysis | n.静脉输液 [domain:医学]
+phleboedesis | skip:unknown
+phlebogenous | adj.静脉源的 [domain:医学]
+phlebogram | n.静脉造影图 [domain:医学]
+phlebograph | n.静脉描记器 [domain:医学]
+phleboid | adj.静脉状的 [domain:医学]
+phlebolite | n.静脉石 [domain:医学]
+phlebolithiasis | n.静脉石病 [domain:医学]
+phlebomanometer | n.静脉压计 [domain:医学]
+phlebometritis | n.子宫静脉炎 [domain:医学]
+phlebomyomatosis | skip:unknown
+phlebonarcosis | skip:unknown
+phlebopexy | n.静脉固定术 [domain:医学]
+phlebophlebostomy | skip:unknown
+phlebophlogosis | skip:unknown
+phlebophthalmotomy | skip:unknown
+phlebopiezometry | skip:unknown
+phleboplasty | n.静脉成形术 [domain:医学]
+phleboplerosis | skip:unknown
+phleborrhagia | n.静脉出血 [domain:医学]
+phleborrhaphy | n.静脉缝合术 [domain:医学]
+phleborrhexis | n.静脉破裂 [domain:医学]
+phlebosclerosis | n.静脉硬化 [domain:医学]
+phlebosis | skip:unknown
+phlebostasia | n.静脉淤滞 [domain:医学]
+phlebostasis | n.静脉淤滞 [domain:医学]
+phlebostatic | skip:unknown
+phlebostenosis | n.静脉狭窄 [domain:医学]
+phlebostrepsis | skip:unknown
+phlebotaxis | skip:unknown
+phlebothrombosis | n.静脉血栓形成 [domain:医学]
+phlebotropism | skip:unknown
+phlegma | skip:unknown
+phlegmasia | n.炎症 [domain:医学]
+phlegmatized | skip:unknown
+phlegmona | n.蜂窝织炎 [domain:医学]
+phlegmonosis | skip:unknown
+phleomycin | n.腐草霉素 [domain:药学]
+phlobaphene | n.鞣红 [domain:化学]
+phlobatannin | skip:unknown
+phlogistication | skip:unknown
+phlogistonist | n.燃素论者 [domain:化学]
+phlogocyte | skip:unknown
+phlogocytosis | skip:unknown
+phlogogen | skip:unknown
+phlogogenic | skip:unknown
+phlogogenous | skip:unknown
+phlogosin | skip:unknown
+phlogosine | skip:unknown
+phlogosis | n.炎症 [domain:医学]
+phlogotherapy | skip:unknown
+phlogotic | adj.炎症的 [domain:医学]
+phlomis | skip:not-english
+phloretin | n.根皮素 [domain:化学]
+phlorhizin | n.根皮苷 [domain:化学]
+phlorhizinize | skip:unknown
+phloridzin | n.根皮苷 [domain:化学]
+phloridzinize | skip:unknown
+phlorite | skip:unknown
+phlorizein | skip:unknown
+phloroacetophenone | skip:unknown
+phlorobenzophenone | skip:unknown
+phloroglucin | n.间苯三酚 [domain:化学]
+phloroglucine | n.间苯三酚 [domain:化学]
+phloroglucite | skip:unknown
+phloroglucitol | skip:unknown
+phloroglucol | n.间苯三酚 [domain:化学]
+phlorol | skip:unknown
+phlorone | skip:unknown
+phlorose | skip:unknown
+phlorrhizin | n.根皮苷 [domain:化学]
+phloryl | skip:unknown
+phloxin | n.荧光桃红 [domain:化学]
+phlycten | n.小疱 [domain:医学]
+phlyctenoid | adj.疱状的 [domain:医学]
+phlyctenosis | skip:unknown
+phlyctenotherapy | skip:unknown
+phlyctenous | adj.疱性的 [domain:医学]
+phlyctenula | n.小疱 [domain:医学]
+phlyctenule | n.小疱 [domain:医学]
+phlyctenulosis | n.小疱病 [domain:医学]
+phobism | skip:unknown
+phobodipsia | n.恐水症 [domain:医学]
+phobotaxis | skip:unknown
+phocenin | skip:unknown
+phocomelus | n.海豹肢畸形者 [domain:医学]
+phocomely | n.海豹肢畸形 [domain:医学]
+phocomicroscopy | skip:unknown
+phoenicaceous | skip:unknown
+phoenicin | skip:unknown
+phoenicine | skip:unknown
+phoenicite | skip:unknown
+phoenicochroite | n.红铬铅矿 [domain:地质]
+phoenicophorium | skip:unknown
+phoenicopterus | skip:not-english
+phoenixism | skip:unknown
+phokomelia | n.海豹肢畸形 [domain:医学]
+pholad | n.海笋 [domain:动物]
+pholas | n.海笋 [domain:动物]
+pholedrine | skip:unknown
+pholerite | skip:unknown
+pholidolite | skip:unknown
+pholidosis | skip:unknown
+phomalactone | skip:unknown
+phomamycosis | skip:unknown
+phomazarine | skip:unknown
+phonacoscope | skip:unknown
+phonacoscopy | skip:unknown
+phonaesthematic | skip:unknown
+phonaesthemic | skip:unknown
+phonal | adj.声音的, 语音的
+phonasthenia | n.发声无力 [domain:医学]
+phonematics | skip:unknown
+phonematization | skip:unknown
+phonemeter | skip:unknown
+phonemicise | v.音位化 [domain:语言]
+phonendoscopy | skip:unknown
+phonendoskiascope | skip:unknown
+phonene | skip:unknown
+phonepatch | skip:unknown
+phonesthematic | skip:unknown
+phonesthemic | skip:unknown
+phoneticise | v.用音标表示 [domain:语言]
+phonevision | skip:unknown
+phoniatria | skip:unknown
+phoniatrician | n.嗓音科医师 [domain:医学]
+phonism | skip:unknown
+phonite | skip:unknown
+phonoangiography | skip:unknown
+phonocamptical | skip:unknown
+phonocardiographic | adj.心音图的 [domain:医学]
+phonocatheter | skip:unknown
+phonocentricity | skip:unknown
+phonochemical | adj.声化学的 [domain:化学]
+phonochemistry | n.声化学 [domain:化学]
+phonochorda | skip:unknown
+phonodeik | skip:unknown
+phonoelectrocardioscope | skip:unknown
+phonolith | skip:unknown
+phonologization | skip:unknown
+phonolysis | skip:unknown
+phonomassage | skip:unknown
+phonometric | skip:unknown
+phonometry | skip:unknown
+phonomorphology | skip:unknown
+phonomotor | skip:unknown
+phonomyoclonus | skip:unknown
+phonomyogram | skip:unknown
+phonomyograph | skip:unknown
+phonomyography | skip:unknown
+phonopathy | n.发声障碍 [domain:医学]
+phonophone | skip:unknown
+phonophonesis | skip:unknown
+phonophore | skip:unknown
+phonophote | skip:unknown
+phonophotogram | skip:unknown
+phonophotography | skip:unknown
+phonopneumomassage | skip:unknown
+phonopore | skip:unknown
+phonoprojectoscope | skip:unknown
+phonopsia | skip:unknown
+phonoreception | n.声音感受 [domain:生物]
+phonoscope | skip:unknown
+phonoscopy | skip:unknown
+phonoselectoscope | skip:unknown
+phonosensitive | skip:unknown
+phonostethograph | skip:unknown
+phonostylistics | n.语音文体学 [domain:语言]
+phonosynthesis | skip:unknown
+phonotaxis | n.趋声性 [domain:生物]
+phonotelemetry | skip:unknown
+phonotropism | skip:unknown
+phonotypic | skip:unknown
+phonotypical | skip:unknown
+phonotypist | skip:unknown
+phonotypy | skip:unknown
+phonovision | skip:unknown
+phoranth | skip:unknown
+phorbide | skip:unknown
+phorbin | skip:unknown
+phoresis | n.携播 [domain:生物]
+phoriascope | skip:unknown
+phoroblast | skip:unknown
+phorocyte | skip:unknown
+phorocytosis | skip:unknown
+phorogenesis | skip:unknown
+phorologist | skip:unknown
+phorology | skip:unknown
+phorometer | n.隐斜计 [domain:医学]
+phorometry | n.隐斜测量 [domain:医学]
+phorone | n.佛尔酮 [domain:化学]
+phoronis | skip:not-english
+phoronomics | skip:unknown
+phoronomy | n.运动学 [domain:物理]
+phoroplast | skip:unknown
+phoroptor | n.综合验光仪 [domain:医学]
+phoroscope | skip:unknown
+phorotone | skip:unknown
+phorozooid | skip:unknown
+phorozoon | skip:unknown
+phosalone | n.伏杀磷 [domain:农业]
+phosazetim | skip:unknown
+phoscorite | skip:unknown
+phosdrin | n.速灭磷 [domain:农业]
+phosfolan | n.硫环磷 [domain:农业]
+phosgenation | n.光气化 [domain:化学]
+phosgenic | skip:unknown
+phosgenismus | skip:unknown
+phosote | skip:unknown
+phosphaljel | skip:unknown
+phospham | skip:unknown
+phosphamidase | skip:unknown
+phosphamide | skip:unknown
+phosphaminase | skip:unknown
+phosphane | n.膦 [domain:化学]
+phosphatemia | n.磷酸盐血 [domain:医学]
+phosphatidalcholine | skip:unknown
+phosphatidalserine | skip:unknown
+phosphatidase | n.磷脂酶 [domain:生物]
+phosphatidate | n.磷脂酸盐 [domain:生物]
+phosphatidosis | skip:unknown
+phosphatization | n.磷酸盐化 [domain:地质]
+phosphatometer | skip:unknown
+phosphatoptosis | skip:unknown
+phosphazide | skip:unknown
+phosphazine | skip:unknown
+phosphenyl | skip:unknown
+phosphere | skip:unknown
+phosphinate | n.次膦酸盐 [domain:化学]
+phosphinidene | skip:unknown
+phosphinidyne | skip:unknown
+phosphinimine | skip:unknown
+phosphinimyl | skip:unknown
+phosphinimylidene | skip:unknown
+phosphinimylidyne | skip:unknown
+phosphinium | skip:unknown
+phosphinoborine | skip:unknown
+phosphinodifluorophosphine | skip:unknown
+phosphinoso | skip:unknown
+phosphinothioyl | skip:unknown
+phosphinothioylidene | skip:unknown
+phosphinothioylidyne | skip:unknown
+phosphinyl | skip:unknown
+phosphinylidene | skip:unknown
+phosphinylidyne | skip:unknown
+phosphoamidase | n.磷酰胺酶 [domain:生物]
+phosphoamide | n.磷酰胺 [domain:化学]
+phosphoaminolipid | skip:unknown
+phosphoarginine | n.磷酸精氨酸 [domain:生物]
+phosphobacteria | n.磷细菌 [domain:生物]
+phosphobenzene | skip:unknown
+phosphocalcite | skip:unknown
+phosphocerite | skip:unknown
+phosphocreatinase | n.磷酸肌酸酶 [domain:生物]
+phosphocreosotic | skip:unknown
+phosphodihydroxyacetone | skip:unknown
+phosphoesterase | n.磷酸酯酶 [domain:生物]
+phosphoferrite | skip:unknown
+phosphofructose | skip:unknown
+phosphoglobulin | skip:unknown
+phosphoglucoisomerase | n.磷酸葡萄糖异构酶 [domain:生物]
+phosphogluconolactone | n.磷酸葡萄糖酸内酯 [domain:生物]
+phosphoglucoprotein | skip:unknown
+phosphoglyceraldehyde | n.磷酸甘油醛 [domain:生物]
+phosphoglycerol | n.磷酸甘油 [domain:化学]
+phosphoglyceromutase | n.磷酸甘油酸变位酶 [domain:生物]
+phosphoglycoprotein | skip:unknown
+phosphoguaiacol | skip:unknown
+phosphoguanidine | skip:unknown
+phosphohexoisomerase | n.磷酸己糖异构酶 [domain:生物]
+phosphohexokinase | n.磷酸己糖激酶 [domain:生物]
+phosphohexonate | skip:unknown
+phosphohexose | n.磷酸己糖 [domain:生物]
+phosphohomoserine | n.磷酸高丝氨酸 [domain:生物]
+phosphohydrolase | n.磷酸水解酶 [domain:生物]
+phosphoketopentoepimerase | skip:unknown
+phospholine | skip:unknown
+phospholipidemia | skip:unknown
+phospholipin | n.磷脂 [domain:生物]
+phospholipoprotein | n.磷脂蛋白 [domain:生物]
+phosphology | skip:unknown
+phosphomannose | n.磷酸甘露糖 [domain:生物]
+phosphomonoesterase | n.磷酸单酯酶 [domain:生物]
+phosphomutase | n.磷酸变位酶 [domain:生物]
+phosphonation | skip:unknown
+phosphonecrosis | n.磷毒性坏死 [domain:医学]
+phosphonia | skip:unknown
+phosphonio | skip:unknown
+phosphonitrogen | skip:unknown
+phosphonitryl | skip:unknown
+phosphonoacetone | skip:unknown
+phosphonomycin | n.磷霉素 [domain:药学]
+phosphonoso | skip:unknown
+phosphonuclease | skip:unknown
+phosphopenia | n.磷缺乏 [domain:医学]
+phosphopentose | n.磷酸戊糖 [domain:生物]
+phosphopeptide | n.磷酸肽 [domain:生物]
+phosphophyllite | n.磷叶石 [domain:地质]
+phosphopyridoxal | n.磷酸吡哆醛 [domain:生物]
+phosphopyruvate | n.磷酸丙酮酸 [domain:生物]
+phosphoramidate | n.磷酰胺酯 [domain:化学]
+phosphoramide | n.磷酰胺 [domain:化学]
+phosphorane | n.磷烷 [domain:化学]
+phosphoranediyl | skip:unknown
+phosphoranepentayl | skip:unknown
+phosphoranetetrayl | skip:unknown
+phosphoranetriyl | skip:unknown
+phosphoranyl | skip:unknown
+phosphorate | skip:unknown
+phosphoremia | skip:unknown
+phosphorenesis | skip:unknown
+phosphorescope | skip:unknown
+phosphoreted | adj.磷化的 [domain:化学]
+phosphorhidrosis | skip:unknown
+phosphoribomutase | skip:unknown
+phosphoriboside | skip:unknown
+phosphoribosylamine | n.磷酸核糖胺 [domain:生物]
+phosphoribosylpyrophosphate | n.磷酸核糖焦磷酸 [domain:生物]
+phosphoribulokinase | n.磷酸核酮糖激酶 [domain:生物]
+phosphoridrosis | skip:unknown
+phosphorimeter | n.磷光计 [domain:物理]
+phosphorimetry | n.磷光测定法 [domain:化学]
+phosphorise | v.磷化 [domain:化学]
+phosphoriser | skip:unknown
+phosphorism | n.磷中毒 [domain:医学]
+phosphoritic | adj.磷块岩的 [domain:地质]
+phosphorization | n.磷化 [domain:化学]
+phosphorizer | skip:unknown
+phosphorobenzene | skip:unknown
+phosphorodithioate | n.二硫代磷酸酯 [domain:化学]
+phosphorogen | skip:unknown
+phosphorograph | skip:unknown
+phosphorography | skip:unknown
+phosphorolytic | adj.磷酸解的 [domain:生物]
+phosphorometer | skip:unknown
+phosphorophotography | skip:unknown
+phosphoroscope | n.磷光镜 [domain:物理]
+phosphorroesslerite | skip:unknown
+phosphoruria | n.磷尿 [domain:医学]
+phosphorylative | adj.磷酸化的 [domain:生物]
+phosphorylcholine | n.磷酰胆碱 [domain:生物]
+phosphorylethanolamine | n.磷酰乙醇胺 [domain:生物]
+phosphorylysis | skip:unknown
+phosphoserin | n.磷酸丝氨酸 [domain:生物]
+phosphosilicate | n.磷硅酸盐 [domain:化学]
+phosphotal | skip:unknown
+phosphotaurocyamine | skip:unknown
+phosphotransacetylase | n.磷酸转乙酰酶 [domain:生物]
+phosphotriose | n.磷酸丙糖 [domain:生物]
+phosphotungstate | n.磷钨酸盐 [domain:化学]
+phosphovitin | n.卵黄高磷蛋白 [domain:生物]
+phosphowolframate | n.磷钨酸盐 [domain:化学]
+phosphurane | skip:unknown
+phosphuranylite | n.磷铀矿 [domain:地质]
+phosphuret | n.磷化物 [domain:化学]
+phosphureted | adj.磷化的 [domain:化学]
+phosphuretted | adj.磷化的 [domain:化学]
+phosphuria | n.磷尿 [domain:医学]
+phosvel | skip:unknown
+phoswich | skip:unknown
+photaesthesia | skip:unknown
+photagogue | skip:unknown
+photalgia | n.光痛 [domain:医学]
+photallochromy | skip:unknown
+photechy | skip:unknown
+photelometer | skip:unknown
+photerythrous | skip:unknown
+photesthesis | skip:unknown
+photicity | skip:unknown
+photicon | skip:unknown
+photion | skip:unknown
+photism | skip:unknown
+photismus | skip:unknown
+photistor | skip:unknown
+photoabsorption | n.光吸收 [domain:物理]
+photoactinic | skip:unknown
+photoaddition | n.光加成 [domain:化学]
+photoadsorption | skip:unknown
+photoagglutinin | skip:unknown
+photoalidade | skip:unknown
+photoammeter | skip:unknown
+photoamplifier | n.光放大器 [domain:电子]
+photoanalysis | skip:unknown
+photoanode | n.光阳极 [domain:电子]
+photoassimilate | n.光合产物 [domain:植物]
+photoassociation | skip:unknown
+photoautotrophy | n.光能自养 [domain:生物]
+photoautoxidation | n.光自动氧化 [domain:化学]
+photobacteria | skip:not-lemma
+photobacteriomycin | skip:unknown
+photobathic | skip:unknown
+photobehavior | skip:unknown
+photobinocular | skip:unknown
+photobiologic | adj.光生物学的 [domain:生物]
+photobiotic | adj.需光生活的 [domain:生物]
+photobotany | skip:unknown
+photocalque | skip:unknown
+photocapacitance | skip:unknown
+photocarrier | n.光生载流子 [domain:电子]
+photocartograph | skip:unknown
+photocartography | n.摄影制图学 [domain:地理]
+photocatalysed | adj.光催化的 [domain:化学]
+photocatalyzer | n.光催化剂 [domain:化学]
+photocauterization | skip:unknown
+photocautery | skip:unknown
+photocenter | skip:unknown
+photocentre | skip:unknown
+photoceramic | skip:unknown
+photoceramics | skip:unknown
+photochemic | adj.光化学的 [domain:化学]
+photochemigraphy | skip:unknown
+photochemiluminescence | n.光化学发光 [domain:化学]
+photochopper | n.光斩波器 [domain:物理]
+photochromatic | skip:unknown
+photochrome | skip:unknown
+photochromoscope | skip:unknown
+photochromotherapy | skip:unknown
+photochromy | skip:unknown
+photochronograph | skip:unknown
+photochronography | skip:unknown
+photochronology | skip:unknown
+photocinesis | skip:unknown
+photocinetic | skip:unknown
+photocleistogamy | skip:unknown
+photocoagulated | adj.光凝固的 [domain:医学]
+photocoagulating | adj.光凝固的 [domain:医学]
+photocoagulator | n.光凝固器 [domain:医学]
+photocolorimeter | n.光电比色计 [domain:化学]
+photocolorimetry | n.光电比色法 [domain:化学]
+photocolour | skip:unknown
+photocombustion | skip:unknown
+photocommunication | skip:unknown
+photoconductance | n.光电导 [domain:物理]
+photoconductography | skip:unknown
+photoconverter | n.光转换器 [domain:电子]
+photocorrector | skip:unknown
+photocreep | skip:unknown
+photocrosslinking | n.光交联 [domain:化学]
+photocube | skip:unknown
+photocycle | skip:unknown
+photocystoscope | skip:unknown
+photodarlington | skip:unknown
+photodechlorination | n.光脱氯 [domain:化学]
+photodegradative | skip:unknown
+photodensitometer | n.光密度计 [domain:摄影]
+photodensitometry | n.光密度测定法 [domain:摄影]
+photodensity | n.光密度 [domain:物理]
+photodepolarization | skip:unknown
+photodeposition | n.光沉积 [domain:化学]
+photodermatism | skip:unknown
+photodermatosis | n.光性皮肤病 [domain:医学]
+photodermia | skip:unknown
+photodestruction | skip:unknown
+photodetachment | n.光致脱离 [domain:物理]
+photodeuteron | skip:unknown
+photodevelopment | skip:unknown
+photodevice | skip:unknown
+photodichroic | adj.光二色性的 [domain:物理]
+photodichroism | n.光二色性 [domain:物理]
+photodiffusion | skip:unknown
+photodimer | n.光二聚体 [domain:化学]
+photodimerization | n.光二聚作用 [domain:化学]
+photodinesis | skip:unknown
+photodisintegrate | skip:unknown
+photodissociable | skip:unknown
+photodosimeter | skip:unknown
+photodosimetry | skip:unknown
+photodraft | skip:unknown
+photodramatic | skip:unknown
+photodrawing | skip:unknown
+photodromy | skip:unknown
+photoduodiode | skip:unknown
+photodynamically | adv.光动力地 [domain:生物]
+photodynesis | skip:unknown
+photodynia | skip:unknown
+photodysphoria | skip:unknown
+photoecology | n.光生态学 [domain:生物]
+photoeffect | n.光电效应 [domain:物理]
+photoelasticimeter | skip:unknown
+photoelasticimetry | skip:unknown
+photoelastometry | skip:unknown
+photoelectret | n.光驻极体 [domain:物理]
+photoelectrocatalysis | skip:unknown
+photoelectrochemistry | n.光电化学 [domain:化学]
+photoelectroluminescence | skip:unknown
+photoelectrolysis | n.光电解 [domain:化学]
+photoelectromagnetic | adj.光电磁的 [domain:物理]
+photoelectromagnetism | skip:unknown
+photoelectrometer | skip:unknown
+photoelectromotive | skip:unknown
+photoelectronystagmogram | skip:unknown
+photoelectrophoresis | skip:unknown
+photoelement | n.光电元件 [domain:电子]
+photoelimination | skip:unknown
+photoemissivity | n.光发射率 [domain:物理]
+photoemitter | n.光发射体 [domain:物理]
+photoemulsion | n.感光乳剂 [domain:摄影]
+photoenergetics | skip:unknown
+photoenvironment | skip:unknown
+photoerythema | skip:unknown
+photoesthetic | skip:unknown
+photoexpansion | skip:unknown
+photoexposure | skip:unknown
+photoextinction | skip:unknown
+photofabrication | skip:unknown
+photofixation | skip:unknown
+photoflavins | skip:unknown
+photofluorimeter | n.荧光计 [domain:物理]
+photofluorogram | n.荧光影像 [domain:医学]
+photofluorometer | n.荧光计 [domain:物理]
+photofluoroscope | skip:unknown
+photofluoroscopy | n.荧光屏照相术 [domain:医学]
+photoformer | skip:unknown
+photofragmentation | n.光致碎裂 [domain:化学]
+photogalvanography | skip:unknown
+photogalvanometer | skip:unknown
+photogastroscope | n.照相胃镜 [domain:医学]
+photogel | skip:unknown
+photogelatin | skip:unknown
+photogen | skip:unknown
+photogene | skip:unknown
+photogenerator | skip:unknown
+photogenesis | n.发光 [domain:生物]
+photogenous | adj.发光的 [domain:生物]
+photogeny | skip:unknown
+photogeological | adj.摄影地质的 [domain:地质]
+photogeomorphology | skip:unknown
+photoglyph | skip:unknown
+photoglyphic | skip:unknown
+photoglyphy | skip:unknown
+photoglyptic | skip:unknown
+photogoniometer | skip:unknown
+photograve | skip:unknown
+photogrid | skip:unknown
+photogun | skip:unknown
+photogyration | skip:unknown
+photohalide | skip:unknown
+photohalogenation | n.光卤化 [domain:化学]
+photoheliogram | n.日照相 [domain:天文]
+photohematachometer | skip:unknown
+photohemolysis | n.光溶血 [domain:医学]
+photoheterotrophy | n.光能异养 [domain:生物]
+photohole | skip:unknown
+photohomolysis | n.光均裂 [domain:化学]
+photohyalography | skip:unknown
+photoimpact | skip:unknown
+photoinactivation | n.光致失活 [domain:生物]
+photoinduction | n.光诱导 [domain:生物]
+photoinjection | skip:unknown
+photoinstrumentation | skip:unknown
+photointaglio | n.影像凹版 [domain:印刷]
+photointelligence | skip:unknown
+photointerrupter | skip:unknown
+photoion | n.光离子 [domain:物理]
+photoisolator | skip:unknown
+photoisomer | n.光致异构体 [domain:化学]
+photoisomerism | n.光致异构 [domain:化学]
+photoisomerize | v.光致异构化 [domain:化学]
+photokinetic | skip:unknown
+photoklystron | skip:unknown
+photokymograph | skip:unknown
+photolabile | adj.光不稳定的 [domain:化学]
+photolability | n.光不稳定性 [domain:化学]
+photolayer | skip:unknown
+photolethal | adj.光致死的 [domain:生物]
+photoletter | skip:unknown
+photoline | skip:unknown
+photolith | skip:unknown
+photolitho | n.照相平版 [domain:印刷]
+photolithoprint | skip:unknown
+photological | skip:unknown
+photologist | skip:unknown
+photology | n.光学 [domain:物理]
+photolometer | skip:unknown
+photolyase | n.光解酶 [domain:生物]
+photolyte | skip:unknown
+photolytically | adv.光解地 [domain:化学]
+photolyzable | adj.可光解的 [domain:化学]
+photomagnetic | skip:unknown
+photomagnetism | skip:unknown
+photomagnetoelectric | skip:unknown
+photomania | skip:unknown
+photomapper | skip:unknown
+photomaton | skip:unknown
+photomemory | skip:unknown
+photomeson | n.光介子 [domain:物理]
+photomesonic | adj.光介子的 [domain:物理]
+photometeor | skip:unknown
+photometering | skip:unknown
+photomethemoglobin | skip:unknown
+photometrograph | skip:unknown
+photometrology | skip:unknown
+photomicrogram | n.显微照片 [domain:摄影]
+photomicrometer | skip:unknown
+photomicrometrology | skip:unknown
+photomicroscope | n.显微照相机 [domain:摄影]
+photomicroscopy | n.显微摄影术 [domain:摄影]
+photomilling | skip:unknown
+photomixer | n.光混频器 [domain:电子]
+photomixing | skip:unknown
+photomodulator | n.光调制器 [domain:电子]
+photomorphism | skip:unknown
+photomorphogenesis | n.光形态建成 [domain:植物]
+photomorphosis | skip:unknown
+photomotion | skip:unknown
+photomotograph | skip:unknown
+photomotor | skip:unknown
+photomovement | n.趋光运动 [domain:生物]
+photomultisensor | skip:unknown
+photomuon | skip:unknown
+photomutant | skip:unknown
+photonasty | n.感光性 [domain:植物]
+photonegative | adj.负趋光的 [domain:生物]
+photonephelometer | skip:unknown
+photoneutrino | skip:unknown
+photonitrosation | skip:unknown
+photonoise | n.光子噪声 [domain:物理]
+photonosus | skip:unknown
+photonucleation | skip:unknown
+photoonycholysis | skip:unknown
+photoorganotrophy | n.光能有机营养 [domain:生物]
+photooscillogram | skip:unknown
+photooxidant | n.光氧化剂 [domain:化学]
+photooxidative | adj.光氧化的 [domain:化学]
+photooxygenation | n.光氧化 [domain:化学]
+photoparesthesia | skip:unknown
+photopathologic | skip:unknown
+photopathy | skip:unknown
+photopeak | n.光电峰 [domain:物理]
+photoperception | n.光感受 [domain:生物]
+photoperceptive | adj.光感受的 [domain:生物]
+photoperceptivity | n.光感受性 [domain:生物]
+photoperceptor | n.光感受器 [domain:生物]
+photoperiodically | adv.光周期地 [domain:生物]
+photoperspectograph | skip:unknown
+photopharmacology | n.光药理学 [domain:药学]
+photophase | n.光照期 [domain:生物]
+photopheresis | n.光分离置换法 [domain:医学]
+photophil | n.喜光生物 [domain:生物]
+photophilous | adj.喜光的 [domain:生物]
+photophobe | skip:unknown
+photophobous | adj.避光的 [domain:生物]
+photophonic | adj.光声的 [domain:物理]
+photophony | skip:unknown
+photophor | skip:unknown
+photophora | skip:unknown
+photophoresis | n.光泳 [domain:物理]
+photophosphorescence | skip:unknown
+photophosphorylase | skip:unknown
+photophthalmia | n.光眼炎 [domain:医学]
+photophygous | adj.避光的 [domain:生物]
+photopile | skip:unknown
+photopion | skip:unknown
+photoplane | skip:unknown
+photoplast | skip:unknown
+photoplastic | skip:unknown
+photoplasticity | skip:unknown
+photoplate | n.感光板 [domain:摄影]
+photoplethysmograph | n.光电容积描记器 [domain:医学]
+photoplethysmographic | adj.光电容积描记的 [domain:医学]
+photopography | skip:unknown
+photopoint | skip:unknown
+photopolarimeter | n.光偏振计 [domain:物理]
+photopolarimetry | n.光偏振测量 [domain:物理]
+photopolarography | skip:unknown
+photopolymerisable | adj.可光聚合的 [domain:化学]
+photopolymerizer | n.光聚合剂 [domain:化学]
+photopositive | adj.正趋光的 [domain:生物]
+photopotential | skip:unknown
+photopredissociation | skip:unknown
+photoprinter | skip:unknown
+photoprocess | n.照相制版法 [domain:印刷]
+photoprocessing | n.照片冲印 [domain:摄影]
+photoproduce | skip:unknown
+photoprotect | skip:unknown
+photoprotein | n.发光蛋白 [domain:生物]
+photoproton | skip:unknown
+photopsin | n.明视蛋白 [domain:生物]
+photopsy | n.光幻视 [domain:医学]
+photoptarmosis | n.光致喷嚏 [domain:医学]
+photoptometer | skip:unknown
+photoptometry | skip:unknown
+photopyrometer | skip:unknown
+photoradiochromatogram | skip:unknown
+photoradiochromatography | skip:unknown
+photoradiogram | skip:unknown
+photoradiography | skip:unknown
+photoradiometer | skip:unknown
+photoreactivating | adj.光复活的 [domain:生物]
+photoreader | skip:unknown
+photoreading | skip:unknown
+photorearrangement | n.光重排 [domain:化学]
+photorecce | skip:unknown
+photoreceiver | n.光接收器 [domain:电子]
+photorecombination | n.光复合 [domain:物理]
+photorecon | n.照相侦察 [domain:军事]
+photoreconversion | skip:unknown

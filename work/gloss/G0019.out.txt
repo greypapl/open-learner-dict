@@ -1,0 +1,1000 @@
+hematoid | adj.血样的 [domain:医学]
+hematoidin | skip:unknown
+hematolysis | n.溶血 [domain:医学]
+hematolytic | adj.溶血的 [domain:医学]
+hematomancy | n.血占卜
+hematometra | n.子宫积血 [domain:医学]
+hematomyelia | n.脊髓出血 [domain:医学]
+hematopathology | n.血液病理学 [domain:医学]
+hematopericardium | n.心包积血 [domain:医学]
+hematophage | n.吸血动物 [domain:动物]
+hematophagy | n.吸血习性 [domain:动物]
+hematophobia | n.恐血症 [domain:心理]
+hematopoietin | n.造血素 [domain:生物]
+hematoporphyria | n.血卟啉症 [domain:医学]
+hematoporphyrin | n.血卟啉 [domain:医学]
+hematopsia | skip:unknown
+hematosalpinx | n.输卵管积血 [domain:医学]
+hematosis | skip:unknown
+hematospermia | n.血精症 [domain:医学]
+hematothorax | n.血胸 [domain:医学]
+hematoxylic | adj.含苏木精的 [domain:化学]
+hematozoon | n.血虫 [domain:动物]
+hemerocallin | skip:unknown
+hemerophyte | skip:unknown
+hemiablepsia | n.偏盲 [domain:医学]
+hemiageusia | n.偏侧味觉缺失 [domain:医学]
+hemiamaurosis | n.偏侧黑矇 [domain:医学]
+hemiamblyopia | n.偏侧弱视 [domain:医学]
+hemianacusia | n.偏侧听觉缺失 [domain:医学]
+hemianalgesia | n.偏侧痛觉缺失 [domain:医学]
+hemianencephaly | n.半无脑畸形 [domain:医学]
+hemianesthesia | n.偏身麻木 [domain:医学]
+hemianosmia | n.偏侧嗅觉缺失 [domain:医学]
+hemiarthrosis | skip:unknown
+hemiascus | skip:not-english
+hemiataxia | n.偏侧共济失调 [domain:医学]
+hemiatrophy | n.偏侧萎缩 [domain:医学]
+hemiblastula | skip:unknown
+hemiblock | n.分支阻滞 [domain:医学]
+hemibranch | n.半鳃 [domain:动物]
+hemibranchiate | adj.半鳃的 [domain:动物]
+hemicardia | skip:unknown
+hemicarp | skip:unknown
+hemicellulase | n.半纤维素酶 [domain:生物]
+hemichlamydeous | skip:unknown
+hemicholine | skip:unknown
+hemichorea | n.偏侧舞蹈病 [domain:医学]
+hemichromosome | skip:unknown
+hemicolloid | n.半胶体 [domain:化学]
+hemicorporectomy | n.半体切除术 [domain:医学]
+hemicraniectomy | n.半侧颅骨切除术 [domain:医学]
+hemicryptophyte | n.地面芽植物 [domain:植物]
+hemicyclic | skip:unknown
+hemidesmosome | n.半桥粒 [domain:生物]
+hemidiaphragm | n.半侧膈肌 [domain:解剖]
+hemidome | skip:unknown
+hemielytron | n.半鞘翅 [domain:动物]
+hemiepiphyte | n.半附生植物 [domain:植物]
+hemigastrectomy | n.半胃切除术 [domain:医学]
+hemiglossectomy | n.半舌切除术 [domain:医学]
+hemigroup | skip:unknown
+hemihedrism | n.半面象 [domain:矿业]
+hemihedron | n.半面体 [domain:数学]
+hemihepatectomy | n.半肝切除术 [domain:医学]
+hemihyperesthesia | n.偏侧感觉过敏 [domain:医学]
+hemihyperplasia | n.偏侧增生 [domain:医学]
+hemihypertrophy | n.偏侧肥大 [domain:医学]
+hemikaryon | n.单倍核 [domain:生物]
+hemiketal | n.半缩酮 [domain:化学]
+hemilaminectomy | n.半椎板切除术 [domain:医学]
+hemilaryngectomy | n.半喉切除术 [domain:医学]
+hemimelia | n.半肢畸形 [domain:医学]
+hemimellitene | skip:unknown
+hemimetabolic | adj.不完全变态的 [domain:动物]
+hemimetabolism | n.不完全变态 [domain:动物]
+hemimorph | skip:unknown
+hemimorphic | adj.异极的 [domain:矿业]
+hemimorphism | n.异极性 [domain:矿业]
+hemiopia | n.偏盲 [domain:医学]
+hemiopic | adj.偏盲的 [domain:医学]
+hemiparalysis | n.偏瘫 [domain:医学]
+hemiparetic | adj.轻偏瘫的 [domain:医学]
+hemipelvectomy | n.半骨盆切除术 [domain:医学]
+hemipenis | n.半阴茎 [domain:动物]
+hemipode | n.三趾鹑 [domain:动物]
+hemiprostatectomy | n.半前列腺切除术 [domain:医学]
+hemiprotein | skip:unknown
+hemipter | n.半翅目昆虫 [domain:动物]
+hemipteron | n.半翅目昆虫 [domain:动物]
+hemipylorectomy | n.半幽门切除术 [domain:医学]
+hemipyocyanin | skip:unknown
+hemipyocyanine | skip:unknown
+hemipyonephrosis | skip:unknown
+hemipyramid | skip:unknown
+hemiquinoid | skip:unknown
+hemirachischisis | skip:unknown
+hemiretina | n.半侧视网膜 [domain:解剖]
+hemirheumatism | skip:unknown
+hemisacralization | skip:unknown
+hemiscotosis | skip:unknown
+hemisect | v.对半切开 [domain:医学]
+hemiseptum | skip:unknown
+hemisoantibody | skip:unknown
+hemisomnambulism | skip:unknown
+hemisotonic | skip:unknown
+hemispasm | n.偏侧痉挛 [domain:医学]
+hemispheroidal | adj.半球状的
+hemisphygmia | skip:unknown
+hemispore | skip:unknown
+hemisporosis | skip:unknown
+hemistichal | adj.半行诗的 [domain:文学]
+hemistrumectomy | n.半侧甲状腺肿切除术 [domain:医学]
+hemisyncope | skip:unknown
+hemisyndrome | n.偏侧综合征 [domain:医学]
+hemisynergia | skip:unknown
+hemisystole | skip:unknown
+hemiterata | skip:unknown
+hemiteratic | adj.轻度畸形的 [domain:医学]
+hemiteric | skip:unknown
+hemiterpene | n.半萜 [domain:化学]
+hemitetany | skip:unknown
+hemithermoanesthesia | skip:unknown
+hemithorax | n.半胸 [domain:解剖]
+hemithyroidectomy | n.半甲状腺切除术 [domain:医学]
+hemitonia | skip:unknown
+hemitoxin | skip:unknown
+hemitremor | n.偏侧震颤 [domain:医学]
+hemitrisulfide | skip:unknown
+hemitroglobiotic | skip:unknown
+hemitropal | skip:unknown
+hemitrope | n.半转双晶 [domain:矿业]
+hemitropous | adj.半倒生的 [domain:植物]
+hemitropy | skip:unknown
+hemivagotony | skip:unknown
+hemivariate | skip:unknown
+hemivertebra | n.半椎体 [domain:医学]
+hemizygosity | n.半合子性 [domain:生物]
+hemizygote | n.半合子 [domain:生物]
+hemmel | n.牲口棚 [dated]
+hemoaerometer | skip:unknown
+hemoagglutination | n.血凝 [domain:医学]
+hemoagglutinin | n.血凝素 [domain:生物]
+hemoalkalimeter | skip:unknown
+hemobarometer | skip:unknown
+hemobilia | n.胆道出血 [domain:医学]
+hemobilinuria | skip:unknown
+hemobilirubin | skip:unknown
+hemoblast | n.成血细胞 [domain:生物]
+hemoblastosis | skip:unknown
+hemocatatonistic | skip:unknown
+hemocatharsis | skip:unknown
+hemocatheresis | n.血细胞破坏 [domain:医学]
+hemocatheretic | adj.血细胞破坏的 [domain:医学]
+hemocele | skip:unknown
+hemocelom | skip:unknown
+hemocholecystitis | n.出血性胆囊炎 [domain:医学]
+hemochorial | adj.血绒毛膜的 [domain:医学]
+hemochrome | n.血色素 [domain:医学]
+hemochrometer | n.血色素计 [domain:医学]
+hemochromogen | n.血色原 [domain:化学]
+hemochromometer | n.血色素计 [domain:医学]
+hemochromometry | n.血色素测定 [domain:医学]
+hemochromoprotein | skip:unknown
+hemocidal | skip:unknown
+hemocircular | skip:unknown
+hemoclasia | n.血细胞破坏 [domain:医学]
+hemoclasis | n.血细胞破坏 [domain:医学]
+hemoclastic | adj.血细胞破坏的 [domain:医学]
+hemocoagulin | skip:unknown
+hemococcidium | skip:unknown
+hemocoelom | skip:unknown
+hemoconia | n.血尘 [domain:医学]
+hemoconiosis | skip:unknown
+hemocrine | skip:unknown
+hemocrinia | skip:unknown
+hemocrinotherapy | skip:unknown
+hemocryoscopy | skip:unknown
+hemocrystallin | skip:unknown
+hemoculture | n.血培养 [domain:医学]
+hemocuprein | n.血铜蛋白 [domain:生物]
+hemocuprin | n.血铜蛋白 [domain:生物]
+hemocytoblast | n.成血细胞 [domain:生物]
+hemocytoblastoma | n.成血细胞瘤 [domain:医学]
+hemocytocatheresis | skip:unknown
+hemocytogenesis | n.血细胞生成 [domain:生物]
+hemocytology | n.血细胞学 [domain:医学]
+hemocytolysis | n.血细胞溶解 [domain:医学]
+hemocytopoiesis | n.血细胞生成 [domain:生物]
+hemocytotripsis | skip:unknown
+hemocytotripsy | skip:unknown
+hemocytozoon | n.血孢子虫 [domain:动物]
+hemodextrin | skip:unknown
+hemodia | skip:unknown
+hemodiagnosis | n.血液诊断 [domain:医学]
+hemodialyzer | n.血液透析器 [domain:医学]
+hemodiapedesis | n.血细胞渗出 [domain:医学]
+hemodiastase | skip:unknown
+hemodromograph | skip:unknown
+hemodromometer | n.血流速度计 [domain:医学]
+hemodynamometer | n.血压计 [domain:医学]
+hemodynamometry | n.血压测量 [domain:医学]
+hemodystrophy | skip:unknown
+hemoendocrinopathic | skip:unknown
+hemoendothelial | adj.血内皮的 [domain:医学]
+hemoerythrin | skip:unknown
+hemoferrin | skip:unknown
+hemoferrometer | skip:unknown
+hemoferrum | skip:unknown
+hemoflavoprotein | skip:unknown
+hemofuscin | skip:unknown
+hemogallol | skip:unknown
+hemogastric | skip:unknown
+hemogenesis | n.造血 [domain:生物]
+hemogenia | skip:unknown
+hemogenic | adj.造血的 [domain:生物]
+hemogenous | adj.血源的 [domain:医学]
+hemoglobic | adj.血红蛋白的 [domain:生物]
+hemoglobinated | adj.含血红蛋白的 [domain:生物]
+hemoglobinemia | n.血红蛋白血症 [domain:医学]
+hemoglobiniferous | adj.含血红蛋白的 [domain:生物]
+hemoglobinocholia | skip:unknown
+hemoglobinogenous | adj.生成血红蛋白的 [domain:生物]
+hemoglobinolysis | n.血红蛋白溶解 [domain:医学]
+hemoglobinometer | n.血红蛋白计 [domain:医学]
+hemoglobinometry | n.血红蛋白测定 [domain:医学]
+hemoglobinopepsia | skip:unknown
+hemoglobinophilia | skip:unknown
+hemoglobinophilic | skip:unknown
+hemoglobinorrhea | skip:unknown
+hemoglobinous | adj.含血红蛋白的 [domain:生物]
+hemoglobinuric | adj.血红蛋白尿的 [domain:医学]
+hemoglobulin | skip:unknown
+hemoglutination | n.血凝 [domain:医学]
+hemoglutinin | n.血凝素 [domain:生物]
+hemogonia | skip:unknown
+hemogram | n.血象 [domain:医学]
+hemohistioblast | skip:unknown
+hemohydraulics | skip:unknown
+hemohydronephrosis | n.血性肾积水 [domain:医学]
+hemohyperoxia | skip:unknown
+hemohypoxia | skip:unknown
+hemoid | adj.血样的 [domain:医学]
+hemokelidosis | skip:unknown
+hemokonia | n.血尘 [domain:医学]
+hemokoniosis | skip:unknown
+hemoleukocytic | skip:unknown
+hemolith | skip:unknown
+hemolutein | skip:unknown
+hemolymphangioma | n.血淋巴管瘤 [domain:医学]
+hemolymphocytotoxin | skip:unknown
+hemolyses | skip:not-lemma
+hemolysinogen | skip:unknown
+hemolysoid | skip:unknown
+hemolysophilic | skip:unknown
+hemolytopoietic | skip:unknown
+hemolyzable | adj.可溶血的 [domain:医学]
+hemolyzate | n.溶血产物 [domain:医学]
+hemolyzation | n.溶血作用 [domain:医学]
+hemomanometer | n.血压计 [domain:医学]
+hemomediastinum | n.纵隔积血 [domain:医学]
+hemometer | n.血红蛋白计 [domain:医学]
+hemometra | n.子宫积血 [domain:医学]
+hemometry | skip:unknown
+hemomyelogram | skip:unknown
+hemomyelosis | skip:unknown
+hemonchosis | n.血矛线虫病 [domain:动物]
+hemonephrosis | n.肾积血 [domain:医学]
+hemonormoblast | skip:unknown
+hemopathic | adj.血液病的 [domain:医学]
+hemopathology | n.血液病理学 [domain:医学]
+hemopathy | n.血液病 [domain:医学]
+hemoperfusion | n.血液灌流 [domain:医学]
+hemopericardium | n.心包积血 [domain:医学]
+hemopexin | n.血红素结合蛋白 [domain:生物]
+hemopexis | skip:unknown
+hemophage | skip:unknown
+hemophagia | skip:unknown
+hemophagocyte | n.噬血细胞 [domain:生物]
+hemophagocytosis | n.噬血细胞现象 [domain:医学]
+hemophil | skip:unknown
+hemophile | n.血友病患者 [domain:医学]
+hemophilic | adj.血友病的 [domain:医学]
+hemophobia | n.恐血症 [domain:心理]
+hemophoric | skip:unknown
+hemophotograph | skip:unknown
+hemophthalmia | n.眼内出血 [domain:医学]
+hemophthalmos | n.眼内出血 [domain:医学]
+hemophthisis | skip:unknown
+hemopiezometer | skip:unknown
+hemoplania | skip:unknown
+hemoplasmodium | skip:unknown
+hemoplasmopathy | skip:unknown
+hemoplastic | skip:unknown
+hemopneumopericardium | n.心包积血积气 [domain:医学]
+hemopneumothorax | n.血气胸 [domain:医学]
+hemopoiesic | skip:unknown
+hemopoietin | n.造血素 [domain:生物]
+hemoporphyrin | n.血卟啉 [domain:医学]
+hemoprecipitin | skip:unknown
+hemoproctia | skip:unknown
+hemopsonin | skip:unknown
+hemoptic | skip:unknown
+hemoptoe | n.咯血 [domain:医学]
+hemoptysic | adj.咯血的 [domain:医学]
+hemopyelectasis | skip:unknown
+hemopyrrol | skip:unknown
+hemopyrrole | skip:unknown
+hemorrhachis | n.椎管内出血 [domain:医学]
+hemorrhagenic | adj.致出血的 [domain:医学]
+hemorrhagiferous | skip:unknown
+hemorrhagin | n.出血素 [domain:医学]
+hemorrhagiparous | skip:unknown
+hemorrhaphilia | skip:unknown
+hemorrhea | skip:unknown
+hemorrhinia | skip:unknown
+hemorrhoea | skip:unknown
+hemorrhoidolysis | skip:unknown
+hemosalpinx | n.输卵管积血 [domain:医学]
+hemoscope | skip:unknown
+hemosensitin | skip:unknown
+hemosialemesis | skip:unknown
+hemosiderinuria | n.含铁血黄素尿 [domain:医学]
+hemosiderotic | adj.含铁血黄素沉着的 [domain:医学]
+hemosite | skip:unknown
+hemosozic | skip:unknown
+hemospasia | skip:unknown
+hemospast | skip:unknown
+hemospastic | skip:unknown
+hemospermia | n.血精症 [domain:医学]
+hemostases | skip:not-lemma
+hemostasia | n.止血 [domain:医学]
+hemostyptic | adj.止血的 [domain:医学]
+hemotachometer | skip:unknown
+hemotachometry | skip:unknown
+hemotachophotometer | skip:unknown
+hemotaxic | skip:unknown
+hemotherapeutics | n.血液疗法 [domain:医学]
+hemotherapy | n.血液疗法 [domain:医学]
+hemothigmic | skip:unknown
+hemotonia | skip:unknown
+hemotoxic | adj.血毒性的 [domain:医学]
+hemotroph | skip:unknown
+hemotrophe | skip:unknown
+hemotrophic | skip:unknown
+hemotropic | skip:unknown
+hemotropin | skip:unknown
+hemotympanum | n.鼓室积血 [domain:医学]
+hemovolumetry | skip:unknown
+hemoxometer | skip:unknown
+hemozoin | n.疟色素 [domain:生物]
+hemozoon | skip:unknown
+hempa | skip:unknown
+hempweed | skip:unknown
+hempy | skip:unknown
+hemsleyadin | skip:unknown
+hemstitcher | n.饰缝工 [domain:纺织]
+hemuresis | skip:unknown
+henapple | skip:unknown
+hendecahedral | adj.十一面体的 [domain:数学]
+hendecahedron | n.十一面体 [domain:数学]
+hendecanal | n.十一醛 [domain:化学]
+hendecane | n.十一烷 [domain:化学]
+hendecanol | n.十一醇 [domain:化学]
+hendecanone | n.十一酮 [domain:化学]
+hendecaploid | adj.十一倍体的 [domain:生物]
+hendecaploidy | n.十一倍性 [domain:生物]
+hendecene | n.十一碳烯 [domain:化学]
+hendecyl | n.十一烷基 [domain:化学]
+hendecyne | n.十一碳炔 [domain:化学]
+hendrum | skip:unknown
+heneicosane | n.二十一烷 [domain:化学]
+heneicosene | n.二十一碳烯 [domain:化学]
+henhearted | adj.胆小的 [dated]
+henocardia | skip:unknown
+henogenesis | n.个体发育 [domain:生物]
+henosis | skip:not-english
+henotic | skip:unknown
+henpentacontane | n.五十一烷 [domain:化学]
+henpox | skip:unknown
+henroost | n.鸡舍
+hentetracontane | n.四十一烷 [domain:化学]
+hentriacontane | n.三十一烷 [domain:化学]
+hentriacontanol | n.三十一醇 [domain:化学]
+hentriacontyl | n.三十一烷基 [domain:化学]
+henwife | n.养鸡妇 [dated]
+heortology | n.宗教节日学 [domain:宗教]
+hepaptosia | skip:unknown
+hepar | skip:not-english
+heparamine | skip:unknown
+heparinase | n.肝素酶 [domain:生物]
+heparinate | n.肝素盐 [domain:药学]
+heparinemia | n.肝素血症 [domain:医学]
+heparinization | n.肝素化 [domain:医学]
+heparitin | skip:unknown
+hepatalgia | n.肝痛 [domain:医学]
+hepatapostema | skip:unknown
+hepatargia | skip:unknown
+hepatargy | skip:unknown
+hepatase | skip:unknown
+hepatatrophia | n.肝萎缩 [domain:医学]
+hepatatrophy | n.肝萎缩 [domain:医学]
+hepatauxe | n.肝肿大 [domain:医学]
+hepatectomize | v.切除肝脏 [domain:医学]
+hepathemia | skip:unknown
+hepaticae | skip:not-english
+hepaticocholangiojejunostomy | n.肝胆管空肠吻合术 [domain:医学]
+hepaticodochotomy | skip:unknown
+hepaticoduodenostomy | n.肝管十二指肠吻合术 [domain:医学]
+hepaticoenterostomy | n.肝管肠吻合术 [domain:医学]
+hepaticogastrostomy | n.肝管胃吻合术 [domain:医学]
+hepaticojejunostomy | n.肝管空肠吻合术 [domain:医学]
+hepaticoliasis | skip:unknown
+hepaticolithotomy | n.肝管切开取石术 [domain:医学]
+hepaticolithotripsy | n.肝管碎石术 [domain:医学]
+hepaticologist | n.苔类学家 [domain:植物]
+hepaticology | n.苔类学 [domain:植物]
+hepaticolor | skip:unknown
+hepaticopancreatic | adj.肝胰的 [domain:解剖]
+hepaticopulmonary | adj.肝肺的 [domain:解剖]
+hepaticorrhaphy | n.肝管缝合术 [domain:医学]
+hepaticostomy | n.肝管造口术 [domain:医学]
+hepaticotomy | n.肝管切开术 [domain:医学]
+hepatin | skip:unknown
+hepatism | skip:unknown
+hepatite | skip:unknown
+hepatitides | skip:not-lemma
+hepatization | n.肝样变 [domain:医学]
+hepatize | v.使肝样变 [domain:医学]
+hepatizon | skip:unknown
+hepatoalbumin | skip:unknown
+hepatobiopsy | n.肝活检 [domain:医学]
+hepatocarcinogen | n.致肝癌物 [domain:医学]
+hepatocarcinogenic | adj.致肝癌的 [domain:医学]
+hepatocele | n.肝突出 [domain:医学]
+hepatocholangeitis | n.肝胆管炎 [domain:医学]
+hepatocholangioduodenostomy | n.肝胆管十二指肠吻合术 [domain:医学]
+hepatocholangioenterostomy | n.肝胆管肠吻合术 [domain:医学]
+hepatocholangiogastrostomy | n.肝胆管胃吻合术 [domain:医学]
+hepatocholangiojejunostomy | n.肝胆管空肠吻合术 [domain:医学]
+hepatocholangiostomy | n.肝胆管造口术 [domain:医学]
+hepatocirrhosis | n.肝硬化 [domain:医学]
+hepatocolic | adj.肝结肠的 [domain:解剖]
+hepatocrinin | skip:unknown
+hepatocuprein | n.肝铜蛋白 [domain:生物]
+hepatocystic | adj.肝胆囊的 [domain:解剖]
+hepatodidymus | skip:unknown
+hepatoduodenal | adj.肝十二指肠的 [domain:解剖]
+hepatoduodenostomy | n.肝十二指肠吻合术 [domain:医学]
+hepatodynia | n.肝痛 [domain:医学]
+hepatodysentery | skip:unknown
+hepatodystrophy | n.肝营养不良 [domain:医学]
+hepatoenterostomy | n.肝肠吻合术 [domain:医学]
+hepatoflavin | n.肝黄素 [domain:生物]
+hepatofugal | adj.离肝的 [domain:医学]
+hepatogastric | adj.肝胃的 [domain:解剖]
+hepatogastritis | skip:unknown
+hepatogenic | adj.肝源性的 [domain:医学]
+hepatogenous | adj.肝源性的 [domain:医学]
+hepatoglobin | skip:unknown
+hepatoglobinemia | skip:unknown
+hepatoglobulin | skip:unknown
+hepatogram | skip:unknown
+hepatography | n.肝造影术 [domain:医学]
+hepatohemia | skip:unknown
+hepatoid | adj.肝样的 [domain:医学]
+hepatojejunostomy | n.肝空肠吻合术 [domain:医学]
+hepatolenticular | adj.肝豆状核的 [domain:医学]
+hepatolienal | adj.肝脾的 [domain:解剖]
+hepatolienography | n.肝脾造影术 [domain:医学]
+hepatolienomegaly | n.肝脾肿大 [domain:医学]
+hepatolith | n.肝石 [domain:医学]
+hepatolithectomy | n.肝石切除术 [domain:医学]
+hepatolithiasis | n.肝内结石 [domain:医学]
+hepatolobectomy | n.肝叶切除术 [domain:医学]
+hepatolysia | skip:unknown
+hepatolysin | skip:unknown
+hepatolysis | n.肝细胞溶解 [domain:医学]
+hepatolytic | adj.溶肝的 [domain:医学]
+hepatomalacia | n.肝软化 [domain:医学]
+hepatomegalia | n.肝肿大 [domain:医学]
+hepatomegalic | adj.肝肿大的 [domain:医学]
+hepatomelanosis | n.肝黑变病 [domain:医学]
+hepatometry | skip:unknown
+hepatomicrosome | n.肝微粒体 [domain:生物]
+hepatomphalocele | skip:unknown
+hepatomphalos | skip:unknown
+hepaton | skip:unknown
+hepatoncus | skip:unknown
+hepatonecrosis | n.肝坏死 [domain:医学]
+hepatonephric | adj.肝肾的 [domain:解剖]
+hepatonephritic | skip:unknown
+hepatonephritis | n.肝肾炎 [domain:医学]
+hepatonephromegaly | n.肝肾肿大 [domain:医学]
+hepatopath | skip:unknown
+hepatopathy | n.肝病 [domain:医学]
+hepatoperitonitis | n.肝周围炎 [domain:医学]
+hepatopetal | adj.向肝的 [domain:医学]
+hepatopexia | n.肝固定术 [domain:医学]
+hepatopexy | n.肝固定术 [domain:医学]
+hepatophage | skip:unknown
+hepatophlebitis | n.肝静脉炎 [domain:医学]
+hepatophlebography | n.肝静脉造影术 [domain:医学]
+hepatophlebotomy | skip:unknown
+hepatophyma | skip:unknown
+hepatopleural | adj.肝胸膜的 [domain:解剖]
+hepatopneumonic | skip:unknown
+hepatoportal | adj.肝门的 [domain:解剖]
+hepatopostema | skip:unknown
+hepatoptosia | n.肝下垂 [domain:医学]
+hepatoptosis | n.肝下垂 [domain:医学]
+hepatopulmonary | adj.肝肺的 [domain:解剖]
+hepatorecurrence | skip:unknown
+hepatorrhagia | n.肝出血 [domain:医学]
+hepatorrhaphy | n.肝缝合术 [domain:医学]
+hepatorrhea | skip:unknown
+hepatorrhexis | n.肝破裂 [domain:医学]
+hepatosarcoma | n.肝肉瘤 [domain:医学]
+hepatoscan | n.肝扫描 [domain:医学]
+hepatoscintiphotography | n.肝闪烁照相术 [domain:医学]
+hepatoscopy | n.肝脏检查 [domain:医学]
+hepatosis | n.肝病 [domain:医学]
+hepatosplenitis | n.肝脾炎 [domain:医学]
+hepatosplenography | n.肝脾造影术 [domain:医学]
+hepatosplenomegalia | n.肝脾肿大 [domain:医学]
+hepatosplenometry | skip:unknown
+hepatosplenopathy | n.肝脾病 [domain:医学]
+hepatostomy | n.肝造口术 [domain:医学]
+hepatotherapy | skip:unknown
+hepatothrombin | skip:unknown
+hepatotomy | n.肝切开术 [domain:医学]
+hepatotoxemia | n.肝毒血症 [domain:医学]
+hepatotropic | adj.亲肝的 [domain:医学]
+hepatoxic | skip:unknown
+hepaxanthin | skip:unknown
+hepronicate | skip:unknown
+heptabarb | n.庚巴比妥 [domain:药学]
+heptabarbital | n.庚巴比妥 [domain:药学]
+heptacene | n.七并苯 [domain:化学]
+heptachlorodicyclopentadiene | skip:unknown
+heptachloropropane | n.七氯丙烷 [domain:化学]
+heptachromic | adj.七色的
+heptacontane | n.七十烷 [domain:化学]
+heptacosane | n.二十七烷 [domain:化学]
+heptadactylia | skip:unknown
+heptadactylism | skip:unknown
+heptadactyly | skip:unknown
+heptadecane | n.十七烷 [domain:化学]
+heptadecanol | n.十七醇 [domain:化学]
+heptadecanone | n.十七酮 [domain:化学]
+heptadecanoyl | n.十七酰基 [domain:化学]
+heptadecene | n.十七碳烯 [domain:化学]
+heptadecyl | n.十七烷基 [domain:化学]
+heptadecylaldehyde | n.十七醛 [domain:化学]
+heptadiene | n.庚二烯 [domain:化学]
+heptadienynol | skip:unknown
+heptadiyne | n.庚二炔 [domain:化学]
+heptafungin | skip:unknown
+heptaglot | adj.通七种语言的
+heptaglyme | skip:unknown
+heptagonus | skip:unknown
+heptagynian | adj.七雌蕊的 [domain:植物]
+heptagynous | adj.七雌蕊的 [domain:植物]
+heptahydrate | n.七水合物 [domain:化学]
+heptalateral | adj.七边的
+heptaldehyde | n.庚醛 [domain:化学]
+heptaldoxime | n.庚醛肟 [domain:化学]
+heptalene | skip:unknown
+heptalenium | skip:unknown
+heptaline | skip:unknown
+heptalobus | skip:unknown
+heptamer | n.七聚体 [domain:化学]
+heptamerous | adj.七基数的 [domain:植物]
+heptamethylene | n.七亚甲基 [domain:化学]
+heptamide | n.庚酰胺 [domain:化学]
+heptaminol | n.庚氨醇 [domain:药学]
+heptamul | skip:unknown
+heptamycin | skip:unknown
+heptanal | n.庚醛 [domain:化学]
+heptandiol | n.庚二醇 [domain:化学]
+heptandrian | adj.七雄蕊的 [domain:植物]
+heptandrous | adj.七雄蕊的 [domain:植物]
+heptanediol | n.庚二醇 [domain:化学]
+heptanedioyl | n.庚二酰基 [domain:化学]
+heptaneurus | skip:unknown
+heptangular | adj.七角的
+heptanol | n.庚醇 [domain:化学]
+heptanone | n.庚酮 [domain:化学]
+heptanoyl | n.庚酰基 [domain:化学]
+heptanthiol | n.庚硫醇 [domain:化学]
+heptantriene | n.庚三烯 [domain:化学]
+heptaoxacycloheneicosane | skip:unknown
+heptapetalous | adj.七瓣的 [domain:植物]
+heptaphene | n.七苯 [domain:化学]
+heptaphylline | skip:unknown
+heptaphyllite | skip:unknown
+heptaphyllous | adj.七叶的 [domain:植物]
+heptaploid | adj.七倍体的 [domain:生物]
+heptaploidy | n.七倍性 [domain:生物]
+heptarchic | adj.七国时代的 [domain:历史]
+heptarchist | skip:unknown
+heptargia | skip:unknown
+heptastich | n.七行诗 [domain:文学]
+heptastyle | adj.七柱式的 [domain:建筑]
+heptastylos | skip:unknown
+heptasulfide | n.七硫化物 [domain:化学]
+heptasyllabic | adj.七音节的
+heptasyllable | n.七音节词
+heptatomic | adj.七原子的 [domain:化学]
+heptene | n.庚烯 [domain:化学]
+heptenol | n.庚烯醇 [domain:化学]
+heptenone | n.庚烯酮 [domain:化学]
+heptenophos | skip:unknown
+heptenyl | n.庚烯基 [domain:化学]
+heptet | n.七重奏 [domain:音乐]
+heptine | n.庚炔 [domain:化学]
+heptobarbital | n.庚巴比妥 [domain:药学]
+heptode | n.七极管 [domain:电子]
+heptone | skip:unknown
+heptonitrile | n.庚腈 [domain:化学]
+heptose | n.庚糖 [domain:化学]
+heptosuria | n.庚糖尿 [domain:医学]
+heptoxide | n.七氧化物 [domain:化学]
+heptoximate | skip:unknown
+heptoxime | skip:unknown
+heptulose | n.庚酮糖 [domain:化学]
+heptyl | n.庚基 [domain:化学]
+heptylate | skip:unknown
+heptylene | n.庚烯 [domain:化学]
+heptylpenicillin | n.庚基青霉素 [domain:药学]
+heptylresorcinol | n.庚基间苯二酚 [domain:化学]
+heptyne | n.庚炔 [domain:化学]
+herapathite | n.硫酸碘奎宁 [domain:化学]
+herbacetin | skip:unknown
+herbaged | adj.长满草的
+herban | skip:unknown
+herbarize | v.采集植物标本 [domain:植物]
+herbary | n.草药园 [dated]
+herbescent | adj.渐成草本的 [domain:植物]
+herbicarnivorous | adj.草食兼肉食的 [domain:动物]
+herbicidally | adv.以除草剂方式
+herbiferous | adj.产草的
+herbless | adj.无草的
+herblet | n.小草本植物 [domain:植物]
+herblike | adj.似草本的 [domain:植物]
+herborization | n.采集植物 [domain:植物]
+herborize | v.采集植物 [domain:植物]
+herbshop | n.草药店
+herbstore | n.草药店
+hercoblasting | skip:unknown
+hercogamous | adj.雌雄异位的 [domain:植物]
+hercogamy | n.雌雄异位 [domain:植物]
+herculin | skip:unknown
+hercynin | skip:unknown
+hercynine | skip:unknown
+hercynite | n.铁尖晶石 [domain:矿业]
+herderite | n.磷铍钙石 [domain:矿业]
+herdic | n.低座马车 [domain:历史]
+hereaway | adv.在这附近 [dated]
+hereditability | n.遗传性 [domain:生物]
+hereditably | adv.可遗传地
+hereditation | skip:unknown
+hereditism | n.遗传决定论 [domain:生物]
+hereditist | n.遗传决定论者 [domain:生物]
+heredoataxia | n.遗传性共济失调 [domain:医学]
+heredobiologic | skip:unknown
+heredodegeneration | n.遗传性变性 [domain:医学]
+heredodiathesis | skip:unknown
+heredofamilial | adj.家族遗传的 [domain:医学]
+heredolues | n.遗传梅毒 [domain:医学]
+heredopathia | skip:unknown
+heredosyphilis | n.遗传梅毒 [domain:医学]
+heredotrophedema | skip:unknown
+heregulin | n.调蛋白 [domain:生物]
+heremetabola | skip:unknown
+hereness | skip:unknown
+heresimach | n.异端攻击者 [domain:宗教]
+heresiographer | n.异端论著者 [domain:宗教]
+heresiography | n.异端论 [domain:宗教]
+heresiologist | n.异端研究者 [domain:宗教]
+heriotable | skip:unknown
+herisson | n.尖桩障碍 [domain:军事]
+heritably | adv.可继承地
+heritress | n.女继承人 [dated]
+herkogamy | n.雌雄异位 [domain:植物]
+herling | skip:unknown
+hermae | skip:not-lemma
+hermaean | adj.赫尔墨斯的 [domain:神话]
+hermaic | adj.赫尔墨斯的 [domain:神话]
+hermathene | skip:unknown
+hermatobiolith | skip:unknown
+hermatolith | skip:unknown
+hermatype | skip:unknown
+hermatypic | adj.造礁的 [domain:生物]
+hermetism | n.赫尔墨斯主义 [domain:哲学]
+hermetist | n.赫尔墨斯主义者 [domain:哲学]
+hermetization | n.密封
+hermitical | adj.隐士的
+hermitry | n.隐居
+hermodactyl | skip:unknown
+hermophenyl | skip:unknown
+hermophilia | skip:unknown
+herniae | skip:not-lemma
+herniarin | skip:unknown
+herniary | adj.疝的 [domain:医学]
+herninamycin | skip:unknown
+hernioid | adj.疝样的 [domain:医学]
+herniology | n.疝学 [domain:医学]
+hernioloparotomy | skip:unknown
+hernioplasty | n.疝修补术 [domain:医学]
+herniopuncture | n.疝穿刺术 [domain:医学]
+herniotome | n.疝刀 [domain:医学]
+hernshaw | n.苍鹭 [dated,domain:动物]
+heroess | n.女英雄 [dated]
+heroica | skip:unknown
+heroical | adj.英雄的
+heroicize | v.使英雄化
+heroicness | n.英勇
+heroicomic | adj.英雄滑稽的 [domain:文学]
+heroicomical | adj.英雄滑稽的 [domain:文学]
+heroify | v.使英雄化
+heroinism | n.海洛因瘾 | nokid
+heroinomania | skip:unknown
+heroise | v.使英雄化 [uk]
+heronite | skip:unknown
+heronsbill | n.牻牛儿苗 [domain:植物]
+heronsew | skip:unknown
+herpangia | skip:unknown
+herpangina | n.疱疹性咽峡炎 [domain:医学]
+herpesencephalitis | n.疱疹病毒性脑炎 [domain:医学]
+herpetiform | adj.疱疹样的 [domain:医学]
+herpetism | skip:unknown
+herpetomoniasis | skip:unknown
+herpetophobia | n.爬虫恐惧症 [domain:心理]
+herpolhode | skip:unknown
+herqueichrysin | skip:unknown
+herquein | skip:unknown
+herqueinone | skip:unknown
+herquin | skip:unknown
+herrerite | skip:unknown
+herria | skip:unknown
+hersage | skip:unknown
+herschelite | n.钠菱沸石 [domain:矿业]
+herzenbergite | n.硫锡矿 [domain:矿业]
+hesitater | n.踌躇者
+hesperanopia | skip:unknown
+hesperetin | n.橙皮素 [domain:化学]
+hesperetol | skip:unknown
+hesperid | skip:unknown
+hesperidene | skip:unknown
+hesperidinase | n.橙皮苷酶 [domain:生物]
+hessite | n.碲银矿 [domain:矿业]
+hessonite | n.桂榴石 [domain:矿业]
+hesternal | adj.昨日的 [dated]
+hetacillin | n.海他西林 [domain:药学]
+hetaerae | skip:not-lemma
+hetaerism | skip:unknown
+hetaerolite | n.锌黑锰矿 [domain:矿业]
+hetairae | skip:not-lemma
+hetairism | skip:unknown
+hetaryne | skip:unknown
+hetastarch | n.羟乙基淀粉 [domain:药学]
+heteracephalus | skip:unknown
+heteradelphia | skip:unknown
+heteradelphus | skip:unknown
+heteradenia | skip:unknown
+heteradenic | skip:unknown
+heteradenoma | skip:unknown
+heterakiasis | n.异刺线虫病 [domain:医学]
+heterakid | skip:unknown
+heteranthery | n.异型雄蕊 [domain:植物]
+heterarchical | skip:unknown
+heterarchy | skip:unknown
+heterarylation | skip:unknown
+heteratisine | skip:unknown
+heteratomic | adj.异原子的 [domain:化学]
+heterauxesis | n.异速生长 [domain:生物]
+heteraxial | skip:unknown
+heterecious | adj.异主寄生的 [domain:生物]
+heterecism | n.异主寄生 [domain:生物]
+heteresthesia | skip:unknown
+heterism | skip:unknown
+heterization | skip:unknown
+heteroacid | skip:unknown
+heteroadenoma | skip:unknown
+heteroagglutination | n.异种凝集 [domain:医学]
+heteroagglutinin | n.异种凝集素 [domain:医学]
+heteroalbumose | skip:unknown
+heteroalbumosuria | skip:unknown
+heteroallele | n.异等位基因 [domain:生物]
+heteroantagonism | skip:unknown
+heteroantibody | n.异种抗体 [domain:医学]
+heteroantigen | n.异种抗原 [domain:医学]
+heteroaromatics | n.杂芳族化合物 [domain:化学]
+heteroautoplasty | skip:unknown
+heteroautotroph | skip:unknown
+heteroautotrophic | skip:unknown
+heteroauxin | n.吲哚乙酸 [domain:植物]
+heteroauxone | skip:unknown
+heteroazeotrope | n.非均相共沸物 [domain:化学]
+heterobaric | skip:unknown
+heterobetulin | skip:unknown
+heterobiotin | skip:unknown
+heteroblastic | adj.异型发育的 [domain:植物]
+heterobrochantite | skip:unknown
+heterocarp | skip:unknown
+heterocarpous | adj.异形果的 [domain:植物]
+heterocarpy | n.异形果 [domain:植物]
+heterocaryon | n.异核体 [domain:生物]
+heterocaryophase | skip:unknown
+heterocaryosis | n.异核现象 [domain:生物]
+heterocaryote | n.异核体 [domain:生物]
+heterocaryotic | adj.异核的 [domain:生物]
+heterocaryotize | skip:unknown
+heterocaseose | skip:unknown
+heterocatalysis | skip:unknown
+heterocellular | adj.异细胞的 [domain:生物]
+heterocellulate | skip:unknown
+heterocelous | skip:unknown
+heterocentric | skip:unknown
+heterocephalous | skip:unknown
+heterocera | skip:not-english
+heterocercy | n.歪尾 [domain:动物]
+heterochain | adj.杂链的 [domain:化学]
+heterocharge | skip:unknown
+heterochelate | skip:unknown
+heterochinine | skip:unknown
+heterochiral | adj.异手性的 [domain:化学]
+heterochirality | n.异手性 [domain:化学]
+heterochlamydeous | adj.异被的 [domain:植物]
+heterochore | skip:unknown
+heterochromatinization | n.异染色质化 [domain:生物]
+heterochromatization | n.异染色质化 [domain:生物]
+heterochromatosis | skip:unknown
+heterochrome | skip:unknown
+heterochromomere | skip:unknown
+heterochromosome | n.异型染色体 [domain:生物]
+heterochromous | adj.异色的
+heterochron | skip:unknown
+heterochroneity | skip:unknown
+heterochronia | n.异时性 [domain:生物]
+heterochronic | adj.异时的 [domain:生物]
+heterochronism | skip:unknown
+heterochronous | adj.异时的 [domain:生物]
+heterochrony | n.异时发育 [domain:生物]
+heterochrosis | skip:unknown
+heterochthonous | adj.异地生成的 [domain:地质]
+heterochylia | skip:unknown
+heterocinemia | skip:unknown
+heterocladic | skip:unknown
+heteroclisis | skip:unknown
+heteroclitic | adj.不规则的, 变格的 [domain:语言]
+heteroclitical | adj.不规则的 [domain:语言]
+heteroclitous | adj.不规则的 [domain:语言]
+heteroclone | skip:unknown
+heterocoagulation | n.异质凝聚 [domain:化学]
+heterococcolith | skip:unknown
+heterocomplement | skip:unknown
+heterocomplementophilic | skip:unknown
+heterocomplex | skip:unknown
+heterocompound | skip:unknown
+heteroconjugate | skip:unknown
+heterocrania | n.偏头痛 [domain:医学]
+heterocrine | skip:unknown
+heterocrisis | skip:unknown
+heterocrystal | skip:unknown
+heterocyclization | n.杂环化 [domain:化学]
+heterocyst | n.异形胞 [domain:生物]
+heterocystous | adj.有异形胞的 [domain:生物]
+heterocytolysin | skip:unknown
+heterocytotoxin | skip:unknown
+heterocytotropic | skip:unknown
+heterodactyl | adj.异趾足的 [domain:动物]
+heterodactylous | adj.异趾足的 [domain:动物]
+heterodermic | skip:unknown
+heterodermotrophy | skip:unknown
+heterodesmic | adj.异键的 [domain:化学]
+heterodesmosome | skip:unknown
+heterodesmotic | adj.异键的 [domain:化学]
+heterodichogamy | skip:unknown
+heterodidymus | skip:unknown
+heterodiode | skip:unknown
+heterodisperse | adj.多分散的 [domain:化学]
+heterodispersity | n.多分散性 [domain:化学]
+heterodistyly | skip:unknown
+heterodrome | skip:unknown
+heterodromia | skip:unknown
+heterodromous | skip:unknown
+heterodromy | skip:unknown
+heterodymus | skip:unknown
+heterodynamics | skip:unknown
+heteroecism | n.转主寄生 [domain:生物]
+heteroecium | skip:unknown
+heteroepitaxy | n.异质外延 [domain:电子]
+heteroerotism | skip:unknown
+heteroexcimer | skip:unknown
+heterofermentation | n.异型发酵 [domain:生物]
+heterofermenter | skip:unknown
+heterofertilization | skip:unknown
+heterofil | skip:unknown
+heterofilm | skip:unknown
+heterogalactosidase | skip:unknown
+heterogametangic | skip:unknown
+heterogametangium | skip:unknown
+heterogametism | n.异配性 [domain:生物]
+heterogamety | n.异配性 [domain:生物]
+heteroganglionic | skip:unknown
+heterogel | skip:unknown
+heterogen | skip:unknown
+heterogenetic | skip:unknown
+heterogenia | skip:unknown
+heterogenic | adj.异质的
+heterogenicity | n.异质性
+heterogenist | skip:unknown
+heterogenite | n.水钴矿 [domain:矿业]
+heterogenize | v.使异质化
+heterogenote | skip:unknown
+heterogeny | skip:unknown
+heteroglaucous | skip:unknown
+heteroglobulose | skip:unknown
+heteroglycan | n.杂聚糖 [domain:化学]
+heterogone | skip:unknown
+heterogonic | adj.世代交替的 [domain:生物]
+heterogonous | skip:unknown
+heterogony | n.世代交替 [domain:生物]
+heterographic | adj.异形拼写的 [domain:语言]
+heterography | n.异形拼写 [domain:语言]
+heterogynism | skip:unknown
+heterogynous | skip:unknown
+heterohemagglutinin | n.异种血凝素 [domain:医学]
+heterohemolysin | n.异种溶血素 [domain:医学]
+heterohemolysis | n.异种溶血 [domain:医学]
+heterohexosan | skip:unknown
+heterohomothallism | skip:unknown
+heterohypnosis | n.他人催眠 [domain:心理]
+heteroic | skip:unknown
+heteroicous | skip:unknown
+heteroid | skip:unknown
+heteroimmune | skip:unknown
+heteroimmunization | n.异种免疫 [domain:医学]
+heteroinfection | n.异源感染 [domain:医学]
+heteroinoculable | skip:unknown
+heteroinoculation | skip:unknown
+heterointoxication | skip:unknown
+heteroion | skip:unknown
+heterokaryocyte | skip:unknown
+heterokaryosis | n.异核现象 [domain:生物]
+heterokaryote | n.异核体 [domain:生物]
+heterokaryotic | adj.异核的 [domain:生物]
+heterokeratoplasty | n.异种角膜移植术 [domain:医学]
+heterokinesis | skip:unknown
+heterokont | n.异鞭毛生物 [domain:生物]
+heterokontan | adj.异鞭毛的 [domain:生物]
+heterolalia | skip:unknown
+heterolaser | skip:unknown
+heterolateral | adj.对侧的 [domain:医学]
+heterolecithal | adj.异黄卵的 [domain:生物]
+heterolipid | skip:unknown
+heterolith | skip:unknown
+heterologic | skip:unknown
+heterological | skip:unknown
+heterologously | skip:unknown
+heterology | skip:unknown
+heterolopia | skip:unknown
+heterolupeol | skip:unknown
+heterolusin | skip:unknown
+heterolysin | skip:unknown
+heterolysis | n.异裂 [domain:化学]
+heterolysosome | n.异溶酶体 [domain:生物]
+heterolyte | skip:unknown
+heterolytic | adj.异裂的 [domain:化学]
+heterolyzate | skip:unknown
+heteromastigote | skip:unknown
+heteromedusoid | skip:unknown
+heteromeral | skip:unknown
+heteromeric | adj.异聚的 [domain:化学]
+heteromerism | skip:unknown
+heteromerous | skip:unknown
+heteromery | skip:unknown
+heteromestroph | skip:unknown
+heterometabalic | skip:unknown
+heterometabola | skip:unknown
+heterometabolic | adj.不完全变态的 [domain:动物]
+heterometabolism | n.不完全变态 [domain:动物]
+heterometabolous | adj.不完全变态的 [domain:动物]
+heterometaboly | n.不完全变态 [domain:动物]
+heterometamorphism | skip:unknown
+heterometaplasia | skip:unknown
+heterometropia | n.屈光参差 [domain:医学]
+heterometry | skip:unknown
+heteromixis | skip:unknown
+heteromorphism | n.异形性 [domain:生物]
+heteromorphite | skip:unknown
+heteromorphosis | n.异形再生 [domain:生物]
+heteromorphous | adj.异形的 [domain:生物]
+heteromorphy | n.异形性 [domain:生物]
+heteronephrolysine | skip:unknown
+heteronephrotrophy | skip:unknown
+heteronucleus | skip:unknown
+heterooligosaccharide | n.杂寡糖 [domain:化学]
+heteropagus | skip:unknown

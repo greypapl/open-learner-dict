@@ -1,0 +1,1000 @@
+pseudoepiphysis | n.假骨骺 [domain:解剖]
+pseudoequilibrium | n.假平衡 [domain:物理]
+pseudoerosion | n.假糜烂 [domain:医学]
+pseudoerysipelas | n.假丹毒 [domain:医学]
+pseudoesthesia | skip:unknown
+pseudoestrus | n.假发情 [domain:生物]
+pseudoeutectic | adj.伪共晶的 [domain:物理]
+pseudoexophoria | skip:unknown
+pseudoexophthalmos | n.假性突眼 [domain:医学]
+pseudoexosporium | skip:unknown
+pseudoexposure | skip:unknown
+pseudofarcy | skip:unknown
+pseudofertility | skip:unknown
+pseudofertilization | n.假受精 [domain:生物]
+pseudofever | skip:unknown
+pseudofibrin | skip:unknown
+pseudofilament | skip:unknown
+pseudofiltered | skip:unknown
+pseudofin | skip:unknown
+pseudofir | skip:unknown
+pseudoflagellata | skip:not-english
+pseudofluctuation | skip:unknown
+pseudofossil | n.假化石 [domain:地质]
+pseudofracture | n.假骨折 [domain:医学]
+pseudofront | skip:unknown
+pseudogalena | n.闪锌矿 [domain:矿业]
+pseudoganglion | skip:unknown
+pseudogaster | skip:unknown
+pseudogastrula | skip:unknown
+pseudogel | skip:unknown
+pseudogestation | n.假妊娠 [domain:医学]
+pseudogeusesthesia | skip:unknown
+pseudogeusethesia | skip:unknown
+pseudogeusia | n.幻味 [domain:医学]
+pseudoglanders | n.假鼻疽 [domain:医学]
+pseudoglaucoma | n.假青光眼 [domain:医学]
+pseudoglauroma | skip:unknown
+pseudogley | skip:unknown
+pseudoglioma | n.假神经胶质瘤 [domain:医学]
+pseudoglobulin | n.假球蛋白 [domain:生物]
+pseudoglottis | n.假声门 [domain:解剖]
+pseudoglucosazone | skip:unknown
+pseudoglucosidase | skip:unknown
+pseudoglycosuria | n.假性糖尿 [domain:医学]
+pseudogonitis | skip:unknown
+pseudogonococcus | skip:unknown
+pseudogonorrhea | n.假淋病 [domain:医学]
+pseudogranular | skip:unknown
+pseudograph | skip:unknown
+pseudographia | skip:unknown
+pseudogravidity | n.假妊娠 [domain:医学]
+pseudogroup | skip:unknown
+pseudogyna | skip:unknown
+pseudogyne | skip:unknown
+pseudogynecomastia | n.假性男子乳房发育 [domain:医学]
+pseudohalgen | skip:unknown
+pseudohalide | n.类卤化物 [domain:化学]
+pseudohalogen | n.类卤素 [domain:化学]
+pseudohalter | skip:unknown
+pseudohaploidy | skip:unknown
+pseudohardness | skip:unknown
+pseudoharmonic | skip:unknown
+pseudohaustorium | skip:unknown
+pseudoheart | skip:unknown
+pseudohemagglutination | n.假血凝 [domain:医学]
+pseudohemiacardius | skip:unknown
+pseudohemoglobin | skip:unknown
+pseudohemophilia | n.假性血友病 [domain:医学]
+pseudohemoptysis | n.假性咯血 [domain:医学]
+pseudoheredity | skip:unknown
+pseudohermaphrodism | n.假两性畸形 [domain:医学]
+pseudohermaphroditic | adj.假两性畸形的 [domain:医学]
+pseudohernia | n.假疝 [domain:医学]
+pseudoheteromorphic | skip:unknown
+pseudoheterothallism | skip:unknown
+pseudoheterotopia | skip:unknown
+pseudohibernation | skip:unknown
+pseudoholoptic | skip:unknown
+pseudohomogeneous | skip:unknown
+pseudohomothallism | skip:unknown
+pseudohydronephrosis | skip:unknown
+pseudohydrophobia | n.假恐水症 [domain:医学]
+pseudohymenium | skip:unknown
+pseudohyoscyamine | skip:unknown
+pseudohyperbolic | skip:unknown
+pseudohypermetabola | skip:unknown
+pseudohypertrophic | adj.假性肥大的 [domain:医学]
+pseudohypertrophy | n.假性肥大 [domain:医学]
+pseudohypha | n.假菌丝 [domain:生物]
+pseudohypoaldosteronism | n.假性醛固酮减少症 [domain:医学]
+pseudohypoparathyroidism | n.假性甲状旁腺功能减退 [domain:医学]
+pseudoicterus | n.假黄疸 [domain:医学]
+pseudoidia | skip:unknown
+pseudoileus | n.假性肠梗阻 [domain:医学]
+pseudoillusion | skip:unknown
+pseudoimage | skip:unknown
+pseudoindolyl | skip:unknown
+pseudoinfluenza | n.假性流感 [domain:医学]
+pseudoinstruction | skip:unknown
+pseudointegration | skip:unknown
+pseudoion | skip:unknown
+pseudoionone | skip:unknown
+pseudoisochromatic | adj.假同色的 [domain:医学]
+pseudoisomerism | skip:unknown
+pseudoisotope | skip:unknown
+pseudojaundice | n.假黄疸 [domain:医学]
+pseudojervine | skip:unknown
+pseudokeratin | n.假角蛋白 [domain:生物]
+pseudolabium | skip:unknown
+pseudolanthanide | skip:unknown
+pseudoleprosy | skip:unknown
+pseudoleucite | n.假白榴石 [domain:矿业]
+pseudoleukemia | n.假性白血病 [domain:医学]
+pseudoleukocythemia | skip:unknown
+pseudolimax | skip:unknown
+pseudolimit | skip:unknown
+pseudolinear | skip:unknown
+pseudolipemia | skip:unknown
+pseudolipoma | skip:unknown
+pseudolithiasis | skip:unknown
+pseudolobuli | skip:unknown
+pseudoloculus | skip:unknown
+pseudologist | n.说谎者
+pseudologue | skip:unknown
+pseudology | skip:unknown
+pseudolues | skip:unknown
+pseudolupus | skip:unknown
+pseudoluxation | skip:unknown
+pseudolycorine | skip:unknown
+pseudolymphocyte | skip:unknown
+pseudolymphoma | n.假性淋巴瘤 [domain:医学]
+pseudolynchia | skip:unknown
+pseudolyssa | skip:unknown
+pseudomalachite | n.假孔雀石 [domain:矿业]
+pseudomalady | skip:unknown
+pseudomalaria | n.假疟疾 [domain:医学]
+pseudomalignancy | skip:unknown
+pseudomamma | skip:unknown
+pseudomania | skip:unknown
+pseudomarine | skip:unknown
+pseudomatrix | skip:unknown
+pseudomedia | skip:unknown
+pseudomegacolon | n.假性巨结肠 [domain:医学]
+pseudomelanosis | n.假黑变病 [domain:医学]
+pseudomemory | skip:unknown
+pseudomeningitis | n.假性脑膜炎 [domain:医学]
+pseudomeningococcus | skip:unknown
+pseudomeninx | skip:unknown
+pseudomenstruation | n.假月经 [domain:医学]
+pseudomer | skip:unknown
+pseudomerism | skip:unknown
+pseudometamerism | skip:unknown
+pseudometaplasia | n.假性化生 [domain:医学]
+pseudomethemoglobin | skip:unknown
+pseudometric | n.伪度量 [domain:数学]
+pseudometrizable | adj.可伪度量化的 [domain:数学]
+pseudomicrite | skip:unknown
+pseudomicrosparite | skip:unknown
+pseudomictic | skip:unknown
+pseudomitosis | skip:unknown
+pseudomixis | skip:unknown
+pseudomnesia | n.虚构记忆 [domain:心理]
+pseudomonochromator | skip:unknown
+pseudomonocotyledon | skip:unknown
+pseudomonopodium | skip:unknown
+pseudomonotone | skip:unknown
+pseudomonotropic | skip:unknown
+pseudomonotropy | skip:unknown
+pseudomorphine | n.伪吗啡 [domain:化学]
+pseudomorphous | adj.假晶的 [domain:矿业]
+pseudomorphy | skip:unknown
+pseudomorula | skip:unknown
+pseudomotor | skip:unknown
+pseudomountain | skip:unknown
+pseudomucin | n.假粘蛋白 [domain:生物]
+pseudomucinous | adj.假粘液的 [domain:医学]
+pseudomultiplicative | skip:unknown
+pseudomutation | skip:unknown
+pseudomutuality | skip:unknown
+pseudomycelium | n.假菌丝体 [domain:生物]
+pseudomycete | skip:unknown
+pseudomycetoma | skip:unknown
+pseudomycorrhiza | skip:unknown
+pseudomyopia | n.假性近视 [domain:医学]
+pseudomyxoma | n.假黏液瘤 [domain:医学]
+pseudonarcotic | skip:unknown
+pseudonarcotism | skip:unknown
+pseudonavicella | skip:unknown
+pseudoneoplasm | n.假瘤 [domain:医学]
+pseudoneurasthenia | skip:unknown
+pseudoneuritis | n.假性神经炎 [domain:医学]
+pseudoneurium | skip:unknown
+pseudoneuroma | n.假神经瘤 [domain:医学]
+pseudoneuronophagia | skip:unknown
+pseudonitrol | skip:unknown
+pseudonitrole | skip:unknown
+pseudonitrosite | skip:unknown
+pseudonodule | n.假结节 [domain:医学]
+pseudonorm | n.伪范数 [domain:数学]
+pseudonotum | skip:unknown
+pseudonuclein | skip:unknown
+pseudonucleolus | skip:unknown
+pseudonucleus | skip:unknown
+pseudonymph | skip:unknown
+pseudonystagmus | n.假性眼球震颤 [domain:医学]
+pseudopapilledema | n.假性视乳头水肿 [domain:医学]
+pseudopapillitis | skip:unknown
+pseudoparalysis | n.假性麻痹 [domain:医学]
+pseudoparanoia | n.假性偏执狂 [domain:心理]
+pseudoparaphrasia | skip:unknown
+pseudoparaphyllium | skip:unknown
+pseudoparaphysis | skip:unknown
+pseudoparaplegia | skip:unknown
+pseudoparasite | n.假寄生物 [domain:医学]
+pseudoparasitism | skip:unknown
+pseudoparenchymatous | skip:unknown
+pseudoparesis | n.假性轻瘫 [domain:医学]
+pseudopearlite | skip:unknown
+pseudopederin | skip:unknown
+pseudopelade | n.假性斑秃 [domain:医学]
+pseudopellagra | n.假性糙皮病 [domain:医学]
+pseudopelletierine | n.假石榴碱 [domain:化学]
+pseudopepsin | skip:unknown
+pseudopeptone | skip:unknown
+pseudoperianth | skip:unknown
+pseudopericarditis | skip:unknown
+pseudoperidium | skip:unknown
+pseudoperipteral | adj.假围柱式的 [domain:建筑]
+pseudoperitonitis | skip:unknown
+pseudopetal | skip:unknown
+pseudophenocryst | skip:unknown
+pseudophimosis | skip:unknown
+pseudophlebitis | n.假性静脉炎 [domain:医学]
+pseudophlegmon | n.假性蜂窝织炎 [domain:医学]
+pseudophloem | skip:unknown
+pseudophotesthesia | skip:unknown
+pseudophotoesthesia | skip:unknown
+pseudophotograph | skip:unknown
+pseudophthisis | skip:unknown
+pseudophyllopodous | skip:unknown
+pseudoplacenta | skip:unknown
+pseudoplankton | n.假浮游生物 [domain:生物]
+pseudoplasmodium | n.假原质团 [domain:生物]
+pseudoplegia | n.假瘫 [domain:医学]
+pseudopleurogenous | skip:unknown
+pseudopneumococcus | skip:unknown
+pseudopneumonia | n.假性肺炎 [domain:医学]
+pseudopodiospore | skip:unknown
+pseudopolyembryony | skip:unknown
+pseudopolymelia | skip:unknown
+pseudopolyp | n.假息肉 [domain:医学]
+pseudopolyploid | skip:unknown
+pseudopolyploidy | skip:unknown
+pseudopore | skip:unknown
+pseudoporencephaly | skip:unknown
+pseudoporphyritic | skip:unknown
+pseudoprocess | skip:unknown
+pseudoproduct | skip:unknown
+pseudoprogram | skip:unknown
+pseudopromycelium | skip:unknown
+pseudoprosenchymatous | skip:unknown
+pseudoprostyle | skip:unknown
+pseudoprotein | skip:unknown
+pseudoproteinuria | n.假性蛋白尿 [domain:医学]
+pseudopsia | n.幻视 [domain:医学]
+pseudopterygium | n.假性翼状胬肉 [domain:医学]
+pseudoptosis | n.假性上睑下垂 [domain:医学]
+pseudoptyalism | skip:unknown
+pseudopulpitis | skip:unknown
+pseudopunctate | skip:unknown
+pseudopunicin | skip:unknown
+pseudopupa | skip:unknown
+pseudopurpurin | skip:unknown
+pseudopus | skip:unknown
+pseudopycnidium | skip:unknown
+pseudopyridoxine | skip:unknown
+pseudoraceme | skip:unknown
+pseudoracemic | skip:unknown
+pseudoraphe | skip:unknown
+pseudoreaction | skip:unknown
+pseudoreduction | skip:unknown
+pseudoreflex | skip:unknown
+pseudoreminiscence | skip:unknown
+pseudoreplica | skip:unknown
+pseudoreserpine | skip:unknown
+pseudoreticulate | skip:unknown
+pseudorexia | skip:unknown
+pseudorheumatism | skip:unknown
+pseudorhiza | n.假根 [domain:植物]
+pseudorhizomorph | skip:unknown
+pseudorhonchus | skip:unknown
+pseudorickets | n.假性佝偻病 [domain:医学]
+pseudorosette | skip:unknown
+pseudorotation | n.赝旋转 [domain:化学]
+pseudorubella | n.假风疹 [domain:医学]
+pseudosacrum | skip:unknown
+pseudosalt | skip:unknown
+pseudoscarlatina | n.假猩红热 [domain:医学]
+pseudoschistosity | skip:unknown
+pseudosclerema | skip:unknown
+pseudosclerosis | n.假性硬化 [domain:医学]
+pseudoscolex | skip:unknown
+pseudosculum | skip:unknown
+pseudoscutum | skip:unknown
+pseudosemifir | skip:unknown
+pseudoseptum | skip:unknown
+pseudosessile | skip:unknown
+pseudoseta | skip:unknown
+pseudosimilar | skip:unknown
+pseudoskeleton | skip:unknown
+pseudosmallpox | n.假天花 [domain:医学]
+pseudosmia | n.幻嗅 [domain:医学]
+pseudosolution | skip:unknown
+pseudosound | skip:unknown
+pseudospar | skip:unknown
+pseudosperm | skip:unknown
+pseudosphaeriaceous | skip:unknown
+pseudosphere | n.伪球面 [domain:数学]
+pseudosphresia | n.幻嗅 [domain:医学]
+pseudospiracle | skip:unknown
+pseudospondylium | skip:unknown
+pseudospore | skip:unknown
+pseudostable | skip:unknown
+pseudostationary | skip:unknown
+pseudosteel | skip:unknown
+pseudostele | skip:unknown
+pseudostereo | skip:unknown
+pseudosteres | skip:unknown
+pseudosternite | skip:unknown
+pseudostiole | skip:unknown
+pseudostipe | skip:unknown
+pseudostipule | skip:unknown
+pseudostoma | skip:unknown
+pseudostrabismus | n.假性斜视 [domain:医学]
+pseudostratification | skip:unknown
+pseudostreptomycin | skip:unknown
+pseudostroma | skip:unknown
+pseudostrophanthin | skip:unknown
+pseudostructure | skip:unknown
+pseudostrychnine | skip:unknown
+pseudostupor | skip:unknown
+pseudosulum | skip:unknown
+pseudosymmetry | skip:unknown
+pseudosyncline | skip:unknown
+pseudosyphilis | n.假梅毒 [domain:医学]
+pseudosyringomyelia | skip:unknown
+pseudotabes | n.假性脊髓痨 [domain:医学]
+pseudotanning | skip:unknown
+pseudotautomerism | skip:unknown
+pseudotensor | n.伪张量 [domain:数学]
+pseudoterminal | skip:unknown
+pseudotetanus | n.假破伤风 [domain:医学]
+pseudotetramera | skip:unknown
+pseudotetramerous | skip:unknown
+pseudotextoma | skip:unknown
+pseudothallus | skip:unknown
+pseudothecium | n.假囊壳 [domain:植物]
+pseudothorax | skip:unknown
+pseudothrill | skip:unknown
+pseudotinnitus | skip:unknown
+pseudotissue | skip:unknown
+pseudotitration | skip:unknown
+pseudotoxin | skip:unknown
+pseudotoxoplasmosis | skip:unknown
+pseudotrachea | n.假气管 [domain:动物]
+pseudotrachoma | skip:unknown
+pseudotrajectory | skip:unknown
+pseudotransonic | skip:unknown
+pseudotrichiniasis | skip:unknown
+pseudotrichinosis | skip:unknown
+pseudotrimerous | skip:unknown
+pseudotroglobiotic | skip:unknown
+pseudotropine | n.假托品 [domain:化学]
+pseudotubercle | n.假结核结节 [domain:医学]
+pseudotuberculoma | skip:unknown
+pseudotuberculum | skip:unknown
+pseudoturbinal | skip:unknown
+pseudotympanites | skip:unknown
+pseudotype | skip:unknown
+pseudotyphoid | n.假伤寒 [domain:医学]
+pseudotyphus | skip:unknown
+pseudoumbilical | skip:unknown
+pseudounconformity | skip:unknown
+pseudouridine | n.假尿苷 [domain:生物]
+pseudovacuole | skip:unknown
+pseudovaginismus | skip:unknown
+pseudovalve | skip:unknown
+pseudovariola | skip:unknown
+pseudovary | skip:unknown
+pseudovelum | skip:unknown
+pseudovermicule | skip:unknown
+pseudovirion | n.假病毒粒子 [domain:生物]
+pseudovitamin | skip:unknown
+pseudovitellus | skip:unknown
+pseudovitrinite | skip:unknown
+pseudovoice | skip:unknown
+pseudovolcano | n.假火山 [domain:地质]
+pseudovomiting | skip:unknown
+pseudovulcanizate | skip:unknown
+pseudovum | skip:unknown
+pseudowax | skip:unknown
+pseudowords | skip:not-lemma
+pseudoxanthine | skip:unknown
+pseudoxanthoma | n.假黄瘤 [domain:医学]
+pseudoyeast | n.假酵母 [domain:生物]
+pseudoyohimbine | skip:unknown
+pseudozoaea | skip:unknown
+pseudozooglea | skip:unknown
+psicaine | skip:unknown
+psiccfuranine | skip:unknown
+psicofuranine | skip:unknown
+psicose | n.阿洛酮糖 [domain:化学]
+psilanthropic | skip:unknown
+psilanthropist | skip:unknown
+psilanthropy | skip:unknown
+psilate | skip:unknown
+psilophytic | skip:unknown
+psilophyton | skip:not-english
+psilopsid | skip:unknown
+psilosis | skip:unknown
+psilothin | skip:unknown
+psilothron | skip:unknown
+psilotic | skip:unknown
+psittacinite | skip:unknown
+psittacosaur | n.鹦鹉嘴龙 [domain:动物]
+psittacosaurid | n.鹦鹉嘴龙科动物 [domain:动物]
+psoadotomy | skip:unknown
+psocopteran | n.啮虫 [domain:动物]
+psoitis | n.腰大肌炎 [domain:医学]
+psomophagia | skip:unknown
+psomophagic | skip:unknown
+psomophagy | skip:unknown
+psophometer | skip:unknown
+psopiasiform | skip:unknown
+psoralea | skip:not-english
+psoralidin | skip:unknown
+psoraline | skip:unknown
+psorelcosis | skip:unknown
+psorenteria | skip:unknown
+psorenteritis | skip:unknown
+psoriasic | adj.银屑病的 [domain:医学]
+psoriasin | skip:unknown
+psoric | skip:unknown
+psoris | skip:unknown
+psorocomium | skip:unknown
+psoroid | skip:unknown
+psorophthalmia | skip:unknown
+psorophthalmy | skip:unknown
+psorosis | skip:unknown
+psorosperm | skip:unknown
+psorospermial | skip:unknown
+psorospermic | skip:unknown
+psorospermisis | skip:unknown
+psorospermium | skip:unknown
+psorospermosis | skip:unknown
+psorous | skip:unknown
+psudoalloy | skip:junk
+psychagogia | skip:unknown
+psychagogic | skip:unknown
+psychagogy | skip:unknown
+psychal | skip:unknown
+psychalgalia | skip:unknown
+psychalgia | skip:unknown
+psychalia | skip:unknown
+psychanalysis | n.精神分析 [domain:心理]
+psychanopsia | skip:unknown
+psychasthene | n.精神衰弱者 [domain:心理]
+psychataxia | skip:unknown
+psychauditory | skip:unknown
+psychedelicatessen | skip:unknown
+psycheism | skip:unknown
+psychentonia | skip:unknown
+psychergograph | skip:unknown
+psychiary | skip:unknown
+psychiasis | skip:unknown
+psychinosis | skip:unknown
+psychlampsia | skip:unknown
+psychoalgalia | skip:unknown
+psychoanaleptic | skip:unknown
+psychoanalgesia | skip:unknown
+psychoauditory | skip:unknown
+psychobacillosis | skip:unknown
+psychobiochemistry | n.心理生物化学 [domain:心理]
+psychocatharsis | n.心理宣泄 [domain:心理]
+psychocentric | skip:unknown
+psychochemistry | skip:unknown
+psychochrome | skip:unknown
+psychochromesthesia | skip:unknown
+psychocinesia | skip:unknown
+psychocoma | skip:unknown
+psychocortical | skip:unknown
+psychocybernetics | n.心理控制论 [domain:心理]
+psychoda | skip:not-english
+psychodiagnosis | n.心理诊断 [domain:心理]
+psychodiagnostic | adj.心理诊断的 [domain:心理]
+psychodid | n.蛾蠓 [domain:动物]
+psychodometry | skip:unknown
+psychoeconomic | skip:unknown
+psychoelectrical | skip:unknown
+psychoendocrinology | n.心理内分泌学 [domain:医学]
+psychoenergetic | skip:unknown
+psychoenergetics | skip:unknown
+psychogalvanometer | skip:unknown
+psychogeneticist | skip:unknown
+psychogenia | skip:unknown
+psychogenous | adj.心因性的 [domain:心理]
+psychogeny | skip:unknown
+psychogeographer | skip:unknown
+psychogeusic | skip:unknown
+psychognosis | skip:unknown
+psychognostic | skip:unknown
+psychognosy | skip:unknown
+psychogogic | skip:unknown
+psychogony | skip:unknown
+psychogram | skip:unknown
+psychographically | skip:unknown
+psychographist | skip:unknown
+psychohydraulic | skip:unknown
+psychohydraulics | skip:unknown
+psychoid | skip:unknown
+psychoimmunology | n.心理免疫学 [domain:医学]
+psychokimesis | skip:unknown
+psychokinesia | skip:unknown
+psychokym | skip:unknown
+psycholepsy | skip:unknown
+psycholeptic | skip:unknown
+psycholytic | skip:unknown
+psychomancy | n.招魂术 [literary]
+psychomathematics | skip:unknown
+psychomotility | skip:unknown
+psychoneural | adj.心理神经的 [domain:心理]
+psychoneuroimmunologic | adj.心理神经免疫学的 [domain:医学]
+psychoneuroimmunological | adj.心理神经免疫学的 [domain:医学]
+psychoneurologic | skip:unknown
+psychoneurology | skip:unknown
+psychoneuropathology | skip:unknown
+psychonomics | skip:unknown
+psychonomy | skip:unknown
+psychonosema | skip:unknown
+psychonosis | skip:unknown
+psychoparesis | skip:unknown
+psychopathist | skip:unknown
+psychopathophobia | skip:unknown
+psychopathosis | skip:unknown
+psychopharmaceutical | n.精神药物 [domain:药学]
+psychophilae | skip:unknown
+psychophonasthenia | skip:unknown
+psychophonetics | skip:unknown
+psychophylaxis | skip:unknown
+psychopictorics | skip:unknown
+psychopictoris | skip:unknown
+psychoplasm | skip:unknown
+psychoplegia | skip:unknown
+psychoplegic | skip:unknown
+psychopneumatology | skip:unknown
+psychoprison | skip:unknown
+psychoquack | skip:unknown
+psychoreaction | skip:unknown
+psychorheology | skip:unknown
+psychorhythmia | skip:unknown
+psychorrhagia | skip:unknown
+psychorrhea | skip:unknown
+psychorrhexis | skip:unknown
+psychosedative | n.精神镇静剂 [domain:药学]
+psychosensorial | skip:unknown
+psychosin | skip:unknown
+psychosine | skip:unknown
+psychosociology | skip:unknown
+psychosomaticist | skip:unknown
+psychosomatograph | skip:unknown
+psychosomatry | skip:unknown
+psychosomimetic | skip:unknown
+psychospiritual | skip:unknown
+psychostomatology | skip:unknown
+psychotaxis | skip:unknown
+psychotechnics | n.心理技术学 [domain:心理]
+psychotechnology | skip:unknown
+psychotogen | skip:unknown
+psychotolytic | skip:unknown
+psychotonics | skip:unknown
+psychotrine | skip:unknown
+psychovisual | adj.心理视觉的 [domain:心理]
+psychralgia | skip:unknown
+psychrapostema | skip:unknown
+psychroalgia | skip:unknown
+psychrolusia | n.冷水浴 [domain:医学]
+psychrometrical | adj.湿度计的 [domain:气象]
+psychrometrically | adv.用湿度计地 [domain:气象]
+psychrophobia | n.恐冷症 [domain:心理]
+psychrophyte | n.适冷植物 [domain:植物]
+psychrotherapy | n.冷疗法 [domain:医学]
+psychrotolerant | adj.耐冷的 [domain:生物]
+psydracium | skip:unknown
+ptaquiloside | skip:unknown
+ptarmus | skip:unknown
+ptasmacule | skip:unknown
+ptelea | skip:not-english
+pteleorrhine | skip:unknown
+ptelia | skip:unknown
+pteralium | skip:unknown
+pteraspid | n.翼甲鱼 [domain:动物]
+pterergate | skip:unknown
+pteridine | n.蝶啶 [domain:化学]
+pteridoid | skip:unknown
+pteridotherophyte | skip:unknown
+pteridyl | skip:unknown
+pterigospermin | skip:unknown
+pterinophore | skip:unknown
+pternalgia | n.足跟痛 [domain:医学]
+pterobilin | skip:unknown
+pterobranchia | skip:not-english
+pterocarpin | n.紫檀素 [domain:化学]
+pterocarpine | n.紫檀素 [domain:化学]
+pterocarpous | adj.有翅果的 [domain:植物]
+pterocaulous | adj.有翅茎的 [domain:植物]
+pterographer | skip:unknown
+pteroid | skip:unknown
+pteromalid | n.金小蜂 [domain:动物]
+pteronarcid | n.大石蝇 [domain:动物]
+pteronura | skip:not-english
+pteropaedes | skip:unknown
+pteropleurite | skip:unknown
+pteropleuron | skip:unknown
+pteropoda | skip:not-english
+pteropodine | skip:unknown
+pteropodium | skip:unknown
+pteropodous | skip:unknown
+pteropogon | skip:unknown
+pteropsida | skip:not-english
+pteropterin | skip:unknown
+pterosauria | skip:not-english
+pterosin | skip:unknown
+pterospermous | adj.有翅种子的 [domain:植物]
+pterosterone | skip:unknown
+pterostilbene | n.紫檀芪 [domain:化学]
+pterotheca | skip:unknown
+pterothorax | n.翅胸 [domain:动物]
+pterotic | skip:unknown
+pteroyl | n.蝶酰 [domain:化学]
+pteroylglutamate | n.蝶酰谷氨酸 [domain:化学]
+pterygial | adj.胬肉的 [domain:医学]
+pterygiate | skip:unknown
+pterygiophore | n.鳍担骨 [domain:动物]
+pterygobranchiate | skip:unknown
+pterygoda | skip:unknown
+pterygode | skip:unknown
+pterygoideus | skip:unknown
+pterygomandibular | adj.翼突下颌的 [domain:解剖]
+pterygomaxillary | adj.翼突上颌的 [domain:解剖]
+pterygopharyngeus | skip:unknown
+pterygophore | skip:unknown
+pterygopodium | n.鳍脚 [domain:动物]
+pterygopolymorphosis | skip:unknown
+pterygopous | skip:unknown
+pterygoquadrate | skip:unknown
+pterygosomal | skip:unknown
+pterygospermin | skip:unknown
+pterygospermous | skip:unknown
+pterygospinosus | skip:unknown
+pterygostium | skip:unknown
+pterygotemporal | adj.翼突颞的 [domain:解剖]
+pterygotus | skip:not-english
+pteryla | skip:unknown
+pterylography | skip:unknown
+pterylology | skip:unknown
+pterylosis | skip:unknown
+pteryxin | skip:unknown
+ptilinum | n.额囊 [domain:动物]
+ptilolite | n.丝光沸石 [domain:矿业]
+ptiloma | skip:unknown
+ptilopod | skip:unknown
+ptilosis | skip:unknown
+ptinid | n.蛛甲 [domain:动物]
+ptochocracy | n.贫民统治 [domain:政治]
+ptoma | skip:unknown
+ptomainemia | n.尸碱血症 [domain:医学]
+ptomainotoxism | n.尸碱中毒 [domain:医学]
+ptomaintokism | n.尸碱中毒 [domain:医学]
+ptomatine | n.尸碱 [domain:化学]
+ptomatinuria | n.尸碱尿 [domain:医学]
+ptomatopsia | skip:unknown
+ptomatopsy | skip:unknown
+ptomatropine | skip:unknown
+ptosopagus | skip:unknown
+ptotic | adj.下垂的 [domain:医学]
+ptyalagogue | n.催涎剂 [domain:药学]
+ptyalase | skip:unknown
+ptyalectasis | skip:unknown
+ptyalinogen | n.唾液淀粉酶原 [domain:生物]
+ptyalith | n.唾石 [domain:医学]
+ptyalize | v.流涎 [domain:医学]
+ptyalocele | skip:unknown
+ptyalogenic | skip:unknown
+ptyalogoga | skip:unknown
+ptyalogogue | n.催涎剂 [domain:药学]
+ptyalography | n.涎管造影术 [domain:医学]
+ptyalolith | n.唾石 [domain:医学]
+ptyalolithiasis | n.唾石病 [domain:医学]
+ptyalolithotomy | n.唾石切除术 [domain:医学]
+ptyaloreaction | skip:unknown
+ptyalorrhea | n.流涎 [domain:医学]
+ptyalose | skip:unknown
+ptyalosis | skip:unknown
+ptychoderid | skip:unknown
+ptychodont | skip:unknown
+ptychopterygium | skip:unknown
+ptychotreme | skip:unknown
+ptygma | skip:unknown
+ptyocrinous | skip:unknown
+ptyophagous | skip:unknown
+ptyosome | skip:unknown
+ptysis | skip:unknown
+ptysma | skip:unknown
+ptysmagogue | skip:unknown
+ptyxis | n.叶芽卷叠式 [domain:植物]
+pubcaster | skip:unknown
+puber | skip:unknown
+puberulin | skip:unknown
+puberulose | skip:unknown
+pubescine | skip:unknown
+pubigerous | skip:unknown
+pubioplasty | n.耻骨成形术 [domain:医学]
+pubiotomy | n.耻骨切开术 [domain:医学]
+publiciser | n.宣传者 [uk]
+publishment | n.公布, 出版 [dated]
+pubocapsular | adj.耻骨关节囊的 [domain:解剖]
+pubococcygeal | adj.耻骨尾骨的 [domain:解剖]
+pubofemoral | adj.耻骨股骨的 [domain:解剖]
+puboprostatic | adj.耻骨前列腺的 [domain:解剖]
+puborectalis | n.耻骨直肠肌 [domain:解剖]
+pubotibial | skip:unknown
+pubovesical | adj.耻骨膀胱的 [domain:解剖]
+pubovesicalis | skip:unknown
+puccin | skip:unknown
+pucellas | skip:unknown
+pucherite | n.钒铋矿 [domain:矿业]
+puckball | skip:unknown
+puckerer | n.使起皱者
+puckfist | skip:unknown
+pucklike | skip:unknown
+puddening | n.船缆衬垫 [domain:航海]
+puddingheaded | adj.愚笨的 [informal]
+puddingwife | skip:unknown
+puddingy | adj.布丁般的
+puddly | adj.多水坑的
+puddock | skip:unknown
+pudend | n.外阴 [domain:解剖]
+pudendagra | n.外阴痛 [domain:医学]
+pudsy | adj.矮胖的 [informal]
+puerarin | n.葛根素 [domain:药学]
+puericulturist | n.育儿专家 [formal]
+puerpera | n.产妇 [domain:医学]
+puerperalism | skip:unknown
+puerperant | n.产妇 [domain:医学]
+puerperous | adj.产褥期的 [domain:医学]
+puffingly | adv.喘息地
+puffstone | skip:unknown
+pugged | skip:unknown
+pugger | skip:unknown
+pugil | n.一小撮 [dated]
+pugioniform | adj.匕首形的 [domain:生物]
+puglianite | skip:unknown
+puissantness | n.强大 [literary]
+pukatea | skip:unknown
+pukateine | skip:unknown
+puky | adj.想吐的 [informal]
+pulanomycin | skip:unknown
+pulasan | skip:unknown
+pulassan | skip:unknown
+pulchellin | skip:unknown
+pulcherrimin | skip:unknown
+pulegene | skip:unknown
+pulegenone | skip:unknown
+pulegol | skip:unknown
+pulegone | n.胡薄荷酮 [domain:化学]
+pulenene | skip:unknown
+pulicicide | n.杀蚤剂 [domain:农业]
+pulicid | n.蚤 [domain:动物]
+pulicide | n.杀蚤剂 [domain:农业]
+pulicosis | skip:unknown
+pulik | skip:unknown
+pulka | skip:unknown
+pullate | skip:unknown
+pullboat | skip:unknown
+pullbutton | skip:unknown
+pulldevil | skip:unknown
+pullicat | skip:unknown
+pullicate | skip:unknown
+pullorin | skip:unknown
+pullrake | skip:unknown
+pullshovel | skip:unknown
+pullulanase | n.支链淀粉酶 [domain:生物]
+pulmocutaneous | adj.肺皮的 [domain:医学]
+pulmolith | n.肺石 [domain:医学]
+pulmometer | n.肺活量计 [domain:医学]
+pulmometry | n.肺量测定法 [domain:医学]
+pulmonal | adj.肺的 [domain:医学]
+pulmonarium | skip:unknown
+pulmonated | adj.有肺的 [domain:动物]
+pulmonectomy | n.肺切除术 [domain:医学]
+pulmonitis | n.肺炎 [domain:医学]
+pulmonohepatic | adj.肺肝的 [domain:医学]
+pulmonoperitoneal | skip:unknown
+pulpalgia | n.牙髓痛 [domain:医学]
+pulpally | skip:unknown
+pulpar | adj.髓的 [domain:医学]
+pulpation | skip:unknown
+pulpboard | n.纸浆板 [domain:印刷]
+pulpectomy | n.牙髓切除术 [domain:医学]
+pulpefaction | skip:unknown
+pulperia | skip:unknown
+pulpiform | skip:unknown
+pulpify | v.使成浆状
+pulpited | skip:unknown
+pulpiter | skip:unknown
+pulpitry | skip:unknown
+pulpless | adj.无果肉的
+pulpoaxial | skip:unknown
+pulpodistal | skip:unknown
+pulpodontia | skip:unknown
+pulpolabial | skip:unknown
+pulpolingual | skip:unknown
+pulpomesial | skip:unknown
+pulpous | adj.果肉状的
+pulpstone | skip:unknown
+pulsant | adj.跳动的 [formal]
+pulsative | adj.跳动的
+pulscope | skip:unknown
+pulseclock | skip:unknown
+pulsewidth | n.脉冲宽度 [domain:电子]
+pulsilogram | skip:unknown
+pulsimeter | n.脉搏计 [domain:医学]
+pulsive | skip:unknown
+pulszkyite | skip:unknown
+pulverability | n.可粉碎性
+pulveraceous | adj.粉状的
+pulverant | skip:unknown
+pulverator | n.粉碎机
+pulverescent | adj.成粉状的
+pulverin | skip:unknown
+pulverizator | n.粉碎机
+pulverous | adj.粉状的
+pulverulite | skip:unknown
+pulvilliform | adj.垫状的 [domain:动物]
+pulvimixer | n.粉碎搅拌机 [domain:机械]
+pulvinated | adj.垫状的 [domain:植物]
+pulvinoid | skip:unknown
+pulvinulus | skip:unknown
+pulwar | skip:unknown
+pumex | skip:not-english
+pumicate | v.用浮石磨光
+pumilin | skip:unknown
+pumpability | n.可泵送性
+pumpback | skip:unknown
+pumpcrete | n.泵送混凝土 [domain:建筑]
+pumpdown | skip:unknown
+pumpellyite | n.绿纤石 [domain:矿业]
+pumpman | n.泵工
+punarnavine | skip:unknown
+punchayet | skip:unknown
+puncherless | skip:unknown
+punchings | skip:not-lemma
+punchless | adj.没劲的
+punchthrough | n.穿通 [domain:电子]
+puncticulum | skip:unknown
+punctograph | skip:unknown
+punctuational | adj.标点的
+punctuative | adj.标点的
+punctulated | adj.有小点的 [domain:生物]
+punctumeter | skip:unknown
+punctural | skip:unknown
+puncturation | skip:unknown
+punctureless | adj.不会刺破的
+pungi | n.蛇笛 [domain:音乐]
+pungle | v.付钱 [us,slang]
+punicine | skip:unknown
+punitism | skip:unknown
+punitorily | skip:unknown
+punkey | skip:unknown
+punktograph | skip:unknown
+punnai | skip:unknown
+punner | skip:unknown
+puntee | skip:unknown
+pupiform | adj.蛹形的 [domain:动物]
+pupigerous | adj.带蛹的 [domain:动物]
+pupilarity | skip:unknown
+pupilise | skip:unknown
+pupilize | skip:unknown
+pupilla | skip:unknown
+pupillarity | skip:unknown
+pupillate | skip:unknown
+pupillatonia | skip:unknown
+pupilless | adj.无瞳孔的 [domain:医学]
+pupillise | skip:unknown
+pupillize | skip:unknown
+pupillogram | n.瞳孔描记图 [domain:医学]
+pupillography | n.瞳孔描记法 [domain:医学]
+pupillomotor | adj.瞳孔运动的 [domain:医学]
+pupilloplegia | n.瞳孔麻痹 [domain:医学]
+pupilloscope | n.瞳孔镜 [domain:医学]
+pupilloscopy | n.瞳孔镜检查 [domain:医学]
+pupillostatometer | skip:unknown
+pupillotonia | n.瞳孔紧张 [domain:医学]
+pupillotonic | adj.瞳孔紧张的 [domain:医学]
+pupilometer | n.瞳孔计 [domain:医学]
+pupinization | skip:unknown
+pupiparid | skip:unknown
+pupivoprous | skip:unknown
+pupivorous | adj.食蛹的 [domain:动物]
+puppetize | v.使成傀儡
+puppetlike | adj.傀儡般的
+puppied | skip:unknown
+puppydom | skip:unknown
+purau | skip:unknown
+purchaseless | skip:unknown
+purdonium | skip:unknown
+purgatin | skip:unknown
+purgatol | skip:unknown
+purgee | n.被清除者
+purificant | n.净化剂
+puriform | adj.脓样的 [domain:医学]
+purimethamine | skip:unknown
+purimidyl | skip:unknown
+purinase | skip:unknown
+purinemia | n.嘌呤血症 [domain:医学]
+purinemic | adj.嘌呤血症的 [domain:医学]
+purinolytic | skip:unknown
+purinometer | skip:unknown
+purinone | skip:unknown
+puriri | skip:unknown
+puristical | adj.语言纯正主义的
+purite | skip:unknown
+purithiamine | skip:unknown
+purler | skip:unknown
+purloinment | skip:unknown
+purpletop | skip:unknown
+purportless | adj.无意义的
+purpurate | n.紫尿酸盐 [domain:化学]
+purpureaglycoside | skip:unknown
+purpureal | skip:unknown
+purpureous | adj.紫色的 [literary]
+purpurescent | adj.略带紫色的
+purpuriferous | skip:unknown
+purpurigenous | skip:unknown
+purpurinuria | skip:unknown
+purpuriparous | skip:unknown
+purpurite | n.磷铁锰矿 [domain:矿业]
+purpurogallin | n.红棓酚 [domain:化学]
+purpurogenone | skip:unknown
+purpurogenous | skip:unknown
+purpuromycin | skip:unknown
+purpuroxanthene | skip:unknown
+purpuroxanthin | skip:unknown
+purree | skip:unknown
+purrocoline | skip:unknown
+purrolobenzoazepine | skip:unknown
+purroloquinoline | skip:unknown
+purrone | skip:unknown
+purselike | adj.钱包似的
+purserette | n.女事务长 [domain:航海]
+purshianin | skip:unknown
+pursual | n.追赶 [dated]
+puruloid | adj.脓样的 [domain:医学]
+purupuru | skip:unknown
+puseyistic | skip:unknown
+pushboat | skip:unknown
+pushdozer | skip:unknown
+pushmobile | skip:unknown
+pushrake | skip:unknown
+pusley | n.马齿苋 [domain:植物]
+pussly | n.马齿苋 [domain:植物]
+pustuled | adj.有脓疱的 [domain:医学]
+pustuliform | adj.脓疱状的 [domain:医学]
+pustulocrustaceous | skip:unknown
+pustuloderma | skip:unknown
+pustulorustaceous | skip:unknown
+pustulosis | n.脓疱病 [domain:医学]
+pustuloulcerating | skip:unknown
+pustulum | skip:unknown
+puteal | skip:unknown
+putid | adj.腐臭的 [dated]
+putidaredoxin | skip:unknown
+putlock | skip:unknown
+putoranite | skip:unknown
+putrilaginous | skip:unknown
+putrine | skip:unknown
+putromaine | skip:unknown
+putschism | n.政变主义 [domain:政治]
+puumala | skip:unknown
+puzzledom | n.困惑状态
+puzzlist | n.爱解谜者
+puzzolan | n.火山灰 [domain:建筑]
+pyaemic | adj.脓血症的 [domain:医学]
+pyarthrus | n.关节积脓 [domain:医学]
+pycnidial | adj.分生孢子器的 [domain:植物]
+pycnidiospore | n.分生孢子 [domain:植物]
+pycniospore | n.性孢子 [domain:植物]
+pycnite | n.柱黄玉 [domain:矿业]
+pycnium | n.性孢子器 [domain:植物]
+pycnocephalous | skip:unknown

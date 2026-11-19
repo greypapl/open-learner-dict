@@ -1,0 +1,1000 @@
+perfluoroamine | skip:unknown
+perfluorocyclobutane | n.全氟环丁烷 [domain:化学]
+perfluorocyclopropane | n.全氟环丙烷 [domain:化学]
+perfluorodecalin | n.全氟萘烷 [domain:化学]
+perfluorodimethylcyclohexane | skip:unknown
+perfluoroethylene | n.四氟乙烯 [domain:化学]
+perfluorohydrocarbon | n.全氟烃 [domain:化学]
+perfluoroisobutylene | n.全氟异丁烯 [domain:化学]
+perfluoroparaffin | n.全氟烷烃 [domain:化学]
+perfluoropropane | n.全氟丙烷 [domain:化学]
+perfluoropropylene | n.全氟丙烯 [domain:化学]
+perfluorotributylamine | n.全氟三丁胺 [domain:化学]
+perfluorotripropylamine | n.全氟三丙胺 [domain:化学]
+perforatorium | n.顶体 [domain:生物]
+perfusive | adj.灌注的 [domain:医学]
+pergamenous | adj.羊皮纸似的
+pergamentaceous | adj.羊皮纸似的
+pergonal | skip:proper-out-of-scope
+perhafnate | skip:unknown
+perhalide | skip:unknown
+perhalogenomethane | skip:unknown
+perhapsatron | skip:unknown
+perhexiline | n.哌克昔林 [domain:药学]
+perhydrate | skip:unknown
+perhydridase | skip:unknown
+perhydride | skip:unknown
+perhydroanthracene | n.全氢蒽 [domain:化学]
+perhydrocyclopentanophenanthrene | skip:unknown
+perhydrogenate | v.全氢化 [domain:化学]
+perhydrophenanthrene | n.全氢菲 [domain:化学]
+periacinal | skip:unknown
+periadenitis | n.腺周炎 [domain:医学]
+periadventitial | skip:unknown
+periamygdalitis | n.扁桃体周炎 [domain:医学]
+periangiitis | n.血管周炎 [domain:医学]
+periangiocholitis | skip:unknown
+periangioma | skip:unknown
+perianthial | adj.花被的 [domain:植物]
+perianthopodin | skip:unknown
+periaortic | adj.主动脉周围的 [domain:解剖]
+periaortitis | n.主动脉周炎 [domain:医学]
+periappendicitis | n.阑尾周炎 [domain:医学]
+periappendicular | adj.阑尾周围的 [domain:解剖]
+periarterial | adj.动脉周围的 [domain:解剖]
+periarthric | adj.关节周围的 [domain:解剖]
+periastral | skip:unknown
+periatrial | adj.心房周围的 [domain:解剖]
+periauricular | adj.耳周的 [domain:解剖]
+periaxial | adj.轴周的 [domain:解剖]
+periaxillary | adj.腋周的 [domain:解剖]
+periaxonal | adj.轴突周围的 [domain:解剖]
+periblast | n.胚周层 [domain:生物]
+periblastula | skip:unknown
+periblepsis | skip:unknown
+peribole | skip:unknown
+peribolos | skip:unknown
+peribolus | skip:unknown
+peribranchial | adj.鳃周的 [domain:动物]
+peribronchial | adj.支气管周围的 [domain:解剖]
+peribronchiolar | adj.细支气管周围的 [domain:解剖]
+peribronchiolitis | n.细支气管周炎 [domain:医学]
+peribronchitis | n.支气管周炎 [domain:医学]
+peribuccal | adj.口周的 [domain:解剖]
+peribulbar | adj.球周的 [domain:解剖]
+peribursai | skip:unknown
+pericaecal | adj.盲肠周围的 [domain:解剖]
+pericaecitis | n.盲肠周炎 [domain:医学]
+pericambium | skip:unknown
+pericanalicular | skip:unknown
+pericapillary | adj.毛细血管周围的 [domain:解剖]
+pericapsular | adj.囊周的 [domain:解剖]
+pericardectomy | n.心包切除术 [domain:医学]
+pericardiac | adj.心包的 [domain:解剖]
+pericardicentesis | n.心包穿刺术 [domain:医学]
+pericardiolysis | n.心包松解术 [domain:医学]
+pericardiomediastinitis | skip:unknown
+pericardiophrenic | adj.心包膈的 [domain:解剖]
+pericardiopleural | skip:unknown
+pericardiopunctura | skip:unknown
+pericardiopuncture | n.心包穿刺术 [domain:医学]
+pericardiorrhaphy | n.心包缝合术 [domain:医学]
+pericardiostomy | n.心包造口术 [domain:医学]
+pericardiosymphysis | n.心包粘连 [domain:医学]
+pericardiotomy | n.心包切开术 [domain:医学]
+pericarditic | adj.心包炎的 [domain:医学]
+pericardosis | skip:unknown
+pericardotomy | n.心包切开术 [domain:医学]
+pericarpal | adj.果皮的 [domain:植物]
+pericarpial | adj.果皮的 [domain:植物]
+pericarpic | adj.果皮的 [domain:植物]
+pericarpium | skip:not-english
+pericaryon | n.核周质 [domain:生物]
+pericecal | adj.盲肠周围的 [domain:解剖]
+pericecitis | n.盲肠周炎 [domain:医学]
+pericementitis | n.牙周膜炎 [domain:医学]
+pericementoclasia | skip:unknown
+pericephalic | skip:unknown
+pericerebral | adj.大脑周围的 [domain:解剖]
+perichaetine | skip:unknown
+perichaetium | n.雌苞叶 [domain:植物]
+pericholangitis | n.胆管周炎 [domain:医学]
+pericholecystic | adj.胆囊周围的 [domain:解剖]
+pericholecystitis | n.胆囊周炎 [domain:医学]
+perichondral | adj.软骨膜的 [domain:解剖]
+perichondrial | adj.软骨膜的 [domain:解剖]
+perichondritic | adj.软骨膜炎的 [domain:医学]
+perichondritis | n.软骨膜炎 [domain:医学]
+perichondroma | skip:unknown
+perichord | skip:unknown
+perichordal | adj.脊索周围的 [domain:解剖]
+perichoretic | skip:unknown
+perichorioidal | adj.脉络膜周围的 [domain:解剖]
+perichoroid | skip:unknown
+perichoroidal | adj.脉络膜周围的 [domain:解剖]
+perichrome | skip:unknown
+periclasite | n.方镁石 [domain:地质]
+periclaustral | skip:unknown
+pericline | n.肖钠长石 [domain:地质]
+periclinium | skip:unknown
+pericolic | adj.结肠周围的 [domain:解剖]
+pericolitis | n.结肠周炎 [domain:医学]
+pericolonitis | n.结肠周炎 [domain:医学]
+pericolpitis | n.阴道周炎 [domain:医学]
+periconchal | skip:unknown
+periconchitis | skip:unknown
+pericorneal | adj.角膜周围的 [domain:解剖]
+pericoronal | adj.冠周的 [domain:解剖]
+pericoronitis | n.冠周炎 [domain:医学]
+pericowperitis | skip:unknown
+pericoxitis | n.髋周炎 [domain:医学]
+pericranitis | n.颅骨膜炎 [domain:医学]
+pericyazine | skip:unknown
+pericycloid | skip:unknown
+pericystic | adj.囊周的 [domain:解剖]
+pericystitis | n.膀胱周炎 [domain:医学]
+pericystium | skip:unknown
+pericytial | skip:unknown
+pericytoma | skip:unknown
+peridectomy | skip:unknown
+perideferentitis | skip:unknown
+peridendritic | adj.树突周围的 [domain:解剖]
+peridental | adj.牙周的 [domain:解剖]
+peridentitis | n.牙周炎 [domain:医学]
+peridentium | n.牙周组织 [domain:解剖]
+peridentoclasia | skip:unknown
+peridermal | adj.周皮的 [domain:植物]
+peridermioid | skip:unknown
+peridermium | skip:unknown
+peridesmic | skip:unknown
+peridesmitis | skip:unknown
+peridesmium | skip:unknown
+peridiastole | skip:unknown
+peridiastolic | skip:unknown
+perididymis | skip:unknown
+perididymitis | n.睾丸鞘膜炎 [domain:医学]
+peridinean | adj.甲藻的 [domain:生物]
+peridinin | n.甲藻素 [domain:化学]
+peridiole | skip:unknown
+peridiolum | skip:unknown
+peridiverticulitis | n.憩室周炎 [domain:医学]
+periductal | adj.导管周围的 [domain:解剖]
+periductile | skip:unknown
+periduodenitis | n.十二指肠周炎 [domain:医学]
+peridurogram | skip:unknown
+peridurography | skip:unknown
+periencephalitis | skip:unknown
+periencephalography | skip:unknown
+periencephalomeningitis | skip:unknown
+periendothelioma | skip:unknown
+perienteric | adj.肠周的 [domain:解剖]
+perienteritis | n.肠周炎 [domain:医学]
+perienteron | skip:unknown
+periependymal | adj.室管膜周的 [domain:解剖]
+periepithelioma | skip:unknown
+periesophageal | adj.食管周围的 [domain:解剖]
+periesophagitis | n.食管周炎 [domain:医学]
+perifocal | adj.病灶周围的 [domain:医学]
+perifocus | skip:unknown
+perifollicular | adj.滤泡周围的 [domain:解剖]
+perifolliculitis | n.毛囊周炎 [domain:医学]
+perigalacticum | skip:unknown
+perigangliitis | n.神经节周炎 [domain:医学]
+periganglionic | adj.神经节周围的 [domain:解剖]
+perigastric | adj.胃周的 [domain:解剖]
+perigastritis | n.胃周炎 [domain:医学]
+perigemmal | skip:unknown
+perigeum | n.近地点 [domain:天文]
+periglandular | adj.腺周的 [domain:解剖]
+periglandulitis | skip:unknown
+periglial | skip:unknown
+periglossitis | skip:unknown
+periglottic | skip:unknown
+periglottis | skip:unknown
+perignathic | skip:unknown
+perigon | n.周角 [domain:数学]
+perigonal | adj.花被的 [domain:植物]
+perigone | n.花被 [domain:植物]
+perigonium | n.花被 [domain:植物]
+perigraph | skip:unknown
+perigraphic | skip:unknown
+perigynium | n.果囊 [domain:植物]
+perihaemal | skip:unknown
+perihepatic | adj.肝周的 [domain:解剖]
+perihepatitis | n.肝周炎 [domain:医学]
+perihernial | skip:unknown
+perihilar | adj.肺门周围的 [domain:解剖]
+perihysteric | skip:unknown
+perijejunitis | n.空肠周炎 [domain:医学]
+perikaryal | adj.核周质的 [domain:生物]
+perikinetic | skip:unknown
+perilabyrinth | skip:unknown
+perilabyrinthitis | skip:unknown
+perilaryngeal | adj.喉周的 [domain:解剖]
+perilaryngitis | n.喉周炎 [domain:医学]
+perilenticular | adj.晶状体周围的 [domain:解剖]
+periligamentous | adj.韧带周围的 [domain:解剖]
+perillaldehyde | n.紫苏醛 [domain:化学]
+perilobar | adj.叶周的 [domain:解剖]
+perilobulitis | skip:unknown
+perilympha | skip:unknown
+perilymphadenitis | skip:unknown
+perilymphangeal | skip:unknown
+perilymphangial | skip:unknown
+perilymphangitis | n.淋巴管周炎 [domain:医学]
+perilymphatic | skip:unknown
+perimagmatic | skip:unknown
+perimartian | skip:unknown
+perimastitis | skip:unknown
+perimedullary | adj.髓周的 [domain:解剖]
+perimeningitis | skip:unknown
+perimercurian | skip:unknown
+perimethazine | skip:unknown
+perimetrist | skip:unknown
+perimetritic | adj.子宫周炎的 [domain:医学]
+perimetritis | n.子宫周炎 [domain:医学]
+perimetrium | n.子宫外膜 [domain:解剖]
+perimetrosalpingitis | skip:unknown
+perimidine | skip:unknown
+perimidinyl | skip:unknown
+perimidyl | skip:unknown
+perimorph | skip:unknown
+perimycin | skip:unknown
+perimyelis | skip:unknown
+perimyelitis | skip:unknown
+perimyelography | skip:unknown
+perimyocarditis | n.心肌心包炎 [domain:医学]
+perimyositis | n.肌周炎 [domain:医学]
+perimysial | adj.肌束膜的 [domain:解剖]
+perimysiitis | n.肌束膜炎 [domain:医学]
+perimysitis | n.肌束膜炎 [domain:医学]
+perinaeum | n.会阴 [domain:解剖]
+perinaphthene | skip:unknown
+perinaphthenone | skip:unknown
+perinaphthodiazine | skip:unknown
+perinasal | adj.鼻周的 [domain:解剖]
+perinde | skip:not-english
+perineauxesis | skip:unknown
+perineoanoplasty | skip:unknown
+perineocele | n.会阴疝 [domain:医学]
+perineocolporectomyomectomy | skip:unknown
+perineometer | skip:unknown
+perineoplasty | n.会阴成形术 [domain:医学]
+perineoscrotal | adj.会阴阴囊的 [domain:解剖]
+perineostomy | n.会阴造口术 [domain:医学]
+perineosynthesis | skip:unknown
+perineotomy | n.会阴切开术 [domain:医学]
+perineovaginal | adj.会阴阴道的 [domain:解剖]
+perineovaginorectal | skip:unknown
+perineovulvar | adj.会阴外阴的 [domain:解剖]
+perinephrial | adj.肾周的 [domain:解剖]
+perinephritic | adj.肾周炎的 [domain:医学]
+perinephritis | n.肾周炎 [domain:医学]
+perinephrium | skip:unknown
+perinephros | skip:unknown
+perineurial | adj.神经束膜的 [domain:解剖]
+perineuritic | adj.神经束膜炎的 [domain:医学]
+perineuritis | n.神经束膜炎 [domain:医学]
+perinucleolar | adj.核仁周围的 [domain:生物]
+periodates | skip:not-lemma
+periodide | skip:unknown
+periodism | skip:unknown
+periodmeter | skip:unknown
+periodograph | skip:unknown
+periodometer | skip:unknown
+periodontoclasia | n.牙周病 [domain:医学]
+periodontopathy | n.牙周病 [domain:医学]
+periodontosis | n.牙周病 [domain:医学]
+periodoscope | skip:unknown
+periodyl | skip:unknown
+periodynia | skip:unknown
+perionychia | n.甲沟炎 [domain:医学]
+perionychium | n.甲周组织 [domain:解剖]
+perionyx | skip:unknown
+perionyxis | skip:unknown
+perioophoritis | n.卵巢周炎 [domain:医学]
+perioophorosalpingitis | skip:unknown
+perioothecitis | skip:unknown
+perioothecosalpingitis | skip:unknown
+periophthalmic | adj.眼周的 [domain:解剖]
+periophthalmitis | n.眼周炎 [domain:医学]
+periople | n.蹄缘角质 [domain:动物]
+perioptometry | skip:unknown
+periorbit | n.眶骨膜 [domain:解剖]
+periorbita | n.眶骨膜 [domain:解剖]
+periorbititis | n.眶骨膜炎 [domain:医学]
+periorchitis | n.睾丸鞘膜炎 [domain:医学]
+periorchium | n.睾丸鞘膜 [domain:解剖]
+periost | n.骨膜 [domain:解剖]
+periosteitis | n.骨膜炎 [domain:医学]
+periosteodema | skip:unknown
+periosteolysis | skip:unknown
+periosteoma | n.骨膜瘤 [domain:医学]
+periosteomedullitis | skip:unknown
+periosteomyelitis | n.骨膜骨髓炎 [domain:医学]
+periosteopathy | skip:unknown
+periosteophyte | skip:unknown
+periosteophyton | skip:unknown
+periosteorrhaphy | n.骨膜缝合术 [domain:医学]
+periosteosis | skip:unknown
+periosteotome | n.骨膜刀 [domain:医学]
+periosteotomy | n.骨膜切开术 [domain:医学]
+periosteous | adj.骨膜的 [domain:解剖]
+periostitic | adj.骨膜炎的 [domain:医学]
+periostoma | skip:unknown
+periostomedullitis | skip:unknown
+periostosis | skip:unknown
+periostotome | n.骨膜刀 [domain:医学]
+periostotomy | n.骨膜切开术 [domain:医学]
+periovular | adj.卵周的 [domain:生物]
+peripachymeningitis | skip:unknown
+peripancreatic | adj.胰周的 [domain:解剖]
+peripancreatitis | n.胰周炎 [domain:医学]
+peripapillary | adj.乳头周围的 [domain:解剖]
+peripatellar | adj.髌周的 [domain:解剖]
+peripenial | skip:unknown
+peripericarditis | skip:unknown
+peripetalous | adj.围绕花瓣的 [domain:植物]
+periphakitis | skip:unknown
+periphakus | skip:unknown
+peripharyngeal | adj.咽周的 [domain:解剖]
+peripherad | skip:unknown
+peripheralist | skip:unknown
+peripheric | adj.周边的
+peripherine | skip:unknown
+peripherocentral | skip:unknown
+peripheroceptor | skip:unknown
+peripheroneural | skip:unknown
+periphlebitic | adj.静脉周炎的 [domain:医学]
+periphlebitis | n.静脉周炎 [domain:医学]
+periphonic | skip:unknown
+periphrenitis | skip:unknown
+periphysis | n.侧丝 [domain:植物]
+periphytic | skip:unknown
+periplanatic | skip:unknown
+periplasmodium | skip:unknown
+periplastic | skip:unknown
+peripleural | adj.胸膜周围的 [domain:解剖]
+peripleuritis | skip:unknown
+periplocin | n.杠柳苷 [domain:药学]
+periplocymarin | skip:unknown
+periplogenin | skip:unknown
+peripneumonia | n.肺炎 [dated,domain:医学]
+peripneumonitis | n.肺炎 [dated,domain:医学]
+peripneustic | skip:unknown
+peripodal | skip:unknown
+peripolar | adj.极周的
+peripolesis | skip:unknown
+periporate | adj.周孔的 [domain:植物]
+periportal | adj.门静脉周围的 [domain:解剖]
+periproct | n.肛周区 [domain:动物]
+periproctic | skip:unknown
+periproctitis | n.直肠周炎 [domain:医学]
+periprostatic | adj.前列腺周围的 [domain:解剖]
+periprostatitis | n.前列腺周炎 [domain:医学]
+peripteroi | skip:not-lemma
+peripteros | n.围柱式建筑 [domain:建筑]
+peripterous | skip:unknown
+periptery | skip:unknown
+peripuncture | skip:unknown
+peripyema | skip:unknown
+peripylephlebitis | n.门静脉周炎 [domain:医学]
+peripylic | skip:unknown
+peripyloric | adj.幽门周围的 [domain:解剖]
+periradicular | adj.根周的 [domain:解剖]
+perirectal | adj.直肠周围的 [domain:解剖]
+perirectitis | n.直肠周炎 [domain:医学]
+perirenal | adj.肾周的 [domain:解剖]
+perirhizoclasia | skip:unknown
+perisaccate | skip:unknown
+perisalpingitis | n.输卵管周炎 [domain:医学]
+perisalpinx | skip:unknown
+periscii | skip:not-lemma
+perisclerium | skip:unknown
+periselen | skip:unknown
+periselene | n.近月点 [domain:天文]
+periselenium | n.近月点 [domain:天文]
+perisigmoiditis | n.乙状结肠周炎 [domain:医学]
+perisinuitis | skip:unknown
+perisinuous | skip:unknown
+perisinusitis | n.窦周炎 [domain:医学]
+perisoma | skip:unknown
+perisomal | skip:unknown
+perisome | skip:unknown
+perispermatitis | skip:unknown
+perisplanchnic | skip:unknown
+perisplanchnitis | skip:unknown
+perisplenic | adj.脾周的 [domain:解剖]
+perisplenitis | n.脾周炎 [domain:医学]
+perispomena | skip:unknown
+perispomenon | skip:unknown
+perispondylic | skip:unknown
+perispondylitis | n.椎骨周炎 [domain:医学]
+perisporangiate | skip:unknown
+perispore | n.周壁 [domain:植物]
+perisporinium | skip:unknown
+perisporium | n.周壁 [domain:植物]
+perissad | n.奇价元素 [domain:化学]
+perissodactylate | skip:unknown
+perissodactyle | n.奇蹄动物 [domain:动物]
+perissodactylism | skip:unknown
+perissodactylous | adj.奇蹄的 [domain:动物]
+peristalith | n.环列巨石 [domain:历史]
+peristaltin | skip:unknown
+peristaphyline | skip:unknown
+peristaphylitis | skip:unknown
+peristase | skip:unknown
+peristasis | skip:unknown
+peristele | skip:unknown
+peristerite | skip:unknown
+peristole | skip:unknown
+peristolic | skip:unknown
+peristoma | n.口周 [domain:动物]
+peristomal | adj.口周的 [domain:动物]
+peristomate | skip:unknown
+peristomatic | skip:unknown
+peristomatous | skip:unknown
+peristroma | skip:unknown
+peristrumitis | skip:unknown
+peristrumous | skip:unknown
+peristylium | n.列柱围廊 [domain:建筑]
+peristylos | skip:not-english
+perisynovial | adj.滑膜周围的 [domain:解剖]
+perisynovitis | skip:unknown
+perisyringitis | skip:unknown
+perisystole | skip:unknown
+perisystolic | skip:unknown
+perite | skip:unknown
+peritectoid | skip:unknown
+peritectomy | skip:unknown
+peritendineum | n.腱周膜 [domain:解剖]
+peritendinitis | n.腱周炎 [domain:医学]
+peritenon | n.腱周膜 [domain:解剖]
+peritenonitis | skip:unknown
+perithallium | skip:unknown
+perithecial | adj.子囊壳的 [domain:植物]
+perithecicole | skip:unknown
+perithecigerous | skip:unknown
+peritheciophorous | skip:unknown
+perithelial | adj.血管外皮的 [domain:解剖]
+perithelioma | n.血管外皮瘤 [domain:医学]
+perithelium | n.血管外皮 [domain:解剖]
+perithoracic | adj.胸周的 [domain:解剖]
+perithyreoiditis | n.甲状腺周炎 [domain:医学]
+perithyroiditis | n.甲状腺周炎 [domain:医学]
+peritomist | skip:unknown
+peritomize | skip:unknown
+peritomy | skip:unknown
+peritonaeum | n.腹膜 [domain:解剖]
+peritonealgia | skip:unknown
+peritonealize | v.腹膜化 [domain:医学]
+peritoneocentesis | n.腹腔穿刺术 [domain:医学]
+peritoneoclysis | skip:unknown
+peritoneography | n.腹膜造影术 [domain:医学]
+peritoneomuscular | skip:unknown
+peritoneopathy | skip:unknown
+peritoneopericardial | skip:unknown
+peritoneopexy | n.腹膜固定术 [domain:医学]
+peritoneoplasty | n.腹膜成形术 [domain:医学]
+peritoneoscope | n.腹腔镜 [domain:医学]
+peritoneotome | skip:unknown
+peritoneotomy | n.腹膜切开术 [domain:医学]
+peritoneotony | skip:unknown
+peritonism | skip:unknown
+peritonization | n.腹膜化 [domain:医学]
+peritonize | v.腹膜化 [domain:医学]
+peritonsillitis | n.扁桃体周炎 [domain:医学]
+peritracheal | adj.气管周围的 [domain:解剖]
+peritracheitis | skip:unknown
+peritreme | n.气门环 [domain:动物]
+peritricha | skip:not-english
+peritrichal | adj.周毛的 [domain:生物]
+peritrichate | adj.周毛的 [domain:生物]
+peritrichial | adj.周毛的 [domain:生物]
+peritrichously | skip:unknown
+peritroch | skip:unknown
+peritrochanteric | adj.转子周围的 [domain:解剖]
+peritrochoid | skip:unknown
+peritrophic | skip:unknown
+peritropous | skip:unknown
+peritruncal | skip:unknown
+perittogamous | skip:unknown
+perittogamy | skip:unknown
+peritubal | adj.输卵管周围的 [domain:解剖]
+perituberculosis | skip:unknown
+perityphlic | adj.盲肠周围的 [domain:解剖]
+periuranian | skip:unknown
+periuranium | skip:unknown
+periureteric | adj.输尿管周围的 [domain:解剖]
+periureteritis | n.输尿管周炎 [domain:医学]
+periurethral | adj.尿道周围的 [domain:解剖]
+periurethritis | n.尿道周炎 [domain:医学]
+periuterine | adj.子宫周围的 [domain:解剖]
+periuvular | skip:unknown
+perivaginal | adj.阴道周围的 [domain:解剖]
+perivaginitis | n.阴道周炎 [domain:医学]
+perivasculitis | n.血管周炎 [domain:医学]
+perivertebral | adj.椎骨周围的 [domain:解剖]
+perivesical | adj.膀胱周围的 [domain:解剖]
+perivesicular | skip:unknown
+perivesiculitis | skip:unknown
+perivisceritis | skip:unknown
+perixenitis | skip:unknown
+perixylic | skip:unknown
+perkeratosis | skip:unknown
+perkinism | skip:unknown
+perknite | skip:unknown
+perlid | skip:unknown
+perlimonite | skip:unknown
+perlingual | adj.经舌的 [domain:医学]
+perlitic | adj.珍珠岩的 [domain:地质]
+perlustration | n.细察, 巡视
+permaculturalist | n.永续农业实践者 [domain:农业]
+permanganyl | skip:unknown
+permeametry | skip:unknown
+permeaselectivity | skip:unknown
+permeater | skip:unknown
+permer | skip:unknown
+permethylated | adj.全甲基化的 [domain:化学]
+perminvar | skip:proper-out-of-scope
+permissionist | skip:unknown
+permissivist | skip:unknown
+permolybdate | n.过钼酸盐 [domain:化学]
+permometer | skip:unknown
+permselectivity | n.选择渗透性 [domain:化学]
+permutit | n.人造沸石 [domain:化学]
+permutite | n.人造沸石 [domain:化学]
+permutoid | skip:unknown
+pernasal | adj.经鼻的 [domain:医学]
+perniciosiform | skip:unknown
+perniosis | n.冻疮 [domain:医学]
+pernoctate | v.过夜
+peroba | skip:unknown
+peromely | skip:unknown
+peronarthrosis | skip:unknown
+peronate | skip:unknown
+peroneotibial | adj.腓骨胫骨的 [domain:解剖]
+peroneum | skip:unknown
+peroplasia | skip:unknown
+peropyrene | skip:unknown
+perosplanchnic | skip:unknown
+perosseous | adj.经骨的 [domain:医学]
+perotic | skip:unknown
+peroxamine | skip:unknown
+peroxidate | skip:unknown
+peroxidative | adj.过氧化的 [domain:化学]
+peroxidization | n.过氧化 [domain:化学]
+peroxidized | skip:not-lemma
+peroxidizing | skip:not-lemma
+peroxonitric | skip:unknown
+peroxyborate | n.过硼酸盐 [domain:化学]
+peroxychromates | skip:not-lemma
+peroxydase | n.过氧化物酶 [domain:生物]
+peroxyl | n.过氧基 [domain:化学]
+peroxynitrate | n.过氧硝酸盐 [domain:化学]
+peroxynitric | adj.过氧硝酸的 [domain:化学]
+peroxysulphate | n.过硫酸盐 [domain:化学]
+perparaldehyde | skip:unknown
+perpender | n.贯石 [domain:建筑]
+perphosphate | n.过磷酸盐 [domain:化学]
+perplanar | skip:unknown
+perplication | skip:unknown
+perradius | skip:unknown
+perrhenate | n.高铼酸盐 [domain:化学]
+perryite | skip:unknown
+perseite | skip:unknown
+perseitol | skip:unknown
+perseulose | skip:unknown
+persic | skip:unknown
+persilicic | skip:unknown
+personative | skip:unknown
+persorption | skip:unknown
+perspectograph | skip:unknown
+perspectometer | skip:unknown
+perspirability | skip:unknown
+perstriction | skip:unknown
+persulfide | n.过硫化物 [domain:化学]
+pertechnate | n.高锝酸盐 [domain:化学]
+pertechnic | skip:unknown
+perthiocarbonate | n.过硫代碳酸盐 [domain:化学]
+perthophyte | skip:unknown
+perthosite | skip:unknown
+pertrochanteric | adj.经转子的 [domain:医学]
+pertungstate | n.过钨酸盐 [domain:化学]
+pertusion | skip:unknown
+pertussal | adj.百日咳的 [domain:医学]
+pertussoid | skip:unknown
+perula | n.芽鳞 [domain:植物]
+perulate | adj.有芽鳞的 [domain:植物]
+peruvite | skip:unknown
+peruvoside | skip:unknown
+pervanadate | n.过钒酸盐 [domain:化学]
+pervaporate | skip:unknown
+pervaporization | n.渗透蒸发 [domain:化学]
+perveance | n.导流系数 [domain:电子]
+pervigilium | skip:not-english
+perxenate | n.高氙酸盐 [domain:化学]
+perxenic | adj.高氙酸的 [domain:化学]
+pestalozzian | skip:proper-out-of-scope
+pesticin | skip:unknown
+petalodont | skip:unknown
+petasma | skip:unknown
+petate | skip:unknown
+petaurist | skip:unknown
+petchary | skip:unknown
+petechiasis | skip:unknown
+petechiate | adj.有瘀点的 [domain:医学]
+petechioid | skip:unknown
+petechiometer | skip:unknown
+peteman | skip:unknown
+petermen | skip:unknown
+petraeous | skip:unknown
+petroacetylene | skip:unknown
+petrobasilar | skip:unknown
+petrobenzene | skip:unknown
+petroclastic | skip:unknown
+petrofacies | n.岩相 [domain:地质]
+petrogenic | adj.岩石成因的 [domain:地质]
+petrogenous | skip:unknown
+petrogeny | n.岩石成因 [domain:地质]
+petrogeometry | skip:unknown
+petroglyphy | skip:unknown
+petrogram | skip:unknown
+petrolization | skip:unknown
+petrolized | skip:unknown
+petromastoid | adj.岩乳突的 [domain:解剖]
+petrometallogeny | skip:unknown
+petromyzontid | n.七鳃鳗 [domain:动物]
+petronaphthalene | skip:unknown
+petronate | skip:unknown
+petrophone | skip:unknown
+petrophyte | n.岩生植物 [domain:植物]
+petroprotein | n.石油蛋白
+petroresins | skip:not-lemma
+petrose | adj.岩状的 [domain:解剖]
+petrosectomy | skip:unknown
+petroselinum | skip:not-english
+petrosilane | skip:unknown
+petrositis | n.岩骨炎 [domain:医学]
+petrosomastoid | skip:unknown
+petrosphenoid | adj.岩蝶骨的 [domain:解剖]
+petrosphere | skip:unknown
+petrosquamosal | adj.岩鳞的 [domain:解剖]
+petrosquamous | adj.岩鳞的 [domain:解剖]
+petrostaphylinus | skip:unknown
+petrotectonics | n.岩石构造学 [domain:地质]
+petscheckite | skip:unknown
+petterdite | skip:unknown
+pettle | skip:unknown
+petunidin | n.矮牵牛素 [domain:化学]
+petunin | skip:unknown
+petzite | n.碲金银矿 [domain:地质]
+peucedanin | skip:unknown
+peucedanine | skip:unknown
+pezizoid | skip:unknown
+phacectomy | n.晶状体切除术 [domain:医学]
+phacellite | skip:unknown
+phacelloid | skip:unknown
+phacentocele | skip:unknown
+phacidioid | skip:unknown
+phacitis | n.晶状体炎 [domain:医学]
+phacoanaphylaxis | skip:unknown
+phacocele | skip:unknown
+phacochromacytoma | skip:unknown
+phacocyst | n.晶状体囊 [domain:解剖]
+phacocystectomy | n.晶状体囊切除术 [domain:医学]
+phacocystitis | n.晶状体囊炎 [domain:医学]
+phacoglaucoma | skip:unknown
+phacohymenitis | skip:unknown
+phacoid | adj.扁豆形的
+phacoiditis | skip:unknown
+phacoidoscope | skip:unknown
+phacolite | n.扁菱沸石 [domain:地质]
+phacolith | skip:unknown
+phacolysin | skip:unknown
+phacolysis | n.晶状体溶解 [domain:医学]
+phacolytic | adj.晶状体溶解的 [domain:医学]
+phacoma | skip:unknown
+phacomalacia | n.晶状体软化 [domain:医学]
+phacomatosis | n.斑痣性错构瘤病 [domain:医学]
+phacometer | skip:unknown
+phacopalingenesis | skip:unknown
+phacosclerosis | n.晶状体硬化 [domain:医学]
+phacoscope | skip:unknown
+phacoscopy | skip:unknown
+phacoscotasmus | skip:unknown
+phacotherapy | skip:unknown
+phacozymase | skip:unknown
+phaeism | skip:unknown
+phaenantherous | adj.雄蕊外露的 [domain:植物]
+phaenerophyte | n.高位芽植物 [domain:植物]
+phaenocarpous | skip:unknown
+phaenogam | n.显花植物 [domain:植物]
+phaenogamous | adj.显花的 [domain:植物]
+phaenopetalous | skip:unknown
+phaenotype | n.表型 [domain:生物]
+phaeochromin | skip:unknown
+phaeodictyosporous | skip:unknown
+phaeodium | skip:unknown
+phaeofacin | skip:unknown
+phaeohemins | skip:unknown
+phaeophorbide | n.脱镁叶绿酸 [domain:化学]
+phaeophragmious | skip:unknown
+phaeophycean | adj.褐藻的 [domain:植物]
+phaeophyll | skip:unknown
+phaeophyta | skip:not-english
+phaeophytin | n.脱镁叶绿素 [domain:化学]
+phaeoplast | skip:unknown
+phaeoretin | skip:unknown
+phaeospore | skip:unknown
+phagedenism | skip:unknown
+phagedenoma | skip:unknown
+phagelysis | skip:unknown
+phagocaryosis | skip:unknown
+phagocidin | skip:unknown
+phagocytable | adj.可被吞噬的 [domain:生物]
+phagocytin | n.吞噬细胞素 [domain:生物]
+phagocytoblast | skip:unknown
+phagocytolysis | n.吞噬细胞溶解 [domain:生物]
+phagocytolytic | adj.吞噬细胞溶解的 [domain:生物]
+phagocytotic | adj.吞噬的 [domain:生物]
+phagodynamometer | skip:unknown
+phagokaryosis | skip:unknown
+phagolessin | skip:unknown
+phagological | skip:unknown
+phagology | skip:unknown
+phagolysis | skip:unknown
+phagolytic | skip:unknown
+phagomania | skip:unknown
+phagomycin | skip:unknown
+phagopedin | skip:unknown
+phagophilia | skip:unknown
+phagophobia | n.吞咽恐惧症 [domain:心理]
+phagopyrism | skip:unknown
+phagopyrosis | skip:unknown
+phagostatin | skip:unknown
+phagotherapy | skip:unknown
+phagotrophy | n.吞噬营养 [domain:生物]
+phakitis | n.晶状体炎 [domain:医学]
+phakocele | skip:unknown
+phakoerysis | skip:unknown
+phakolysis | skip:unknown
+phakoma | skip:unknown
+phakomatoblast | skip:unknown
+phakomatose | skip:unknown
+phakomatosis | n.斑痣性错构瘤病 [domain:医学]
+phakometer | skip:unknown
+phakopsora | skip:not-english
+phakoscope | skip:unknown
+phalacrosis | skip:unknown
+phalacrotic | skip:unknown
+phalaenopsid | n.蝴蝶兰 [domain:植物]
+phalangal | adj.指骨的 [domain:解剖]
+phalangectomy | n.指骨切除术 [domain:医学]
+phalangette | skip:unknown
+phalangister | skip:unknown
+phalangitis | n.指骨炎 [domain:医学]
+phalangization | skip:unknown
+phalangophalangeal | skip:unknown
+phalangosis | skip:unknown
+phalansterianism | skip:unknown
+phalera | skip:unknown
+phallalgia | n.阴茎痛 [domain:医学]
+phallanastrophe | skip:unknown
+phallaneurysm | skip:unknown
+phallectomy | n.阴茎切除术 [domain:医学]
+phalliform | adj.阴茎状的
+phallin | skip:unknown
+phallitis | n.阴茎炎 [domain:医学]
+phallobase | skip:unknown
+phallocampsis | skip:unknown
+phallocrypsis | skip:unknown
+phallocrypt | skip:unknown
+phallomere | skip:unknown
+phalloncus | skip:unknown
+phallorrhagia | skip:unknown
+phallorrhea | skip:unknown
+phallosome | skip:unknown
+phallotheca | skip:unknown
+phallotomy | skip:unknown
+phallotoxin | skip:unknown
+phallotreme | skip:unknown
+phaneomere | skip:unknown
+phanerite | skip:unknown
+phanerocryst | skip:unknown
+phanerogamia | skip:not-english
+phanerogenic | skip:unknown
+phaneromania | skip:unknown
+phaneromer | skip:unknown
+phaneromere | skip:unknown
+phaneroplasm | skip:unknown
+phaneroplasmodium | skip:unknown
+phaneropore | skip:unknown
+phaneroscope | skip:unknown
+phaneroscopy | skip:unknown
+phanerosis | skip:unknown
+phanerosterol | skip:unknown
+phanerous | skip:unknown
+phanic | skip:unknown
+phanoclastic | skip:unknown
+phanodorm | skip:unknown
+phanodorn | skip:unknown
+phanotron | skip:unknown
+phanquinone | skip:unknown
+phanquone | skip:unknown
+phantasmatic | adj.幻象的
+phantasmatology | skip:unknown
+phantasmatomoria | skip:unknown
+phantasmography | skip:unknown
+phantasmology | skip:unknown
+phantasmoscopia | skip:unknown
+phantastran | skip:unknown
+phantastron | skip:unknown
+phantigrade | skip:unknown
+phantophone | skip:unknown
+phantoscope | skip:unknown
+phaochrome | skip:unknown
+phaochromocytoma | n.嗜铬细胞瘤 [domain:医学]
+pharate | skip:unknown
+pharbitin | skip:unknown
+pharmacochemistry | n.药物化学 [domain:药学]
+pharmacodiagnosis | skip:unknown
+pharmacodynamically | adv.药效学地 [domain:药学]
+pharmacography | skip:unknown
+pharmacolite | n.毒石 [domain:地质]
+pharmacomania | skip:unknown
+pharmacopedia | skip:unknown
+pharmacophagous | skip:unknown
+pharmacophilia | skip:unknown
+pharmacophobia | n.药物恐惧症 [domain:心理]
+pharmacophoric | adj.药效团的 [domain:药学]
+pharmacopsychosis | skip:unknown
+pharmacopyrite | skip:unknown
+pharmacoradiography | skip:unknown
+pharmacosiderite | n.毒铁矿 [domain:地质]
+pharmacosiderosis | skip:unknown
+pharmagel | skip:unknown
+pharmic | skip:unknown
+pharoid | skip:unknown
+pharyngalgia | n.咽痛 [domain:医学]
+pharyngectasia | skip:unknown
+pharyngemphraxis | skip:unknown
+pharyngeus | skip:unknown
+pharyngism | skip:unknown
+pharyngismus | n.咽痉挛 [domain:医学]
+pharyngitid | skip:unknown
+pharyngobranchial | skip:unknown
+pharyngocele | n.咽膨出 [domain:医学]
+pharyngoceratosis | skip:unknown
+pharyngoconjunctivitis | n.咽结膜炎 [domain:医学]
+pharyngodynia | n.咽痛 [domain:医学]
+pharyngoepiglotticus | skip:unknown
+pharyngoesophagus | skip:unknown
+pharyngoglossal | adj.咽舌的 [domain:解剖]
+pharyngoglossus | skip:unknown
+pharyngognathi | skip:unknown
+pharyngokeratosis | n.咽角化症 [domain:医学]
+pharyngolaryngeal | adj.咽喉的 [domain:解剖]
+pharyngolaryngitis | n.咽喉炎 [domain:医学]
+pharyngolith | n.咽石 [domain:医学]
+pharyngology | n.咽科学 [domain:医学]
+pharyngolysis | skip:unknown
+pharyngomaxillary | adj.咽上颌的 [domain:解剖]
+pharyngomycosis | n.咽真菌病 [domain:医学]
+pharyngonasal | adj.咽鼻的 [domain:解剖]
+pharyngoneurosis | skip:unknown
+pharyngopalatine | adj.咽腭的 [domain:解剖]
+pharyngopalatinus | skip:unknown
+pharyngoparalysis | n.咽麻痹 [domain:医学]
+pharyngopathy | n.咽病 [domain:医学]
+pharyngoperistole | skip:unknown
+pharyngoplasty | n.咽成形术 [domain:医学]
+pharyngoplegia | n.咽麻痹 [domain:医学]
+pharyngopolypus | skip:unknown
+pharyngorhinitis | n.咽鼻炎 [domain:医学]
+pharyngorrhagia | n.咽出血 [domain:医学]
+pharyngorrhea | n.咽粘液溢 [domain:医学]
+pharyngosalpingitis | skip:unknown
+pharyngoscleroma | skip:unknown
+pharyngospasm | n.咽痉挛 [domain:医学]
+pharyngostenia | skip:unknown
+pharyngostenosis | n.咽狭窄 [domain:医学]
+pharyngotherapy | skip:unknown
+pharyngotome | n.咽刀 [domain:医学]
+pharyngotomy | n.咽切开术 [domain:医学]
+pharyngotonsillitis | n.咽扁桃体炎 [domain:医学]
+pharyngotyphoid | skip:unknown
+pharyngoxerosis | skip:unknown
+phaselin | skip:unknown
+phaseoliform | skip:unknown
+phaseolin | n.菜豆球蛋白 [domain:化学]
+phaseoline | skip:unknown
+phaseolunatin | skip:unknown
+phaseomannite | skip:unknown
+phasin | skip:unknown
+phasitron | skip:unknown
+phasmajector | skip:unknown
+phasmalogen | skip:unknown
+phasocytal | skip:unknown
+phasograph | skip:unknown
+phasometer | n.相位计 [domain:物理]
+phason | n.相位子 [domain:物理]
+phasotropy | skip:unknown
+phecine | skip:unknown
+phedracine | skip:unknown
+phegma | skip:unknown
+phellandral | skip:unknown
+phellandrene | n.水芹烯 [domain:化学]
+phellandrium | skip:unknown
+phellium | skip:unknown
+phellodendron | n.黄檗 [domain:植物]
+phelloid | skip:unknown
+phellomere | skip:unknown
+phellophilus | skip:unknown
+phelloplastic | skip:unknown
+phellos | skip:unknown
+phemeride | skip:unknown
+phemethylol | skip:unknown
+phemitone | skip:unknown
+phenacaine | n.非那卡因 [domain:药学]
+phenacemide | n.苯乙酰脲 [domain:药学]
+phenacethydrazine | skip:unknown
+phenacetol | skip:unknown
+phenacetolin | skip:unknown
+phenacetylaniline | skip:unknown
+phenacyl | n.苯甲酰甲基 [domain:化学]
+phenacylamine | skip:unknown
+phenacylidene | skip:unknown
+phenadone | skip:unknown
+phenadoxone | skip:unknown
+phenaglycodol | skip:unknown
+phenalgin | skip:unknown
+phenallymal | skip:unknown
+phenalzine | skip:unknown
+phenamet | skip:unknown
+phenamidine | skip:unknown
+phenamine | skip:unknown
+phenampromid | skip:unknown
+phenampromide | skip:unknown
+phenanthrahydroquinone | skip:unknown
+phenanthraquinone | n.菲醌 [domain:化学]
+phenanthrenequinone | n.菲醌 [domain:化学]
+phenanthrenol | n.菲酚 [domain:化学]
+phenanthrenone | n.菲酮 [domain:化学]
+phenanthridine | n.菲啶 [domain:化学]
+phenanthridinyl | n.菲啶基 [domain:化学]
+phenanthridone | n.菲啶酮 [domain:化学]
+phenanthrine | skip:unknown
+phenanthrol | n.菲酚 [domain:化学]
+phenanthrolene | skip:unknown
+phenanthrone | n.菲酮 [domain:化学]
+phenanthrophenazine | skip:unknown
+phenanthryl | n.菲基 [domain:化学]
+phenanthrylene | n.亚菲基 [domain:化学]
+phenanthryne | skip:unknown
+phenantoin | skip:unknown
+phenaphthacridone | skip:unknown
+phenarsazine | skip:unknown
+phenarsen | skip:unknown
+phenarsenamine | skip:unknown
+phenarsine | skip:unknown
+phenate | n.酚盐 [domain:化学]
+phenatine | skip:unknown
+phenazine | n.吩嗪 [domain:化学]
+phenazinone | n.吩嗪酮 [domain:化学]
+phenazinyl | n.吩嗪基 [domain:化学]
+phenazonium | skip:unknown
+phenbenzamine | skip:unknown
+phenbutamide | skip:unknown
+phencapton | skip:unknown
+phencarbamine | skip:unknown
+phendioxin | skip:unknown
+phene | n.苯 [dated,domain:化学]
+phenegol | skip:unknown
+phenelyl | skip:unknown
+phenemyl | skip:unknown
+phenenyl | skip:unknown
+pheneridine | skip:unknown
+phenesterine | skip:unknown
+phenetamine | skip:unknown
+phenetetrol | skip:unknown

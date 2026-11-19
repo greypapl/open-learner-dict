@@ -1,0 +1,1000 @@
+hypobenthos | n.底栖生物下层 [domain:生物]
+hypobetalipoproteinemia | n.低β脂蛋白血症 [domain:医学]
+hypobilirubinemia | skip:unknown
+hypobiosis | n.休眠 [domain:生物]
+hypoblepharon | skip:unknown
+hypobromination | skip:unknown
+hypobulia | n.意志减退 [domain:心理]
+hypocalcification | n.钙化不全 [domain:医学]
+hypocalcipectic | skip:unknown
+hypocalciuria | n.低钙尿症 [domain:医学]
+hypocarbia | n.低碳酸血症 [domain:医学]
+hypocardia | skip:unknown
+hypocarpium | skip:unknown
+hypocarpogean | skip:unknown
+hypocatalepsis | skip:unknown
+hypocatharsis | skip:unknown
+hypocathexis | skip:unknown
+hypocellular | adj.细胞过少的 [domain:医学]
+hypocellularity | n.细胞过少 [domain:医学]
+hypocelom | skip:unknown
+hypocenesthesia | skip:unknown
+hypocentrum | skip:unknown
+hypochil | n.下唇 [domain:植物]
+hypochillium | n.下唇 [domain:植物]
+hypochloremic | adj.低氯血症的 [domain:医学]
+hypochloridation | skip:unknown
+hypochloridemia | n.低氯血症 [domain:医学]
+hypochlorination | n.次氯酸盐处理 [domain:化学]
+hypochlorization | skip:unknown
+hypochloruria | skip:unknown
+hypochnoid | skip:unknown
+hypocholesteremia | n.低胆固醇血症 [domain:医学]
+hypocholesterinemia | n.低胆固醇血症 [domain:医学]
+hypocholia | n.胆汁过少 [domain:医学]
+hypocholuria | skip:unknown
+hypochord | skip:unknown
+hypochordal | skip:unknown
+hypochromasia | n.染色不足 [domain:医学]
+hypochromatic | adj.染色过浅的 [domain:医学]
+hypochromatism | n.染色过浅 [domain:医学]
+hypochromatocytosis | skip:unknown
+hypochromatosis | skip:unknown
+hypochrome | skip:unknown
+hypochromemia | skip:unknown
+hypochromicity | n.减色性 [domain:化学]
+hypochromism | n.减色性 [domain:化学]
+hypochromotrichia | skip:unknown
+hypochrosis | skip:unknown
+hypochylia | skip:unknown
+hypocinesia | n.运动减少 [domain:医学]
+hypocinesis | n.运动减少 [domain:医学]
+hypocist | skip:unknown
+hypocistis | skip:unknown
+hypocleidium | skip:unknown
+hypoclysis | skip:unknown
+hypocoagulability | n.凝固性降低 [domain:医学]
+hypocoelom | skip:unknown
+hypocondylar | skip:unknown
+hypocondyle | skip:unknown
+hypocone | n.次尖 [domain:动物]
+hypoconid | n.下次尖 [domain:动物]
+hypoconule | skip:unknown
+hypoconulid | n.下次小尖 [domain:动物]
+hypocoracoid | skip:unknown
+hypocorticalism | skip:unknown
+hypocorticoidism | n.皮质激素不足 [domain:医学]
+hypocotyledonary | skip:unknown
+hypocrateriform | adj.高脚碟状的 [domain:植物]
+hypocraterimorphous | adj.高脚碟状的 [domain:植物]
+hypocreaceous | skip:unknown
+hypocrine | skip:unknown
+hypocrinia | skip:unknown
+hypocrinism | skip:unknown
+hypocrystalline | adj.半晶质的 [domain:地质]
+hypocupremia | n.低铜血症 [domain:医学]
+hypocyclosis | skip:unknown
+hypocythaemia | skip:unknown
+hypocythemia | n.细胞减少症 [domain:医学]
+hypocytosis | n.细胞减少症 [domain:医学]
+hypodactyle | skip:unknown
+hypodactylia | skip:unknown
+hypodactylism | skip:unknown
+hypodense | adj.低密度的 [domain:医学]
+hypoderma | n.下皮 [domain:植物]
+hypodermatoclysis | n.皮下输液 [domain:医学]
+hypodermia | skip:unknown
+hypodermiasis | n.皮蝇蛆病 [domain:医学]
+hypodermolithiasis | skip:unknown
+hypodermosis | n.皮蝇蛆病 [domain:医学]
+hypodesmus | skip:unknown
+hypodiaphragmatic | adj.膈下的 [domain:解剖]
+hypodicrotous | skip:unknown
+hypodigm | skip:unknown
+hypodiploidy | n.亚二倍性 [domain:生物]
+hypodipsia | n.渴感减退 [domain:医学]
+hypodispersion | skip:unknown
+hypodontia | n.牙缺少 [domain:医学]
+hypodynamia | n.肌力减退 [domain:医学]
+hypodynamic | adj.肌力减退的 [domain:医学]
+hypodynia | skip:unknown
+hypoeccrisia | skip:unknown
+hypoeccrisis | skip:unknown
+hypoeccritic | skip:unknown
+hypoecrisia | skip:unknown
+hypoelastic | skip:unknown
+hypoelasticity | skip:unknown
+hypoelectrolytemia | skip:unknown
+hypoelliptic | adj.亚椭圆的 [domain:数学]
+hypoellipticity | n.亚椭圆性 [domain:数学]
+hypoemia | skip:unknown
+hypoemotivity | skip:unknown
+hypoendocrinia | skip:unknown
+hypoendocrinism | n.内分泌功能减退 [domain:医学]
+hypoendocrisia | skip:unknown
+hypoeosinophilia | skip:unknown
+hypoepinephria | skip:unknown
+hypoepinephry | skip:unknown
+hypoepistephanine | skip:unknown
+hypoequilibrium | skip:unknown
+hypoergia | n.变态反应减弱 [domain:医学]
+hypoergic | adj.变态反应减弱的 [domain:医学]
+hypoergy | n.变态反应减弱 [domain:医学]
+hypoerythrocythemia | skip:unknown
+hypoesophoria | skip:unknown
+hypoestrinemia | skip:unknown
+hypoevolutism | skip:unknown
+hypoexophoria | skip:unknown
+hypoferraemia | n.低铁血症 [domain:医学]
+hypoferremia | n.低铁血症 [domain:医学]
+hypoferrism | skip:unknown
+hypofibrinogenemia | n.低纤维蛋白原血症 [domain:医学]
+hypogaean | adj.地下的
+hypogaeic | adj.地下的
+hypogalactia | n.泌乳不足 [domain:医学]
+hypogalactous | skip:unknown
+hypogammaglobulinaemia | n.低丙种球蛋白血症 [domain:医学]
+hypogamy | skip:unknown
+hypogastralgia | n.下腹痛 [domain:医学]
+hypogastrectasia | skip:unknown
+hypogastria | skip:unknown
+hypogastrocele | skip:unknown
+hypogastrodidymus | skip:unknown
+hypogastrohemia | skip:unknown
+hypogastropagus | skip:unknown
+hypogastrorrhexis | skip:unknown
+hypogastroschisis | skip:unknown
+hypogastrotomy | n.下腹切开术 [domain:医学]
+hypogee | skip:unknown
+hypogenesis | n.发育不全 [domain:医学]
+hypogenetic | adj.发育不全的 [domain:医学]
+hypogenic | adj.深成的 [domain:地质]
+hypogenitalism | n.生殖器发育不全 [domain:医学]
+hypogenous | adj.叶下生的 [domain:植物]
+hypogeusesthesia | skip:unknown
+hypogeusia | n.味觉减退 [domain:医学]
+hypoglandular | skip:unknown
+hypoglobulia | n.红细胞减少 [domain:医学]
+hypoglossiadenitis | skip:unknown
+hypoglossis | skip:unknown
+hypoglossitis | skip:unknown
+hypoglossus | skip:unknown
+hypoglottis | n.舌下 [domain:解剖]
+hypoglycin | n.次甘氨酸 [domain:化学]
+hypoglycine | n.次甘氨酸 [domain:化学]
+hypognathadenitis | skip:unknown
+hypognathoparasitus | skip:unknown
+hypognathus | skip:unknown
+hypogonadia | n.性腺功能减退 [domain:医学]
+hypogonadotrophic | adj.促性腺激素低下的 [domain:医学]
+hypogranulocytosis | skip:unknown
+hypographous | skip:unknown
+hypogravity | n.低重力 [domain:物理]
+hypogynium | skip:unknown
+hypohaline | adj.低盐的 [domain:生物]
+hypohemia | skip:unknown
+hypohemoglobinemia | skip:unknown
+hypoheparinemia | skip:unknown
+hypohepatia | skip:unknown
+hypohidrotic | adj.少汗的 [domain:医学]
+hypohormonal | skip:unknown
+hypohormonic | skip:unknown
+hypohormonism | skip:unknown
+hypohyal | n.舌骨下部 [domain:解剖]
+hypohyaline | skip:unknown
+hypohydration | n.脱水 [domain:医学]
+hypohydremia | skip:unknown
+hypohydrochloria | skip:unknown
+hypohypnosis | skip:unknown
+hypohypnotic | skip:unknown
+hypohypophysism | n.垂体功能减退 [domain:医学]
+hypoidrosis | n.少汗症 [domain:医学]
+hypoimmunity | n.免疫力低下 [domain:医学]
+hypoinosemia | skip:unknown
+hypoinsulinism | n.胰岛素分泌不足 [domain:医学]
+hypoiodidism | skip:unknown
+hypoiodite | n.次碘酸盐 [domain:化学]
+hypoischium | skip:unknown
+hypokaliemia | n.低钾血症 [domain:医学]
+hypokinemia | skip:unknown
+hypokolasia | skip:unknown
+hypolarynx | skip:unknown
+hypolemmal | skip:unknown
+hypolepidoma | skip:unknown
+hypolepsiomania | skip:unknown
+hypoletal | skip:unknown
+hypoleucocytosis | n.白细胞减少 [domain:医学]
+hypoleukemia | skip:unknown
+hypoleukia | skip:unknown
+hypoleukocytosis | n.白细胞减少 [domain:医学]
+hypoleydigism | skip:unknown
+hypolimnetic | adj.均温层下的 [domain:地理]
+hypolimnile | skip:unknown
+hypolipaemia | skip:unknown
+hypolipemia | skip:unknown
+hypolipoproteinemia | skip:unknown
+hypoliposis | skip:unknown
+hypolithic | adj.石下的 [domain:生物]
+hypologia | skip:unknown
+hypolutemia | skip:unknown
+hypolymphemia | skip:unknown
+hypomagma | skip:unknown
+hypomagnesaemia | n.低镁血症 [domain:医学]
+hypomanganate | n.次锰酸盐 [domain:化学]
+hypomastia | n.乳房发育不良 [domain:医学]
+hypomedication | skip:unknown
+hypomegasoma | skip:unknown
+hypomelancholia | skip:unknown
+hypomenorrhea | n.月经过少 [domain:医学]
+hypomere | n.下节 [domain:动物]
+hypomeron | skip:unknown
+hypomesosoma | skip:unknown
+hypometamorphic | skip:unknown
+hypometamorphism | skip:unknown
+hypometria | skip:unknown
+hypometropia | skip:unknown
+hypomicrognathus | skip:unknown
+hypomicron | skip:unknown
+hypomicrosoma | skip:unknown
+hypomimia | skip:unknown
+hypomineralization | n.矿化不足 [domain:医学]
+hypomineralocorticoidism | skip:unknown
+hypomnesia | n.记忆减退 [domain:心理]
+hypomnesis | n.记忆减退 [domain:心理]
+hypomonotectic | skip:unknown
+hypomoria | skip:unknown
+hypomyotonia | skip:unknown
+hypomyxia | skip:unknown
+hyponanosoma | skip:unknown
+hyponatruria | skip:unknown
+hyponeuria | skip:unknown
+hyponeuston | skip:unknown
+hyponitremia | skip:unknown
+hyponoia | skip:unknown
+hyponoic | skip:unknown
+hyponome | n.漏斗管 [domain:动物]
+hyponomous | skip:unknown
+hyponychial | adj.甲下的 [domain:解剖]
+hyponychon | skip:unknown
+hypoorchidia | skip:unknown
+hypoovarianism | n.卵巢功能减退 [domain:医学]
+hypopallesthesia | skip:unknown
+hypopancreatism | n.胰腺功能减退 [domain:医学]
+hypopancreorrhea | skip:unknown
+hypoparathyreosis | n.甲状旁腺功能减退 [domain:医学]
+hypopathia | skip:unknown
+hypopeltate | skip:unknown
+hypopepsia | n.消化不良 [domain:医学]
+hypopepsinia | n.胃蛋白酶过少 [domain:医学]
+hypoperistalsis | n.蠕动减弱 [domain:医学]
+hypopermeability | skip:unknown
+hypopexia | skip:unknown
+hypophalangism | n.指节减少 [domain:医学]
+hypophamine | skip:unknown
+hypopharyngoscope | n.下咽镜 [domain:医学]
+hypopharyngoscopy | n.下咽镜检查 [domain:医学]
+hypophasic | skip:unknown
+hypophoneme | skip:unknown
+hypophonesis | skip:unknown
+hypophosphate | n.连二磷酸盐 [domain:化学]
+hypophosphoric | adj.连二磷酸的 [domain:化学]
+hypophyllous | adj.叶下生的 [domain:植物]
+hypophysectomise | v.切除垂体 [domain:医学]
+hypoplastron | n.下腹甲 [domain:动物]
+hypoploidy | n.亚倍性 [domain:生物]
+hypopygium | n.尾节 [domain:动物]
+hyporeactive | adj.反应低下的 [domain:医学]
+hypospadia | n.尿道下裂 [domain:医学]
+hypospadiac | adj.尿道下裂的 [domain:医学]
+hypostase | n.沉积物 [domain:医学]
+hypostatise | v.使具体化 [domain:哲学]
+hyposthenia | n.体力减弱 [domain:医学]
+hyposthenic | adj.体力减弱的 [domain:医学]
+hypostoma | n.口下板 [domain:动物]
+hyposulphurous | adj.连二亚硫酸的 [domain:化学]
+hypotheca | n.下壳 [domain:生物]
+hypothermy | n.低体温 [domain:医学]
+hypotheticodeductive | adj.假设演绎的 [domain:逻辑]
+hypotony | n.张力减退 [domain:医学]
+hypotrichous | adj.腹毛类的 [domain:动物]
+hypotropia | n.下斜视 [domain:医学]
+hypovigilance | skip:unknown
+hypozoic | adj.无化石的 [domain:地质]
+hypsarrhythmia | n.高峰节律紊乱 [domain:医学]
+hypural | adj.尾下骨的 [domain:动物]
+hyraceum | n.岩狸膏 [domain:药学]
+hyracid | n.蹄兔 [domain:动物]
+hysteranthus | skip:unknown
+hysterism | n.癔症 [domain:医学]
+hysteritis | n.子宫炎 [domain:医学]
+hysterocele | n.子宫疝 [domain:医学]
+hysterocyesis | n.假孕 [domain:医学]
+hysterodynia | n.子宫痛 [domain:医学]
+hysterogram | n.子宫造影图 [domain:医学]
+hysterograph | n.子宫收缩描记器 [domain:医学]
+hysterography | n.子宫造影术 [domain:医学]
+hysteroidal | adj.类癔症的 [domain:医学]
+hysterolith | n.子宫结石 [domain:医学]
+hysterometer | n.子宫测量器 [domain:医学]
+hysteropexia | n.子宫固定术 [domain:医学]
+hysteropexy | n.子宫固定术 [domain:医学]
+hysteroptosia | n.子宫脱垂 [domain:医学]
+hysteroptosis | n.子宫脱垂 [domain:医学]
+hysterosalpingectomy | n.子宫输卵管切除术 [domain:医学]
+hysterotome | n.子宫刀 [domain:医学]
+hystrichosphere | n.刺球藻 [domain:生物]
+hystricoid | adj.豪猪状的 [domain:动物]
+hystricomorphic | adj.豪猪型的 [domain:动物]
+hythergraph | n.温湿图 [domain:气象]
+ianthine | adj.紫色的 [literary]
+iatraliptic | skip:unknown
+iatrical | adj.医生的, 医疗的 [domain:医学]
+iatrochemical | adj.医疗化学派的 [domain:历史]
+iatrochemist | n.医疗化学家 [domain:历史]
+iatrogeny | n.医源性疾病 [domain:医学]
+iatrology | n.医学 [domain:医学]
+iatromathematical | skip:unknown
+iatromechanical | skip:unknown
+iatrophysical | skip:unknown
+iatrophysicist | skip:unknown
+iatrophysics | skip:unknown
+iatrotechnics | skip:unknown
+iberis | n.屈曲花 [domain:植物]
+ibsenian | skip:proper-out-of-scope
+icaco | n.可可李 [domain:植物]
+ichnofacies | n.遗迹相 [domain:地质]
+ichnograph | n.平面图 [domain:建筑]
+ichnographic | adj.平面图的 [domain:建筑]
+ichnolite | n.足迹化石 [domain:地质]
+ichnological | adj.遗迹学的 [domain:地质]
+ichthyism | n.鱼中毒 [domain:医学]
+ichthyofaunal | adj.鱼类区系的 [domain:动物]
+ichthyographer | n.鱼类志作者 [domain:动物]
+ichthyography | n.鱼类志 [domain:动物]
+ichthyolatry | n.鱼崇拜 [domain:宗教]
+ichthyolite | n.鱼化石 [domain:地质]
+ichthyolitic | adj.鱼化石的 [domain:地质]
+ichthyologic | adj.鱼类学的 [domain:动物]
+ichthyologically | adv.鱼类学上 [domain:动物]
+ichthyophagist | n.食鱼者
+ichthyophobia | n.鱼类恐惧症 [domain:心理]
+ichthyornis | skip:not-english
+ichthyosiform | adj.鱼鳞病样的 [domain:医学]
+ichthyotic | adj.鱼鳞病的 [domain:医学]
+ichthyotoxic | adj.鱼毒的 [domain:生物]
+ichthyotoxin | n.鱼毒素 [domain:生物]
+ichthyotoxism | n.鱼类中毒 [domain:医学]
+iconal | adj.图像的
+iconograph | skip:unknown
+iconolatrous | adj.崇拜偶像的 [domain:宗教]
+iconomachy | n.反对圣像崇拜 [domain:宗教]
+iconomania | n.圣像狂热 [domain:宗教]
+iconometer | n.取景器 [domain:摄影]
+iconometry | skip:unknown
+iconophile | n.爱好图像者
+icosagon | n.二十边形 [domain:数学]
+icosandrous | adj.二十雄蕊的 [domain:植物]
+icosane | n.二十烷 [domain:化学]
+icterine | adj.黄疸的 [domain:医学]
+icterode | adj.黄疸样的 [domain:医学]
+icterogenic | adj.引起黄疸的 [domain:医学]
+icteroid | adj.黄疸样的 [domain:医学]
+idaite | n.铜蓝 [domain:矿业]
+iddingsite | n.伊丁石 [domain:矿业]
+idebenone | n.艾地苯醌 [domain:药学]
+ideogenetic | skip:unknown
+ideogrammatic | adj.表意文字的 [domain:语言]
+ideogrammic | adj.表意文字的 [domain:语言]
+ideographical | adj.表意文字的 [domain:语言]
+ideokinetic | skip:unknown
+ideologism | skip:unknown
+ideomotion | n.观念运动 [domain:心理]
+ideotype | n.理想株型 [domain:农业]
+idioadaptation | n.特殊适应 [domain:生物]
+idiobiology | skip:unknown
+idioblastic | adj.自形变晶的 [domain:地质]
+idiochromosome | n.性染色体 [domain:生物]
+idiocratic | skip:unknown
+idiocratical | skip:unknown
+idiocratically | skip:unknown
+idioelectric | adj.自带电的 [domain:物理]
+idiogenesis | skip:unknown
+idiogenetic | skip:unknown
+idioglottic | skip:unknown
+idiogram | n.染色体组型图 [domain:生物]
+idiograph | skip:unknown
+idiolalia | n.自创语言 [domain:心理]
+idiolectal | adj.个人语的 [domain:语言]
+idiomaticness | n.惯用性 [domain:语言]
+idiomere | skip:unknown
+idiomorphism | skip:unknown
+idiomorphous | adj.自形的 [domain:地质]
+idiophase | skip:unknown
+idioplasma | n.种质 [domain:生物]
+idioplasmic | adj.种质的 [domain:生物]
+idiosoma | n.躯体 [domain:动物]
+idiosome | n.核旁体 [domain:生物]
+idiotize | v.使愚蠢
+idolisation | n.偶像化
+idose | n.艾杜糖 [domain:化学]
+idrialite | n.伊德里亚矿 [domain:矿业]
+idrosis | n.出汗 [domain:医学]
+idumean | skip:proper-out-of-scope
+ignipuncture | n.电针术 [domain:医学]
+iguanoid | adj.鬣蜥状的 [domain:动物]
+ijolite | n.霓霞岩 [domain:地质]
+ilama | n.番荔枝 [domain:植物]
+ileocecostomy | n.回盲肠吻合术 [domain:医学]
+ileocecum | n.回盲部 [domain:解剖]
+ileocolitis | n.回结肠炎 [domain:医学]
+ileocolostomy | n.回结肠吻合术 [domain:医学]
+ileoileostomy | n.回肠回肠吻合术 [domain:医学]
+ileoproctostomy | n.回肠直肠吻合术 [domain:医学]
+ileorectostomy | n.回肠直肠吻合术 [domain:医学]
+ileosigmoid | adj.回肠乙状结肠的 [domain:解剖]
+ileotomy | n.回肠切开术 [domain:医学]
+ilial | adj.髂骨的 [domain:解剖]
+iliococcygeal | adj.髂尾的 [domain:解剖]
+iliococcygeus | n.髂尾肌 [domain:解剖]
+iliocostal | adj.髂肋的 [domain:解剖]
+iliocostalis | n.髂肋肌 [domain:解剖]
+iliohypogastric | adj.髂腹下的 [domain:解剖]
+iliolumbar | adj.髂腰的 [domain:解剖]
+iliopagus | n.髂部联胎 [domain:医学]
+iliopectineal | adj.髂耻的 [domain:解剖]
+iliopelvic | adj.髂骨盆的 [domain:解剖]
+iliopubic | adj.髂耻的 [domain:解剖]
+iliosacral | adj.髂骶的 [domain:解剖]
+illacrimation | skip:unknown
+illaqueate | v.诱捕, 使陷入 [literary]
+illaqueation | n.诱捕, 陷害 [literary]
+illatively | adv.推论地
+illaudably | adv.不值得称赞地
+illegalise | v.使非法
+illegalization | n.非法化
+illegitimation | n.使非法
+illfare | n.不幸 [dated]
+illicium | n.八角属 [domain:植物]
+illimitableness | n.无限
+illimitation | n.无限
+illipe | n.伊利普树 [domain:植物]
+illitic | adj.伊利石的 [domain:地质]
+illudin | skip:unknown
+illuminata | skip:not-english
+illuministic | skip:unknown
+illuminometer | n.照度计 [domain:物理]
+illusionless | adj.无幻想的
+illutation | n.泥疗 [domain:医学]
+illuviate | v.淀积 [domain:地质]
+ilsemannite | n.蓝钼矿 [domain:矿业]
+ilvaite | n.黑柱石 [domain:矿业]
+imagewise | adv.就图像而言
+imaginability | n.可想象性
+imaginableness | n.可想象性
+imaginariness | n.虚构性
+imaginational | adj.想象的
+imbauba | n.号角树 [domain:植物]
+imbedment | n.嵌入
+imbibant | adj.吸收的
+imbibitional | adj.吸胀的 [domain:植物]
+imbitterer | n.使痛苦者
+imbitterment | n.怨恨
+imbizo | skip:not-english
+imbongi | skip:not-english
+imbracery | skip:unknown
+imbrangle | v.使纠缠
+imbruement | skip:unknown
+imbrutement | n.兽化
+imbuia | n.巴西胡桃木 [domain:植物]
+imburse | v.付款
+imbursement | n.付款
+imidazolidinone | n.咪唑烷酮 [domain:化学]
+imidazolidinyl | n.咪唑烷基 [domain:化学]
+imidazolinone | n.咪唑啉酮 [domain:化学]
+imidazolone | n.咪唑酮 [domain:化学]
+imidazolyl | n.咪唑基 [domain:化学]
+imidazopyridine | n.咪唑并吡啶 [domain:化学]
+imidization | n.酰亚胺化 [domain:化学]
+imidocarb | n.咪多卡 [domain:药学]
+imidochloride | n.亚氨酰氯 [domain:化学]
+imidogen | n.亚氨基 [domain:化学]
+iminazole | n.咪唑 [domain:化学]
+iminourea | n.胍 [domain:化学]
+imitableness | n.可模仿性
+imitancy | skip:unknown
+imitant | adj.模仿的
+imitational | adj.模仿的
+immaculatism | skip:unknown
+immalleable | adj.无延展性的
+immane | adj.巨大的, 凶残的 [literary]
+immanentist | n.内在论者 [domain:哲学]
+immanentistic | adj.内在论的 [domain:哲学]
+immarcescible | adj.不凋谢的, 不朽的 [literary]
+immarginate | skip:unknown
+immaterialise | v.使无形, 使非物质化
+immaterialness | n.非物质性
+immedicably | adv.无法医治地
+immelodious | adj.不悦耳的
+immensurability | n.不可测量
+immergence | n.浸入
+immerser | n.浸入者
+immethodicalness | n.无条理
+immetrical | adj.无韵律的 [domain:文学]
+immie | n.玻璃弹珠 [informal]
+immigrational | adj.移民的
+immigrator | n.移民
+immission | n.注入
+immit | v.注入
+immoralize | v.使堕落
+immortalisation | n.使不朽
+immortalizer | n.使不朽者
+immunifacient | skip:unknown
+immunisin | n.免疫素 [domain:医学]
+immunoadherence | n.免疫黏附 [domain:医学]
+immunoadsorbent | n.免疫吸附剂 [domain:医学]
+immunoadsorption | n.免疫吸附 [domain:医学]
+immunoassayable | adj.可免疫测定的 [domain:医学]
+immunobiologic | adj.免疫生物学的 [domain:医学]
+immunocatalysis | skip:unknown
+immunochemotherapy | n.免疫化学疗法 [domain:医学]
+immunocomplex | n.免疫复合物 [domain:医学]
+immunoconglutin | skip:unknown
+immunoconglutination | skip:unknown
+immunoconglutinin | skip:unknown
+immunocytoadherence | n.免疫细胞黏附 [domain:医学]
+immunocytoadhesion | n.免疫细胞黏附 [domain:医学]
+immunocytochemically | adv.免疫细胞化学地 [domain:医学]
+immunoelectrophoretically | adv.免疫电泳地 [domain:医学]
+immunoenhancement | n.免疫增强 [domain:医学]
+immunofiltration | skip:unknown
+immunoglobulinopathy | n.免疫球蛋白病 [domain:医学]
+immunohematologic | adj.免疫血液学的 [domain:医学]
+immunohematological | adj.免疫血液学的 [domain:医学]
+immunohematologist | n.免疫血液学家 [domain:医学]
+immunohistology | n.免疫组织学 [domain:医学]
+immunomorphology | skip:unknown
+immunoneutropenia | skip:unknown
+immunopancytopenia | skip:unknown
+immunopathy | skip:unknown
+immunophysiology | n.免疫生理学 [domain:医学]
+immunopotentiation | n.免疫增强 [domain:医学]
+immunoprotein | n.免疫蛋白 [domain:医学]
+immunoquantitation | skip:unknown
+immunoradiometry | n.免疫放射测定 [domain:医学]
+immunoradiotherapy | skip:unknown
+immunorepressive | skip:unknown
+immunosedimentation | skip:unknown
+immunoselection | n.免疫选择 [domain:医学]
+immunoserology | n.免疫血清学 [domain:医学]
+immunoserotherapy | skip:unknown
+immunosuppressor | n.免疫抑制剂 [domain:医学]
+immunosurgery | n.免疫手术 [domain:医学]
+immunosympathectomy | n.免疫交感神经切除术 [domain:医学]
+immunotransfusion | skip:unknown
+immusical | adj.不悦耳的, 不懂音乐的
+imolamine | n.依莫拉明 [domain:药学]
+impacter | n.撞击者
+impaint | v.涂饰 [domain:美术]
+impaludation | skip:unknown
+impaludism | n.疟疾 [domain:医学]
+impansion | skip:unknown
+imparidigitate | skip:unknown
+imparkation | skip:unknown
+imparlance | skip:unknown
+impartance | skip:unknown
+impartialist | skip:unknown
+impartialness | n.公正
+impartibility | n.不可分割 [domain:法律]
+impartibly | adv.不可分割地 [domain:法律]
+imparticipable | skip:unknown
+impartment | n.传授
+impassableness | n.不可通行
+impassibleness | n.无感觉
+impassionable | skip:unknown
+impassionate | adj.充满激情的 [literary]
+impastation | n.糊状物 [domain:化学]
+impavidity | n.无畏 [literary]
+impayable | skip:unknown
+impeachability | n.可弹劾性 [domain:法律]
+impeccance | n.无罪
+impeccancy | n.无罪
+impedible | skip:unknown
+impedicellate | skip:unknown
+impedient | adj.妨碍的
+impedimental | adj.妨碍的
+impedimetry | skip:unknown
+impeditive | adj.妨碍的
+impendence | n.迫近
+impendency | n.迫近
+impenetrate | v.渗透
+impenetration | n.渗透
+impenitency | n.不悔改
+impennate | adj.无羽的 [domain:动物]
+imperatorin | n.欧前胡素 [domain:化学]
+imperceivable | adj.不可觉察的
+imperceptibleness | n.难以察觉
+imperception | n.无知觉
+imperceptiveness | n.不敏锐
+impercipience | n.无知觉
+imperforable | skip:unknown
+imperforated | adj.无孔的, 闭锁的 [domain:医学]
+imperforation | n.无孔, 闭锁 [domain:医学]
+imperialine | n.贝母碱 [domain:化学]
+imperiality | n.帝国地位
+imperialize | v.使成帝国
+imperishableness | n.不朽
+impermeableness | n.不透水性
+imperscriptible | skip:unknown
+impersonalise | v.使客观化, 使非人格化
+impersonalism | n.非人格性
+impersonalization | n.非人格化
+impersonative | adj.扮演的
+impersonification | skip:unknown
+impersonify | skip:unknown
+imperturbation | n.镇定
+imperviable | skip:unknown
+impetiginization | skip:unknown
+impetrative | skip:unknown
+impetratory | skip:unknown
+impicture | skip:unknown
+impilation | skip:unknown
+impingent | adj.冲击的, 侵犯的
+implastic | skip:unknown
+impleadable | adj.可起诉的 [domain:法律]
+impledge | v.抵押 [domain:法律]
+implemental | adj.工具的
+implementary | adj.工具的
+impletion | n.充满
+implexed | skip:unknown
+implicant | n.蕴涵项 [domain:逻辑]
+implicator | skip:unknown
+imploration | n.恳求
+imploratory | adj.恳求的
+impolder | skip:unknown
+impolitical | skip:unknown
+impoliticness | n.不明智
+imponderableness | n.无法估量
+imponent | skip:unknown
+imporosity | n.无孔性
+imporous | adj.无孔的
+importability | n.可进口性
+importancy | n.重要性
+importunator | n.纠缠者
+importuner | n.纠缠者
+imposingness | n.庄严
+impositor | skip:unknown
+imposthumate | v.化脓 [domain:医学]
+imposthumation | n.化脓 [domain:医学]
+impostorship | n.冒充
+impostrous | skip:unknown
+imposturous | adj.欺诈的
+imposure | skip:unknown
+impotable | adj.不能饮用的
+impoundage | n.扣押 [domain:法律]
+impredicable | skip:unknown
+impreg | n.浸渍木材 [domain:化学]
+impregnant | n.浸渍剂
+imprescriptibility | n.不可侵犯性 [domain:法律]
+imprescriptibly | adv.不可侵犯地 [domain:法律]
+impressional | adj.印象的
+impressure | n.压印
+improbation | n.否定, 驳斥
+improficiency | n.不熟练
+improvability | n.可改进性
+impsonite | n.沥青岩 [domain:矿业]
+impuberal | adj.未成年的
+impuberty | n.未成年
+impubes | adj.未成年的
+impubic | adj.未成年的
+impudency | n.厚颜无耻
+impugnation | n.反驳
+impugnment | n.反驳
+impulser | n.脉冲器 [domain:电子]
+impulsor | n.推动者
+impunctate | adj.无斑点的 [domain:动物]
+imputableness | n.可归咎性
+imputably | adv.可归咎地
+imputatively | adv.归咎地
+imputrescibility | n.不腐性
+inabsorbability | n.不可吸收性
+inacidity | skip:unknown
+inact | skip:unknown
+inadaptable | adj.不能适应的
+inadaptation | n.不适应
+inadequation | n.不充分
+inadherent | adj.不粘连的
+inadhering | adj.不粘连的
+inadhesion | n.不粘连
+inadhesive | adj.无黏性的
+inadunate | adj.无臂的 [domain:动物]
+inaesthetic | adj.不美的
+inaffable | adj.难接近的 [dated]
+inagglutinability | skip:unknown
+inagglutinable | adj.不可凝集的 [domain:医学]
+inalimental | adj.无营养的
+inalterableness | n.不可改变
+inanga | n.白饵鱼 [domain:动物]
+inanimation | n.无生命
+inantherate | adj.无花药的 [domain:植物]
+inapparently | adv.不明显地
+inappealable | adj.不可上诉的 [domain:法律]
+inappellability | n.不可上诉 [domain:法律]
+inappellable | adj.不可上诉的 [domain:法律]
+inappetency | n.食欲不振
+inappetent | adj.食欲不振的
+inapplication | n.不勤勉
+inappositeness | n.不适当
+inappreciation | n.不赏识
+inappreciativeness | n.不领情
+inapprehensible | adj.难以理解的
+inapprehension | n.不理解
+inapprehensive | adj.不了解的
+inarm | v.拥抱 [literary]
+inaudibleness | n.听不见
+inauguratory | adj.就职的, 开幕的
+inaurate | adj.镀金的
+inauthoritative | adj.无权威的
+inaxon | n.内轴突 [domain:解剖]
+inbent | adj.向内弯的
+inbreak | n.侵入
+inburst | n.爆发
+incaic | skip:proper-out-of-scope
+incalescent | adj.渐热的
+incallosal | skip:unknown
+incanous | adj.灰白的 [domain:植物]
+incapacious | adj.容量小的
+incapsulate | v.封装
+incarnative | adj.促进愈合的 [domain:医学]
+incendive | adj.纵火的
+incendivity | n.点火能力
+incensation | n.焚香
+incensement | n.激怒
+incenser | n.焚香者
+incensor | n.激怒者
+incensory | n.香炉 [domain:宗教]
+incentively | adv.刺激性地
+inceptively | adv.起始地
+incertain | adj.不确定的
+incessancy | n.不间断
+inchoately | adv.初期地
+inchoation | n.开始
+inchoatively | adv.初期地
+incisiform | adj.门齿状的 [domain:解剖]
+incisolabial | adj.切牙唇侧的 [domain:医学]
+incisolingual | adj.切牙舌侧的 [domain:医学]
+incisory | adj.切割的
+incisura | n.切迹 [domain:解剖]
+incitant | n.刺激物
+incitative | adj.刺激的
+incitingly | adv.煽动地
+incitive | adj.刺激的
+incivil | adj.不礼貌的 [dated]
+incivilization | skip:unknown
+inclasp | v.紧抱
+incle | n.宽布带 [dated]
+inclementness | n.严酷
+inclinableness | skip:unknown
+inclinational | adj.倾斜的
+inclinator | n.倾斜计
+inclinatory | adj.倾斜的
+inclip | v.箍紧, 拥抱 [literary]
+incloser | n.围圈者
+includer | n.包含者
+incoagulability | n.不凝固性
+incoagulable | adj.不凝固的
+incobation | skip:unknown
+incogitability | skip:unknown
+incogitancy | n.欠考虑
+incogitant | adj.欠考虑的
+incogitantly | adv.欠考虑地
+incogitative | adj.欠考虑的
+incognizable | adj.不可认知的
+incognoscible | adj.不可认知的
+incohesion | n.无凝聚力
+incohesive | adj.无凝聚力的
+incommodement | skip:unknown
+incommodity | n.不便
+incommutability | n.不可交换
+incommutably | adv.不可交换地
+incommutation | n.不可交换
+incompact | adj.不紧密的
+incompensation | n.无补偿
+incompletability | skip:unknown
+incompletable | skip:unknown
+incompletive | skip:unknown
+incomplex | adj.简单的
+incompliancy | n.不顺从
+incomposite | adj.非复合的
+incomprehensive | adj.不全面的
+incomputability | n.不可计算性 [domain:计算机]
+incomputably | adv.不可计算地 [domain:计算机]
+incondensability | n.不可冷凝性
+incondensibility | n.不可冷凝性
+incondensible | adj.不可冷凝的
+inconducive | adj.无助的
+inconformable | adj.不一致的
+inconformity | n.不一致
+incongealable | adj.不可冻结的
+inconscient | adj.无意识的
+inconsecutively | adv.不连贯地
+inconsequentness | n.不合逻辑
+inconsistentness | n.不一致
+inconsonance | n.不协调
+inconstance | n.易变
+inconsumably | adv.不可消耗地
+incontestible | adj.无可争辩的
+incontinuous | adj.不连续的
+incontrollable | adj.不可控制的
+incontrovertibleness | n.无可争辩
+inconvertibleness | n.不可兑换
+inconvincible | adj.难以说服的
+inconvincibly | adv.难以说服地
+incooperative | adj.不合作的
+incorporable | adj.可合并的
+incorrodable | adj.不可腐蚀的
+incorrodible | adj.不可腐蚀的
+incorrupted | adj.未腐败的
+incorruptive | adj.不易腐败的
+incorruptly | adv.廉洁地
+incostapedial | adj.砧镫的 [domain:解剖]
+incrassant | adj.使变稠的
+incrassation | n.变稠
+incrassative | adj.使变稠的
+increasable | adj.可增加的
+increasedly | adv.增加地
+increasement | n.增加
+incremate | v.焚化
+increscence | n.增长
+incrop | n.露头 [domain:地质]
+incross | n.近交 [domain:生物]
+incrustant | adj.结壳的
+incrustate | v.结壳
+incrystallizable | adj.不可结晶的 [domain:化学]
+incubative | adj.孵化的
+incubatory | adj.孵化的
+incubous | adj.覆瓦状的 [domain:植物]
+incudal | adj.砧骨的 [domain:解剖]
+incudectomy | n.砧骨切除术 [domain:医学]
+incudiform | adj.砧骨状的 [domain:解剖]
+incudomalleal | adj.砧锤的 [domain:解剖]
+incudostapedial | adj.砧镫的 [domain:解剖]
+inculcator | n.灌输者
+inculpability | n.无罪
+inculpableness | n.无罪
+inculpably | adv.无罪地
+inculpative | adj.归罪的
+incult | adj.未开化的 [literary]
+incumbently | adv.负有职责地
+incumbrancer | n.抵押权人 [domain:法律]
+incunable | n.摇篮本 [domain:印刷]
+incunabular | adj.摇篮本的 [domain:印刷]
+incunabulist | n.摇篮本专家 [domain:印刷]
+incuneation | skip:unknown
+incurableness | n.无法治愈
+incuriousness | n.不好奇
+incurvariid | n.冠潜蛾 [domain:动物]
+incurvation | n.内弯
+incurvature | n.内弯
+incurvity | n.内弯
+incustapedic | skip:unknown
+incwadi | skip:not-english
+indaconitine | n.印乌头碱 [domain:化学]
+indagative | adj.探究的 [dated]
+indagator | n.探究者 [dated]
+indamine | n.吲达胺 [domain:化学]
+indanazoline | n.茚唑啉 [domain:药学]
+indandione | n.茚二酮 [domain:化学]
+indane | n.茚满 [domain:化学]
+indanone | n.茚满酮 [domain:化学]
+indanthrene | n.阴丹士林 [domain:化学]
+indanthrone | n.阴丹酮 [domain:化学]
+indanyl | n.茚满基 [domain:化学]
+indate | v.注明日期 [dated]
+indazole | n.吲唑 [domain:化学]
+indazolone | n.吲唑酮 [domain:化学]
+indazolyl | n.吲唑基 [domain:化学]
+indeciduate | adj.无蜕膜的 [domain:动物]
+indeciduous | adj.常绿的 [domain:植物]
+indecomposability | n.不可分解性
+indecorousness | n.不得体
+indefatigableness | n.不倦
+indefeasibly | adv.不可废除地 [domain:法律]
+indefectibility | n.不朽
+indefectibly | adv.不朽地
+indefective | adj.完美的
+indefinability | n.不可定义性
+indefinableness | n.不可定义性
+indefinity | n.不确定
+indeformable | adj.不变形的
+indegree | n.入度 [domain:数学]
+indeliberate | adj.无意的
+indelicateness | n.不雅
+indemnificatory | adj.赔偿的
+indemnifier | n.赔偿人 [domain:法律]
+indemonstrability | n.不可证明性
+indemonstrably | adv.不可证明地
+indene | n.茚 [domain:化学]
+indenofluorene | skip:unknown
+indenoisoquinoline | skip:unknown
+indenol | skip:unknown
+indenolol | n.茚诺洛尔 [domain:药学]
+indenone | n.茚酮 [domain:化学]
+independentista | skip:not-english
+inderborite | n.钙镁硼石 [domain:矿业]
+inderite | n.多水硼镁石 [domain:矿业]
+indescribability | n.难以形容
+indescribableness | n.难以形容
+indestructibleness | n.不可毁灭
+indetectable | adj.检测不到的
+indeterminateness | n.不确定
+indetermined | adj.未定的
+indevotion | n.不虔诚
+indevout | adj.不虔诚的
+indexless | adj.无索引的
+indialite | n.堇青石 [domain:矿业]
+indianite | n.钙长石 [domain:矿业]
+indican | n.靛甙 [domain:化学]
+indicanuria | n.尿靛甙 [domain:医学]
+indicarmine | n.靛胭脂 [domain:化学]
+indicatrix | n.指示曲线 [domain:数学]
+indicial | adj.指数的 [domain:数学]
+indicolite | n.蓝电气石 [domain:矿业]
+indictability | n.可起诉性 [domain:法律]
+indicter | n.起诉人 [domain:法律]
+indictor | n.起诉人 [domain:法律]
+indifferency | n.冷淡
+indiffusible | adj.不可扩散的
+indiffusion | n.不扩散
+indigenousness | n.本土性
+indigest | adj.未消化的 [dated]
+indigestibleness | n.难消化
+indigestive | adj.消化不良的
+indigitation | skip:unknown
+indign | adj.不配的 [dated]
+indignly | skip:unknown
+indigogen | skip:unknown
+indigolite | n.蓝电气石 [domain:矿业]
+indigosol | n.溶靛素 [domain:化学]
+indigotic | adj.靛蓝的
+indirubin | n.靛玉红 [domain:化学]
+indiscernibility | n.不可辨别
+indiscerptibility | n.不可分割
+indiscerptible | adj.不可分割的
+indisciplinable | adj.不可训练的
+indiscoverable | adj.不可发现的
+indiscreetness | n.轻率
+indiscriminateness | n.不加区别
+indiscriminatingly | adv.不加区别地
+indiscriminative | adj.不加区别的
+indiscussible | adj.不可讨论的
+indispensableness | n.不可缺少
+indisposedness | n.不愿
+indisputableness | n.无可争辩
+indissociably | adv.不可分离地
+indissolubleness | n.不可溶解
+indissolvable | adj.不可溶解的
+indissolvableness | n.不可溶解
+indistinction | n.无区别
+indistinctive | adj.无特色的
+indistinctively | adv.无区别地
+indistinguishableness | n.无法区分
+indit | v.写作 [dated]
+inditement | n.写作 [dated]
+inditer | n.作者 [dated]
+indivertible | adj.不可转移的
+individualizer | n.个性化者
+individuator | n.个体化者
+indivisibleness | n.不可分割
+indivision | n.未分割 [domain:法律]
+indivisum | skip:unknown
+indochinite | n.印支石 [domain:地质]
+indoctrinatory | adj.灌输的
+indoctrinization | n.灌输
+indoctrinize | v.灌输
+indoleamine | n.吲哚胺 [domain:化学]
+indolency | n.懒惰 [dated]
+indolenine | n.吲哚烯 [domain:化学]
+indoline | n.吲哚啉 [domain:化学]
+indolizine | n.吲嗪 [domain:化学]
+indolmycin | n.吲哚霉素 [domain:药学]
+indolocarbazole | n.吲哚并咔唑 [domain:化学]

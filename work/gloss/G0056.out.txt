@@ -1,0 +1,1000 @@
+tegular | adj.瓦的, 瓦状的
+tegumental | adj.被皮的, 外皮的 [domain:生物]
+tegumentary | adj.被皮的, 外皮的 [domain:生物]
+teichopsia | n.闪光暗点 [domain:医学]
+teiid | n.美洲蜥蜴科动物 [domain:动物]
+teind | n.什一税 [domain:历史]
+telaesthesia | n.心灵感应 [domain:心理]
+telalgia | n.牵涉痛 [domain:医学]
+telangiectases | skip:not-lemma
+telangiectasy | n.毛细血管扩张 [domain:医学]
+telangiectatic | adj.毛细血管扩张的 [domain:医学]
+telangiectodes | skip:unknown
+telangiectoma | n.毛细血管扩张瘤 [domain:医学]
+telangiitis | n.毛细血管炎 [domain:医学]
+telangioma | n.毛细血管瘤 [domain:医学]
+telangion | skip:unknown
+telangiosis | n.毛细血管扩张 [domain:医学]
+telantograph | skip:unknown
+telautogram | n.传真电报
+telautograph | n.电写传真机
+telautography | n.电写传真术
+telautomatics | skip:unknown
+teleangiectasis | n.毛细血管扩张 [domain:医学]
+teleautograph | n.电写传真机
+teleautomatics | skip:unknown
+telebinocular | n.双眼视力检查器 [domain:医学]
+telecanthus | n.内眦距过宽 [domain:医学]
+telecardiogram | n.遥测心电图 [domain:医学]
+telecardiography | n.遥测心电图描记法 [domain:医学]
+telecenter | n.远程办公中心
+telecentre | n.远程办公中心 [uk]
+telecentric | adj.远心的 [domain:物理]
+teleceptive | skip:unknown
+teleceptor | n.远距离感受器 [domain:生物]
+telechelic | adj.远螯的 [domain:化学]
+telechiric | adj.遥控操作的
+telecobalt | n.钴远距离治疗机 [domain:医学]
+telecobalttherapy | n.钴远距离放疗 [domain:医学]
+telecommand | n.遥控指令 [domain:电子]
+telecommerce | n.电子商务 [domain:商业]
+telecommunicate | v.远程通信
+telecontrol | n.遥控
+telecopy | n.传真 ; v.传真
+telecottage | n.电子村舍, 远程办公点 [uk]
+telediagnosis | n.远程诊断 [domain:医学]
+telediffusion | n.电视广播
+teledu | n.臭獾 [domain:动物]
+telefacsimile | n.传真
+teleidoscope | skip:unknown
+telemarker | n.电话营销员 [domain:商业]
+telemechanic | adj.遥控的
+telemetrically | adv.遥测地
+telemonitor | n.遥测监护仪 [domain:医学]
+teleneuron | n.终末神经元 [domain:解剖]
+teleomitosis | skip:unknown
+teleonomic | adj.目的性的 [domain:生物]
+teleonomy | n.目的性 [domain:生物]
+teleoperator | n.遥控操作器
+teleopsia | n.视物显远症 [domain:医学]
+teleosis | n.目的论 [domain:哲学]
+teleotherapeutics | skip:unknown
+telephonable | adj.可打电话的
+telephonograph | n.电话录音机
+telephotographic | adj.远距摄影的 [domain:摄影]
+teleplasm | n.灵质 [domain:心理]
+teleradiography | n.远距射线摄影 [domain:医学]
+telerecorder | skip:unknown
+telerobot | n.遥控机器人
+telescopicity | skip:unknown
+teleseismology | skip:unknown
+telesthesia | n.心灵感应 [domain:心理]
+telethermal | skip:unknown
+telethermograph | n.遥测温度记录仪
+telethermometer | n.遥测温度计
+telethermoscope | skip:unknown
+teleticketting | skip:junk
+teletransportation | n.远距传物
+teletyper | n.电传打字机
+teleutosorus | n.冬孢子堆 [domain:植物]
+teleutospore | n.冬孢子 [domain:植物]
+teleutostage | skip:unknown
+teleview | v.用电视观看
+televisable | adj.适于电视播放的
+televiser | n.电视发射机
+televisible | adj.适于电视播放的
+televisionary | skip:unknown
+televisionese | n.电视腔
+telically | adv.目的论地
+teliospore | n.冬孢子 [domain:植物]
+telithromycin | n.泰利霉素 [domain:药学]
+tellinid | n.樱蛤科动物 [domain:动物]
+tellurate | n.碲酸盐 [domain:化学]
+telluriferous | adj.含碲的 [domain:化学]
+tellurious | adj.碲的 [domain:化学]
+tellurise | v.使与碲化合 [domain:化学]
+tellurism | n.地磁力
+tellurize | v.使与碲化合 [domain:化学]
+tellurometer | n.微波测距仪 [domain:地理]
+tellurous | adj.亚碲的 [domain:化学]
+teloblast | n.端母细胞 [domain:生物]
+teloblastic | adj.端母细胞的 [domain:生物]
+telocentric | adj.端着丝粒的 [domain:生物]
+telodendria | skip:not-lemma
+telodendrion | n.神经末梢分支 [domain:解剖]
+telodendron | n.神经末梢分支 [domain:解剖]
+telodrin | n.碳氯灵 [domain:化学]
+telodynamic | adj.远距传动的 [domain:机械]
+telofemur | skip:unknown
+telofilum | skip:unknown
+telogene | skip:unknown
+telogenetic | skip:unknown
+telokinesis | n.意念移物
+telolecithal | adj.端黄的 [domain:生物]
+telome | n.顶枝 [domain:植物]
+telomer | n.调聚物 [domain:化学]
+telomitic | skip:unknown
+telosynapsis | skip:unknown
+telosyndesis | skip:unknown
+telotarsus | skip:unknown
+telotaxis | n.趋远性 [domain:生物]
+telotroch | n.端纤毛环 [domain:动物]
+telotrocha | n.端纤毛环幼虫 [domain:动物]
+telotrochal | adj.端纤毛环的 [domain:动物]
+telotype | skip:unknown
+telpherage | n.架空索道运输
+temephos | n.双硫磷 [domain:化学]
+temerariousness | n.鲁莽
+temmoku | n.天目釉 [domain:美术]
+temperable | adj.可调和的
+tempersome | skip:unknown
+tempestite | n.风暴岩 [domain:地质]
+templed | adj.有庙宇的
+templelike | adj.庙宇般的
+temporalize | v.使世俗化
+temporalness | skip:unknown
+temporocentral | skip:unknown
+temporocerebellar | adj.颞叶小脑的 [domain:解剖]
+temporofacial | adj.颞面的 [domain:解剖]
+temporofrontal | adj.颞额的 [domain:解剖]
+temporohyoid | adj.颞舌骨的 [domain:解剖]
+temporomalar | adj.颞颧的 [domain:解剖]
+temporomaxillary | adj.颞上颌的 [domain:解剖]
+temporopontile | adj.颞桥的 [domain:解剖]
+temporospatial | adj.时空的
+temporosphenoid | adj.颞蝶骨的 [domain:解剖]
+temporozygomatic | adj.颞颧的 [domain:解剖]
+temptability | n.易受诱惑
+temptatious | adj.诱惑的
+temse | n.筛子
+tenacula | skip:not-lemma
+tenantlike | adj.佃户般的
+tenantship | n.租佃
+tendence | skip:unknown
+tendencious | adj.有倾向性的
+tendergreen | n.芜菁叶 [domain:植物]
+tenderisation | n.嫩化 [domain:烹饪]
+tenderometer | n.嫩度计 [domain:烹饪]
+tendinoplastic | adj.腱成形术的 [domain:医学]
+tendinoplasty | n.腱成形术 [domain:医学]
+tendinosuture | n.腱缝合术 [domain:医学]
+tendolysis | n.腱松解术 [domain:医学]
+tendoplasty | n.腱成形术 [domain:医学]
+tendosynovitis | n.腱鞘炎 [domain:医学]
+tendotome | n.腱刀 [domain:医学]
+tendotomy | n.腱切断术 [domain:医学]
+tendovaginal | adj.腱鞘的 [domain:解剖]
+tendovaginitis | n.腱鞘炎 [domain:医学]
+tendrac | n.马岛猬 [domain:动物]
+tendriled | adj.有卷须的 [domain:植物]
+tendrilous | adj.有卷须的 [domain:植物]
+tenebrescence | skip:unknown
+tenebrionid | n.拟步甲科昆虫 [domain:动物]
+tenebrist | n.暗色调派画家 [domain:美术]
+tenectomy | n.腱切除术 [domain:医学]
+tenementary | skip:unknown
+teneral | adj.初羽化的 [domain:动物]
+tenesmic | adj.里急后重的 [domain:医学]
+tengerite | n.钇碳酸盐矿 [domain:矿业]
+teniacide | n.杀绦虫药 [domain:药学]
+teniafugal | adj.驱绦虫的 [domain:药学]
+teniafuge | n.驱绦虫药 [domain:药学]
+teniasis | n.绦虫病 [domain:医学]
+tenicide | n.杀绦虫药 [domain:药学]
+teniform | adj.带状的
+tenifuge | n.驱绦虫药 [domain:药学]
+teniposide | n.替尼泊苷 [domain:药学]
+tennantite | n.砷黝铜矿 [domain:矿业]
+tenodesis | n.腱固定术 [domain:医学]
+tenodynia | n.腱痛 [domain:医学]
+tenolysis | n.腱松解术 [domain:医学]
+tenomyoplasty | n.腱肌成形术 [domain:医学]
+tenomyotomy | n.腱肌切断术 [domain:医学]
+tenonectomy | n.腱切除术 [domain:医学]
+tenonitis | n.腱炎 [domain:医学]
+tenonitrozole | n.替诺硝唑 [domain:药学]
+tenontagra | skip:unknown
+tenontitis | n.腱炎 [domain:医学]
+tenontodynia | n.腱痛 [domain:医学]
+tenontography | skip:unknown
+tenontology | n.腱学 [domain:医学]
+tenophyte | n.腱赘 [domain:医学]
+tenoplastic | adj.腱成形术的 [domain:医学]
+tenoplasty | n.腱成形术 [domain:医学]
+tenorist | n.男高音歌手 [domain:音乐]
+tenorite | n.黑铜矿 [domain:矿业]
+tenoroon | n.次中音巴松管 [domain:音乐]
+tenorrhaphy | n.腱缝合术 [domain:医学]
+tenositis | n.腱炎 [domain:医学]
+tenostosis | n.腱骨化 [domain:医学]
+tenosuture | n.腱缝合术 [domain:医学]
+tenosynovectomy | n.腱鞘切除术 [domain:医学]
+tenotome | n.腱刀 [domain:医学]
+tenotomize | v.行腱切断术 [domain:医学]
+tenovaginitis | n.腱鞘炎 [domain:医学]
+tenoxicam | n.替诺昔康 [domain:药学]
+tenpounder | n.十磅重的东西
+tensammetry | skip:unknown
+tensibility | n.可拉伸性
+tensible | adj.可拉伸的
+tenside | n.表面活性剂 [domain:化学]
+tensimeter | n.压力计
+tensioactive | adj.表面活性的 [domain:化学]
+tensiometry | n.张力测定法 [domain:物理]
+tensity | n.紧张度
+tensive | adj.张力的
+tensometer | n.拉力计 [domain:机械]
+tenson | skip:unknown
+tensure | skip:unknown
+tentacula | skip:not-lemma
+tentaculated | adj.有触手的 [domain:动物]
+tentaculiferous | adj.有触手的 [domain:动物]
+tentaculiform | adj.触手状的 [domain:动物]
+tentaculite | n.锥石 [domain:地质]
+tentaculocyst | n.触手囊 [domain:动物]
+tentered | adj.用张布架拉紧的 [domain:纺织]
+tenthredinid | n.叶蜂科昆虫 [domain:动物]
+tentie | skip:unknown
+tentiginous | adj.淫欲强烈的
+tentigo | n.淫欲亢进
+tentillum | n.小触手 [domain:动物]
+tentless | adj.无帐篷的
+tentlike | adj.帐篷状的
+tentoria | skip:not-lemma
+tenty | adj.留心的
+tenuirostral | adj.细嘴的 [domain:动物]
+tenulin | n.细叶堆心菊素 [domain:化学]
+tenurable | adj.可保有的
+tenzon | n.辩论诗 [domain:文学]
+tepache | n.龙舌兰发酵饮料 [domain:烹饪]
+tepetate | n.钙质硬土层 [domain:地质]
+tephigram | n.温熵图 [domain:气象]
+tephrite | n.碱玄岩 [domain:地质]
+tephrochronology | n.火山灰年代学 [domain:地质]
+tephroite | n.锰橄榄石 [domain:矿业]
+tephromalacia | skip:unknown
+tephromyelitis | n.脊髓灰质炎 [domain:医学]
+tephrosin | n.灰叶素 [domain:化学]
+tepor | n.微温
+tepoy | skip:unknown
+terakihi | n.红鲷 [domain:动物]
+teraohm | n.太欧姆 [domain:电子]
+teraph | skip:unknown
+terata | skip:not-lemma
+teratic | adj.畸形的 [domain:医学]
+teratism | n.畸形 [domain:医学]
+teratoblastoma | n.畸胎母细胞瘤 [domain:医学]
+teratocarcinoma | n.畸胎癌 [domain:医学]
+teratogenetic | adj.致畸的 [domain:医学]
+teratogenous | adj.致畸的 [domain:医学]
+teratogeny | n.畸形发生 [domain:医学]
+teratoid | adj.畸胎样的 [domain:医学]
+teratologic | adj.畸形学的 [domain:医学]
+teratomatous | adj.畸胎瘤的 [domain:医学]
+teratophobia | n.畸形恐惧症 [domain:心理]
+teratospermia | n.畸形精子症 [domain:医学]
+teravolt | n.太电子伏 [domain:物理]
+terbacil | n.特草定 [domain:农业]
+terbia | n.氧化铽 [domain:化学]
+terbic | adj.铽的 [domain:化学]
+terbufos | n.特丁硫磷 [domain:农业]
+terbumeton | n.特丁通 [domain:农业]
+terbuthylazine | n.特丁津 [domain:农业]
+terbutryn | n.去草净 [domain:农业]
+terebene | n.松节油萜 [domain:化学]
+terebic | adj.松节酸的 [domain:化学]
+terebinthinate | adj.松节油的
+terebrant | adj.有产卵钻的 [domain:动物]
+terebrate | v.钻孔
+terebration | n.钻孔
+terebratula | n.穿孔贝 [domain:动物]
+terebratulid | n.穿孔贝科动物 [domain:动物]
+terefah | adj.不洁净的 [domain:宗教]
+terella | n.球形磁石模型 [domain:物理]
+terephthalonitrile | n.对苯二甲腈 [domain:化学]
+terephthaloyl | n.对苯二甲酰 [domain:化学]
+terfenadine | n.特非那定 [domain:药学]
+terfez | n.沙漠松露 [domain:植物]
+tergal | adj.背部的 [domain:动物]
+tergant | adj.背向的
+tergeminate | adj.三对生的 [domain:植物]
+tergiversator | n.叛节者
+tergosternal | adj.背腹的 [domain:动物]
+teriparatide | n.特立帕肽 [domain:药学]
+terlinguaite | n.氯氧汞矿 [domain:矿业]
+terlipressin | n.特利加压素 [domain:药学]
+termierite | n.水硅铝石 [domain:矿业]
+terminability | n.可终止性
+terminableness | n.可终止性
+terminably | adv.有期限地
+terminad | adv.向末端 [domain:解剖]
+terminational | adj.末端的
+terminative | adj.终结的
+terminism | n.唯名论
+terminist | n.唯名论者
+termitaria | skip:not-lemma
+termitic | adj.白蚁的 [domain:动物]
+termitocole | n.白蚁客 [domain:动物]
+termitologist | n.白蚁学家 [domain:动物]
+termitophagous | adj.食白蚁的 [domain:动物]
+termitophile | n.嗜白蚁生物 [domain:动物]
+termolecular | adj.三分子的 [domain:化学]
+termor | n.定期产权人 [domain:法律]
+termwise | adv.逐项地 [domain:数学]
+ternately | adv.三出地 [domain:植物]
+terneplate | n.镀铅锡合金钢板
+ternion | n.三个一组
+terotechnology | n.设备综合工程学
+terpane | n.萜烷 [domain:化学]
+terpeneless | adj.不含萜烯的 [domain:化学]
+terpenyl | n.萜烯基 [domain:化学]
+terpin | n.萜品 [domain:化学]
+terpinene | n.萜品烯 [domain:化学]
+terpinol | n.萜品醇 [domain:化学]
+terpinolene | n.异松油烯 [domain:化学]
+terpinyl | n.萜品基 [domain:化学]
+terpolymer | n.三元共聚物 [domain:化学]
+terpolymerization | n.三元共聚 [domain:化学]
+terramara | n.泥灰堆积遗址 [domain:历史]
+terraneous | adj.陆生的
+terrella | n.球形磁石模型 [domain:物理]
+terreous | adj.土的
+terret | n.马缰环
+terricolous | adj.陆栖的 [domain:生物]
+territoried | adj.有领土的
+terrorisation | n.恐怖统治 [uk]
+terrorless | adj.无恐怖的
+tersanctus | n.三圣颂 [domain:宗教]
+tertial | n.三级飞羽 [domain:动物]
+tertigravida | n.第三次怀孕妇女 [domain:医学]
+tertipara | n.三产妇 [domain:医学]
+teruggite | n.水砷钙镁石 [domain:矿业]
+tervalence | n.三价 [domain:化学]
+tervalent | adj.三价的 [domain:化学]
+terzet | n.三重唱 [domain:音乐]
+teschenite | n.黝方碱绿岩 [domain:地质]
+teslameter | n.特斯拉计 [domain:物理]
+tesselate | v.镶嵌成方格
+tessella | n.小方块
+tessellar | adj.方格状的
+tesseral | adj.等轴的 [domain:矿业]
+tessiture | n.音域 [domain:音乐]
+testacean | n.有壳变形虫 [domain:动物]
+testaceology | n.贝类学 [domain:动物]
+testacy | n.有遗嘱 [domain:法律]
+testamental | adj.遗嘱的 [domain:法律]
+testamur | n.考试合格证书 [uk]
+testation | n.立遗嘱 [domain:法律]
+testectomy | n.睾丸切除术 [domain:医学]
+testibiopalladite | n.碲铋钯矿 [domain:矿业]
+testicond | adj.睾丸隐于腹内的 [domain:动物]
+testiculate | adj.睾丸状的
+testiere | n.马头甲 [domain:历史]
+testifiable | adj.可作证的
+testificate | n.证明书 [domain:法律]
+testification | n.作证 [domain:法律]
+testimonialise | v.出具证明书 [uk]
+testimonialize | v.出具证明书
+testitis | n.睾丸炎 [domain:医学]
+testitoxicosis | n.睾丸毒症 [domain:医学]
+testolactone | n.睾内酯 [domain:药学]
+testoon | n.古代硬币 [domain:历史]
+testudinal | adj.龟的 [domain:动物]
+testudinarious | adj.龟甲状的
+testudinate | adj.龟甲状的
+testudinated | adj.龟甲状的
+testudineous | adj.龟甲状的
+tetanal | adj.破伤风的 [domain:医学]
+tetanically | adv.强直性地 [domain:医学]
+tetanilla | n.手足搐搦 [domain:医学]
+tetanism | n.强直性痉挛 [domain:医学]
+tetanization | n.强直收缩 [domain:医学]
+tetanize | v.使强直收缩 [domain:医学]
+tetanogenic | adj.引起破伤风的 [domain:医学]
+tetanoid | adj.类破伤风的 [domain:医学]
+tetanolysin | n.破伤风溶血素 [domain:医学]
+tetanomotor | n.强直收缩诱发器 [domain:医学]
+tetanospasmin | n.破伤风痉挛毒素 [domain:医学]
+tetanotoxin | n.破伤风毒素 [domain:医学]
+tetartanopia | n.第四色盲 [domain:医学]
+tetartocone | n.第四尖 [domain:解剖]
+tetartoconid | n.下第四尖 [domain:解剖]
+tetartohedral | adj.四分面体的 [domain:矿业]
+tetched | adj.古怪的
+tetraacetate | n.四乙酸盐 [domain:化学]
+tetraalkyllead | n.四烷基铅 [domain:化学]
+tetrabasic | adj.四元的 [domain:化学]
+tetraborane | n.丁硼烷 [domain:化学]
+tetraborate | n.四硼酸盐 [domain:化学]
+tetrabrach | n.四短音节音步 [domain:文学]
+tetrabranchiate | adj.四鳃的 [domain:动物]
+tetrabromide | n.四溴化物 [domain:化学]
+tetrabromoethane | n.四溴乙烷 [domain:化学]
+tetrabromomethane | n.四溴化碳 [domain:化学]
+tetrabutylammonium | n.四丁基铵 [domain:化学]
+tetracaine | n.丁卡因 [domain:药学]
+tetracarbonyl | n.四羰基化合物 [domain:化学]
+tetracarpellary | adj.四心皮的 [domain:植物]
+tetracene | n.并四苯 [domain:化学]
+tetrachlorethylene | n.四氯乙烯 [domain:化学]
+tetrachlorobenzene | n.四氯苯 [domain:化学]
+tetrachloroethane | n.四氯乙烷 [domain:化学]
+tetrachloromethane | n.四氯化碳 [domain:化学]
+tetrachlorophenol | n.四氯酚 [domain:化学]
+tetrachlorvinphos | n.杀虫畏 [domain:农业]
+tetrachoric | adj.四分的 [domain:统计]
+tetrachotomous | adj.四分的
+tetrachromatic | adj.四色的
+tetracid | adj.四酸价的 [domain:化学]
+tetracontane | n.四十烷 [domain:化学]
+tetracoral | n.四射珊瑚 [domain:动物]
+tetracosactrin | n.替可克肽 [domain:药学]
+tetracosane | n.二十四烷 [domain:化学]
+tetract | adj.四轴的 [domain:动物]
+tetracuspid | adj.四尖的 [domain:解剖]
+tetracyanoethylene | n.四氰乙烯 [domain:化学]
+tetradactyl | adj.四趾的 [domain:动物]
+tetradactylous | adj.四趾的 [domain:动物]
+tetradecane | n.十四烷 [domain:化学]
+tetradecanoyl | n.十四酰基 [domain:化学]
+tetradecapeptide | n.十四肽 [domain:化学]
+tetradecyl | n.十四烷基 [domain:化学]
+tetradentate | adj.四齿的 [domain:化学]
+tetradic | adj.四个一组的
+tetradifon | n.三氯杀螨砜 [domain:农业]
+tetradymite | n.辉碲铋矿 [domain:矿业]
+tetradynamia | n.四强雄蕊类 [domain:植物]
+tetradynamous | adj.四强雄蕊的 [domain:植物]
+tetraedrite | n.黝铜矿 [domain:矿业]
+tetraether | n.四醚 [domain:化学]
+tetraethoxysilane | n.正硅酸乙酯 [domain:化学]
+tetraethylenepentamine | n.四乙烯五胺 [domain:化学]
+tetraethylpyrophosphate | n.焦磷酸四乙酯 [domain:化学]
+tetrafluoromethane | n.四氟化碳 [domain:化学]
+tetrafunctional | adj.四官能的 [domain:化学]
+tetraglyme | n.四甘醇二甲醚 [domain:化学]
+tetragonally | adv.四方地
+tetragonous | adj.四角的 [domain:植物]
+tetragynous | adj.四雌蕊的 [domain:植物]
+tetrahedrane | n.四面体烷 [domain:化学]
+tetrahedrite | n.黝铜矿 [domain:矿业]
+tetrahexahedron | n.四六面体 [domain:数学]
+tetrahydric | adj.四羟基的 [domain:化学]
+tetrahydrobiopterin | n.四氢生物蝶呤 [domain:化学]
+tetrahydronaphthalene | n.四氢化萘 [domain:化学]
+tetrahydroquinoline | n.四氢喹啉 [domain:化学]
+tetrahydrothiophene | n.四氢噻吩 [domain:化学]
+tetrahydrozoline | n.四氢唑啉 [domain:药学]
+tetraiodothyronine | n.甲状腺素 [domain:医学]
+tetrakaidecahedron | n.十四面体 [domain:数学]
+tetrakishexahedron | n.四六面体 [domain:数学]
+tetralin | n.四氢化萘 [domain:化学]
+tetralone | n.四氢萘酮 [domain:化学]
+tetrameral | adj.四部分的
+tetramerism | n.四分性
+tetramerous | adj.四基数的 [domain:植物]
+tetramethrin | n.胺菊酯 [domain:农业]
+tetramethylbenzene | n.四甲苯 [domain:化学]
+tetramethylene | n.四亚甲基 [domain:化学]
+tetramethylenediamine | n.丁二胺 [domain:化学]
+tetramethylethylenediamine | n.四甲基乙二胺 [domain:化学]
+tetramethyllead | n.四甲基铅 [domain:化学]
+tetramethylsilane | n.四甲基硅烷 [domain:化学]
+tetramethylurea | n.四甲基脲 [domain:化学]
+tetramine | n.四胺 [domain:化学]
+tetramisole | n.四咪唑 [domain:药学]
+tetramorph | n.四形象 [domain:美术]
+tetranactin | n.四活菌素 [domain:药学]
+tetrandrine | n.汉防己甲素 [domain:药学]
+tetrandrous | adj.四雄蕊的 [domain:植物]
+tetranitromethane | n.四硝基甲烷 [domain:化学]
+tetranuclear | adj.四核的 [domain:化学]
+tetranucleotide | n.四核苷酸 [domain:化学]
+tetranychid | n.叶螨科动物 [domain:动物]
+tetraonid | n.松鸡科鸟类 [domain:动物]
+tetraoxide | n.四氧化物 [domain:化学]
+tetraparesis | n.四肢轻瘫 [domain:医学]
+tetrapetalous | adj.四花瓣的 [domain:植物]
+tetraphenylmethane | n.四苯甲烷 [domain:化学]
+tetraphosphate | n.四磷酸盐 [domain:化学]
+tetraphyllous | adj.四叶的 [domain:植物]
+tetraploidy | n.四倍性 [domain:生物]
+tetrapolar | adj.四极的
+tetrapropylene | n.四聚丙烯 [domain:化学]
+tetrapterous | adj.四翅的 [domain:动物]
+tetrapyrrole | n.四吡咯 [domain:化学]
+tetraquetrous | adj.四棱的 [domain:植物]
+tetraradiate | adj.四辐射的 [domain:动物]
+tetrarchical | adj.四分之一领地统治者的 [domain:历史]
+tetrasaccharide | n.四糖 [domain:化学]
+tetrasepalous | adj.四萼片的 [domain:植物]
+tetrasilane | n.丁硅烷 [domain:化学]
+tetraskelion | n.四曲腿图案 [domain:美术]
+tetrasome | n.四体 [domain:生物]
+tetrasomic | adj.四体的 [domain:生物]
+tetrasomy | n.四体性 [domain:生物]
+tetraspermous | adj.四种子的 [domain:植物]
+tetrasporangium | n.四分孢子囊 [domain:植物]
+tetraspore | n.四分孢子 [domain:植物]
+tetrastich | n.四行诗 [domain:文学]
+tetrastichiasis | n.四行睫 [domain:医学]
+tetrastichous | adj.四列的 [domain:植物]
+tetrastyle | n.四柱式建筑 [domain:建筑]
+tetrasulfide | n.四硫化物 [domain:化学]
+tetrasyllabical | adj.四音节的
+tetraterpene | n.四萜 [domain:化学]
+tetrathiafulvalene | n.四硫富瓦烯 [domain:化学]
+tetrathionate | n.连四硫酸盐 [domain:化学]
+tetratomic | adj.四原子的 [domain:化学]
+tetratriacontane | n.三十四烷 [domain:化学]
+tetravalence | n.四价 [domain:化学]
+tetraxial | adj.四轴的
+tetraxon | n.四轴骨针 [domain:动物]
+tetrazene | n.四氮烯 [domain:化学]
+tetrazepam | n.四氢西泮 [domain:药学]
+tetrazine | n.四嗪 [domain:化学]
+tetrazole | n.四唑 [domain:化学]
+tetrazolyl | n.四唑基 [domain:化学]
+tetritol | n.丁糖醇 [domain:化学]
+tetrol | n.四醇 [domain:化学]
+tetrose | n.丁糖 [domain:化学]
+tetroxoprim | n.四氧普林 [domain:药学]
+tetryl | n.特屈儿 [domain:化学]
+tetterwort | n.白屈菜 [domain:植物]
+tewel | n.烟道口
+tewit | n.凤头麦鸡 [domain:动物]
+textiform | adj.织物状的
+texturizer | n.组织化剂
+thalamectomy | n.丘脑切除术 [domain:医学]
+thalamencephalic | adj.丘脑脑的 [domain:解剖]
+thalamencephalon | n.丘脑脑 [domain:解剖]
+thalamiflorous | adj.花托花的 [domain:植物]
+thalamostriate | adj.丘脑纹状体的 [domain:解剖]
+thalamotomy | n.丘脑切开术 [domain:医学]
+thalassaemic | adj.地中海贫血的 [domain:医学]
+thalassemic | adj.地中海贫血的 [domain:医学]
+thalassocrat | n.海上霸主 [domain:历史]
+thalassocratic | adj.海上霸权的 [domain:历史]
+thalassography | n.海洋学 [domain:地理]
+thalassology | n.海洋学 [domain:地理]
+thalassophobia | n.深海恐惧症 [domain:心理]
+thallic | adj.三价铊的 [domain:化学]
+thalliform | adj.叶状体状的 [domain:植物]
+thalline | adj.叶状体的 [domain:植物]
+thallious | adj.亚铊的 [domain:化学]
+thalloid | adj.叶状体状的 [domain:植物]
+thallophytic | adj.原植体植物的 [domain:植物]
+thallospore | n.叶状孢子 [domain:植物]
+thallous | adj.亚铊的 [domain:化学]
+thanage | n.塞恩领地 [domain:历史]
+thanatocoenosis | n.死亡群落 [domain:地质]
+thanatophilia | n.恋死癖 [domain:心理]
+thanatophoric | adj.致死的 [domain:医学]
+thanatosis | n.假死 [domain:动物]
+thanedom | n.塞恩领地 [domain:历史]
+thanehood | n.塞恩身份 [domain:历史]
+thaneship | n.塞恩身份 [domain:历史]
+tharfcake | n.无酵饼 [dated]
+tharm | n.肠线
+thaumasite | n.硅灰石膏 [domain:矿业]
+thaumatin | n.奇异果甜蛋白 [domain:化学]
+thaumatology | n.奇迹学
+thaumaturgics | n.魔术
+thawless | adj.不融化的
+thawy | adj.融化的
+theaceous | adj.山茶科的 [domain:植物]
+theaflavin | n.茶黄素 [domain:化学]
+theandric | adj.神人合一的 [domain:宗教]
+theanthropic | adj.神人合一的 [domain:宗教]
+theanthropism | n.神人同性论 [domain:宗教]
+theanthropist | n.神人同性论者 [domain:宗教]
+thearchic | adj.神治的
+thearchy | n.神治
+thearubigin | n.茶红素 [domain:化学]
+theatricalization | n.戏剧化
+theatromania | n.戏剧狂 [domain:心理]
+theatrophone | n.剧场电话
+thebaic | adj.鸦片的
+thebaism | n.鸦片中毒 [domain:医学]
+thecate | adj.有鞘的 [domain:生物]
+thecial | adj.鞘的 [domain:生物]
+thecitis | n.腱鞘炎 [domain:医学]
+thecium | n.子囊层 [domain:植物]
+thecodont | adj.槽齿的 [domain:动物]
+thecoma | n.卵泡膜细胞瘤 [domain:医学]
+theelin | n.雌酮 [domain:药学]
+theelol | n.雌三醇 [domain:药学]
+theftbote | n.私和盗窃罪 [domain:法律]
+theftproof | adj.防盗的
+theftuous | adj.偷窃的
+theileriasis | n.泰勒虫病 [domain:医学]
+thelarche | n.乳房初发育 [domain:医学]
+thelaziasis | n.吸吮线虫病 [domain:医学]
+thelitis | n.乳头炎 [domain:医学]
+thelycum | n.纳精囊 [domain:动物]
+thelytokous | adj.产雌孤雌生殖的 [domain:生物]
+thelytoky | n.产雌孤雌生殖 [domain:生物]
+thematization | n.主题化
+thenardite | n.芒硝 [domain:矿业]
+thenoyl | n.噻吩甲酰 [domain:化学]
+thenoyltrifluoroacetone | n.噻吩甲酰三氟丙酮 [domain:化学]
+theocentrism | n.神中心论 [domain:宗教]
+theocrasy | n.诸神融合 [domain:宗教]
+theodolitic | adj.经纬仪的 [domain:地理]
+theogonic | adj.神谱的 [domain:神话]
+theolatry | n.崇拜神 [domain:宗教]
+theolog | n.神学生 [informal]
+theologer | n.神学家 [dated]
+theologics | n.神学
+theologiser | n.神学家 [uk]
+theologizer | n.神学家
+theomancy | n.神谕占卜 [domain:宗教]
+theomania | n.自以为神狂 [domain:心理]
+theomaniac | n.自以为神的狂人 [domain:心理]
+theomorphic | adj.神形的 [domain:宗教]
+theonomous | adj.神律的 [domain:哲学]
+theonomy | n.神律 [domain:哲学]
+theopathy | n.神感 [domain:宗教]
+theophagy | n.食神 [domain:宗教]
+theophanic | adj.神显的 [domain:宗教]
+theophilanthropy | n.神爱论 [domain:历史]
+theophobia | n.恐神症 [domain:心理]
+theopneust | adj.神启的 [domain:宗教]
+theopneustic | adj.神启的 [domain:宗教]
+theorbist | n.台奥伯琴演奏者 [domain:音乐]
+theorematic | adj.定理的 [domain:数学]
+theorematical | adj.定理的 [domain:数学]
+theorematist | n.定理证明者 [domain:数学]
+theorical | adj.理论的 [dated]
+theosoph | n.通神论者 [domain:宗教]
+theosophism | n.通神论 [domain:宗教]
+theotechnic | adj.神灵干预的 [domain:文学]
+theoterrorism | n.宗教恐怖主义
+theralite | n.霞斜岩 [domain:地质]
+therapeusis | n.治疗 [domain:医学]
+therapeutant | n.治疗剂 [domain:医学]
+therapeutist | n.治疗学家 [domain:医学]
+thereagainst | adv.对此 [dated]
+thereamong | adv.其中 [dated]
+therearound | adv.在其周围 [dated]
+thereaway | adv.在那边 [dated]
+theriaca | n.万应解毒剂 [domain:药学]
+theriacal | adj.解毒的 [domain:药学]
+therianthropic | adj.半人半兽的 [domain:神话]
+theridiid | n.球腹蛛科动物 [domain:动物]
+theriomorph | n.兽形神 [domain:神话]
+theriomorphic | adj.兽形的 [domain:神话]
+thermalgesia | n.热痛觉 [domain:医学]
+thermalgia | n.灼痛 [domain:医学]
+thermantidote | n.冷风扇
+thermate | n.铝热剂燃烧弹 [domain:军事]
+thermesthesia | n.温觉 [domain:医学]
+thermie | n.兆卡 [domain:物理]
+thermization | n.低温杀菌 [domain:烹饪]
+thermoacidophile | n.嗜热嗜酸菌 [domain:生物]
+thermoanalysis | n.热分析 [domain:化学]
+thermobalance | n.热天平 [domain:化学]
+thermobiology | n.热生物学 [domain:生物]
+thermocauterization | n.热烙术 [domain:医学]
+thermocell | n.热电池 [domain:物理]
+thermochemist | n.热化学家 [domain:化学]
+thermochromism | n.热致变色 [domain:化学]
+thermocoagulation | n.热凝固术 [domain:医学]
+thermocompression | n.热压 [domain:机械]
+thermocompressor | n.热压缩机 [domain:机械]
+thermoconductivity | n.热导率 [domain:物理]
+thermocycling | n.热循环 [domain:化学]
+thermode | n.热电极 [domain:电子]
+thermodenaturation | n.热变性 [domain:化学]
+thermodiffusion | n.热扩散 [domain:物理]
+thermodilution | n.热稀释法 [domain:医学]
+thermoduric | adj.耐热的 [domain:生物]
+thermoeconomics | n.热经济学 [domain:经济]
+thermoelasticity | n.热弹性 [domain:物理]
+thermoelectrical | adj.热电的 [domain:物理]
+thermoelectrically | adv.热电地 [domain:物理]
+thermoelectron | n.热电子 [domain:物理]
+thermoelectronic | adj.热电子的 [domain:物理]
+thermoelement | n.热电偶 [domain:物理]
+thermofission | n.热裂变 [domain:物理]
+thermoform | v.热成型 [domain:机械]
+thermoformable | adj.可热成型的 [domain:机械]
+thermogenetic | adj.产热的 [domain:生物]
+thermogenics | n.产热学 [domain:生物]
+thermogenous | adj.产热的 [domain:生物]
+thermographer | n.热像师 [domain:医学]
+thermographically | adv.用热像图地 [domain:医学]
+thermogravimetry | n.热重分析 [domain:化学]
+thermohydraulics | n.热工水力学 [domain:物理]
+thermojunction | n.热电偶 [domain:物理]
+thermolability | n.热不稳定性 [domain:化学]
+thermology | n.热学 [domain:物理]
+thermolysin | n.嗜热菌蛋白酶 [domain:化学]
+thermolytic | adj.热解的 [domain:化学]
+thermomagnetic | adj.热磁的 [domain:物理]
+thermomechanics | n.热力学 [domain:物理]
+thermometrical | adj.温度计的
+thermometrograph | n.温度记录器
+thermonasty | n.感热性 [domain:植物]
+thermonatrite | n.水碱 [domain:矿业]
+thermoneutral | adj.热中性的 [domain:生物]
+thermoneutrality | n.热中性 [domain:生物]
+thermopause | n.热层顶 [domain:气象]
+thermoperiodism | n.温周期现象 [domain:植物]
+thermophilous | adj.嗜热的 [domain:生物]
+thermophone | n.热致发声器 [domain:物理]
+thermophore | n.保温器
+thermophoresis | n.热泳 [domain:物理]
+thermophotovoltaic | adj.热光伏的 [domain:物理]
+thermophyte | n.嗜热植物 [domain:植物]
+thermoplasticity | n.热塑性 [domain:化学]
+thermoremanent | adj.热剩磁的 [domain:地质]
+thermoscopic | adj.验温的
+thermosensor | n.温度传感器 [domain:电子]
+thermospheric | adj.热层的 [domain:气象]
+thermoswitch | n.热敏开关 [domain:电子]
+thermotactic | adj.趋温的 [domain:生物]
+thermotolerance | n.耐热性 [domain:生物]
+thermotolerant | adj.耐热的 [domain:生物]
+thermotropism | n.向温性 [domain:生物]
+thermowell | n.测温套管 [domain:机械]
+therology | n.哺乳动物学 [domain:动物]
+therophyte | n.一年生植物 [domain:植物]
+thesaurismosis | n.贮积病 [domain:医学]
+thesaurosis | n.贮积病 [domain:医学]
+thesmothete | n.立法者 [domain:历史]
+thetically | adv.断言地
+thetine | n.硫乙内盐 [domain:化学]
+theurgical | adj.神术的 [domain:宗教]
+thevetin | n.黄花夹竹桃苷 [domain:药学]
+thewed | adj.肌肉发达的 [literary]
+thewless | adj.软弱的 [literary]
+thiacetazone | n.氨硫脲 [domain:药学]
+thiadiazine | n.噻二嗪 [domain:化学]
+thiadiazole | n.噻二唑 [domain:化学]
+thialbarbital | n.硫烯丙巴比妥 [domain:药学]
+thiamazole | n.甲巯咪唑 [domain:药学]
+thiaminase | n.硫胺素酶 [domain:化学]
+thiamphenicol | n.甲砜霉素 [domain:药学]
+thiamylal | n.硫戊巴比妥 [domain:药学]
+thianthrene | n.噻蒽 [domain:化学]
+thiazine | n.噻嗪 [domain:化学]
+thiazolidine | n.噻唑烷 [domain:化学]
+thiazoline | n.噻唑啉 [domain:化学]
+thiazolyl | n.噻唑基 [domain:化学]
+thickleaf | n.厚叶植物 [domain:植物]
+thicknet | n.粗缆以太网 [domain:计算机]
+thickskin | n.厚脸皮的人
+thickskinned | adj.厚皮的
+thienamycin | n.硫霉素 [domain:药学]
+thienopyridine | n.噻吩并吡啶 [domain:药学]
+thienyl | n.噻吩基 [domain:化学]
+thiethylperazine | n.硫乙拉嗪 [domain:药学]
+thieveless | adj.无盗贼的
+thigmesthesia | n.触觉 [domain:医学]
+thigmomorphosis | n.接触形态建成 [domain:植物]
+thigmonasty | n.感触性 [domain:植物]
+thigmotropic | adj.向触性的 [domain:生物]
+thiirane | n.环硫乙烷 [domain:化学]
+thiller | n.辕马 [dated]
+thimblewit | n.蠢人 [dated]
+thingabob | n.某物 [informal]
+thingification | n.物化
+thinkableness | n.可想象性
+thinkingness | n.思考状态
+thioacetal | n.硫缩醛 [domain:化学]
+thioacetamide | n.硫代乙酰胺 [domain:化学]
+thioacetate | n.硫代乙酸盐 [domain:化学]
+thioacetazone | n.氨硫脲 [domain:药学]
+thioacetone | n.硫代丙酮 [domain:化学]
+thioacetyl | n.硫代乙酰基 [domain:化学]
+thioalcohol | n.硫醇 [domain:化学]
+thioaldehyde | n.硫醛 [domain:化学]
+thioamide | n.硫代酰胺 [domain:化学]
+thioanhydride | n.硫酸酐 [domain:化学]
+thioanilide | n.硫代苯胺 [domain:化学]
+thioanisole | n.苯硫基甲烷 [domain:化学]
+thioantimonate | n.硫代锑酸盐 [domain:化学]
+thioarsenate | n.硫代砷酸盐 [domain:化学]
+thiobarbiturate | n.硫代巴比妥酸盐 [domain:药学]
+thiobenzamide | n.硫代苯甲酰胺 [domain:化学]
+thiobenzoate | n.硫代苯甲酸盐 [domain:化学]
+thiocarbamate | n.硫代氨基甲酸盐 [domain:化学]
+thiocarbamide | n.硫脲 [domain:化学]
+thiocarbamoyl | n.硫代氨基甲酰 [domain:化学]
+thiocarbanilide | n.硫代碳酰苯胺 [domain:化学]
+thiocarbohydrazide | n.硫代碳酰肼 [domain:化学]
+thiocarbonate | n.硫代碳酸盐 [domain:化学]
+thiocarbonyl | n.硫羰基 [domain:化学]
+thiochrome | n.硫色素 [domain:化学]
+thiocresol | n.硫代甲酚 [domain:化学]
+thiocyanide | n.硫氰化物 [domain:化学]
+thiocyanogen | n.硫氰 [domain:化学]
+thiocyclam | n.杀螟环 [domain:农业]
+thiodicarb | n.硫双威 [domain:农业]
+thiodiglycol | n.硫二甘醇 [domain:化学]
+thioencarb | skip:unknown
+thioflavine | n.硫黄素 [domain:化学]
+thioformaldehyde | n.硫代甲醛 [domain:化学]
+thiogalactoside | n.硫代半乳糖苷 [domain:化学]
+thioglucose | n.硫代葡萄糖 [domain:化学]
+thioglucosidase | n.硫代葡萄糖苷酶 [domain:化学]
+thioglycerol | n.硫代甘油 [domain:化学]
+thioglycol | n.硫代乙二醇 [domain:化学]
+thioglycolate | n.巯基乙酸盐 [domain:化学]
+thiohydantoin | n.硫代乙内酰脲 [domain:化学]
+thioindigo | n.硫靛 [domain:化学]
+thioketal | n.硫缩酮 [domain:化学]
+thioketone | n.硫酮 [domain:化学]
+thiolase | n.硫解酶 [domain:化学]
+thiolic | adj.硫醇的 [domain:化学]
+thiolysis | n.硫解作用 [domain:化学]
+thiometon | n.甲基乙拌磷 [domain:农业]
+thionaphthene | n.硫茚 [domain:化学]
+thionate | n.连硫酸盐 [domain:化学]
+thionic | adj.含硫的 [domain:化学]
+thionin | n.硫堇 [domain:化学]
+thionine | n.硫堇 [domain:化学]
+thiopentone | n.硫喷妥 [domain:药学]
+thiophanate | n.硫菌灵 [domain:农业]
+thiophen | n.噻吩 [domain:化学]
+thiophenic | adj.噻吩的 [domain:化学]
+thiophenol | n.苯硫酚 [domain:化学]
+thiophenyl | n.苯硫基 [domain:化学]
+thiophilic | adj.亲硫的 [domain:化学]
+thiophosgene | n.硫光气 [domain:化学]
+thiophosphate | n.硫代磷酸盐 [domain:化学]
+thiophosphoryl | n.硫代磷酰 [domain:化学]
+thioproperazine | n.硫丙拉嗪 [domain:药学]
+thiopyran | n.噻喃 [domain:化学]
+thiosemicarbazide | n.氨基硫脲 [domain:化学]
+thiosemicarbazone | n.缩氨基硫脲 [domain:化学]
+thiosinamine | n.硫芥子胺 [domain:化学]
+thiostrepton | n.硫链丝菌肽 [domain:药学]
+thiosugar | n.硫代糖 [domain:化学]
+thiosulfonate | n.硫代磺酸盐 [domain:化学]
+thiosulphate | n.硫代硫酸盐 [domain:化学]
+thiotepa | n.塞替派 [domain:药学]
+thiothixene | n.替沃噻吨 [domain:药学]
+thiouracil | n.硫尿嘧啶 [domain:药学]
+thioxanthene | n.噻吨 [domain:化学]
+thioxanthone | n.噻吨酮 [domain:化学]
+thiram | n.福美双 [domain:农业]
+thirl | v.穿孔
+thirlage | n.磨坊专用权 [domain:历史]
+thirster | n.渴求者
+thirstless | adj.不渴的
+thiuram | n.秋兰姆 [domain:化学]
+thivel | n.搅粥棒 [dated]
+thlipsis | n.压迫 [domain:医学]
+tholeiite | n.拉斑玄武岩 [domain:地质]
+tholin | n.索林 [domain:天文]
+tholobate | n.穹顶鼓座 [domain:建筑]
+tholus | n.小丘 [domain:天文]
+thomsenolite | n.雪冰晶石 [domain:矿业]
+thomsonianism | n.汤姆森疗法 [domain:医学]
+thomsonite | n.杆沸石 [domain:矿业]
+thonged | adj.有皮带的
+thoracal | adj.胸的 [domain:解剖]
+thoracectomy | n.胸廓切除术 [domain:医学]
+thoracically | adv.胸部地 [domain:解剖]
+thoracoabdominal | adj.胸腹的 [domain:解剖]
+thoracoacromial | adj.胸肩峰的 [domain:解剖]
+thoracocentesis | n.胸腔穿刺术 [domain:医学]
+thoracodorsal | adj.胸背的 [domain:解剖]
+thoracolysis | n.胸膜粘连松解术 [domain:医学]
+thoracopagous | adj.胸部联胎的 [domain:医学]
+thoracopagus | n.胸部联胎 [domain:医学]
+thoracoscope | n.胸腔镜 [domain:医学]
+thoracotome | n.开胸刀 [domain:医学]
+thoreauvian | adj.梭罗的 [domain:文学]
+thoria | n.氧化钍 [domain:化学]
+thorianite | n.方钍石 [domain:矿业]
+thoriated | adj.含钍的 [domain:化学]
+thoric | adj.钍的 [domain:化学]
+thorite | n.钍石 [domain:矿业]
+thornbird | n.棘雀 [domain:动物]
+thorntail | n.刺尾蜂鸟 [domain:动物]
+thorntree | n.刺树 [domain:植物]
+thornveld | n.多刺灌木草原 [domain:地理]
+thoroughgoingly | adv.彻底地
+thoroughwax | n.穿叶柴胡 [domain:植物]
+thortveitite | n.钪钇石 [domain:矿业]
+thoughtway | n.思维方式
+thrang | adj.繁忙的
+thrapple | n.喉咙 [informal]
+thrasonically | adv.吹牛地
+thrave | n.二十四捆 [dated]
+thraw | v.扭曲
+thrawnly | adv.执拗地
+threadfish | n.丝鲹 [domain:动物]
+threap | v.争吵
+threehalfpence | n.一便士半 [dated]
+threnetic | adj.哀歌的
+threnetical | adj.哀歌的
+threonyl | n.苏氨酰 [domain:化学]
+threose | n.苏糖 [domain:化学]
+threptic | adj.营养的
+thrillful | adj.令人兴奋的
+thrillingness | n.惊险
+thripid | n.蓟马科昆虫 [domain:动物]
+thrippence | n.三便士 [dated]
+thrivingness | n.繁荣
+thrix | skip:unknown
+throatwort | n.风铃草 [domain:植物]
+thrombasthenia | n.血小板无力症 [domain:医学]
+thrombelastogram | n.血栓弹力图 [domain:医学]
+thrombelastography | n.血栓弹力描记法 [domain:医学]
+thromboangiitis | n.血栓性脉管炎 [domain:医学]
+thrombocytic | adj.血小板的 [domain:医学]
+thrombocytopathy | n.血小板病 [domain:医学]
+thrombocytopoiesis | n.血小板生成 [domain:医学]
+thrombocytopoietic | adj.血小板生成的 [domain:医学]
+thromboelastograph | n.血栓弹力图仪 [domain:医学]
+thromboelastography | n.血栓弹力描记法 [domain:医学]
+thromboembolectomy | n.血栓栓子切除术 [domain:医学]
+thromboembolus | n.血栓栓子 [domain:医学]
+thromboendarterectomy | n.血栓动脉内膜切除术 [domain:医学]
+thromboendocarditis | n.血栓性心内膜炎 [domain:医学]
+thrombogen | n.凝血酶原 [domain:医学]
+thrombogenesis | n.血栓形成 [domain:医学]
+thromboid | adj.血栓样的 [domain:医学]
+thrombokinase | n.凝血激酶 [domain:医学]
+thrombopathy | n.血小板病 [domain:医学]
+thromboplastic | adj.促凝血的 [domain:医学]
+thrombopoiesis | n.血小板生成 [domain:医学]
+thrombopoietic | adj.血小板生成的 [domain:医学]
+thrombose | v.形成血栓 [domain:医学]
+thropple | n.喉咙
+throttleable | adj.可节流的
+throttlehold | n.扼制
+throttleman | n.司炉
+throughfall | n.穿透雨 [domain:气象]
+throughither | adv.杂乱地
+throughother | adv.杂乱地
+thrummy | adj.多线头的
+thrustful | adj.有冲劲的
+thrustor | n.推进器 [domain:机械]
+thucolite | n.含钍沥青铀矿 [domain:矿业]
+thuggism | n.暴徒行为
+thujane | n.侧柏烷 [domain:化学]
+thujene | n.侧柏烯 [domain:化学]
+thulia | n.氧化铥 [domain:化学]
+thulite | n.锰黝帘石 [domain:矿业]
+thumbkin | n.拇指夹 [domain:历史]
+thumbsuck | n.吮拇指者
+thunderburst | n.雷暴
+thunderless | adj.无雷的
+thunderpeal | n.雷鸣
+thundrous | adj.雷鸣般的
+thurification | n.焚香
+thurify | v.焚香 [domain:宗教]
+thuringite | n.鳞绿泥石 [domain:矿业]
+thusness | n.如此
+thuswise | adv.这样 [dated]
+thuya | n.崖柏 [domain:植物]
+thwartly | adv.横向地
+thwartship | adj.横贯船身的 [domain:航海]
+thwartwise | adv.横向地
+thylose | n.侵填体 [domain:植物]
+thymectomize | v.切除胸腺 [domain:医学]
+thymectomy | n.胸腺切除术 [domain:医学]
+thymelaeaceous | adj.瑞香科的 [domain:植物]
+thymitis | n.胸腺炎 [domain:医学]
+thymolphthalein | n.百里酚酞 [domain:化学]
+thymopathy | n.胸腺病 [domain:医学]
+thymopoietin | n.胸腺生成素 [domain:医学]
+thymoquinone | n.百里醌 [domain:化学]
+thymyl | n.百里基 [domain:化学]
+thyreoid | n.甲状腺 [domain:解剖]
+thyreoidectomy | n.甲状腺切除术 [domain:医学]
+thyroactive | adj.有甲状腺活性的 [domain:医学]
+thyroarytenoid | adj.甲杓的 [domain:解剖]
+thyrocalcitonin | n.降钙素 [domain:医学]
+thyrocele | n.甲状腺肿 [domain:医学]
+thyrogenic | adj.甲状腺源性的 [domain:医学]
+thyrogenous | adj.甲状腺源性的 [domain:医学]
+thyrohyoid | adj.甲状舌骨的 [domain:解剖]
+thyroidean | adj.甲状腺的 [domain:解剖]
+thyroidectomize | v.切除甲状腺 [domain:医学]
+thyroidin | n.甲状腺制剂 [domain:药学]

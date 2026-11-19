@@ -12,6 +12,7 @@
 | 选词切批 | ✅ `work/selected.jsonl` → 758 批 `work/batches/B0001–B0758.input.jsonl`（每批 200） |
 | Opus 写 / 审 / Fable 仲裁 | ✅ **B0001–B0453 全部合并**（`work/merged/`；B0089 起为 v3；B0343–B0453 为初筛后的尾部）。主体生产完成 |
 | 已合并词条 | **86,851 条**（453/453 批），disputed 0；另有 61,076 个尾部词经初筛记为 too-rare（`work/merged/triage-skips.jsonl`） |
+| 简释扩展层 | ✅ **45,667 条**（`work/merged/gloss.jsonl`，confidence=low，未审核） |
 | 扩展层（例句、短语、同反义） | ⏳ 未开始 |
 | 发布脚本（繁体、最终排名、CSV/SQLite/MDX/Anki、质量报告） | ⏳ 未写 |
 | git | ✅ 2026-11-18 首次提交（work/raw、sources、headwords*.jsonl、selected.jsonl 不入库，见 .gitignore） |
@@ -48,6 +49,19 @@ B0307 起为尾部罕见/专业词，拉丁学名按 rules.md 一律 not-english
   - 去掉的词写入 `work/merged/triage-skips.jsonl`（skip:too-rare）。
 - **已完成（2026-11-19）**：42 块全部筛完（T0032–34 的 Sonnet 结果过宽，已作废重筛，原结果保留为 *.lenient.txt）。并集保留 22,055 / 83,131（26.5%）。已经 rebatch 成 **B0343–B0453（111 批）**，原尾部 416 个输入移到 `work/batches/tail-raw/`，去掉的 61,076 词记在 `work/merged/triage-skips.jsonl`。初筛共用约 17% 的 5 小时额度。
 - 跳过原因新增 `too-rare`（rules.md / validate.js 已加）。
+
+### 简释扩展层（gloss，2026-11-19 起，用户选定）
+
+给初筛去掉的 61,076 个 too-rare 词各写一行中文简释，单独成层（不审核、不仲裁，统一 confidence=low）。
+- 规则 `prompts/gloss.md`；脚本 `scripts/gloss.py`（make / check / merge）；数据 `work/gloss/G0001–G0062`（每块 1000 词）。
+- 每个 Sonnet agent 写 2 块，提示词用 `bash work/tmp/glossprompt.sh G00xx G00yy` 生成。进度看 `gloss.py check`（显示还缺哪些块）。
+- 全部完成后跑 `gloss.py merge`，生成 `work/merged/gloss.jsonl` 和 `gloss-skips.jsonl`。
+- **已完成（2026-11-19）**：62 块全部通过校验并合并。
+  - `work/merged/gloss.jsonl` 共 **45,667 条**简释，其中 93 条带 nokid。
+  - `gloss-skips.jsonl` 共 15,409 个：unknown 14,554、not-english 499、not-lemma 211、junk 95、proper 50。
+  - 额度：5 小时窗口 7%→43%（约 0.6%/块）；周额度 64%→69%；约 1 小时。
+  - 各块跳过率差别很大（3%–80%），主要取决于字母段：化学、矿物、医学词集中的段落 unknown 多，non-/neo- 派生词多的段落覆盖率高。
+  - G0026–27 曾被怀疑偷懒而重写，结果相近，原稿保留为 *.lazy.txt。
 
 ## 2. 手动推进：每批的完整流程（v3，B0089 起）
 

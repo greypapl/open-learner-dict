@@ -1,0 +1,1000 @@
+pycnochlorite | skip:unknown
+pycnoconidium | skip:unknown
+pycnodysostosis | n.致密性成骨不全症 [domain:医学]
+pycnoepilepsy | skip:unknown
+pycnogonid | n.海蜘蛛 [domain:动物]
+pycnogonida | skip:not-english
+pycnolepsia | n.频发性小发作 [domain:医学]
+pycnometry | n.比重瓶测定法 [domain:物理]
+pycnomorphous | skip:unknown
+pycnophrasia | skip:unknown
+pycnosclerotium | skip:unknown
+pycnospore | n.分生孢子 [domain:植物]
+pycnostachous | skip:unknown
+pycnostyle | n.密柱式 [domain:建筑]
+pycnothecium | skip:unknown
+pycnothyrium | skip:unknown
+pycnotic | adj.固缩的 [domain:医学]
+pycnotrope | skip:unknown
+pycnoxylic | skip:unknown
+pyecchysis | skip:unknown
+pyecyst | skip:unknown
+pyelectan | skip:unknown
+pyelectasia | n.肾盂扩张 [domain:医学]
+pyelitic | adj.肾盂炎的 [domain:医学]
+pyelocaliectasis | n.肾盂肾盏扩张 [domain:医学]
+pyelocystanastomosis | n.肾盂膀胱吻合术 [domain:医学]
+pyelocystitis | n.肾盂膀胱炎 [domain:医学]
+pyelocystostomy | n.肾盂膀胱造口术 [domain:医学]
+pyelofluoroscopy | skip:unknown
+pyelograph | n.肾盂造影片 [domain:医学]
+pyelolithotomy | n.肾盂切开取石术 [domain:医学]
+pyelometer | skip:unknown
+pyelometry | skip:unknown
+pyelonephritic | adj.肾盂肾炎的 [domain:医学]
+pyelonephrolithotomy | n.肾盂肾切开取石术 [domain:医学]
+pyelonephrosis | n.肾盂肾病 [domain:医学]
+pyelopathy | n.肾盂病 [domain:医学]
+pyelophlebitis | n.肾盂静脉炎 [domain:医学]
+pyeloplication | n.肾盂折叠术 [domain:医学]
+pyeloscopy | n.肾盂镜检查 [domain:医学]
+pyelostomy | n.肾盂造口术 [domain:医学]
+pyelotomy | n.肾盂切开术 [domain:医学]
+pyeloureterectasis | n.肾盂输尿管扩张 [domain:医学]
+pyeloureterogram | n.肾盂输尿管造影片 [domain:医学]
+pyeloureterography | n.肾盂输尿管造影术 [domain:医学]
+pyeloureterolysis | n.肾盂输尿管松解术 [domain:医学]
+pyeloureteroplasty | n.肾盂输尿管成形术 [domain:医学]
+pyeloureterostomy | n.肾盂输尿管吻合术 [domain:医学]
+pyelovenous | adj.肾盂静脉的 [domain:医学]
+pyemesis | n.呕脓 [domain:医学]
+pyemic | adj.脓血症的 [domain:医学]
+pyencephalus | skip:unknown
+pyesis | n.化脓 [domain:医学]
+pygal | adj.臀部的 [domain:解剖]
+pygalgia | n.臀痛 [domain:医学]
+pygmaeous | adj.侏儒的, 矮小的
+pygoamorphus | skip:unknown
+pygodidymus | n.臀部联胎 [domain:医学]
+pygofer | skip:unknown
+pygomelus | n.臀部寄生肢畸胎 [domain:医学]
+pygopagus | n.臀部联胎 [domain:医学]
+pygopagy | skip:unknown
+pygoparasitus | skip:unknown
+pygophore | skip:unknown
+pygopod | skip:unknown
+pyic | adj.脓的 [domain:医学]
+pyinkado | n.铁木 [domain:植物]
+pyinma | skip:unknown
+pyknemia | skip:unknown
+pyknocardia | skip:unknown
+pyknocyte | n.固缩红细胞 [domain:医学]
+pyknocytoma | skip:unknown
+pyknocytosis | skip:unknown
+pyknohemia | n.血液浓缩 [domain:医学]
+pyknometer | n.比重瓶 [domain:物理]
+pyknometry | n.比重瓶测定法 [domain:物理]
+pyknomorphic | skip:unknown
+pyknomorphous | skip:unknown
+pyknophrasia | skip:unknown
+pyknosphygmia | skip:unknown
+pylar | skip:unknown
+pylemphraxis | n.门静脉阻塞 [domain:医学]
+pylephlebectasia | n.门静脉扩张 [domain:医学]
+pylephlebectasis | n.门静脉扩张 [domain:医学]
+pylephlebitis | n.门静脉炎 [domain:医学]
+pylethrombophlebitis | n.门静脉血栓性静脉炎 [domain:医学]
+pylethrombosis | n.门静脉血栓形成 [domain:医学]
+pylic | skip:unknown
+pylome | skip:unknown
+pyloralgia | n.幽门痛 [domain:医学]
+pyloristenosis | n.幽门狭窄 [domain:医学]
+pyloritis | n.幽门炎 [domain:医学]
+pylorochesis | skip:unknown
+pylorocolic | adj.幽门结肠的 [domain:医学]
+pylorodilator | n.幽门扩张器 [domain:医学]
+pylorodiosis | n.幽门扩张术 [domain:医学]
+pyloroduodenitis | n.幽门十二指肠炎 [domain:医学]
+pylorogastrectomy | n.幽门胃切除术 [domain:医学]
+pyloromyotomy | n.幽门肌切开术 [domain:医学]
+pyloroptosia | n.幽门下垂 [domain:医学]
+pyloroptosis | n.幽门下垂 [domain:医学]
+pyloroscirrhus | n.幽门硬癌 [domain:医学]
+pyloroscope | n.幽门镜 [domain:医学]
+pyloroscopy | n.幽门镜检查 [domain:医学]
+pylorostenosis | n.幽门狭窄 [domain:医学]
+pylorostomy | n.幽门造口术 [domain:医学]
+pylorotomy | n.幽门切开术 [domain:医学]
+pyoarthrosis | n.关节积脓 [domain:医学]
+pyobacillosis | skip:unknown
+pyoblennorrhea | skip:unknown
+pyocele | skip:unknown
+pyocelia | n.腹腔积脓 [domain:医学]
+pyocephalus | n.脑室积脓 [domain:医学]
+pyochezia | n.脓便 [domain:医学]
+pyocin | n.脓菌素 [domain:生物]
+pyococcic | adj.化脓球菌的 [domain:医学]
+pyococcus | n.化脓球菌 [domain:医学]
+pyocolpocele | skip:unknown
+pyocolpos | n.阴道积脓 [domain:医学]
+pyocyanase | skip:unknown
+pyocyanic | adj.绿脓杆菌的 [domain:医学]
+pyocyanine | n.绿脓菌素 [domain:生物]
+pyodermatitis | n.脓性皮炎 [domain:医学]
+pyodermatosis | n.脓皮病 [domain:医学]
+pyodermia | n.脓皮病 [domain:医学]
+pyodermitis | n.脓性皮炎 [domain:医学]
+pyogen | n.化脓菌 [domain:医学]
+pyogenous | adj.化脓的 [domain:医学]
+pyohemia | n.脓血症 [domain:医学]
+pyohemothorax | n.脓血胸 [domain:医学]
+pyoktanin | skip:unknown
+pyolabyrinthitis | n.化脓性迷路炎 [domain:医学]
+pyoluteorin | skip:unknown
+pyometritis | n.子宫积脓 [domain:医学]
+pyomyositis | n.化脓性肌炎 [domain:医学]
+pyonephritis | n.化脓性肾炎 [domain:医学]
+pyonephrolithiasis | n.脓肾结石症 [domain:医学]
+pyonephrosis | n.肾积脓 [domain:医学]
+pyonephrotic | adj.肾积脓的 [domain:医学]
+pyonychia | n.化脓性甲炎 [domain:医学]
+pyopericarditis | n.化脓性心包炎 [domain:医学]
+pyopericardium | n.心包积脓 [domain:医学]
+pyoperitonitis | n.化脓性腹膜炎 [domain:医学]
+pyophagia | skip:unknown
+pyophthalmia | n.化脓性眼炎 [domain:医学]
+pyophthalmitis | n.化脓性眼炎 [domain:医学]
+pyopneumopericarditis | n.脓气心包炎 [domain:医学]
+pyopneumopericardium | n.心包积脓积气 [domain:医学]
+pyopneumoperitoneum | n.腹腔积脓积气 [domain:医学]
+pyopneumoperitonitis | n.脓气腹膜炎 [domain:医学]
+pyopneumothorax | n.脓气胸 [domain:医学]
+pyopoiesis | n.化脓 [domain:医学]
+pyopoietic | adj.生脓的 [domain:医学]
+pyoptysis | n.咳脓 [domain:医学]
+pyorrheal | adj.脓溢的 [domain:医学]
+pyosalpingitis | n.化脓性输卵管炎 [domain:医学]
+pyosis | n.化脓 [domain:医学]
+pyospermia | n.脓精症 [domain:医学]
+pyostomatitis | n.化脓性口炎 [domain:医学]
+pyotherapy | skip:unknown
+pyothorax | n.脓胸 [domain:医学]
+pyraconitine | skip:unknown
+pyraemia | skip:unknown
+pyrallolite | skip:unknown
+pyralspite | skip:unknown
+pyramidale | skip:not-english
+pyramidate | adj.金字塔形的
+pyramidon | n.氨基比林 [domain:药学]
+pyramidotomy | n.锥体束切断术 [domain:医学]
+pyranoid | skip:unknown
+pyranometry | n.总日射测量 [domain:气象]
+pyranone | n.吡喃酮 [domain:化学]
+pyranoside | n.吡喃糖苷 [domain:化学]
+pyranthrene | skip:unknown
+pyranthrone | skip:unknown
+pyranyl | n.吡喃基 [domain:化学]
+pyrargillite | skip:unknown
+pyrauxite | skip:unknown
+pyrazinyl | n.吡嗪基 [domain:化学]
+pyrazofurin | skip:unknown
+pyrazol | n.吡唑 [domain:化学]
+pyrazolidine | n.吡唑烷 [domain:化学]
+pyrazolidone | n.吡唑烷酮 [domain:化学]
+pyrazoline | n.吡唑啉 [domain:化学]
+pyrazolone | n.吡唑酮 [domain:化学]
+pyrazolyl | n.吡唑基 [domain:化学]
+pyrectic | adj.发热的 [domain:医学]
+pyremia | skip:unknown
+pyreneite | skip:unknown
+pyreniform | skip:unknown
+pyrenite | skip:unknown
+pyrenocarp | skip:unknown
+pyrenolichen | skip:unknown
+pyrenyl | n.芘基 [domain:化学]
+pyretherapy | n.发热疗法 [domain:医学]
+pyretogen | n.致热原 [domain:医学]
+pyretogenesis | n.致热作用 [domain:医学]
+pyretogenetic | adj.致热的 [domain:医学]
+pyretogenic | adj.致热的 [domain:医学]
+pyretogenous | adj.致热的 [domain:医学]
+pyretography | skip:unknown
+pyretology | n.热病学 [domain:医学]
+pyretotherapy | n.发热疗法 [domain:医学]
+pyrgeometer | n.地球辐射计 [domain:气象]
+pyrgocephalic | adj.尖头畸形的 [domain:医学]
+pyrgocephaly | n.尖头畸形 [domain:医学]
+pyrheliometry | n.直接日射测量 [domain:气象]
+pyribole | skip:unknown
+pyric | skip:unknown
+pyridazine | n.哒嗪 [domain:化学]
+pyridazinone | n.哒嗪酮 [domain:化学]
+pyridic | adj.吡啶的 [domain:化学]
+pyridone | n.吡啶酮 [domain:化学]
+pyridoxin | n.吡哆醇 [domain:化学]
+pyridoxol | n.吡哆醇 [domain:化学]
+pyriferous | skip:unknown
+pyrimidone | n.嘧啶酮 [domain:化学]
+pyrithiamine | skip:unknown
+pyritified | adj.黄铁矿化的 [domain:地质]
+pyritization | n.黄铁矿化 [domain:地质]
+pyritized | adj.黄铁矿化的 [domain:地质]
+pyritohedral | adj.五角十二面体的 [domain:矿业]
+pyritous | adj.含黄铁矿的 [domain:地质]
+pyroaurite | skip:unknown
+pyrobelonite | skip:unknown
+pyroborate | n.焦硼酸盐 [domain:化学]
+pyrocalciferol | n.焦钙化醇 [domain:化学]
+pyrocarbon | n.热解碳 [domain:化学]
+pyrocellulose | n.火棉 [domain:化学]
+pyrochemical | adj.高温化学的 [domain:化学]
+pyrochroite | skip:unknown
+pyrocotton | n.火棉 [domain:化学]
+pyrodextrin | n.焦糊精 [domain:化学]
+pyroelectrical | adj.热电的 [domain:物理]
+pyrogallate | n.焦棓酸盐 [domain:化学]
+pyrogenesis | skip:unknown
+pyrogenetic | adj.生热的 [domain:物理]
+pyrogenicity | n.致热性 [domain:医学]
+pyrogenous | adj.火成的, 致热的
+pyrographic | adj.烙画的 [domain:美术]
+pyrology | skip:unknown
+pyrolyzable | adj.可热解的 [domain:化学]
+pyrolyzer | n.热解器 [domain:化学]
+pyrometrically | adv.用高温计地
+pyrone | n.吡喃酮 [domain:化学]
+pyronin | n.派洛宁 [domain:化学]
+pyronine | n.派洛宁 [domain:化学]
+pyrophanite | n.红钛锰矿 [domain:矿业]
+pyrophilous | adj.喜火的 [domain:生物]
+pyrophorus | skip:not-english
+pyrophosphoric | adj.焦磷酸的 [domain:化学]
+pyrophyte | n.耐火植物 [domain:植物]
+pyrorthite | skip:unknown
+pyrosmalite | skip:unknown
+pyrosome | n.火体虫 [domain:动物]
+pyrostibite | n.红锑矿 [domain:矿业]
+pyrostilpnite | n.火红银矿 [domain:矿业]
+pyrosulfate | n.焦硫酸盐 [domain:化学]
+pyrosulphate | n.焦硫酸盐 [domain:化学]
+pyrothere | skip:unknown
+pyrotic | skip:unknown
+pyrovalerone | skip:unknown
+pyroxenic | adj.辉石的 [domain:地质]
+pyroxenitic | adj.辉石岩的 [domain:地质]
+pyroxenoid | n.似辉石 [domain:地质]
+pyroxmangite | n.锰三斜辉石 [domain:矿业]
+pyroxyline | n.火棉 [domain:化学]
+pyrrhocorid | n.红蝽 [domain:动物]
+pyrrhotine | n.磁黄铁矿 [domain:矿业]
+pyrrol | n.吡咯 [domain:化学]
+pyrrolic | adj.吡咯的 [domain:化学]
+pyrrolnitrin | n.硝吡咯菌素 [domain:药学]
+pyrrolyl | n.吡咯基 [domain:化学]
+pyrryl | n.吡咯基 [domain:化学]
+pyruvaldehyde | n.丙酮醛 [domain:化学]
+pyruvoyl | n.丙酮酰基 [domain:化学]
+pyrylium | n.吡喃鎓 [domain:化学]
+pythogenesis | skip:unknown
+pythogenic | adj.腐败产生的
+pythogenous | adj.腐败产生的
+pythonid | n.蟒科动物 [domain:动物]
+pyxidate | skip:unknown
+quab | skip:unknown
+quackishly | adv.庸医般地, 江湖骗子般地
+quadplex | n.四联公寓 [us,domain:建筑]
+quadrans | skip:not-english
+quadrantally | skip:unknown
+quadrantanopia | n.象限盲 [domain:医学]
+quadrantanopsia | n.象限盲 [domain:医学]
+quadrathlon | n.四项全能 [domain:体育]
+quadratojugal | n.方轭骨 [domain:动物]
+quadriad | skip:unknown
+quadribasic | adj.四元的 [domain:化学]
+quadricapsular | adj.四蒴的 [domain:植物]
+quadricipital | adj.四头的 [domain:解剖]
+quadricoccous | skip:unknown
+quadricorn | adj.四角的 [domain:动物]
+quadricornous | adj.四角的 [domain:动物]
+quadricovalent | adj.四共价的 [domain:化学]
+quadricrural | skip:unknown
+quadricuspid | adj.四尖的
+quadridentate | adj.四齿的
+quadridigitate | adj.四指的
+quadriennial | adj.每四年的
+quadrifarious | adj.四列的 [domain:植物]
+quadrifoil | n.四叶饰 [domain:建筑]
+quadrifoliate | adj.四叶的 [domain:植物]
+quadriform | skip:unknown
+quadrifurcate | adj.四分叉的
+quadrigeminal | adj.四叠体的 [domain:解剖]
+quadrigeminate | skip:unknown
+quadrigonal | adj.四角的
+quadrijugate | adj.四对的 [domain:植物]
+quadrijugous | adj.四对的 [domain:植物]
+quadrilateralness | n.四边形性
+quadriliteral | adj.四字母的 [domain:语言]
+quadrillage | skip:not-english
+quadrilobate | adj.四裂的 [domain:植物]
+quadrilocular | adj.四室的
+quadringenary | skip:unknown
+quadringentennial | n.四百周年纪念
+quadrinomial | n.四项式 [domain:数学]
+quadrinucleate | adj.四核的 [domain:生物]
+quadripara | n.四产妇 [domain:医学]
+quadriparity | n.四产 [domain:医学]
+quadriparous | adj.四产的 [domain:医学]
+quadripartitely | adv.分成四部分地
+quadriphony | n.四声道立体声 [domain:电子]
+quadriphyllous | adj.四叶的 [domain:植物]
+quadripinnate | adj.四回羽状的 [domain:植物]
+quadriplane | n.四翼飞机 [domain:航空]
+quadriplex | skip:unknown
+quadripod | skip:unknown
+quadripolar | adj.四极的 [domain:物理]
+quadripolarity | n.四极性 [domain:物理]
+quadripole | n.四极子 [domain:物理]
+quadrisection | n.四等分
+quadritubercular | adj.四结节的
+quadrituberculate | adj.四结节的
+quadrivalency | n.四价 [domain:化学]
+quadrivalvate | adj.四瓣的
+quadrivalve | adj.四瓣的
+quadrivalvular | adj.四瓣的
+quadrumana | skip:not-english
+quadrumvir | n.四人执政官 [domain:历史]
+quadrupleness | n.四倍
+quadrupler | skip:unknown
+quadruplicity | n.四重性
+quadrupod | skip:unknown
+quadword | n.四字 [domain:计算机]
+quaesitum | skip:not-english
+quailbush | n.滨藜 [domain:植物]
+quakerbird | n.信天翁 [domain:动物]
+quakerlike | adj.贵格会教徒般的 [domain:宗教]
+qualificative | adj.限定的
+qualificator | skip:unknown
+qualificatory | adj.限定的
+qualifiedness | n.资格
+qualmy | adj.恶心的, 不安的
+quandang | n.澳洲檀香 [domain:植物]
+quantasome | n.量子体 [domain:生物]
+quantificationally | skip:unknown
+quantitativeness | n.定量性
+quantitively | adv.在数量上
+quantivalence | n.化合价 [domain:化学]
+quantivalency | n.化合价 [domain:化学]
+quantivalent | adj.有化合价的 [domain:化学]
+quantophrenia | skip:unknown
+quarantinable | adj.须检疫的
+quarriable | adj.可采石的
+quarrymaster | n.采石场主
+quarrystone | n.采石场石料 [domain:建筑]
+quartation | skip:unknown
+quarternary | skip:junk
+quarterpace | n.四分之一平台 [domain:建筑]
+quartrefoil | n.四叶饰 [domain:建筑]
+quartzarenite | n.石英砂岩 [domain:地质]
+quartziferous | adj.含石英的 [domain:地质]
+quartzoid | skip:unknown
+quartzous | adj.石英的 [domain:地质]
+quashable | adj.可撤销的 [domain:法律]
+quassation | n.震动
+quatercentennial | n.四百周年纪念
+quaternate | adj.四个一组的
+quaternization | n.季铵化 [domain:化学]
+quaternize | v.季铵化 [domain:化学]
+quaterphenyl | n.四联苯 [domain:化学]
+quatorzain | n.十四行诗 [domain:文学]
+quatuordecillion | skip:unknown
+quaverer | n.颤声者
+quaywall | n.码头岸壁 [domain:航海]
+quebrachitol | n.白坚木醇 [domain:化学]
+queenfish | skip:unknown
+queenlet | n.小女王
+queenright | adj.有蜂王的 [domain:动物]
+queensware | skip:unknown
+queercore | skip:unknown
+queerish | adj.有点怪的
+quefrency | n.倒频率 [domain:电子]
+quellung | skip:not-english
+quenchant | n.淬火剂 [domain:机械]
+quenselite | skip:unknown
+quercetum | skip:not-english
+querciform | skip:unknown
+quercite | n.栎醇 [domain:化学]
+quercitin | n.槲皮素 [domain:化学]
+quercitol | n.栎醇 [domain:化学]
+quercitrin | n.槲皮苷 [domain:化学]
+quercitron | n.黑栎皮 [domain:植物]
+querier | n.询问者
+querimonious | adj.爱抱怨的
+querimony | n.抱怨
+quernstone | n.手推磨石
+questionability | n.可疑性
+questionableness | n.可疑性
+questionary | n.调查表
+questionless | adj.无疑的
+queuer | n.排队者
+quezal | n.格查尔鸟 [domain:动物]
+quickener | n.加速者, 激励者
+quicking | skip:unknown
+quickthorn | n.山楂 [domain:植物]
+quidditative | adj.本质的 [domain:哲学]
+quiescency | n.静止
+quietistic | adj.寂静主义的 [domain:宗教]
+quillaja | n.皂树 [domain:植物]
+quillback | n.亚口鱼 [domain:动物]
+quillet | n.诡辩 [dated]
+quinacridone | n.喹吖啶酮 [domain:化学]
+quinaldine | n.喹哪啶 [domain:化学]
+quinalizarin | n.喹茜素 [domain:化学]
+quinate | n.奎尼酸盐 [domain:化学]
+quinazoline | n.喹唑啉 [domain:化学]
+quincuncially | adv.五点梅花形地
+quindecemvir | n.十五人委员会成员 [domain:历史]
+quindecennial | n.十五周年纪念
+quindecillion | skip:unknown
+quinestrol | n.炔雌醚 [domain:药学]
+quinethazone | n.喹乙宗 [domain:药学]
+quinhydrone | n.醌氢醌 [domain:化学]
+quinic | adj.奎尼酸的 [domain:化学]
+quininism | n.金鸡纳中毒 [domain:医学]
+quinism | n.金鸡纳中毒 [domain:医学]
+quinnat | n.大鳞大麻哈鱼 [domain:动物]
+quinoid | adj.醌型的 [domain:化学]
+quinol | n.氢醌 [domain:化学]
+quinonoid | adj.醌型的 [domain:化学]
+quinoxaline | n.喹喔啉 [domain:化学]
+quinquagenarian | n.五十多岁的人
+quinquecentennial | n.五百周年纪念
+quinquefarious | adj.五列的 [domain:植物]
+quinquefid | adj.五裂的 [domain:植物]
+quinquelobed | adj.五裂片的 [domain:植物]
+quinquennially | adv.每五年地
+quinquepartite | adj.分成五部分的
+quinquevalent | adj.五价的 [domain:化学]
+quinsied | adj.患咽喉炎的 [domain:医学]
+quintan | adj.每五日的 [domain:医学]
+quintant | skip:unknown
+quintillionth | skip:unknown
+quintozene | n.五氯硝基苯 [domain:化学]
+quintroon | n.五代混血儿 [dated,offensive-mild]
+quintupler | skip:unknown
+quintuplication | n.五倍
+quinzhee | n.雪屋
+quirkish | adj.古怪的
+quirkyalone | skip:unknown
+quislingite | skip:unknown
+quisqualis | skip:not-english
+quitch | n.匍匐冰草 [domain:植物]
+quittable | adj.可放弃的
+quittor | n.蹄冠蜂窝织炎 [domain:动物]
+quiveringly | adv.颤抖地
+quixotical | adj.堂吉诃德式的, 不切实际的
+quizzable | adj.可被测验的
+quizzee | n.受测验者
+quizzery | skip:unknown
+quizzicality | n.古怪, 滑稽
+quizzy | skip:unknown
+quodlibetical | skip:unknown
+quohog | n.圆蛤 [domain:动物]
+quotative | adj.引述的 [domain:语言]
+rabato | n.硬领 [dated]
+rabbin | n.拉比 [domain:宗教]
+rabbinically | adv.拉比式地 [domain:宗教]
+rabbinist | n.拉比学者 [domain:宗教]
+rabbiteye | n.兔眼蓝莓 [domain:植物]
+rabbitfish | n.篮子鱼 [domain:动物]
+rabbitlike | adj.兔子般的
+rabbler | skip:unknown
+rabic | adj.狂犬病的 [domain:医学]
+rabicidal | adj.杀狂犬病毒的 [domain:医学]
+rabicide | skip:unknown
+rabific | adj.致狂犬病的 [domain:医学]
+rabiform | adj.狂犬病样的 [domain:医学]
+rabigenic | adj.致狂犬病的 [domain:医学]
+raceabout | n.小型帆船 [domain:航海]
+racemase | n.消旋酶 [domain:生物]
+racemation | skip:unknown
+racemed | adj.总状花序的 [domain:植物]
+racemiferous | adj.有总状花序的 [domain:植物]
+racemiform | adj.总状花序状的 [domain:植物]
+racemism | n.外消旋性 [domain:化学]
+racemize | v.外消旋化 [domain:化学]
+racemoid | adj.似总状花序的 [domain:植物]
+racemorphan | skip:unknown
+racemous | adj.总状花序的 [domain:植物]
+racemule | n.小总状花序 [domain:植物]
+racemulose | adj.小总状花序的 [domain:植物]
+racephedrine | n.消旋麻黄碱 [domain:药学]
+racerunner | n.赛跑蜥 [domain:动物]
+rachial | adj.脊柱的 [domain:解剖]
+rachialgia | n.脊柱痛 [domain:医学]
+rachianesthesia | n.脊髓麻醉 [domain:医学]
+rachicentesis | n.脊柱穿刺 [domain:医学]
+rachidial | adj.脊柱的 [domain:解剖]
+rachidian | adj.脊柱的 [domain:解剖]
+rachiform | skip:unknown
+rachilla | n.小穗轴 [domain:植物]
+rachischisis | n.脊柱裂 [domain:医学]
+rachitism | n.佝偻病 [domain:医学]
+racialistic | adj.种族主义的
+racialize | v.使种族化
+raciology | n.种族学
+racketer | n.敲诈者
+racketiness | skip:unknown
+rackle | skip:unknown
+rackwork | n.齿条装置 [domain:机械]
+radarman | n.雷达操作员 [domain:军事]
+radarproof | adj.防雷达探测的 [domain:军事]
+radiable | skip:unknown
+radiale | skip:not-english
+radialia | skip:not-english
+radialization | skip:unknown
+radialized | skip:unknown
+radiancy | n.光辉
+radiately | adv.辐射状地
+radiathermy | skip:unknown
+radiational | adj.辐射的
+radiationless | adj.无辐射的 [domain:物理]
+radiatory | adj.辐射的
+radicality | n.激进性
+radicalness | n.激进性
+radicant | adj.生根的 [domain:植物]
+radicate | adj.有根的 [domain:植物]
+radication | n.生根 [domain:植物]
+radicel | n.小根 [domain:植物]
+radicicolous | adj.寄生于根的 [domain:生物]
+radiciflorous | adj.花生于根的 [domain:植物]
+radiciform | adj.根状的 [domain:植物]
+radicivorous | adj.食根的 [domain:动物]
+radicule | n.胚根 [domain:植物]
+radiculectomy | n.神经根切除术 [domain:医学]
+radiculitis | n.神经根炎 [domain:医学]
+radiesthesia | skip:unknown
+radiferous | skip:unknown
+radioactinium | n.射锕 [domain:化学]
+radioactivate | v.使具放射性 [domain:物理]
+radioactivation | n.放射性活化 [domain:物理]
+radioaerosol | n.放射性气溶胶 [domain:物理]
+radioanalysis | n.放射分析 [domain:化学]
+radioassay | n.放射性分析 [domain:化学]
+radioautograph | n.放射自显影图 [domain:生物]
+radioautographic | adj.放射自显影的 [domain:生物]
+radioautography | n.放射自显影术 [domain:生物]
+radiobeacon | n.无线电信标 [domain:航海]
+radiobioassay | n.放射生物测定 [domain:生物]
+radiobiologic | adj.放射生物学的 [domain:生物]
+radiobiologically | adv.放射生物学上 [domain:生物]
+radiobroadcast | v.无线电广播
+radiobroadcaster | n.无线电广播员
+radiocalcium | n.放射性钙 [domain:化学]
+radiocardiogram | n.放射心动图 [domain:医学]
+radiocardiograph | n.放射心动图仪 [domain:医学]
+radiocardiography | n.放射心动描记术 [domain:医学]
+radiocarpal | adj.桡腕的 [domain:解剖]
+radiocesium | n.放射性铯 [domain:化学]
+radiochemically | adv.放射化学上 [domain:化学]
+radiochemotherapy | n.放化疗 [domain:医学]
+radiochromatography | n.放射色谱法 [domain:化学]
+radiocobalt | n.放射性钴 [domain:化学]
+radiocolloid | n.放射性胶体 [domain:化学]
+radiocompass | n.无线电罗盘 [domain:航空]
+radiocurable | adj.可放射治愈的 [domain:医学]
+radiodermatitis | n.放射性皮炎 [domain:医学]
+radiodiagnosis | n.放射诊断 [domain:医学]
+radiodontia | n.牙科放射学 [domain:医学]
+radiodontist | n.牙科放射医师 [domain:医学]
+radiodontology | n.牙科放射学 [domain:医学]
+radioecology | n.放射生态学 [domain:生物]
+radioelectronics | n.无线电电子学 [domain:电子]
+radioelement | n.放射性元素 [domain:化学]
+radiogallium | n.放射性镓 [domain:化学]
+radiogoniometer | n.无线电测向仪 [domain:电子]
+radiogoniometry | n.无线电测向 [domain:电子]
+radiogramophone | n.收音电唱两用机 [uk,dated]
+radiohalo | n.放射晕 [domain:地质]
+radiohumeral | adj.桡肱的 [domain:解剖]
+radioimmunological | adj.放射免疫学的 [domain:医学]
+radioimmunology | n.放射免疫学 [domain:医学]
+radioiodinated | adj.放射性碘标记的 [domain:化学]
+radioiron | n.放射性铁 [domain:化学]
+radioisotopic | adj.放射性同位素的 [domain:物理]
+radioisotopically | adv.用放射性同位素地 [domain:物理]
+radiolabel | v.放射性标记 [domain:化学]
+radiolite | skip:unknown
+radiolucency | n.射线可透性 [domain:医学]
+radioluminescence | n.辐射发光 [domain:物理]
+radiomimetic | adj.拟放射性的 [domain:医学]
+radionecrosis | n.放射性坏死 [domain:医学]
+radiopacity | n.射线不透性 [domain:医学]
+radiopharmacist | n.放射药剂师 [domain:药学]
+radiopharmacy | n.放射药学 [domain:药学]
+radiophobia | n.放射恐惧症 [domain:心理]
+radiophonics | n.电子音响效果 [uk]
+radiophony | n.无线电话 [domain:电子]
+radiophosphorus | n.放射性磷 [domain:化学]
+radiophotography | skip:unknown
+radiopotassium | n.放射性钾 [domain:化学]
+radioprotectant | n.辐射防护剂 [domain:医学]
+radioprotector | n.辐射防护剂 [domain:医学]
+radioreceptor | skip:unknown
+radioresistant | adj.抗辐射的 [domain:医学]
+radioscopic | adj.射线透视的 [domain:医学]
+radiosensitization | n.放射增敏 [domain:医学]
+radiosensitizer | n.放射增敏剂 [domain:医学]
+radiosodium | n.放射性钠 [domain:化学]
+radiosterilization | n.辐射灭菌 [domain:医学]
+radiosterilize | v.辐射灭菌 [domain:医学]
+radiostrontium | n.放射性锶 [domain:化学]
+radiosulfur | n.放射性硫 [domain:化学]
+radiotelegram | n.无线电报 [domain:电子]
+radiotelegraphic | adj.无线电报的 [domain:电子]
+radiotelemetric | adj.无线电遥测的 [domain:电子]
+radiotelephonic | adj.无线电话的 [domain:电子]
+radiotelescope | n.射电望远镜 [domain:天文]
+radioteletype | n.无线电传打字机 [domain:电子]
+radiotelevision | n.无线电电视 [domain:电子]
+radiotherapeutic | adj.放射治疗的 [domain:医学]
+radiotherapeutics | n.放射治疗学 [domain:医学]
+radiothorium | n.射钍 [domain:化学]
+radiotoxic | adj.放射毒性的 [domain:医学]
+radiotoxicity | n.放射毒性 [domain:医学]
+radiotransparent | adj.射线可透的 [domain:医学]
+raduliform | skip:unknown
+radurization | n.辐照杀菌 [domain:烹饪]
+raffler | skip:unknown
+rafoxanide | n.碘醚柳胺 [domain:药学]
+raftman | n.筏夫
+ragbolt | n.棘螺栓 [domain:机械]
+raggamuffin | n.衣衫褴褛的人
+raglet | skip:unknown
+raguly | skip:unknown
+railage | n.铁路运输
+railbus | skip:unknown
+railless | adj.无栏杆的
+railman | n.铁路工人
+railroadiana | n.铁路纪念品 [us]
+railsplitter | n.劈栅栏木条的人 [us]
+railworker | n.铁路工人
+raimentless | adj.无衣的 [literary]
+rainbowlike | adj.彩虹般的
+raincape | n.雨披
+rainfly | n.帐篷防雨罩
+rainhat | n.雨帽
+rainspout | n.排雨管
+rainsquall | n.暴风雨
+rainsuit | n.雨衣
+raintight | adj.不漏雨的
+rainwash | n.雨水冲刷 [domain:地质]
+rainworm | n.蚯蚓 [domain:动物]
+raisable | adj.可提高的
+raiseable | adj.可提高的
+raisonneur | skip:not-english
+rajahship | n.王公的地位
+rakehelly | n.放荡的人 [dated]
+rakery | n.放荡
+rallyingly | skip:unknown
+rallyist | n.拉力赛选手 [domain:体育]
+ralstonite | n.氟铝钠石 [domain:矿业]
+ramapithecine | n.腊玛古猿 [domain:动物]
+ramate | skip:unknown
+ramdohrite | skip:unknown
+rameal | adj.枝的 [domain:植物]
+ramenta | skip:not-lemma
+ramentaceous | adj.有鳞片的 [domain:植物]
+ramentum | n.鳞片 [domain:植物]
+rameous | adj.枝的 [domain:植物]
+ramiferous | adj.有枝的 [domain:植物]
+ramificate | v.分枝
+ramiflorous | adj.枝上开花的 [domain:植物]
+ramiform | adj.枝状的
+ramiparous | adj.分枝的 [domain:植物]
+rammel | skip:unknown
+rammelsbergite | n.斜方砷镍矿 [domain:矿业]
+rammish | adj.有公羊臊味的
+rammishness | n.膻味
+ramollissement | skip:not-english
+ramous | adj.有分枝的
+rampageously | adv.狂暴地
+rampageousness | n.狂暴
+rampike | n.枯树
+ramsayite | skip:unknown
+ramsdellite | n.斜方锰矿 [domain:矿业]
+ramstam | skip:unknown
+ramtil | skip:unknown
+ramulose | adj.多小枝的 [domain:植物]
+ramulus | n.小枝 [domain:植物]
+ramuscule | n.小枝 [domain:植物]
+rancescent | adj.变臭的
+rancherie | skip:unknown
+rancidification | n.酸败
+rancidify | v.酸败
+randan | skip:unknown
+randier | skip:not-lemma
+rangekeeper | n.测距仪 [domain:军事]
+rangership | n.护林员职位
+rangey | adj.细长的 [informal]
+ranid | n.蛙科动物 [domain:动物]
+ranine | skip:unknown
+rankinite | n.硅钙石 [domain:矿业]
+rankish | skip:unknown
+ransomer | n.赎金交付者
+ranunculaceous | adj.毛茛科的 [domain:植物]
+ranunculine | skip:unknown
+raphid | n.针晶 [domain:植物]
+raphide | n.针晶 [domain:植物]
+rapidness | n.迅速
+rappen | n.拉本 [domain:金融]
+raptatorial | adj.捕食的 [domain:动物]
+raptatory | adj.捕食的 [domain:动物]
+rarefactional | adj.稀疏的
+rarefactive | adj.稀疏的
+rarefiable | adj.可稀薄的
+rarefication | n.稀薄化
+rareripe | adj.早熟的
+rarify | v.稀薄化
+rascaldom | n.流氓行径
+rascalism | n.流氓行径
+rascette | skip:unknown
+raschel | n.拉舍尔经编织物 [domain:纺织]
+rasorial | adj.刨食的 [domain:动物]
+rasorite | n.四水硼砂 [domain:矿业]
+raspatorium | skip:not-english
+raspatory | n.骨锉 [domain:医学]
+rasper | n.粗锉器
+raspingly | adv.刺耳地
+raspings | n.面包屑 [uk]
+raspite | n.斜钨铅矿 [domain:矿业]
+rassle | v.摔跤 [us,informal]
+rastrum | skip:unknown
+ratability | n.可估价性
+ratables | skip:not-lemma
+ratal | n.应纳税额 [uk]
+ratanhia | skip:unknown
+rateability | n.可估价性
+rateables | skip:not-lemma
+ratee | n.被评价者
+rateen | n.拉廷呢 [domain:纺织]
+ratemeter | n.计数率计 [domain:物理]
+ratfish | n.银鲛 [domain:动物]
+ratheripe | adj.早熟的 [dated]
+rathripe | adj.早熟的 [dated]
+ratine | n.拉廷呢 [domain:纺织]
+ratiocinator | n.推理者
+rationable | skip:unknown
+rationalistical | adj.理性主义的 [domain:哲学]
+rationalistically | adv.理性主义地 [domain:哲学]
+rationalizer | n.合理化者
+rationalness | n.合理性
+ratlike | adj.像老鼠的
+ratling | n.幼鼠
+ratproof | adj.防鼠的
+ratteen | n.拉廷呢 [domain:纺织]
+rattily | adv.破烂地 [informal]
+rattiness | n.破旧
+rattish | adj.像老鼠的
+rattlebox | n.猪屎豆 [domain:植物]
+rattlepated | adj.愚蠢的
+rattlingly | adv.发出嘎嘎声地
+rattoon | n.再生苗 [domain:农业]
+rauvolfia | n.萝芙木 [domain:植物]
+ravagement | n.蹂躏
+raveler | n.拆散者
+ravelment | n.纠缠
+ravenala | n.旅人蕉 [domain:植物]
+ravener | n.掠夺者
+ravigote | n.酸辣调味酱 [domain:烹饪]
+ravinement | skip:unknown
+ravishable | skip:unknown
+rawhead | n.妖怪
+rawin | n.无线电测风 [domain:气象]
+rawish | adj.有点生的
+rayah | n.非穆斯林臣民 [domain:历史]
+rayonism | n.光辉主义 [domain:美术]
+rayonnant | adj.辐射式的 [domain:建筑]
+razmataz | n.喧闹 [informal]
+razorstrop | n.磨剃刀皮带
+reaccelerate | v.再加速
+reacceleration | n.再加速
+reaccess | v.重新访问 [domain:计算机]
+reaccommodation | n.重新适应
+reachless | adj.够不到的
+reactionism | n.反动主义 [domain:政治]
+reactionist | n.反动分子 [domain:政治]
+reactivator | n.复活剂
+reactiveness | n.反应性
+reactogenic | adj.致反应的 [domain:医学]
+reacylation | n.再酰化 [domain:化学]
+readableness | n.可读性
+readaption | n.再适应
+readjuster | n.重新调整者
+readmittance | n.再准入
+readsorption | n.再吸附 [domain:化学]
+readvance | v.再前进
+readywitted | adj.机智的
+reaeration | n.复氧
+reafference | skip:unknown
+reaffiliation | n.重新加入
+reafforest | v.重新造林 [domain:农业]
+reafforestation | n.重新造林 [domain:农业]
+reaganomic | skip:proper-out-of-scope
+reaggregate | v.重新聚集
+reaggregation | n.重新聚集
+reagin | n.反应素 [domain:医学]
+reaginic | adj.反应素的 [domain:医学]
+reaim | v.重新瞄准
+realine | v.重新排列
+realizer | n.实现者
+reallot | v.重新分配
+reallotment | n.重新分配
+realmless | adj.无国土的
+reamplify | v.再放大
+reamputation | n.再截肢 [domain:医学]
+reanneal | v.再退火 [domain:机械]
+reannex | v.再吞并
+reannexation | n.再吞并
+reaphook | n.镰刀
+reapparel | v.重新穿衣 [literary]
+reapparition | n.再现
+reapportion | v.重新分配
+reapproach | v.再接近
+reapprove | v.再批准
+rearer | n.饲养者
+rearfoot | n.后足 [domain:解剖]
+reargue | v.重新辩论
+reargument | n.再辩论
+rearhorse | skip:unknown
+rearloader | skip:unknown
+rearmounted | adj.后置的
+rearrangeable | adj.可重排的
+reascend | v.再上升
+reascension | n.再上升
+reascent | n.再上升
+reasonlessly | adv.无理性地
+reassail | v.再攻击
+reassay | v.重新分析
+reassimilate | v.重新同化
+reassociate | v.重新结合
+reassociation | n.重新结合
+reassortant | n.重配株 [domain:生物]
+reassumption | n.重新承担
+reassurer | n.使安心者
+reattain | v.重新达到
+reattainment | n.重新达到
+reattempt | v.再尝试
+reattribute | v.重新归因
+reaumur | n.列氏温标 [domain:物理]
+rebank | v.重新堆土
+rebaptize | v.重新施洗 [domain:宗教]
+rebaptizer | n.重新施洗者 [domain:宗教]
+rebarbarize | v.使重新野蛮化
+rebatement | skip:unknown
+rebato | n.硬领 [dated]
+rebbitzin | n.拉比之妻 [domain:宗教]
+rebed | v.重新栽种
+rebeldom | n.反叛状态
+rebeller | n.反叛者
+rebellow | v.回响 [literary]
+rebill | v.重新开账单 [domain:商业]
+rebirther | skip:unknown
+rebloom | v.再开花
+reblossom | v.再开花
+reboant | adj.回响的 [literary]
+reboiler | n.再沸器 [domain:化学]
+rebond | v.重新粘合
+rebore | v.重新镗孔 [domain:机械]
+reboso | skip:not-english
+reboxetine | n.瑞波西汀 [domain:药学]
+rebranch | skip:unknown
+rebreathe | v.再呼吸
+rebukable | adj.应受谴责的
+rebukeful | adj.责备的
+rebuker | n.谴责者
+rebukingly | adv.责备地
+rebunk | skip:unknown
+reburn | v.再燃烧
+reburner | n.再燃烧器
+rebutment | skip:unknown
+rebutter | n.反驳者
+recalc | v.重新计算 [informal,domain:计算机]
+recalcification | n.再钙化 [domain:医学]
+recalcitration | skip:unknown
+recalesce | v.再灼热 [domain:物理]
+recalescence | n.再辉 [domain:物理]
+recaller | n.召回者
+recallment | n.召回
+recanalisation | n.再通 [domain:医学]
+recanalize | v.使再通 [domain:医学]
+recandescence | n.再白热
+recanter | n.撤回者
+recapitulatory | adj.概括的
+recappable | adj.可翻新的
+recapper | n.轮胎翻新者
+recaption | n.重新夺回 [domain:法律]
+recaptive | skip:unknown
+recarbonation | n.再碳酸化 [domain:化学]
+recarbonization | n.再碳化 [domain:化学]
+recarbonize | v.再碳化 [domain:化学]
+recarburization | n.再渗碳 [domain:机械]
+recarburize | v.再渗碳 [domain:机械]
+recarburizer | n.增碳剂 [domain:机械]
+reccy | n.侦察 [uk,slang]
+receivability | n.可接受性
+receival | n.接收
+recelebrate | v.再庆祝
+recement | v.重新黏合
+recense | v.校订 [dated]
+recensionist | n.校订者
+recentness | n.新近
+receptacular | adj.花托的 [domain:植物]
+receptaculum | skip:not-english
+receptance | skip:unknown
+receptibility | n.可接受性
+receptible | adj.可接受的
+receptional | adj.接收的
+receptively | adv.易接受地
+receptoral | adj.受体的 [domain:生物]
+recessiveness | n.隐性 [domain:生物]
+recessivity | n.隐性 [domain:生物]
+recessus | skip:not-english
+rechain | v.重新锁链
+rechamber | skip:unknown
+rechange | v.再换
+rechannel | v.重新引导
+recheat | n.召回猎犬的号声 [dated]
+rechoose | v.重新选择
+rechromatograph | v.重新色谱分离 [domain:化学]
+recidivate | v.再犯 [domain:法律]
+recidivation | n.再犯 [domain:法律]
+recidivity | n.再犯倾向 [domain:法律]
+recidivous | adj.再犯的 [domain:法律]
+recipher | v.重新译码
+recipience | n.接受
+recipiency | n.接受
+recipiomotor | skip:unknown
+reciprocality | n.相互性
+reciprocalness | n.相互性
+reciprocant | skip:unknown
+reciprocative | adj.往复的
+reciprocator | n.往复者
+reciprocatory | adj.往复的
+recircle | v.再绕圈
+recirculator | n.循环装置
+recission | n.废除 [domain:法律]
+recitable | adj.可背诵的
+recitatif | skip:not-english
+recivilize | v.使重新开化
+reckling | n.弱小的幼崽
+reclad | v.重新包覆
+reclaimant | n.开垦者
+reclamp | v.重新夹紧
+reclasp | v.重新扣紧
+reclass | v.重新分类
+reclinate | adj.向下弯曲的 [domain:植物]
+reclination | n.后仰
+reclosable | adj.可重新关闭的
+reclose | v.重新关闭
+recloser | n.自动重合闸 [domain:电子]
+reclosure | n.重新关闭
+reclothe | v.重新穿衣
+reclusely | adv.隐居地
+recluseness | n.隐居
+recoal | v.重新加煤
+recoat | v.重新涂层
+recoction | skip:unknown
+recodification | n.重新编纂 [domain:法律]
+recognitional | adj.识别的
+recognitory | adj.识别的
+recognizee | n.被担保人 [domain:法律]
+recognizor | n.担保人 [domain:法律]
+recoiler | skip:unknown
+recoilingly | adv.退缩地
+recoin | v.重铸货币
+recoinage | n.重铸货币
+recollapse | v.再坍塌
+recollective | adj.回忆的
+recombinogenic | adj.促重组的 [domain:生物]
+recomfort | v.再安慰
+recommendary | adj.推荐的

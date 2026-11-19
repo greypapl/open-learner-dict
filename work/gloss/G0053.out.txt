@@ -1,0 +1,1000 @@
+splenatrophy | n.脾萎缩 [domain:医学]
+splenauxe | n.脾肿大 [domain:医学]
+splenceratosis | skip:unknown
+splenculus | n.副脾 [domain:解剖]
+splendidine | skip:unknown
+splenectasis | n.脾肿大 [domain:医学]
+splenectomia | n.脾切除术 [domain:医学]
+splenectopia | n.脾异位 [domain:医学]
+splenectopy | n.脾异位 [domain:医学]
+splenelcosis | skip:unknown
+splenemia | n.脾充血 [domain:医学]
+splenemphraxis | skip:unknown
+spleneolus | n.副脾 [domain:解剖]
+splenepatitis | skip:unknown
+splenicterus | skip:unknown
+spleniculus | n.副脾 [domain:解剖]
+splenification | n.脾样变 [domain:医学]
+spleniform | adj.脾形的 [domain:解剖]
+splenii | skip:not-lemma
+splenin | skip:unknown
+spleniserrate | skip:unknown
+splenism | n.脾机能亢进 [domain:医学]
+splenitive | adj.脾炎的 [domain:医学]
+splenization | n.脾样变 [domain:医学]
+spleno | skip:junk
+splenoblast | n.脾母细胞 [domain:生物]
+splenocele | n.脾突出 [domain:医学]
+splenoceratosis | skip:unknown
+splenocleisis | skip:unknown
+splenocolic | adj.脾结肠的 [domain:解剖]
+splenocyte | n.脾细胞 [domain:生物]
+splenodiagnosis | skip:unknown
+splenodynia | n.脾痛 [domain:医学]
+splenogenic | adj.脾源性的 [domain:医学]
+splenogram | n.脾图 [domain:医学]
+splenogranulomatosis | skip:unknown
+splenography | n.脾造影术 [domain:医学]
+splenohemia | skip:unknown
+splenohepatitis | skip:unknown
+splenohepatomegalia | n.脾肝肿大 [domain:医学]
+splenohepatomegaly | n.脾肝肿大 [domain:医学]
+splenoid | adj.脾样的 [domain:医学]
+splenokeratosis | skip:unknown
+splenolaparotomy | skip:unknown
+splenold | skip:junk
+splenology | n.脾脏学 [domain:医学]
+splenolymph | skip:unknown
+splenolymphatic | adj.脾淋巴的 [domain:医学]
+splenolysin | n.溶脾素 [domain:医学]
+splenolysis | n.脾组织溶解 [domain:医学]
+splenoma | n.脾瘤 [domain:医学]
+splenomalacia | n.脾软化 [domain:医学]
+splenomedullary | adj.脾髓的 [domain:医学]
+splenomegalia | n.脾肿大 [domain:医学]
+splenomeglia | skip:junk
+splenometry | n.脾测量法 [domain:医学]
+splenomyelogenous | adj.脾骨髓源性的 [domain:医学]
+splenomyelomalacia | skip:unknown
+splenoncus | n.脾肿 [domain:医学]
+splenonephric | adj.脾肾的 [domain:解剖]
+splenonephritic | skip:unknown
+splenonephroptosis | skip:unknown
+splenopancreatic | adj.脾胰的 [domain:解剖]
+splenoparectama | skip:unknown
+splenoparectasia | skip:unknown
+splenoparectasis | skip:unknown
+splenopathy | n.脾病 [domain:医学]
+splenopexia | n.脾固定术 [domain:医学]
+splenopexis | n.脾固定术 [domain:医学]
+splenopexy | n.脾固定术 [domain:医学]
+splenophrenic | adj.脾膈的 [domain:解剖]
+splenopneumonia | n.脾样肺变 [domain:医学]
+splenoportograpthy | skip:junk
+splenoptosia | n.脾下垂 [domain:医学]
+splenoptosis | n.脾下垂 [domain:医学]
+splenopuncture | n.脾穿刺 [domain:医学]
+splenorenopexy | skip:unknown
+splenorrhagia | n.脾出血 [domain:医学]
+splenorrhaphy | n.脾缝合术 [domain:医学]
+splenosis | n.脾种植 [domain:医学]
+splenotherapy | n.脾疗法 [domain:医学]
+splenotomy | n.脾切开术 [domain:医学]
+splenotoxicosis | skip:unknown
+splenotoxin | n.脾毒素 [domain:医学]
+splenotyphoid | skip:unknown
+splenulus | n.副脾 [domain:解剖]
+splenunculus | n.副脾 [domain:解剖]
+spleuchan | n.烟草袋 [domain:历史]
+splinate | skip:unknown
+splineway | n.花键槽 [domain:机械]
+splintlet | n.小夹板 [domain:医学]
+splitback | n.分裂背 [domain:体育]
+splitdown | skip:unknown
+spliter | skip:junk
+splitlevel | adj.错层式的 [domain:建筑]
+splittail | n.裂尾鱼 [domain:动物]
+splittism | n.分裂主义 [domain:政治]
+splittist | n.分裂主义者 [domain:政治]
+splitup | n.分裂, 分手
+splitworm | skip:unknown
+splutting | skip:not-lemma
+spodiomyelitis | skip:unknown
+spodiosite | n.磷灰石 [domain:地质]
+spodium | n.骨炭 [domain:化学]
+spodogenous | skip:unknown
+spodogram | skip:unknown
+spodography | skip:unknown
+spodophagous | adj.以废物为食的 [domain:生物]
+spodophorous | skip:unknown
+spoffish | adj.多管闲事的 [dated]
+spoilation | n.掠夺, 抢劫
+spoilbank | n.弃土堆 [domain:矿业]
+spoilfive | n.五张牌戏 [domain:体育]
+spokestitching | skip:unknown
+spokewise | adv.呈辐射状地
+spoliative | adj.掠夺的
+spoliatory | adj.掠夺的
+spondyl | n.椎骨 [domain:解剖]
+spondylalgia | n.脊椎痛 [domain:医学]
+spondylarthritis | n.脊椎关节炎 [domain:医学]
+spondylarthrocace | n.脊椎关节结核 [domain:医学]
+spondyle | n.椎骨 [domain:解剖]
+spondylium | skip:unknown
+spondylocace | n.脊椎结核 [domain:医学]
+spondylodesis | n.脊椎融合术 [domain:医学]
+spondylodiagnosis | skip:unknown
+spondylodidymia | skip:unknown
+spondylodymus | skip:unknown
+spondylodynia | n.脊椎痛 [domain:医学]
+spondyloid | adj.椎骨状的 [domain:解剖]
+spondylolisthetic | adj.脊椎滑脱的 [domain:医学]
+spondylomalacia | n.脊椎软化 [domain:医学]
+spondylomyelitis | skip:unknown
+spondylopathy | n.脊椎病 [domain:医学]
+spondyloptosis | n.脊椎滑脱 [domain:医学]
+spondylopyosis | n.脊椎化脓 [domain:医学]
+spondyloschisis | n.脊椎裂 [domain:医学]
+spondylosyndesis | n.脊椎融合术 [domain:医学]
+spondylotherapy | n.脊椎疗法 [domain:医学]
+spondylotomy | n.脊椎切开术 [domain:医学]
+spondylous | adj.椎骨的 [domain:解剖]
+spongeable | adj.可用海绵擦的
+spongebag | n.海绵袋, 洗漱袋 [uk]
+spongedown | skip:unknown
+spongefly | n.水蛉 [domain:动物]
+spongeitis | skip:unknown
+spongelike | adj.似海绵的
+spongeous | adj.海绵状的
+spongework | skip:unknown
+spongier | skip:not-lemma
+spongiest | skip:not-lemma
+spongiitis | skip:unknown
+spongilla | n.淡水海绵 [domain:动物]
+sponginum | skip:unknown
+spongioblast | n.成胶质细胞 [domain:生物]
+spongiocyte | n.海绵细胞 [domain:生物]
+spongiocytoma | n.海绵细胞瘤 [domain:医学]
+spongioid | adj.海绵状的
+spongiolite | n.海绵骨针岩 [domain:地质]
+spongiology | n.海绵学 [domain:动物]
+spongiopilin | skip:unknown
+spongiopiline | skip:unknown
+spongioplasm | n.海绵质 [domain:生物]
+spongiose | adj.海绵状的
+spongiosis | n.海绵水肿 [domain:医学]
+spongiositis | n.海绵体炎 [domain:医学]
+spongiotic | adj.海绵水肿的 [domain:医学]
+spongiotrophoblast | n.海绵滋养层细胞 [domain:生物]
+spongious | adj.海绵状的
+spongoadenosine | skip:unknown
+spongoblast | n.海绵母细胞 [domain:动物]
+spongocoel | n.海绵腔 [domain:动物]
+spongoid | adj.海绵状的
+spongolite | n.海绵骨针岩 [domain:地质]
+spongophare | skip:unknown
+spongophyll | skip:unknown
+spongosine | skip:unknown
+spongosterol | n.海绵甾醇 [domain:化学]
+spongothymidin | skip:unknown
+spongothymidine | n.海绵胸苷 [domain:化学]
+spongouridine | n.海绵尿苷 [domain:化学]
+sponsalia | skip:unknown
+sponsion | n.担保, 代表保证 [domain:法律]
+sponsorial | adj.保证人的, 赞助者的
+spontaneities | skip:not-lemma
+spookery | n.幽灵, 鬼怪 [informal]
+spoolwright | skip:unknown
+spoorer | n.追踪者
+sporadin | n.散生体 [domain:生物]
+sporadosiderite | n.散布陨铁 [domain:地质]
+sporange | skip:unknown
+sporangiferous | adj.产孢子囊的 [domain:植物]
+sporangiform | adj.孢子囊状的 [domain:植物]
+sporangiocarp | skip:unknown
+sporangiocyst | skip:unknown
+sporangioid | adj.似孢子囊的 [domain:植物]
+sporangiole | n.小孢子囊 [domain:植物]
+sporangiolum | n.小孢子囊 [domain:植物]
+sporangiomycin | skip:unknown
+sporangiosorus | skip:unknown
+sporation | n.孢子形成 [domain:生物]
+sporaviridin | skip:unknown
+sporidesm | n.孢子串 [domain:植物]
+sporidesmin | n.葡萄穗霉素 [domain:化学]
+sporidesmolide | skip:unknown
+sporidia | n.小孢子 [domain:植物]
+sporidiole | n.小担孢子 [domain:植物]
+sporidiosis | skip:unknown
+sporidochium | skip:unknown
+sporiferous | adj.产孢子的 [domain:植物]
+sporification | n.孢子形成 [domain:生物]
+sporinite | n.孢粉体 [domain:地质]
+sporiparity | n.孢子繁殖 [domain:生物]
+sporiparous | adj.孢子繁殖的 [domain:生物]
+sporite | skip:unknown
+sporoagglutination | skip:unknown
+sporoblast | n.孢子母细胞 [domain:生物]
+sporoderm | n.孢子壁 [domain:植物]
+sporodochium | n.分生孢子座 [domain:植物]
+sporoduct | n.孢子管 [domain:生物]
+sporofusariogenin | skip:unknown
+sporogenic | adj.产孢子的 [domain:生物]
+sporogenous | adj.产孢子的 [domain:生物]
+sporogeny | n.孢子形成 [domain:生物]
+sporograph | skip:unknown
+sporoid | adj.孢子状的 [domain:生物]
+sporomorph | n.孢粉形态 [domain:植物]
+sporomorphidium | skip:unknown
+sporomycosis | skip:unknown
+sporonin | skip:unknown
+sporont | n.孢子体 [domain:生物]
+sporophoric | adj.产孢子的 [domain:植物]
+sporophyl | n.孢子叶 [domain:植物]
+sporophylliod | skip:unknown
+sporoplasm | n.孢质 [domain:生物]
+sporoplasmic | adj.孢质的 [domain:生物]
+sporopore | skip:unknown
+sporopycnidium | skip:unknown
+sporosac | n.孢子囊 [domain:动物]
+sporotheka | skip:unknown
+sporothrix | n.孢子丝菌 [domain:生物]
+sporotrichin | n.孢子丝菌素 [domain:医学]
+sporotrichum | n.孢子丝菌属 [domain:生物]
+sporozoiticide | skip:unknown
+sporozooid | skip:unknown
+sporozoosis | skip:unknown
+sportsbag | n.运动包
+sporular | adj.小孢子的 [domain:生物]
+spragger | skip:unknown
+spragging | skip:not-lemma
+spraints | n.水獭粪 [domain:动物]
+sprayability | n.可喷涂性
+spreadability | n.可涂展性
+spreathed | adj.起皮的, 皮肤粗糙的 [dated]
+sprigger | n.做嫩枝装饰者
+sprigtail | n.针尾鸭 [domain:动物]
+springhole | n.泉眼
+springlet | n.小泉, 小弹簧
+springlock | n.弹簧锁
+springwort | n.春草 [domain:植物]
+sprod | n.小鲑鱼 [domain:动物]
+sprouter | n.发芽者
+sprucy | adj.整洁的, 华丽的 [dated]
+spudder | n.挖土者, 冲击钻机 [domain:矿业]
+spue | v.呕吐 [dated]
+spumescence | n.起泡沫
+spumulite | skip:unknown
+spund | skip:unknown
+spurgall | n.马刺擦伤 [dated]
+spuria | skip:unknown
+spurion | n.伪粒子 [domain:物理]
+spurner | n.轻蔑者
+spurries | skip:not-lemma
+spurrite | n.灰硅钙石 [domain:地质]
+spurwort | skip:unknown
+sputamentum | skip:unknown
+sputterer | n.喷溅者
+sputteringly | adv.噼啪作响地
+squabby | adj.矮胖的
+squadroned | adj.编成中队的 [domain:军事]
+squail | n.掷圆盘游戏 [domain:体育]
+squalamine | n.角鲨胺 [domain:药学]
+squaller | n.尖叫者
+squaloid | adj.角鲨的 [domain:动物]
+squamaceous | adj.鳞状的 [domain:生物]
+squamae | n.鳞片 [domain:生物]
+squamatization | n.鳞状化 [domain:医学]
+squame | n.鳞片 [domain:生物]
+squamella | n.小鳞片 [domain:生物]
+squamiform | adj.鳞状的 [domain:生物]
+squamigerous | adj.有鳞的 [domain:生物]
+squamocellular | adj.鳞状细胞的 [domain:医学]
+squamodisk | skip:unknown
+squamofrontal | skip:unknown
+squamoid | adj.鳞状的 [domain:生物]
+squamomastoid | adj.鳞乳突的 [domain:解剖]
+squamoparietal | adj.鳞顶的 [domain:解剖]
+squamopetrosal | adj.鳞岩的 [domain:解剖]
+squamosoparietal | adj.鳞顶的 [domain:解剖]
+squamosphenoid | adj.鳞蝶的 [domain:解剖]
+squamotemporal | adj.鳞颞的 [domain:解剖]
+squamotympanic | adj.鳞鼓的 [domain:解剖]
+squamozygomatic | adj.鳞颧的 [domain:解剖]
+squamula | n.小鳞片 [domain:生物]
+squamulae | n.小鳞片 [domain:生物]
+squamulate | adj.有小鳞的 [domain:生物]
+squamulose | adj.有小鳞的 [domain:生物]
+squanderingly | adv.挥霍地
+squandermania | n.挥霍狂 [dated]
+squarebash | n.阅兵操练 [uk,informal]
+squareface | n.方脸 [dated]
+squareflipper | n.髯海豹 [domain:动物]
+squareman | skip:unknown
+squaresville | n.古板的人 [us,slang]
+squaretail | n.溪红点鲑 [domain:动物]
+squarial | n.方形卫星天线 [uk]
+squarrous | adj.鳞片开张的 [domain:植物]
+squarrulose | adj.略鳞片开张的 [domain:植物]
+squasher | n.压碎者
+squassation | skip:unknown
+squatina | n.扁鲨属 [domain:动物]
+squawkies | skip:unknown
+squawroot | n.北美列当 [domain:植物]
+squdgy | adj.湿软的 [uk,informal]
+squeezability | n.可压缩性
+squeg | v.间歇振荡 [domain:电子]
+squegger | n.间歇振荡器 [domain:电子]
+squegging | skip:not-lemma
+squelcher | n.压制者
+squiffer | n.六角手风琴 [uk,informal]
+squillae | skip:not-lemma
+squillagee | n.橡皮刮板
+squillitic | adj.海葱的 [domain:药学]
+squinter | n.斜视者
+squirarch | n.乡绅阶层 [dated]
+squiteague | n.大西洋石首鱼 [domain:动物]
+squitter | n.腹泻 [dated,informal]
+stabilimeter | n.稳定仪 [domain:医学]
+stabilizability | n.可稳定性
+stabilometer | n.稳定性测试仪 [domain:机械]
+stachybotryotoxicosis | n.葡萄穗霉毒素中毒 [domain:医学]
+stachydrine | n.水苏碱 [domain:化学]
+stachyospermous | skip:unknown
+stachyosporous | skip:unknown
+stachyspermous | skip:unknown
+stactometer | skip:unknown
+stadimeter | n.测距仪 [domain:航海]
+stadtholderate | n.总督职位 [domain:历史]
+stadtholdership | n.总督职位 [domain:历史]
+staffelite | n.胶磷石 [domain:地质]
+staffman | n.测量杆手 [domain:地理]
+staggart | skip:unknown
+staggerbush | n.北美杜鹃花科灌木 [domain:植物]
+staggerer | n.蹒跚者
+staggerwort | n.千里光 [domain:植物]
+staggery | adj.摇晃的
+staggy | adj.像雄鹿的
+staghead | n.枯顶 [domain:植物]
+stagmalite | skip:unknown
+stagmometer | n.滴重计 [domain:物理]
+stagnicolous | adj.栖息静水的 [domain:生物]
+stagnogley | n.滞水潜育土 [domain:地质]
+stagnophile | skip:unknown
+stagnopseudogley | n.滞水假潜育土 [domain:地质]
+stail | n.柄 [dated]
+stainability | n.可染性 [domain:化学]
+stainierite | n.水锰钴矿 [domain:地质]
+stalactic | adj.钟乳石状的 [domain:地质]
+stalactical | adj.钟乳石状的 [domain:地质]
+stalactiform | adj.钟乳石状的 [domain:地质]
+stalactitical | adj.钟乳石状的 [domain:地质]
+stalagmitical | adj.石笋状的 [domain:地质]
+stalagmometer | n.滴重计 [domain:物理]
+stalagmometry | n.滴重法 [domain:物理]
+stalagmon | skip:unknown
+stalagmospore | skip:unknown
+stalinite | n.斯大林主义者 [domain:政治]
+stallimycin | skip:unknown
+stallout | n.失速停滞
+stalloy | n.硅钢片 [domain:电子]
+stamened | adj.有雄蕊的 [domain:植物]
+stamineal | adj.雄蕊的 [domain:植物]
+stamineous | adj.雄蕊的 [domain:植物]
+staminiferous | adj.有雄蕊的 [domain:植物]
+staminodia | n.退化雄蕊 [domain:植物]
+staminody | n.雄蕊化 [domain:植物]
+staminose | adj.有雄蕊的 [domain:植物]
+stamukha | n.搁浅冰 [domain:地理]
+stanazolol | n.康力龙 [domain:药学]
+stancher | n.止血者
+stanchless | adj.止不住的
+stanchly | adv.坚定地
+stanchness | n.坚定
+standardbearer | n.旗手, 领袖
+standardiser | n.标准化者 [uk]
+standardizer | n.标准化者
+standpattism | n.保守主义 [domain:政治]
+stanfieldite | n.磷镁钙石 [domain:地质]
+stanhopea | n.奇唇兰 [domain:植物]
+stannane | n.锡烷 [domain:化学]
+stannekite | skip:unknown
+stanniform | skip:unknown
+stannine | n.黄锡矿 [domain:地质]
+stanniol | n.锡箔 [dated]
+stannize | v.镀锡 [domain:化学]
+stannometer | skip:unknown
+stannometry | skip:unknown
+stannonate | skip:unknown
+stannonium | skip:unknown
+stannosis | n.锡尘肺 [domain:医学]
+stannyl | n.锡烷基 [domain:化学]
+stannylene | n.亚锡烷基 [domain:化学]
+stanolone | n.双氢睾酮 [domain:药学]
+stapedes | n.镫骨 [domain:解剖]
+stapediolysis | n.镫骨松解术 [domain:医学]
+stapedioplasty | n.镫骨成形术 [domain:医学]
+stapediotenotomy | n.镫骨肌腱切断术 [domain:医学]
+stapediovestibular | adj.镫骨前庭的 [domain:解剖]
+staphisagria | n.翠雀籽 [domain:药学]
+staphisagrine | skip:unknown
+staphyle | n.悬雍垂 [domain:解剖]
+staphylectomy | n.悬雍垂切除术 [domain:医学]
+staphyledema | n.悬雍垂水肿 [domain:医学]
+staphylematoma | n.悬雍垂血肿 [domain:医学]
+staphyleus | skip:unknown
+staphylhematoma | n.悬雍垂血肿 [domain:医学]
+staphylin | skip:unknown
+staphyline | adj.悬雍垂的 [domain:解剖]
+staphylinopharyngeus | skip:unknown
+staphylinus | skip:not-english
+staphylion | n.腭点 [domain:解剖]
+staphylitis | n.悬雍垂炎 [domain:医学]
+staphyloangina | skip:unknown
+staphylobacterin | skip:unknown
+staphylocide | skip:unknown
+staphylocoagulase | n.葡萄球菌凝固酶 [domain:医学]
+staphylococcemia | n.葡萄球菌血症 [domain:医学]
+staphylococcia | n.葡萄球菌病 [domain:医学]
+staphylococcide | n.杀葡萄球菌剂 [domain:药学]
+staphylococcin | skip:unknown
+staphylococcolysin | skip:unknown
+staphylococcolysis | skip:unknown
+staphylococcosis | n.葡萄球菌病 [domain:医学]
+staphyloderma | skip:unknown
+staphylodermatitis | n.葡萄球菌性皮炎 [domain:医学]
+staphylodialysis | skip:unknown
+staphyloedema | n.悬雍垂水肿 [domain:医学]
+staphylohemia | skip:unknown
+staphylohemolysin | n.葡萄球菌溶血素 [domain:医学]
+staphyloleukocidin | n.葡萄球菌杀白细胞素 [domain:医学]
+staphylolysin | n.葡萄球菌溶素 [domain:医学]
+staphylomatous | adj.葡萄肿的 [domain:医学]
+staphylomycin | n.葡萄球菌霉素 [domain:药学]
+staphyloncus | skip:unknown
+staphylopharyngeus | skip:unknown
+staphylopharyngorrhaphy | skip:unknown
+staphyloplasmin | skip:unknown
+staphyloptosia | n.悬雍垂下垂 [domain:医学]
+staphyloptosis | n.悬雍垂下垂 [domain:医学]
+staphyloschisis | n.悬雍垂裂 [domain:医学]
+staphylostreptococcemia | skip:unknown
+staphylostreptococcia | skip:unknown
+staphylostreptococcosis | skip:unknown
+staphylotome | n.悬雍垂刀 [domain:医学]
+staphylotomy | n.悬雍垂切开术 [domain:医学]
+staphylotoxin | n.葡萄球菌毒素 [domain:医学]
+staphylotropic | adj.亲葡萄球菌的 [domain:医学]
+staphylygroma | skip:unknown
+staplegun | n.订书枪
+starblind | adj.半盲的 [dated]
+starchedly | adv.拘谨地, 呆板地
+starchedness | n.拘谨, 呆板
+starchless | adj.无淀粉的
+starchlike | adj.似淀粉的
+starchly | adv.浆硬地, 拘谨地
+starchness | n.淀粉性
+starchsplitting | skip:unknown
+starduster | n.星尘飞机 [dated]
+starlifter | skip:unknown
+starlikeness | n.星状
+starnose | n.星鼻鼹 [domain:动物]
+starterdynamo | skip:unknown
+startsy | skip:not-lemma
+starvedly | skip:unknown
+starwheel | n.星形轮 [domain:机械]
+stasibasiphobia | n.站立行走恐惧症 [domain:医学]
+stasidynic | skip:unknown
+stasigenesis | n.停滞进化 [domain:生物]
+stasimetry | skip:unknown
+stasimorphia | n.停滞畸形 [domain:医学]
+stasimorphy | n.停滞畸形 [domain:医学]
+stasiphobia | n.站立恐惧症 [domain:医学]
+stasite | skip:unknown
+stasium | skip:unknown
+stasobasiphobia | n.站立行走恐惧症 [domain:医学]
+stasophobia | n.站立恐惧症 [domain:医学]
+stassanization | n.斯塔桑杀菌法 [domain:烹饪]
+stassanizer | skip:unknown
+stassfurtite | n.硼镁石 [domain:地质]
+stasuphobia | skip:unknown
+staszicite | skip:unknown
+statal | adj.状态的
+statary | adj.固定的 [dated]
+stateable | adj.可陈述的
+statenchyma | skip:unknown
+stathmograph | skip:unknown
+stathmokinesis | n.有丝分裂停滞 [domain:生物]
+statician | skip:unknown
+staticize | v.使静态化
+staticizer | n.静态化器 [domain:计算机]
+staticon | n.静电摄像管 [domain:电子]
+statine | n.抑素氨基酸 [domain:化学]
+stational | adj.固定位置的
+stationariness | n.静止, 固定
+stationeriness | skip:unknown
+statmho | n.静电姆欧 [domain:物理]
+statobiolith | skip:unknown
+statocone | skip:unknown
+statoconia | n.平衡石 [domain:生物]
+statoconium | n.平衡石 [domain:生物]
+statocyte | n.平衡细胞 [domain:生物]
+statodyne | skip:unknown
+statohm | n.静电欧姆 [domain:物理]
+statokinetic | adj.静态运动的 [domain:生物]
+statolatry | n.国家崇拜 [domain:政治]
+statometer | skip:unknown
+statoreceptor | n.平衡感受器 [domain:生物]
+statoscope | n.微差气压计 [domain:航空]
+statosphere | skip:junk
+statospore | n.休眠孢子 [domain:生物]
+statunit | skip:unknown
+statural | adj.身材的
+statuvoiism | skip:unknown
+statuvolence | n.自我催眠 [domain:心理]
+statuvolent | adj.自我催眠的 [domain:心理]
+statuvolic | adj.自我催眠的 [domain:心理]
+stauncher | skip:not-lemma
+stauractine | n.四辐骨针 [domain:动物]
+staurane | skip:unknown
+staurikosaurus | skip:not-english
+staurion | skip:unknown
+staurolitic | adj.十字石的 [domain:地质]
+stauromedusan | n.十字水母 [domain:动物]
+stauroplegia | skip:unknown
+stauroscope | n.十字镜 [domain:地质]
+stavrite | skip:unknown
+staxis | n.渗血 [domain:医学]
+staybelite | skip:unknown
+stayguy | skip:unknown
+staylace | n.紧身胸衣带
+steadite | n.磷共晶 [domain:机械]
+stealage | n.偷窃, 失窃量
+stealthful | adj.偷偷摸摸的
+steamalloy | skip:unknown
+steamdrum | n.汽包 [domain:机械]
+steamgas | skip:unknown
+steapsase | skip:unknown
+steapsinogen | n.胰脂肪酶原 [domain:生物]
+stearaldehyde | n.硬脂醛 [domain:化学]
+stearamide | n.硬脂酰胺 [domain:化学]
+stearamine | n.硬脂胺 [domain:化学]
+stearanilide | n.硬脂酰苯胺 [domain:化学]
+stearentin | skip:unknown
+steargillite | skip:unknown
+steariform | adj.脂肪状的
+stearoconotum | skip:unknown
+stearodermia | skip:unknown
+stearodine | skip:unknown
+stearodiolein | skip:unknown
+stearodlpalmitin | skip:junk
+stearol | skip:unknown
+stearolactone | skip:unknown
+stearone | n.硬脂酮 [domain:化学]
+stearonitrile | n.硬脂腈 [domain:化学]
+stearophenone | n.硬脂酰苯 [domain:化学]
+stearopten | n.固态挥发油 [domain:化学]
+stearoptene | n.固态挥发油 [domain:化学]
+stearrhea | skip:unknown
+stearylsulfamide | skip:unknown
+steatadenitis | n.皮脂腺炎 [domain:医学]
+steatadenoma | n.皮脂腺瘤 [domain:医学]
+steatargillite | skip:unknown
+steatina | skip:unknown
+steatitis | n.脂肪组织炎 [domain:医学]
+steatoblast | n.成脂细胞 [domain:生物]
+steatocele | n.脂肪囊肿 [domain:医学]
+steatocryptosis | skip:unknown
+steatocystoma | n.皮脂囊瘤 [domain:医学]
+steatocyte | n.脂肪细胞 [domain:生物]
+steatogenous | adj.生脂肪的 [domain:医学]
+steatolysis | n.脂肪乳化 [domain:医学]
+steatolytic | adj.脂肪乳化的 [domain:医学]
+steatoma | n.脂肪瘤 [domain:医学]
+steatomatosis | skip:unknown
+steatomery | skip:unknown
+steatomosis | skip:unknown
+steatonecrosis | n.脂肪坏死 [domain:医学]
+steatopathy | skip:unknown
+steatopyga | n.臀部脂肪过多 [domain:医学]
+steatotrochanteria | skip:unknown
+steatozoon | skip:unknown
+stechiology | n.元素学 [dated]
+stechiometry | skip:junk
+stedfastly | adv.坚定地 [dated]
+steeleite | skip:unknown
+steelify | v.使成钢
+steeloscope | n.钢质检验镜 [domain:机械]
+steenstrupine | n.硅铈钠石 [domain:地质]
+steepgrass | skip:unknown
+steephead | skip:unknown
+steepletop | n.柳叶绣线菊 [domain:植物]
+steeplifting | skip:unknown
+steerability | n.可操纵性
+steerling | skip:unknown
+steershead | skip:unknown
+steeved | skip:not-lemma
+steganogram | skip:unknown
+steganopodes | skip:not-english
+stege | skip:unknown
+stegine | skip:unknown
+stegium | skip:unknown
+stegma | skip:unknown
+stegnobinone | skip:unknown
+stegnosis | n.狭窄, 闭塞 [domain:医学]
+stegnotic | adj.收敛的 [domain:医学]
+stegocarpous | adj.盖果的 [domain:植物]
+stegomyia | skip:not-english
+stegophyll | skip:unknown
+stegosauria | skip:not-english
+stegosauroid | adj.剑龙类的 [domain:动物]
+steigerite | n.水钒铝石 [domain:地质]
+steinheilite | skip:unknown
+steinmannite | skip:unknown
+stelazine | skip:proper-out-of-scope
+stelidium | skip:unknown
+steliogen | skip:unknown
+stellarite | skip:unknown
+stellasterol | n.星甾醇 [domain:化学]
+stellerin | skip:unknown
+stellerine | skip:unknown
+stellerite | n.辉沸石 [domain:地质]
+stelleroid | n.海星类 [domain:动物]
+stelliferasterol | skip:unknown
+stelloid | adj.星状的
+stellula | n.小星 [domain:生物]
+stellulae | n.小星 [domain:生物]
+stellulate | adj.小星状的 [domain:生物]
+stelophyta | skip:not-english
+stelznerite | skip:unknown
+stemflow | n.茎流 [domain:农业]
+stemlet | n.小茎 [domain:植物]
+stemmery | n.烟叶去梗处 [domain:农业]
+stemminess | n.多茎, 多梗
+stemmy | adj.多茎的, 多梗的
+stemona | n.百部属 [domain:植物]
+stemonamine | skip:unknown
+stemonine | skip:unknown
+stemphylone | skip:unknown
+stenagma | skip:unknown
+stenagmus | skip:unknown
+stenbolone | skip:unknown
+stenchful | adj.恶臭的
+stenchy | adj.恶臭的
+stencile | skip:junk
+stencilization | skip:unknown
+stendomycin | skip:unknown
+stenia | skip:unknown
+stenion | n.颞点 [domain:解剖]
+stenobath | n.狭深性生物 [domain:生物]
+stenobregmate | skip:unknown
+stenobregmatic | skip:unknown
+stenocarpine | skip:unknown
+stenocephalia | n.头狭小 [domain:医学]
+stenocephalic | adj.头狭小的 [domain:医学]
+stenocephaly | n.头狭小 [domain:医学]
+stenoceplnalous | skip:junk
+stenochasmus | skip:unknown
+stenochoria | n.狭窄 [domain:医学]
+stenochoric | skip:unknown
+stenochory | skip:unknown
+stenochrome | skip:unknown
+stenochromy | skip:unknown
+stenocompressor | skip:unknown
+stenocoriasis | n.瞳孔狭窄 [domain:医学]
+stenocrotaphia | skip:unknown
+stenocrotaphy | skip:unknown
+stenode | skip:unknown
+stenodont | skip:unknown
+stenographist | n.速记员 [dated]
+stenograppher | skip:junk
+stenohygric | adj.适湿范围狭窄的 [domain:生物]
+stenoky | n.狭生境性 [domain:生物]
+stenol | skip:unknown
+stenolalism | skip:unknown
+stenolone | skip:unknown
+stenomeric | skip:unknown
+stenometer | skip:unknown
+stenomycteria | skip:unknown
+stenooxybiont | skip:unknown
+stenooxybiotic | adj.狭氧性的 [domain:生物]
+stenopalynous | adj.花粉孔窄的 [domain:植物]
+stenopeic | adj.窄缝的 [domain:医学]
+stenopetalous | adj.窄花瓣的 [domain:植物]
+stenophagy | n.狭食性 [domain:动物]
+stenophotic | adj.耐光范围窄的 [domain:生物]
+stenophyllism | skip:unknown
+stenophyllous | adj.窄叶的 [domain:植物]
+stenopterous | adj.窄翅的 [domain:动物]
+stenopterygius | skip:not-english
+stenorhynchous | adj.窄喙的 [domain:动物]
+stenos | skip:unknown
+stenosal | skip:unknown
+stenosation | skip:unknown
+stenosine | skip:unknown
+stenospermocarpy | skip:unknown
+stenostegnosis | skip:unknown
+stenostenosis | skip:unknown
+stenostomatous | adj.窄口的 [domain:动物]
+stenostomia | n.口狭窄 [domain:医学]
+stenostomy | n.腮腺管狭窄 [domain:医学]
+stenothermic | adj.狭温性的 [domain:生物]
+stenothermophile | skip:unknown
+stenothorax | n.窄胸 [domain:医学]
+stenotropic | adj.狭适应性的 [domain:生物]
+stenozonous | skip:unknown
+stentorin | n.喇叭虫素 [domain:化学]
+stentorophonic | adj.声音洪亮的
+stentorophonous | adj.声音洪亮的
+stepanovite | skip:unknown
+stephanial | adj.冠状缝的 [domain:解剖]
+stephanion | n.冠点 [domain:解剖]
+stephanite | n.脆银矿 [domain:地质]
+stephanocolpate | adj.冠状沟的 [domain:植物]
+stephanofilariasis | n.冠丝虫病 [domain:医学]
+stephanoporate | adj.冠状孔的 [domain:植物]
+stephanovite | skip:unknown
+steplike | adj.阶梯状的
+stepmotor | n.步进电机 [domain:电子]
+stepout | n.失步 [domain:电子]
+steppa | skip:not-english
+stepparenting | n.继亲养育
+steppification | n.草原化 [domain:地理]
+sterad | skip:unknown
+steradiancy | skip:unknown
+steramide | skip:unknown
+sterandryl | skip:proper-out-of-scope
+sterane | n.甾烷 [domain:化学]
+steranthrene | skip:unknown
+stercobilin | n.粪胆素 [domain:医学]
+stercobilinogen | n.粪胆素原 [domain:医学]
+stercoporphyrin | n.粪卟啉 [domain:医学]
+stercoraemia | n.粪血症 [uk,domain:医学]
+stercorarian | skip:unknown
+stercorary | n.粪池 [dated]
+stercorate | v.施粪肥 [domain:农业]
+stercoration | n.施粪肥 [domain:农业]
+stercoremia | n.粪血症 [us,domain:医学]
+stercoricolous | adj.栖息于粪中的 [domain:生物]
+stercorin | n.粪甾醇 [domain:化学]
+stercorite | n.磷酸氢铵钠石 [domain:地质]
+stercorol | skip:unknown
+stercorolith | n.粪石 [domain:医学]
+stercoroma | n.粪瘤 [domain:医学]
+stercorous | adj.粪便的
+sterculiaceous | adj.梧桐科的 [domain:植物]
+stercus | n.粪便 [domain:医学]
+stereoacuity | n.立体视敏度 [domain:医学]
+stereoagnosis | n.实体觉缺失 [domain:医学]
+stereoanesthesia | n.实体觉缺失 [domain:医学]
+stereoarthrolysis | skip:unknown
+stereoauscultation | skip:unknown
+stereoautograph | n.立体自动测图仪 [domain:地理]
+stereobase | skip:unknown
+stereobetatron | skip:unknown
+stereoblastula | n.实心囊胚 [domain:生物]
+stereocamera | n.立体照相机 [domain:摄影]
+stereocampimeter | skip:unknown
+stereocardiography | skip:unknown
+stereocasting | skip:unknown
+stereocenter | n.立体中心 [domain:化学]
+stereochromic | adj.立体着色的 [domain:美术]
+stereocognosy | n.实体觉 [domain:心理]
+stereocomparagraph | skip:unknown
+stereocomparator | n.立体坐标量测仪 [domain:地理]
+stereocopolymer | n.立构共聚物 [domain:化学]
+stereoeffect | n.立体效应
+stereoencephalotome | skip:unknown
+stereoencephalotomy | n.脑立体定向术 [domain:医学]
+stereofluoroscopy | n.立体荧光透视 [domain:医学]
+stereofunduscope | skip:unknown
+stereogastrula | n.实心原肠胚 [domain:生物]
+stereognomogram | skip:unknown
+stereogoniometer | skip:unknown
+stereogrammetry | skip:unknown
+stereographer | n.立体图制作者
+stereographical | adj.立体投影的 [domain:数学]
+stereographically | adv.立体投影地 [domain:数学]
+stereograticule | skip:unknown
+stereohybridization | skip:unknown
+stereoisomeride | skip:unknown
+stereokinesis | n.趋触性 [domain:生物]
+stereological | adj.体视学的 [domain:统计]
+stereologically | adv.体视学地 [domain:统计]
+stereomacrography | skip:unknown
+stereomapping | n.立体测图 [domain:地理]
+stereome | n.机械组织 [domain:植物]
+stereomer | n.立体异构体 [domain:化学]
+stereomeride | skip:unknown
+stereometer | n.体积计 [domain:物理]
+stereometric | adj.立体测量的 [domain:数学]
+stereometrograph | skip:unknown
+stereomicrograph | n.立体显微照片 [domain:摄影]
+stereomicrography | n.立体显微摄影 [domain:摄影]
+stereomicrometer | skip:unknown
+stereomicroradiography | skip:unknown
+stereomicroscopy | n.立体显微镜检查 [domain:生物]
+stereomixer | skip:unknown
+stereomodel | n.立体模型 [domain:地理]
+stereomodifier | skip:unknown
+stereomonoscope | skip:unknown
+stereomotor | skip:unknown
+stereomutation | n.立体异构化 [domain:化学]
+stereonet | n.立体网 [domain:地质]
+stereoneurula | skip:unknown
+stereopair | n.立体像对 [domain:地理]
+stereopantometer | skip:unknown
+stereoparent | skip:unknown
+stereoperception | n.立体知觉 [domain:心理]
+stereophantoscope | skip:unknown
+stereophenomenon | skip:unknown
+stereophone | n.立体声耳机 [domain:电子]
+stereophonism | skip:unknown
+stereophorometer | skip:unknown
+stereophoroscope | skip:unknown
+stereophotogrammetry | n.立体摄影测量 [domain:地理]
+stereophotograph | n.立体照片 [domain:摄影]
+stereophotographic | adj.立体摄影的 [domain:摄影]
+stereophotography | n.立体摄影 [domain:摄影]
+stereophotometer | skip:unknown
+stereophotomicrograph | n.立体显微照片 [domain:摄影]
+stereophotomicrography | n.立体显微摄影 [domain:摄影]
+stereophototopography | skip:unknown
+stereophysics | skip:unknown
+stereopicture | n.立体图片
+stereoplanigraph | n.立体测图仪 [domain:地理]
+stereoplasm | n.固质 [domain:生物]
+stereoplotting | skip:unknown
+stereopolybutadiene | n.立构聚丁二烯 [domain:化学]
+stereoprojection | n.立体投影 [domain:数学]
+stereopter | skip:unknown
+stereoptics | n.立体光学 [domain:物理]
+stereoradar | skip:unknown
+stereoradian | skip:unknown
+stereoradiograph | n.立体射线照片 [domain:医学]
+stereoradiography | n.立体射线摄影 [domain:医学]
+stereoregularity | n.立构规整度 [domain:化学]
+stereorestitution | skip:unknown
+stereoroentgenograph | n.立体射线照片 [domain:医学]
+stereoroentgenography | n.立体射线摄影 [domain:医学]
+stereoroentgenometry | skip:unknown
+stereoroentgenoscopy | skip:unknown
+stereorubber | n.定向橡胶 [domain:化学]
+stereosalpingography | skip:unknown
+stereoscan | n.扫描电镜 [domain:物理]
+stereoscopical | adj.立体镜的
+stereosimplex | skip:unknown
+stereoskiagraphy | skip:unknown
+stereoslide | n.立体幻灯片 [domain:摄影]
+stereospectrogram | skip:unknown
+stereosphere | skip:unknown
+stereostroboscope | skip:unknown
+stereotactically | adv.立体定向地 [domain:医学]
+stereotape | n.立体声磁带 [domain:电子]
+stereotaxia | n.趋触性 [domain:生物]
+stereotaxically | adv.立体定向地 [domain:医学]
+stereotaxy | n.立体定向术 [domain:医学]
+stereotelemeter | skip:unknown
+stereotelescope | n.立体望远镜 [domain:物理]
+stereotelevision | n.立体电视 [domain:电子]
+stereotheodolite | n.立体经纬仪 [domain:地理]
+stereotome | n.石材切割仪 [domain:建筑]
+stereotomic | adj.立体切割术的 [domain:建筑]
+stereotomical | adj.立体切割术的 [domain:建筑]
+stereotomist | skip:unknown
+stereotopometer | skip:unknown
+stereotropic | adj.向触性的 [domain:生物]
+stereotypia | skip:unknown
+stereotypist | n.铅版工 [domain:印刷]
+stereovectograph | skip:unknown
+stereovectorelectrocardiogram | skip:unknown
+stereoviewer | n.立体观察器
+stereoviewing | skip:not-lemma
+stereovision | n.立体视觉
+stereozone | skip:unknown
+steresol | skip:unknown
+sterid | skip:unknown
+steride | skip:unknown
+sterides | skip:unknown
+sterigmatocystin | n.杂色曲霉素 [domain:化学]
+sterigmaupsin | skip:junk
+sterilamp | skip:unknown
+sterilely | adv.不育地, 无菌地
+sterileness | n.不育, 无菌
+sterilitas | skip:not-english
+sterilizability | n.可灭菌性
+sterilometer | skip:unknown
+sterin | skip:unknown
+sterlingite | skip:unknown
+sterlingly | adv.纯正地, 优秀地
+sterlingness | n.纯正, 优秀
+sternad | adv.向胸骨 [domain:解剖]
+sternalgia | n.胸骨痛 [domain:医学]
+sternalis | skip:not-english
+sternbergite | n.硫银铁矿 [domain:地质]
+sternebrae | n.胸骨节 [domain:解剖]
+sterniform | adj.胸骨状的 [domain:解剖]
+sternlight | n.船尾灯 [domain:航海]
+sternman | n.船尾桨手 [domain:航海]
+sternochondroscapularis | skip:unknown
+sternoclavicularis | skip:unknown
+sternocleidal | adj.胸锁的 [domain:解剖]
+sternocleidomastoideus | skip:not-english
+sternodymia | skip:unknown
+sternodymus | skip:unknown
+sternodynia | n.胸骨痛 [domain:医学]
+sternofacialis | skip:unknown
+sternofascialis | skip:unknown
+sternoglossal | adj.胸骨舌的 [domain:解剖]
+sternogoniometer | skip:unknown
+sternohyoideus | skip:not-english
+sternoid | adj.胸骨状的 [domain:解剖]
+sternopagia | skip:unknown
+sternopagus | skip:unknown
+sternopagy | skip:unknown
+sternoparacentesis | skip:unknown
+sternopericardial | adj.胸骨心包的 [domain:解剖]
+sternopleura | skip:unknown
+sternopleurite | n.胸侧片 [domain:动物]
+sternorhabdite | skip:unknown
+sternoscapular | adj.胸骨肩胛的 [domain:解剖]
+sternoschisis | n.胸骨裂 [domain:医学]
+sternothyreoideus | skip:not-english
+sternothyroid | adj.胸骨甲状的 [domain:解剖]
+sternotracheal | adj.胸骨气管的 [domain:解剖]
+sternotrypesis | skip:unknown
+sternovertebral | adj.胸骨脊椎的 [domain:解剖]
+sternoxiphopagus | skip:unknown
+sternson | n.船首内龙骨 [domain:航海]
+sterntrawler | n.尾拖网渔船 [domain:航海]
+sternutament | n.喷嚏剂 [domain:药学]
+sternutatio | skip:not-english
+sternutative | adj.引起喷嚏的
+sterny | adj.船尾的 [domain:航海]
+steroline | skip:unknown
+sterolytic | adj.甾醇分解的 [domain:化学]
+sterone | skip:unknown
+steropton | skip:unknown
+steroscopic | skip:junk
+sterosome | skip:unknown
+sterosonic | skip:unknown
+sterraster | n.星骨针 [domain:动物]
+sterule | skip:unknown
+stethalgia | n.胸痛 [domain:医学]
+stetharteritis | skip:unknown
+stethemia | skip:unknown
+stethendoscope | skip:unknown
+stethidium | skip:unknown
+stethocatharsis | skip:unknown
+stethocelodyspnoea | skip:unknown
+stethocyrtograph | n.胸廓曲线描记器 [domain:医学]
+stethogoniometer | n.胸廓角度计 [domain:医学]
+stethograph | n.胸动描记器 [domain:医学]
+stethography | n.胸动描记法 [domain:医学]
+stethokyrtograph | n.胸廓曲线描记器 [domain:医学]
+stethomenia | skip:unknown
+stethometer | n.胸围计 [domain:医学]
+stethomyitis | n.胸肌炎 [domain:医学]
+stethomyositis | n.胸肌炎 [domain:医学]
+stethoparalysis | n.胸肌麻痹 [domain:医学]
+stethophone | n.听诊器 [domain:医学]
+stethophonograph | skip:unknown
+stethophonometer | skip:unknown
+stethopolyscope | n.多管听诊器 [domain:医学]
+stethoscopical | adj.听诊器的 [domain:医学]
+stethoscopist | n.听诊医师 [domain:医学]
+stethospasm | n.胸肌痉挛 [domain:医学]
+steviol | n.甜菊醇 [domain:化学]
+stevioside | n.甜菊苷 [domain:化学]
+stewable | adj.可炖的 [domain:烹饪]
+stewartite | n.磷锰钙石 [domain:地质]
+stey | adj.陡峭的 [dated]
+sthene | n.斯森 [domain:物理]
+sthenometer | skip:unknown
+sthenometry | skip:unknown
+sthenophotic | skip:unknown
+sthenoplastic | skip:unknown
+sthenopyra | n.强壮性热 [domain:医学]
+sthenosage | skip:unknown
+stiameter | skip:unknown
+stibacetin | skip:unknown

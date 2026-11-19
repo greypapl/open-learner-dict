@@ -1,0 +1,1000 @@
+paleate | adj.有颖片的 [domain:植物]
+palebuck | n.小羚羊 [domain:动物]
+paleencephalon | n.古脑 [domain:解剖]
+paleethnology | n.古民族学
+paleichthyology | n.古鱼类学 [domain:动物]
+paleoanthropic | adj.古人类的 [domain:历史]
+paleoanthropological | adj.古人类学的 [domain:历史]
+paleobiochemical | adj.古生物化学的 [domain:地质]
+paleobiochemistry | n.古生物化学 [domain:地质]
+paleobioclimatology | skip:unknown
+paleobiogeography | n.古生物地理学 [domain:地质]
+paleobiologic | adj.古生物学的 [domain:地质]
+paleobiological | adj.古生物学的 [domain:地质]
+paleobotanically | adv.古植物学上 [domain:植物]
+paleocerebellar | adj.古小脑的 [domain:解剖]
+paleocerebellum | n.古小脑 [domain:解剖]
+paleochannel | n.古河道 [domain:地质]
+paleocinetic | skip:unknown
+paleocortical | adj.古皮质的 [domain:解剖]
+paleocrystic | adj.古冰的 [domain:地理]
+paleocurrent | n.古水流 [domain:地质]
+paleodendrology | n.古树木学 [domain:植物]
+paleoencephalon | n.古脑 [domain:解剖]
+paleoentomology | n.古昆虫学 [domain:动物]
+paleoequator | n.古赤道 [domain:地质]
+paleoethnography | n.古民族志
+paleofauna | n.古动物群 [domain:动物]
+paleogenesis | n.古生发生 [domain:生物]
+paleogenetic | adj.古生发生的 [domain:生物]
+paleogenetics | n.古遗传学 [domain:生物]
+paleogeographical | adj.古地理的 [domain:地质]
+paleogeographically | adv.古地理上 [domain:地质]
+paleogeologic | adj.古地质的 [domain:地质]
+paleogeology | n.古地质学 [domain:地质]
+paleogeophysics | n.古地球物理学 [domain:地质]
+paleographically | adv.古文字学上 [domain:语言]
+paleographist | n.古文字学家 [domain:语言]
+paleohabitat | n.古生境 [domain:生物]
+paleohydrology | n.古水文学 [domain:地质]
+paleoichnology | n.古遗迹学 [domain:地质]
+paleoichthyologist | n.古鱼类学家 [domain:动物]
+paleoichthyology | n.古鱼类学 [domain:动物]
+paleokinetic | skip:unknown
+paleolatitude | n.古纬度 [domain:地质]
+paleolimnology | n.古湖沼学 [domain:地质]
+paleologist | n.古代学家
+paleology | n.古代学
+paleomammalogy | n.古哺乳动物学 [domain:动物]
+paleontographical | adj.古生物志的 [domain:地质]
+paleontography | n.古生物志 [domain:地质]
+paleopallium | n.古皮质 [domain:解剖]
+paleopalynology | n.古孢粉学 [domain:地质]
+paleopedology | n.古土壤学 [domain:地质]
+paleophrenia | skip:unknown
+paleophysiology | n.古生理学
+paleophytology | n.古植物学 [domain:植物]
+paleoprimatology | n.古灵长类学 [domain:动物]
+paleopsychology | n.古心理学
+paleosalinity | n.古盐度 [domain:地质]
+paleosensation | skip:unknown
+paleoslope | n.古斜坡 [domain:地质]
+paleosome | n.古成体 [domain:地质]
+paleospecies | n.古种 [domain:生物]
+paleostriatal | adj.古纹状体的 [domain:解剖]
+paleostriatum | n.古纹状体 [domain:解剖]
+paleostructure | n.古构造 [domain:地质]
+paleotechnic | adj.古技术的
+paleotectonic | adj.古构造的 [domain:地质]
+paleotectonics | n.古构造学 [domain:地质]
+paleothalamus | n.古丘脑 [domain:解剖]
+paleotopographic | adj.古地形的 [domain:地质]
+paleotopography | n.古地形 [domain:地质]
+paleotropical | adj.古热带的 [domain:地理]
+paleous | adj.有颖片的 [domain:植物]
+paleovolcanic | adj.古火山的 [domain:地质]
+paletiology | n.古病因学
+palewise | adv.竖条地 [domain:历史]
+palichnology | n.古遗迹学 [domain:地质]
+palicinesia | skip:unknown
+palicourine | skip:unknown
+palid | skip:unknown
+palification | n.打桩加固 [domain:建筑]
+paliform | adj.桩状的
+paligorskite | n.坡缕石 [domain:矿业]
+palikinesia | skip:unknown
+palikinesis | skip:unknown
+palila | n.帕里拉雀 [domain:动物]
+palilalia | n.言语重复症 [domain:医学]
+palinactinodromous | skip:unknown
+palinal | adj.向后的
+palindromia | n.复发 [domain:医学]
+palinesthesia | skip:unknown
+palingenesist | n.轮回论者
+palingenist | n.轮回论者
+palingeny | n.再生
+palingraphia | n.倒写症 [domain:医学]
+palinphrasia | skip:unknown
+paliphrasia | n.言语重复症 [domain:医学]
+palirrhea | n.回流 [domain:医学]
+palisado | n.栅栏 [dated]
+palisadoderm | skip:unknown
+palistrophia | skip:unknown
+palitantin | n.帕利坦亭 [domain:药学]
+palladic | adj.钯的 [domain:化学]
+palladinite | skip:unknown
+palladious | adj.亚钯的 [domain:化学]
+palladiumize | v.镀钯 [domain:化学]
+palladize | v.镀钯 [domain:化学]
+palladous | adj.亚钯的 [domain:化学]
+pallanesthesia | n.振动觉缺失 [domain:医学]
+pallasite | n.石铁陨石 [domain:地质]
+pallation | skip:unknown
+pallesthesia | n.振动觉 [domain:医学]
+pallesthetic | adj.振动觉的 [domain:医学]
+pallethrin | n.丙烯菊酯 [domain:农业]
+pallhypesthesia | n.振动觉减退 [domain:医学]
+palliard | n.流氓 [dated]
+pallidal | adj.苍白球的 [domain:解剖]
+pallidin | skip:unknown
+pallidofugal | adj.离苍白球的 [domain:解剖]
+pallograph | n.振动描记器
+palmaceous | adj.棕榈科的 [domain:植物]
+palmanesthesia | n.掌感觉缺失 [domain:医学]
+palmatifid | adj.掌状半裂的 [domain:植物]
+palmatine | n.巴马汀 [domain:药学]
+palmation | n.掌状
+palmatisect | adj.掌状全裂的 [domain:植物]
+palmature | n.掌状
+palmellin | skip:unknown
+palmesthesia | n.振动觉 [domain:医学]
+palmesthetic | adj.振动觉的 [domain:医学]
+palmic | adj.棕榈的
+palmidrol | n.棕榈酰乙醇胺 [domain:药学]
+palmierite | n.钾铅矾 [domain:矿业]
+palmiste | n.油棕 [domain:植物]
+palmitaldehyde | n.棕榈醛 [domain:化学]
+palmitamide | n.棕榈酰胺 [domain:化学]
+palmitins | skip:not-lemma
+palmitodistearin | skip:unknown
+palmitoleostearin | skip:unknown
+palmitone | n.棕榈酮 [domain:化学]
+palmitonitrile | n.棕榈腈 [domain:化学]
+palmityl | n.棕榈基 [domain:化学]
+palmitylamine | n.棕榈胺 [domain:化学]
+palmodic | adj.抽搐的 [domain:医学]
+palmoplantar | adj.掌跖的 [domain:医学]
+palmoscopy | n.心悸诊断 [domain:医学]
+palmula | skip:unknown
+palmus | n.心悸 [domain:医学]
+palparium | skip:unknown
+palpatometry | skip:unknown
+palpatopercussion | n.触叩诊 [domain:医学]
+palpebrate | adj.有眼睑的 [domain:解剖]
+palpebration | n.眨眼
+palpebritis | n.睑炎 [domain:医学]
+palpebrofrontal | adj.睑额的 [domain:解剖]
+palped | skip:unknown
+palpfemur | skip:unknown
+palpicorn | n.须角甲虫 [domain:动物]
+palpifer | n.颚须基节 [domain:动物]
+palpiform | adj.须状的 [domain:动物]
+palpiger | n.下唇须基节 [domain:动物]
+palpigerous | adj.有须的 [domain:动物]
+palpitant | adj.悸动的
+palpocil | n.触毛 [domain:动物]
+palpognath | skip:unknown
+palsgravine | n.莱茵伯爵夫人 [domain:历史]
+paludamentum | n.古罗马将军披风 [domain:历史]
+paludicole | n.沼泽生物 [domain:生物]
+paludicolous | adj.沼泽生的 [domain:生物]
+paludification | n.沼泽化 [domain:地理]
+paludose | adj.沼泽的 [domain:地理]
+palumbine | adj.鸽的 [domain:动物]
+palustral | adj.沼泽的 [domain:地理]
+palustrol | n.沼泽醇 [domain:化学]
+palygorskite | n.坡缕石 [domain:矿业]
+palynologically | adv.孢粉学上 [domain:植物]
+palynomorph | n.孢粉形态体 [domain:地质]
+palytoxin | n.岩沙海葵毒素 [domain:化学]
+pamabrom | n.帕马溴 [domain:药学]
+pamaquin | n.扑疟喹 [domain:药学]
+pamaquine | n.扑疟喹 [domain:药学]
+pampano | n.鲳鱼 [domain:动物]
+pampean | adj.潘帕斯草原的 [domain:地理]
+pampiniform | adj.葡萄蔓状的 [domain:解剖]
+pampinocele | n.精索静脉曲张 [domain:医学]
+pamplegia | n.全身瘫痪 [domain:医学]
+pamprodactyl | skip:unknown
+pamprodactylous | adj.四趾向前的 [domain:动物]
+panabase | n.黝铜矿 [domain:矿业]
+panactinic | skip:unknown
+panadapter | n.全景适配器 [domain:电子]
+panadaptor | n.全景适配器 [domain:电子]
+panagglutinability | skip:unknown
+panagglutinable | adj.泛凝集的 [domain:医学]
+panagglutination | n.泛凝集 [domain:医学]
+panagglutinin | n.泛凝集素 [domain:医学]
+panangiitis | n.全血管炎 [domain:医学]
+panaperturate | adj.多孔的 [domain:植物]
+panaritium | n.甲沟炎 [domain:医学]
+panarteritis | n.全动脉炎 [domain:医学]
+panarthritis | n.全关节炎 [domain:医学]
+panasthenia | skip:unknown
+panatrophy | n.全身萎缩 [domain:医学]
+panaxatriol | n.人参三醇 [domain:化学]
+panaxatrione | skip:unknown
+panaxynol | n.人参炔醇 [domain:化学]
+panblastic | skip:unknown
+pancarditis | n.全心炎 [domain:医学]
+panchax | n.灯鳉 [domain:动物]
+panchondritis | n.全软骨炎 [domain:医学]
+panchrest | n.万灵药 [dated]
+panchreston | n.万能解释 [dated]
+panchromate | skip:unknown
+panchromatise | v.使全色化 [domain:摄影]
+panchromatism | n.全色性 [domain:摄影]
+panchromatize | v.使全色化 [domain:摄影]
+panchromia | skip:unknown
+panchronic | adj.泛时的 [domain:语言]
+pancolectomy | n.全结肠切除术 [domain:医学]
+pancosmism | n.泛宇宙论 [domain:哲学]
+pancratium | n.古希腊格斗 [domain:历史]
+pancrealgia | n.胰痛 [domain:医学]
+pancreatalgia | n.胰痛 [domain:医学]
+pancreatectomize | v.切除胰腺 [domain:医学]
+pancreatemphraxis | n.胰管阻塞 [domain:医学]
+pancreathelcosis | n.胰溃疡 [domain:医学]
+pancreaticocholecystostomy | n.胰胆囊吻合术 [domain:医学]
+pancreaticoduodenal | adj.胰十二指肠的 [domain:解剖]
+pancreaticoduodenostomy | n.胰十二指肠吻合术 [domain:医学]
+pancreaticogastrostomy | n.胰胃吻合术 [domain:医学]
+pancreaticojejunostomy | n.胰空肠吻合术 [domain:医学]
+pancreaticolithotomy | n.胰石切除术 [domain:医学]
+pancreaticosarcoma | skip:unknown
+pancreaticosplenic | adj.胰脾的 [domain:解剖]
+pancreatism | skip:unknown
+pancreatize | v.用胰酶处理 [domain:医学]
+pancreatoduodenectomy | n.胰十二指肠切除术 [domain:医学]
+pancreatoduodenostomy | n.胰十二指肠吻合术 [domain:医学]
+pancreatoduodenotomy | skip:unknown
+pancreatogenic | adj.胰源性的 [domain:医学]
+pancreatogenous | adj.胰源性的 [domain:医学]
+pancreatogram | n.胰腺造影片 [domain:医学]
+pancreatoid | adj.似胰腺的 [domain:医学]
+pancreatokinase | skip:unknown
+pancreatolipase | n.胰脂酶 [domain:药学]
+pancreatolith | n.胰石 [domain:医学]
+pancreatolithectomy | n.胰石切除术 [domain:医学]
+pancreatolithiasis | n.胰石病 [domain:医学]
+pancreatolithotomy | n.胰石切开术 [domain:医学]
+pancreatolytic | adj.溶胰的 [domain:医学]
+pancreatomy | skip:unknown
+pancreatoncus | n.胰肿瘤 [domain:医学]
+pancreatopathy | n.胰腺病 [domain:医学]
+pancreatotomy | n.胰切开术 [domain:医学]
+pancreatotrophin | skip:unknown
+pancreatotropic | adj.促胰腺的 [domain:医学]
+pancreatotropin | skip:unknown
+pancreatoxin | skip:unknown
+pancreatrophic | skip:unknown
+pancreatropic | adj.促胰腺的 [domain:医学]
+pancreectomy | n.胰切除术 [domain:医学]
+pancrelipase | n.胰脂酶 [domain:药学]
+pancreokinin | skip:unknown
+pancreolith | n.胰石 [domain:医学]
+pancreolithotomy | n.胰石切开术 [domain:医学]
+pancreolysis | n.胰腺溶解 [domain:医学]
+pancreolytic | adj.溶胰的 [domain:医学]
+pancreopathia | n.胰腺病 [domain:医学]
+pancreopathy | n.胰腺病 [domain:医学]
+pancreoprivic | skip:unknown
+pancreotherapy | n.胰腺疗法 [domain:医学]
+pancreotone | skip:unknown
+pancreotropic | adj.促胰腺的 [domain:医学]
+pancreozymin | n.促胰酶素 [domain:医学]
+pancromia | skip:unknown
+pancytolysis | skip:unknown
+pancytosis | skip:unknown
+pandaite | n.钡细晶烧绿石 [domain:矿业]
+pandanaceous | adj.露兜树科的 [domain:植物]
+pandemia | n.大流行病 [domain:医学]
+pandemial | adj.大流行的 [domain:医学]
+pandemical | adj.大流行的 [domain:医学]
+pandemicity | n.大流行性 [domain:医学]
+pandemoniac | adj.魔窟般的
+pandemy | n.大流行病 [domain:医学]
+panderage | n.拉皮条 [dated]
+panderess | n.女拉皮条者 [dated]
+panderism | n.拉皮条 [dated]
+panderly | adj.拉皮条的 [dated]
+pandermite | n.硬硼钙石 [domain:矿业]
+pandiagonal | adj.泛对角线的 [domain:数学]
+pandiculate | v.伸懒腰
+pandiculation | n.伸懒腰
+pandoor | n.潘多尔兵 [domain:历史]
+pandore | n.潘多拉琴 [domain:音乐]
+pandoura | n.古希腊三弦琴 [domain:音乐]
+pandurate | adj.提琴形的 [domain:植物]
+panduriform | adj.提琴形的 [domain:植物]
+panelectroscope | skip:unknown
+panendemic | adj.泛地方性的 [domain:医学]
+panendoscope | n.全景内窥镜 [domain:医学]
+panendoscopy | n.全景内窥镜检查 [domain:医学]
+panesthesia | n.全身感觉 [domain:医学]
+panesthetic | adj.全身感觉的 [domain:医学]
+pangamic | adj.泛交配的 [domain:生物]
+pangamy | n.随机交配 [domain:生物]
+pangen | n.泛子 [domain:生物]
+pangenetic | adj.泛生论的 [domain:生物]
+pangeosyncline | skip:unknown
+pangless | adj.无痛的 [literary]
+panhematopenia | n.全血细胞减少 [domain:医学]
+panhematopoietic | adj.全造血的 [domain:医学]
+panhemocytophthisis | skip:unknown
+panhidrosis | n.全身出汗 [domain:医学]
+panhyperemia | n.全身充血 [domain:医学]
+panhypogonadism | n.全性腺功能减退 [domain:医学]
+panhypopituitarism | n.全垂体功能减退 [domain:医学]
+panhysterectomy | n.子宫全切除术 [domain:医学]
+panhysterocolpectomy | skip:unknown
+panhysterosalpingectomy | n.子宫输卵管全切除术 [domain:医学]
+paniculatine | skip:unknown
+paniculiform | adj.圆锥花序状的 [domain:植物]
+panidiomorphic | adj.全自形的 [domain:地质]
+panification | n.制面包
+panimmunity | n.全免疫 [domain:医学]
+paniolo | n.夏威夷牛仔 [us]
+panir | n.奶酪 [domain:烹饪]
+panivorous | adj.食面包的
+panlabyrinthitis | n.全迷路炎 [domain:医学]
+panleucopenia | n.泛白细胞减少症 [domain:医学]
+panlogism | n.泛逻辑论 [domain:哲学]
+panlogist | n.泛逻辑论者 [domain:哲学]
+panlogistic | adj.泛逻辑论的 [domain:哲学]
+panmeristic | skip:unknown
+panmixis | n.随机交配 [domain:生物]
+panmnesia | n.全记忆 [domain:心理]
+panmyeloid | skip:unknown
+panmyelopathia | n.全骨髓病 [domain:医学]
+panmyelopathy | n.全骨髓病 [domain:医学]
+panmyelophthisis | n.全骨髓痨 [domain:医学]
+panmyelosis | n.全骨髓增生 [domain:医学]
+panmyelotoxicosis | skip:unknown
+panneuritis | n.全神经炎 [domain:医学]
+panniculalgia | skip:unknown
+panniculus | n.膜 [domain:解剖]
+panniform | adj.布状的
+pannose | adj.毡状的 [domain:植物]
+panoistic | skip:unknown
+panophobia | n.泛恐惧症 [domain:心理]
+panophthalmia | n.全眼炎 [domain:医学]
+panophthalmitis | n.全眼炎 [domain:医学]
+panoplia | skip:unknown
+panoptosia | skip:unknown
+panoptosis | n.内脏下垂 [domain:医学]
+panoramagram | skip:unknown
+panoramist | n.全景画家
+panorchitis | n.睾丸全炎 [domain:医学]
+panose | n.潘糖 [domain:化学]
+panosteitis | n.全骨炎 [domain:医学]
+panostitis | n.全骨炎 [domain:医学]
+panotitis | n.全耳炎 [domain:医学]
+panphagia | n.杂食
+panpharmacon | n.万灵药 [dated]
+panphobia | n.泛恐惧症 [domain:心理]
+panphotometric | skip:unknown
+panplegia | n.全身麻痹 [domain:医学]
+panpot | n.声像电位器 [domain:音乐]
+panproctocolectomy | n.全直肠结肠切除术 [domain:医学]
+pansclerosis | n.全硬化 [domain:医学]
+panselectionism | n.泛选择论 [domain:生物]
+panselectionist | n.泛选择论者 [domain:生物]
+pansified | skip:unknown
+pansinuitis | n.全鼻窦炎 [domain:医学]
+pansinusectomy | n.全鼻窦切除术 [domain:医学]
+pansinusitis | n.全鼻窦炎 [domain:医学]
+pansophia | n.全知 [literary]
+pansophical | adj.全知的 [literary]
+pansophism | n.全知论 [literary]
+panspermatism | n.胚种论 [domain:天文]
+panspermatist | n.胚种论者 [domain:天文]
+panspermic | adj.胚种论的 [domain:天文]
+panspermy | n.胚种论 [domain:天文]
+pansphygmograph | skip:unknown
+pansporoblast | n.全孢子母细胞 [domain:生物]
+pansporoblastic | adj.全孢子母细胞的 [domain:生物]
+pantachromatic | adj.全色的 [domain:摄影]
+pantalgia | n.全身痛 [domain:医学]
+pantamorphia | n.全身畸形 [domain:医学]
+pantamorphic | adj.全身畸形的 [domain:医学]
+pantanencephalia | n.全无脑畸形 [domain:医学]
+pantanencephalic | adj.全无脑的 [domain:医学]
+pantanencephalus | n.全无脑畸胎 [domain:医学]
+pantanencephaly | n.全无脑畸形 [domain:医学]
+pantankyloblepharon | skip:unknown
+pantaphobia | n.无畏 [domain:心理]
+pantatrophia | n.全身萎缩 [domain:医学]
+pantatrophy | n.全身萎缩 [domain:医学]
+pantelegraphy | n.传真电报
+pantelephone | n.传真电话
+pantellerite | n.碱流岩 [domain:地质]
+pantetheine | n.泛酰巯基乙胺 [domain:化学]
+pantethine | n.泛硫乙胺 [domain:药学]
+panthelism | n.泛意志论 [domain:哲学]
+pantheress | n.母豹 [dated]
+pantisocratic | adj.平等共治的 [domain:政治]
+pantisocratical | adj.平等共治的 [domain:政治]
+pantisocratist | n.平等共治论者 [domain:政治]
+pantocaine | n.丁卡因 [domain:药学]
+pantochromic | skip:unknown
+pantochromism | skip:unknown
+pantocolpate | skip:unknown
+pantogamy | skip:unknown
+pantographical | adj.缩放仪的
+pantography | n.缩放绘图法
+pantolactone | n.泛解酸内酯 [domain:化学]
+pantologic | adj.百科全书的
+pantological | adj.百科全书的
+pantologist | n.博学者
+pantometer | n.全能测角器 [domain:地理]
+pantomimia | n.手势语 [domain:医学]
+pantomography | skip:unknown
+pantomorphia | n.全形性
+pantomorphic | adj.全形的
+pantomorphism | skip:unknown
+pantophagous | adj.杂食的 [domain:动物]
+pantophobia | n.泛恐惧症 [domain:心理]
+pantophobic | adj.泛恐惧的 [domain:心理]
+pantoplankton | skip:unknown
+pantopororate | skip:unknown
+pantoscope | n.广角镜头 [domain:摄影]
+pantoscopic | adj.广角的 [domain:摄影]
+pantothenol | n.泛醇 [domain:化学]
+pantothenylcysteine | skip:unknown
+pantothere | n.古兽类动物 [domain:动物]
+pantotropic | adj.泛嗜性的 [domain:医学]
+pantoyl | n.泛酰基 [domain:化学]
+pantoyltaurine | n.泛酰牛磺酸 [domain:化学]
+pantropic | adj.泛嗜性的 [domain:医学]
+panturbinate | skip:unknown
+panurgic | adj.万能的 [dated]
+panuveitis | n.全葡萄膜炎 [domain:医学]
+papaveraceous | adj.罂粟科的 [domain:植物]
+papaveraldine | n.罂粟醛碱 [domain:化学]
+papaveramine | n.罂粟胺 [domain:化学]
+papaveretum | n.阿片全碱 [domain:药学]
+papaverinol | skip:unknown
+papaveroline | skip:unknown
+papaverous | adj.罂粟的 [domain:植物]
+papayaceous | adj.番木瓜科的 [domain:植物]
+papayotin | n.木瓜蛋白酶 [domain:化学]
+paperbacker | skip:unknown
+paperboys | skip:not-lemma
+papescent | adj.似糊的
+papilionid | n.凤蝶 [domain:动物]
+papillar | adj.乳头的 [domain:解剖]
+papillaris | skip:not-english
+papillated | adj.有乳头状突起的
+papillectomy | n.乳头切除术 [domain:医学]
+papilliferous | adj.生乳头的 [domain:生物]
+papilliform | adj.乳头状的 [domain:生物]
+papillitis | n.乳头炎 [domain:医学]
+papillocarcinoma | n.乳头状癌 [domain:医学]
+papillocystoma | skip:unknown
+papilloretinitis | n.视乳头视网膜炎 [domain:医学]
+papillosarcoma | skip:unknown
+papillotomy | n.乳头切开术 [domain:医学]
+papillous | adj.乳头状的 [domain:生物]
+papillula | skip:not-english
+papillulate | skip:unknown
+papistically | adv.天主教徒般地 [offensive-mild]
+papoid | n.木瓜蛋白酶 [domain:药学]
+pappiform | adj.冠毛状的 [domain:植物]
+pappous | adj.有冠毛的 [domain:植物]
+papula | skip:not-english
+papulation | n.丘疹形成 [domain:医学]
+papuliferous | adj.生丘疹的 [domain:医学]
+papuloerythematous | adj.丘疹红斑的 [domain:医学]
+papuloid | adj.似丘疹的 [domain:医学]
+papulopustular | adj.丘疹脓疱的 [domain:医学]
+papulopustule | n.丘疹脓疱 [domain:医学]
+papulose | adj.多丘疹的 [domain:医学]
+papulosis | n.丘疹病 [domain:医学]
+papulosquamous | adj.丘疹鳞屑的 [domain:医学]
+papulotubercular | skip:unknown
+papulous | adj.丘疹的 [domain:医学]
+papulovesicle | n.丘疹水疱 [domain:医学]
+papulovesicular | adj.丘疹水疱的 [domain:医学]
+papyraceous | adj.纸状的
+papyrine | skip:unknown
+papyrograph | n.纸型复制机 [domain:印刷]
+papyrography | n.纸型复制法 [domain:印刷]
+papyrotype | n.纸型复制法 [domain:印刷]
+paraaminophenol | n.对氨基苯酚 [domain:化学]
+paraanisidine | n.对茴香胺 [domain:化学]
+parabion | skip:unknown
+parabiont | n.联体共生动物 [domain:生物]
+parabiose | v.联体共生 [domain:生物]
+parablast | n.副胚 [domain:生物]
+parablastic | adj.副胚的 [domain:生物]
+parablastoma | skip:unknown
+parablepsia | n.视觉错误 [domain:医学]
+parabolize | v.使成抛物线形
+parabranchia | skip:unknown
+parabranchium | skip:unknown
+parabromoacetophenone | n.对溴苯乙酮 [domain:化学]
+parabromoaniline | n.对溴苯胺 [domain:化学]
+parabromoanisole | n.对溴苯甲醚 [domain:化学]
+parabromotoluene | n.对溴甲苯 [domain:化学]
+parabronchus | n.副支气管 [domain:动物]
+parabulia | n.意志倒错 [domain:医学]
+parabuxin | skip:unknown
+paracaine | n.丙美卡因 [domain:药学]
+paracanthoma | skip:unknown
+paracanthosis | skip:unknown
+paracardiac | adj.心旁的 [domain:解剖]
+paracarmine | n.副洋红 [domain:化学]
+paracarpous | skip:unknown
+paracarpy | skip:unknown
+paracasein | n.副酪蛋白 [domain:化学]
+paracele | n.侧脑室 [domain:解剖]
+paracellulose | n.副纤维素 [domain:化学]
+paracelsist | n.帕拉塞尔苏斯派 [domain:历史]
+paracenesthesia | skip:unknown
+paracentetic | skip:unknown
+paracentral | adj.中央旁的
+paracentric | adj.臂内的 [domain:生物]
+paracephalus | n.副头畸胎 [domain:医学]
+paracerebellar | adj.小脑旁的 [domain:解剖]
+paracetaldehyde | n.聚乙醛 [domain:化学]
+parachloral | skip:unknown
+parachloralose | skip:unknown
+parachloramine | skip:unknown
+parachlormetaxylenol | n.对氯间二甲酚 [domain:药学]
+parachloroacetophenone | n.对氯苯乙酮 [domain:化学]
+parachloroaniline | n.对氯苯胺 [domain:化学]
+parachloroanilinum | skip:not-english
+parachloromercuribenzoate | n.对氯汞苯甲酸盐 [domain:化学]
+parachlorometaxylenol | n.对氯间二甲酚 [domain:药学]
+parachloronitrobenzene | n.对氯硝基苯 [domain:化学]
+parachlorophenol | n.对氯苯酚 [domain:化学]
+parachlorotoluene | n.对氯甲苯 [domain:化学]
+parachlorphenol | n.对氯苯酚 [domain:化学]
+parachlorsalol | skip:unknown
+paracholera | n.副霍乱 [domain:医学]
+paracholesterin | skip:unknown
+paracholia | skip:unknown
+parachor | n.等张比容 [domain:化学]
+parachordal | adj.脊索旁的 [domain:解剖]
+parachromatin | n.副染色质 [domain:生物]
+parachromatism | skip:unknown
+parachromatoblepsia | n.色觉倒错 [domain:医学]
+parachromatopsia | n.色觉倒错 [domain:医学]
+parachromatosis | skip:unknown
+parachrome | skip:unknown
+parachromophore | skip:unknown
+parachromophoric | skip:unknown
+parachymosin | skip:unknown
+paracinesia | skip:unknown
+paracinesis | skip:unknown
+paraclimax | n.副顶极群落 [domain:生物]
+paracmasia | n.过早衰退 [domain:医学]
+paracmasis | n.过早衰退 [domain:医学]
+paracmastic | adj.过早衰退的 [domain:医学]
+paracme | n.衰退期 [domain:医学]
+paracodin | n.二氢可待因 [domain:药学]
+paracolitis | n.结肠周炎 [domain:医学]
+paracolon | n.副大肠杆菌 [domain:生物]
+paracolpitis | n.阴道旁炎 [domain:医学]
+paracolpium | n.阴道旁组织 [domain:解剖]
+paracondylar | adj.髁旁的 [domain:解剖]
+paracondyloid | adj.髁旁的 [domain:解剖]
+paracone | n.前尖 [domain:动物]
+paraconformable | adj.假整合的 [domain:地质]
+paraconformity | n.假整合 [domain:地质]
+paraconglomerate | n.副砾岩 [domain:地质]
+paraconid | n.下前尖 [domain:动物]
+paraconiine | skip:unknown
+paraconin | skip:unknown
+paraconjugate | skip:unknown
+paracoquimbite | n.副叶绿矾 [domain:矿业]
+paracorolla | n.副花冠 [domain:植物]
+paracortex | n.副皮质 [domain:解剖]
+paracostibite | n.副硫锑钴矿 [domain:矿业]
+paracoto | n.副可托皮 [domain:药学]
+paracotoin | n.副可托因 [domain:药学]
+paracoumarone | skip:unknown
+paracousis | n.听觉倒错 [domain:医学]
+paracoxalgia | skip:unknown
+paracresol | n.对甲酚 [domain:化学]
+paracrural | skip:unknown
+paracrystal | n.仿晶体 [domain:物理]
+paracrystallinity | n.仿晶性 [domain:物理]
+paracurarine | n.副箭毒碱 [domain:药学]
+paracusia | n.听觉倒错 [domain:医学]
+paracusis | n.听觉倒错 [domain:医学]
+paracyanogen | n.聚氰 [domain:化学]
+paracyclophane | n.对环芳 [domain:化学]
+paracyesis | n.宫外孕 [domain:医学]
+paracymbium | skip:unknown
+paracymene | n.对伞花烃 [domain:化学]
+paracyst | skip:unknown
+paracystic | adj.膀胱旁的 [domain:解剖]
+paracystitis | n.膀胱周炎 [domain:医学]
+paracystium | n.膀胱旁组织 [domain:解剖]
+paracytic | adj.副细胞型的 [domain:植物]
+paradenitis | n.腺周炎 [domain:医学]
+paradental | adj.牙周的 [domain:解剖]
+paradentitis | n.牙周炎 [domain:医学]
+paradentium | n.牙周组织 [domain:解剖]
+paradentosis | n.牙周变性 [domain:医学]
+paraderm | n.副皮 [domain:动物]
+paradesmose | skip:unknown
+paradiabetes | n.前驱糖尿病 [domain:医学]
+paradiazine | skip:unknown
+paradibromobenzene | n.对二溴苯 [domain:化学]
+paradichlorobenzol | n.对二氯苯 [domain:化学]
+paradidymal | adj.睾丸旁的 [domain:解剖]
+paradidymis | n.旁睾 [domain:解剖]
+paradidymitis | skip:unknown
+paradiethylaminobenzaldehyde | n.对二乙氨基苯甲醛 [domain:化学]
+paradiiodobenzene | n.对二碘苯 [domain:化学]
+paradimethoxybenzene | n.对二甲氧基苯 [domain:化学]
+paradimethylaminobenzaldehyde | n.对二甲氨基苯甲醛 [domain:化学]
+paradinitrobenzene | n.对二硝基苯 [domain:化学]
+paradioxybenzene | n.对苯二酚 [domain:化学]
+paradiphtheritic | adj.类白喉的 [domain:医学]
+paradipsia | skip:unknown
+paradisean | adj.天堂的 [literary]
+paradontal | adj.牙周的 [domain:解剖]
+paradoxer | n.说悖论者
+paradoxographer | n.奇闻作家
+paradoxography | n.奇闻录
+paradoxology | skip:unknown
+paradoxure | n.椰子狸 [domain:动物]
+paradoxy | skip:unknown
+paradrine | n.对羟苯异丙胺 [domain:药学]
+paraduodenal | adj.十二指肠旁的 [domain:解剖]
+paradysentery | n.副痢疾 [domain:医学]
+paraethoxyacetophenone | skip:unknown
+parafacial | adj.面旁的 [domain:解剖]
+parafermion | n.仲费米子 [domain:物理]
+paraffinicity | n.石蜡性 [domain:化学]
+paraffinoid | adj.似石蜡的 [domain:化学]
+paraffinoma | n.石蜡瘤 [domain:医学]
+paraflocculus | n.旁绒球 [domain:解剖]
+paraflutizide | skip:unknown
+paraform | n.多聚甲醛 [domain:化学]
+parafoulbrood | n.副幼虫腐臭病 [domain:农业]
+parafovea | n.中央凹旁区 [domain:解剖]
+parafuchsin | n.副品红 [domain:化学]
+parafunction | n.功能异常 [domain:医学]
+parafunctional | adj.功能异常的 [domain:医学]
+paragammacism | skip:unknown
+paraganglion | n.副神经节 [domain:解剖]
+paragaster | skip:unknown
+paragastric | adj.胃旁的 [domain:解剖]
+parage | n.平等身份 [domain:历史]
+paragenetic | adj.共生的 [domain:地质]
+parageosyncline | n.副地槽 [domain:地质]
+parageusia | n.味觉倒错 [domain:医学]
+parageusic | adj.味觉倒错的 [domain:医学]
+parageusis | n.味觉倒错 [domain:医学]
+paragglutination | n.类凝集 [domain:医学]
+paragglutinin | skip:unknown
+paragglutinogen | skip:unknown
+paraglobulin | n.副球蛋白 [domain:化学]
+paraglobulinuria | skip:unknown
+paraglossa | n.副舌 [domain:动物]
+paraglossia | n.舌下炎 [domain:医学]
+paraglossitis | n.舌下炎 [domain:医学]
+paragnath | n.副颚 [domain:动物]
+paragnathous | adj.上下颌等长的 [domain:动物]
+paragnathus | n.副颌畸胎 [domain:医学]
+paragnosis | skip:unknown
+paragogical | adj.词尾增音的 [domain:语言]
+paragone | n.艺术比较论 [domain:美术]
+paragonimiasis | n.并殖吸虫病 [domain:医学]
+paragonite | n.钠云母 [domain:矿业]
+paragonorrheal | skip:unknown
+paragrammatism | n.语法错乱 [domain:医学]
+paragranuloma | n.副肉芽肿 [domain:医学]
+paragraphia | n.书写错误 [domain:医学]
+paragraphist | n.短评作者
+paragutta | n.副古塔胶 [domain:化学]
+paragynous | adj.雌器侧位的 [domain:植物]
+paraheliotropism | n.避光性 [domain:植物]
+parahemoglobin | skip:unknown
+parahemophilia | n.副血友病 [domain:医学]
+parahepatic | adj.肝旁的 [domain:解剖]
+parahepatitis | n.肝周炎 [domain:医学]
+parahexyl | n.帕拉己基 [domain:药学]
+parahidrosis | n.出汗异常 [domain:医学]
+parahopeite | n.副磷锌矿 [domain:矿业]
+parahormone | n.副激素 [domain:医学]
+parahuman | adj.类人的
+parahydrogen | n.仲氢 [domain:化学]
+parahydroxydiphenyl | skip:unknown
+parahypnosis | skip:unknown
+parahypophysis | skip:unknown
+paraiodoaniline | n.对碘苯胺 [domain:化学]
+paraiodoanisole | n.对碘苯甲醚 [domain:化学]
+parakeratosis | n.角化不全 [domain:医学]
+parakinesia | n.运动异常 [domain:医学]
+parakinesis | n.运动异常 [domain:医学]
+parakinetic | adj.运动异常的 [domain:医学]
+paralalia | n.言语障碍 [domain:医学]
+paralambdacism | skip:unknown
+paralaurionite | n.副氯铅矿 [domain:矿业]
+paralbumin | n.副白蛋白 [domain:化学]
+paralbuminemia | skip:unknown
+paraldehydism | n.副醛中毒 [domain:医学]
+paraldol | skip:unknown
+paralectotype | n.副选模标本 [domain:生物]
+paraleipomena | skip:unknown
+paraleipsis | n.假省笔法 [domain:语言]
+paraleprosis | skip:unknown
+paraleprosy | skip:unknown
+paralepsis | n.假省笔法 [domain:语言]
+paralexia | n.阅读错乱 [domain:医学]
+paralexic | adj.阅读错乱的 [domain:医学]
+paralgesia | n.痛觉倒错 [domain:医学]
+paralgesic | adj.痛觉倒错的 [domain:医学]
+paralgia | n.感觉异常痛 [domain:医学]
+paralic | adj.近海的 [domain:地质]
+paralimnion | n.湖滨带 [domain:地理]
+paralipomenon | n.补遗 [dated]
+parallactical | adj.视差的 [domain:天文]
+parallelable | adj.可比拟的
+parallelinervate | adj.平行脉的 [domain:植物]
+parallelodrome | adj.平行脉的 [domain:植物]
+parallelodromous | adj.平行脉的 [domain:植物]
+parallelohedron | n.平行多面体 [domain:数学]
+parallergy | n.类变态反应 [domain:医学]
+paralogia | n.逻辑错乱 [domain:医学]
+paralogistic | adj.谬推的 [domain:逻辑]
+paralogize | v.作谬推 [domain:逻辑]
+paralogy | n.谬推 [domain:逻辑]
+paramagnon | n.顺磁振子 [domain:物理]
+paramania | skip:unknown
+paramastigote | skip:unknown
+paramastitis | n.乳房周炎 [domain:医学]
+paramastoid | n.乳突旁突 [domain:解剖]
+paramastoiditis | n.乳突周炎 [domain:医学]
+paramecin | n.草履虫素 [domain:生物]
+paramelaconite | n.副黑铜矿 [domain:矿业]
+paramenia | n.月经不调 [domain:医学]
+parameningococcus | n.类脑膜炎球菌 [domain:医学]
+paramenstrual | adj.月经期前后的 [domain:医学]
+parament | n.礼服 [dated]
+paramere | n.阳茎侧突 [domain:动物]
+paramesial | skip:unknown
+paramethadione | n.双甲亚乙噁唑烷酮 [domain:药学]
+paramethasone | n.甲氟泼尼松 [domain:药学]
+paramethylaminophenol | skip:unknown
+parametrial | adj.子宫旁组织的 [domain:解剖]
+parametrism | skip:unknown
+parametritic | adj.子宫旁炎的 [domain:医学]
+parametritis | n.子宫旁组织炎 [domain:医学]
+parametrium | n.子宫旁组织 [domain:解剖]
+parametron | n.参变管 [domain:电子]
+paramimia | n.表情倒错 [domain:医学]
+paramitome | n.副有丝分裂体 [domain:生物]
+paramitosis | skip:unknown
+paramodulation | n.仿调制 [domain:逻辑]
+paramoecium | n.草履虫 [domain:动物]
+paramolar | n.旁磨牙 [domain:解剖]
+paramorph | n.副象 [domain:矿业]
+paramorphia | skip:unknown
+paramorphine | n.二甲基吗啡 [domain:药学]
+paramorphism | n.副象 [domain:矿业]
+paramorphous | adj.副象的 [domain:矿业]
+paramphistome | n.双腔吸虫 [domain:动物]
+paramphistomiasis | n.双腔吸虫病 [domain:医学]
+paramucin | skip:unknown
+paramusia | n.音乐能力障碍 [domain:医学]
+paramyelin | skip:unknown
+paramylum | n.副淀粉 [domain:生物]
+paramyoclonus | n.肌阵挛 [domain:医学]
+paramyosin | n.副肌球蛋白 [domain:生物]
+paramyosinogen | skip:unknown
+paramyotonia | n.肌强直 [domain:医学]
+paranaphthalene | n.蒽 [domain:化学]
+paranecrosis | skip:unknown
+paranema | n.副丝 [domain:生物]
+paranemic | adj.副丝的 [domain:生物]
+paranephric | adj.肾旁的 [domain:解剖]
+paranephrine | skip:unknown
+paranephritis | n.肾周炎 [domain:医学]
+paranephroma | skip:unknown
+paranephros | n.肾上腺 [domain:解剖]
+paranesthesia | n.下身麻醉 [domain:医学]
+paranitroaniline | n.对硝基苯胺 [domain:化学]
+paranitroanisole | n.对硝基苯甲醚 [domain:化学]
+paranitrobenzaldehyde | n.对硝基苯甲醛 [domain:化学]
+paranitrophenol | n.对硝基苯酚 [domain:化学]
+paranitrotoluene | n.对硝基甲苯 [domain:化学]
+paranoea | n.精神错乱 [domain:医学]
+paranoeic | adj.精神错乱的 [domain:医学]
+paranomia | skip:unknown
+paranotum | n.背侧叶 [domain:动物]
+paranthelion | n.幻日 [domain:气象]
+paranuclear | adj.核旁的 [domain:生物]
+paranucleate | adj.核旁的 [domain:生物]
+paranuclein | n.副核素 [domain:化学]
+paranyline | skip:unknown
+paraoesophageal | adj.食管旁的 [domain:解剖]
+paraophoron | n.卵巢旁体 [domain:解剖]
+paraoxon | n.对氧磷 [domain:化学]
+parapancreatic | adj.胰旁的 [domain:解剖]
+paraparetic | adj.下肢轻瘫的 [domain:医学]
+parapatagium | n.侧翼膜 [domain:动物]
+parapedesis | skip:unknown
+parapeptone | n.副胨 [domain:化学]
+paraperitoneal | adj.腹膜旁的 [domain:解剖]
+parapertussis | n.副百日咳 [domain:医学]
+parapetalum | n.副花瓣 [domain:植物]
+paraph | n.花押 [dated]
+paraphasic | adj.言语错乱的 [domain:医学]
+paraphemia | skip:unknown
+paraphenetidine | n.对乙氧基苯胺 [domain:化学]
+paraphenylenediamine | n.对苯二胺 [domain:化学]
+paraphia | n.触觉异常 [domain:医学]
+paraphonia | n.声音异常 [domain:医学]
+paraphony | n.平行和声 [domain:音乐]
+paraphora | skip:unknown
+paraphrasia | n.言语错乱 [domain:医学]
+paraphrasis | n.意译
+paraphrenia | n.妄想痴呆 [domain:医学]
+paraphrenic | adj.妄想痴呆的 [domain:医学]
+paraphrenitis | n.膈周炎 [domain:医学]
+paraphyllium | n.托叶状小叶 [domain:植物]
+paraphyly | n.并系 [domain:生物]
+paraphysate | adj.有隔丝的 [domain:植物]
+paraphyseal | adj.副松果体的 [domain:解剖]
+paraphysial | adj.副松果体的 [domain:解剖]
+paraphysics | n.超物理学
+paraphysis | n.隔丝 [domain:植物]
+paraphysoid | n.拟侧丝 [domain:植物]
+paraphyte | skip:unknown
+parapineal | adj.副松果体的 [domain:解剖]
+paraplasm | n.副质 [domain:生物]
+paraplastic | adj.副质的 [domain:生物]
+paraplastin | skip:unknown
+paraplectic | skip:unknown
+parapleura | n.侧板 [domain:动物]
+parapleuritis | n.胸膜周炎 [domain:医学]
+paraplexus | skip:unknown
+parapneumonia | skip:unknown
+parapodial | adj.疣足的 [domain:动物]
+parapodium | n.疣足 [domain:动物]
+parapophysis | n.横突下突 [domain:解剖]
+parapoplexy | n.轻度中风 [domain:医学]
+parapositronium | n.仲正电子素 [domain:物理]
+paraproct | n.肛侧板 [domain:动物]
+paraproctitis | n.肛周炎 [domain:医学]
+paraproctium | n.直肠周组织 [domain:解剖]
+paraprostatitis | n.前列腺周炎 [domain:医学]
+paraprotein | n.副蛋白 [domain:医学]
+paraproteinemia | n.副蛋白血症 [domain:医学]
+parapsidal | skip:unknown
+parapsis | n.副拱 [domain:动物]
+parapsoriasis | n.副银屑病 [domain:医学]
+parapteron | n.侧翼片 [domain:动物]
+paraquartzite | n.副石英岩 [domain:地质]
+paraquinoid | skip:unknown
+pararammelsbergite | n.副斜方砷镍矿 [domain:矿业]
+pararectal | adj.直肠旁的 [domain:解剖]
+pararenal | adj.肾旁的 [domain:解剖]
+pararhotacism | skip:unknown
+pararosaniline | n.副品红 [domain:化学]
+pararrhythmia | n.节律异常 [domain:医学]
+pararthria | n.构音障碍 [domain:医学]
+parasacral | adj.骶骨旁的 [domain:解剖]
+parasalpingitis | n.输卵管周炎 [domain:医学]
+parascarlatina | n.类猩红热 [domain:医学]
+paraschoepite | n.副柱铀矿 [domain:矿业]
+parascutella | skip:not-lemma
+parascutellum | n.副盾片 [domain:动物]
+parasellar | adj.蝶鞍旁的 [domain:解剖]
+parasigmatism | n.咝音误发 [domain:医学]
+parasitocenose | n.寄生物群落 [domain:生物]
+parasitogenic | adj.寄生物所致的 [domain:医学]
+parasitoidism | n.拟寄生 [domain:生物]
+parasitophobia | n.寄生虫恐惧症 [domain:心理]
+parasitophorous | adj.携带寄生物的 [domain:生物]
+parasitotropic | adj.亲寄生物的 [domain:医学]
+parasitotropism | skip:unknown
+parasitotropy | skip:unknown
+paraspadias | n.尿道旁裂 [domain:医学]
+paraspasm | n.下肢痉挛 [domain:医学]
+paraspecific | adj.副特异的 [domain:医学]
+parasphenoid | n.副蝶骨 [domain:解剖]
+parasporin | skip:unknown
+parasteatosis | skip:unknown
+parasternal | adj.胸骨旁的 [domain:解剖]
+parasthenia | skip:unknown
+parastichy | n.斜列线 [domain:植物]
+parastratigraphy | n.副地层学 [domain:地质]
+parastratotype | n.副层型 [domain:地质]
+parastyle | n.前附尖 [domain:动物]
+parasymbiosis | skip:unknown
+parasympatheticotonia | n.副交感神经紧张 [domain:医学]
+parasympathicotonia | n.副交感神经紧张 [domain:医学]
+parasympathin | skip:unknown
+parasymplesite | n.副蓝铁矿 [domain:矿业]
+parasynapsis | n.并联 [domain:生物]
+parasynovitis | skip:unknown
+parasyntheton | n.复合派生词 [domain:语言]
+parasyphilis | n.类梅毒 [domain:医学]
+parasyphilitic | adj.类梅毒的 [domain:医学]
+parasystole | n.并行心律 [domain:医学]
+paratacamite | n.副氯铜矿 [domain:矿业]
+parataxic | adj.并列的 [domain:心理]
+paratenic | adj.转续的 [domain:生物]
+paratergite | n.侧背片 [domain:动物]
+paraterminal | adj.终板旁的 [domain:解剖]
+paraterphenyl | n.对三联苯 [domain:化学]
+parathecium | skip:unknown
+parathiazine | skip:unknown
+parathymia | n.情感倒错 [domain:医学]
+parathyroidal | adj.甲状旁腺的 [domain:解剖]
+parathyroidectomize | v.切除甲状旁腺 [domain:医学]
+parathyroidin | n.甲状旁腺素 [domain:医学]
+parathyroidoma | n.甲状旁腺瘤 [domain:医学]
+parathyroprival | adj.甲状旁腺缺失的 [domain:医学]
+parathyroprivia | n.甲状旁腺缺失 [domain:医学]
+parathyroprivic | adj.甲状旁腺缺失的 [domain:医学]
+parathyroprivous | adj.甲状旁腺缺失的 [domain:医学]
+paratoluidine | n.对甲苯胺 [domain:化学]
+paratolunitrile | n.对甲苯腈 [domain:化学]
+paratomy | skip:unknown
+paratonia | n.肌张力异常 [domain:医学]
+paratonic | adj.紧张异常的 [domain:医学]
+paratonsillar | adj.扁桃体周的 [domain:解剖]
+paratope | n.抗原结合部位 [domain:医学]
+paratose | n.副糖 [domain:化学]
+paratracheal | adj.气管旁的 [domain:解剖]
+paratrachoma | n.副沙眼 [domain:医学]
+paratrimma | n.擦伤 [domain:医学]
+paratroch | n.副纤毛环 [domain:动物]
+paratrophic | adj.寄生营养的 [domain:生物]
+paratrophy | n.寄生营养 [domain:生物]
+paratuberculin | n.副结核菌素 [domain:医学]
+paratuberculous | adj.副结核的 [domain:医学]
+paratungstate | n.仲钨酸盐 [domain:化学]
+paratyphlitis | n.盲肠周炎 [domain:医学]
+paratypic | adj.副模的 [domain:生物]
+paratypical | adj.副模的 [domain:生物]
+paraumbilical | adj.脐旁的 [domain:解剖]
+paraunconformity | n.平行不整合 [domain:地质]
+paraurethra | skip:unknown
+paraurethral | adj.尿道旁的 [domain:解剖]
+paraurethritis | n.尿道周炎 [domain:医学]
+parauterine | adj.子宫旁的 [domain:解剖]
+paravaccinia | n.副牛痘 [domain:医学]
+paravaginal | adj.阴道旁的 [domain:解剖]
+paravaginitis | n.阴道周炎 [domain:医学]
+paravariola | n.类天花 [domain:医学]
+paravauxite | n.副磷铝铁矿 [domain:矿业]
+paravent | n.屏风 [dated]
+paravesical | adj.膀胱旁的 [domain:解剖]
+paravion | skip:not-english
+parawollastonite | n.副硅灰石 [domain:矿业]
+paraxanthine | n.副黄嘌呤 [domain:化学]
+paraxon | n.旁轴突 [domain:解剖]
+paraxonic | adj.旁轴的 [domain:动物]
+parbendazole | n.帕苯达唑 [domain:药学]
+parcidentate | adj.少齿的
+parclose | n.围屏 [dated]
+parectasia | skip:unknown
+parectasis | skip:unknown
+paregmenon | n.同源词连用 [domain:语言]
+parelectronomic | adj.体电异常的 [domain:医学]
+parelectronomy | n.体电异常 [domain:医学]
+parement | n.法衣装饰 [domain:宗教]
+parempodia | skip:not-lemma
+parencephalia | n.小脑畸形 [domain:医学]
+parencephalocele | skip:unknown
+parencephalon | n.小脑 [domain:解剖]
+parencephalous | adj.小脑畸形的 [domain:医学]
+parenchymatitis | n.实质炎 [domain:医学]
+parenchymella | n.实胚幼虫 [domain:动物]
+parenchymula | skip:unknown
+parepididymis | n.副附睾 [domain:解剖]
+parergasia | n.精神病性反应 [domain:医学]
+parergastic | adj.精神病性的 [domain:医学]
+paresthetic | adj.感觉异常的 [domain:医学]
+parethoxycaine | n.对乙氧卡因 [domain:药学]
+pareunia | n.性交 | nokid
+parfocality | n.同焦性 [domain:摄影]
+parfocalization | n.同焦化 [domain:摄影]
+parfocalize | v.使同焦 [domain:摄影]
+parfumier | n.香水商 [dated]
+pargasite | n.韭闪石 [domain:矿业]
+pargyline | n.优降宁 [domain:药学]
+parheliacal | adj.幻日的 [domain:气象]
+paricidal | adj.弑亲的
+paridigitate | adj.偶趾的 [domain:动物]
+paries | n.壁 [domain:解剖]

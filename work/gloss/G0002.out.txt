@@ -1,0 +1,1000 @@
+autoptic | adj.亲眼所见的
+autoptical | adj.亲眼所见的
+autoptically | adv.亲眼所见地
+autoradiogram | n.放射自显影图 [domain:物理]
+autorail | n.轨道车 [domain:机械]
+autoranging | adj.自动量程的 [domain:电子]
+autoreceptor | n.自身受体 [domain:生物]
+autoregression | n.自回归 [domain:统计]
+autoregulate | v.自动调节
+autoregulator | n.自动调节器
+autoregulatory | adj.自动调节的
+autorouter | skip:unknown
+autoscopy | skip:unknown
+autosite | skip:unknown
+autosomally | adv.常染色体地 [domain:生物]
+autospore | n.自生孢子 [domain:生物]
+autosuggestibility | skip:unknown
+autosynthesis | n.自身合成 [domain:生物]
+autotherapy | n.自我疗法 [domain:医学]
+autotomise | v.自割 [domain:动物]
+autotomous | adj.自割的 [domain:动物]
+autotoxemia | n.自身中毒 [domain:医学]
+autotoxic | adj.自身中毒的 [domain:医学]
+autotoxin | n.自身毒素 [domain:医学]
+autotransplant | n.自体移植物 [domain:医学]
+autotransplantation | n.自体移植 [domain:医学]
+autotrophically | adv.自养地 [domain:生物]
+autotropism | n.自向性 [domain:植物]
+autotype | n.碳印照相 [domain:印刷]
+autoupdate | n.自动更新 [domain:计算机]
+autovaccination | n.自体疫苗接种 [domain:医学]
+autovaccine | n.自体疫苗 [domain:医学]
+autunite | n.钙铀云母 [domain:矿业]
+auxanometer | n.植物生长测量器 [domain:植物]
+auxesis | n.细胞增大 [domain:生物]
+auxetic | adj.促生长的 [domain:生物]
+auxinic | adj.生长素的 [domain:植物]
+auxochrome | n.助色团 [domain:化学]
+auxology | n.生长学 [domain:生物]
+auxometer | n.放大率测量器 [domain:物理]
+auxospore | n.复大孢子 [domain:生物]
+auxotonic | adj.增张的 [domain:生物]
+auxotrophic | adj.营养缺陷型的 [domain:生物]
+auxotrophy | n.营养缺陷性 [domain:生物]
+availableness | n.可用性
+availably | adv.可利用地
+avascularity | n.无血管状态 [domain:医学]
+avenaceous | adj.燕麦的 [domain:植物]
+avengeful | adj.复仇的
+avengement | n.复仇
+avengingly | adv.复仇地
+aversely | adv.厌恶地
+averseness | n.厌恶
+aversiveness | n.令人厌恶性
+avertable | adj.可避免的
+averter | n.避免者
+avertible | adj.可避免的
+avianise | skip:unknown
+avianize | skip:unknown
+aviarist | n.鸟舍饲养者 [domain:动物]
+avicide | n.杀鸟剂 [domain:农业]
+avicolous | adj.寄生于鸟类的 [domain:动物]
+avicularium | n.鸟头体 [domain:动物]
+aviculturist | n.养鸟者 [domain:动物]
+avigation | n.空中航行 [domain:航空]
+avigator | n.飞行领航员 [domain:航空]
+avirulence | n.无毒力 [domain:医学]
+avizandum | skip:unknown
+avocationally | adv.业余地
+avoidless | adj.不可避免的 [domain:文学]
+avouchment | n.保证, 声明
+avowably | adv.公开承认地
+avowry | n.公开声明 [domain:法律]
+avulsive | adj.撕脱的 [domain:医学]
+awakenment | n.觉醒
+awardable | adj.可授予的
+awarder | n.授奖者
+aweather | adv.迎风 [domain:航海]
+aweless | adj.无畏的, 不敬畏的
+awhirl | adj.旋转的
+awless | adj.无畏的
+awlwort | n.钻叶草 [domain:植物]
+awnlet | n.小芒 [domain:植物]
+awny | adj.有芒的 [domain:植物]
+axenically | adv.无菌地 [domain:生物]
+axerophthol | n.视黄醇, 维生素甲 [domain:化学]
+axiality | n.轴性
+axicon | n.轴棱锥镜 [domain:物理]
+axillar | adj.腋的 [domain:解剖]
+axinite | n.斧石 [domain:矿业]
+axiologically | adv.价值论上地 [domain:哲学]
+axiomatical | adj.公理的
+axiomatics | n.公理系统 [domain:数学]
+axiomatisation | n.公理化 [domain:数学]
+axisymmetrical | adj.轴对称的 [domain:数学]
+axlebox | n.轴箱 [domain:机械]
+axolemma | n.轴膜 [domain:解剖]
+axone | n.轴突 [domain:解剖]
+axonemal | adj.轴丝的 [domain:生物]
+axonometry | n.轴测法 [domain:数学]
+axonotmesis | n.轴突断伤 [domain:医学]
+axoplasmic | adj.轴浆的 [domain:解剖]
+axopodium | n.轴足 [domain:生物]
+axostyle | n.轴杆 [domain:生物]
+axotomy | n.轴突切断术 [domain:医学]
+axseed | n.绣球小冠花 [domain:植物]
+axstone | n.斧石 [domain:地质]
+axunge | n.动物脂肪
+azacitidine | n.阿扎胞苷 [domain:药学]
+azane | n.氨烷 [domain:化学]
+azaperone | n.阿扎哌隆 [domain:药学]
+azapropazone | n.阿扎丙宗 [domain:药学]
+azaserine | n.重氮丝氨酸 [domain:药学]
+azatadine | n.阿扎他定 [domain:药学]
+azedarach | n.苦楝 [domain:植物]
+azelate | n.壬二酸盐 [domain:化学]
+azeotropy | n.共沸现象 [domain:化学]
+azepine | n.氮杂䓬 [domain:化学]
+azetidine | n.氮杂环丁烷 [domain:化学]
+azidamfenicol | skip:unknown
+azidocillin | n.叠氮西林 [domain:药学]
+azidothymidine | n.叠氮胸苷 [domain:药学]
+azine | n.吖嗪 [domain:化学]
+azinphosmethyl | n.保棉磷 [domain:农业]
+aziridine | n.氮丙啶 [domain:化学]
+azlactone | n.氮内酯 [domain:化学]
+azlocillin | n.阿洛西林 [domain:药学]
+azocarmine | n.偶氮胭脂红 [domain:化学]
+azomethine | n.甲亚胺 [domain:化学]
+azonal | adj.非地带性的 [domain:地理]
+azoospermic | adj.无精子的 [domain:医学]
+azorubine | n.偶氮玉红 [domain:化学]
+azosemide | n.阿佐塞米 [domain:药学]
+azotaemia | n.氮血症 [domain:医学]
+azotemic | adj.氮血症的 [domain:医学]
+azotic | adj.氮的 [domain:化学]
+azotize | v.氮化 [domain:化学]
+azoxybenzene | n.氧化偶氮苯 [domain:化学]
+azulene | n.薁 [domain:化学]
+azurin | n.天青蛋白 [domain:生物]
+azygospore | n.单性接合孢子 [domain:生物]
+azyme | n.无酵饼 [domain:宗教]
+azymous | adj.未发酵的
+baalism | n.巴力崇拜 [domain:宗教]
+babaco | n.巴巴科果 [domain:植物]
+babesiasis | n.巴贝虫病 [domain:医学]
+babingtonite | n.硅铁灰石 [domain:矿业]
+babiroussa | n.鹿豚 [domain:动物]
+babool | n.阿拉伯金合欢 [domain:植物]
+baboonery | skip:unknown
+baboonish | adj.狒狒般的
+babyism | n.幼稚行为
+babyless | adj.无婴儿的
+babylonish | adj.巴比伦的 [domain:历史]
+bacampicillin | n.巴氨西林 [domain:药学]
+baccated | adj.浆果状的 [domain:植物]
+bacchantic | adj.酒神狂欢的 [domain:文学]
+bacchius | n.长短短格 [domain:文学]
+bacciferous | adj.结浆果的 [domain:植物]
+bacciform | adj.浆果状的 [domain:植物]
+baccivorous | adj.食浆果的 [domain:动物]
+bachelordom | n.单身汉身份
+bachelorism | n.单身状态
+bachelorship | n.单身状态
+bacillar | adj.杆菌的 [domain:生物]
+bacilliform | adj.杆状的 [domain:生物]
+bacillosis | n.杆菌病 [domain:医学]
+bacilluria | n.杆菌尿 [domain:医学]
+backbar | n.酒吧后柜台
+backcast | n.向后抛竿 [domain:体育]
+backcourtman | n.后场球员 [domain:体育]
+backfielder | n.后卫球员 [domain:体育]
+backfile | n.过刊, 旧档案
+backfiller | n.回填机 [domain:建筑]
+backfit | v.补装改造 [domain:机械]
+backflush | v.反冲洗 [domain:机械]
+backgear | n.背齿轮 [domain:机械]
+backhandedness | n.含糊其辞, 间接
+backmost | adj.最后面的
+backpat | v.拍背祝贺
+backpiece | n.背部部件
+backproject | v.反投影 [domain:数学]
+backprojection | n.反投影 [domain:数学]
+backset | n.挫折, 逆流
+backshift | n.时态后移 [domain:语言]
+backswept | adj.后掠的 [domain:航空]
+backwardization | n.现货溢价 [domain:金融]
+backway | n.后路
+baconianism | n.培根学说 [domain:哲学]
+bacony | adj.似咸肉的
+bacteremic | adj.菌血症的 [domain:医学]
+bacterid | n.细菌疹 [domain:医学]
+bacterin | n.菌苗 [domain:医学]
+bacteriochlorophyll | n.细菌叶绿素 [domain:生物]
+bacteriologically | adv.细菌学上地 [domain:生物]
+bacteriolysin | n.溶菌素 [domain:生物]
+bacteriolytic | adj.溶菌的 [domain:生物]
+bacterioscopy | n.细菌镜检 [domain:医学]
+bacteriosis | n.细菌病 [domain:医学]
+bacteriotherapy | n.细菌疗法 [domain:医学]
+bacteriotoxin | n.细菌毒素 [domain:医学]
+bacterize | v.使带菌 [domain:生物]
+bacteroid | n.类菌体 [domain:生物]
+bacteruria | n.菌尿 [domain:医学]
+baculite | n.杖菊石 [domain:地质]
+baddeleyite | n.斜锆石 [domain:矿业]
+badderlocks | n.掌状海带 [domain:植物]
+badgeless | adj.无徽章的
+baffy | n.短头木杆 [domain:体育]
+bagassosis | n.蔗尘肺 [domain:医学]
+baggagemaster | n.行李员
+baggiest | skip:not-lemma
+baggily | adv.松垮地
+bagwash | n.袋洗衣服务
+bailiffship | n.执行官职务 [domain:法律]
+bakeable | adj.可烘烤的 [domain:烹饪]
+bakeapple | n.云莓 [domain:植物]
+balbuties | n.口吃 [domain:医学]
+baldrib | n.猪排骨 [domain:烹饪]
+balker | n.阻挠者
+balkingly | adv.踌躇地
+balladic | adj.民谣的 [domain:音乐]
+balladist | n.民谣作者 [domain:音乐]
+balletically | adv.芭蕾般地
+ballflower | n.球花饰 [domain:建筑]
+ballgirl | n.球童
+ballismus | n.投掷症 [domain:医学]
+ballistocardiogram | n.心冲击图 [domain:医学]
+ballistocardiograph | n.心冲击描记器 [domain:医学]
+ballistospore | n.弹射孢子 [domain:生物]
+ballium | n.城堡外围 [domain:历史]
+ballock | n.睾丸 [domain:解剖] | nokid
+ballocks | n.睾丸, 废话 [uk,slang] | nokid
+ballooner | n.热气球驾驶者
+balloonet | n.小气囊 [domain:航空]
+balloonlike | adj.气球状的
+ballotage | n.复决投票 [domain:政治]
+balloter | n.投票者 [domain:政治]
+ballotini | n.玻璃微珠 [domain:机械]
+ballottement | n.浮球感诊法 [domain:医学]
+ballpen | n.圆珠笔
+ballproof | adj.防球的
+ballsiness | n.胆量 [slang] | nokid
+ballute | n.气球降落伞 [domain:航空]
+balmily | adv.温和地
+balneal | adj.沐浴的
+balneary | n.浴场
+balneation | n.沐浴
+balsamiferous | adj.产香脂的 [domain:植物]
+balsamine | n.凤仙花 [domain:植物]
+balsamous | adj.香脂的
+balsamroot | n.香脂根 [domain:植物]
+balsamweed | n.凤仙花 [domain:植物]
+balsamy | adj.香脂般的
+baluchithere | n.俾路支兽 [domain:地质]
+banalization | n.平庸化
+bandager | n.包扎者
+bandelet | n.小饰带 [domain:建筑]
+banderol | n.小旗 [domain:历史]
+bandlet | n.小带 [domain:建筑]
+bandlike | adj.带状的
+bandobast | n.安排, 布置
+bandoline | n.发胶
+bandrol | n.小旗 [domain:历史]
+bandspread | n.频带扩展 [domain:电子]
+bandyleg | n.罗圈腿 [domain:医学]
+banefulness | n.有害性
+banewort | n.毒草 [domain:植物]
+bangtail | n.短尾马
+banisher | n.驱逐者
+banjulele | n.班卓尤克里里 [domain:音乐]
+bankfull | adj.满岸的 [domain:地理]
+bankroller | n.出资人
+banksman | n.矿井口工人 [domain:矿业]
+bannerette | n.小旗 [domain:历史]
+bannerlike | adj.旗帜般的
+bannerol | n.小旗 [domain:历史]
+baptismally | adv.洗礼地 [domain:宗教]
+baptizable | adj.可受洗的 [domain:宗教]
+barachois | n.沙坝潟湖 [domain:地理]
+baragnosis | n.重量感缺失 [domain:医学]
+barathrum | n.深坑
+baratol | n.巴拉托炸药 [domain:军事]
+barbacan | n.城堡外堡 [domain:建筑]
+barbaloin | n.芦荟素 [domain:化学]
+barbarianize | v.使野蛮化
+barbarise | v.使野蛮化
+barbarization | n.野蛮化
+barbasco | n.鱼藤 [domain:植物]
+barbellate | adj.有小刺毛的 [domain:植物]
+barbicel | n.羽小钩 [domain:动物]
+barbiturism | n.巴比妥中毒 [domain:医学]
+barbotine | n.陶土浆 [domain:美术]
+barbula | n.小须 [domain:植物]
+bardiglio | n.灰白大理石 [domain:地质]
+bardish | adj.吟游诗人的
+bardling | n.蹩脚诗人
+bardship | n.诗人身份
+barefisted | adj.赤手空拳的
+barege | n.巴雷奇薄纱 [domain:纺织]
+barenecked | adj.露颈的
+baresthesia | n.压觉 [domain:医学]
+bargainable | adj.可议价的
+bargainee | n.买方 [domain:法律]
+bargainor | n.卖方 [domain:法律]
+bargemaster | n.驳船船主
+bariatrician | n.肥胖病医师 [domain:医学]
+baritonal | adj.男中音的 [domain:音乐]
+barkless | adj.无树皮的
+barmkin | n.城堡外墙 [domain:历史]
+barnlike | adj.谷仓般的
+baroclinicity | n.斜压性 [domain:气象]
+barodontalgia | n.气压性牙痛 [domain:医学]
+barogram | n.气压记录图 [domain:气象]
+barographic | adj.气压记录的 [domain:气象]
+barology | n.重力学 [domain:物理]
+barometrically | adv.气压计上地 [domain:气象]
+barometrograph | n.气压记录器 [domain:气象]
+barometry | n.气压测定 [domain:气象]
+baronetize | v.封为从男爵
+barophile | n.嗜压生物 [domain:生物]
+barophilic | adj.嗜压的 [domain:生物]
+baroqueness | n.巴洛克风格 [domain:美术]
+barosaurus | n.重龙 [domain:动物]
+baroscope | n.验压器 [domain:物理]
+baroscopic | adj.验压器的 [domain:物理]
+barosinusitis | n.气压性鼻窦炎 [domain:医学]
+barostat | n.恒压器 [domain:物理]
+barotitis | n.气压性中耳炎 [domain:医学]
+barotropy | n.正压性 [domain:气象]
+barracan | n.粗毛布 [domain:纺织]
+barracker | n.喝倒彩者
+barramunda | n.澳洲肺鱼 [domain:动物]
+barrater | n.诉讼教唆者 [domain:法律]
+barrelage | n.桶装量
+barreler | n.制桶工
+barrelfish | n.桶鱼 [domain:动物]
+barrenwort | n.淫羊藿 [domain:植物]
+barretter | n.镇流电阻 [domain:电子]
+barricader | n.设路障者
+bartholinitis | n.巴氏腺炎 [domain:医学]
+bartonellosis | n.巴尔通体病 [domain:医学]
+barycentre | n.重心 [domain:物理]
+barylite | n.硅钡铍石 [domain:矿业]
+barytic | adj.含钡的 [domain:化学]
+barytocalcite | n.钡方解石 [domain:矿业]
+baryton | n.巴里通琴 [domain:音乐]
+basad | adv.向基部 [domain:解剖]
+basaloid | adj.基底样的 [domain:医学]
+basaltiform | adj.玄武岩状的 [domain:地质]
+basanite | n.碧玄岩 [domain:地质]
+baseburner | n.自动加煤炉
+basecourt | n.下院, 外院 [domain:建筑]
+basibranchial | n.鳃基骨 [domain:动物]
+basichromatin | n.碱性染色质 [domain:生物]
+basicranial | adj.颅底的 [domain:解剖]
+basidial | adj.担子的 [domain:生物]
+basidiolichen | n.担子地衣 [domain:生物]
+basidiomycetous | adj.担子菌的 [domain:生物]
+basidiophore | n.担子梗 [domain:生物]
+basifacial | adj.面基部的 [domain:解剖]
+basification | n.碱化 [domain:化学]
+basifier | n.碱化剂 [domain:化学]
+basifugal | adj.离基的 [domain:植物]
+basihyal | n.基舌骨 [domain:解剖]
+basihyoid | n.舌骨体 [domain:解剖]
+basilical | adj.王室的, 巴西利卡式的
+basilicon | n.王家软膏 [domain:药学]
+basinal | adj.盆地的 [domain:地质]
+basioccipital | n.基枕骨 [domain:解剖]
+basion | n.颅底点 [domain:解剖]
+basipetally | adv.向基地 [domain:植物]
+basipodite | n.基肢节 [domain:动物]
+basisphenoid | n.基蝶骨 [domain:解剖]
+basisternum | n.基胸板 [domain:动物]
+basitarsal | adj.跗基的 [domain:动物]
+basitarsus | n.基跗节 [domain:动物]
+basketeer | n.篮球运动员 [domain:体育]
+basonym | n.基原异名 [domain:生物]
+basophile | n.嗜碱细胞 [domain:生物]
+basophilism | n.嗜碱细胞增多症 [domain:医学]
+basophilous | adj.嗜碱的 [domain:生物]
+bassarisk | n.蛇尾猫 [domain:动物]
+bassorin | n.黄芪胶素 [domain:化学]
+bastardise | v.使变质, 使堕落
+bastardism | n.私生状态
+bastnaesite | n.氟碳铈矿 [domain:矿业]
+basuco | n.可卡因糊 [slang] | nokid
+batchmate | n.同期同学 [informal]
+batchwise | adv.分批地
+bathable | adj.可沐浴的
+bathinette | n.婴儿浴盆
+bathless | adj.无浴室的
+bathochrome | n.红移基团 [domain:化学]
+bathometer | n.测深仪 [domain:地理]
+bathybius | skip:unknown
+bathylimnetic | adj.深水湖底的 [domain:地理]
+bathylimnion | n.湖底层 [domain:地理]
+bathylith | n.岩基 [domain:地质]
+bathymetrical | adj.测深的 [domain:地理]
+bathymetrically | adv.测深地 [domain:地理]
+bathythermometer | n.深海温度计 [domain:地理]
+batlike | adj.蝙蝠般的
+batrachoid | adj.蛙状的 [domain:动物]
+batrachotoxin | n.蛙毒素 [domain:化学]
+battenboard | n.板条夹芯板 [domain:建筑]
+battleful | adj.好战的 [domain:文学]
+battleplane | n.战斗机 [domain:军事]
+battology | n.赘述 [domain:语言]
+baubee | n.半便士 [domain:历史]
+bauxitic | adj.铝土矿的 [domain:矿业]
+bawcock | n.好家伙 [dated]
+bayhead | n.海湾顶端 [domain:地理]
+baymouth | n.湾口 [domain:地理]
+bazoom | n.乳房 [slang] | nokid
+bdelloid | adj.蛭形的 [domain:动物]
+beachnik | n.海滩嬉皮 [informal]
+beaconless | adj.无灯塔的
+beader | n.串珠者
+beadleship | n.教区执事职位
+beadlike | adj.珠状的
+beadswoman | n.受雇祈祷的女人 [domain:宗教]
+beakful | n.满嘴
+beakhead | n.船首喙 [domain:航海]
+beakless | adj.无喙的
+beaklike | adj.喙状的
+beamily | adv.容光焕发地
+beaminess | n.宽阔
+beamless | adj.无梁的
+beanpod | n.豆荚
+beanshooter | n.豆弹枪
+bearability | n.可忍受性
+beardedness | n.有胡须
+beardlessness | n.无胡须
+bearlike | adj.熊般的
+bearward | n.熊的看守人 [dated]
+beasthood | n.兽性
+beastlike | adj.野兽般的
+beatifical | adj.赐福的 [domain:宗教]
+beaugregory | n.黄尾雀鲷 [domain:动物]
+beauish | adj.爱打扮的
+beautifulness | n.美丽
+beaverette | n.海狸皮仿制品
+beaverteen | n.棉斜纹布 [domain:纺织]
+beavery | adj.似海狸的
+bebeerine | n.巴比林 [domain:药学]
+becard | n.厚嘴霸鹟 [domain:动物]
+bechic | adj.镇咳的 [domain:医学]
+beckoningly | adv.招手地
+becomingness | n.适宜
+becripple | v.使残疾
+bedabble | v.溅湿
+bedamn | v.咒骂 [dated]
+bedarken | v.使变暗
+bedash | v.溅污
+bedaze | v.使茫然
+bedck | v.装饰
+beddable | adj.可上床的 [informal]
+bedegar | n.蔷薇虫瘿 [domain:植物]
+bedeguar | n.蔷薇虫瘿 [domain:植物]
+bedeswoman | n.受雇祈祷的女人 [domain:宗教]
+bedhop | v.滥交 [informal] | nokid
+bedizenment | n.俗艳装饰
+bedlamism | skip:unknown
+bedless | adj.无床的
+bedpiece | n.床架部件
+bedquilt | n.床被
+bedrabble | v.弄脏
+bedrench | v.浸透
+bedrizzle | v.使湿润
+bedsonia | n.衣原体 [domain:生物]
+bedspace | n.床位
+bedstone | n.底石 [domain:机械]
+bedung | v.施粪肥, 弄脏
+bedust | v.撒尘土
+bedward | adv.向床 [dated]
+bedwarf | v.使矮小
+bedye | v.染色
+beechdrops | n.美洲山毛榉寄生草 [domain:植物]
+beefcakery | n.肌肉男展示 [informal]
+beefer | n.抱怨者 [slang]
+beefmaster | n.牛肉牛品种 [domain:农业]
+beegerite | n.硫铋银铅矿 [domain:矿业]
+beehouse | n.蜂房
+beekite | n.贝壳硅质 [domain:地质]
+beelike | adj.蜜蜂般的
+beemaster | n.养蜂人
+beerbachite | n.贝尔巴赫岩 [domain:地质]
+beeriness | n.啤酒味
+beerless | adj.无啤酒的
+beerwort | n.啤酒麦芽汁 [domain:烹饪]
+beesting | n.蜂蜇
+beetleheaded | adj.愚笨的 [dated]
+beetleweed | n.岩梅 [domain:植物]
+beeturia | n.甜菜红尿 [domain:医学]
+beflower | v.用花装饰
+befoulment | n.玷污
+befriendment | n.友善对待
+befringe | v.饰以流苏
+befrogged | adj.饰有盘扣的 [domain:纺织]
+befunolol | n.苯呋洛尔 [domain:药学]
+befur | v.饰以毛皮
+begem | v.以宝石装饰
+beggardom | n.乞丐阶层
+beggarhood | n.乞丐身份
+beggarwoman | n.女乞丐
+beggine | n.贝居安女修会成员 [domain:宗教]
+beghard | n.贝加德会修士 [domain:宗教]
+beglamour | v.使迷惑
+begnaw | v.啃咬
+begoggled | adj.戴护目镜的
+begore | v.用血弄脏
+begrimer | skip:unknown
+begrudger | n.嫉妒者, 吝惜者
+behaver | n.行为者
+behaviouralist | n.行为主义者 [domain:心理]
+behaviouristic | adj.行为主义的 [domain:心理]
+behcet | skip:proper-out-of-scope
+beheadal | n.斩首
+behenate | n.山嵛酸盐 [domain:化学]
+beidellite | n.贝得石 [domain:矿业]
+beigy | adj.米色的
+beilupeimine | skip:unknown
+beingless | adj.不存在的
+beisa | n.东非剑羚 [domain:动物]
+beiyinite | skip:unknown
+bejel | n.地方性梅毒 [domain:医学]
+bekinkinite | skip:unknown
+beknave | v.斥为无赖
+beldongrite | skip:unknown
+beleaguerer | n.围攻者
+belecture | v.训斥
+belee | v.置于下风
+belemnitic | adj.箭石的 [domain:地质]
+belemnoid | adj.箭石状的 [domain:地质]
+belfried | adj.有钟楼的 [domain:建筑]
+belgite | skip:unknown
+belgravian | adj.贝尔格莱维亚的, 上流社会的
+believingly | adv.相信地
+belite | n.贝利特 [domain:建筑]
+belladonnine | n.颠茄宁 [domain:化学]
+bellafoline | skip:unknown
+bellbine | n.旋花 [domain:植物]
+belleric | n.毗黎勒 [domain:植物]
+belleter | n.铸钟工 [domain:历史]
+bellhanger | n.装钟工
+bellicism | n.好战主义
+bellicoseness | n.好战
+bellingerite | n.水铜碘酸盐矿 [domain:矿业]
+bellipotent | adj.强于战争的 [domain:文学]
+bellite | skip:unknown
+bellmouth | n.喇叭口 [domain:机械]
+bellyband | n.肚带
+bellyless | adj.无腹的
+bellywhop | v.俯身滑行 [us,informal]
+belmontite | skip:unknown
+beloeilite | skip:unknown
+beloid | skip:unknown
+belomancy | n.箭占卜 [domain:历史]
+belonephobia | n.针恐怖症 [domain:心理]
+belonesite | n.钼镁矿 [domain:矿业]
+belonger | n.属于者
+belonite | n.针雏晶 [domain:地质]
+belonoid | adj.针状的
+belonoskiascopy | skip:unknown
+belonospasis | skip:unknown
+belovite | n.铈锶磷灰石 [domain:矿业]
+beltlike | adj.带状的
+beltsaw | n.带锯 [domain:机械]
+belyankinite | skip:unknown
+bemaze | v.使迷惑
+bemean | v.贬低
+bemedaled | adj.佩戴奖章的
+bemegride | n.贝美格 [domain:药学]
+bementite | n.硅锰石 [domain:矿业]
+bemist | v.使笼罩薄雾
+bemmelenite | skip:unknown
+bemock | v.嘲弄
+bemoil | v.弄脏, 使劳累
+bemoisten | v.弄湿
+bemud | v.溅泥
+benactyzine | n.苯那替嗪 [domain:药学]
+bename | v.命名
+benaprizine | skip:unknown
+benazolin | n.草除灵 [domain:农业]
+benchland | n.台地 [domain:地理]
+benchman | n.法官席成员 [domain:法律]
+bencyclane | n.苄环烷 [domain:药学]
+bendability | n.可弯曲性
+bendazac | n.苄达酸 [domain:药学]
+bendazol | n.地巴唑 [domain:药学]
+bendiocarb | n.恶虫威 [domain:农业]
+bendroflumethiazide | n.苄氟噻嗪 [domain:药学]
+bendwise | adv.斜向地
+beneceptor | skip:unknown
+beneckea | skip:not-english
+benedictional | n.祝福祈祷书 [domain:宗教]
+benedictive | adj.祝福的
+beneficialness | n.有益性
+benefin | n.乙丁氟灵 [domain:农业]
+benefiter | n.受益者
+benempt | v.命名 [dated]
+benevolentness | n.仁慈
+benfluorex | n.苯氟雷司 [domain:药学]
+benfluralin | n.乙丁氟灵 [domain:农业]
+benfotiamine | n.苯磷硫胺 [domain:药学]
+benightment | n.蒙昧
+benignantly | adv.仁慈地
+benitoite | n.蓝锥矿 [domain:矿业]
+benjaminite | skip:unknown
+benmost | adj.最内的
+benmoxin | skip:unknown
+benniseed | n.芝麻 [domain:植物]
+benodaine | skip:unknown
+benodanil | n.麦锈灵 [domain:农业]
+benomyl | n.苯菌灵 [domain:农业]
+benorilate | n.贝诺酯 [domain:药学]
+benorterone | skip:unknown
+benorylate | n.贝诺酯 [domain:药学]
+benoxaprofen | n.苯恶洛芬 [domain:药学]
+benoxinate | n.奥布卡因 [domain:药学]
+benperidol | n.苯哌利多 [domain:药学]
+benproperine | n.苯丙哌林 [domain:药学]
+benquinox | skip:unknown
+benserazide | n.苄丝肼 [domain:药学]
+bensulide | n.地散磷 [domain:农业]
+bentazepam | skip:unknown
+bentazon | n.灭草松 [domain:农业]
+benthal | adj.海底的 [domain:地理]
+benthamic | adj.边沁的 [domain:哲学]
+benthiocarb | n.禾草丹 [domain:农业]
+benthograph | skip:unknown
+benthon | n.底栖生物 [domain:生物]
+benthopotamous | skip:unknown
+benthoscope | skip:unknown
+bentiromide | n.苯替酪胺 [domain:药学]
+benumbedness | n.麻木
+benurestate | skip:unknown
+benylate | skip:unknown
+benzaceanthrylene | skip:unknown
+benzaconine | skip:unknown
+benzacridine | n.苯并吖啶 [domain:化学]
+benzadox | skip:unknown
+benzalacetone | n.亚苄基丙酮 [domain:化学]
+benzalacetophenone | n.查耳酮 [domain:化学]
+benzalacetylacetone | skip:unknown
+benzalaminophenol | skip:unknown
+benzalaniline | n.苯亚甲基苯胺 [domain:化学]
+benzalazine | n.苯甲醛连氮 [domain:化学]
+benzaldoxime | n.苯甲醛肟 [domain:化学]
+benzamarone | skip:unknown
+benzamidine | n.苯甲脒 [domain:化学]
+benzamidoxime | skip:unknown
+benzanilide | n.苯甲酰苯胺 [domain:化学]
+benzanthone | skip:unknown
+benzanthracene | n.苯并蒽 [domain:化学]
+benzanthrone | n.苯绕蒽酮 [domain:化学]
+benzarone | n.苯扎隆 [domain:药学]
+benzathine | n.苄星 [domain:药学]
+benzatropine | n.苯扎托品 [domain:药学]
+benzaurin | skip:unknown
+benzazide | skip:unknown
+benzazole | skip:unknown
+benzazoline | skip:unknown
+benzbromarone | n.苯溴马隆 [domain:药学]
+benzdiazole | skip:unknown
+benzeneazophenol | n.苯偶氮苯酚 [domain:化学]
+benzenediazonium | n.苯重氮 [domain:化学]
+benzenesulfenyl | n.苯亚磺酰基 [domain:化学]
+benzenesulfinyl | n.苯亚磺酰基 [domain:化学]
+benzenesulfonamide | n.苯磺酰胺 [domain:化学]
+benzenesulfonyl | n.苯磺酰基 [domain:化学]
+benzenesulphonate | n.苯磺酸盐 [domain:化学]
+benzenethiol | n.苯硫酚 [domain:化学]
+benzenoid | adj.苯型的 [domain:化学]
+benzenyl | n.苯甲基 [domain:化学]
+benzepine | n.苯并氮杂䓬 [domain:化学]
+benzerythrene | skip:unknown
+benzestrol | n.苯雌酚 [domain:药学]
+benzetimide | n.苄替米特 [domain:药学]
+benzhexol | n.苯海索 [domain:药学]
+benzhydrazide | n.苯甲酰肼 [domain:化学]
+benzhydrol | n.二苯甲醇 [domain:化学]
+benzhydryl | n.二苯甲基 [domain:化学]
+benzhydrylamine | n.二苯甲胺 [domain:化学]
+benzhydrylidene | n.二苯亚甲基 [domain:化学]
+benziloyl | n.二苯乙醇酰基 [domain:化学]
+benzimidazolone | n.苯并咪唑酮 [domain:化学]
+benzimidazolyl | n.苯并咪唑基 [domain:化学]
+benziodarone | n.苯碘达隆 [domain:药学]
+benzisoquinoline | skip:unknown
+benznidazole | n.苯硝唑 [domain:药学]
+benzoctamine | n.苯环丁胺 [domain:药学]
+benzodepa | skip:unknown
+benzofulvene | skip:unknown
+benzofuranyl | n.苯并呋喃基 [domain:化学]
+benzoguanamine | n.苯代三聚氰胺 [domain:化学]
+benzoinated | adj.含安息香的
+benzoline | n.粗苯 [domain:化学]
+benzolism | n.苯中毒 [domain:医学]
+benzomorphan | n.苯并吗啡烷 [domain:药学]
+benzonaphthol | n.苯甲酸萘酯 [domain:药学]
+benzonatate | n.苯佐那酯 [domain:药学]
+benzonitrile | n.苯甲腈 [domain:化学]
+benzopinacol | n.苯频哪醇 [domain:化学]
+benzopurpurin | n.苯并紫红素 [domain:化学]
+benzopurpurine | n.苯并紫红素 [domain:化学]
+benzopyranyl | n.苯并吡喃基 [domain:化学]
+benzopyridine | n.喹啉 [domain:化学]
+benzopyrone | n.苯并吡喃酮 [domain:化学]
+benzoquinoline | n.苯并喹啉 [domain:化学]
+benzoquinonyl | n.苯醌基 [domain:化学]
+benzosol | n.愈创木酚苯甲酸酯 [domain:药学]
+benzotetrazine | skip:unknown
+benzothiadiazine | n.苯并噻二嗪 [domain:化学]
+benzothiazole | n.苯并噻唑 [domain:化学]
+benzothiophene | n.苯并噻吩 [domain:化学]
+benzotriazole | n.苯并三唑 [domain:化学]
+benzotrichloride | n.三氯甲苯 [domain:化学]
+benzotrifluoride | n.三氟甲苯 [domain:化学]
+benzoxazine | n.苯并恶嗪 [domain:化学]
+benzoxazinone | n.苯并恶嗪酮 [domain:化学]
+benzoxazole | n.苯并恶唑 [domain:化学]
+benzoxazolinone | n.苯并恶唑啉酮 [domain:化学]
+benzoxazolyl | n.苯并恶唑基 [domain:化学]
+benzoxy | n.苯甲酰氧基 [domain:化学]
+benzoylacetone | n.苯甲酰丙酮 [domain:化学]
+benzoylaconine | n.苯甲酰乌头原碱 [domain:化学]
+benzoylate | v.苯甲酰化 [domain:化学]
+benzoylation | n.苯甲酰化 [domain:化学]
+benzoylhydrazine | n.苯甲酰肼 [domain:化学]
+benzoylimino | skip:unknown
+benzoyloxy | n.苯甲酰氧基 [domain:化学]
+benzoylpseudotropine | n.苯甲酰伪托品 [domain:化学]
+benzphetamine | n.苄非他明 [domain:药学]
+benzpiperylon | skip:unknown
+benzpyrene | n.苯并芘 [domain:化学]
+benzpyrinium | skip:unknown
+benzquinamide | n.苯喹胺 [domain:药学]
+benzthiazide | n.苄噻嗪 [domain:药学]
+benztropine | n.苯扎托品 [domain:药学]
+benzvalene | skip:unknown
+benzydamine | n.苄达明 [domain:药学]
+benzydroflumethiazide | n.苄氢氟噻嗪 [domain:药学]
+benzylacetone | n.苄基丙酮 [domain:化学]
+benzyladenine | n.苄基腺嘌呤 [domain:化学]
+benzylamine | n.苄胺 [domain:化学]
+benzylaniline | n.苄基苯胺 [domain:化学]
+benzylation | n.苄基化 [domain:化学]
+benzylbenzene | n.二苯甲烷 [domain:化学]
+benzylcellulose | n.苄基纤维素 [domain:化学]
+benzylhydrochlorothiazide | n.苄氢氯噻嗪 [domain:药学]
+benzylhydroxylamine | n.苄基羟胺 [domain:化学]
+benzylideneacetone | n.亚苄基丙酮 [domain:化学]
+benzylideneaniline | n.苯亚甲基苯胺 [domain:化学]
+benzylidyne | n.次苄基 [domain:化学]
+benzylmercaptan | n.苄硫醇 [domain:化学]
+benzyloxy | n.苄氧基 [domain:化学]
+benzylphenol | n.苄基苯酚 [domain:化学]
+benzylthiourea | n.苄基硫脲 [domain:化学]
+benzylurea | n.苄基脲 [domain:化学]
+benzyne | n.苯炔 [domain:化学]
+bepaint | v.涂色
+bepelt | v.连续抛击
+bephenium | n.苄酚宁 [domain:药学]
+beplaster | v.涂抹
+beplumed | adj.饰以羽毛的
+bepowder | v.撒粉
+bepraise | v.过分赞美
+bepridil | n.苄普地尔 [domain:药学]
+bepuff | v.吹捧
+bepuzzle | v.使困惑
+bequeathable | adj.可遗赠的 [domain:法律]
+bequeather | n.遗赠人 [domain:法律]
+bequeathment | n.遗赠 [domain:法律]
+berascal | v.骂为无赖
+beraunite | n.绿磷铁矿 [domain:矿业]
+berbamine | n.小檗胺 [domain:药学]
+berbamunine | skip:unknown
+berbine | skip:unknown
+berdash | n.男孩装束 [dated]
+bereaver | n.夺去者
+berengelite | skip:unknown
+beresovite | skip:unknown
+berezovskite | skip:unknown
+bergall | n.小比目鱼 [domain:动物]
+bergamol | skip:unknown
+bergander | n.翘鼻麻鸭 [domain:动物]
+bergapten | n.佛手柑内酯 [domain:化学]
+bergaptin | skip:unknown
+bergaptol | skip:unknown
+bergenin | n.岩白菜素 [domain:化学]
+bergenite | skip:unknown
+berginization | skip:unknown
+bergmannite | skip:unknown
+bergmeal | n.硅藻土 [domain:地质]
+bergonization | skip:unknown
+berhyme | v.用韵文颂扬
+beriberic | adj.脚气病的 [domain:医学]
+berime | v.用韵文颂扬
+beringite | skip:unknown
+berkeyite | skip:unknown
+berlingot | n.硬糖
+berlinite | n.磷铝石 [domain:矿业]
+berlock | n.小饰物
+berloque | n.小饰物
+bermanite | n.水磷锰矿 [domain:矿业]
+berme | n.护堤坡道 [domain:建筑]
+bermudite | skip:unknown
+berninamycin | skip:unknown
+berobed | adj.穿长袍的
+beromycin | skip:unknown
+berrylike | adj.浆果状的
+berthierine | n.铁蛇纹石 [domain:矿业]
+berthierite | n.硫锑铁矿 [domain:矿业]
+berthollide | n.非整比化合物 [domain:化学]
+berthonite | skip:unknown
+bertielliasis | skip:unknown
+bertrandite | n.硅铍石 [domain:矿业]
+beruffled | adj.饰以褶边的
+beryllide | n.铍化物 [domain:化学]
+berylline | adj.绿柱石般的
+beryllite | n.水硅铍石 [domain:矿业]
+beryllocene | n.二茂铍 [domain:化学]
+beryllonite | n.磷钠铍石 [domain:矿业]
+berzelianite | n.硒铜矿 [domain:矿业]
+bescreen | v.遮蔽
+bescribble | v.乱涂
+beseecher | n.恳求者
+beseechment | n.恳求
+besetment | n.围困, 困扰
+besetter | n.围攻者
+beshmet | n.别什梅特外衣 [domain:纺织]
+besiegement | n.围攻
+besilate | n.苯磺酸盐 [domain:药学]
+beslave | v.奴役
+beslaver | v.流口水弄湿
+beslobber | v.用口水弄湿
+beslubber | v.弄脏
+besmearer | n.涂污者
+besmoke | v.熏黑
+besnoitia | skip:not-english
+besnow | v.用雪覆盖
+besoil | v.弄脏
+besottingly | adv.使人迷糊地
+bespake | v.预定, 说话
+bespeckle | v.使布满斑点
+bespell | v.施魔法
+bespice | v.加香料
+bespirit | v.使有精神
+bespot | v.使有斑点
+besprent | adj.散布的 [dated]
+besprinkler | n.洒水者
+bessemerize | v.用贝塞麦法炼钢 [domain:机械]
+bestain | v.玷污
+bestar | v.以星点缀
+bestialise | v.使兽性化
+bestill | v.使静止
+bestock | v.备货
+bestraddle | v.跨骑
+bestreak | v.使有条纹
+bestsellerdom | n.畅销书界
+bestubbled | adj.满脸胡茬的
+bestud | v.点缀
+besugo | n.西班牙海鲷 [domain:动物]
+betacetylmethadol | n.乙酰美沙醇 [domain:药学]
+betacism | n.重复使用乙字音 [domain:语言]
+betacyanin | n.甜菜花青素 [domain:植物]
+betaeucaine | n.乙卡因 [domain:药学]
+betafite | n.铀烧绿石 [domain:矿业]
+betahistine | n.倍他司汀 [domain:药学]
+betameprodine | n.倍他美罗定 [domain:药学]
+betamethadol | n.倍他美沙朵 [domain:药学]
+betanidin | n.甜菜苷元 [domain:植物]
+betanin | n.甜菜红素 [domain:植物]
+betaprodine | n.倍他罗定 [domain:药学]
+betaxanthin | n.甜菜黄素 [domain:植物]
+betaxolol | n.倍他洛尔 [domain:药学]
+betazole | n.倍他唑 [domain:药学]
+betekhtinite | skip:unknown
+bethanidine | n.倍他尼定 [domain:药学]
+bethroot | n.延龄草 [domain:植物]
+bethumb | v.用拇指弄脏
+bethump | v.重击
+betitle | v.授予头衔
+betongue | v.责骂
+betonicine | n.水苏碱 [domain:化学]
+betoss | v.使不安
+betoxycaine | skip:unknown
+betpakdalite | skip:unknown
+betrim | v.装饰
+betterly | adv.较好地
+betterness | n.较佳
+betulaceous | adj.桦木科的 [domain:植物]
+betulene | skip:unknown
+betulenol | skip:unknown
+betulin | n.桦木醇 [domain:化学]
+betulinol | n.桦木醇 [domain:化学]
+beturbaned | adj.戴头巾的
+betweenbrain | n.间脑 [domain:解剖]
+betweenmaid | n.杂役女佣 [dated]
+betweenwhiles | adv.间或
+beudantite | n.砷铅铁矾 [domain:矿业]
+bevantolol | skip:unknown
+beveller | n.斜切工
+bevelment | n.斜面
+beveloid | skip:unknown
+bewailer | n.哀悼者
+beweep | v.为之哭泣
+bewet | v.弄湿
+bewit | n.鹰脚皮带 [domain:历史]
+bewitcher | n.施魔法者
+bewrap | v.包裹
+bewrayer | n.泄露者
+bexarotene | n.贝沙罗汀 [domain:药学]
+beyerite | n.钙铋碳酸盐矿 [domain:矿业]
+beylic | adj.贝伊的 [domain:历史]
+beyrichite | skip:unknown
+bezafibrate | n.苯扎贝特 [domain:药学]
+bezanty | n.金币 [domain:历史]
+bezazz | n.活力 [us,informal]
+bezitramide | n.贝齐米特 [domain:药学]
+bezoardic | adj.含牛黄的
+bezzant | n.金币 [domain:历史]
+bezzle | v.挥霍 [dated]
+bhilawanol | skip:unknown
+biabsorption | skip:unknown
+biacetyl | n.丁二酮 [domain:化学]
+biacetylene | n.二乙炔 [domain:化学]
+biacuminate | adj.双尖的 [domain:植物]
+biadipate | skip:unknown
+bialamicol | skip:unknown
+biamperometry | n.双电流滴定法 [domain:化学]
+bianchite | n.白锌矾 [domain:矿业]
+biangular | adj.双角的
+biangulate | adj.双角的
+biannulate | adj.双环的 [domain:动物]
+biapiculate | adj.双尖的 [domain:植物]
+biarcuate | adj.双弧的
+biareolate | adj.双小区的 [domain:动物]
+biarticular | adj.跨两关节的 [domain:解剖]
+biarticulate | adj.有两节的 [domain:动物]
+biaryl | n.联芳基 [domain:化学]
+biasness | n.偏向
+biasteric | adj.两星点间的 [domain:解剖]
+biatomic | adj.双原子的 [domain:化学]
+biaural | adj.双耳的
+biauricular | adj.双耳的 [domain:解剖]
+biauriculate | adj.双耳状的 [domain:生物]
+biaxal | adj.双轴的
+biaxiality | n.双轴性 [domain:物理]
+bibacious | adj.嗜酒的
+bibasic | adj.二元的 [domain:化学]
+bibbery | n.酗酒 [dated]
+bibbler | n.酒徒
+bibenzyl | n.联苄 [domain:化学]
+biberon | n.奶瓶
+bibitory | adj.饮用的
+bibliobus | n.流动图书馆车
+biblioclast | n.毁书者
+bibliognost | n.书籍通 [dated]
+biblioklept | n.窃书者
+bibliokleptomania | n.窃书癖 [domain:心理]
+bibliolater | n.圣经崇拜者 [domain:宗教]
+bibliolatrist | n.圣经崇拜者 [domain:宗教]
+bibliolatrous | adj.崇拜圣经的 [domain:宗教]
+bibliological | adj.书志学的
+bibliology | n.书志学, 圣经学
+bibliomaniacal | adj.藏书癖的
+bibliopegic | adj.装订书籍的
+bibliopegist | n.书籍装订者
+bibliopegistic | adj.装订书籍的
+bibliopegy | n.书籍装订
+bibliophage | n.书虫
+bibliophil | n.爱书者
+bibliophilism | n.爱书癖
+bibliophilist | n.爱书者
+bibliophobia | n.恐书症 [domain:心理]
+bibliopolic | adj.售书的
+bibliopolism | n.书籍买卖
+bibliopolist | n.书商
+bibliopoly | n.书籍买卖
+bibliothecal | adj.图书馆的
+bibliothecarial | adj.图书馆员的
+bibliothecarian | n.图书馆员
+bibliothecary | n.图书馆员
+bibliotics | n.笔迹鉴定
+bibliotist | n.笔迹鉴定家
+biborate | n.硼酸氢盐 [domain:化学]
+bibracteate | adj.有两苞片的 [domain:植物]
+bibrocathol | n.铋溴酚 [domain:药学]
+bibromide | n.二溴化物 [domain:化学]
+bibulosity | n.嗜酒
+bicapitate | adj.双头的
+bicapsular | adj.双蒴的 [domain:植物]
+bicarinate | adj.双龙骨的 [domain:生物]
+bicarpellary | adj.二心皮的 [domain:植物]
+bicaudal | adj.双尾的 [domain:动物]
+bicaudate | adj.双尾的 [domain:动物]
+bicellular | adj.双细胞的 [domain:生物]

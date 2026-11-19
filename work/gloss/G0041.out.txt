@@ -1,0 +1,1000 @@
+photorecorder | skip:unknown
+photorecording | skip:unknown
+photorecovery | skip:unknown
+photorectifier | skip:unknown
+photoreduce | v.光还原 [domain:化学]
+photorefraction | n.光折变 [domain:物理]
+photorefractory | skip:unknown
+photorelay | n.光继电器 [domain:电子]
+photorelease | skip:unknown
+photorepeater | skip:unknown
+photoreport | skip:unknown
+photoreportage | n.摄影报道
+photoreproduce | skip:unknown
+photoresistance | n.光电阻 [domain:电子]
+photoresistive | adj.光敏电阻的 [domain:电子]
+photoresponse | n.光响应 [domain:物理]
+photoresponsive | adj.光响应的 [domain:物理]
+photoretinitis | n.光性视网膜炎 [domain:医学]
+photoroentgenography | skip:unknown
+photoscan | skip:unknown
+photoscanner | skip:unknown
+photoscanning | skip:unknown
+photoscintigram | n.闪烁照片 [domain:医学]
+photoscope | skip:unknown
+photoscopic | skip:unknown
+photoscopy | skip:unknown
+photosedimentation | skip:unknown
+photosedimentometer | skip:unknown
+photosensibilisator | skip:unknown
+photosensibility | n.光敏性 [domain:生物]
+photosensitiser | n.光敏剂 [domain:化学]
+photosensory | adj.光感觉的 [domain:生物]
+photoseparation | skip:unknown
+photoshock | skip:unknown
+photosignal | skip:unknown
+photosite | skip:unknown
+photosource | skip:unknown
+photospot | skip:unknown
+photostabilization | n.光稳定 [domain:化学]
+photostabilizer | n.光稳定剂 [domain:化学]
+photostage | skip:unknown
+photostar | skip:unknown
+photostereograph | skip:unknown
+photostethoscope | skip:unknown
+photostimulable | adj.可光激励的 [domain:物理]
+photostimulation | n.光刺激 [domain:生物]
+photostimulator | n.光刺激器 [domain:医学]
+photostratigraphy | skip:unknown
+photostress | skip:unknown
+photostrophism | skip:unknown
+photostudio | skip:unknown
+photosurface | skip:unknown
+photoswitch | n.光电开关 [domain:电子]
+photosyntometer | skip:unknown
+phototachymeter | skip:unknown
+phototachymetric | skip:unknown
+phototactically | adv.趋光地 [domain:生物]
+phototaxy | n.趋光性 [domain:生物]
+phototelegram | skip:unknown
+phototelephone | skip:unknown
+phototelephony | skip:unknown
+phototelescope | skip:unknown
+phototheodolite | n.摄影经纬仪 [domain:地理]
+photothermic | adj.光热的 [domain:物理]
+photothermionic | skip:unknown
+photothermoelasticity | skip:unknown
+photothermography | skip:unknown
+photothermomagnetic | skip:unknown
+photothermometry | skip:unknown
+photothermy | skip:unknown
+photothyristor | n.光控晶闸管 [domain:电子]
+phototimer | n.曝光定时器 [domain:摄影]
+phototiming | n.曝光定时 [domain:摄影]
+phototonic | skip:unknown
+phototonus | n.光紧张性 [domain:生物]
+phototopia | skip:unknown
+phototopography | n.摄影地形测量 [domain:地理]
+phototoxis | skip:unknown
+phototransformation | n.光转化 [domain:化学]
+phototriangulation | n.摄影三角测量 [domain:地理]
+phototriangulator | skip:unknown
+phototriode | n.光电三极管 [domain:电子]
+phototron | skip:unknown
+phototronics | skip:unknown
+phototrope | skip:unknown
+phototrophy | n.光营养 [domain:生物]
+phototropy | n.光致变色 [domain:化学]
+phototurbidometric | skip:unknown
+phototypic | skip:unknown
+phototypography | n.照相排版 [domain:印刷]
+phototypy | skip:unknown
+photovalve | skip:unknown
+photovaristor | skip:unknown
+photoviscoelasticity | skip:unknown
+photovision | skip:unknown
+photovoltic | adj.光伏的 [domain:物理]
+photovulcanization | n.光硫化 [domain:化学]
+photoxylin | skip:unknown
+photoxylography | skip:unknown
+photoyield | skip:unknown
+photozincography | n.照相锌版术 [domain:印刷]
+photronic | skip:unknown
+photuria | n.发光尿 [domain:医学]
+phoxim | n.辛硫磷 [domain:农业]
+phoxime | n.辛硫磷 [domain:农业]
+phoxinus | skip:not-english
+phragma | skip:unknown
+phragmacone | skip:unknown
+phragmidiothrix | skip:not-english
+phragmobasidiate | adj.有隔担子的 [domain:植物]
+phragmobasidium | n.有隔担子 [domain:植物]
+phragmocone | n.隔壳 [domain:动物]
+phragmoid | skip:unknown
+phragmosis | skip:unknown
+phragmosome | skip:unknown
+phragmosporae | skip:not-english
+phragmospore | n.多隔孢子 [domain:植物]
+phragmosporous | adj.多隔孢子的 [domain:植物]
+phraseogram | skip:unknown
+phraseography | skip:unknown
+phraseologeme | skip:unknown
+phreatophytic | adj.地下水植物的 [domain:植物]
+phren | skip:unknown
+phrenalgia | skip:unknown
+phrenasthenia | n.精神衰弱 [domain:医学]
+phrenasthenic | adj.精神衰弱的 [domain:医学]
+phrenatrophia | skip:unknown
+phrenazole | skip:unknown
+phrenectomy | n.膈神经切除术 [domain:医学]
+phrenemphraxis | skip:unknown
+phrenesia | skip:unknown
+phrenesiac | skip:unknown
+phrenesis | skip:unknown
+phrenicectomized | adj.膈神经切除的 [domain:医学]
+phrenicectomy | n.膈神经切除术 [domain:医学]
+phreniclasia | n.膈神经压榨术 [domain:医学]
+phrenicoexairesis | skip:unknown
+phrenicoexeresis | skip:unknown
+phreniconeurectomy | skip:unknown
+phrenicotomy | n.膈神经切断术 [domain:医学]
+phrenicotripsy | n.膈神经压榨术 [domain:医学]
+phrenitis | n.脑炎 [dated,domain:医学]
+phrenoblabia | skip:unknown
+phrenocardia | skip:unknown
+phrenocolic | adj.膈结肠的 [domain:医学]
+phrenocolopexy | skip:unknown
+phrenodynia | n.膈痛 [domain:医学]
+phrenogastric | adj.膈胃的 [domain:医学]
+phrenoglottic | skip:unknown
+phrenoglottismus | skip:unknown
+phrenograph | skip:unknown
+phrenohepatic | adj.膈肝的 [domain:医学]
+phrenolepsia | skip:unknown
+phrenoparalysis | skip:unknown
+phrenopath | skip:unknown
+phrenopathic | skip:unknown
+phrenopathy | n.精神病 [dated,domain:医学]
+phrenopericarditis | skip:unknown
+phrenoplegia | skip:unknown
+phrenoptosis | n.膈下垂 [domain:医学]
+phrenosin | skip:unknown
+phrenospasm | n.膈痉挛 [domain:医学]
+phrenosplenic | adj.膈脾的 [domain:医学]
+phrenosterol | skip:unknown
+phricasmus | skip:unknown
+phrictopathic | skip:unknown
+phronema | skip:unknown
+phronemophobia | skip:unknown
+phrygana | skip:unknown
+phryganeid | n.石蛾 [domain:动物]
+phrynin | skip:unknown
+phryninismus | skip:unknown
+phrynoderma | n.蟾皮病 [domain:医学]
+phrynolysine | skip:unknown
+phthalal | skip:unknown
+phthalaldehyde | n.邻苯二甲醛 [domain:化学]
+phthalamide | n.邻苯二甲酰胺 [domain:化学]
+phthalamoyl | skip:unknown
+phthalandione | skip:unknown
+phthalanil | skip:unknown
+phthalanone | skip:unknown
+phthalation | skip:unknown
+phthalazine | n.酞嗪 [domain:化学]
+phthalazinyl | n.酞嗪基 [domain:化学]
+phthalazole | skip:unknown
+phthalazone | n.酞嗪酮 [domain:化学]
+phthaldiamide | skip:unknown
+phthaleinometer | skip:unknown
+phthalhydrazide | n.酞酰肼 [domain:化学]
+phthalide | n.酞 [domain:化学]
+phthalidene | skip:unknown
+phthalidyl | n.酞基 [domain:化学]
+phthalidylidene | skip:unknown
+phthalimidine | skip:unknown
+phthalimido | skip:unknown
+phthalimidoxime | skip:unknown
+phthalin | skip:unknown
+phthaline | skip:unknown
+phthalizine | skip:unknown
+phthalo | skip:unknown
+phthalocyanin | n.酞菁 [domain:化学]
+phthalodinitrile | n.邻苯二甲腈 [domain:化学]
+phthalofyne | skip:unknown
+phthalonitrile | n.邻苯二甲腈 [domain:化学]
+phthaloperine | skip:unknown
+phthalophenone | skip:unknown
+phthaloyl | n.邻苯二甲酰基 [domain:化学]
+phthalyl | n.邻苯二甲酰基 [domain:化学]
+phthalylhydrazine | skip:unknown
+phthalylidene | skip:unknown
+phthalylsulfacetamide | n.酞磺醋胺 [domain:药学]
+phthalylsulfadiazine | skip:unknown
+phthalylsulfamerazine | skip:unknown
+phthalylsulfathiazole | n.酞磺噻唑 [domain:药学]
+phthalylsulphathiazole | n.酞磺噻唑 [domain:药学]
+phthanite | skip:unknown
+phthienoate | skip:unknown
+phthinode | skip:unknown
+phthinoid | skip:unknown
+phthiocerol | skip:unknown
+phthiocol | skip:unknown
+phthiomycin | skip:unknown
+phthirapteran | skip:unknown
+phthiremia | skip:unknown
+phthiriophobia | n.虱恐怖症 [domain:心理]
+phthisiogenesis | skip:unknown
+phthisiogenetic | skip:unknown
+phthisiogenic | adj.致痨病的 [domain:医学]
+phthisiologia | skip:unknown
+phthisiologist | n.肺结核专家 [domain:医学]
+phthisiomania | skip:unknown
+phthisiophobia | n.肺结核恐怖 [domain:心理]
+phthisiotherapeutical | skip:unknown
+phthisiotherapeutics | n.肺结核疗法 [domain:医学]
+phthisiotherapeutist | skip:unknown
+phthisiotherapist | skip:unknown
+phthisiotherapy | n.肺结核疗法 [domain:医学]
+phthisogyne | skip:unknown
+phyargyrite | skip:unknown
+phycite | n.赤藻糖醇 [domain:化学]
+phycochrome | skip:unknown
+phycochromoprotein | skip:unknown
+phycochrysin | skip:unknown
+phycocyan | n.藻蓝素 [domain:生物]
+phycocyanobilin | n.藻蓝胆素 [domain:生物]
+phycoerythrobilin | n.藻红胆素 [domain:生物]
+phycomycetosis | n.藻菌病 [domain:医学]
+phycomycetous | adj.藻菌的 [domain:生物]
+phycomycin | skip:unknown
+phycomycoid | skip:unknown
+phycophaein | skip:unknown
+phycophage | skip:unknown
+phycophilous | skip:unknown
+phycophyta | skip:not-english
+phycoplast | skip:unknown
+phycourobilin | n.藻尿胆素 [domain:生物]
+phycovirus | n.藻病毒 [domain:生物]
+phycoxanthin | skip:unknown
+phygogalactic | skip:unknown
+phylacagogic | skip:unknown
+phylacobiosis | skip:unknown
+phylacterical | skip:unknown
+phylactic | adj.保护性的 [domain:医学]
+phylactocarp | skip:unknown
+phylactolaemata | skip:not-english
+phylactotransfusion | skip:unknown
+phylae | skip:not-lemma
+phylartic | skip:unknown
+phylaxin | skip:unknown
+phylaxis | n.防御机能 [domain:医学]
+phyle | n.部落 [domain:历史]
+phylesis | skip:unknown
+phyllade | skip:unknown
+phyllanthin | skip:unknown
+phyllanthine | skip:unknown
+phyllanthol | skip:unknown
+phyllantidine | skip:unknown
+phyllantine | skip:unknown
+phyllarenite | skip:unknown
+phyllid | skip:unknown
+phyllidium | skip:unknown
+phylliform | adj.叶状的 [domain:植物]
+phyllins | skip:unknown
+phylloaetioporphyrin | skip:unknown
+phyllobombycin | skip:unknown
+phyllobranchia | n.叶状鳃 [domain:动物]
+phyllocaline | skip:unknown
+phyllocarid | n.叶虾类 [domain:动物]
+phylloceratid | skip:unknown
+phyllochlorin | skip:unknown
+phyllochlorite | skip:unknown
+phyllocladene | skip:unknown
+phyllocladium | skip:unknown
+phyllocolly | skip:unknown
+phyllocyanin | skip:unknown
+phyllocyst | skip:unknown
+phyllodia | skip:not-lemma
+phyllodial | adj.叶柄状的 [domain:植物]
+phyllodulcin | skip:unknown
+phyllody | n.叶化 [domain:植物]
+phylloerythrin | n.叶红素 [domain:生物]
+phyllogen | skip:unknown
+phyllogenetic | skip:unknown
+phyllogenous | adj.生于叶上的 [domain:植物]
+phylloid | adj.叶状的 [domain:植物]
+phylloidal | adj.叶状的 [domain:植物]
+phyllomania | skip:unknown
+phyllomorphosis | skip:unknown
+phyllomycin | skip:unknown
+phyllonite | n.千枚糜棱岩 [domain:地质]
+phyllophagous | adj.食叶的 [domain:动物]
+phyllophor | skip:unknown
+phyllophore | skip:unknown
+phyllophorous | adj.有叶的 [domain:植物]
+phyllophyte | skip:unknown
+phyllopodium | skip:unknown
+phyllopodous | skip:unknown
+phylloporoid | skip:unknown
+phylloporphine | skip:unknown
+phylloporphyrin | n.叶卟啉 [domain:化学]
+phyllopyrrole | skip:unknown
+phyllorhize | skip:unknown
+phyllosan | skip:unknown
+phyllosinol | skip:unknown
+phyllosiphonic | skip:unknown
+phyllosoma | n.叶状幼体 [domain:动物]
+phyllospondylous | skip:unknown
+phyllosporous | skip:unknown
+phyllostine | skip:unknown
+phyllostome | skip:unknown
+phyllotheca | skip:unknown
+phylloxanthin | skip:unknown
+phylloxanthine | skip:unknown
+phylloxerated | adj.遭根瘤蚜侵害的 [domain:农业]
+phylloxerized | adj.遭根瘤蚜侵害的 [domain:农业]
+phyllula | skip:unknown
+phyllule | skip:unknown
+phyllyrin | skip:unknown
+phylobiology | skip:unknown
+phylocoenogenesis | skip:unknown
+phyloembryogenesis | skip:unknown
+phyloephebic | skip:unknown
+phylogerontic | skip:unknown
+phylology | skip:unknown
+phylomorphic | skip:unknown
+phylonepionic | skip:unknown
+phylozone | skip:unknown
+phyma | n.肿块 [domain:医学]
+phymata | skip:not-lemma
+phymatiasis | skip:unknown
+phymatiosis | skip:unknown
+phymatodeous | skip:unknown
+phymatoid | adj.瘤状的 [domain:医学]
+phymatology | skip:unknown
+phymatorhusin | skip:unknown
+phymatorrhysin | skip:unknown
+phyric | skip:unknown
+physagogal | skip:unknown
+physalaemin | skip:unknown
+physalia | skip:not-english
+physalides | skip:not-lemma
+physalien | skip:unknown
+physaliferous | skip:unknown
+physaliform | skip:unknown
+physalin | skip:unknown
+physaliphore | skip:unknown
+physaliphorous | skip:unknown
+physalite | skip:unknown
+physcione | skip:unknown
+physconia | skip:not-english
+physeal | adj.骺板的 [domain:解剖]
+physeptone | skip:proper-out-of-scope
+physeterid | skip:unknown
+physex | skip:unknown
+physianthropy | skip:unknown
+physiatric | adj.物理医学的 [domain:医学]
+physiatrician | n.物理医学医师 [domain:医学]
+physicogenic | skip:unknown
+physicopyrexia | skip:unknown
+physicotherapeutics | skip:unknown
+physinosis | skip:unknown
+physiochemistry | skip:unknown
+physiogenesis | skip:unknown
+physiogenetic | skip:unknown
+physiogeny | skip:unknown
+physiogeographic | adj.自然地理的 [domain:地理]
+physiogeographical | adj.自然地理的 [domain:地理]
+physiognomonic | adj.相貌学的
+physiognomonics | n.相面术
+physiognosis | skip:unknown
+physiograph | skip:unknown
+physiolysis | skip:unknown
+physiomedical | skip:unknown
+physiomedicalism | skip:unknown
+physiometry | skip:unknown
+physioneonatology | skip:unknown
+physioneurosis | skip:unknown
+physionomy | n.相貌 [dated]
+physionotrace | skip:unknown
+physiopathic | skip:unknown
+physiopathological | skip:unknown
+physiophyly | skip:unknown
+physiopsychic | skip:unknown
+physiopyrexia | skip:unknown
+physiosis | skip:unknown
+physite | skip:unknown
+physocele | n.气囊肿 [domain:医学]
+physocephaly | skip:unknown
+physoclistous | adj.闭鳔的 [domain:动物]
+physodalin | skip:unknown
+physogastric | skip:unknown
+physogastry | skip:unknown
+physohematometra | skip:unknown
+physohydrometra | skip:unknown
+physometra | n.子宫积气 [domain:医学]
+physopoda | skip:not-english
+physopsis | skip:unknown
+physopyosalpinx | skip:unknown
+physostegia | skip:not-english
+physostigminism | n.毒扁豆碱中毒 [domain:医学]
+physostol | skip:unknown
+physostomous | adj.管鳔类的 [domain:动物]
+physovenine | skip:unknown
+physoxanthin | skip:unknown
+phytadiene | skip:unknown
+phytaeron | skip:unknown
+phytagglutinin | n.植物凝集素 [domain:生物]
+phytal | skip:unknown
+phytalbumin | n.植物白蛋白 [domain:生物]
+phytalbumose | skip:unknown
+phytanate | skip:unknown
+phytane | n.植烷 [domain:化学]
+phytanol | skip:unknown
+phytanolate | skip:unknown
+phytelephantine | skip:unknown
+phytelephas | skip:not-english
+phytene | skip:unknown
+phyteral | skip:unknown
+phyterythrin | skip:unknown
+phytid | skip:unknown
+phytivorous | adj.食植物的 [domain:动物]
+phytoactin | skip:unknown
+phytoactinometer | skip:unknown
+phytoaeron | skip:unknown
+phytoagglutinins | skip:not-lemma
+phytoalbumin | n.植物白蛋白 [domain:生物]
+phytobacteriology | n.植物细菌学 [domain:生物]
+phytobacteriomycin | skip:unknown
+phytobenthon | n.底栖植物 [domain:生物]
+phytobenthos | n.底栖植物 [domain:生物]
+phytobiochemistry | n.植物生物化学 [domain:生物]
+phytobiocoenose | skip:unknown
+phytobiology | n.植物生物学 [domain:植物]
+phytocecidium | skip:unknown
+phytochinin | skip:unknown
+phytochlorin | skip:unknown
+phytocholesterol | n.植物甾醇 [domain:化学]
+phytochrom | n.光敏色素 [domain:植物]
+phytocidal | adj.杀植物的 [domain:农业]
+phytocide | n.除草剂 [domain:农业]
+phytoclimate | skip:unknown
+phytoclimatology | skip:unknown
+phytocoenogenesis | skip:unknown
+phytocoenology | n.植物群落学 [domain:植物]
+phytocoenose | n.植物群落 [domain:植物]
+phytocoenosis | n.植物群落 [domain:植物]
+phytocoenosium | skip:unknown
+phytocoenostics | skip:unknown
+phytocollite | skip:unknown
+phytocommunity | n.植物群落 [domain:植物]
+phytocytomine | skip:unknown
+phytodemic | skip:unknown
+phytoderma | skip:unknown
+phytoecdysone | n.植物蜕皮激素 [domain:生物]
+phytoecology | n.植物生态学 [domain:植物]
+phytoecommunity | skip:unknown
+phytoedaphon | skip:unknown
+phytoene | n.八氢番茄红素 [domain:生物]
+phytoferritin | n.植物铁蛋白 [domain:生物]
+phytoflagellata | skip:not-english
+phytoflavin | skip:unknown
+phytofluene | n.六氢番茄红素 [domain:生物]
+phytogenesis | n.植物发生 [domain:植物]
+phytogenous | adj.植物源的 [domain:植物]
+phytogeny | n.植物发生学 [domain:植物]
+phytogermine | skip:unknown
+phytoglobulin | n.植物球蛋白 [domain:生物]
+phytograph | skip:unknown
+phytographical | skip:unknown
+phytography | n.植物描述学 [domain:植物]
+phytogroup | skip:unknown
+phytoid | skip:unknown
+phytokinase | skip:unknown
+phytokinin | n.植物激动素 [domain:植物]
+phytolaccaceous | adj.商陆科的 [domain:植物]
+phytolaccanine | skip:unknown
+phytolaccatoxin | skip:unknown
+phytolaccin | skip:unknown
+phytolaccine | skip:unknown
+phytolaccotoxin | skip:unknown
+phytolectin | n.植物凝集素 [domain:生物]
+phytolipopolysaccharide | skip:unknown
+phytolite | skip:unknown
+phytolithology | skip:unknown
+phytolithus | skip:unknown
+phytologic | adj.植物学的 [domain:植物]
+phytological | adj.植物学的 [domain:植物]
+phytologically | adv.植物学地 [domain:植物]
+phytoma | skip:unknown
+phytomelane | skip:unknown
+phytomelin | skip:unknown
+phytomelioration | skip:unknown
+phytomer | skip:unknown
+phytometer | skip:unknown
+phytometry | skip:unknown
+phytomicroorganism | skip:unknown
+phytomitogens | skip:unknown
+phytomonad | skip:unknown
+phytomycin | skip:unknown
+phytonomy | skip:unknown
+phytonosis | skip:unknown
+phytopaleontology | n.古植物学 [domain:植物]
+phytoparasite | n.植物寄生物 [domain:生物]
+phytoparasitology | skip:unknown
+phytopathogene | n.植物病原体 [domain:植物]
+phytopathy | skip:unknown
+phytophaga | skip:unknown
+phytophage | n.食植物动物 [domain:动物]
+phytophagic | adj.食植物的 [domain:动物]
+phytophagy | n.食植性 [domain:动物]
+phytopharmacology | n.植物药理学 [domain:药学]
+phytopharmacy | n.植物药学 [domain:药学]
+phytophenology | n.植物物候学 [domain:植物]
+phytophile | skip:unknown
+phytophilous | adj.喜植物的 [domain:动物]
+phytophily | skip:unknown
+phytophotodermatitis | n.植物日光性皮炎 [domain:医学]
+phytophysiology | n.植物生理学 [domain:植物]
+phytoplasm | skip:unknown
+phytopneumonoconiosis | skip:unknown
+phytoprecipitin | skip:unknown
+phytoprotein | n.植物蛋白 [domain:生物]
+phytorubin | skip:unknown
+phytoscopic | skip:unknown
+phytoseiid | n.植绥螨 [domain:动物]
+phytoserology | skip:unknown
+phytosis | skip:unknown
+phytosol | skip:unknown
+phytosphingosine | n.植物鞘氨醇 [domain:生物]
+phytostearin | skip:unknown
+phytosterin | n.植物甾醇 [domain:化学]
+phytosterolin | skip:unknown
+phytostreptin | skip:unknown
+phytosuccivorous | skip:unknown
+phytosynthesis | skip:unknown
+phytotaxonomy | n.植物分类学 [domain:植物]
+phytothrombokinase | skip:unknown
+phytotomist | skip:unknown
+phytotoxemia | skip:unknown
+phytotoxicant | n.植物毒剂 [domain:农业]
+phytotoxinism | skip:unknown
+phytotrichobezoar | n.植物毛粪石 [domain:医学]
+phytotrophy | skip:unknown
+phytovitellin | skip:unknown
+phytoxanthin | skip:unknown
+phytoxylin | skip:unknown
+phytozoa | skip:not-lemma
+phytozoon | skip:unknown
+phytum | skip:unknown
+phytyl | n.植基 [domain:化学]
+piacularity | skip:unknown
+piamater | n.软脑膜 [domain:解剖]
+piamatral | adj.软脑膜的 [domain:解剖]
+piarachnitis | n.软脑膜蛛网膜炎 [domain:医学]
+piarachnoid | skip:unknown
+piarhemia | skip:unknown
+piauzite | skip:unknown
+piazthiole | skip:unknown
+picamar | skip:unknown
+picein | n.云杉苷 [domain:化学]
+picene | n.苉 [domain:化学]
+piceneketone | skip:unknown
+piceneperhydride | skip:unknown
+picenoquinone | skip:unknown
+piceoid | skip:unknown
+piceoside | skip:unknown
+picescent | skip:unknown
+pichiciago | n.粉红仙女犰狳 [domain:动物]
+pichiciego | n.粉红仙女犰狳 [domain:动物]
+piciformes | skip:not-english
+picilorex | skip:unknown
+picine | skip:unknown
+pickeerer | skip:unknown
+pickeringite | skip:unknown
+picketage | skip:unknown
+picketboat | n.巡逻艇 [domain:军事]
+pickleworm | skip:unknown
+picnometer | n.比重瓶 [domain:物理]
+picoammeter | n.皮安计 [domain:电子]
+picocoulomb | n.皮库仑 [domain:物理]
+picodnavirus | skip:unknown
+picohenry | n.皮亨 [domain:物理]
+picolinamide | skip:unknown
+picoline | n.甲基吡啶 [domain:化学]
+picolinium | skip:unknown
+picolinyl | skip:unknown
+picolyl | skip:unknown
+picoperine | skip:unknown
+picotement | skip:unknown
+picotite | n.铬尖晶石 [domain:地质]
+picraconitine | skip:unknown
+picradonidin | skip:unknown
+picral | skip:unknown
+picralluminite | skip:unknown
+picramate | n.苦氨酸盐 [domain:化学]
+picramide | n.三硝基苯胺 [domain:化学]
+picrasmin | skip:unknown
+picrasmine | skip:unknown
+picratol | skip:unknown
+picrin | skip:unknown
+picrinite | skip:unknown
+picro | skip:unknown
+picroaconitine | skip:unknown
+picroadonidin | skip:unknown
+picroadonidine | skip:unknown
+picrocarmine | skip:unknown
+picrochromite | skip:unknown
+picrocrichtonite | skip:unknown
+picrocrocin | n.藏红花苦苷 [domain:化学]
+picroepidote | skip:unknown
+picroerythrin | skip:unknown
+picrofluite | skip:unknown
+picroformal | skip:unknown
+picrogeusia | skip:unknown
+picroglycion | skip:unknown
+picroknebelite | skip:unknown
+picrol | skip:unknown
+picrolite | skip:unknown
+picrolonate | skip:unknown
+picromerite | n.软钾镁矾 [domain:地质]
+picromycin | n.苦霉素 [domain:药学]
+picronigrosin | skip:unknown
+picropharmacolite | skip:unknown
+picropodophyllin | skip:unknown
+picropyrine | skip:unknown
+picrorhiza | skip:not-english
+picrosaccharometer | skip:unknown
+picrosarmine | skip:unknown
+picrosclerotine | skip:unknown
+picrotephroite | skip:unknown
+picrotin | skip:unknown
+picrotone | skip:unknown
+picrotonol | skip:unknown
+picrotoxinin | skip:unknown
+picrotoxinism | n.印防己毒素中毒 [domain:医学]
+picryl | n.三硝基苯基 [domain:化学]
+pictite | skip:unknown
+pictorialization | skip:unknown
+pictun | skip:unknown
+pictural | adj.绘画的
+picturedrome | n.电影院 [uk,dated]
+picturer | skip:unknown
+piculet | n.姬啄木鸟 [domain:动物]
+pidan | n.皮蛋 [domain:烹饪]
+piddler | skip:unknown
+piebaldism | n.斑驳病 [domain:医学]
+piecer | n.接线工 [domain:纺织]
+pieceway | skip:unknown
+piedmontal | adj.山麓的 [domain:地理]
+piedmontite | n.红帘石 [domain:地质]
+piedness | skip:unknown
+piedouche | skip:unknown
+piedraia | skip:unknown
+piedroit | skip:unknown
+pierage | skip:unknown
+pierceable | adj.可刺穿的
+piercement | n.刺穿
+pierid | n.粉蝶 [domain:动物]
+pieridine | skip:unknown
+pierrotage | skip:unknown
+pierrots | skip:not-lemma
+pierrotting | skip:unknown
+piesesthesia | n.压觉 [domain:医学]
+piesimeter | skip:unknown
+piesis | skip:unknown
+piesometer | skip:unknown
+pietraverdite | skip:unknown
+pietricikite | skip:unknown
+piezallochromy | skip:unknown
+pieze | n.皮耶兹 [domain:物理]
+piezesthesia | skip:unknown
+piezobirefringence | n.压致双折射 [domain:物理]
+piezocell | skip:unknown
+piezoceramics | n.压电陶瓷 [domain:物理]
+piezochemistry | n.压力化学 [domain:化学]
+piezochromism | n.压致变色 [domain:化学]
+piezocontrol | skip:unknown
+piezocoupler | skip:unknown
+piezocrystal | n.压电晶体 [domain:物理]
+piezocrystallization | n.压力结晶 [domain:地质]
+piezodialysis | n.压渗析 [domain:化学]
+piezodielectric | skip:unknown
+piezoelectrics | n.压电学 [domain:物理]
+piezoglypt | n.气印 [domain:地质]
+piezograph | skip:unknown
+piezoid | skip:unknown
+piezoisobath | skip:unknown
+piezolighter | skip:unknown
+piezoluminescence | n.压致发光 [domain:物理]
+piezomagnetic | adj.压磁的 [domain:物理]
+piezomagnetism | n.压磁性 [domain:物理]
+piezomagnetization | skip:unknown
+piezometamorphism | n.压力变质作用 [domain:地质]
+piezometric | adj.测压的 [domain:物理]
+piezometry | n.压力测量 [domain:物理]
+piezooptic | adj.压光的 [domain:物理]
+piezoquartz | n.压电石英 [domain:物理]
+piezoresistance | n.压阻 [domain:电子]
+piezoresistivity | n.压阻率 [domain:电子]
+piezoresistor | n.压敏电阻 [domain:电子]
+piezoresonator | n.压电谐振器 [domain:电子]
+piezosensor | n.压电传感器 [domain:电子]
+piezotherapy | n.压力疗法 [domain:医学]
+piezotransistor | n.压电晶体管 [domain:电子]
+piezotropy | skip:unknown
+pifarnine | skip:unknown
+pifoxime | skip:unknown
+pigboat | n.潜艇 [slang,us,domain:军事]
+pigeonhearted | adj.胆小的
+pigeonholer | skip:unknown
+pigeonite | n.易变辉石 [domain:地质]
+pigeonnier | skip:not-english
+pigeontail | skip:unknown
+pigeonwing | skip:unknown
+pigfoot | n.猪蹄
+pigginstring | skip:unknown
+piggywiggy | skip:unknown
+pigilanidotriose | skip:unknown
+pigmental | adj.色素的 [domain:生物]
+pigmentogenesis | n.色素生成 [domain:生物]
+pigmentolysin | skip:unknown
+pigmentolysis | n.色素溶解 [domain:医学]
+pigmentophage | n.噬色素细胞 [domain:医学]
+pigmentophore | n.载色素细胞 [domain:生物]
+pigmentosus | skip:not-english
+pigmentum | skip:not-english
+pignolia | skip:not-english
+pignorate | v.抵押 [domain:法律]
+pignus | skip:not-english
+pigritis | skip:unknown
+pigsney | skip:unknown
+pigwash | n.猪食 [informal]
+pikake | skip:not-english
+pikeblenny | skip:unknown
+pikerism | skip:unknown
+pikestaves | skip:unknown
+pikrococin | skip:unknown
+pikromycin | n.苦霉素 [domain:药学]
+pilae | skip:not-lemma
+pilarium | skip:unknown
+pilary | adj.毛发的 [domain:医学]
+pilastrade | skip:unknown
+pilatory | skip:unknown
+pilbarite | skip:unknown
+pilei | skip:not-lemma
+pileorhiza | n.根冠 [domain:植物]
+pileous | adj.毛发的 [domain:生物]
+piler | skip:unknown
+pileum | n.头顶 [domain:动物]
+pilferable | adj.可偷窃的
+pilgrimize | v.朝圣 [dated]
+piliated | skip:unknown
+piliation | skip:unknown
+pilidium | n.帽状幼虫 [domain:动物]
+pilifer | skip:unknown
+pilifera | skip:unknown
+piliferous | adj.有毛的 [domain:生物]
+piliform | adj.毛状的 [domain:生物]
+piliganine | skip:unknown
+piliger | skip:unknown
+piligerous | adj.有毛的 [domain:生物]
+pilimiction | n.毛发尿 [domain:医学]
+pilite | skip:unknown
+pillaret | skip:unknown
+pillarization | skip:unknown
+pillau | n.抓饭 [domain:烹饪]
+pilleus | skip:unknown
+pilliwinks | n.拶指刑具 [domain:历史]
+pillroller | skip:unknown
+pillular | adj.丸剂的 [domain:药学]
+pillworm | skip:unknown
+pillwort | skip:unknown
+pilobezoar | n.毛粪石 [domain:医学]
+pilocarpidine | skip:unknown
+pilocarpinism | n.毛果芸香碱中毒 [domain:医学]
+pilocarpus | skip:not-english
+pilocereine | skip:unknown
+pilocerine | skip:unknown
+pilocystic | skip:unknown
+pilocystidium | skip:unknown
+pilocytic | adj.毛细胞性的 [domain:医学]
+pilolite | skip:unknown
+pilomatrichoma | n.毛母质瘤 [domain:医学]
+pilomatricoma | n.毛母质瘤 [domain:医学]
+pilomatrixoma | n.毛母质瘤 [domain:医学]
+pilomotor | adj.立毛的 [domain:生物]
+piloncillo | skip:not-english
+piloselloidone | skip:unknown
+pilosine | skip:unknown
+pilosis | n.多毛 [domain:医学]
+pilosity | n.多毛
+pilosomycin | skip:unknown
+pilous | adj.多毛的
+pilsenite | skip:unknown
+pilula | skip:not-english
+pilulae | skip:not-english
+pilular | adj.丸剂的 [domain:药学]
+pilulary | skip:unknown
+pilulous | skip:unknown
+pily | skip:unknown
+pimanthrene | skip:unknown
+pimaradiene | skip:unknown
+pimarate | skip:unknown
+pimarene | skip:unknown
+pimaricin | n.匹马菌素 [domain:药学]
+pimarinal | skip:unknown
+pimarinol | skip:unknown
+pimarol | skip:unknown
+pimeclone | skip:unknown
+pimefylline | skip:unknown
+pimelate | n.庚二酸盐 [domain:化学]
+pimelic | adj.庚二酸的 [domain:化学]
+pimelinketone | skip:unknown
+pimelite | skip:unknown
+pimelitis | n.脂肪组织炎 [domain:医学]
+pimelodid | skip:unknown
+pimeloma | n.脂肪瘤 [domain:医学]
+pimelopterygium | skip:unknown
+pimelorrhea | skip:unknown
+pimelorthopnea | skip:unknown
+pimelosis | skip:unknown
+pimeluria | n.脂肪尿 [domain:医学]
+piment | skip:unknown
+pimentary | skip:unknown
+pimenton | skip:not-english
+piminodine | skip:unknown
+pimpinella | skip:not-english
+pimpinellin | skip:unknown
+pimpliness | skip:unknown
+pimpmobile | skip:unknown
+pinachrome | skip:unknown
+pinacocyte | n.扁平细胞 [domain:动物]
+pinacoid | n.平行双面 [domain:地质]
+pinacoidal | adj.平行双面的 [domain:地质]
+pinacol | n.频哪醇 [domain:化学]
+pinacolada | skip:unknown
+pinacolin | n.频哪酮 [domain:化学]
+pinacoline | n.频哪酮 [domain:化学]
+pinacolone | n.频哪酮 [domain:化学]
+pinacolyl | skip:unknown
+pinacone | skip:unknown
+pinaculum | skip:unknown
+pinacyanol | skip:unknown
+pinacyanole | skip:unknown
+pinakiolite | skip:unknown
+pinakoid | n.平行双面 [domain:地质]
+pinakryptol | skip:unknown
+pinales | skip:not-english
+pinane | n.蒎烷 [domain:化学]
+pinaverdol | skip:unknown
+pinax | skip:unknown
+pinazepam | skip:unknown
+pincement | skip:unknown
+pincerlike | adj.钳状的
+pincette | skip:unknown
+pinchfist | n.吝啬鬼 [dated]
+pinchgut | n.吝啬鬼 [dated]
+pincushioning | n.枕形畸变 [domain:电子]
+pindan | skip:unknown
+pindolol | n.吲哚洛尔 [domain:药学]
+pindone | skip:unknown
+pinealectomize | v.切除松果体 [domain:医学]
+pinealectomy | n.松果体切除术 [domain:医学]
+pinealism | skip:unknown
+pinealoblastoma | n.松果体母细胞瘤 [domain:医学]
+pinealoma | n.松果体瘤 [domain:医学]
+pinealopathy | n.松果体病 [domain:医学]
+pinedrops | skip:unknown
+pineoblastoma | n.松果体母细胞瘤 [domain:医学]
+pinesap | n.松下兰 [domain:植物]
+pineweed | skip:unknown
+pinfeed | n.针孔送纸 [domain:计算机]
+pingable | adj.可探测连通的 [domain:计算机]
+pingle | skip:unknown
+pinguecula | n.睑裂斑 [domain:医学]
+pinguecule | n.睑裂斑 [domain:医学]
+pinguinain | skip:unknown
+pinguite | skip:unknown
+pinhold | skip:unknown
+pinholder | skip:unknown
+pinholing | skip:unknown
+pinhooking | skip:unknown
+pinic | skip:unknown
+piniform | skip:unknown
+piningly | adv.渴望地
+pinipicrin | skip:unknown
+pinit | skip:unknown
+pinite | n.块云母 [domain:地质]
+pinitol | n.松醇 [domain:化学]
+pinken | v.变粉红
+pinkeyed | adj.红眼的
+pinkify | v.使变粉红
+pinkling | skip:unknown
+pinkly | adv.呈粉红色地
+pinkroot | n.驱虫草 [domain:植物]
+pinksome | skip:unknown
+pinkwash | skip:unknown
+pinkweed | skip:unknown
+pinkwort | skip:unknown
+pinlay | skip:unknown
+pinnaglobin | skip:unknown
+pinnal | adj.耳廓的 [domain:解剖]
+pinnatilobate | adj.羽状浅裂的 [domain:植物]
+pinnation | n.羽状 [domain:植物]
+pinnatipartite | adj.羽状深裂的 [domain:植物]
+pinnatiped | skip:unknown
+pinnatisect | adj.羽状全裂的 [domain:植物]
+pinniform | adj.羽状的 [domain:生物]
+pinnigrade | adj.鳍行的 [domain:动物]
+pinninerved | adj.羽状脉的 [domain:植物]
+pinnings | skip:unknown
+pinnipedia | skip:not-english
+pinnoite | n.板硼镁石 [domain:地质]
+pinnotherid | n.豆蟹 [domain:动物]
+pinnotheridae | skip:not-english
+pinnula | skip:unknown
+pinnulae | skip:not-lemma
+pinnulate | adj.有小羽片的 [domain:植物]
+pinnulated | adj.有小羽片的 [domain:植物]
+pinobanksin | skip:unknown
+pinocamphane | skip:unknown
+pinocampheol | skip:unknown
+pinocamphone | skip:unknown
+pinocarveol | skip:unknown
+pinocarvone | skip:unknown
+pinocyte | skip:unknown
+pinocytic | adj.胞饮的 [domain:生物]
+pinocytize | v.胞饮 [domain:生物]
+pinocytized | adj.被胞饮的 [domain:生物]
+pinocytotic | adj.胞饮的 [domain:生物]
+pinocytotically | adv.以胞饮方式 [domain:生物]
+pinoglycol | skip:unknown
+pinol | skip:unknown
+pinola | skip:unknown
+pinoline | skip:unknown
+pinolite | skip:unknown
+pinomyricetin | skip:unknown
+pinone | skip:unknown
+pinoquercetin | skip:unknown
+pinoresinol | n.松脂素 [domain:化学]
+pinosome | n.胞饮体 [domain:生物]
+pinostrobin | skip:unknown
+pinosylvin | skip:unknown
+pinosylvine | skip:unknown
+pinotherapy | skip:unknown
+pinous | skip:unknown
+pintadoite | skip:unknown
+pinule | skip:unknown
+pinulus | skip:unknown
+pinweed | skip:unknown
+pinwork | skip:unknown
+piomycin | skip:unknown
+pionemia | skip:unknown
+pionic | adj.π介子的 [domain:物理]
+pionium | n.π介子素 [domain:物理]
+pionization | skip:unknown
+piontherapy | skip:unknown
+piorthopnea | skip:unknown
+pioscope | skip:unknown
+pipacycline | skip:unknown
+pipage | n.管道输送
+pipamazine | skip:unknown
+pipamperone | n.匹泮哌隆 [domain:药学]
+pipazethate | skip:unknown
+pipeage | n.管道输送
+pipebuzone | skip:unknown
+pipecoline | n.甲基哌啶 [domain:化学]
+pipejack | skip:unknown
+pipeless | adj.无管的
+pipelike | adj.管状的
+pipeman | skip:unknown
+piperaceous | adj.胡椒科的 [domain:植物]
+piperacetazine | skip:unknown
+piperalin | skip:unknown
+piperamide | skip:unknown
+piperazidine | skip:unknown
+piperazin | n.哌嗪 [domain:化学]
+piperazinedione | skip:unknown
+piperazinium | skip:unknown
+piperic | skip:unknown
