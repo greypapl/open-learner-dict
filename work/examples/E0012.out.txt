@@ -1,0 +1,300 @@
+w001270.1 | The weather is even worse than yesterday. | 天气比昨天还要糟糕。
+w001270.2 | She felt worse after taking the medicine. | 吃了药以后她感觉病得更重了。
+w001270.3 | He played worse than ever in the final. | 他在决赛中发挥得比以往任何时候都差。
+w001271.1 | Christmas is an important Christian festival. | 圣诞节是一个重要的基督教节日。
+w001271.2 | Her family are Christians and go to church every week. | 她一家都是基督徒，每周都去教堂。
+w001272.1 | Can you give me some advice about buying a laptop? | 你能给我一些买笔记本电脑的建议吗？
+w001273.1 | The two companies signed an agreement last week. | 两家公司上周签署了一项协议。
+w001273.2 | We are in agreement on most points. | 我们在大多数问题上意见一致。
+w001274.1 | She won an award for her first novel. | 她的第一部小说获了奖。
+w001274.2 | He was awarded a prize for bravery. | 他因英勇行为被授予奖项。
+w001274.3 | The court made an award of ten thousand pounds. | 法院裁定赔偿一万英镑。
+w001275.1 | The statue was cut from a block of stone. | 这座雕像是用一整块石头雕成的。
+w001275.2 | They live in a big block of flats. | 他们住在一栋大型公寓楼里。
+w001275.3 | A fallen tree was blocking the road. | 一棵倒下的树挡住了道路。
+w001275.4 | I blocked him after he sent me rude messages. | 他给我发了无礼的信息后，我把他拉黑了。
+w001276.1 | My phone is broken, so I can't call you. | 我的手机坏了，所以没法给你打电话。
+w001276.2 | She comes from a broken home. | 她来自一个破裂的家庭。
+w001276.3 | He asked for help in broken English. | 他用蹩脚的英语求助。
+w001277.1 | Learning a new language is a real challenge. | 学习一门新语言是真正的挑战。
+w001277.2 | Nobody dared to challenge the teacher's decision. | 没有人敢质疑老师的决定。
+w001277.3 | He challenged me to a game of chess. | 他向我挑战下一盘国际象棋。
+w001278.1 | Do you have any comments on my essay? | 你对我的文章有什么意见吗？
+w001278.2 | The minister refused to comment on the news. | 部长拒绝对这一消息发表评论。
+w001279.1 | We went cross-country skiing in the mountains. | 我们去山里进行了越野滑雪。
+w001279.2 | They drove on a cross-country trip from coast to coast. | 他们驾车横贯全国，从一边海岸开到另一边海岸。
+w001279.3 | She came second in the school cross-country. | 她在学校越野赛中得了第二名。
+w001280.1 | The gym has all the latest equipment. | 这家健身房有各种最新的器材。
+w001281.1 | After many tries, he eventually passed his driving test. | 经过多次尝试，他最终通过了驾驶考试。
+w001282.1 | Jerusalem is a holy city for several religions. | 耶路撒冷是几种宗教的圣城。
+w001282.2 | He was a holy man who lived a simple life. | 他是一位过着简朴生活的虔诚之人。
+w001283.1 | The police are investigating the killing. | 警方正在调查这起谋杀案。
+w001283.2 | They made a killing on the sale of their house. | 他们卖房子大赚了一笔。
+w001283.3 | The long walk up the hill was killing. | 爬山的那段长路真是累死人了。
+w001284.1 | The whole nation celebrated the victory. | 全国都在庆祝这场胜利。
+w001284.2 | The Navajo nation has its own language and traditions. | 纳瓦霍族有自己的语言和传统。
+w001285.1 | Hurry up, otherwise we'll miss the bus. | 快点，要不然我们就赶不上公共汽车了。
+w001285.2 | The soup was cold, but otherwise the meal was good. | 汤是凉的，但除此之外这顿饭很好。
+w001285.3 | He says he's rich, but I think otherwise. | 他说他很有钱，但我不这么认为。
+w001286.1 | The conversation slowly petered out. | 谈话渐渐地没了声音。
+w001287.1 | Our primary concern is the safety of the children. | 我们首要关心的是孩子们的安全。
+w001287.2 | My son goes to a primary school near our house. | 我儿子在我家附近的一所小学上学。
+w001287.3 | She won the primary and will run for governor. | 她赢得了初选，将竞选州长。
+w001288.1 | What is the purpose of your visit? | 你来访的目的是什么？
+w001288.2 | She works with a strong sense of purpose. | 她做事很有决心。
+w001289.1 | Parents are responsible for their children's safety. | 父母对孩子的安全负有责任。
+w001289.2 | Who was responsible for the accident? | 谁应对这起事故负责？
+w001289.3 | She is a very responsible young woman. | 她是一个非常可靠的年轻女子。
+w001290.1 | Is there a shop near here that sells milk? | 这附近有卖牛奶的商店吗？
+w001290.2 | We usually shop on Saturday mornings. | 我们通常在星期六上午购物。
+w001290.3 | He fixes bikes in a small repair shop. | 他在一个小修理车间修自行车。
+w001291.1 | I can't come to school because I'm sick. | 我生病了，不能去上学。
+w001291.2 | I felt sick on the boat. | 我在船上觉得恶心想吐。
+w001291.3 | I'm sick of eating the same food every day. | 我厌倦了每天吃同样的饭菜。
+w001292.1 | My mother is a music teacher. | 我妈妈是音乐老师。
+w001293.1 | He studied the theory of evolution at university. | 他在大学里研究了进化论。
+w001293.2 | I have a theory about why she left. | 关于她为什么离开，我有自己的推测。
+w001293.3 | We learned music theory before playing the piano. | 我们在弹钢琴之前先学了乐理。
+w001294.1 | The under-secretary met the visitors at the airport. | 副部长在机场迎接了来访者。
+w001296.1 | Let's go to the cinema on Saturday. | 我们星期六去看电影吧。
+w001297.1 | She found her job through an employment agency. | 她是通过一家职业中介找到工作的。
+w001297.2 | The space agency launched a new satellite. | 航天局发射了一颗新卫星。
+w001298.1 | Drive carefully to avoid accidents. | 小心驾驶以避免事故。
+w001298.2 | I think she's avoiding me. | 我觉得她在躲着我。
+w001299.1 | I took this photo with my new camera. | 这张照片是我用新相机拍的。
+w001300.1 | He threw the ball and I caught it. | 他把球扔过来，我接住了。
+w001300.2 | I have to catch the last bus home. | 我得赶最后一班公共汽车回家。
+w001300.3 | I caught a cold from my sister. | 我被姐姐传染了感冒。
+w001300.4 | It sounds too good to be true; what's the catch? | 这听起来好得令人难以置信，有什么猫腻吗？
+w001300.5 | The fishermen had a good catch today. | 渔民们今天收获很大。
+w001301.1 | The human body is made up of millions of cells. | 人体由数以百万计的细胞组成。
+w001301.2 | The prisoner was locked in his cell. | 囚犯被锁在他的牢房里。
+w001301.3 | Call me on my cell if you get lost. | 如果你迷路了，就打我手机。
+w001302.1 | We spent a week on the coast. | 我们在海边待了一周。
+w001302.2 | The car coasted down the hill. | 汽车顺着山坡滑行下去。
+w001302.3 | Our team coasted to an easy win. | 我们队轻松取胜。
+w001303.1 | The police found drugs in his car. | 警察在他的车里发现了毒品。
+w001303.2 | Scientists are testing a new drug for heart disease. | 科学家正在测试一种治疗心脏病的新药。
+w001303.3 | The thieves drugged the guard dog. | 小偷给看门狗下了药。
+w001304.1 | The economy grew by three percent last year. | 去年经济增长了百分之三。
+w001304.2 | For reasons of economy, we turned off the heating. | 为了节约，我们把暖气关了。
+w001304.3 | We flew economy class to save money. | 为了省钱，我们坐了经济舱。
+w001305.1 | We must do more to protect the environment. | 我们必须采取更多措施保护环境。
+w001305.2 | Children need a safe and happy environment. | 孩子们需要一个安全快乐的环境。
+w001305.3 | The program runs in a Windows environment. | 这个程序在Windows环境下运行。
+w001306.1 | She is a senior executive at a large bank. | 她是一家大银行的高管。
+w001306.2 | The president holds executive power. | 总统掌握行政权。
+w001306.3 | They booked an executive room at the hotel. | 他们在酒店订了一间行政豪华房。
+w001307.1 | I hurt my foot playing football. | 我踢足球时伤了脚。
+w001307.2 | The room is twelve feet long. | 这个房间长十二英尺。
+w001307.3 | Sign your name at the foot of the page. | 在页面底部签上你的名字。
+w001307.4 | My parents footed the bill for the party. | 我父母支付了聚会的费用。
+w001308.1 | The concert will be held in the town hall. | 音乐会将在市政厅举行。
+w001308.2 | Leave your coat in the hall. | 把外套留在门厅里吧。
+w001308.3 | First-year students usually live in hall. | 一年级学生通常住在学生宿舍。
+w001309.1 | She goes to a keep-fit class twice a week. | 她每周上两次健身操课。
+w001310.1 | There was a mass of papers on his desk. | 他的桌上有一大堆文件。
+w001310.2 | Television is a form of mass entertainment. | 电视是一种大众娱乐形式。
+w001310.3 | The mass of an object does not change with gravity. | 物体的质量不随重力变化。
+w001310.4 | They go to Mass every Sunday morning. | 他们每个星期天早上都去望弥撒。
+w001310.5 | Crowds massed outside the stadium. | 人群聚集在体育场外。
+w001311.1 | What's the meaning of this word? | 这个词是什么意思？
+w001311.2 | Helping others gave her life meaning. | 帮助别人让她的生活有了意义。
+w001312.1 | The astronauts' mission is to repair the satellite. | 宇航员的任务是修理卫星。
+w001312.2 | A trade mission visited China last month. | 一个贸易代表团上个月访问了中国。
+w001312.3 | The church runs a mission in a small village. | 教会在一个小村庄设有传教点。
+w001313.1 | The shop opens at nine. | 这家商店九点开门。
+w001314.1 | She wants to go into politics after university. | 她大学毕业后想从政。
+w001314.2 | I don't agree with his politics. | 我不同意他的政治观点。
+w001314.3 | He is studying politics at university. | 他在大学学习政治学。
+w001315.1 | My sister loves listening to pop. | 我妹妹喜欢听流行音乐。
+w001315.2 | The balloon popped when it touched the light. | 气球碰到灯，砰的一声爆了。
+w001315.3 | I'll just pop into the shop for some milk. | 我去商店买点牛奶，马上回来。
+w001315.4 | Can I have a bottle of pop, please? | 请给我一瓶汽水好吗？
+w001315.5 | My pop taught me how to fish. | 我爸爸教我钓鱼。
+w001316.1 | Doctors have a high status in society. | 医生在社会上地位很高。
+w001316.2 | You can check the status of your order online. | 你可以在网上查看订单状态。
+w001316.3 | What is your marital status? | 你的婚姻状况如何？
+w001317.1 | He was ill and therefore couldn't come. | 他生病了，因此没能来。
+w001318.1 | The trial lasted for two weeks. | 审判持续了两个星期。
+w001318.2 | The new drug is still in trials. | 这种新药仍在试验阶段。
+w001318.3 | My little brother can be a real trial sometimes. | 我弟弟有时候真让人头疼。
+w001318.4 | The school is trialling a new timetable. | 学校正在试行新的课程表。
+w001319.1 | I'm truly sorry for what happened. | 对发生的事我真的很抱歉。
+w001319.2 | The film truly shows life in the village. | 这部电影如实地反映了村里的生活。
+w001320.1 | What's the weather like today? | 今天天气怎么样？
+w001320.2 | The company managed to weather the crisis. | 公司设法渡过了这次危机。
+w001320.3 | The stone walls have weathered over the years. | 这些石墙经过多年已经风化了。
+w001321.1 | It is a well-established tradition in our town. | 这是我们镇上一项历史悠久的传统。
+w001322.1 | I downloaded a new APP for learning English. | 我下载了一个学英语的新应用。
+w001323.1 | The school offers many after-school activities. | 学校提供许多课外活动。
+w001323.2 | The kitchen was full of activity before dinner. | 晚饭前厨房里一片忙碌。
+w001324.1 | I sent my application for the job yesterday. | 我昨天投了这份工作的申请。
+w001324.2 | The application of new technology has improved farming. | 新技术的应用改善了农业。
+w001324.3 | You can open the application on your computer. | 你可以在电脑上打开这个应用程序。
+w001325.1 | Would you like a cup of coffee? | 你想喝杯咖啡吗？
+w001325.2 | I bought a bag of coffee at the supermarket. | 我在超市买了一袋咖啡豆。
+w001325.3 | She wore a coffee jacket with white buttons. | 她穿着一件钉白色纽扣的咖啡色外套。
+w001326.1 | This is a complex problem with no easy answer. | 这是一个复杂的问题，没有简单的答案。
+w001326.2 | They built a new sports complex near the river. | 他们在河边建了一座新的体育综合馆。
+w001326.3 | He has a complex about his height. | 他对自己的身高有心理障碍。
+w001327.1 | The car is in very good condition. | 这辆车车况很好。
+w001327.2 | You can go out on condition that you finish your homework. | 你可以出去，前提是先做完作业。
+w001327.3 | She has a serious heart condition. | 她患有严重的心脏病。
+w001327.4 | Children are conditioned by what they see on TV. | 孩子们受到电视上所见内容的影响。
+w001328.1 | There was a fair division of the money among the brothers. | 兄弟们公平地分配了这笔钱。
+w001328.2 | He works in the sales division of the company. | 他在公司的销售部工作。
+w001328.3 | The children are learning division at school. | 孩子们正在学校学习除法。
+w001329.1 | What are you doing this evening? | 你今晚做什么？
+w001329.2 | The school held an evening of music and poetry. | 学校举办了一场音乐诗歌晚会。
+w001330.1 | Our flight was delayed by two hours. | 我们的航班延误了两个小时。
+w001330.2 | We watched the birds in flight. | 我们看着鸟儿飞行。
+w001330.3 | Her flat is up two flights of stairs. | 她的公寓要上两段楼梯。
+w001331.1 | Everyone should have freedom of speech. | 每个人都应该有言论自由。
+w001331.2 | The new law gives people freedom from fear. | 新法律使人们免于恐惧。
+w001333.1 | I can't work in this heat. | 这么热我没法工作。
+w001333.2 | Heat the milk in a small pan. | 用小锅把牛奶加热。
+w001333.3 | She won her heat and reached the final. | 她赢了预赛，进入了决赛。
+w001333.4 | Can you turn the heat up? It's cold in here. | 你能把暖气调高点吗？这里很冷。
+w001334.1 | I have a job interview tomorrow morning. | 我明天上午有一场工作面试。
+w001334.2 | The singer gave an interview to a magazine. | 那位歌手接受了一家杂志的采访。
+w001334.3 | The police interviewed several witnesses. | 警方询问了几名证人。
+w001335.1 | I borrowed this book from the library. | 这本书是我从图书馆借的。
+w001335.2 | He has a large library of old films. | 他收藏了大量老电影。
+w001335.3 | The program uses a library for drawing charts. | 这个程序使用了一个绘制图表的库。
+w001337.1 | The hotel is in a quiet location near the beach. | 这家酒店位于海滩附近一个安静的地方。
+w001337.2 | The film was shot on location in Scotland. | 这部电影是在苏格兰实地拍摄的。
+w001337.3 | The app helps with the location of lost phones. | 这款应用可以帮助定位丢失的手机。
+w001338.1 | He was found guilty of murder. | 他被判谋杀罪成立。
+w001338.2 | The man was murdered in his home. | 那个男人在家中被谋杀。
+w001338.3 | Driving in the rush hour is murder. | 在高峰时段开车简直是活受罪。
+w001340.1 | I closed the annoying pop-up and kept reading. | 我关掉那个烦人的弹出窗口，继续阅读。
+w001340.2 | This website is full of pop-up ads. | 这个网站上满是弹出式广告。
+w001340.3 | A pop-up shop opened in the station for a week. | 车站里开了一家为期一周的快闪店。
+w001341.1 | The queen visited the city last year. | 女王去年访问了这座城市。
+w001341.2 | She moved her queen and won the game. | 她走了一步王后，赢了这盘棋。
+w001341.3 | Only the queen lays eggs in a bee colony. | 在蜂群中只有蜂王产卵。
+w001342.1 | They had a sit-down dinner for fifty guests. | 他们为五十位客人办了一场正式的晚宴。
+w001342.2 | Workers held a sit-down strike in the factory. | 工人们在工厂里举行静坐罢工。
+w001342.3 | Let's have a sit-down before we walk on. | 我们先坐下歇会儿再往前走吧。
+w001343.1 | The scandal damaged his standing in the town. | 这桩丑闻损害了他在镇上的声望。
+w001343.2 | The club has a standing committee for events. | 俱乐部设有一个负责活动的常设委员会。
+w001343.3 | The audience gave her a standing ovation. | 观众起立为她鼓掌。
+w001343.4 | Our team is near the top of the standings. | 我们队在排名中接近榜首。
+w001344.1 | Walking is good exercise. | 步行是很好的锻炼。
+w001344.2 | Bring a good pair of walking boots. | 带一双好的徒步靴。
+w001346.1 | Please accept this small gift. | 请收下这份小礼物。
+w001346.2 | He refused to accept that he was wrong. | 他拒不承认自己错了。
+w001346.3 | She was accepted by three universities. | 她被三所大学录取了。
+w001347.1 | The actual cost was much higher than we expected. | 实际费用比我们预计的高得多。
+w001347.2 | The actual wedding only lasted twenty minutes. | 婚礼本身只持续了二十分钟。
+w001348.1 | She appeared to be very tired. | 她看起来很累。
+w001348.2 | A face appeared at the window. | 窗口出现了一张脸。
+w001348.3 | He has appeared in several films. | 他出演过几部电影。
+w001349.1 | He made an attempt to climb the mountain. | 他尝试攀登那座山。
+w001349.2 | Don't attempt to fix it yourself. | 别试图自己修理它。
+w001350.1 | I can't come out tonight; I'm broke. | 我今晚不能出去，我身无分文了。
+w001351.1 | What's on the other channel? | 另一个频道在放什么？
+w001351.2 | You should complain through the proper channels. | 你应该通过正当渠道投诉。
+w001351.3 | The ship sailed through a narrow channel. | 船驶过一条狭窄的水道。
+w001351.4 | She channelled all her energy into her studies. | 她把全部精力都投入到学习中。
+w001352.1 | What's the distance from here to the station? | 从这里到车站有多远？
+w001352.2 | We could see the mountains in the distance. | 我们能看到远处的群山。
+w001352.3 | There was a certain distance between the two sisters. | 两姐妹之间有些疏远。
+w001352.4 | He has distanced himself from his old friends. | 他已经和老朋友疏远了。
+w001353.1 | The school has an exchange programme with a school in France. | 学校与法国的一所学校有交流项目。
+w001353.2 | Can I exchange this shirt for a smaller size? | 我能把这件衬衫换成小一号的吗？
+w001353.3 | What's the exchange rate for dollars today? | 今天美元的汇率是多少？
+w001353.4 | His company is listed on the stock exchange. | 他的公司在证券交易所上市。
+w001354.1 | The doctor told him he was getting fat. | 医生告诉他他越来越胖了。
+w001354.2 | This meat has too much fat on it. | 这块肉的脂肪太多了。
+w001354.3 | She received a fat cheque for her work. | 她的工作得到了一张金额丰厚的支票。
+w001355.1 | They felled the old tree in the park. | 他们砍倒了公园里那棵老树。
+w001355.2 | He felled his opponent with one punch. | 他一拳就把对手打倒了。
+w001355.3 | We walked over the fells near the lake. | 我们走过湖边的荒丘。
+w001356.1 | The findings of the study were published last month. | 这项研究的结果于上个月发表。
+w001356.2 | The judge's finding was that he was not guilty. | 法官的裁决是他无罪。
+w001357.1 | The bowl is made of glass. | 这个碗是玻璃做的。
+w001357.2 | Could I have a glass of water, please? | 请给我一杯水好吗？
+w001357.3 | I need glasses to read small print. | 我看小字需要戴眼镜。
+w001358.1 | He was a learned man who spoke six languages. | 他是一位会说六种语言的博学之士。
+w001358.2 | The article appeared in a learned journal. | 这篇文章发表在一份学术期刊上。
+w001358.3 | Fear of the dark is often learned behaviour. | 怕黑往往是后天习得的行为。
+w001359.1 | The library has a mobile unit that visits villages. | 图书馆有一辆流动服务车前往各个村庄。
+w001359.2 | Give me a call on my mobile. | 打我手机吧。
+w001359.3 | Most people now shop using mobile devices. | 现在大多数人用移动设备购物。
+w001360.1 | It often snows in northern parts of the country. | 这个国家的北部地区经常下雪。
+w001361.1 | The on-screen instructions are easy to follow. | 屏幕上的说明很容易照着做。
+w001361.2 | The two actors kiss on-screen for the first time. | 这两位演员第一次在银幕上接吻。
+w001362.1 | He is one of the most powerful men in the country. | 他是这个国家最有权势的人之一。
+w001362.2 | The film sends a powerful message. | 这部电影传递了一个强有力的信息。
+w001363.1 | You need prior experience for this job. | 这份工作需要有先前的经验。
+w001363.2 | The suspect had two priors for theft. | 嫌疑人有两次盗窃前科。
+w001363.3 | The prior welcomed the visitors to the priory. | 小修道院院长欢迎来访者来到修道院。
+w001364.1 | The law gives protection to wild animals. | 这项法律为野生动物提供保护。
+w001364.2 | A good coat is the best protection against the cold. | 一件好大衣是最好的防寒措施。
+w001365.1 | Did you receive my email? | 你收到我的电子邮件了吗？
+w001365.2 | He received serious injuries in the crash. | 他在撞车事故中受了重伤。
+w001365.3 | The guests were received at the door by the host. | 主人在门口接待客人。
+w001366.1 | Christmas is a religious holiday. | 圣诞节是一个宗教节日。
+w001366.2 | My grandmother is very religious. | 我祖母非常虔诚。
+w001366.3 | He cleans his bike with religious care. | 他一丝不苟地清洁自己的自行车。
+w001367.1 | Can you ride a bike? | 你会骑自行车吗？
+w001367.2 | We rode the bus into town. | 我们坐公共汽车进城。
+w001367.3 | Can you give me a ride to the station? | 你能开车送我到车站吗？
+w001367.4 | The children went on all the rides at the fair. | 孩子们在游乐场把所有游乐设施都玩遍了。
+w001368.1 | The royal family lives in the palace. | 王室成员住在宫殿里。
+w001368.2 | The team was given a royal welcome. | 球队受到了盛大的欢迎。
+w001368.3 | Crowds waited to see the royals arrive. | 人群等着看王室成员到来。
+w001369.1 | My computer screen is too small. | 我的电脑屏幕太小了。
+w001369.2 | She was a star of the big screen in the 1950s. | 她是二十世纪五十年代的大银幕明星。
+w001369.3 | She changed behind a screen. | 她在屏风后面换衣服。
+w001369.4 | All women over fifty are screened for the disease. | 所有五十岁以上的女性都要接受该病筛查。
+w001369.5 | The film will be screened on TV next week. | 这部电影将于下周在电视上播放。
+w001370.1 | Dinner is served at seven o'clock. | 晚餐七点供应。
+w001370.2 | He served in the army for ten years. | 他在军队服役了十年。
+w001370.3 | This old box will serve as a table. | 这个旧箱子可以当桌子用。
+w001370.4 | She has a very fast serve. | 她发球很快。
+w001371.1 | The bus was very slow this morning. | 今天早上公共汽车很慢。
+w001371.2 | Slow down, you're driving too fast! | 慢点，你开得太快了！
+w001371.3 | He's a bit slow at maths. | 他数学理解得有点慢。
+w001371.4 | Could you speak slow, please? | 请你说慢一点好吗？
+w001372.1 | Many species of bird live in this forest. | 许多种鸟生活在这片森林里。
+w001372.2 | Honest politicians are a rare species. | 诚实的政客是一种罕见的类型。
+w001373.1 | She gave a speech at her sister's wedding. | 她在姐姐的婚礼上发表了讲话。
+w001373.2 | He lost the power of speech after the accident. | 事故后他丧失了说话能力。
+w001373.3 | His speech was slow and clear. | 他说话又慢又清楚。
+w001374.1 | There was heavy traffic on the way to work. | 上班路上交通很拥堵。
+w001374.2 | The website gets a lot of traffic at night. | 这个网站晚上访问量很大。
+w001374.3 | The police are trying to stop the traffic in drugs. | 警方正努力制止毒品走私。
+w001374.4 | The gang trafficked wild animals across the border. | 这个团伙跨境贩运野生动物。
+w001375.1 | The children climbed the tree in the garden. | 孩子们爬上了花园里的那棵树。
+w001375.2 | She drew a family tree for her school project. | 她为学校的作业画了一张家谱树状图。
+w001376.1 | Tonight's match is England vs France. | 今晚的比赛是英格兰对法国。
+w001377.1 | Whom did you see at the party? | 你在聚会上见到了谁？
+w001377.2 | The woman to whom I spoke was very helpful. | 和我交谈的那位女士非常乐于助人。
+w001378.1 | We had a wonderful time at the beach. | 我们在海边玩得非常开心。
+w001380.1 | I'll meet you at the airport. | 我会去机场接你。
+w001381.1 | Let's begin the lesson. | 我们开始上课吧。
+w001381.2 | The film begins at eight o'clock. | 电影八点开始。
+w001382.1 | The keys were at the bottom of my bag. | 钥匙在我包的最底下。
+w001382.2 | The book is on the bottom shelf. | 那本书在最底下一层书架上。
+w001382.3 | The baby fell on his bottom. | 婴儿一屁股摔坐在地上。
+w001382.4 | There's a small shed at the bottom of the garden. | 花园尽头有一个小棚子。
+w001383.1 | They lived in a broken-down old house. | 他们住在一座破旧的老房子里。
+w001383.2 | A broken-down truck was blocking the road. | 一辆抛锚的卡车挡住了道路。
+w001384.1 | The workers' demands for more pay were refused. | 工人们加薪的要求被拒绝了。
+w001384.2 | There is a great demand for nurses. | 对护士的需求很大。
+w001384.3 | She demanded to see the manager. | 她要求见经理。
+w001384.4 | This job demands a lot of patience. | 这份工作需要很大的耐心。
+w001385.1 | The car's engine wouldn't start. | 汽车的发动机启动不了。
+w001385.2 | The engine pulled ten coaches. | 火车头拉着十节车厢。
+w001385.3 | Small businesses are the engine of the economy. | 小企业是经济的驱动力。
+w001386.1 | Everybody in my class likes her. | 我们班每个人都喜欢她。
+w001387.1 | Paris is famous for its museums. | 巴黎以博物馆著称。
+w001388.1 | Buying a house is a good investment. | 买房是一项不错的投资。
+w001388.2 | Learning a language needs a big investment of time. | 学一门语言需要投入大量时间。
+w001389.1 | I lay on the bed and fell asleep. | 我躺在床上睡着了。
+w001389.2 | Don't lie to me. | 别对我撒谎。
+w001389.3 | He told a lie about his age. | 他在年龄上撒了谎。
+w001389.4 | The town lies on the east bank of the river. | 这个小镇位于河的东岸。

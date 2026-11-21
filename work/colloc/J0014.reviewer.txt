@@ -1,0 +1,116 @@
+an air traffic controller | delete:phrase
+a management consultant | delete:phrase
+a medical consultant | adj+n | 顾问医生 | consultant
+a walk-in closet | delete:phrase
+a bird cage | delete:phrase
+a log cabin | delete:phrase
+a cabin crew | delete:phrase
+a boundary dispute | delete:free
+the availability of sth | delete:free
+an arrow points to sth | delete:free
+a political activist | delete:free
+a human rights activist | delete:free
+in accordance with sth | delete:phrase
+a variable factor | delete:rare
+a tribe member | delete:wrong
+a mountain ridge | delete:free
+rev up the engine | delete:phrase
+in pursuit of sth | delete:phrase
+the pursuit of happiness | delete:phrase
+a linear relationship | delete:free
+a tropical jungle | delete:free
+a jewelry box | delete:free
+a user interface | delete:phrase
+heal quickly | delete:free
+a ham sandwich | delete:free
+divide into sth | v+prep | 分成若干部分 | divide
+a nosedive | delete:phrase
+a deer hunter | delete:free
+a tight deadline | adj+n | 紧迫的期限 | deadline
+a school curriculum | delete:free
+the national curriculum | delete:phrase
+cruel and unusual | delete:phrase
+a climbing frame | delete:phrase
+a lucky charm | delete:phrase
+a banner headline | delete:phrase
+a banner ad | delete:phrase
+athletic ability | delete:free
+a witch hunt | delete:phrase
+a swing voter | delete:phrase
+a postage stamp | delete:phrase
+a rubber stamp | delete:phrase
+silk scarf | delete:free
+a sergeant major | delete:phrase
+a selfish desire | delete:free
+a large proportion of sth | n+n | 很大一部分 | proportion
+a strong preference for sth | adj+n | 对某物的强烈偏好 | preference
+mashed potato | delete:phrase
+baked potato | delete:phrase
+boiled potato | delete:free
+keep sth to a minimum | delete:phrase
+computer keyboard | delete:free
+hit a key on the keyboard | delete:free
+hybrid vehicle | delete:phrase
+in perfect harmony | delete:phrase
+get a grip on sth | delete:phrase
+generic drug | delete:phrase
+editorial board | delete:phrase
+editorial comment | delete:free
+dental care | delete:free
+dental treatment | delete:free
+bring sth to a closure | delete:wrong
+school closure | delete:free
+professional athlete | delete:free
+on alternate days | delete:phrase
+shocking news | delete:free
+purely for the sake of sth | delete:phrase
+publish a book | delete:free
+publish a report | delete:free
+service provider | delete:phrase
+healthcare provider | delete:phrase
+monetary fund | delete:phrase
+matching socks | delete:free
+lung disease | delete:free
+lung capacity | delete:phrase
+squeeze a lemon | v+n | 挤柠檬 | lemon,squeeze
+import goods | delete:free
+import ban | delete:free
+hurricane warning | delete:phrase
+hurricane damage | delete:free
+faithful friend | delete:free
+declaration of independence | delete:phrase
+customs declaration | delete:phrase
+cliff edge | delete:phrase
+an impressive array of sth | adj+n | 一系列令人赞叹的 | array
+surprisingly good | delete:free
+team roster | delete:free
+race riot | delete:phrase
+prison riot | delete:free
+on the recommendation of sb | delete:phrase
+gas meter | delete:phrase
+electricity meter | delete:phrase
+bring a lawsuit against sb | v+n | 对某人提起诉讼 | lawsuit
+indoor swimming pool | delete:free
+corporate governance | delete:phrase
+euro zone | delete:phrase
+disappear without a trace | delete:phrase
+write in one's diary | delete:free
+dairy cattle | delete:phrase
+cult film | delete:phrase
+war widow | delete:phrase
+warehouse worker | delete:free
+tragic death | delete:free
+take a toll on sth | v+n | 对某事造成损害 | toll
+rebel leader | delete:free
+predict the future | delete:free
+dispel a myth | v+n | 破除谬见 | myth
+merchant ship | delete:phrase
+hunting lodge | delete:phrase
+page layout | delete:phrase
+online gambling | delete:free
+woven fabric | delete:free
+building contractor | delete:phrase
+cartoon character | delete:phrase
+breed like rabbits | delete:phrase
+wash basin | delete:phrase
+river basin | delete:phrase

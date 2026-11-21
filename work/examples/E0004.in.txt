@@ -1,0 +1,300 @@
+w000321.1 | car | n. | A1 | 汽车, 小汽车, 轿车 | a road vehicle with an engine and four wheels
+w000321.2 | car | n. | A1 | 车厢 | a separate section of a train
+w000322.1 | face | n. | A1 | 脸, 面孔 | the front of the head
+w000322.2 | face | n. | A1 | 表情, 面容 | an expression on someone's face
+w000322.3 | face | n. | A1 | 表面, 正面 | a surface or side of something
+w000322.4 | face | v. | A1 | 面对, 面向, 朝 | to look or point towards
+w000322.5 | face | v. | A1 | 面临, 应对 | to have to deal with a difficult situation
+w000323.1 | five | num. | A1 | 五, 五个 | the number 5
+w000324.1 | kind | n. | A1 | 种类, 类型 | a group with similar features; a type
+w000324.2 | kind | adj. | A1 | 友好的, 和蔼的, 善良的 | friendly, helpful, and caring
+w000325.1 | maybe | adv. | A1 | 也许, 可能, 或许 | perhaps; possibly
+w000326.1 | per | prep. | B1 | 每, 每一 | for each
+w000326.2 | per | prep. | B1 | 按照, 根据 | according to
+w000327.1 | president | n. | A2 | 总统, 国家主席 | the leader of a republic
+w000327.2 | president | n. | A2 | 总裁, 董事长, 校长 | the head of a company, club, or university
+w000328.1 | put-down | n. | C1 | 贬低的话, 奚落, 挖苦 | a remark meant to make someone look foolish
+w000329.1 | story | n. | A1 | 故事, 小说 | a description of real or imagined events
+w000329.2 | story | n. | A1 | 报道, 新闻 | a report in a newspaper or on the news
+w000329.3 | story | n. | A1 | 楼层, 层 | a level of a building
+w000330.1 | working | adj. | B1 | 工作的, 有工作的 | having a job or relating to work
+w000330.2 | working | adj. | B1 | 运转的, 起作用的 | operating properly
+w000330.3 | working | n. | B1 | 运作方式, 工作原理 | the way something operates, often as workings
+w000331.1 | course | n. | A1 | 课程, 教程 | a series of lessons on a subject
+w000331.2 | course | n. | A1 | 过程, 进程, 方向 | the way something develops or moves
+w000331.3 | course | n. | A1 | 一道菜 | one part of a meal
+w000331.4 | course | v. | A1 | 奔流, 流动 | of liquid, to flow quickly
+w000332.1 | health | n. | A1 | 健康, 健康状况 | the condition of your body and mind
+w000332.2 | health | n. | A1 | 卫生, 医疗保健 | the work of providing medical services
+w000333.1 | hope | v. | A1 | 希望, 盼望 | to want something to happen and think it may
+w000333.2 | hope | n. | A1 | 希望, 期望 | a feeling that something good may happen
+w000333.3 | hope | n. | A1 | 寄予希望的人或物 | someone or something that may help
+w000334.1 | important | adj. | A1 | 重要的, 重大的 | having great value or effect
+w000334.2 | important | adj. | A1 | 有权势的, 有地位的 | having power or influence
+w000335.1 | least | adv. | A2 | 最少, 最小程度地 | to the smallest degree
+w000335.2 | least | det. | A2 | 最少的, 最小的 | the smallest amount of
+w000335.3 | least | pron. | A2 | 最少, 最小量 | the smallest amount
+w000336.1 | line-up | n. | B2 | 阵容, 出场名单 | the people chosen to play or perform
+w000336.2 | line-up | n. | B2 | 节目安排, 产品系列 | a set of programmes or products
+w000336.3 | line-up | n. | B2 | 列队辨认 | a row of people for a witness to identify
+w000337.1 | means | n. | B1 | 方法, 手段, 途径 | a way of doing something
+w000337.2 | means | n. | B1 | 财力, 收入, 钱财 | money that someone has
+w000338.1 | news | n. | A1 | 新闻, 消息 | information about recent events
+w000338.2 | news | n. | A1 | 新闻节目 | a television or radio programme reporting events
+w000339.1 | play-off | n. | B2 | 季后赛, 附加赛, 决赛 | an extra game or series to decide a winner
+w000340.1 | run-up | n. | C1 | 前期, 准备阶段, 前夕 | the period of time before an important event
+w000340.2 | run-up | n. | C1 | 助跑 | a short run before jumping or throwing
+w000341.1 | within | prep. | B1 | 在之内, 不超过 | inside a limit of time, distance, or range
+w000341.2 | within | prep. | B1 | 在内部, 在里面 | inside a place, group, or organization
+w000341.3 | within | adv. | B1 | 在内部, 在里面 | inside
+w000342.1 | able | adj. | A2 | 能, 能够, 会 | having the skill or chance to do something
+w000342.2 | able | adj. | A2 | 能干的, 有才能的 | clever and skilful
+w000343.1 | book | n. | A1 | 书, 书籍, 著作 | a set of printed pages fixed inside a cover
+w000343.2 | book | n. | A1 | 本子, 簿 | a set of pages for writing in
+w000343.3 | book | v. | A1 | 预订, 预约 | to arrange to have a seat, room, or ticket
+w000343.4 | book | v. | A1 | 记录在案, 处罚 | to officially record an offence
+w000344.1 | early | adj. | A1 | 早的, 早期的, 初期的 | near the beginning of a period
+w000344.2 | early | adj. | A1 | 提早的, 提前的 | before the usual or expected time
+w000344.3 | early | adv. | A1 | 早, 提前 | before the usual or expected time
+w000344.4 | early | adv. | A1 | 在初期 | near the beginning of a period
+w000345.1 | information | n. | A1 | 信息, 资料, 消息 | facts about a situation, person, or thing
+w000346.1 | local | adj. | A2 | 当地的, 本地的, 地方的 | relating to a particular area near you
+w000346.2 | local | adj. | A2 | 局部的 | affecting only one part of the body
+w000346.3 | local | n. | A2 | 当地人, 本地居民 | a person who lives in a particular area
+w000347.1 | oh | int. | A1 | 哦, 噢, 啊 | used to express surprise, understanding, or emotion
+w000347.2 | oh | num. | A1 | 零 | zero, when saying numbers aloud
+w000348.1 | post | n. | A2 | 帖子, 发布内容 | a message or item published online
+w000348.2 | post | n. | A2 | 柱, 杆, 桩 | an upright pole fixed in the ground
+w000348.3 | post | n. | A2 | 职位, 岗位 | a job in an organization
+w000348.4 | post | v. | A2 | 发帖, 发布, 张贴 | to put a message or notice online or on a wall
+w000348.5 | post | v. | A2 | 邮寄, 寄出 | to send a letter or parcel by mail
+w000348.6 | post | v. | A2 | 派驻, 委派 | to send someone to work in a place
+w000349.1 | thanks | int. | A1 | 谢谢, 多谢 | used to tell someone you are grateful
+w000349.2 | thanks | n. | A1 | 感谢, 谢意 | words or actions showing gratitude
+w000350.1 | video | n. | A1 | 视频, 录像 | a recording of moving pictures and sound
+w000350.2 | video | n. | A1 | 录像带, 录像机 | a tape or machine for recording programmes
+w000350.3 | video | v. | A1 | 录像, 拍摄 | to record moving pictures with a camera
+w000351.1 | young | adj. | A1 | 年轻的, 年幼的 | having lived for only a short time
+w000351.2 | young | adj. | A1 | 初期的, 新兴的 | recently started or formed
+w000351.3 | young | n. | A1 | 幼崽, 幼仔 | the babies of an animal
+w000352.1 | ago | adv. | A1 | 以前, 之前 | back in time from now
+w000353.1 | social | adj. | A2 | 社会的, 社会上的 | relating to society and how people live
+w000353.2 | social | adj. | A2 | 社交的, 交际的 | relating to meeting and spending time with others
+w000353.3 | social | adj. | A2 | 群居的 | of animals, living in groups
+w000354.1 | talk | v. | A1 | 说话, 谈话, 交谈 | to speak with someone
+w000354.2 | talk | v. | A1 | 讨论, 谈论 | to discuss a subject
+w000354.3 | talk | n. | A1 | 谈话, 交谈 | a conversation
+w000354.4 | talk | n. | A1 | 讲座, 演讲 | a speech to an audience
+w000354.5 | talk | n. | A1 | 会谈, 谈判 | formal discussions between groups, used as talks
+w000355.1 | court | n. | B1 | 法院, 法庭 | a place where legal cases are decided
+w000355.2 | court | n. | B1 | 球场 | an area for playing tennis or basketball
+w000355.3 | court | n. | B1 | 宫廷, 朝廷 | the home and officials of a king or queen
+w000355.4 | court | v. | B1 | 追求, 讨好, 争取 | to try to win the support or love of
+w000356.1 | fact | n. | A2 | 事实, 实情 | something known to be true
+w000356.2 | fact | n. | A2 | 真相, 实际 | what is true rather than imagined
+w000357.1 | given | adj. | B2 | 特定的, 规定的 | fixed or already decided
+w000357.2 | given | prep. | B2 | 考虑到, 鉴于 | taking something into account
+w000357.3 | given | n. | B2 | 已知事实, 必然之事 | something accepted as true or certain
+w000358.1 | half | n. | A1 | 一半, 半 | one of two equal parts
+w000358.2 | half | n. | A1 | 半场 | one of two periods of a game
+w000358.3 | half | det. | A1 | 一半的, 半个 | amounting to one half
+w000358.4 | half | adv. | A1 | 一半地, 部分地 | partly; to some extent
+w000359.1 | hand | n. | A1 | 手 | the part at the end of the arm
+w000359.2 | hand | n. | A1 | 帮助, 援手 | help with doing something
+w000359.3 | hand | n. | A1 | 指针 | a pointer on a clock or watch
+w000359.4 | hand | v. | A1 | 递, 交给 | to give something to someone with your hand
+w000360.1 | level | n. | A2 | 水平, 程度, 级别 | the amount or standard of something
+w000360.2 | level | n. | A2 | 高度, 层 | a height or floor of a building
+w000360.3 | level | adj. | A2 | 平的, 水平的 | flat and not sloping
+w000360.4 | level | adj. | A2 | 同等的, 相平的 | at the same height or position
+w000360.5 | level | v. | A2 | 使平坦, 夷平 | to make flat or destroy completely
+w000361.1 | mind | n. | A2 | 头脑, 思想, 心智 | the part of a person that thinks and feels
+w000361.2 | mind | n. | A2 | 想法, 意见 | a person's opinion or intention
+w000361.3 | mind | v. | A2 | 介意, 在乎 | to be annoyed or worried by something
+w000361.4 | mind | v. | A2 | 照看, 注意, 当心 | to take care of or be careful about
+w000362.1 | often | adv. | A1 | 经常, 常常, 时常 | many times; frequently
+w000363.1 | single | adj. | A2 | 单一的, 唯一的, 一个的 | only one
+w000363.2 | single | adj. | A2 | 单身的, 未婚的 | not married or in a relationship
+w000363.3 | single | adj. | A2 | 单人的 | for one person
+w000363.4 | single | n. | A2 | 单曲 | a recording of one song released alone
+w000363.5 | single | n. | A2 | 单程票 | a ticket for a journey to a place but not back
+w000363.6 | single | v. | A2 | 挑选出, 选出 | to choose one from a group, used with out
+w000364.1 | become | v. | A2 | 变成, 成为 | to begin to be something
+w000364.2 | become | v. | A2 | 适合, 与相称 | to look good on or suit someone
+w000365.1 | body | n. | A1 | 身体, 躯体 | the whole physical structure of a person or animal
+w000365.2 | body | n. | A1 | 尸体 | a dead person
+w000365.3 | body | n. | A1 | 团体, 机构 | an official group of people
+w000366.1 | coming | adj. | B2 | 即将到来的, 下一个的 | happening soon
+w000366.2 | coming | n. | B2 | 到来, 来临 | the arrival of something
+w000367.1 | control | n. | A2 | 控制, 支配, 管理 | the power to make people or things do what you want
+w000367.2 | control | n. | A2 | 控制器, 操纵装置 | a switch or button that operates a machine
+w000367.3 | control | v. | A2 | 控制, 支配, 管理 | to have power over people or things
+w000367.4 | control | v. | A2 | 抑制, 限制 | to limit or stop something from spreading
+w000368.1 | death | n. | A2 | 死亡, 去世 | the end of life
+w000368.2 | death | n. | A2 | 灭亡, 终结 | the end of something
+w000369.1 | food | n. | A1 | 食物, 食品, 粮食 | things that people and animals eat
+w000370.1 | guy | n. | A2 | 家伙, 小伙子, 男人 | a man
+w000370.2 | guy | n. | A2 | 各位, 伙计们 | a group of people of any sex, used as guys
+w000370.3 | guy | n. | A2 | 牵索, 拉绳 | a rope used to hold a tent in place
+w000371.1 | house-to-house | adj. | C1 | 挨家挨户的, 逐户的 | visiting each house in an area in turn
+w000372.1 | office | n. | A1 | 办公室, 办事处 | a room or building where people work at desks
+w000372.2 | office | n. | A1 | 职位, 公职, 任期 | an important official position
+w000372.3 | office | n. | A1 | 部门, 局 | a government department
+w000373.1 | pay | v. | A1 | 付款, 支付, 付钱 | to give money for something
+w000373.2 | pay | v. | A1 | 值得, 有利 | to bring a benefit or advantage
+w000373.3 | pay | v. | A1 | 给予, 致以 | to give attention, a visit, or respect
+w000373.4 | pay | n. | A1 | 工资, 报酬, 薪水 | money received for work
+w000374.1 | problem | n. | A1 | 问题, 难题, 困难 | a situation that causes difficulty
+w000374.2 | problem | n. | A1 | 习题, 题目 | a question to be solved, especially in maths
+w000375.1 | south | n. | A1 | 南, 南方, 南部 | the direction to your right when facing sunrise
+w000375.2 | south | adj. | A1 | 南方的, 南部的 | in or towards the south
+w000375.3 | south | adv. | A1 | 向南, 朝南 | towards the south
+w000376.1 | true | adj. | A1 | 真的, 真实的, 正确的 | based on facts, not false
+w000376.2 | true | adj. | A1 | 真正的, 名副其实的 | real or genuine
+w000376.3 | true | adj. | A1 | 忠实的, 忠诚的 | loyal and faithful
+w000377.1 | almost | adv. | A1 | 几乎, 差不多, 将近 | nearly but not completely
+w000378.1 | fuck | int. | C1 | 他妈的, 该死 | used to express strong anger or annoyance
+w000378.2 | fuck | v. | C1 | 性交 | to have sex with someone
+w000378.3 | fuck | v. | C1 | 搞砸, 毁掉 | to ruin or damage something, used with up
+w000379.1 | history | n. | A1 | 历史, 历史学 | past events or the study of them
+w000379.2 | history | n. | A1 | 经历, 履历, 记录 | the past experiences of a person or thing
+w000380.1 | large | adj. | A1 | 大的, 巨大的 | big in size
+w000380.2 | large | adj. | A1 | 大量的, 众多的 | great in number or amount
+w000381.1 | lost | adj. | A2 | 迷路的, 迷失的 | not knowing where you are
+w000381.2 | lost | adj. | A2 | 丢失的, 遗失的 | that cannot be found
+w000381.3 | lost | adj. | A2 | 困惑的, 不知所措的 | confused and not understanding
+w000382.1 | research | n. | A2 | 研究, 调查, 探究 | careful study to discover new facts
+w000382.2 | research | v. | A2 | 研究, 调查 | to study a subject in detail
+w000383.1 | room | n. | A1 | 房间, 室 | a separate area inside a building
+w000383.2 | room | n. | A1 | 空间, 地方 | enough space for something
+w000383.3 | room | n. | A1 | 余地, 机会 | the possibility for something to happen
+w000384.1 | several | det. | A2 | 几个, 若干 | more than two but not many
+w000384.2 | several | pron. | A2 | 几个, 数个 | some but not many
+w000385.1 | university | n. | A1 | 大学 | a place for advanced study and earning degrees
+w000386.1 | win | v. | A1 | 赢, 获胜 | to be the best in a game or competition
+w000386.2 | win | v. | A1 | 赢得, 获得, 争取到 | to get something as a result of effort
+w000386.3 | win | n. | A1 | 胜利, 获胜 | a victory
+w000387.1 | wrong | adj. | A1 | 错误的, 不对的 | not correct
+w000387.2 | wrong | adj. | A1 | 有毛病的, 不正常的 | causing a problem or not working
+w000387.3 | wrong | adj. | A1 | 不道德的, 不正当的 | morally bad
+w000387.4 | wrong | adv. | A1 | 错误地 | incorrectly
+w000387.5 | wrong | n. | A1 | 错误, 坏事, 不公 | behaviour that is not morally right
+w000387.6 | wrong | v. | A1 | 冤枉, 不公正地对待 | to treat someone unfairly
+w000388.1 | along | prep. | A2 | 沿着, 顺着 | from one end towards the other end of
+w000388.2 | along | adv. | A2 | 向前, 一起, 一道 | forward, or together with someone
+w000389.1 | anyone | pron. | A1 | 任何人 | any person, used in questions and negatives
+w000389.2 | anyone | pron. | A1 | 无论谁 | any person at all, no matter who
+w000390.1 | else | adv. | A1 | 其他, 别的, 另外 | in addition or different
+w000390.2 | else | adv. | A1 | 否则, 要不然 | otherwise, used with or
+w000391.1 | girl | n. | A1 | 女孩, 姑娘 | a female child or young woman
+w000391.2 | girl | n. | A1 | 女儿 | a daughter
+w000391.3 | girl | n. | A1 | 女伴, 女性朋友 | a woman, especially a female friend
+w000392.1 | john | n. | C2 | 厕所, 洗手间 | a toilet
+w000392.2 | john | n. | C2 | 嫖客 | a man who pays for sex
+w000393.1 | matter | n. | A2 | 事情, 问题, 事件 | a subject or situation to deal with
+w000393.2 | matter | n. | A2 | 麻烦, 毛病 | a problem, used in what's the matter
+w000393.3 | matter | n. | A2 | 物质 | the physical substance that things are made of
+w000393.4 | matter | v. | A2 | 要紧, 有关系, 重要 | to be important
+w000394.1 | pretty | adv. | A1 | 相当, 颇, 非常 | fairly or quite
+w000394.2 | pretty | adj. | A1 | 漂亮的, 好看的, 可爱的 | attractive in a delicate way
+w000395.1 | remember | v. | A1 | 记得, 想起, 回忆起 | to have or bring back a memory of something
+w000395.2 | remember | v. | A1 | 记住, 不忘 | to not forget to do something
+w000395.3 | remember | v. | A1 | 纪念, 缅怀 | to honour the memory of someone who has died
+w000396.1 | air | n. | A1 | 空气, 大气 | the mixture of gases we breathe
+w000396.2 | air | n. | A1 | 空中, 天空 | the space above the ground
+w000396.3 | air | n. | A1 | 航空, 飞机 | travel by aircraft
+w000396.4 | air | v. | A1 | 播出, 播放 | to broadcast on radio or television
+w000396.5 | air | v. | A1 | 使通风, 晾干 | to let fresh air into a room or clothes
+w000396.6 | air | v. | A1 | 表达, 发表 | to express an opinion publicly
+w000397.1 | bit | n. | A1 | 一点, 少量, 小块 | a small piece or amount
+w000397.2 | bit | n. | A1 | 一会儿, 片刻 | a short time
+w000397.3 | bit | n. | A1 | 比特, 位 | the smallest unit of computer information
+w000398.1 | friend | n. | A1 | 朋友, 友人 | a person you know well and like
+w000398.2 | friend | n. | A1 | 支持者, 赞助者 | someone who supports an organization or idea
+w000398.3 | friend | v. | A1 | 加为好友 | to add someone as a contact on social media
+w000399.1 | hit | v. | A2 | 打, 击, 撞 | to strike something with force
+w000399.2 | hit | v. | A2 | 打击, 影响 | to have a bad effect on
+w000399.3 | hit | v. | A2 | 达到, 到达 | to reach a level or place
+w000399.4 | hit | n. | A2 | 成功的作品, 热门歌曲 | a very successful song, film, or product
+w000399.5 | hit | n. | A2 | 击中, 打击 | an act of hitting
+w000399.6 | hit | n. | A2 | 点击量, 访问量 | a visit to a website or a search result
+w000400.1 | nice | adj. | A1 | 好的, 令人愉快的, 美好的 | pleasant or enjoyable
+w000400.2 | nice | adj. | A1 | 友好的, 和善的 | kind and friendly
+w000400.3 | nice | adj. | A1 | 细微的, 微妙的 | involving a small detail or difference
+w000401.1 | probably | adv. | A2 | 很可能, 大概, 或许 | almost certainly; very likely
+w000402.1 | saying | n. | B1 | 谚语, 格言, 俗话 | a well-known phrase expressing a common truth
+w000403.1 | understand | v. | A1 | 理解, 明白, 懂 | to know the meaning of something
+w000403.2 | understand | v. | A1 | 获悉, 听说, 认为 | to believe something is true from what you heard
+w000404.1 | yeah | int. | A1 | 是的, 对, 嗯 | yes, used in casual speech
+w000406.1 | class | n. | A1 | 班级, 班 | a group of students taught together
+w000406.2 | class | n. | A1 | 课, 课程 | a period of teaching on a subject
+w000406.3 | class | n. | A1 | 阶级, 阶层 | a social group sharing economic status
+w000406.4 | class | v. | A1 | 归类, 分类 | to put into a particular group
+w000407.1 | close | v. | A1 | 关, 关闭, 合上 | to shut something
+w000407.2 | close | v. | A1 | 结束, 终止 | to bring to an end
+w000407.3 | close | adj. | A1 | 近的, 接近的 | near in space or time
+w000407.4 | close | adj. | A1 | 亲密的, 密切的 | having a strong relationship
+w000407.5 | close | adv. | A1 | 靠近, 接近 | near to something
+w000408.1 | half-time | n. | B1 | 中场休息, 半场 | the break between two halves of a game
+w000409.1 | idea | n. | A1 | 主意, 想法, 念头 | a plan or suggestion that you think of
+w000409.2 | idea | n. | A1 | 概念, 认识, 了解 | an understanding or picture in your mind
+w000410.1 | international | adj. | A2 | 国际的, 国际性的, 国家间的 | involving two or more countries
+w000410.2 | international | n. | A2 | 国际比赛, 国家队队员 | a game or player representing a country
+w000411.1 | past | adj. | A1 | 过去的, 以往的 | gone by in time
+w000411.2 | past | n. | A1 | 过去, 往昔, 往事 | the time before now
+w000411.3 | past | prep. | A1 | 经过, 越过 | going beyond a place
+w000411.4 | past | prep. | A1 | 晚于, 超过 | later than a particular time
+w000411.5 | past | adv. | A1 | 经过, 过去 | moving from one side to the other
+w000412.1 | possible | adj. | A2 | 可能的, 可能存在的, 可行的 | able to happen, exist or be done
+w000413.1 | cause | v. | B1 | 导致, 引起, 造成 | to make something happen
+w000413.2 | cause | n. | B1 | 原因, 起因 | what makes something happen
+w000413.3 | cause | n. | B1 | 事业, 目标, 理想 | an aim that people support or fight for
+w000414.1 | due | adj. | B1 | 预期的, 预定的 | expected to happen or arrive at a time
+w000414.2 | due | adj. | B1 | 应付的, 到期的 | owed and needing to be paid
+w000414.3 | due | adj. | B1 | 应得的, 适当的 | deserved or suitable
+w000415.1 | happy | adj. | A1 | 快乐的, 高兴的, 幸福的 | feeling or showing pleasure
+w000415.2 | happy | adj. | A1 | 满意的, 乐意的 | satisfied or willing to do something
+w000416.1 | human | adj. | A2 | 人的, 人类的 | relating to people
+w000416.2 | human | n. | A2 | 人, 人类 | a person
+w000417.1 | move | v. | A1 | 移动, 搬动 | to change position or place
+w000417.2 | move | v. | A1 | 搬家, 迁移 | to go to live or work somewhere else
+w000417.3 | move | v. | A1 | 感动, 打动 | to cause strong feelings in someone
+w000417.4 | move | n. | A1 | 行动, 举措, 步骤 | an action taken to achieve something
+w000417.5 | move | n. | A1 | 移动, 动作 | a change of position
+w000418.1 | question | n. | A1 | 问题, 提问 | something you ask to get information
+w000418.2 | question | n. | A1 | 问题, 议题, 事情 | a matter to be discussed or solved
+w000418.3 | question | v. | A1 | 询问, 盘问 | to ask someone many things
+w000418.4 | question | v. | A1 | 怀疑, 质疑 | to have doubts about something
+w000419.1 | series | n. | B1 | 系列, 一连串 | a number of similar things one after another
+w000419.2 | series | n. | B1 | 系列节目, 连续剧 | a set of related TV or radio programmes
+w000420.1 | up-and-coming | adj. | C1 | 有前途的, 崭露头角的, 新兴的 | likely to become successful soon
+w000421.1 | wait | v. | A1 | 等, 等待, 等候 | to stay until something happens
+w000421.2 | wait | n. | A1 | 等待, 等候时间 | a period of time spent waiting
+w000422.1 | woman | n. | A1 | 女人, 妇女, 女子 | an adult female person
+w000424.1 | ask | v. | A1 | 问, 询问 | to say something to get information
+w000424.2 | ask | v. | A1 | 请求, 要求 | to say you want someone to do something
+w000424.3 | ask | v. | A1 | 邀请, 约请 | to invite someone
+w000425.1 | community | n. | B1 | 社区, 社会 | the people living in one area
+w000425.2 | community | n. | B1 | 团体, 群体, 界 | a group sharing interests or background
+w000426.1 | data | n. | B1 | 数据, 资料, 信息 | facts or numbers collected for study
+w000427.1 | late | adj. | A1 | 迟的, 迟到的 | arriving after the expected time
+w000427.2 | late | adj. | A1 | 晚的, 后期的 | near the end of a period
+w000427.3 | late | adj. | A1 | 已故的, 已去世的 | no longer alive
+w000427.4 | late | adv. | A1 | 迟, 晚 | after the usual or expected time
+w000428.1 | leave | v. | A1 | 离开, 走 | to go away from a place
+w000428.2 | leave | v. | A1 | 留下, 遗留, 忘带 | to let something stay where it is
+w000428.3 | leave | v. | A1 | 让, 使处于 | to allow something to remain in a state
+w000428.4 | leave | n. | A1 | 假, 休假, 假期 | time allowed away from work
+w000429.1 | saw | n. | B2 | 锯, 锯子 | a tool with a toothed blade for cutting
+w000429.2 | saw | v. | B2 | 锯, 锯开 | to cut with a toothed tool
+w000430.1 | special | adj. | A2 | 特别的, 特殊的, 专门的 | different from what is usual
+w000430.2 | special | n. | A2 | 特价, 特色菜 | a dish or product offered for a short time
+w000430.3 | special | n. | A2 | 特别节目 | a programme made for a particular occasion
+w000431.1 | watch | v. | A1 | 看, 观看, 注视 | to look at something for some time
+w000431.2 | watch | v. | A1 | 留意, 注意, 当心 | to be careful about something
+w000431.3 | watch | n. | A1 | 手表, 表 | a small clock worn on the wrist
+w000432.1 | either | det. | A2 | 两者之一, 任一 | one or the other of two
+w000432.2 | either | det. | A2 | 两者中每个, 两边 | each of two
+w000432.3 | either | adv. | A2 | 也, 而且 | also, used after negative statements
+w000432.4 | either | conj. | A2 | 或者, 要么 | used before the first of two choices
+w000432.5 | either | pron. | A2 | 两者之一, 任何一个 | one or the other of two people or things

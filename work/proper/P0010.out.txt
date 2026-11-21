@@ -1,0 +1,500 @@
+farley | Farley | person:法利=英语姓氏
+fergus | Fergus | person:弗格斯=苏格兰男子名
+fives | skip:unknown
+gainesville | Gainesville | place:盖恩斯维尔=美国城市
+gestapo | Gestapo | org:盖世太保=纳粹德国秘密警察
+gk | GK | abbr:守门员=足球位置
+gq | GQ | brand:智族=男性时尚杂志
+gundam | Gundam | work:高达=日本机器人动漫
+hereford | Hereford | place:赫里福德=英国城市
+horatio | Horatio | person:霍雷肖=英语男子名
+ipads | iPads | brand:苹果平板=复数形式
+isbn | ISBN | abbr:国际标准书号
+ita | skip:unknown
+izzy | Izzy | person:伊齐=英语昵称
+karan | Karan | person:卡兰=印度男子名
+kayla | Kayla | person:凯拉=英语女子名
+kp | skip:unknown
+latvian | Latvian | people:拉脱维亚人 ; common
+lok | skip:unknown
+maclean | MacLean | person:麦克莱恩=英语姓氏
+marr | Marr | person:马尔=英语姓氏
+mayan | Mayan | people:玛雅人=中美洲古文明
+merrick | Merrick | person:梅里克=英语姓氏
+mig | MiG | brand:米格=俄罗斯战斗机
+minsk | Minsk | place:明斯克=白俄罗斯首都
+mou | MOU | abbr:谅解备忘录
+nanoparticles | common | n.纳米粒子, 纳米颗粒 [domain:化学]
+nasser | Nasser | person:纳赛尔=阿拉伯人名
+nikolai | Nikolai | person:尼古拉=俄罗斯男子名
+ott | skip:unknown
+paddington | Paddington | place:帕丁顿=伦敦地区 ; work:帕丁顿熊=英国儿童故事
+pavel | Pavel | person:帕维尔=斯拉夫男子名
+pfizer | Pfizer | brand:辉瑞=美国制药公司
+pia | skip:unknown
+pyongyang | Pyongyang | place:平壤=朝鲜首都
+rocco | Rocco | person:罗科=意大利男子名
+rochelle | Rochelle | person:罗谢尔=英语女子名
+rollin | skip:junk
+sanjay | Sanjay | person:桑杰=印度男子名
+sia | skip:unknown
+sicilian | Sicilian | people:西西里人 ; common
+sous | skip:not-english
+stratton | Stratton | person:斯特拉顿=英语姓氏
+tajikistan | Tajikistan | place:塔吉克斯坦=中亚国家
+tellin | skip:junk
+thurston | Thurston | person:瑟斯顿=英语姓氏
+tre | skip:unknown
+univ | common | abbr.大学 [informal]
+vg | skip:unknown
+warhol | Warhol | person:沃霍尔=美国艺术家
+warwickshire | Warwickshire | place:沃里克郡=英国郡
+wynn | skip:unknown
+yoda | Yoda | work:尤达=星球大战角色
+yoruba | Yoruba | people:约鲁巴人=西非民族
+aden | Aden | place:亚丁=也门城市
+alam | skip:unknown
+alf | skip:unknown
+anand | Anand | person:阿南德=印度人名
+anfield | Anfield | place:安菲尔德=利物浦球场
+apis | skip:unknown
+argentinian | Argentinian | people:阿根廷人 ; common
+arkham | Arkham | place:阿卡姆=漫画虚构地名
+arturo | Arturo | person:阿图罗=西语男子名
+astoria | Astoria | place:阿斯托里亚=美国地名
+aztec | Aztec | people:阿兹特克人=墨西哥古文明
+babcock | Babcock | person:巴布科克=英语姓氏
+bac | skip:unknown
+baja | Baja | place:下加利福尼亚=墨西哥半岛
+bei | skip:unknown
+bennet | Bennet | person:贝内特=英语姓氏
+bien | skip:not-english
+blackstone | Blackstone | brand:黑石=美国投资公司
+bonkers | common | adj.疯狂的, 发疯的 [informal,uk]
+bpd | BPD | abbr:边缘型人格障碍
+calder | Calder | person:考尔德=英语姓氏
+calvert | Calvert | person:卡尔弗特=英语姓氏
+clancy | Clancy | person:克兰西=英语姓氏
+clooney | Clooney | person:克鲁尼=美国演员
+confucius | Confucius | person:孔子=中国古代思想家
+crores | common | n.千万=印度计数单位
+decatur | Decatur | place:迪凯特=美国城市
+django | Django | work:姜戈=电影人物
+donetsk | Donetsk | place:顿涅茨克=乌克兰城市
+dropbox | skip:unknown
+edmond | Edmond | person:埃德蒙=英语男子名
+eo | skip:unknown
+estonian | Estonian | people:爱沙尼亚人 ; common
+etienne | Etienne | person:艾蒂安=法语男子名
+eton | Eton | place:伊顿=英国公学所在地
+exxon | Exxon | brand:埃克森=美国石油公司
+faso | skip:fragment
+fob | common | abbr.离岸价 [domain:商业]
+forza | Forza | brand:极限竞速=赛车游戏系列
+giroud | Giroud | person:吉鲁=法国足球运动员
+giuliani | Giuliani | person:朱利安尼=美国政治家
+glock | Glock | brand:格洛克=奥地利枪械品牌
+hae | skip:unknown
+hawke | Hawke | person:霍克=英语姓氏
+hou | skip:unknown
+hurst | Hurst | person:赫斯特=英语姓氏
+hyung | common | n.哥哥=韩语称呼 [informal]
+irc | IRC | abbr:互联网中继聊天
+irina | Irina | person:伊琳娜=俄语女子名
+isi | ISI | abbr:三军情报局=巴基斯坦机构
+itt | skip:unknown
+jacobson | Jacobson | person:雅各布森=英语姓氏
+jagger | Jagger | person:贾格尔=英国摇滚歌手
+jaipur | Jaipur | place:斋浦尔=印度城市
+jazeera | skip:fragment
+jeffery | Jeffery | person:杰弗里=英语男子名
+jodi | Jodi | person:朱迪=英语女子名
+juliette | Juliette | person:朱丽叶=英语女子名
+jw | skip:unknown
+kathmandu | Kathmandu | place:加德满都=尼泊尔首都
+kearney | Kearney | person:卡尼=英语姓氏
+khz | kHz | abbr:千赫
+kieran | Kieran | person:基兰=爱尔兰男子名
+landon | Landon | person:兰登=英语男子名
+landry | Landry | person:兰德里=英语姓氏
+livingstone | Livingstone | person:利文斯通=苏格兰探险家
+lucknow | Lucknow | place:勒克瑙=印度城市
+macintosh | Macintosh | brand:麦金塔=苹果电脑
+marius | Marius | person:马吕斯=男子名
+mcintyre | McIntyre | person:麦金泰尔=英语姓氏
+mcpherson | McPherson | person:麦克弗森=英语姓氏
+medusa | Medusa | religion:美杜莎=希腊神话女妖
+merseyside | Merseyside | place:默西赛德郡=英国郡
+mindy | Mindy | person:明迪=英语女子名
+mlm | MLM | abbr:多层次传销
+mooney | Mooney | person:穆尼=英语姓氏
+mormons | Mormons | religion:摩门教徒=后期圣徒信徒
+mot | skip:unknown
+munster | Munster | place:芒斯特=爱尔兰省份
+naacp | NAACP | org:全国有色人种协进会=美国民权组织
+nazareth | Nazareth | place:拿撒勒=以色列城市
+nazism | common | n.纳粹主义 [domain:政治]
+nellie | Nellie | person:内莉=英语女子名
+nia | skip:unknown
+nord | skip:not-english
+num | skip:unknown
+okc | skip:unknown
+palermo | Palermo | place:巴勒莫=意大利城市
+pao | skip:unknown
+patrice | Patrice | person:帕特里斯=法语人名
+paulie | Paulie | person:保利=英语昵称
+payton | Payton | person:佩顿=英语人名
+pell | Pell | person:佩尔=英语姓氏
+pendleton | Pendleton | person:彭德尔顿=英语姓氏
+peshawar | Peshawar | place:白沙瓦=巴基斯坦城市
+poseidon | Poseidon | religion:波塞冬=希腊海神
+ppg | PPG | abbr:场均得分=篮球术语
+pullman | Pullman | person:普尔曼=英语姓氏
+riyadh | Riyadh | place:利雅得=沙特阿拉伯首都
+sabha | skip:fragment
+sarajevo | Sarajevo | place:萨拉热窝=波黑首都
+sensei | common | n.老师, 师父 [informal]
+shrewsbury | Shrewsbury | place:什鲁斯伯里=英国城市
+signaled | common | v.示意, 发信号 [us]
+spp | skip:unknown
+syd | skip:unknown
+ther | skip:junk
+tiki | skip:unknown
+topeka | Topeka | place:托皮卡=美国堪萨斯州首府
+tra | skip:unknown
+vick | Vick | person:维克=英语人名
+vickers | Vickers | person:维克斯=英语姓氏
+yusuf | Yusuf | person:优素福=阿拉伯男子名
+zionism | common | n.犹太复国主义 [domain:政治]
+a.c | skip:junk
+addis | skip:fragment
+ahl | skip:unknown
+allegheny | Allegheny | place:阿勒格尼=美国山脉
+alves | Alves | person:阿尔维斯=葡萄牙语姓氏
+amtrak | Amtrak | org:美国铁路客运公司
+arden | Arden | person:阿登=英语人名
+ares | Ares | religion:阿瑞斯=希腊战神
+atc | ATC | abbr:空中交通管制
+atletico | skip:fragment
+auf | skip:not-english
+bafta | BAFTA | event:英国电影学院奖
+benji | Benji | person:本吉=英语昵称
+bhutan | Bhutan | place:不丹=南亚国家
+borneo | Borneo | place:婆罗洲=东南亚岛屿
+bridgeport | Bridgeport | place:布里奇波特=美国城市
+bronson | Bronson | person:布朗森=英语姓氏
+brutus | Brutus | person:布鲁图=古罗马政治家
+camaro | Camaro | brand:卡马罗=雪佛兰跑车
+cambridgeshire | Cambridgeshire | place:剑桥郡=英国郡
+cate | Cate | person:凯特=英语女子名
+cmc | skip:unknown
+cpl | Cpl | abbr:下士=军衔缩写
+crockett | Crockett | person:克罗克特=英语姓氏
+csgo | CSGO | brand:反恐精英全球攻势=射击游戏
+cx | skip:unknown
+dina | Dina | person:迪娜=女子名
+dunlop | Dunlop | brand:邓禄普=英国轮胎品牌
+elisa | Elisa | person:埃莉萨=女子名
+elsie | Elsie | person:埃尔西=英语女子名
+emp | EMP | abbr:电磁脉冲
+enfield | Enfield | place:恩菲尔德=伦敦自治市
+enoch | Enoch | religion:以诺=圣经人物
+etf | ETF | abbr:交易所交易基金
+fk | skip:unknown
+fra | skip:unknown
+ger | skip:unknown
+gillette | Gillette | brand:吉列=美国剃须刀品牌
+granville | Granville | person:格兰维尔=英语姓氏
+hanley | Hanley | person:汉利=英语姓氏
+harman | Harman | person:哈曼=英语姓氏
+illuminati | Illuminati | org:光明会=秘密社团
+ima | skip:junk
+imma | common | abbr.我要, 我将 [slang]
+jace | Jace | person:杰斯=英语男子名
+jain | Jain | religion:耆那教徒=印度宗教信徒
+jammu | Jammu | place:查谟=印度城市
+jl | skip:unknown
+jm | skip:unknown
+johanna | Johanna | person:约翰娜=女子名
+johnnie | Johnnie | person:约翰尼=英语男子名
+kendra | Kendra | person:肯德拉=英语女子名
+kermit | Kermit | work:科米蛙=布偶角色
+leung | Leung | person:梁=粤语姓氏
+lis | skip:unknown
+lj | skip:unknown
+lps | skip:unknown
+lyman | Lyman | person:莱曼=英语姓氏
+lyn | Lyn | person:林恩=英语女子名
+maison | skip:not-english
+mariano | Mariano | person:马里亚诺=西语男子名
+melrose | Melrose | person:梅尔罗斯=英语姓氏
+midwives | common | n.助产士
+miniseries | common | n.迷你剧, 短篇电视剧
+moffat | Moffat | person:莫法特=苏格兰姓氏
+mongolian | Mongolian | people:蒙古人 ; common
+monmouth | Monmouth | place:蒙茅斯=英国地名
+msp | skip:unknown
+nbsp | skip:junk
+nottinghamshire | Nottinghamshire | place:诺丁汉郡=英国郡
+osborn | Osborn | person:奥斯本=英语姓氏
+osha | OSHA | org:职业安全与健康管理局=美国机构
+ozil | Ozil | person:厄齐尔=德国足球运动员
+pai | skip:unknown
+pharrell | Pharrell | person:法瑞尔=美国歌手
+pinot | common | n.皮诺葡萄, 皮诺葡萄酒 [domain:烹饪]
+playin | skip:junk
+pogba | Pogba | person:博格巴=法国足球运动员
+ppv | PPV | abbr:按次付费
+pri | skip:unknown
+qr | QR | abbr:二维码=快速响应码
+quot | skip:junk
+remington | Remington | brand:雷明顿=美国枪械品牌
+riggs | Riggs | person:里格斯=英语姓氏
+rosario | Rosario | place:罗萨里奥=阿根廷城市
+saab | Saab | brand:萨博=瑞典汽车品牌
+sargent | Sargent | person:萨金特=英语姓氏
+savoy | Savoy | place:萨伏依=法国历史地区
+seq | skip:unknown
+siam | Siam | place:暹罗=泰国旧称
+simons | Simons | person:西蒙斯=英语姓氏
+swindon | Swindon | place:斯温顿=英国城市
+tennant | Tennant | person:坦南特=英语姓氏
+tfw | skip:unknown
+torrance | Torrance | place:托伦斯=美国城市
+tran | Tran | person:陈=越南姓氏
+u.s.c | U.S.C. | abbr:美国法典
+uconn | UConn | org:康涅狄格大学=美国大学
+valentina | Valentina | person:瓦伦蒂娜=女子名
+vaping | common | n.吸电子烟
+vo | skip:unknown
+waterford | Waterford | place:沃特福德=爱尔兰城市
+willoughby | Willoughby | person:威洛比=英语姓氏
+za | skip:unknown
+zuma | Zuma | person:祖马=南非前总统
+aga | skip:unknown
+ahmedabad | Ahmedabad | place:艾哈迈达巴德=印度城市
+aiken | Aiken | person:艾肯=英语姓氏
+alamo | Alamo | place:阿拉莫=得州历史要塞
+amman | Amman | place:安曼=约旦首都
+antigua | Antigua | place:安提瓜=加勒比岛屿
+arcadia | Arcadia | place:阿卡迪亚=希腊地区
+ast | skip:unknown
+bassett | Bassett | person:巴塞特=英语姓氏
+bertie | Bertie | person:伯蒂=英语昵称
+boyce | Boyce | person:博伊斯=英语姓氏
+burroughs | Burroughs | person:巴勒斯=英语姓氏
+cartier | Cartier | brand:卡地亚=法国珠宝品牌
+cedric | Cedric | person:塞德里克=英语男子名
+champaign | Champaign | place:尚佩恩=美国城市
+channeling | skip:unknown
+chopra | Chopra | person:乔普拉=印度姓氏
+clearwater | Clearwater | place:克利尔沃特=美国城市
+comms | common | n.通信 [informal]
+currie | Currie | person:柯里=英语姓氏
+dax | Dax | person:达克斯=英语男子名
+dms | skip:unknown
+dobbs | Dobbs | person:多布斯=英语姓氏
+earle | Earle | person:厄尔=英语人名
+elsevier | Elsevier | brand:爱思唯尔=荷兰出版集团
+erwin | Erwin | person:欧文=德语男子名
+fairbanks | Fairbanks | place:费尔班克斯=阿拉斯加城市
+felicia | Felicia | person:费利西娅=英语女子名
+gallows | common | n.绞刑架
+gandalf | Gandalf | work:甘道夫=魔戒人物
+georgina | Georgina | person:乔治娜=英语女子名
+gorbachev | Gorbachev | person:戈尔巴乔夫=苏联末代领导人
+guernsey | Guernsey | place:根西岛=英属海峡群岛
+hahah | common | int.哈哈
+hines | Hines | person:海因斯=英语姓氏
+hsbc | HSBC | brand:汇丰银行=英国银行集团
+icloud | iCloud | brand:苹果云服务=苹果公司产品
+imax | IMAX | brand:巨幕=影院放映格式
+indus | Indus | place:印度河=南亚河流
+j.c | skip:junk
+jayne | skip:unknown
+kaye | Kaye | person:凯伊=英语姓氏
+kiki | Kiki | person:琪琪=女子名
+kilda | skip:fragment
+kimberley | Kimberley | place:金伯利=南非城市
+kyiv | Kyiv | place:基辅=乌克兰首都
+kyung | skip:unknown
+lal | Lal | person:拉尔=印度姓氏
+leila | Leila | person:蕾拉=女子名
+lockwood | Lockwood | person:洛克伍德=英语姓氏
+macedonian | Macedonian | people:马其顿人 ; common
+marquette | Marquette | place:马凯特=美国城市
+martina | Martina | person:玛蒂娜=女子名
+mathias | Mathias | person:马蒂亚斯=男子名
+mayfield | Mayfield | person:梅菲尔德=英语姓氏
+mep | MEP | abbr:欧洲议会议员
+montague | Montague | person:蒙太古=英语姓氏
+movin | skip:junk
+mullen | Mullen | person:马伦=英语姓氏
+noone | common | pron.没有人 [informal]
+oda | skip:unknown
+omni | skip:unknown
+ong | Ong | person:王=华人姓氏
+plugins | common | n.插件 [domain:计算机]
+polaris | Polaris | other:北极星=星名
+reddy | Reddy | person:雷迪=印度姓氏
+rembrandt | Rembrandt | person:伦勃朗=荷兰画家
+rms | skip:unknown
+rosenthal | Rosenthal | person:罗森塔尔=英语姓氏
+rus | skip:unknown
+schulz | Schulz | person:舒尔茨=德语姓氏
+scottsdale | Scottsdale | place:斯科茨代尔=美国城市
+seung | skip:unknown
+sheeran | Sheeran | person:希兰=英国歌手
+shhh | common | int.嘘
+siegel | Siegel | person:西格尔=英语姓氏
+southwark | Southwark | place:萨瑟克=伦敦自治市
+sti | STI | abbr:性传播感染
+sutter | Sutter | person:萨特=英语姓氏
+t.j | skip:junk
+tcu | skip:unknown
+toms | skip:unknown
+walgreens | Walgreens | brand:沃尔格林=美国连锁药店
+woodley | Woodley | person:伍德利=英语姓氏
+worcestershire | Worcestershire | place:伍斯特郡=英国郡
+adriana | Adriana | person:阿德里安娜=女子名
+ahn | Ahn | person:安=韩国姓氏
+alexandre | Alexandre | person:亚历山大=法语男子名
+alfa | Alfa | brand:阿尔法=意大利汽车品牌
+ard | skip:unknown
+ashland | Ashland | place:阿什兰=美国城市
+bateman | Bateman | person:贝特曼=英语姓氏
+bohemia | Bohemia | place:波希米亚=捷克地区
+bonaparte | Bonaparte | person:波拿巴=拿破仑家族姓氏
+bos | skip:unknown
+boyz | skip:junk
+canadiens | Canadiens | org:加拿大人队=冰球队
+cantonese | common | n.粤语, 广东话 ; adj.广东的
+capcom | Capcom | brand:卡普空=日本游戏公司
+carlin | Carlin | person:卡林=英语姓氏
+casablanca | Casablanca | place:卡萨布兰卡=摩洛哥城市
+catalina | Catalina | person:卡塔利娜=女子名
+cfr | CFR | org:外交关系委员会=美国智库
+d.j | skip:junk
+damnit | common | int.该死 [informal,offensive-mild]
+darlington | Darlington | place:达灵顿=英国城镇
+davison | Davison | person:戴维森=英语姓氏
+devi | Devi | religion:提毗=印度教女神
+dietrich | Dietrich | person:迪特里希=德语姓氏
+dolce | skip:fragment
+emailing | common | v.发电子邮件
+fannie | Fannie | person:范妮=英语女子名
+faust | Faust | work:浮士德=歌德诗剧人物
+fdr | FDR | abbr:富兰克林·罗斯福
+fourier | Fourier | person:傅里叶=法国数学家
+frau | skip:not-english
+gaines | Gaines | person:盖恩斯=英语姓氏
+gamergate | Gamergate | event:玩家门=2014年游戏争议
+gan | GAN | abbr:生成对抗网络
+gia | Gia | person:吉娅=女子名
+gonzalo | Gonzalo | person:贡萨洛=西语男子名
+gretchen | Gretchen | person:格雷琴=德语女子名
+herzegovina | skip:fragment
+hhs | HHS | abbr:美国卫生与公众服务部
+higgs | Higgs | person:希格斯=英国物理学家
+hola | skip:not-english
+huntsville | Huntsville | place:亨茨维尔=美国城市
+inf | skip:unknown
+infographic | common | n.信息图
+islington | Islington | place:伊斯灵顿=伦敦自治市
+keenan | Keenan | person:基南=爱尔兰姓氏
+kissinger | Kissinger | person:基辛格=美国前国务卿
+koi | common | n.锦鲤
+kwon | Kwon | person:权=韩国姓氏
+leningrad | Leningrad | place:列宁格勒=圣彼得堡旧称
+lerner | Lerner | person:勒纳=英语姓氏
+lolita | Lolita | work:洛丽塔=纳博科夫小说
+loyola | skip:unknown
+lukaku | Lukaku | person:卢卡库=比利时足球运动员
+mariana | Mariana | place:马里亚纳=太平洋群岛 ; person:玛丽安娜=女子名
+mau | skip:unknown
+mca | skip:unknown
+mcmaster | McMaster | person:麦克马斯特=英语姓氏
+monet | Monet | person:莫奈=法国画家
+mornin | skip:junk
+mort | skip:unknown
+muriel | Muriel | person:穆丽尔=英语女子名
+musa | skip:unknown
+nagar | skip:fragment
+nrc | skip:unknown
+orson | Orson | person:奥森=英语男子名
+pacquiao | Pacquiao | person:帕奎奥=菲律宾拳手
+pembroke | Pembroke | place:彭布罗克=英国地名
+persians | Persians | people:波斯人=伊朗古民族
+raman | Raman | person:拉曼=印度物理学家
+reza | Reza | person:礼萨=波斯男子名
+rizzo | Rizzo | person:里佐=意大利姓氏
+roanoke | Roanoke | place:罗阿诺克=美国城市
+rochdale | Rochdale | place:罗奇代尔=英国城镇
+romano | Romano | person:罗马诺=意大利姓氏
+roper | Roper | person:罗珀=英语姓氏
+sch | skip:unknown
+scotus | SCOTUS | abbr:美国最高法院
+silverman | Silverman | person:西尔弗曼=英语姓氏
+skeptics | common | n.怀疑论者
+smes | SMEs | abbr:中小企业
+sonya | Sonya | person:索尼娅=女子名
+spock | Spock | work:斯波克=星际迷航角色
+stargate | Stargate | work:星际之门=科幻影视系列
+swann | Swann | person:斯旺=英语姓氏
+tatiana | Tatiana | person:塔蒂亚娜=俄语女子名
+telecast | common | n.电视广播 ; v.电视转播
+terre | skip:fragment
+travers | Travers | person:特拉弗斯=英语姓氏
+tron | Tron | work:电子世界争霸战=科幻电影
+tully | Tully | person:塔利=英语姓氏
+umar | Umar | person:奥马尔=阿拉伯男子名
+vauxhall | Vauxhall | brand:沃克斯豪尔=英国汽车品牌
+vb | skip:unknown
+villiers | Villiers | person:维利尔斯=英语姓氏
+virgo | Virgo | other:处女座=星座
+vito | Vito | person:维托=意大利男子名
+yiddish | common | n.意第绪语
+aiden | Aiden | person:艾登=英语男子名
+alastair | Alastair | person:阿拉斯泰尔=苏格兰男子名
+anglia | skip:fragment
+antioch | Antioch | place:安条克=古叙利亚城市
+aquarius | Aquarius | other:水瓶座=星座
+armani | Armani | brand:阿玛尼=意大利时装品牌
+bds | skip:unknown
+beaufort | Beaufort | person:博福特=英语姓氏
+bess | Bess | person:贝丝=英语女子名
+blanco | Blanco | person:布兰科=西语姓氏
+borussia | skip:fragment
+breton | Breton | people:布列塔尼人 ; common
+caine | Caine | person:凯恩=英国演员姓氏
+capri | Capri | place:卡普里岛=意大利岛屿
+carthage | Carthage | place:迦太基=古代北非城邦
+cfs | skip:unknown
+chao | skip:unknown
+clemens | Clemens | person:克莱门斯=英语姓氏
+cma | skip:unknown
+coney | skip:fragment
+copa | skip:fragment
+crc | CRC | abbr:循环冗余校验=计算机术语
+crt | CRT | abbr:阴极射线管
+cubans | Cubans | people:古巴人
+deus | skip:not-english
+dey | skip:unknown
+dix | Dix | person:迪克斯=英语姓氏
+dorchester | Dorchester | place:多切斯特=英国城镇
+dorsey | Dorsey | person:多尔西=英语姓氏
+dreyfus | Dreyfus | person:德雷福斯=法国姓氏
+dutchman | common | n.荷兰人
+duval | skip:unknown
+dwyer | Dwyer | person:德怀尔=爱尔兰姓氏
+earbuds | common | n.耳塞式耳机
+epi | skip:unknown
+erickson | Erickson | person:埃里克森=英语姓氏
+ernesto | Ernesto | person:埃内斯托=西语男子名
+fer | skip:unknown
+fia | FIA | org:国际汽联=国际汽车联合会
+finley | Finley | person:芬利=英语姓氏
+forrester | Forrester | person:福雷斯特=英语姓氏
+frey | Frey | person:弗雷=英语姓氏
+gmc | skip:unknown
+goodyear | Goodyear | brand:固特异=美国轮胎品牌

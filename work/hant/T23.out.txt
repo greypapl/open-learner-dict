@@ -1,0 +1,195 @@
+ph_brain-death.1 | 腦死
+ph_bullet-train.1 | 子彈列車, 高速列車
+ph_business-cycle.1 | 景氣循環, 商業週期
+ph_busy-signal.1 | 忙線音
+ph_butter-bean.1 | 皇帝豆
+ph_button-mushroom.1 | 洋菇
+ph_call-center.1 | 客服中心
+ph_call-centre.1 | 客服中心
+ph_call-to-order.1 | 宣布開會
+ph_camper-van.1 | 露營車, 房車
+ph_car-pool.1 | 共乘, 合用車
+ph_carpal-tunnel-syndrome.1 | 腕隧道症候群
+ph_change-gear.1 | 換檔
+ph_character-assassination.1 | 詆毀名譽, 人身攻擊
+ph_charge-card.1 | 簽帳卡, 賒帳卡
+ph_check-mark.1 | 勾號, 核取記號
+ph_cigarette-butt.1 | 菸蒂
+ph_circuit-training.1 | 循環訓練
+ph_circulatory-system.1 | 循環系統
+ph_climbing-wall.1 | 攀岩牆
+ph_clinical-depression.1 | 臨床憂鬱症
+ph_coat-check.1 | 衣帽寄物處
+ph_coffee-break.1 | 休息時間, 茶歇
+ph_comfort-food.1 | 療癒食物
+ph_command-economy.1 | 計畫經濟
+ph_community-college.1 | 社區學院
+ph_community-service.1 | 社區服務
+ph_congestion-charge.1 | 壅塞費
+ph_contain-oneself.1 | 克制自己, 抑制感情
+ph_continental-shelf.1 | 大陸棚
+ph_control-tower.1 | 管制塔臺
+ph_convenience-food.1 | 便利食品
+ph_conversation-piece.1 | 話題物品
+ph_conveyor-belt.1 | 輸送帶
+ph_cottage-pie.1 | 農舍派, 肉末馬鈴薯泥派
+ph_cover-story.1 | 封面報導
+ph_crash-helmet.1 | 安全帽
+ph_creative-accounting.1 | 做假帳, 巧立名目的會計
+ph_credit-rating.1 | 信用評等
+ph_crossing-guard.1 | 學校路口導護
+ph_cruise-liner.1 | 郵輪
+ph_curly-bracket.1 | 大括號
+ph_current-account.1 | 活期帳戶
+ph_cystic-fibrosis.1 | 囊狀纖維化
+ph_data-entry.1 | 資料輸入
+ph_date-rape.1 | 約會強暴
+ph_daylight-saving.1 | 日光節約時間
+ph_defence-mechanism.1 | 防衛機制
+ph_dependent-clause.1 | 從屬子句
+ph_deposit-account.1 | 存款帳戶
+ph_diesel-engine.1 | 柴油引擎
+ph_district-nurse.1 | 社區護士
+ph_do-down.1 | 貶低, 詆毀
+ph_dog-tag.1 | 軍人身分牌
+ph_domino-effect.1 | 骨牌效應
+ph_drop-a-line.1 | 寫封短信
+ph_drum-kit.1 | 爵士鼓
+ph_dry-dock.1 | 乾船塢
+ph_due-process.1 | 正當程序
+ph_emergency-brake.1 | 緊急煞車
+ph_emotional-intelligence.1 | 情緒智商
+ph_enter-key.1 | 輸入鍵
+ph_escape-key.1 | 跳脫鍵
+ph_estate-agent.1 | 房屋仲介
+ph_expense-account.1 | 費用帳戶
+ph_family-planning.1 | 家庭計畫
+ph_family-doctor.1 | 家庭醫師
+ph_feedback-loop.1 | 回饋迴路
+ph_field-event.1 | 田賽項目
+ph_fine-print.1 | 小號字體條款
+ph_finger-food.1 | 手抓食物
+ph_fire-escape.1 | 逃生梯, 安全出口
+ph_first-gear.1 | 一檔
+ph_fitted-sheet.1 | 床包
+ph_flight-recorder.1 | 飛行紀錄器
+ph_floppy-disk.1 | 軟碟
+ph_fluff-up.1 | 拍鬆
+ph_fluorescent-lamp.1 | 螢光燈
+ph_flip-off.1 | 比中指
+ph_focus-group.1 | 焦點團體
+ph_food-processor.1 | 食物處理機
+ph_forklift-truck.1 | 堆高機
+ph_forward-slash.1 | 正斜線
+ph_frame-rate.1 | 影格率
+ph_free-kick.1 | 自由球
+ph_funeral-director.1 | 殯葬業者
+ph_future-perfect.1 | 未來完成式
+ph_future-tense.1 | 未來式
+ph_game-plan.1 | 策略, 計畫
+ph_game-theory.1 | 賽局理論
+ph_garage-band.1 | 車庫樂團
+ph_gas-cooker.1 | 瓦斯爐
+ph_gay-pride.1 | 同志驕傲
+ph_gear-shift.1 | 排檔桿
+ph_general-practitioner.1 | 全科醫師
+ph_girl-band.1 | 女子樂團
+ph_go-whole-hog.1 | 徹底做, 做到底
+ph_good-afternoon.1 | 午安
+ph_grad-school.1 | 研究所
+ph_grandfather-clock.1 | 落地大擺鐘
+ph_graphic-novel.1 | 圖像小說
+ph_gross-national-product.1 | 國民生產毛額
+ph_gross-profit.1 | 毛利
+ph_growth-industry.1 | 成長產業
+ph_gun-control.1 | 槍械管制
+ph_farm-team.1 | 二軍
+ph_hang-up-on.1 | 掛某人電話
+ph_hard-at-it.1 | 在拼命做事
+ph_hard-copy.1 | 紙本
+ph_hard-shoulder.1 | 路肩
+ph_heavy-cream.1 | 鮮奶油
+ph_high-definition.1 | 高畫質
+ph_high-fashion.1 | 高級時裝
+ph_high-fidelity.1 | 高傳真
+ph_high-gear.1 | 高速檔
+ph_home-cinema.1 | 家庭劇院
+ph_home-theater.1 | 家庭劇院
+ph_home-improvement.1 | 居家裝潢
+ph_housing-association.1 | 住宅協會
+ph_housing-benefit.1 | 住宅補貼
+ph_iceberg-lettuce.1 | 結球萵苣
+ph_in-real-time.1 | 即時地
+ph_indirect-object.1 | 間接受詞
+ph_initial-public-offering.1 | 首次公開發行
+ph_insider-information.1 | 內幕消息
+ph_instrument-panel.1 | 儀表板
+ph_intensive-care-unit.1 | 加護病房
+ph_interest-group.1 | 利益團體
+ph_intravenous-drip.1 | 靜脈點滴
+ph_irritable-bowel-syndrome.1 | 大腸急躁症
+ph_jacket-potato.1 | 烤馬鈴薯
+ph_jet-engine.1 | 噴射引擎
+ph_job-description.1 | 職務說明
+ph_jump-lead.1 | 救車線
+ph_jumper-cable.1 | 救車線
+ph_junior-high.1 | 國中
+ph_just-my-luck.1 | 真倒楣
+ph_keep-abreast-of.1 | 跟上, 了解最新情況
+ph_kitchen-roll.1 | 廚房紙巾捲
+ph_know-the-score.1 | 了解實情
+ph_lab-coat.1 | 實驗袍, 白袍
+ph_the-last-word.1 | 最新款, 最高水準
+ph_lead-time.1 | 前置時間, 交貨期
+ph_left-luggage.1 | 行李寄物處
+ph_line-manager.1 | 直屬主管, 直屬上司
+ph_local-anaesthetic.1 | 局部麻醉
+ph_long-weekend.1 | 連假
+ph_loyalty-card.1 | 會員卡, 集點卡
+ph_machine-gun.1 | 機關槍
+ph_mad-cow-disease.1 | 狂牛症
+ph_main-clause.1 | 主要子句
+ph_market-share.1 | 市占率
+ph_master-key.1 | 萬用鑰匙
+ph_menu-bar.1 | 功能表列
+ph_migrant-worker.1 | 移工
+ph_milk-float.1 | 送牛奶車
+ph_milk-round.1 | 送牛奶路線
+ph_milk-round.2 | 校園徵才
+ph_mirror-image.1 | 鏡像, 完全相反的東西
+ph_modal-verb.1 | 情態助動詞
+ph_motor-home.1 | 露營車
+ph_motor-vehicle.1 | 機動車輛
+ph_music-box.1 | 音樂盒
+ph_mushroom-cloud.1 | 蕈狀雲
+ph_nature-trail.1 | 自然步道
+ph_net-profit.1 | 淨利
+ph_new-potato.1 | 新馬鈴薯
+ph_news-conference.1 | 記者會
+ph_notice-board.1 | 布告欄
+ph_noun-phrase.1 | 名詞片語
+ph_nuclear-fission.1 | 核分裂
+ph_nuclear-fusion.1 | 核融合
+ph_nip-and-tuck.2 | 整形手術
+ph_object-lesson.1 | 實例教訓, 範例
+ph_old-age-pension.1 | 老年年金
+ph_on-credit.1 | 賒帳, 分期付款
+ph_on-file.1 | 存檔, 有紀錄
+ph_on-the-job.1 | 在工作中, 在職
+ph_open-source.1 | 開放原始碼
+ph_ozone-hole.1 | 臭氧層破洞
+ph_package-tour.1 | 旅行團, 套裝旅遊
+ph_paper-clip.1 | 迴紋針
+ph_paper-trail.1 | 書面紀錄
+ph_parking-brake.1 | 手煞車, 駐車煞車
+ph_past-perfect.1 | 過去完成式
+ph_past-progressive.1 | 過去進行式
+ph_pay-cheque.1 | 薪資支票, 薪水
+ph_pay-freeze.1 | 薪資凍結
+ph_pay-packet.1 | 薪水袋, 薪水
+ph_pay-scale.1 | 薪資等級
+ph_peace-process.1 | 和平進程
+ph_pelican-crossing.1 | 行人穿越號誌燈
+ph_penalty-point.1 | 違規記點
+ph_perfect-pitch.1 | 絕對音感
+ph_physical-therapist.1 | 物理治療師

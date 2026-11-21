@@ -1,0 +1,175 @@
+write a poem | delete:free
+love poem | delete:phrase
+recite a poem | v+n | 背诵诗歌 | poem
+oxygen mask | delete:phrase
+outer layer | delete:free
+feel lonely | delete:free
+family gathering | delete:free
+unable to forgive | delete:free
+enormous amount | delete:free
+enormous success | delete:free
+enormous difference | delete:free
+conventional weapons | delete:phrase
+conventional medicine | adj+n | 常规医学, 西医 | conventional
+seating arrangement | delete:phrase
+flexible arrangement | delete:free
+arrest warrant | delete:phrase
+issue a warrant | v+n | 签发逮捕令 | warrant
+software upgrade | delete:phrase
+railway tunnel | delete:free
+spy ring | delete:phrase
+shoe size | delete:phrase
+sacred text | delete:free
+industrial robot | delete:phrase
+neutral colour | delete:phrase
+naval base | delete:phrase
+naval officer | delete:free
+municipal government | delete:phrase
+municipal council | delete:phrase
+lazy day | delete:free
+bad habit | delete:free
+export goods | delete:free
+divine intervention | delete:phrase
+tourist destination | delete:free
+final destination | delete:free
+security deposit | delete:phrase
+protect copyright | delete:free
+copyright law | delete:phrase
+conversion rate | delete:phrase
+consistently good | delete:free
+bullet wound | delete:phrase
+illegal abortion | delete:free
+unexpected result | delete:free
+at sb's suggestion | delete:phrase
+helpful suggestion | delete:free
+toxic substance | delete:free
+snake bite | delete:phrase
+regulatory body | delete:phrase
+regulatory authority | delete:phrase
+wedding reception | delete:phrase
+black-and-white photograph | delete:free
+the outdoor life | delete:rare
+power up a laptop | delete:phrase
+graphic detail | adj+n | 详尽逼真的细节 | graphic
+write an essay | delete:free
+a disgusting smell | delete:free
+controversial issue | delete:free
+a coalition government | delete:phrase
+celebrity chef | delete:phrase
+tax burden | delete:phrase
+a blessed event | delete:rare
+a work permit | delete:phrase
+state pension | delete:phrase
+a lack of motivation | delete:free
+a different interpretation | delete:free
+a handsome man | delete:free
+a huge explosion | delete:free
+a potential employer | delete:free
+delete a file | delete:free
+be in custody | delete:phrase
+upon completion | delete:phrase
+marine biology | delete:phrase
+a recycling bin | delete:phrase
+fully affordable | delete:wrong
+accidentally delete | delete:free
+extremely wealthy | delete:free
+a war veteran | delete:phrase
+a financial transaction | delete:free
+complete a transaction | delete:free
+swim across sth | delete:free
+the ship sank | delete:wrong
+a research scientist | delete:free
+a car manufacturer | delete:free
+imperial power | delete:free
+a holder of sth | delete:free
+passport holder | delete:phrase
+the force of gravity | delete:phrase
+gradually increase | delete:free
+gradually become | delete:free
+in excess of sth | delete:phrase
+a roast duck | delete:phrase
+a side dish | delete:phrase
+a learning disability | delete:phrase
+a private detective | delete:phrase
+correctly identify | delete:free
+a continuous process | delete:free
+a private clinic | delete:free
+a clever idea | delete:free
+a clever trick | delete:free
+a bitter taste | delete:free
+a backup copy | delete:free
+wrap sth in paper | delete:free
+wireless network | delete:phrase
+a holiday villa | delete:free
+public transit | delete:phrase
+a tourist attraction | delete:phrase
+solely because of sth | delete:free
+a radar screen | delete:phrase
+a political prisoner | delete:phrase
+a prisoner of war | delete:phrase
+precisely because | delete:free
+at precisely that moment | delete:free
+reduce pollution | delete:free
+a political opponent | delete:free
+an opponent of sth | delete:free
+a skilled occupation | delete:free
+mentally handicapped | delete:rare
+legalize marijuana | delete:free
+a laser beam | delete:phrase
+implement changes | v+n | 实施变革 | implement
+flip through sth | delete:phrase
+an accurate diagnosis | delete:free
+software developer | delete:phrase
+demonstrate a skill | delete:free
+a deep cave | delete:free
+a catching disease | delete:rare
+a caring attitude | delete:free
+a software bug | delete:phrase
+win a bronze medal | delete:free
+additionally required | delete:wrong
+trapped in sth | delete:free
+trace elements | delete:phrase
+smoke tobacco | delete:free
+sustainable energy | delete:phrase
+a worst-case scenario | delete:phrase
+a high ranking | delete:free
+a ram's horns | delete:free
+a police raid | delete:free
+preserve the environment | delete:free
+a pumpkin pie | delete:phrase
+computer graphics | delete:phrase
+space exploration | delete:phrase
+a sense of excitement | delete:free
+medical ethics | delete:phrase
+a code of ethics | delete:phrase
+express emotion | delete:free
+strong emotion | delete:free
+consumer electronics | delete:phrase
+fulfil one's destiny | v+n | 完成使命, 实现宿命 | destiny
+a drug dealer | delete:phrase
+a car dealer | delete:phrase
+pass through customs | v+prep | 通过海关 | customs
+a congressional hearing | delete:phrase
+a political commentary | delete:free
+a coastal town | delete:free
+bulk purchase | delete:free
+a pair of boots | delete:free
+a razor blade | delete:phrase
+harmful bacteria | delete:free
+a vintage car | delete:phrase
+totally unnecessary | delete:free
+a tropical storm | delete:phrase
+a tropical climate | delete:free
+structural change | delete:free
+feel stressed | delete:free
+historical significance | delete:free
+a long-distance runner | delete:phrase
+a rival company | delete:free
+fire a rifle | delete:free
+fully restored | delete:free
+a reserved seat | delete:free
+a family physician | delete:phrase
+change perception | delete:free
+a parliamentary election | delete:free
+an oak tree | delete:phrase
+a mixture of sth | delete:free

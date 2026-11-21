@@ -1,0 +1,131 @@
+ph_beta-test.1 | 公測, 公開測試
+ph_car-boot-sale.1 | 後車廂舊貨市集
+ph_guinea-pig.1 | 天竺鼠, 試驗品
+ph_guinea-pig.2 | 實驗對象
+ph_peer-review.1 | 同儕審查
+ph_peer-group.1 | 同儕團體, 同輩
+ph_organ-donor.1 | 器官捐贈者
+ph_cruise-missile.1 | 巡弋飛彈
+ph_ballistic-missile.1 | 彈道飛彈
+ph_washing-up-liquid.1 | 洗碗精
+ph_sexually-transmitted-disease.1 | 性傳染病
+ph_club-sandwich.1 | 總匯三明治
+ph_compact-disc.1 | 光碟, 雷射唱片
+ph_come-out-of-the-closet.1 | 公開同性戀身分, 出櫃
+ph_dependent-variable.1 | 應變數
+ph_rap-music.1 | 饒舌音樂
+ph_mashed-potatoes.1 | 馬鈴薯泥
+ph_hybrid-car.1 | 油電混合車
+ph_dairy-farm.1 | 乳牛場
+ph_viral-marketing.1 | 病毒式行銷
+ph_dump-truck.1 | 傾卸車
+ph_sexual-orientation.1 | 性傾向
+ph_bar-graph.1 | 長條圖
+ph_starting-lineup.1 | 先發陣容
+ph_kidney-bean.1 | 紅腰豆
+ph_convenience-store.1 | 便利商店
+ph_cannon-fodder.1 | 砲灰
+ph_disk-drive.1 | 磁碟機
+ph_lottery-ticket.1 | 彩券
+ph_cottage-cheese.1 | 茅屋起司
+ph_roller-coaster.1 | 雲霄飛車
+ph_acoustic-guitar.1 | 木吉他
+ph_usb-stick.1 | 隨身碟, 快閃碟
+ph_incentive-scheme.1 | 獎勵計畫
+ph_pick-up-the-tab.1 | 買單, 付帳
+ph_blood-circulation.1 | 血液循環
+ph_hit-the-brakes.1 | 急煞車
+ph_binary-code.1 | 二進位碼
+ph_postal-code.1 | 郵遞區號
+ph_power-steering.1 | 動力方向盤
+ph_overhead-projector.1 | 投影機
+ph_desktop-computer.1 | 桌上型電腦
+ph_renewable-energy.1 | 再生能源
+ph_garlic-bread.1 | 蒜香麵包
+ph_recreational-vehicle.1 | 露營車
+ph_batch-file.1 | 批次檔
+ph_shuttle-bus.1 | 接駁車, 班車
+ph_zip-code.1 | 郵遞區號
+ph_blind-alley.1 | 死胡同, 絕境
+ph_lime-green.1 | 萊姆綠的
+ph_daylight-saving-time.1 | 日光節約時間
+ph_bark-up-the-wrong-tree.1 | 找錯對象, 弄錯方向
+ph_spill-over.1 | 溢出, 蔓延
+ph_spill-out.1 | 湧出, 溢出
+ph_envy-of.1 | 羨慕的對象
+ph_cook-sb-s-goose.1 | 毀掉某人的計畫
+ph_cardiac-arrest.1 | 心跳停止
+ph_nuclear-reactor.1 | 核反應爐
+ph_boil-away.1 | 煮乾
+ph_power-surge.1 | 電流突波
+ph_quiz-show.1 | 益智節目
+ph_rubik-s-cube.1 | 魔術方塊
+ph_ice-cream-cone.1 | 甜筒冰淇淋
+ph_clean-slate.1 | 清白的紀錄
+ph_instant-replay.1 | 即時重播
+ph_maiden-name.1 | 娘家姓
+ph_promo-code.1 | 優惠代碼
+ph_sim-card.1 | 手機晶片卡, 使用者識別卡
+ph_sausage-roll.1 | 香腸捲
+ph_rehab-center.1 | 戒毒所, 復健中心
+ph_curb-one-s-enthusiasm.1 | 克制熱情
+ph_gain-traction.1 | 獲得支持, 受到關注
+ph_undercover-agent.1 | 臥底探員
+ph_gastric-bypass.1 | 胃繞道手術
+ph_heart-bypass.1 | 心臟繞道手術
+ph_lateral-thinking.1 | 水平思考, 創造性思考
+ph_forensic-science.1 | 法醫學, 刑事鑑識
+ph_attach-to.1 | 附在, 連接到
+ph_whisper-campaign.1 | 造謠中傷, 暗中詆毀
+ph_nod-through.1 | 通過, 批准
+ph_go-offline.1 | 離線, 斷線
+ph_notebook-computer.1 | 筆記型電腦
+ph_hedge-fund.1 | 避險基金
+ph_public-expenditure.1 | 公共支出
+ph_press-briefing.1 | 新聞發布會
+ph_boxer-shorts.1 | 四角褲
+ph_baggage-claim.1 | 行李領取處
+ph_under-warranty.1 | 在保固期內
+ph_tow-truck.1 | 拖吊車, 拖車
+ph_verb-phrase.1 | 動詞片語
+ph_occupational-therapy.1 | 職能治療
+ph_amino-acid.1 | 胺基酸
+ph_aisle-seat.1 | 靠走道座位
+ph_asthma-attack.1 | 氣喘發作
+ph_petrol-pump.1 | 加油機
+ph_cubic-metre.1 | 立方公尺
+ph_cosmetic-surgery.1 | 整形手術, 美容手術
+ph_lie-detector.1 | 測謊機
+ph_jumper-cables.1 | 救車線
+ph_hear-sth-on-the-grapevine.1 | 聽到小道消息
+ph_crisp-packet.1 | 洋芋片袋
+ph_cinnamon-roll.1 | 肉桂捲
+ph_nuclear-fallout.1 | 放射性落塵
+ph_prostate-cancer.1 | 攝護腺癌
+ph_genetically-modified.1 | 基因改造的
+ph_cardboard-box.1 | 紙箱
+ph_refrain-from.1 | 克制, 避免
+ph_bipolar-disorder.1 | 雙相情緒障礙症, 躁鬱症
+ph_paradigm-shift.1 | 典範轉移, 根本性變革
+ph_cerebral-palsy.1 | 腦性麻痺
+ph_drip-feed.1 | 靜脈點滴
+ph_disc-jockey.1 | 唱片節目主持人, 流行音樂主持人
+ph_disposable-income.1 | 可支配所得
+ph_affirmative-action.1 | 平權行動
+ph_hot-cross-bun.1 | 十字麵包
+ph_gas-burner.1 | 瓦斯爐頭
+ph_nautical-mile.1 | 海浬
+ph_sesame-oil.1 | 麻油, 香油
+ph_contingency-plan.1 | 應變計畫
+ph_scrape-through.1 | 勉強通過
+ph_hair-conditioner.1 | 潤髮乳
+ph_rake-up.1 | 翻舊帳
+ph_jumbo-jet.1 | 巨無霸噴射客機
+ph_sanitary-towel.1 | 衛生棉
+ph_sanitary-napkin.1 | 衛生棉
+ph_pelvic-floor.1 | 骨盆底肌
+ph_fluorescent-light.1 | 日光燈, 螢光燈
+ph_antitrust-law.1 | 反托拉斯法
+ph_pressure-cooker.1 | 壓力鍋
+ph_the-big-picture.1 | 大局, 全局
+ph_pass-with-flying-colours.1 | 以優異成績通過

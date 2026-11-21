@@ -1,0 +1,300 @@
+w000433.1 | future | n. | A2 | 未来, 将来 | the time that will come after now
+w000433.2 | future | n. | A2 | 前途, 前景 | what will happen to someone or something
+w000433.3 | future | adj. | A2 | 未来的, 将来的 | happening or existing later
+w000434.1 | light | n. | A1 | 光, 光线, 光亮 | the brightness that lets us see things
+w000434.2 | light | n. | A1 | 灯, 电灯 | a device that gives out brightness
+w000434.3 | light | adj. | A1 | 轻的, 不重的 | not weighing much
+w000434.4 | light | adj. | A1 | 浅色的, 淡的, 明亮的 | pale in colour or bright
+w000434.5 | light | v. | A1 | 点燃, 点火 | to make something start burning
+w000434.6 | light | v. | A1 | 照亮, 照明 | to make a place bright
+w000435.1 | low | adj. | A1 | 低的, 矮的 | not high or tall
+w000435.2 | low | adj. | A1 | 少的, 低下的 | small in amount, level or value
+w000435.3 | low | adj. | A1 | 情绪低落的, 沮丧的 | sad and lacking energy
+w000435.4 | low | adv. | A1 | 低, 向下 | in or to a low position
+w000435.5 | low | n. | A1 | 低点, 最低水平 | the lowest level or point
+w000436.1 | million | num. | A1 | 百万, 一百万 | the number 1,000,000
+w000436.2 | million | n. | A1 | 大量, 无数 | a very large number
+w000437.1 | morning | n. | A1 | 早晨, 上午, 早上 | the early part of the day
+w000438.1 | police | n. | A1 | 警察, 警方 | the official group that enforces laws
+w000438.2 | police | v. | A1 | 维持治安, 管辖, 监督 | to keep order in a place
+w000439.1 | short | adj. | A1 | 短的, 短暂的 | small in length or time
+w000439.2 | short | adj. | A1 | 矮的, 个子小的 | not tall
+w000439.3 | short | adj. | A1 | 缺少的, 不足的 | not having enough of something
+w000439.4 | short | n. | A1 | 短片, 短电影 | a brief film
+w000440.1 | stay | v. | A1 | 停留, 待 | to remain in a place
+w000440.2 | stay | v. | A1 | 住, 暂住, 逗留 | to live somewhere for a short time
+w000440.3 | stay | v. | A1 | 保持, 依然 | to continue to be in a state
+w000440.4 | stay | n. | A1 | 停留, 逗留 | a period of time spent somewhere
+w000441.1 | after-hours | adj. | B2 | 下班后的, 营业时间以后的 | happening after normal working time
+w000441.2 | after-hours | adv. | B2 | 下班后, 营业时间外 | after normal working or opening time
+w000442.1 | age | n. | A1 | 年龄, 年纪 | how old someone or something is
+w000442.2 | age | n. | A1 | 时代, 时期 | a particular period of history
+w000442.3 | age | v. | A1 | 变老, 老化 | to become older
+w000443.1 | buy | v. | A1 | 买, 购买 | to get something by paying money
+w000443.2 | buy | n. | A1 | 购买, 所购之物, 便宜货 | something bought, especially at a good price
+w000444.1 | close-up | n. | B2 | 特写, 特写镜头 | a photo or shot taken from very near
+w000444.2 | close-up | adj. | B2 | 近距离的, 特写的 | seen or done from very near
+w000445.1 | deal | n. | B1 | 交易, 协议 | an agreement, especially in business
+w000445.2 | deal | n. | B1 | 大量, 许多 | a large amount, as in a great deal
+w000445.3 | deal | v. | B1 | 处理, 应付, 对付 | to take action about a problem
+w000445.4 | deal | v. | B1 | 做买卖, 经营 | to buy and sell goods
+w000445.5 | deal | v. | B1 | 发牌, 分发 | to give out playing cards
+w000446.1 | rather | adv. | A2 | 相当, 颇, 有点 | to some degree; fairly
+w000446.2 | rather | adv. | A2 | 宁可, 宁愿 | used to show preference, as in would rather
+w000446.3 | rather | adv. | A2 | 更确切地说, 而是 | used to correct or be more exact
+w000447.1 | reason | n. | A2 | 原因, 理由 | why something happens or is done
+w000447.2 | reason | n. | A2 | 理智, 理性 | the ability to think sensibly
+w000447.3 | reason | v. | A2 | 推理, 推断, 思考 | to think logically to form a judgment
+w000448.1 | red | adj. | A1 | 红的, 红色的 | having the colour of blood
+w000448.2 | red | n. | A1 | 红色, 红 | the colour of blood
+w000449.1 | report | n. | A2 | 报告, 报道 | a written or spoken account of events
+w000449.2 | report | v. | A2 | 报告, 报道 | to give information about something
+w000449.3 | report | v. | A2 | 举报, 告发 | to tell authorities about a crime or problem
+w000450.1 | soon | adv. | A1 | 很快, 不久, 马上 | in a short time from now
+w000451.1 | third | num. | A1 | 第三, 第三个 | coming after the second
+w000451.2 | third | n. | A1 | 三分之一 | one of three equal parts
+w000452.1 | turn | v. | A1 | 转, 转动, 翻 | to move round or change direction
+w000452.2 | turn | v. | A1 | 转向, 拐弯 | to change the direction you are going
+w000452.3 | turn | v. | A1 | 变成, 变得 | to become different
+w000452.4 | turn | n. | A1 | 轮流, 机会, 次序 | the time when someone may do something
+w000452.5 | turn | n. | A1 | 转弯, 拐弯 | a change of direction
+w000453.1 | whether | conj. | B1 | 是否, 是不是 | used to introduce a possible choice
+w000453.2 | whether | conj. | B1 | 不管, 无论 | used to say something is true in any case
+w000454.1 | among | prep. | A2 | 在…之中, 在…中间 | surrounded by or in the middle of
+w000454.2 | among | prep. | A2 | 属于…之列, …之一 | being one of a group
+w000454.3 | among | prep. | A2 | 在…之间, 分给 | divided between members of a group
+w000455.1 | check | v. | A2 | 检查, 核对, 查看 | to look at something to make sure it is right
+w000455.2 | check | v. | A2 | 阻止, 抑制 | to stop something from increasing
+w000455.3 | check | n. | A2 | 检查, 核对 | an act of examining something
+w000455.4 | check | n. | A2 | 支票 | a printed order to pay money from a bank
+w000455.5 | check | n. | A2 | 账单, 结账单 | a bill in a restaurant
+w000456.1 | check-in | n. | B1 | 登记, 报到, 办理登机手续 | the act of registering at an airport or hotel
+w000456.2 | check-in | n. | B1 | 登记处, 值机柜台 | the place where you register on arrival
+w000457.1 | development | n. | B1 | 发展, 发育, 成长 | the process of growing or improving
+w000457.2 | development | n. | B1 | 开发, 研制 | the work of creating new products or land use
+w000457.3 | development | n. | B1 | 新情况, 进展 | a new event that changes a situation
+w000458.1 | form | n. | A2 | 形式, 类型 | a type or kind of something
+w000458.2 | form | n. | A2 | 表格, 表 | a document with spaces to write information
+w000458.3 | form | n. | A2 | 形状, 外形 | the shape of something
+w000458.4 | form | v. | A2 | 形成, 组成, 构成 | to make or create something
+w000459.1 | further | adv. | B1 | 进一步, 更进一步 | to a greater degree; more
+w000459.2 | further | adv. | B1 | 更远, 较远 | at or to a greater distance
+w000459.3 | further | adj. | B1 | 更多的, 进一步的, 另外的 | more or additional
+w000459.4 | further | v. | B1 | 促进, 推进 | to help something develop or succeed
+w000460.1 | heart | n. | A1 | 心, 心脏 | the organ that pumps blood through the body
+w000460.2 | heart | n. | A1 | 内心, 心肠, 感情 | the centre of a person's feelings
+w000460.3 | heart | n. | A1 | 中心, 核心, 要点 | the most central or important part
+w000461.1 | myself | pron. | A1 | 我自己, 我亲自, 我本人 | the speaker as object or for emphasis
+w000462.1 | yourself | pron. | A1 | 你自己, 你亲自, 你本人 | the person spoken to, as object or emphasis
+w000463.1 | act | v. | A2 | 行动, 采取行动 | to do something for a purpose
+w000463.2 | act | v. | A2 | 表演, 扮演 | to perform a role in a play or film
+w000463.3 | act | n. | A2 | 行为, 举动 | a thing that someone does
+w000463.4 | act | n. | A2 | 法令, 法案 | a law passed by a parliament
+w000463.5 | act | n. | A2 | 幕, 一幕 | one main division of a play
+w000464.1 | although | conj. | A2 | 虽然, 尽管, 不过 | despite the fact that
+w000465.1 | child | n. | A1 | 孩子, 儿童 | a young person not yet adult
+w000465.2 | child | n. | A1 | 子女, 儿女 | a son or daughter of any age
+w000466.1 | fire | n. | A1 | 火, 火焰 | heat, light and flames from burning
+w000466.2 | fire | n. | A1 | 火灾, 失火 | burning that destroys buildings or land
+w000466.3 | fire | v. | A1 | 开枪, 射击, 开火 | to shoot a gun
+w000466.4 | fire | v. | A1 | 解雇, 开除 | to remove someone from their job
+w000467.1 | fun | n. | A1 | 乐趣, 娱乐, 有趣的事 | enjoyment or pleasure
+w000467.2 | fun | adj. | A1 | 有趣的, 好玩的 | enjoyable
+w000468.1 | half-day | n. | B1 | 半天, 半日 | half of a working or school day
+w000469.1 | living | n. | B1 | 生计, 谋生 | the money you earn to live
+w000469.2 | living | n. | B1 | 生活, 生活方式 | a way of life
+w000469.3 | living | adj. | B1 | 活着的, 现存的, 在世的 | alive now
+w000470.1 | major | adj. | B1 | 主要的, 重大的, 重要的 | very large or important
+w000470.2 | major | n. | B1 | 专业, 主修科目 | the main subject studied at university
+w000470.3 | major | v. | B1 | 主修, 专攻 | to study as your main university subject
+w000470.4 | major | n. | B1 | 少校, 陆军少校 | an army officer rank above captain
+w000471.1 | media | n. | B1 | 媒体, 传媒, 新闻媒介 | newspapers, TV and radio as a group
+w000472.1 | phone | n. | A1 | 电话, 电话机, 手机 | a device for talking to people far away
+w000472.2 | phone | v. | A1 | 打电话, 给…打电话 | to call someone using a telephone
+w000473.1 | right-hand | adj. | B1 | 右边的, 右侧的, 右手的 | on or towards the right side
+w000474.1 | well-known | adj. | A2 | 著名的, 众所周知的, 出名的 | known by many people
+w000475.1 | art | n. | A1 | 艺术, 美术 | creating paintings, music and similar works
+w000475.2 | art | n. | A1 | 艺术品, 美术作品 | paintings, drawings and sculptures
+w000475.3 | art | n. | A1 | 技艺, 技巧, 诀窍 | a skill needing special knowledge
+w000476.1 | behind | prep. | A1 | 在…后面, 在…背后 | at the back of
+w000476.2 | behind | prep. | A1 | 落后于, 不如 | less advanced or successful than
+w000476.3 | behind | adv. | A1 | 在后面, 落后 | at the back or later than expected
+w000477.1 | building | n. | A1 | 建筑物, 楼房, 大楼 | a structure with walls and a roof
+w000477.2 | building | n. | A1 | 建造, 建筑 | the work of constructing houses
+w000478.1 | easy | adj. | A1 | 容易的, 简单的 | not difficult
+w000478.2 | easy | adj. | A1 | 安逸的, 舒适的, 轻松的 | comfortable and without worry
+w000479.1 | first-class | adj. | B1 | 一流的, 最优秀的, 极好的 | of the highest quality
+w000479.2 | first-class | adj. | B1 | 头等的, 一等的 | relating to the most expensive travel seats
+w000479.3 | first-class | adv. | B1 | 乘头等舱, 坐一等座 | using the best and most expensive seats
+w000480.1 | gonna | aux. | B1 | 将要, 打算, 要 | spoken form of going to
+w000481.1 | market | n. | A2 | 市场, 集市 | a place where people buy and sell goods
+w000481.2 | market | n. | A2 | 市场, 行情, 需求 | trade in a type of goods or demand for them
+w000481.3 | market | v. | A2 | 推销, 销售 | to promote and sell a product
+w000482.1 | near | prep. | A1 | 在…附近, 靠近 | a short distance from
+w000482.2 | near | adj. | A1 | 近的, 接近的 | not far away in distance or time
+w000482.3 | near | adv. | A1 | 附近, 接近 | at or to a short distance
+w000482.4 | near | v. | A1 | 接近, 靠近, 临近 | to come closer to
+w000484.1 | phone-in | n. | C1 | 听众来电节目, 热线直播节目 | a broadcast where listeners call to speak live
+w000485.1 | plan | n. | A1 | 计划, 打算, 方案 | an arrangement for doing something
+w000485.2 | plan | v. | A1 | 计划, 打算, 规划 | to decide in detail what to do
+w000485.3 | plan | n. | A1 | 平面图, 设计图 | a drawing showing a building or area from above
+w000486.1 | political | adj. | B1 | 政治的, 政治上的 | relating to government and public affairs
+w000486.2 | political | adj. | B1 | 政党的, 党派的 | relating to parties competing for power
+w000487.1 | quite | adv. | A1 | 相当, 颇, 挺 | fairly but not very
+w000487.2 | quite | adv. | A1 | 完全, 十分, 非常 | completely
+w000488.1 | six | num. | A1 | 六, 六个 | the number 6
+w000489.1 | west | n. | A1 | 西, 西方, 西部 | the direction where the sun goes down
+w000489.2 | west | adj. | A1 | 西方的, 西部的 | in or from the direction of sunset
+w000489.3 | west | adv. | A1 | 向西, 朝西 | towards the direction of sunset
+w000490.1 | available | adj. | A2 | 可获得的, 可用的, 可买到的 | able to be obtained or used
+w000490.2 | available | adj. | A2 | 有空的, 有时间的 | free to see or talk to someone
+w000491.1 | education | n. | A2 | 教育, 培养 | the process of teaching and learning
+w000491.2 | education | n. | A2 | 学识, 教养 | the knowledge gained from being taught
+w000492.1 | final | adj. | A2 | 最后的, 最终的 | coming at the end
+w000492.2 | final | n. | A2 | 决赛, 总决赛 | the last game in a competition
+w000492.3 | final | n. | A2 | 期末考试, 大考 | an exam at the end of a course
+w000493.1 | former | adj. | B1 | 以前的, 从前的, 前任的 | existing or holding a role in the past
+w000493.2 | former | n. | B1 | 前者, 前一个 | the first of two things mentioned
+w000494.1 | front | n. | A1 | 前面, 正面, 前部 | the part that faces forward
+w000494.2 | front | adj. | A1 | 前面的, 前部的 | at or near the forward part
+w000494.3 | front | v. | A1 | 面对, 朝向 | to face towards something
+w000495.1 | list | n. | A1 | 清单, 名单, 列表 | a series of items written one below another
+w000495.2 | list | v. | A1 | 列出, 列举 | to write or say items one after another
+w000496.1 | ready | adj. | A1 | 准备好的, 准备就绪的 | prepared for what will happen
+w000496.2 | ready | adj. | A1 | 愿意的, 乐意的 | willing to do something
+w000496.3 | ready | v. | A1 | 使准备好, 准备 | to prepare someone or something
+w000497.1 | sometimes | adv. | A1 | 有时, 间或, 不时 | on some occasions but not always
+w000498.1 | son | n. | A1 | 儿子, 子嗣 | a male child of a parent
+w000499.1 | street | n. | A1 | 街, 街道, 马路 | a public road in a town with buildings
+w000501.1 | bring | v. | A1 | 带来, 拿来 | to take something or someone with you to a place
+w000501.2 | bring | v. | A1 | 引起, 导致, 带来 | to cause a situation or feeling
+w000501.3 | bring | v. | A1 | 使处于, 使达到 | to make something reach a state
+w000502.1 | check-up | n. | B1 | 体检, 健康检查, 检查 | a general medical examination
+w000503.1 | college | n. | A2 | 大学, 学院 | a place for higher education
+w000503.2 | college | n. | A2 | 专科学校, 职业学院 | a school giving training in particular skills
+w000504.1 | current | adj. | B1 | 当前的, 现在的, 现行的 | happening or existing now
+w000504.2 | current | n. | B1 | 水流, 气流 | a flow of water or air in one direction
+w000504.3 | current | n. | B1 | 电流, 电 | a flow of electricity
+w000505.1 | example | n. | A1 | 例子, 实例 | something that shows what others are like
+w000505.2 | example | n. | A1 | 榜样, 模范 | a person or behaviour worth copying
+w000506.1 | experience | n. | A2 | 经验, 阅历 | knowledge or skill gained from doing things
+w000506.2 | experience | n. | A2 | 经历, 体验 | something that happens to you
+w000506.3 | experience | v. | A2 | 经历, 体验, 感受 | to have something happen to you
+w000507.1 | meet | v. | A1 | 遇见, 碰到 | to come together by chance
+w000507.2 | meet | v. | A1 | 会面, 见面 | to come together by arrangement
+w000507.3 | meet | v. | A1 | 满足, 达到 | to reach a required standard or need
+w000508.1 | program | n. | A2 | 节目, 电视节目 | a show on television or radio
+w000508.2 | program | n. | A2 | 程序, 软件 | instructions that make a computer work
+w000508.3 | program | n. | A2 | 计划, 方案, 项目 | a planned series of activities
+w000508.4 | program | v. | A2 | 编程, 编制程序 | to write instructions for a computer
+w000509.1 | type | n. | A2 | 类型, 种类 | a kind or sort of thing
+w000509.2 | type | v. | A2 | 打字, 键入 | to write using a keyboard
+w000509.3 | type | n. | A2 | 字体, 铅字 | printed letters
+w000510.1 | baby | n. | A1 | 婴儿, 宝宝 | a very young child
+w000510.2 | baby | n. | A1 | 宝贝, 亲爱的 | a word for a loved person
+w000511.1 | chance | n. | A2 | 机会, 时机 | an opportunity to do something
+w000511.2 | chance | n. | A2 | 可能性, 机率 | how likely something is to happen
+w000511.3 | chance | n. | A2 | 偶然, 运气 | luck; things happening without a plan
+w000512.1 | father | n. | A1 | 父亲, 爸爸 | a male parent
+w000512.2 | father | n. | A1 | 神父, 神甫 | a title for a Christian priest
+w000512.3 | father | v. | A1 | 成为…的父亲, 生育 | to become the male parent of a child
+w000513.1 | march | v. | B1 | 行军, 齐步走 | to walk with regular steps like soldiers
+w000513.2 | march | n. | B1 | 游行, 示威游行 | an organized walk to protest
+w000513.3 | march | n. | B1 | 行军, 进军 | a journey made by soldiers on foot
+w000514.1 | process | n. | B1 | 过程, 进程 | a series of actions to achieve a result
+w000514.2 | process | n. | B1 | 工序, 方法 | a method of producing goods
+w000514.3 | process | v. | B1 | 加工, 处理 | to treat or deal with something
+w000515.1 | song | n. | A1 | 歌, 歌曲 | a short piece of music with words
+w000515.2 | song | n. | A1 | 鸣叫, 鸟鸣声 | the musical sounds birds make
+w000516.1 | study | v. | A1 | 学习, 读书 | to spend time learning a subject
+w000516.2 | study | v. | A1 | 研究, 调查, 细看 | to examine something carefully
+w000516.3 | study | n. | A1 | 研究, 学习 | the activity of learning or examining
+w000516.4 | study | n. | A1 | 书房, 书斋 | a room for reading and working
+w000517.1 | word | n. | A1 | 词, 单词 | a single unit of language
+w000517.2 | word | n. | A1 | 话, 言语 | something that someone says
+w000517.3 | word | n. | A1 | 消息, 音信 | news or information
+w000517.4 | word | v. | A1 | 措辞, 用词 | to choose how to express something
+w000518.1 | across | prep. | A1 | 横过, 穿过 | from one side to the other of
+w000518.2 | across | prep. | A1 | 在…对面, 在…另一边 | on the opposite side of
+w000518.3 | across | adv. | A1 | 横过, 到对面 | from one side to the other
+w000519.1 | action | n. | A2 | 行动, 行为 | the process of doing something
+w000519.2 | action | n. | A2 | 作用, 影响 | the effect one thing has on another
+w000519.3 | action | n. | A2 | 诉讼, 起诉 | a legal case in a court
+w000520.1 | clear | adj. | A2 | 清楚的, 明白的 | easy to understand, see or hear
+w000520.2 | clear | adj. | A2 | 透明的, 清澈的 | easy to see through
+w000520.3 | clear | adj. | A2 | 晴朗的, 无云的 | without clouds
+w000520.4 | clear | v. | A2 | 清除, 清理 | to remove things from a place
+w000520.5 | clear | v. | A2 | 放晴, 变清 | to become bright after clouds or rain
+w000521.1 | himself | pron. | A1 | 他自己, 他本人, 他亲自 | the male person already mentioned, as object or emphasis
+w000522.1 | month | n. | A1 | 月, 月份 | one of the twelve parts of a year
+w000523.1 | outside | adv. | A1 | 在外面, 到外面, 在户外 | not inside a building
+w000523.2 | outside | prep. | A1 | 在…外面, 超出 | not in or beyond a place or limit
+w000523.3 | outside | n. | A1 | 外面, 外部, 外表 | the outer part or surface
+w000523.4 | outside | adj. | A1 | 外部的, 外面的 | located on or coming from outside
+w000524.1 | self | n. | B2 | 自己, 自我, 本性 | a person's own nature and identity
+w000525.1 | world-class | adj. | B2 | 世界级的, 一流的, 顶尖的 | among the best in the world
+w000526.1 | Dr | abbr. | A1 | 医生, 博士 | title for a medical doctor or PhD holder
+w000527.1 | board | n. | A2 | 板, 木板 | a flat thin piece of wood or material
+w000527.2 | board | n. | A2 | 董事会, 委员会 | a group of people who manage an organization
+w000527.3 | board | n. | A2 | 黑板, 布告板 | a surface for writing or putting notices on
+w000527.4 | board | v. | A2 | 登上, 上船, 登机 | to get onto a ship, train or plane
+w000528.1 | cost | n. | A1 | 费用, 成本 | the amount of money needed to pay
+w000528.2 | cost | v. | A1 | 花费, 价值为 | to have a particular price
+w000528.3 | cost | v. | A1 | 使损失, 使付出代价 | to cause the loss of something
+w000529.1 | cut | v. | A1 | 切, 割, 剪 | to divide or open with a knife or scissors
+w000529.2 | cut | v. | A1 | 削减, 减少 | to reduce an amount
+w000529.3 | cut | n. | A1 | 伤口, 切口 | an injury made by something sharp
+w000529.4 | cut | n. | A1 | 削减, 减少 | a reduction in amount
+w000530.1 | field | n. | A2 | 田, 田地, 牧场 | an area of open land for crops or animals
+w000530.2 | field | n. | A2 | 领域, 方面 | an area of study or activity
+w000530.3 | field | n. | A2 | 场地, 运动场 | an area of ground for playing sports
+w000530.4 | field | v. | A2 | 接球, 防守 | to catch or stop the ball in a game
+w000531.1 | instead | adv. | A2 | 代替, 反而, 却 | in place of someone or something else
+w000532.1 | main | adj. | A2 | 主要的, 最重要的 | largest or most important
+w000532.2 | main | n. | A2 | 总管道, 干线 | a large pipe carrying water or gas
+w000533.1 | moment | n. | A1 | 片刻, 瞬间, 一会儿 | a very short period of time
+w000533.2 | moment | n. | A1 | 时刻, 时机 | a particular point in time
+w000534.1 | mother | n. | A1 | 母亲, 妈妈 | a female parent
+w000534.2 | mother | v. | A1 | 像母亲般照顾, 溺爱 | to care for someone like a parent
+w000535.1 | road | n. | A1 | 路, 道路, 公路 | a hard surface for vehicles to travel on
+w000535.2 | road | n. | A1 | 途径, 道路 | a way leading to a result
+w000536.1 | thinking | n. | B1 | 思考, 思维 | the activity of using your mind
+w000536.2 | thinking | n. | B1 | 想法, 见解, 观点 | ideas or opinions about something
+w000536.3 | thinking | adj. | B1 | 有思想的, 有理性的 | intelligent and able to reason
+w000537.1 | town | n. | A1 | 城镇, 小镇, 市镇 | a place with houses, larger than a village
+w000537.2 | town | n. | A1 | 市中心, 商业区 | the central shopping area of a town
+w000539.1 | department | n. | A2 | 部门, 部, 局 | a section of an organization or government
+w000539.2 | department | n. | A2 | 系, 院系 | a section of a university or school
+w000540.1 | energy | n. | A2 | 精力, 活力 | the strength to be active
+w000540.2 | energy | n. | A2 | 能源, 能量 | power used to provide heat or run machines
+w000541.1 | fight | v. | A2 | 打架, 搏斗 | to use physical force against someone
+w000541.2 | fight | v. | A2 | 战斗, 作战 | to take part in a war or battle
+w000541.3 | fight | v. | A2 | 争取, 斗争, 奋斗 | to try hard to achieve or stop something
+w000541.4 | fight | n. | A2 | 打架, 斗殴 | a physical struggle between people
+w000541.5 | fight | n. | A2 | 斗争, 争取 | an effort to achieve or stop something
+w000542.1 | fine | adj. | A1 | 好的, 健康的, 不错的 | well, healthy or acceptable
+w000542.2 | fine | adj. | A1 | 晴朗的, 晴天的 | sunny and dry
+w000542.3 | fine | adj. | A1 | 精细的, 细的, 纤细的 | very thin or made of small parts
+w000542.4 | fine | n. | A1 | 罚款, 罚金 | money paid as punishment
+w000542.5 | fine | v. | A1 | 罚款, 处以罚金 | to make someone pay money as punishment
+w000543.1 | force | n. | B1 | 力量, 力 | physical strength or power
+w000543.2 | force | n. | B1 | 武力, 暴力 | violent physical action
+w000543.3 | force | n. | B1 | 部队, 军队 | a group of trained soldiers or police
+w000543.4 | force | v. | B1 | 强迫, 迫使 | to make someone do something unwillingly
+w000544.1 | hear | v. | A1 | 听见, 听到 | to notice sounds with your ears
+w000544.2 | hear | v. | A1 | 听说, 得知 | to be told about something
+w000544.3 | hear | v. | A1 | 审理, 审讯 | to listen to a case in court
+w000545.1 | issue | n. | B1 | 问题, 议题 | an important subject people discuss
+w000545.2 | issue | n. | B1 | 期, 号 | one edition of a magazine or newspaper
+w000545.3 | issue | v. | B1 | 发布, 发出, 发行 | to officially give out or announce
+w000546.1 | price | n. | A1 | 价格, 价钱 | the money you pay for something
+w000546.2 | price | n. | A1 | 代价, 牺牲 | something unpleasant you must accept to get something
+w000546.3 | price | v. | A1 | 定价, 标价 | to decide how much something costs
+w000547.1 | re | prep. | B2 | 关于, 事由 | about; regarding, used in letters and emails
+w000548.1 | rest | n. | A1 | 休息, 歇息 | a period of relaxing or sleeping
+w000548.2 | rest | v. | A1 | 休息, 歇息 | to stop working and relax
+w000548.3 | rest | n. | A1 | 其余, 剩余部分 | what remains of something
+w000548.4 | rest | v. | A1 | 放, 靠, 搁 | to lean or place on something
+w000549.1 | running | n. | A2 | 跑步, 赛跑 | the activity of moving fast on foot
+w000549.2 | running | n. | A2 | 管理, 经营 | the management of a business or system
+w000549.3 | running | adj. | A2 | 连续的, 流动的 | continuing without stopping; flowing

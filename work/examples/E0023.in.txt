@@ -1,0 +1,301 @@
+w002817.1 | ear | n. | A1 | 耳朵, 耳 | the body part used for hearing
+w002817.2 | ear | n. | A1 | 听力, 听觉, 辨音力 | the ability to hear and recognize sounds
+w002817.3 | ear | n. | A1 | 穗, 谷穗 | the seed-bearing top part of a grain plant
+w002818.1 | electricity | n. | A2 | 电, 电力, 电流 | a form of energy that powers lights and machines
+w002819.1 | gym | n. | A2 | 健身房, 体育馆 | a room or building for physical exercise
+w002819.2 | gym | n. | A2 | 体育课, 体操 | physical exercise taught as a school subject
+w002820.1 | helpful | adj. | A2 | 有帮助的, 有用的, 有益的 | useful in making something easier or better
+w002820.2 | helpful | adj. | A2 | 乐于助人的, 肯帮忙的 | willing to assist other people
+w002821.1 | horror | n. | B1 | 恐惧, 惊恐, 恐怖 | a strong feeling of fear and shock
+w002821.2 | horror | n. | B1 | 恐怖片, 恐怖作品 | films or stories meant to frighten people
+w002821.3 | horror | n. | B1 | 可怕的事, 惨状 | something that is very shocking or terrible
+w002823.1 | label | n. | B1 | 标签, 标记, 标牌 | a piece of paper giving information about an object
+w002823.2 | label | v. | B1 | 贴标签, 标明 | to attach information to an object
+w002823.3 | label | v. | B1 | 把…称为, 把…归类为 | to describe someone in a particular, often unfair, way
+w002823.4 | label | n. | B1 | 唱片公司, 品牌 | a company that produces music or fashion goods
+w002825.1 | naked | adj. | B2 | 裸体的, 赤裸的, 光着身子的 | not wearing any clothes
+w002825.2 | naked | adj. | B2 | 无遮蔽的, 裸露的 | without the usual covering
+w002825.3 | naked | adj. | B2 | 毫不掩饰的, 赤裸裸的 | expressed openly and not hidden
+w002826.1 | output | n. | B2 | 产量, 产出, 输出量 | the amount of something produced
+w002826.2 | output | n. | B2 | 输出, 输出信息 | information produced by a computer
+w002826.3 | output | v. | B2 | 输出 | to produce or send out data
+w002827.1 | pitch | v. | B2 | 投, 掷, 扔 | to throw something, especially a ball
+w002827.2 | pitch | n. | B2 | 球场, 场地 | a marked area of ground for playing sports
+w002827.3 | pitch | n. | B2 | 音高, 音调 | how high or low a sound is
+w002827.4 | pitch | n. | B2 | 推销词, 宣传, 游说 | a speech meant to persuade someone to buy something
+w002827.5 | pitch | v. | B2 | 推销, 提出, 游说 | to try to persuade someone to accept an idea
+w002827.6 | pitch | v. | B2 | 搭, 架设 | to set up a tent or camp
+w002828.1 | pizza | n. | A1 | 比萨饼, 披萨, 意大利馅饼 | a flat round baked bread topped with cheese and tomato
+w002829.1 | plain | adj. | B1 | 朴素的, 简单的, 素的 | simple and without decoration
+w002829.2 | plain | adj. | B1 | 清楚的, 明白的, 明显的 | easy to see or understand
+w002829.3 | plain | n. | B1 | 平原, 平地 | a large area of flat land
+w002829.4 | plain | adj. | B1 | 相貌平平的, 不好看的 | not beautiful or attractive
+w002829.5 | plain | adv. | B1 | 完全地, 简直 | completely or simply
+w002830.1 | rear | n. | B2 | 后部, 后面, 背后 | the back part of something
+w002830.2 | rear | adj. | B2 | 后面的, 后部的 | at or near the back
+w002830.3 | rear | v. | B2 | 抚养, 饲养, 养育 | to care for children or animals until grown
+w002830.4 | rear | v. | B2 | 用后腿直立, 抬起 | to rise up on the back legs
+w002831.1 | reveal | v. | B2 | 揭露, 透露, 泄露 | to make known something that was secret
+w002831.2 | reveal | v. | B2 | 展示, 显示, 露出 | to show something that was hidden
+w002832.1 | romantic | adj. | B1 | 浪漫的, 爱情的, 多情的 | relating to love or showing feelings of love
+w002832.2 | romantic | adj. | B1 | 不切实际的, 空想的 | not practical; based on ideal dreams
+w002832.3 | romantic | n. | B1 | 浪漫的人, 浪漫主义者 | a person who is emotional and idealistic about love
+w002833.1 | strategic | adj. | B2 | 战略的, 策略的, 战略性的 | relating to a careful plan for achieving an aim
+w002834.1 | swimming | n. | A1 | 游泳, 游泳运动 | the sport or activity of moving through water
+w002835.1 | welfare | n. | B2 | 福利, 幸福, 安康 | the health, comfort and happiness of a person
+w002835.2 | welfare | n. | B2 | 社会福利, 福利救济 | government money given to people in need
+w002836.1 | wire | n. | B1 | 金属丝, 铁丝 | thin metal in the form of a thread
+w002836.2 | wire | n. | B1 | 电线, 导线 | a metal thread that carries electricity
+w002836.3 | wire | v. | B1 | 接线, 布线 | to connect something to an electrical supply
+w002836.4 | wire | v. | B1 | 电汇, 汇款 | to send money electronically
+w002837.1 | worker | n. | A1 | 工人, 劳动者, 工作者 | a person who does a job, especially a manual one
+w002837.2 | worker | n. | A1 | 员工, 职员 | a person employed by a company
+w002839.1 | Islam | n. | B2 | 伊斯兰教, 回教 | the religion of Muslims, based on the Quran
+w002845.1 | afterwards | adv. | B1 | 后来, 之后, 以后 | at a later time
+w002846.1 | alright | adj. | A2 | 还好的, 可以的, 没问题的 | acceptable, safe or well
+w002846.2 | alright | adv. | A2 | 还好, 不错地 | in a satisfactory way
+w002846.3 | alright | int. | A2 | 好的, 行, 可以 | used to show agreement
+w002847.1 | android | n. | C1 | 人形机器人, 仿真机器人 | a robot that looks like a human
+w002848.1 | anger | n. | B1 | 愤怒, 怒气, 生气 | a strong feeling of being very annoyed
+w002848.2 | anger | v. | B1 | 激怒, 使生气 | to make someone very annoyed
+w002849.1 | architecture | n. | B1 | 建筑学, 建筑艺术 | the art of designing buildings
+w002849.2 | architecture | n. | B1 | 建筑风格, 建筑式样 | the style in which buildings are made
+w002849.3 | architecture | n. | B1 | 架构, 体系结构 | the design and structure of a computer system
+w002850.1 | assist | v. | B1 | 帮助, 协助, 援助 | to help someone do something
+w002850.2 | assist | n. | B1 | 助攻 | a pass that helps a teammate score
+w002852.1 | behalf | n. | B2 | 代表, 利益, 方面 | used in phrases meaning as a representative of someone
+w002853.1 | belt | n. | A2 | 腰带, 皮带 | a band worn around the waist
+w002853.2 | belt | n. | A2 | 地带, 区域 | an area with a particular feature
+w002853.3 | belt | n. | A2 | 传送带, 传动带 | a moving band used in a machine
+w002853.4 | belt | v. | A2 | 猛击, 抽打 | to hit someone or something hard
+w002854.1 | capture | v. | B2 | 俘获, 捕获, 逮捕 | to catch a person or animal and keep them
+w002854.2 | capture | v. | B2 | 夺取, 占领 | to take control of a place by force
+w002854.3 | capture | v. | B2 | 捕捉, 记录, 拍摄 | to record something in words or pictures
+w002854.4 | capture | n. | B2 | 捕获, 俘获, 占领 | the act of catching or taking control
+w002855.1 | ceremony | n. | B1 | 典礼, 仪式 | a formal public or religious event
+w002855.2 | ceremony | n. | B1 | 礼节, 礼仪, 客套 | formal behaviour and traditional actions
+w002856.1 | comic | n. | B1 | 漫画书, 连环画 | a magazine that tells stories in pictures
+w002856.2 | comic | adj. | B1 | 滑稽的, 好笑的, 喜剧的 | funny and making people laugh
+w002856.3 | comic | n. | B1 | 喜剧演员 | a person who tells jokes to entertain people
+w002858.1 | designer | n. | B1 | 设计师, 设计者 | a person who plans how something will look or work
+w002858.2 | designer | adj. | B1 | 名牌的, 名师设计的 | made by a famous fashion maker
+w002859.1 | diamond | n. | B1 | 钻石, 金刚石 | a very hard clear precious stone
+w002859.2 | diamond | n. | B1 | 菱形 | a shape with four equal sloping sides
+w002859.3 | diamond | n. | B1 | 方块牌, 方块 | a playing card marked with red four-sided shapes
+w002860.1 | disappointed | adj. | B1 | 失望的, 沮丧的, 扫兴的 | unhappy because something was not as good as hoped
+w002861.1 | dressed | adj. | B1 | 穿好衣服的, 穿着衣服的 | wearing clothes
+w002861.2 | dressed | adj. | B1 | 穿着…的, 打扮的 | wearing clothes of a particular type
+w002862.1 | economics | n. | B2 | 经济学, 经济原理 | the study of how money, trade and industry work
+w002862.2 | economics | n. | B2 | 经济情况, 经济因素 | the financial aspects of something
+w002863.1 | efficient | adj. | B2 | 高效的, 效率高的 | working well without wasting time or energy
+w002863.2 | efficient | adj. | B2 | 有能力的, 能干的 | able to do tasks well and quickly
+w002864.1 | electrical | adj. | B1 | 电的, 电气的, 用电的 | relating to or worked by electricity
+w002865.1 | essentially | adv. | B2 | 本质上, 基本上, 实质上 | in the most basic and important way
+w002866.1 | establishment | n. | B2 | 机构, 企业, 场所 | a business or other organization
+w002866.2 | establishment | n. | B2 | 建立, 创立, 设立 | the act of starting or creating something
+w002866.3 | establishment | n. | B2 | 当权派, 权势集团 | the people who hold power in a society
+w002867.1 | far-reaching | adj. | C1 | 深远的, 影响广泛的, 意义重大的 | having a wide influence or many effects
+w002868.1 | flower | n. | A1 | 花, 花朵, 花卉 | the colourful part of a plant that makes seeds
+w002868.2 | flower | v. | A1 | 开花, 绽放 | to produce blooms
+w002868.3 | flower | v. | A1 | 繁荣, 成熟, 兴旺 | to develop fully and become successful
+w002869.1 | ghost | n. | B1 | 鬼, 幽灵, 鬼魂 | the spirit of a dead person
+w002869.2 | ghost | v. | B1 | 突然断联, 不再回复 | to suddenly stop all contact with someone
+w002869.3 | ghost | n. | B1 | 一丝, 一点 | a very slight amount or trace
+w002870.1 | hard-hitting | adj. | C1 | 直言不讳的, 尖锐的, 措辞强硬的 | direct and honest in criticizing something
+w002871.1 | hockey | n. | B1 | 冰球, 曲棍球 | a team game played with sticks on ice or grass
+w002872.1 | HTTPS | abbr. | C1 | 超文本传输安全协议, 安全超文本协议 | a secure protocol for sending web pages
+w002873.1 | hunting | n. | B1 | 打猎, 狩猎 | the activity of chasing and killing wild animals
+w002873.2 | hunting | n. | B1 | 寻找, 搜寻, 搜索 | the activity of looking for something
+w002875.1 | kit | n. | B2 | 成套工具, 工具箱, 用品包 | a set of tools or equipment for a purpose
+w002875.2 | kit | n. | B2 | 套件, 组装件 | a set of parts to be put together
+w002875.3 | kit | n. | B2 | 运动服, 装备 | clothes and equipment for a sport
+w002876.1 | lab | n. | A2 | 实验室, 化验室, 研究室 | a room used for scientific work and tests
+w002877.1 | middle-aged | adj. | B1 | 中年的, 人到中年的 | aged between about 45 and 65
+w002878.1 | min | abbr. | B1 | 分钟, 分 | short written form for a unit of sixty seconds
+w002878.2 | min | abbr. | B1 | 最小值, 最低限度 | short written form for the smallest amount
+w002879.1 | nervous | adj. | A2 | 紧张的, 不安的, 焦虑的 | worried or slightly afraid
+w002879.2 | nervous | adj. | A2 | 神经的, 神经系统的 | relating to the nerves of the body
+w002879.3 | nervous | adj. | A2 | 易紧张的, 神经质的 | easily becoming worried or frightened
+w002880.1 | newly | adv. | B2 | 新近, 最近, 刚刚 | recently or only just
+w002881.1 | odd | adj. | B1 | 奇怪的, 古怪的, 反常的 | strange or unusual
+w002881.2 | odd | adj. | B1 | 奇数的, 单数的 | not able to be divided exactly by two
+w002881.3 | odd | adj. | B1 | 偶尔的, 零星的, 临时的 | happening occasionally and not regularly
+w002882.1 | ordinary | adj. | B1 | 普通的, 平常的, 一般的 | normal and not special or different
+w002882.2 | ordinary | adj. | B1 | 平庸的, 平淡的 | not interesting or impressive
+w002883.1 | participate | v. | B1 | 参加, 参与, 加入 | to take part in an activity or event
+w002884.1 | prayer | n. | B2 | 祈祷, 祷告 | the act of speaking to God or a god
+w002884.2 | prayer | n. | B2 | 祷文, 祷词 | the words used when speaking to God
+w002884.3 | prayer | n. | B2 | 祈求, 心愿 | a strong hope or wish
+w002885.1 | racist | adj. | B2 | 种族主义的, 种族歧视的 | treating people unfairly because of their race
+w002885.2 | racist | n. | B2 | 种族主义者, 种族歧视者 | a person who believes some races are better
+w002886.1 | rarely | adv. | B1 | 很少, 难得, 不常 | not often
+w002887.1 | sexy | adj. | B2 | 性感的, 有魅力的, 撩人的 | sexually attractive or exciting
+w002887.2 | sexy | adj. | B2 | 吸引人的, 时髦的 | exciting and fashionable
+w002888.1 | skill | n. | A2 | 技能, 技巧, 技艺 | an ability to do something well, gained by practice
+w002888.2 | skill | n. | A2 | 本领, 才能, 熟练 | the quality of doing something very well
+w002889.1 | soil | n. | B1 | 土壤, 泥土 | the top layer of earth in which plants grow
+w002889.2 | soil | n. | B1 | 国土, 土地, 领土 | the land belonging to a country
+w002889.3 | soil | v. | B1 | 弄脏, 玷污 | to make something dirty
+w002890.1 | solve | v. | A2 | 解决, 处理 | to find a way of dealing with a problem
+w002890.2 | solve | v. | A2 | 解答, 破解, 解开 | to find the correct answer or explanation
+w002891.1 | stomach | n. | A2 | 胃, 胃部 | the organ inside the body where food is digested
+w002891.2 | stomach | n. | A2 | 腹部, 肚子 | the front part of the body below the chest
+w002891.3 | stomach | v. | A2 | 忍受, 容忍, 吃得下 | to accept or eat something unpleasant
+w002892.1 | suck | v. | B2 | 吸, 吮吸, 吸入 | to pull liquid or air into the mouth
+w002892.2 | suck | v. | B2 | 含, 吮, 嘬 | to hold something in the mouth and lick it
+w002892.3 | suck | v. | B2 | 糟透了, 很差劲 | to be very bad or unpleasant
+w002893.1 | trash | n. | B1 | 垃圾, 废物 | things that are thrown away as worthless
+w002893.2 | trash | n. | B1 | 劣质品, 糟粕, 废话 | something of very poor quality
+w002893.3 | trash | v. | B1 | 捣毁, 破坏, 毁坏 | to damage or destroy something badly
+w002893.4 | trash | v. | B1 | 抨击, 贬低 | to criticize someone or something very strongly
+w002894.1 | ugly | adj. | A2 | 丑陋的, 难看的 | unpleasant to look at
+w002894.2 | ugly | adj. | A2 | 险恶的, 凶险的, 令人不快的 | unpleasant and threatening or likely to turn violent
+w002896.1 | virus | n. | B1 | 病毒, 病原体 | a tiny living thing that causes infectious disease
+w002896.2 | virus | n. | B1 | 病毒性疾病, 病毒感染 | an illness caused by a tiny infectious agent
+w002896.3 | virus | n. | B1 | 计算机病毒, 电脑病毒 | a harmful program that spreads between computers
+w002897.1 | walker | n. | B2 | 步行者, 散步者, 徒步者 | a person who travels on foot
+w002897.2 | walker | n. | B2 | 助行器, 学步车 | a frame that supports someone while they move
+w002898.1 | whoever | pron. | B2 | 无论谁, 不管谁 | no matter which person
+w002898.2 | whoever | pron. | B2 | 任何人, 凡是…的人 | the person or any person that
+w002898.3 | whoever | pron. | B2 | 究竟是谁, 到底是谁 | used to ask with surprise which person
+w002899.1 | Dutch | adj. | B1 | 荷兰的, 荷兰人的, 荷兰语的 | relating to the Netherlands, its people or language
+w002899.2 | Dutch | n. | B1 | 荷兰语, 荷兰话 | the language of the Netherlands
+w002899.3 | Dutch | n. | B1 | 荷兰人, 荷兰国民 | the people of the Netherlands
+w002900.1 | Mexican | adj. | B1 | 墨西哥的, 墨西哥人的 | relating to Mexico or its people
+w002900.2 | Mexican | n. | B1 | 墨西哥人, 墨西哥国民 | a person from Mexico
+w002901.1 | Saint | n. | B2 | 圣徒, 圣人, 圣者 | a person honoured by the Church as very holy
+w002901.2 | Saint | n. | B2 | 大好人, 道德高尚的人 | a very good, kind or patient person
+w002905.1 | aspect | n. | B2 | 方面, 层面 | one part or feature of a situation or subject
+w002905.2 | aspect | n. | B2 | 外观, 面貌, 样子 | the appearance of a person or place
+w002905.3 | aspect | n. | B2 | 朝向, 方位 | the direction in which a building faces
+w002906.1 | boost | v. | B2 | 促进, 提高, 增强 | to increase or improve something
+w002906.2 | boost | n. | B2 | 推动, 提升, 增长 | an increase or improvement in something
+w002906.3 | boost | n. | B2 | 鼓舞, 激励 | something that makes a person more confident
+w002907.1 | bureau | n. | B2 | 局, 处, 办事处 | an office or government department
+w002907.2 | bureau | n. | B2 | 五斗橱, 衣柜 | a piece of furniture with drawers for clothes
+w002907.3 | bureau | n. | B2 | 书桌, 写字台 | a writing desk with drawers and a lid
+w002908.1 | colonel | n. | C1 | 上校, 陆军上校 | a senior army officer below a general
+w002909.1 | comfort | n. | B1 | 舒适, 安逸 | a pleasant state of physical ease
+w002909.2 | comfort | n. | B1 | 安慰, 慰藉 | a feeling of being less worried or sad
+w002909.3 | comfort | v. | B1 | 安慰, 抚慰 | to make someone feel less worried or sad
+w002909.4 | comfort | n. | B1 | 舒适的设施, 生活享受 | a thing that makes life easier and more pleasant
+w002910.1 | commander-in-chief | n. | C1 | 总司令, 最高统帅, 统帅 | the officer in charge of all armed forces
+w002911.1 | cousin | n. | A2 | 堂兄弟姐妹, 表兄弟姐妹, 堂表亲 | a child of your aunt or uncle
+w002911.2 | cousin | n. | A2 | 远亲, 同类 | a distant relative or a closely related thing
+w002912.1 | crack | n. | B2 | 裂缝, 裂纹, 缝隙 | a thin line where something has broken
+w002912.2 | crack | v. | B2 | 破裂, 裂开, 使破裂 | to break without separating into parts
+w002912.3 | crack | v. | B2 | 破解, 解开 | to find the answer to a code or problem
+w002912.4 | crack | n. | B2 | 爆裂声, 噼啪声 | a sudden sharp loud noise
+w002913.1 | deck | n. | B2 | 甲板, 舱面 | a floor of a ship or bus
+w002913.2 | deck | n. | B2 | 一副纸牌 | a full set of playing cards
+w002913.3 | deck | n. | B2 | 露台, 木平台 | a wooden floor built outside a house
+w002913.4 | deck | v. | B2 | 装饰, 打扮 | to decorate something or someone
+w002914.1 | dragon | n. | A2 | 龙, 巨龙 | a large imaginary animal that breathes fire
+w002915.1 | dramatic | adj. | B2 | 巨大的, 急剧的, 突然的 | very sudden or noticeable
+w002915.2 | dramatic | adj. | B2 | 激动人心的, 引人注目的 | exciting and impressive
+w002915.3 | dramatic | adj. | B2 | 戏剧的, 戏剧性的 | relating to plays and the theatre
+w002916.1 | dust | n. | B1 | 灰尘, 尘土, 粉尘 | fine dry powder of earth or dirt
+w002916.2 | dust | v. | B1 | 擦去灰尘, 掸灰 | to clean furniture by wiping away fine dirt
+w002916.3 | dust | v. | B1 | 撒, 撒粉于 | to cover something lightly with a powder
+w002917.1 | evolution | n. | B2 | 进化, 演化 | the slow change of living things over generations
+w002917.2 | evolution | n. | B2 | 发展, 演变, 渐进 | a gradual process of change and development
+w002918.1 | illness | n. | A2 | 疾病, 病, 患病 | a disease or period of being unwell
+w002919.1 | inspiration | n. | B2 | 灵感, 启发 | a sudden good idea or the source of new ideas
+w002919.2 | inspiration | n. | B2 | 鼓舞, 激励, 榜样 | a person or thing that makes you want to act
+w002920.1 | institution | n. | B2 | 机构, 团体, 院校 | a large important organization such as a bank or university
+w002920.2 | institution | n. | B2 | 制度, 习俗, 惯例 | an established custom or system in society
+w002920.3 | institution | n. | B2 | 收容机构, 福利院 | a place where people needing care live
+w002921.1 | knife | n. | A1 | 刀, 小刀, 餐刀 | a tool with a sharp blade for cutting
+w002921.2 | knife | v. | A1 | 用刀刺, 捅 | to stab someone with a blade
+w002922.1 | lately | adv. | B1 | 最近, 近来, 不久前 | in the recent past
+w002923.1 | memorial | n. | B2 | 纪念碑, 纪念馆, 纪念物 | a structure built to remind people of someone
+w002923.2 | memorial | adj. | B2 | 纪念的, 悼念的 | done to remember a person who has died
+w002924.1 | minority | n. | B2 | 少数, 少数派 | the smaller part of a group
+w002924.2 | minority | n. | B2 | 少数民族, 少数群体 | a group differing in race or religion from most
+w002924.3 | minority | adj. | B2 | 少数的, 少数民族的 | belonging to a smaller group
+w002925.1 | mum | n. | A1 | 妈妈, 妈咪 | a mother
+w002925.2 | mum | adj. | A1 | 沉默的, 不说话的 | saying nothing; silent
+w002926.1 | priority | n. | B1 | 优先事项, 首要任务, 重点 | something more important than other things
+w002926.2 | priority | n. | B1 | 优先, 优先权, 优先地位 | the right to be dealt with first
+w002927.1 | promotion | n. | B1 | 升职, 晋升, 提升 | a move to a higher job or rank
+w002927.2 | promotion | n. | B1 | 促销, 推广, 宣传 | activity to advertise and sell a product
+w002927.3 | promotion | n. | B1 | 促进, 推动, 提倡 | action to encourage or support something
+w002928.1 | rail | n. | B1 | 铁路, 铁道 | the railway system as a way of travel
+w002928.2 | rail | n. | B1 | 栏杆, 扶手, 横杆 | a bar fixed along something to hold or hang things
+w002928.3 | rail | n. | B1 | 铁轨, 钢轨 | one of the metal bars trains run on
+w002928.4 | rail | v. | B1 | 抱怨, 怒斥, 责骂 | to complain angrily about something
+w002929.1 | remote | adj. | B1 | 遥远的, 偏远的, 偏僻的 | far away from towns or other people
+w002929.2 | remote | adj. | B1 | 远程的, 遥控的 | done or controlled from a distance
+w002929.3 | remote | adj. | B1 | 微小的, 渺茫的 | very small or unlikely
+w002929.4 | remote | n. | B1 | 遥控器 | a device for controlling a TV from a distance
+w002930.1 | repair | v. | A2 | 修理, 修补, 修复 | to fix something that is broken or damaged
+w002930.2 | repair | n. | A2 | 修理, 维修, 修补 | work done to fix something broken
+w002930.3 | repair | v. | A2 | 弥补, 挽回 | to improve a bad situation or relationship
+w002931.1 | right-handed | adj. | B2 | 惯用右手的, 右撇子的 | using the right hand more easily than the left
+w002931.2 | right-handed | adj. | B2 | 用右手的, 右手操作的 | made for or done with the right hand
+w002932.1 | root | n. | B1 | 根, 根部 | the part of a plant that grows underground
+w002932.2 | root | n. | B1 | 根源, 根本, 起因 | the basic cause or origin of something
+w002932.3 | root | n. | B1 | 祖籍, 根, 渊源 | the place or culture a person comes from
+w002932.4 | root | v. | B1 | 生根, 扎根 | to grow roots or become firmly fixed
+w002932.5 | root | v. | B1 | 翻找, 搜寻 | to search by moving things around
+w002933.1 | steal | v. | A2 | 偷, 偷窃, 盗取 | to take something that belongs to someone else
+w002933.2 | steal | v. | A2 | 悄悄地走, 溜 | to move quietly so no one notices
+w002933.3 | steal | n. | A2 | 便宜货, 超值品 | something sold at a very low price
+w002934.1 | telephone | n. | A1 | 电话, 电话机 | a device for talking to people far away
+w002934.2 | telephone | v. | A1 | 打电话, 致电 | to call someone using a phone
+w002935.1 | tho | conj. | B2 | 虽然, 尽管 | informal written form of though
+w002935.2 | tho | adv. | B2 | 不过, 然而 | informal written form of though at sentence end
+w002936.1 | well-dressed | adj. | B1 | 衣着讲究的, 穿着考究的, 衣冠楚楚的 | wearing attractive and good-quality clothes
+w002937.1 | whereas | conj. | B2 | 然而, 而, 但是 | used to compare two contrasting facts
+w002940.1 | Israeli | adj. | B1 | 以色列的, 以色列人的 | from or relating to Israel
+w002940.2 | Israeli | n. | B1 | 以色列人 | a person from Israel
+w002942.1 | Sweden | n. | A2 | 瑞典 | a country in northern Europe
+w002943.1 | Syria | n. | B1 | 叙利亚 | a country in the Middle East
+w002944.1 | abandoned | adj. | B2 | 被遗弃的, 被抛弃的, 废弃的 | left behind and no longer used or wanted
+w002944.2 | abandoned | adj. | B2 | 放纵的, 放荡不羁的 | wild and without control
+w002946.1 | alliance | n. | B2 | 联盟, 同盟, 联合 | an agreement between groups to work together
+w002946.2 | alliance | n. | B2 | 联盟组织, 同盟国 | a group of countries or organizations united
+w002947.1 | annoying | adj. | A2 | 恼人的, 讨厌的, 令人烦恼的 | making you feel slightly angry
+w002948.1 | bid | n. | B2 | 努力, 尝试, 企图 | an attempt to achieve something
+w002948.2 | bid | n. | B2 | 出价, 投标, 报价 | an offer of money for something
+w002948.3 | bid | v. | B2 | 出价, 投标, 竞标 | to offer a price for something
+w002948.4 | bid | v. | B2 | 道别, 致意 | to say a greeting or farewell
+w002949.1 | bro | n. | B2 | 兄弟, 哥们, 老兄 | a brother or a close male friend
+w002950.1 | buddy | n. | B1 | 伙伴, 好朋友, 哥们 | a close friend
+w002950.2 | buddy | n. | B1 | 老兄, 伙计 | used to address a man you do not know
+w002951.1 | butter | n. | A1 | 黄油, 奶油 | a soft yellow food made from cream
+w002951.2 | butter | v. | A1 | 涂黄油, 抹黄油 | to spread this food on bread
+w002952.1 | conclusion | n. | B1 | 结论, 推论, 判断 | a decision reached after thinking about facts
+w002952.2 | conclusion | n. | B1 | 结尾, 结束, 结局 | the end or final part of something
+w002953.1 | confirm | v. | B1 | 确认, 证实, 证明 | to show or say that something is true
+w002953.2 | confirm | v. | B1 | 确定, 落实 | to make an arrangement definite
+w002953.3 | confirm | v. | B1 | 坚定, 加强 | to make a feeling or belief stronger
+w002954.1 | congratulations | int. | A1 | 祝贺, 恭喜 | said to praise someone for success or good news
+w002954.2 | congratulations | n. | A1 | 祝贺, 贺词 | words of praise for someone's success
+w002955.1 | crap | n. | C1 | 废话, 胡说, 垃圾 | nonsense or something of very poor quality
+w002955.2 | crap | adj. | C1 | 糟糕的, 差劲的 | very bad
+w002955.3 | crap | int. | C1 | 糟了, 该死 | said when annoyed or upset
+w002956.1 | crystal | n. | B2 | 晶体, 结晶 | a small regular solid shape formed by a substance
+w002956.2 | crystal | n. | B2 | 水晶, 水晶玻璃 | clear high-quality glass or mineral
+w002956.3 | crystal | adj. | B2 | 清澈的, 透明的 | very clear
+w002957.1 | dean | n. | B2 | 院长, 系主任 | a senior official in charge of a college department
+w002957.2 | dean | n. | B2 | 教务长, 学监 | a college official responsible for students
+w002957.3 | dean | n. | B2 | 主任牧师, 教长 | a priest in charge of a cathedral
+w002958.1 | decent | adj. | B1 | 像样的, 不错的, 过得去的 | of a good enough standard
+w002958.2 | decent | adj. | B1 | 正派的, 体面的, 得体的 | honest, fair and morally acceptable
+w002958.3 | decent | adj. | B1 | 穿好衣服的 | wearing enough clothes to be seen
+w002959.1 | decline | v. | B2 | 下降, 减少, 衰退 | to become smaller, weaker or worse
+w002959.2 | decline | n. | B2 | 下降, 衰退, 减少 | a decrease in amount, quality or strength
+w002959.3 | decline | v. | B2 | 拒绝, 谢绝 | to politely say no to an offer
+w002960.1 | delay | n. | B1 | 延误, 耽搁, 延迟 | a period of waiting longer than expected
+w002960.2 | delay | v. | B1 | 推迟, 延期, 延误 | to make something happen later than planned
+w002961.1 | desert | n. | A2 | 沙漠, 荒漠 | a large dry area with little rain or plants
+w002961.2 | desert | v. | A2 | 抛弃, 遗弃, 离弃 | to leave someone without help
+w002961.3 | desert | v. | A2 | 擅离职守, 开小差 | to leave the army without permission
+w002962.1 | downtown | adv. | A2 | 在市中心, 往市区 | in or to the central business area of a city
+w002962.2 | downtown | adj. | A2 | 市中心的, 商业区的 | located in the main business area of a city
+w002962.3 | downtown | n. | A2 | 市中心, 商业区 | the central business area of a city
+w002963.1 | elite | n. | B2 | 精英, 上层人士 | the richest, most powerful or best group
+w002963.2 | elite | adj. | B2 | 精英的, 杰出的, 精锐的 | belonging to the best or most powerful group
+w002964.1 | forth | adv. | B2 | 向前, 向外 | forward or out from a place
+w002964.2 | forth | adv. | B2 | 以后, 从此 | onward in time

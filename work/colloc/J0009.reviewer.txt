@@ -1,0 +1,65 @@
+safe neighborhood | delete:free
+gang member | delete:free
+fairly good | delete:free
+engineer a plan | delete:rare
+full-time employee | delete:free
+repeat a question | delete:free
+sea monster | delete:free
+go on a hunt | delete:rare
+formation of sth | delete:free
+effectively manage | delete:free
+celebrate a birthday | delete:free
+sharp knife | delete:free
+come to sb's rescue | delete:phrase
+regardless of sth | delete:phrase
+percentage of sth | delete:free
+in partnership with sb | delete:phrase
+point a finger at sb | delete:phrase
+paper thin | adv+adj | 薄如纸 | thin
+learn a technique | delete:free
+shortly after | delete:phrase
+shortly before | delete:phrase
+car parking | delete:free
+renew a membership | v+n | 续订会员资格 | membership
+deeply impressive | adv+adj | 令人印象极为深刻 | impressive
+gate of a garden | delete:wrong
+gap between sth | v+prep | …之间的差距 | gap
+extremely complicated | delete:free
+integrated circuit | delete:phrase
+sleeping chamber | delete:rare
+audio file | delete:free
+wash one's hands | delete:free
+brave soldier | delete:free
+mail server | delete:free
+ridiculous idea | delete:free
+successfully complete | delete:free
+select committee | delete:phrase
+high rating | adj+n | 高评分, 高收视率 | rating
+publication date | delete:free
+informed decision | adj+n | 知情决定, 有依据的决定 | informed
+extremely hungry | delete:free
+compare favourably | v+adv | 毫不逊色 | compare
+shadow of a doubt | delete:phrase
+retired teacher | delete:free
+film producer | delete:free
+extremely pleased | delete:free
+passion for sth | v+prep | 对…的热爱 | passion
+horrible experience | delete:free
+exposure to sth | v+prep | 接触…, 暴露于… | exposure
+arrival time | delete:free
+rear window | adj+n | 后窗 | rear
+rear view mirror | delete:phrase
+deliver a pizza | delete:free
+to one's horror | delete:phrase
+extremely helpful | delete:free
+box one's ears | delete:rare
+have a good ear for sth | delete:phrase
+work desk | delete:free
+commitment to sth | v+prep | 对…的承诺 | commitment
+incredibly boring | delete:free
+rarely if ever | delete:phrase
+science lab | delete:free
+set up an establishment | delete:rare
+economics degree | delete:free
+study economics | delete:free
+gladly assist | delete:free

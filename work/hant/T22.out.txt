@@ -1,0 +1,62 @@
+ph_lightning-never-strikes-twice.1 | 同樣的倒楣事不會再發生
+ph_set-the-world-on-fire.1 | 做出驚天動地的事
+ph_win-the-battle-but-lose-the-war.1 | 贏了一時輸了全局
+ph_spike-sb-s-guns.1 | 挫敗某人計畫
+ph_a-house-of-cards.1 | 不牢靠的計畫
+ph_cook-the-books.1 | 做假帳
+ph_the-grapevine.1 | 小道消息
+ph_word-gets-around.1 | 消息傳開
+ph_music-to-sb-s-ears.1 | 好消息, 悅耳之言
+ph_know-sth-inside-out.1 | 了如指掌
+ph_know-sth-like-the-back-of-one-s-hand.1 | 了如指掌
+ph_keep-sb-in-the-dark.1 | 把某人蒙在鼓裡
+ph_a-vicious-circle.1 | 惡性循環
+ph_down-on-one-s-luck.1 | 倒楣, 時運不濟
+ph_an-open-and-shut-case.1 | 一目了然的案子
+ph_take-things-easy.1 | 放輕鬆
+ph_fair-game.1 | 可攻擊的對象
+ph_asleep-at-the-wheel.1 | 玩忽職守
+ph_a-dead-end.1 | 死胡同
+ph_two-heads-are-better-than-one.1 | 三個臭皮匠勝過一個諸葛亮
+ph_crunch-the-numbers.1 | 計算數據
+ph_music-to-one-s-ears.1 | 好消息
+ph_get-up-to.1 | 做壞事, 胡鬧
+ph_get-past.1 | 通過, 越過
+ph_let-through.1 | 讓通過
+ph_do-over.2 | 重新裝潢
+ph_keep-from.1 | 阻止, 克制
+ph_throw-one-s-hat-into-the-ring.1 | 宣布參選
+ph_plan-out.1 | 詳細規劃
+ph_screen-off.1 | 用屏風隔開
+ph_push-through.1 | 使通過, 強行實施
+ph_ring-off.1 | 掛斷電話
+ph_dry-out.1 | 變乾
+ph_log-off.1 | 登出
+ph_cloud-over.1 | 陰雲密布
+ph_deny-oneself.1 | 克制自己
+ph_feed-up.1 | 餵胖
+ph_catch-up-on.1 | 補做, 了解最新情況
+ph_jam-on.1 | 猛踩煞車
+ph_slam-on.1 | 猛踩煞車
+ph_jerk-off.1 | 自慰
+ph_dial-up.1 | 撥接連線
+ph_conceive-of.1 | 想像, 設想
+ph_a-blind-alley.1 | 死胡同, 絕路
+ph_a-current-account.1 | 活期帳戶
+ph_air-conditioner.1 | 冷氣機
+ph_automatic-teller-machine.1 | 自動提款機
+ph_back-street.1 | 後街, 偏僻小街
+ph_bad-debt.1 | 壞帳, 呆帳
+ph_baggage-reclaim.1 | 行李領取處
+ph_bar-chart.1 | 長條圖, 柱狀圖
+ph_big-league.1 | 大聯盟, 最高級別
+ph_big-name.1 | 知名人物, 大咖
+ph_bird-table.1 | 餵鳥臺
+ph_black-box.1 | 黑盒子
+ph_black-mark.1 | 污點, 劣跡
+ph_body-mass-index.1 | 身體質量指數
+ph_bomb-site.1 | 被炸毀的地方
+ph_book-value.1 | 帳面價值
+ph_boot-sale.1 | 後車廂舊貨市集
+ph_boy-band.1 | 男孩團體
+ph_boiler-suit.1 | 連身工作服

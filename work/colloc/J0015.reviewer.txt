@@ -1,0 +1,86 @@
+sunny day | delete:free
+sunny weather | delete:free
+life span | delete:phrase
+scare sb off | delete:phrase
+scan a document | delete:free
+under the reign of sb | delete:phrase
+quantum computer | delete:phrase
+in large quantities | delete:phrase
+pretty penny | delete:phrase
+bird's nest | delete:phrase
+motorcycle helmet | delete:free
+graduation day | delete:free
+ethical issue | delete:free
+drain the water | delete:free
+put a curse on sb | v+n | 诅咒某人 | curse
+chocolate chip cookie | delete:phrase
+on the continent | delete:phrase
+as a consequence of sth | delete:phrase
+hard to concentrate | delete:free
+personal computing | delete:phrase
+charming prince | delete:wrong
+burger bar | delete:rare
+a bucket of water | delete:free
+rain buckets | delete:phrase
+bio fuel | delete:phrase
+shopping basket | delete:phrase
+waste paper basket | delete:phrase
+assured income | delete:rare
+on the assumption that | delete:phrase
+animated film | delete:phrase
+allied health | delete:phrase
+hospital administrator | delete:free
+adjust one's seat | delete:free
+smartphone app | delete:free
+shout out loud | delete:phrase
+skipping rope | delete:phrase
+tie with a rope | delete:free
+beyond the realm of possibility | delete:phrase
+presumably true | delete:rare
+forgotten password | delete:free
+password protected | delete:phrase
+laundry detergent | delete:phrase
+interactive game | delete:free
+interactive whiteboard | delete:phrase
+grocery shopping | n+n | 采购食品杂货, 买菜 | grocery
+retire early | delete:free
+apply for a passport | v+prep | 申请护照 | passport
+social mobility | delete:phrase
+median age | delete:phrase
+declare an emergency | v+n | 宣布进入紧急状态 | declare
+workplace safety | delete:free
+thermal energy | delete:phrase
+thanksgiving dinner | delete:phrase
+watch the sunset | delete:free
+sponsor an event | delete:free
+oil pipeline | delete:free
+mathematical model | delete:free
+donate money | delete:free
+budget airline | delete:phrase
+dietary supplement | delete:phrase
+reject an offer | delete:free
+kidney failure | delete:free
+strongly insist | delete:rare
+cease fire | delete:phrase
+financial analyst | delete:free
+strongly warn | v+adv | 强烈警告 | warn
+a slam dunk | delete:phrase
+mercury poisoning | delete:phrase
+machinery and equipment | delete:phrase
+farm machinery | delete:free
+political ideology | delete:free
+cycle helmet | delete:phrase
+quadratic equation | delete:phrase
+look up in a dictionary | delete:phrase
+for convenience | delete:phrase
+the complexity of sth | delete:free
+broadcasting company | delete:free
+badge of honour | delete:phrase
+wheat flour | delete:phrase
+void of sth | delete:wrong
+visitor centre | delete:phrase
+transparent glass | delete:free
+timber industry | delete:free
+theoretical physics | delete:phrase
+stark reminder | adj+n | 鲜明的提醒 | stark
+best seller | delete:phrase

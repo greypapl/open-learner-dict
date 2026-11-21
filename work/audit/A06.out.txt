@@ -1,0 +1,150 @@
+ph_control-freak | ok
+ph_lose-one-s-touch | ok
+ph_get-one-s-act-together | ok
+ph_sticky-wicket | ok
+ph_hot-flush | ok
+ph_zoom-off | ok
+ph_on-second-thought | ok
+ph_a-call-to-arms | ok
+ph_social-worker | ok
+ph_shopping-centre | ok
+ph_worse-off | ok
+ph_charge-card | ok
+ph_petrol-bomb | ok
+ph_corn-dog | ok
+ph_match-against | ok
+ph_human-being | ok
+ph_tune-up | ok
+ph_raise-an-eyebrow | minor | meaning | 引起非议 is causative (raise eyebrows); gloss says show surprise/disapproval: 表示惊讶或不赞同.
+ph_sexual-harassment | ok
+ph_stage-whisper | ok
+ph_make-light-of-sth | ok
+ph_cut-a-dash | ok
+ph_set-against | ok
+ph_no-such-luck | ok
+ph_inch-by-inch | ok
+ph_secretary-of-state | ok
+ph_on-the-up | ok
+ph_ring-fence | minor | form | As a verb it is hyphenated ring-fence; ring fence is the noun.
+ph_assist-with | ok
+ph_sob-story | ok
+ph_that-is-to-say | ok
+ph_go-on-safari | ok
+ph_eight-ball | ok
+ph_reach-for | ok
+ph_pull-the-wool-over-sb-s-eyes | ok
+ph_narrow-escape | minor | meaning | 九死一生 is too strong; better 侥幸脱险, 死里逃生.
+ph_fall-flat | ok
+ph_fond-of | ok
+ph_thumbnail-sketch | ok
+ph_a-fool-and-his-money-are-soon-parted | ok
+ph_silent-movie | ok
+ph_take-up-on | minor | form | Citation form should be take sb up on sth; take up on is not used alone.
+ph_cuckoo-clock | ok
+ph_free-ride | ok
+ph_not-enough-room-to-swing-a-cat | ok
+ph_tennis-shoe | ok
+ph_intrude-on | ok
+ph_laze-around | ok
+ph_fit-like-a-glove | ok
+ph_trade-wind | ok
+c_close-supervision | ok
+c_drop-to-sth | minor | zh | 降至某物 is unnatural; use 降至…, 下降到….
+c_claim-responsibility-for-sth | ok
+c_fully-compatible | ok
+c_apply-for-a-passport | ok
+c_associated-with-sth | minor | tag | Pattern should be adj+prep, not v+prep.
+c_submit-to-sth | ok
+c_busy-street | ok
+c_donate-to-charity | ok
+c_fix-a-bug | ok
+c_universal-truth | ok
+c_pronounced-improvement | ok
+c_deny-an-allegation | ok
+c_provide-an-incentive | minor | meaning | incentive is 激励/奖励措施; 提供激励 is more accurate than 提供动力.
+c_tragic-accident | ok
+c_a-personnel-department | ok
+c_temporarily-closed | ok
+c_a-pattern-emerges | minor | tag | Pattern should be n+v, not n+n.
+c_a-league-table | ok
+c_persistent-rumour | ok
+c_film-adaptation | ok
+c_increasingly-popular | ok
+c_dig-a-hole | ok
+c_pet-hate | ok
+c_factually-incorrect | ok
+c_a-logical-explanation | ok
+c_mow-the-lawn | ok
+c_retire-from-sth | ok
+c_raise-a-question | ok
+c_inappropriate-behaviour | ok
+c_spread-propaganda | ok
+c_hold-a-patent | ok
+c_die-of-hunger | ok
+c_sit-an-examination | ok
+c_a-credit-card | ok
+c_a-blank-look | ok
+c_nomination-for-sth | minor | tag | Pattern should be n+prep, not n+n; gloss better 获…提名.
+c_a-breach-of-contract | ok
+c_raise-consciousness | ok
+c_close-relationship | ok
+c_sign-a-lease | ok
+c_return-journey | ok
+c_electricity-supply | ok
+c_pronounced-accent | ok
+c_academic-excellence | ok
+c_project-an-image | ok
+c_a-dinner-plate | ok
+c_vast-range | minor | zh | 广泛范围 is unnatural; use 范围极广, 种类繁多.
+c_price-reduction | ok
+c_emotional-state | ok
+c_give-a-smile | ok
+c_fiercely-protect | ok
+c_observe-a-rule | ok
+c_generate-revenue | ok
+c_the-right-direction | ok
+c_feed-on-sth | ok
+c_yield-results | ok
+c_social-norm | ok
+c_highly-recommended | ok
+c_burning-sensation | ok
+c_resistant-to-sth | minor | tag | Pattern should be adj+prep, not v+prep.
+c_legally-binding | ok
+c_torn-between-sth-and-sth | minor | tag | Pattern should be adj+prep, not v+prep.
+c_keep-a-pet | ok
+c_highly-ambitious | ok
+c_sadly-lacking | ok
+c_follow-the-rules | ok
+c_state-clearly | ok
+c_a-public-apology | ok
+c_take-great-care | ok
+c_the-whole-truth | ok
+c_fond-memories | ok
+c_deeply-embarrassed | ok
+c_take-ownership-of-sth | ok
+c_an-observation-about-sth | minor | tag | Pattern should be n+prep, not n+n.
+c_a-long-term-goal | ok
+c_a-wide-variety-of-sth | ok
+c_a-lasting-effect | ok
+c_local-resident | ok
+c_occur-naturally | ok
+c_exact-same | minor | tag | Not adj+n; exact same is adj+adj (intensifier + adjective).
+c_rely-on-sb | ok
+c_profoundly-affect | ok
+c_make-a-discovery | ok
+c_stroke-of-luck | ok
+c_dedication-to-sth | minor | tag | Pattern should be n+prep, not v+prep.
+c_a-leading-role | minor | missing | Also very commonly 主导作用, 重要作用 (play a leading role in), not only 主角.
+c_pass-a-resolution | ok
+c_deeply-religious | ok
+c_curb-inflation | ok
+c_a-bestselling-author | ok
+c_protect-sb-from-sth | ok
+c_master-a-technique | ok
+c_trial-period | ok
+c_military-capability | ok
+c_a-string-of-pearls | ok
+c_provincial-government | ok
+c_a-threatening-letter | ok
+c_isolation-from-sth | minor | tag | Pattern should be n+prep, not v+prep.
+c_struggle-for-sth | ok

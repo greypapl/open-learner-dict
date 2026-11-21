@@ -1,0 +1,204 @@
+trafalgar | Trafalgar | place:特拉法尔加=西班牙海角
+tuscan | common | adj.托斯卡纳的
+tzu | skip:fragment
+usaf | USAF | abbr:美国空军
+vas | common | n.管, 脉管 [domain:生物]
+versace | Versace | brand:范思哲=意大利时尚品牌
+weirder | common | adj.更奇怪的
+weller | skip:unknown
+wheaton | skip:unknown
+winfrey | Winfrey | person:温弗瑞=美国主持人
+winn | skip:unknown
+wk | common | abbr.周
+yadav | Yadav | person:亚达夫=印度姓氏
+yeon | skip:unknown
+yvette | Yvette | person:伊薇特=法语女子名
+zak | Zak | person:扎克=英语男子名
+zed | common | n.字母表末字母 [uk]
+agm | skip:unknown
+amit | Amit | person:阿米特=印度男子名
+antennae | common | n.触角, 天线
+atk | skip:unknown
+ats | skip:unknown
+babylonian | Babylonian | people:巴比伦人=古巴比伦居民
+baines | skip:unknown
+beasley | skip:unknown
+berwick | Berwick | place:贝里克=英国城镇
+bla | skip:junk
+bobo | skip:unknown
+cabot | Cabot | person:卡伯特=英语姓氏
+capricorn | Capricorn | other:摩羯座=星座
+cbn | skip:unknown
+cdr | skip:unknown
+centro | skip:not-english
+chomsky | Chomsky | person:乔姆斯基=美国语言学家
+chrissy | skip:unknown
+cleo | Cleo | person:克莱奥=英语女子名
+cumin | common | n.孜然, 枯茗
+dawes | skip:unknown
+deloitte | Deloitte | brand:德勤=会计师事务所
+delphi | Delphi | place:德尔斐=古希腊圣地
+dslr | DSLR | abbr:数码单反相机
+dumfries | Dumfries | place:邓弗里斯=苏格兰城镇
+eeg | EEG | abbr:脑电图
+ellington | Ellington | person:艾灵顿=美国爵士乐家
+engravings | common | n.版画, 雕刻
+eurasia | Eurasia | place:欧亚大陆
+exo | skip:unknown
+ftp | FTP | abbr:文件传输协议
+garvey | skip:unknown
+gatorade | Gatorade | brand:佳得乐=运动饮料品牌
+gilles | skip:unknown
+googling | common | n.网络搜索 [informal]
+gtx | skip:unknown
+heineken | Heineken | brand:喜力=荷兰啤酒品牌
+hemsworth | Hemsworth | person:海姆斯沃斯=澳大利亚演员
+huxley | Huxley | person:赫胥黎=英语姓氏
+iqbal | Iqbal | person:伊克巴尔=穆斯林人名
+kh | skip:junk
+kn | skip:junk
+kombat | skip:fragment
+liberian | Liberian | people:利比里亚人
+lohan | skip:unknown
+macy | Macy | person:梅西=英语人名
+marsden | skip:unknown
+marsha | Marsha | person:玛莎=英语女子名
+masterchef | MasterChef | work:厨艺大师=美食竞赛节目
+mayfair | Mayfair | place:梅费尔=伦敦富人区
+mcallister | skip:unknown
+mcgowan | skip:unknown
+mifflin | skip:fragment
+momo | skip:unknown
+mun | skip:unknown
+murdock | skip:unknown
+myra | Myra | person:迈拉=英语女子名
+neill | Neill | person:尼尔=英语姓氏
+newbury | Newbury | place:纽伯里=英国城镇
+newell | skip:unknown
+nunes | Nunes | person:努内斯=葡萄牙语姓氏
+oates | Oates | person:奥茨=英语姓氏
+oneplus | OnePlus | brand:一加=中国手机品牌
+oop | skip:unknown
+parma | Parma | place:帕尔马=意大利城市
+paulson | Paulson | person:保尔森=英语姓氏
+pes | skip:unknown
+piero | Piero | person:皮耶罗=意大利男子名
+pleistocene | Pleistocene | other:更新世=地质年代
+principled | common | adj.有原则的
+robby | Robby | person:罗比=英语男子名
+rousseau | Rousseau | person:卢梭=法国哲学家
+salam | Salam | person:萨拉姆=阿拉伯人名
+sandler | Sandler | person:桑德勒=美国喜剧演员
+scala | skip:unknown
+seward | Seward | person:苏厄德=美国政治家
+shui | skip:fragment
+spicer | skip:unknown
+spiegel | skip:unknown
+tempe | Tempe | place:坦佩=美国亚利桑那州城市
+twas | skip:junk
+tyrion | Tyrion | work:提利昂=权力的游戏人物
+uhhh | common | int.呃
+uranus | Uranus | other:天王星=太阳系行星
+voldemort | Voldemort | work:伏地魔=哈利波特反派
+wanderer | common | n.流浪者, 漫游者
+whittaker | skip:unknown
+wut | common | int.什么 [slang]
+xander | skip:unknown
+xerox | Xerox | brand:施乐=美国办公设备公司
+xiaomi | Xiaomi | brand:小米=中国科技公司
+yd | common | abbr.码
+yeo | skip:unknown
+aac | AAC | abbr:高级音频编码
+aes | AES | abbr:高级加密标准
+aldrich | Aldrich | person:奥尔德里奇=英语姓氏
+aldridge | Aldridge | person:奥尔德里奇=英语姓氏
+amg | skip:unknown
+aoc | skip:unknown
+arr | skip:unknown
+asl | ASL | abbr:美国手语
+bab | skip:unknown
+banda | skip:unknown
+barnsley | Barnsley | place:巴恩斯利=英国城镇
+bergman | Bergman | person:伯格曼=瑞典电影导演
+bmc | skip:unknown
+bnp | skip:unknown
+brookings | Brookings | org:布鲁金斯学会=美国智库
+bv | skip:unknown
+cbt | CBT | abbr:认知行为疗法
+cfl | CFL | abbr:加拿大橄榄球联盟
+chas | skip:unknown
+chichester | Chichester | place:奇切斯特=英国城市
+christophe | Christophe | person:克里斯托夫=法语男子名
+coll | skip:unknown
+corinne | Corinne | person:科琳=法语女子名
+csu | skip:unknown
+dianne | Dianne | person:黛安=英语女子名
+dmc | skip:unknown
+engel | skip:unknown
+epsom | Epsom | place:埃普索姆=英国城镇
+eros | Eros | religion:厄洛斯=希腊爱神
+ewan | Ewan | person:尤恩=苏格兰男子名
+fabregas | Fabregas | person:法布雷加斯=西班牙足球运动员
+ferrer | Ferrer | person:费雷尔=西班牙语姓氏
+fong | skip:unknown
+franken | skip:fragment
+fullerton | Fullerton | place:富勒顿=美国加州城市
+guangdong | Guangdong | place:广东=中国省份
+guggenheim | Guggenheim | person:古根海姆=美国家族姓氏
+henning | skip:unknown
+hitachi | Hitachi | brand:日立=日本电器公司
+jeong | Jeong | person:郑=韩国姓氏
+jeter | Jeter | person:基特=美国棒球运动员
+joffrey | skip:unknown
+kenyon | skip:unknown
+klopp | Klopp | person:克洛普=德国足球教练
+lawton | skip:unknown
+lh | skip:junk
+lombard | skip:unknown
+looney | common | adj.疯癫的 [informal]
+lubbock | Lubbock | place:拉伯克=美国得州城市
+lui | skip:unknown
+malaya | Malaya | place:马来亚=马来半岛地区
+maloney | skip:unknown
+mather | skip:unknown
+medici | Medici | person:美第奇=意大利佛罗伦萨家族
+moby | skip:fragment
+mojave | Mojave | place:莫哈维=美国加州沙漠
+mott | skip:unknown
+nanjing | Nanjing | place:南京=中国城市
+nepali | Nepali | people:尼泊尔人
+nite | common | n.夜晚 [informal]
+nola | skip:unknown
+optimus | Optimus | work:擎天柱=变形金刚角色
+orkney | Orkney | place:奥克尼=苏格兰群岛
+padilla | skip:unknown
+pei | skip:unknown
+permian | Permian | other:二叠纪=地质年代
+pierson | skip:unknown
+pompeii | Pompeii | place:庞贝=意大利古城
+pompey | Pompey | person:庞培=古罗马将领
+qualcomm | Qualcomm | brand:高通=美国芯片公司
+reread | common | v.重读, 重新阅读
+roderick | Roderick | person:罗德里克=英语男子名
+roswell | Roswell | place:罗斯威尔=美国新墨西哥州城镇
+salim | Salim | person:萨利姆=阿拉伯男子名
+salzburg | Salzburg | place:萨尔茨堡=奥地利城市
+scholes | Scholes | person:斯科尔斯=英国足球运动员
+sdf | skip:junk
+seaworld | SeaWorld | brand:海洋世界=美国主题公园
+silvio | Silvio | person:西尔维奥=意大利男子名
+sittin | skip:junk
+smartwatch | common | n.智能手表
+soleil | skip:not-english
+somerville | Somerville | place:萨默维尔=美国马萨诸塞州城市
+sturridge | Sturridge | person:斯特里奇=英国足球运动员
+sxsw | SXSW | event:西南偏南大会=美国创意节
+tania | Tania | person:塔尼娅=女子名
+templeton | skip:unknown
+tolstoy | Tolstoy | person:托尔斯泰=俄国作家
+tunis | Tunis | place:突尼斯市=突尼斯首都
+upi | UPI | abbr:合众国际社
+westside | skip:unknown
+wsj | WSJ | abbr:华尔街日报
+wynne | skip:unknown
+yaya | skip:unknown

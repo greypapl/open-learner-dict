@@ -1,0 +1,4 @@
+body parts: head, face, eyes, ears, nose, mouth, teeth, tongue
+body parts: hands, fingers, arms, shoulders, legs, feet, back, neck
+heart, mind, brain, blood, bones, skin, stomach
+animals: dogs, cats, horses

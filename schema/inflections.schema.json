@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "open-learner-dict/0.10.0/inflections.schema.json",
+  "title": "open-learner-dict inflections (one object per JSONL line)",
+  "type": "object",
+  "properties": {
+    "form": {
+      "type": "string"
+    },
+    "lemmas": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "lemma": {
+            "type": "string"
+          },
+          "types": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "lemma",
+          "types"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "is_headword": {
+      "type": "boolean"
+    }
+  },
+  "required": [
+    "form",
+    "lemmas",
+    "is_headword"
+  ],
+  "additionalProperties": false
+}

@@ -1,0 +1,500 @@
+shit | common | n.屎, 狗屎 ; int.靠, 该死 [slang,offensive-strong] | nokid
+york | York | place:约克=英国城市 ; person:约克=英语姓氏
+north | common | n.北方 ; adj.北方的, 向北的
+u.s | U.S. | abbr:美国=美利坚合众国
+london | London | place:伦敦=英国首都
+al | Al | person:阿尔=英语男子名
+david | David | person:大卫=英语男子名
+james | James | person:詹姆斯=英语男子名
+michael | Michael | person:迈克尔=英语男子名
+washington | Washington | place:华盛顿=美国首都 ; person:华盛顿=美国首任总统
+la | LA | place:洛杉矶=美国城市
+europe | Europe | place:欧洲=世界七大洲之一
+george | George | person:乔治=英语男子名
+paul | Paul | person:保罗=英语男子名
+california | California | place:加利福尼亚=美国州名
+jesus | Jesus | religion:耶稣=基督教创始人
+san | skip:unknown
+facebook | Facebook | brand:脸书=美国社交网站
+texas | Texas | place:得克萨斯=美国州名
+william | William | person:威廉=英语男子名
+google | Google | brand:谷歌=美国科技公司
+obama | Obama | person:奥巴马=美国前总统
+robert | Robert | person:罗伯特=英语男子名
+thomas | Thomas | person:托马斯=英语男子名
+chicago | Chicago | place:芝加哥=美国城市
+tom | Tom | person:汤姆=英语男子名
+twitter | Twitter | brand:推特=美国社交网站
+louis | Louis | person:路易=英语男子名
+paris | Paris | place:巴黎=法国首都
+chris | Chris | person:克里斯=英语人名
+christ | Christ | religion:基督=耶稣的称号
+ed | Ed | person:埃德=英语男子名
+richard | Richard | person:理查德=英语男子名
+joe | Joe | person:乔=英语男子名
+los | skip:not-english
+mary | Mary | person:玛丽=英语女子名
+charles | Charles | person:查尔斯=英语男子名
+florida | Florida | place:佛罗里达=美国州名
+dont | skip:junk
+henry | Henry | person:亨利=英语男子名
+martin | Martin | person:马丁=英语男子名
+angeles | skip:unknown
+jones | Jones | person:琼斯=英语姓氏
+johnson | Johnson | person:约翰逊=英语姓氏
+scott | Scott | person:斯科特=英语人名
+steve | Steve | person:史蒂夫=英语男子名
+ben | Ben | person:本=英语男子名
+im | skip:junk
+boston | Boston | place:波士顿=美国城市
+ca | CA | abbr:加州=加利福尼亚州缩写
+ms | common | abbr.女士
+williams | Williams | person:威廉姆斯=英语姓氏
+et | skip:not-english
+ll | skip:junk
+youtube | YouTube | brand:油管=视频网站
+taylor | Taylor | person:泰勒=英语人名
+sam | Sam | person:萨姆=英语男子名
+tony | Tony | person:托尼=英语男子名
+iii | skip:numeral
+alex | Alex | person:亚历克斯=英语人名
+daniel | Daniel | person:丹尼尔=英语男子名
+jim | Jim | person:吉姆=英语男子名
+virginia | Virginia | place:弗吉尼亚=美国州名 ; person:弗吉尼亚=英语女子名
+conservative | common | adj.保守的 ; n.保守派
+ohio | Ohio | place:俄亥俄=美国州名
+scottish | common | adj.苏格兰的 ; n.苏格兰人
+kim | Kim | person:金=英语人名 ; person:金=朝鲜韩国姓氏
+ryan | Ryan | person:瑞安=英语男子名
+jackson | Jackson | person:杰克逊=英语姓氏
+adam | Adam | person:亚当=英语男子名
+andrew | Andrew | person:安德鲁=英语男子名
+bbc | BBC | org:英国广播公司
+clinton | Clinton | person:克林顿=美国前总统姓氏
+em | skip:junk
+dc | DC | abbr:华盛顿特区=美国首都
+el | skip:not-english
+kevin | Kevin | person:凯文=英语男子名
+ve | skip:junk
+amazon | Amazon | brand:亚马逊=美国电商公司 ; place:亚马孙=南美河流
+da | skip:not-english
+michigan | Michigan | place:密歇根=美国州名
+nfl | NFL | org:美国国家橄榄球联盟
+e.g | common | abbr.例如
+francisco | Francisco | person:弗朗西斯科=西班牙语男子名
+hong | skip:unknown
+manchester | Manchester | place:曼彻斯特=英国城市
+sydney | Sydney | place:悉尼=澳大利亚城市
+wilson | Wilson | person:威尔逊=英语姓氏
+carolina | Carolina | place:卡罗来纳=美国地区
+edward | Edward | person:爱德华=英语男子名
+hollywood | Hollywood | place:好莱坞=美国影视中心
+i.e | common | abbr.即, 也就是
+joseph | Joseph | person:约瑟夫=英语男子名
+thats | skip:junk
+dan | Dan | person:丹=英语男子名
+tim | Tim | person:蒂姆=英语男子名
+le | skip:not-english
+stephen | Stephen | person:斯蒂芬=英语男子名
+zealand | skip:unknown
+davis | Davis | person:戴维斯=英语姓氏
+eric | Eric | person:埃里克=英语男子名
+kong | skip:unknown
+santa | common | n.圣诞老人 [informal]
+toronto | Toronto | place:多伦多=加拿大城市
+howard | Howard | person:霍华德=英语男子名
+lewis | Lewis | person:刘易斯=英语人名
+sarah | Sarah | person:莎拉=英语女子名
+simon | Simon | person:西蒙=英语男子名
+brian | Brian | person:布赖恩=英语男子名
+elizabeth | Elizabeth | person:伊丽莎白=英语女子名
+miami | Miami | place:迈阿密=美国城市
+colorado | Colorado | place:科罗拉多=美国州名
+donald | Donald | person:唐纳德=英语男子名
+georgia | Georgia | place:佐治亚=美国州名 ; place:格鲁吉亚=高加索国家
+jason | Jason | person:杰森=英语男子名
+pa | skip:unknown
+alan | Alan | person:艾伦=英语男子名
+jeff | Jeff | person:杰夫=英语男子名
+luke | Luke | person:卢克=英语男子名
+mac | Mac | brand:苹果电脑=苹果电脑品牌 ; person:麦克=英语男子名
+rome | Rome | place:罗马=意大利首都
+dave | Dave | person:戴夫=英语男子名
+harris | Harris | person:哈里斯=英语姓氏
+illinois | Illinois | place:伊利诺伊=美国州名
+jimmy | Jimmy | person:吉米=英语男子名
+kelly | Kelly | person:凯利=英语人名
+p.m | common | abbr.下午
+victoria | Victoria | person:维多利亚=英语女子名 ; place:维多利亚=澳大利亚州名
+andy | Andy | person:安迪=英语男子名
+charlie | Charlie | person:查理=英语男子名
+fbi | FBI | abbr:联邦调查局=美国联邦执法机构
+iphone | iPhone | brand:苹果手机
+liverpool | Liverpool | place:利物浦=英国城市
+ny | NY | abbr:纽约=美国州名或城市
+dallas | Dallas | place:达拉斯=美国城市
+houston | Houston | place:休斯敦=美国城市
+jane | Jane | person:简=英语女子名
+morgan | Morgan | person:摩根=英语姓氏
+moscow | Moscow | place:莫斯科=俄罗斯首都
+na | skip:junk
+op | skip:junk
+philadelphia | Philadelphia | place:费城=美国城市
+vegas | Vegas | place:维加斯=拉斯维加斯简称
+anthony | Anthony | person:安东尼=英语男子名
+arthur | Arthur | person:亚瑟=英语男子名
+trans | common | adj.跨性别的 [informal]
+vol | common | abbr.卷, 册
+alexander | Alexander | person:亚历山大=英语男子名
+ap | AP | org:美联社=美国通讯社
+columbia | Columbia | place:哥伦比亚=南美国家或美国地名
+pennsylvania | Pennsylvania | place:宾夕法尼亚=美国州名
+atlantic | Atlantic | place:大西洋=世界第二大洋
+cambridge | Cambridge | place:剑桥=英国城市
+disney | Disney | brand:迪士尼=美国娱乐公司
+francis | Francis | person:弗朗西斯=英语男子名
+gary | Gary | person:加里=英语男子名
+nba | NBA | org:美国职业篮球联赛
+ross | Ross | person:罗斯=英语人名
+seattle | Seattle | place:西雅图=美国城市
+allen | Allen | person:艾伦=英语人名
+arizona | Arizona | place:亚利桑那=美国州名
+berlin | Berlin | place:柏林=德国首都
+clark | Clark | person:克拉克=英语姓氏
+iv | skip:numeral
+mo | skip:junk
+oxford | Oxford | place:牛津=英国城市
+anna | Anna | person:安娜=英语女子名
+atlanta | Atlanta | place:亚特兰大=美国城市
+gordon | Gordon | person:戈登=英语人名
+kansas | Kansas | place:堪萨斯=美国州名
+matthew | Matthew | person:马修=英语男子名
+patrick | Patrick | person:帕特里克=英语男子名
+phil | Phil | person:菲尔=英语男子名
+wayne | Wayne | person:韦恩=英语人名
+anderson | Anderson | person:安德森=英语姓氏
+austin | Austin | place:奥斯汀=美国城市
+diego | Diego | person:迭戈=西班牙语男子名
+doc | common | n.医生 [informal] ; n.文档 [informal]
+jean | Jean | person:琼=英语女子名
+melbourne | Melbourne | place:墨尔本=澳大利亚城市
+microsoft | Microsoft | brand:微软=美国科技公司
+walter | Walter | person:沃尔特=英语男子名
+wisconsin | Wisconsin | place:威斯康星=美国州名
+a.m | common | abbr.上午
+ann | Ann | person:安=英语女子名
+carter | Carter | person:卡特=英语姓氏
+chelsea | Chelsea | place:切尔西=伦敦地区 ; org:切尔西=英国足球俱乐部
+detroit | Detroit | place:底特律=美国城市
+johnny | Johnny | person:约翰尼=英语男子名
+rio | Rio | place:里约=里约热内卢简称
+bruce | Bruce | person:布鲁斯=英语男子名
+kate | Kate | person:凯特=英语女子名
+maria | Maria | person:玛丽亚=女子名
+billy | Billy | person:比利=英语男子名
+d.c | D.C. | abbr:华盛顿特区=美国首都
+di | skip:not-english
+fuckin | common | adj.他妈的 [slang,offensive-strong] | nokid
+instagram | Instagram | brand:照片墙=美国社交应用
+iowa | Iowa | place:艾奥瓦=美国州名
+russell | Russell | person:拉塞尔=英语人名
+anne | Anne | person:安妮=英语女子名
+del | skip:not-english
+ian | Ian | person:伊恩=英语男子名
+il | skip:not-english
+justin | Justin | person:贾斯汀=英语男子名
+rick | Rick | person:里克=英语男子名
+ali | Ali | person:阿里=阿拉伯语人名
+hamilton | Hamilton | person:汉密尔顿=英语姓氏
+indiana | Indiana | place:印第安纳=美国州名
+jon | Jon | person:乔恩=英语男子名
+jonathan | Jonathan | person:乔纳森=英语男子名
+lawrence | Lawrence | person:劳伦斯=英语人名
+lincoln | Lincoln | person:林肯=美国前总统
+massachusetts | Massachusetts | place:马萨诸塞=美国州名
+minnesota | Minnesota | place:明尼苏达=美国州名
+oscar | Oscar | person:奥斯卡=英语男子名
+sean | Sean | person:肖恩=爱尔兰男子名
+sec | common | n.一会儿, 片刻 [informal]
+graham | Graham | person:格雷厄姆=英语人名
+hillary | Hillary | person:希拉里=英语人名
+kentucky | Kentucky | place:肯塔基=美国州名
+madrid | Madrid | place:马德里=西班牙首都
+mi | skip:junk
+oregon | Oregon | place:俄勒冈=美国州名
+sa | skip:junk
+delhi | Delhi | place:德里=印度城市
+lisa | Lisa | person:丽莎=英语女子名
+se | skip:junk
+cnn | CNN | org:美国有线电视新闻网
+edinburgh | Edinburgh | place:爱丁堡=苏格兰首府
+kennedy | Kennedy | person:肯尼迪=英语姓氏
+larry | Larry | person:拉里=英语男子名
+las | skip:not-english
+moore | Moore | person:摩尔=英语姓氏
+nazi | common | n.纳粹分子 ; adj.纳粹的
+philip | Philip | person:菲利普=英语男子名
+thompson | Thompson | person:汤普森=英语姓氏
+cleveland | Cleveland | place:克利夫兰=美国城市
+cm | common | abbr.厘米
+isis | ISIS | org:伊斯兰国=极端组织 ; religion:伊西斯=古埃及女神
+maryland | Maryland | place:马里兰=美国州名
+murray | Murray | person:默里=英语姓氏
+oklahoma | Oklahoma | place:俄克拉何马=美国州名
+tokyo | Tokyo | place:东京=日本首都
+alabama | Alabama | place:阿拉巴马=美国州名
+alice | Alice | person:爱丽丝=英语女子名
+barry | Barry | person:巴里=英语男子名
+cameron | Cameron | person:卡梅伦=英语人名
+fi | skip:junk
+jerry | Jerry | person:杰里=英语男子名
+missouri | Missouri | place:密苏里=美国州名
+ted | Ted | person:特德=英语男子名
+va | skip:junk
+adams | Adams | person:亚当斯=英语姓氏
+brooklyn | Brooklyn | place:布鲁克林=纽约行政区
+danny | Danny | person:丹尼=英语男子名
+des | skip:not-english
+li | Li | person:李=中国姓氏
+roy | Roy | person:罗伊=英语男子名
+stewart | Stewart | person:斯图尔特=英语人名
+albert | Albert | person:阿尔伯特=英语男子名
+bitcoin | Bitcoin | brand:比特币=加密货币
+carl | Carl | person:卡尔=英语男子名
+emails | common | n.电子邮件
+harvard | Harvard | org:哈佛大学=美国名校
+laura | Laura | person:劳拉=英语女子名
+marshall | Marshall | person:马歇尔=英语姓氏
+mitchell | Mitchell | person:米切尔=英语姓氏
+nelson | Nelson | person:纳尔逊=英语姓氏
+steven | Steven | person:史蒂文=英语男子名
+susan | Susan | person:苏珊=英语女子名
+terry | Terry | person:特里=英语人名
+aaron | Aaron | person:亚伦=英语男子名
+barcelona | Barcelona | place:巴塞罗那=西班牙城市
+campbell | Campbell | person:坎贝尔=英语姓氏
+denver | Denver | place:丹佛=美国城市
+emma | Emma | person:艾玛=英语女子名
+greg | Greg | person:格雷格=英语男子名
+jacob | Jacob | person:雅各布=英语男子名
+leo | Leo | person:利奥=英语男子名
+margaret | Margaret | person:玛格丽特=英语女子名
+mario | Mario | person:马里奥=男子名 ; work:马里奥=任天堂游戏角色
+parker | Parker | person:帕克=英语姓氏
+queensland | Queensland | place:昆士兰=澳大利亚州名
+utah | Utah | place:犹他=美国州名
+baltimore | Baltimore | place:巴尔的摩=美国城市
+batman | Batman | work:蝙蝠侠=美国漫画英雄
+bobby | Bobby | person:鲍比=英语男子名
+charlotte | Charlotte | person:夏洛特=英语女子名 ; place:夏洛特=美国城市
+christopher | Christopher | person:克里斯托弗=英语男子名
+com | skip:junk
+evans | Evans | person:埃文斯=英语姓氏
+gop | GOP | abbr:共和党=美国共和党别称
+ho | skip:unknown
+oliver | Oliver | person:奥利弗=英语男子名
+perry | Perry | person:佩里=英语人名
+ron | Ron | person:罗恩=英语男子名
+cia | CIA | abbr:中央情报局=美国情报机构
+douglas | Douglas | person:道格拉斯=英语人名
+du | skip:not-english
+ep | common | abbr.迷你专辑 [domain:音乐]
+fifa | FIFA | org:国际足联=国际足球联合会
+franklin | Franklin | person:富兰克林=英语人名
+fred | Fred | person:弗雷德=英语男子名
+hawaii | Hawaii | place:夏威夷=美国州名
+jose | Jose | person:何塞=西班牙语男子名
+nasa | NASA | org:美国国家航空航天局
+ontario | Ontario | place:安大略=加拿大省名
+orleans | Orleans | place:奥尔良=法国城市
+robinson | Robinson | person:鲁滨逊=英语姓氏
+tennessee | Tennessee | place:田纳西=美国州名
+amy | Amy | person:艾米=英语女子名
+barbara | Barbara | person:芭芭拉=英语女子名
+fa | skip:unknown
+hr | common | abbr.人力资源 ; abbr.小时
+jerusalem | Jerusalem | place:耶路撒冷=中东城市
+th | skip:junk
+websites | common | n.网站
+wright | Wright | person:赖特=英语姓氏
+alaska | Alaska | place:阿拉斯加=美国州名
+glasgow | Glasgow | place:格拉斯哥=苏格兰城市
+helen | Helen | person:海伦=英语女子名
+jennifer | Jennifer | person:詹妮弗=英语女子名
+louisiana | Louisiana | place:路易斯安那=美国州名
+marie | Marie | person:玛丽=法语女子名
+mississippi | Mississippi | place:密西西比=美国州名或河流
+netflix | Netflix | brand:奈飞=美国流媒体公司
+samuel | Samuel | person:塞缪尔=英语男子名
+sony | Sony | brand:索尼=日本电子公司
+stanley | Stanley | person:斯坦利=英语男子名
+xbox | Xbox | brand:微软游戏机=微软游戏主机
+birmingham | Birmingham | place:伯明翰=英国城市
+craig | Craig | person:克雷格=英语男子名
+didnt | skip:junk
+portland | Portland | place:波特兰=美国城市
+rs | skip:junk
+sc | skip:junk
+watson | Watson | person:沃森=英语姓氏
+antonio | Antonio | person:安东尼奥=男子名
+jake | Jake | person:杰克=英语男子名
+jamie | Jamie | person:杰米=英语人名
+jessica | Jessica | person:杰西卡=英语女子名
+keith | Keith | person:基思=英语男子名
+kent | Kent | place:肯特=英国郡名 ; person:肯特=英语人名
+madison | Madison | person:麦迪逊=英语人名 ; place:麦迪逊=美国城市
+si | skip:junk
+thai | Thai | people:泰国人=泰国民族
+tyler | Tyler | person:泰勒=英语人名
+von | skip:not-english
+wa | skip:junk
+benjamin | Benjamin | person:本杰明=英语男子名
+blake | Blake | person:布莱克=英语姓氏
+der | skip:not-english
+hitler | Hitler | person:希特勒=纳粹德国元首
+maine | Maine | place:缅因=美国州名
+manhattan | Manhattan | place:曼哈顿=纽约行政区
+michelle | Michelle | person:米歇尔=英语女子名
+neil | Neil | person:尼尔=英语男子名
+roberts | Roberts | person:罗伯茨=英语姓氏
+tommy | Tommy | person:汤米=英语男子名
+vancouver | Vancouver | place:温哥华=加拿大城市
+collins | Collins | person:柯林斯=英语姓氏
+costa | Costa | person:科斯塔=葡西语姓氏
+harvey | Harvey | person:哈维=英语人名
+jeremy | Jeremy | person:杰里米=英语男子名
+morris | Morris | person:莫里斯=英语人名
+rachel | Rachel | person:瑞秋=英语女子名
+cbs | CBS | abbr:哥伦比亚广播公司=美国电视网
+commons | Commons | org:下议院=英国议会下院
+conservatives | common | n.保守派
+eddie | Eddie | person:埃迪=英语男子名
+emily | Emily | person:艾米莉=英语女子名
+ga | skip:junk
+kyle | Kyle | person:凯尔=英语男子名
+nancy | Nancy | person:南希=英语女子名
+norman | Norman | person:诺曼=英语男子名
+stairs | common | n.楼梯
+vincent | Vincent | person:文森特=英语男子名
+hp | HP | brand:惠普=美国科技公司
+murphy | Murphy | person:墨菲=英语姓氏
+nathan | Nathan | person:内森=英语男子名
+pittsburgh | Pittsburgh | place:匹兹堡=美国城市
+putin | Putin | person:普京=俄罗斯总统
+stuart | Stuart | person:斯图尔特=英语人名
+arabia | Arabia | place:阿拉伯=西亚地区
+beijing | Beijing | place:北京=中国首都
+caribbean | Caribbean | place:加勒比=中美洲海域
+ios | iOS | brand:苹果操作系统=苹果移动系统
+juan | Juan | person:胡安=西班牙语男子名
+julia | Julia | person:朱莉娅=英语女子名
+mg | common | abbr.毫克
+pete | Pete | person:皮特=英语男子名
+richmond | Richmond | place:里士满=美国城市
+samsung | Samsung | brand:三星=韩国企业
+victorian | common | adj.维多利亚时代的 ; n.维多利亚时代的人
+ashley | Ashley | person:阿什利=英语人名
+catherine | Catherine | person:凯瑟琳=英语女子名
+connecticut | Connecticut | place:康涅狄格=美国州名
+rd | common | abbr.路
+warner | Warner | person:华纳=英语姓氏
+cam | skip:unknown
+dennis | Dennis | person:丹尼斯=英语男子名
+ipad | iPad | brand:苹果平板电脑
+les | skip:not-english
+ralph | Ralph | person:拉尔夫=英语男子名
+ss | skip:junk
+carlos | Carlos | person:卡洛斯=西班牙语男子名
+colin | Colin | person:科林=英语男子名
+dakota | Dakota | place:达科他=美国地区
+fl | skip:junk
+julie | Julie | person:朱莉=英语女子名
+karen | Karen | person:凯伦=英语女子名
+lucas | Lucas | person:卢卡斯=英语人名
+marcus | Marcus | person:马库斯=英语男子名
+rogers | Rogers | person:罗杰斯=英语姓氏
+todd | Todd | person:托德=英语男子名
+vi | skip:numeral
+wi | skip:junk
+broadway | Broadway | place:百老汇=纽约剧院街区
+dubai | Dubai | place:迪拜=阿联酋城市
+dublin | Dublin | place:都柏林=爱尔兰首都
+harrison | Harrison | person:哈里森=英语姓氏
+hughes | Hughes | person:休斯=英语姓氏
+nintendo | Nintendo | brand:任天堂=日本游戏公司
+shaw | Shaw | person:肖=英语姓氏
+cruz | Cruz | person:克鲁斯=西葡语姓氏
+lucy | Lucy | person:露西=英语女子名
+montreal | Montreal | place:蒙特利尔=加拿大城市
+newcastle | Newcastle | place:纽卡斯尔=英国城市
+spencer | Spencer | person:斯宾塞=英语人名
+te | skip:not-english
+ar | skip:junk
+fc | FC | abbr:足球俱乐部
+holmes | Holmes | person:霍姆斯=英语姓氏 ; person:福尔摩斯=侦探小说人物
+linda | Linda | person:琳达=英语女子名
+pokemon | Pokemon | work:精灵宝可梦=日本动漫游戏
+stan | Stan | person:斯坦=英语男子名
+traveled | common | v.旅行, 游历 [us]
+arkansas | Arkansas | place:阿肯色=美国州名
+clarke | Clarke | person:克拉克=英语姓氏
+doesnt | skip:junk
+dylan | Dylan | person:迪伦=英语男子名
+ellen | Ellen | person:艾伦=英语女子名
+hannah | Hannah | person:汉娜=英语女子名
+milan | Milan | place:米兰=意大利城市
+montana | Montana | place:蒙大拿=美国州名
+nc | skip:junk
+ne | skip:junk
+nyc | NYC | abbr:纽约市=美国城市
+owen | Owen | person:欧文=英语男子名
+wallace | Wallace | person:华莱士=英语姓氏
+aging | common | n.衰老 ; adj.老化的
+bi | common | adj.双性恋的 [informal]
+columbus | Columbus | person:哥伦布=意大利航海家 ; place:哥伦布=美国城市
+cum | common | n.精液 ; v.射精 [slang,offensive-strong] | nokid
+ebay | eBay | brand:易贝=美国电商网站
+edwards | Edwards | person:爱德华兹=英语姓氏
+harper | Harper | person:哈珀=英语人名
+jesse | Jesse | person:杰西=英语男子名
+lgbt | LGBT | abbr:性少数群体=同性恋双性恋跨性别
+logan | Logan | person:洛根=英语人名
+nevada | Nevada | place:内华达=美国州名
+orlando | Orlando | place:奥兰多=美国城市
+pt | skip:junk
+puerto | skip:unknown
+rt | skip:junk
+shanghai | Shanghai | place:上海=中国城市
+singh | Singh | person:辛格=印度姓氏
+taiwan | Taiwan | place:台湾=中国省份
+yorkshire | Yorkshire | place:约克郡=英国地区
+amsterdam | Amsterdam | place:阿姆斯特丹=荷兰首都
+bennett | Bennett | person:贝内特=英语姓氏
+bristol | Bristol | place:布里斯托尔=英国城市
+calories | common | n.卡路里, 热量
+harold | Harold | person:哈罗德=英语男子名
+hudson | Hudson | person:哈德孙=英语姓氏 ; place:哈德孙=美国河流
+jo | Jo | person:乔=英语人名
+kenny | Kenny | person:肯尼=英语男子名
+lloyd | Lloyd | person:劳埃德=英语人名
+marc | Marc | person:马克=英语男子名
+nicholas | Nicholas | person:尼古拉斯=英语男子名
+phillips | Phillips | person:菲利普斯=英语姓氏
+sp | skip:junk
+sr | common | abbr.老, 高级
+angela | Angela | person:安吉拉=英语女子名
+au | skip:junk
+bernard | Bernard | person:伯纳德=英语男子名
+diana | Diana | person:戴安娜=英语女子名
+doug | Doug | person:道格=英语男子名
+duncan | Duncan | person:邓肯=英语男子名
+ive | skip:junk
+nbc | NBC | abbr:全国广播公司=美国电视网
+nhl | NHL | org:国家冰球联盟=北美职业冰球
+palmer | Palmer | person:帕尔默=英语姓氏
+tl | skip:junk
+aa | skip:junk
+abu | Abu | person:阿布=阿拉伯语人名
+bradley | Bradley | person:布拉德利=英语姓氏
+brandon | Brandon | person:布兰登=英语男子名
+cal | skip:unknown

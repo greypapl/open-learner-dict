@@ -1,0 +1,300 @@
+w004559.1 | electoral | adj. | C1 | 选举的, 选民的 | relating to elections or voters
+w004560.1 | eleven | num. | A1 | 十一 | the number 11
+w004560.2 | eleven | n. | A1 | 十一人队, 足球队 | a team of eleven players, as in football
+w004561.1 | entity | n. | C1 | 实体, 独立存在物 | something that exists separately and independently
+w004562.1 | excessive | adj. | B2 | 过多的, 过度的, 过分的 | more than is necessary or reasonable
+w004563.1 | feminist | n. | B2 | 女权主义者, 女性主义者 | a person who supports equal rights for women
+w004563.2 | feminist | adj. | B2 | 女权主义的, 女性主义的 | supporting or relating to equal rights for women
+w004564.1 | governing | adj. | B2 | 执政的, 统治的, 管理的 | having the power to control or run something
+w004565.1 | ham | n. | A2 | 火腿 | meat from a pig's leg, salted or smoked
+w004565.2 | ham | n. | A2 | 拙劣演员, 爱表现的人 | an actor who performs in an exaggerated way
+w004565.3 | ham | n. | A2 | 业余无线电爱好者 | a person who operates an amateur radio station
+w004566.1 | heal | v. | B1 | 治愈, 愈合, 康复 | to become healthy again or make someone healthy
+w004566.2 | heal | v. | B1 | 消除, 调解, 弥合 | to end a problem or bad feelings between people
+w004567.1 | interface | n. | B2 | 界面, 用户界面 | the way a user interacts with a computer program
+w004567.2 | interface | n. | B2 | 接口, 接合部 | a connection between two systems or devices
+w004567.3 | interface | n. | B2 | 交界面, 结合点 | a point where two things meet and affect each other
+w004567.4 | interface | v. | B2 | 连接, 接合, 相互作用 | to connect or interact with another system
+w004568.1 | jewelry | n. | A2 | 首饰, 珠宝 | rings, necklaces and other decorations worn on the body
+w004569.1 | journalism | n. | B1 | 新闻业, 新闻工作, 新闻报道 | the work of collecting and reporting news
+w004572.1 | jungle | n. | B1 | 丛林, 热带雨林 | a thick tropical forest
+w004572.2 | jungle | n. | B1 | 弱肉强食之地, 混乱之处 | a place or situation that is confusing or competitive
+w004573.1 | linear | adj. | C1 | 线性的, 直线的 | arranged in or relating to a straight line
+w004573.2 | linear | adj. | C1 | 线性的, 循序的 | progressing step by step in a single sequence
+w004573.3 | linear | adj. | C1 | 线性的, 一次的 | describing a straight-line relationship between quantities
+w004574.1 | occasional | adj. | B2 | 偶尔的, 不经常的, 间或的 | happening sometimes but not often
+w004575.1 | oriented | adj. | B2 | 以…为导向的, 面向…的 | directed towards or focused on something
+w004576.1 | point-blank | adj. | C1 | 近距离的, 抵近的 | fired from very close to the target
+w004576.2 | point-blank | adv. | C1 | 直截了当地, 断然地 | in a very direct and blunt way
+w004576.3 | point-blank | adv. | C1 | 近距离地, 抵近地 | from very close range
+w004577.1 | pursuit | n. | B2 | 追求, 寻求 | the effort to achieve or get something
+w004577.2 | pursuit | n. | B2 | 追赶, 追捕 | the act of chasing someone or something
+w004577.3 | pursuit | n. | B2 | 爱好, 消遣, 活动 | an activity you spend time doing
+w004578.1 | rap | n. | B1 | 说唱乐, 说唱 | music with rhythmic spoken words over a beat
+w004578.2 | rap | n. | B1 | 敲击声, 轻敲 | a quick sharp knock or hit
+w004578.3 | rap | n. | B1 | 罪名, 指控, 责备 | blame or a criminal charge
+w004578.4 | rap | v. | B1 | 说唱 | to perform rap music
+w004578.5 | rap | v. | B1 | 敲击, 轻敲 | to hit something quickly and sharply
+w004579.1 | reminder | n. | B1 | 提醒, 提示 | something that helps you remember something
+w004579.2 | reminder | n. | B1 | 催单, 提醒通知 | a message telling you something is due
+w004580.1 | resume | v. | B2 | 恢复, 继续, 重新开始 | to start again after a pause
+w004580.2 | resume | v. | B2 | 重新占用, 回到 | to go back to a place or position
+w004580.3 | resume | n. | B2 | 简历, 履历 | a document listing your education and work experience
+w004581.1 | rev | v. | C2 | 加大油门, 使发动机加速 | to make an engine run faster
+w004581.2 | rev | n. | C2 | 转数, 转速 | one revolution of an engine
+w004583.1 | ridge | n. | B2 | 山脊, 山脉 | a long narrow raised strip of land
+w004583.2 | ridge | n. | B2 | 脊, 隆起 | a raised line on a surface
+w004583.3 | ridge | n. | B2 | 高压脊 | a long area of high air pressure
+w004585.1 | tribe | n. | B2 | 部落, 部族 | a social group of families sharing culture and ancestors
+w004585.2 | tribe | n. | B2 | 一伙, 一群人 | a group of people with shared interests
+w004586.1 | unfortunate | adj. | B1 | 不幸的, 倒霉的 | having bad luck
+w004586.2 | unfortunate | adj. | B1 | 令人遗憾的, 不恰当的 | regrettable or not suitable
+w004586.3 | unfortunate | n. | B1 | 不幸的人 | a person who has bad luck or a hard life
+w004587.1 | variable | n. | B2 | 变量, 可变因素 | a factor or quantity that can change
+w004587.2 | variable | adj. | B2 | 可变的, 易变的, 多变的 | likely to change or not consistent
+w004587.3 | variable | adj. | B2 | 可调节的, 可变动的 | able to be adjusted or changed
+w004588.1 | wide-ranging | adj. | C1 | 广泛的, 范围广的, 涉及面广的 | covering many different subjects or things
+w004589.1 | worrying | adj. | B1 | 令人担忧的, 令人不安的 | making you feel anxious
+w004590.1 | xi | n. | C2 | 希腊字母ξ | the fourteenth letter of the Greek alphabet
+w004591.1 | CT | abbr. | B2 | 计算机断层扫描, CT扫描 | computed tomography, a kind of medical body scan
+w004593.1 | EST | abbr. | C1 | 美国东部标准时间 | Eastern Standard Time in North America
+w004594.1 | Palestinian | adj. | B2 | 巴勒斯坦的, 巴勒斯坦人的 | relating to Palestine or its people
+w004594.2 | Palestinian | n. | B2 | 巴勒斯坦人 | a person from Palestine
+w004596.1 | ace | n. | B2 | 王牌, A牌 | a playing card with a single symbol
+w004596.2 | ace | n. | B2 | 高手, 能手, 王牌 | a person who is very skilled at something
+w004596.3 | ace | n. | B2 | 发球得分, 爱司球 | a serve the opponent cannot touch
+w004596.4 | ace | adj. | B2 | 一流的, 极好的 | excellent or very skilled
+w004596.5 | ace | v. | B2 | 轻松通过, 考得好 | to do very well in a test
+w004597.1 | alternate | v. | B2 | 交替, 轮流 | to happen or do things one after the other repeatedly
+w004597.2 | alternate | adj. | B2 | 交替的, 轮流的, 间隔的 | happening every other time, in turns
+w004597.3 | alternate | adj. | B2 | 替代的, 备选的 | available as another choice
+w004597.4 | alternate | n. | B2 | 替补, 候补者 | a person who can take another's place
+w004598.1 | artwork | n. | B1 | 艺术品, 美术作品 | a painting, sculpture or other piece of art
+w004598.2 | artwork | n. | B1 | 插图, 图片, 美术设计 | pictures and designs in a book or product
+w004600.1 | athlete | n. | B1 | 运动员, 体育家 | a person who is good at sports
+w004601.1 | attraction | n. | B1 | 景点, 吸引人的事物 | a place or thing that people visit for enjoyment
+w004601.2 | attraction | n. | B1 | 吸引, 吸引力, 魅力 | the feeling of liking or being drawn to someone
+w004601.3 | attraction | n. | B1 | 引力, 吸力 | a force that pulls things together
+w004602.1 | babe | n. | B2 | 宝贝, 亲爱的 | an affectionate way to address a partner
+w004602.2 | babe | n. | B2 | 性感女子, 美女 | an attractive young woman
+w004602.3 | babe | n. | B2 | 婴儿 | a baby
+w004603.1 | bankruptcy | n. | C1 | 破产, 倒闭 | the state of being legally unable to pay debts
+w004604.1 | canon | n. | C2 | 经典作品, 正典 | works generally accepted as the most important
+w004604.2 | canon | n. | C2 | 准则, 原则 | a generally accepted rule or principle
+w004604.3 | canon | n. | C2 | 教士, 教规 | a priest of a cathedral; also church law
+w004606.1 | closure | n. | C1 | 关闭, 停业, 倒闭 | the closing of a place or business
+w004606.2 | closure | n. | C1 | 了结, 释怀 | a feeling that a bad experience is finally over
+w004606.3 | closure | n. | C1 | 封闭, 封路 | the act of blocking a road or route
+w004607.1 | cognitive | adj. | C1 | 认知的, 认识的 | relating to thinking, learning and understanding
+w004608.1 | convert | v. | B2 | 转换, 转变, 改造 | to change something into a different form or use
+w004608.2 | convert | v. | B2 | 使皈依, 改变信仰 | to change or make someone change religion or belief
+w004608.3 | convert | v. | B2 | 兑换, 换算 | to change money or units into another kind
+w004608.4 | convert | n. | B2 | 皈依者, 改变信仰者 | a person who has changed their religion or beliefs
+w004609.1 | defender | n. | B2 | 后卫, 防守队员 | a player whose job is to stop the other team scoring
+w004609.2 | defender | n. | B2 | 保卫者, 捍卫者, 辩护者 | a person who protects or supports someone or something
+w004610.1 | dental | adj. | B2 | 牙齿的, 牙科的 | relating to teeth or their care
+w004611.1 | diplomatic | adj. | B2 | 外交的, 外交上的 | relating to relations between countries
+w004611.2 | diplomatic | adj. | B2 | 圆滑的, 有手腕的, 得体的 | dealing with people tactfully without upsetting them
+w004612.1 | drum | n. | A2 | 鼓 | a musical instrument you hit with sticks or hands
+w004612.2 | drum | n. | A2 | 圆桶, 桶 | a large round container for liquids
+w004612.3 | drum | v. | A2 | 击鼓, 敲击 | to play a drum or tap repeatedly
+w004613.1 | editorial | n. | C1 | 社论, 评论 | a newspaper article giving the editor's opinion
+w004613.2 | editorial | adj. | C1 | 编辑的, 编辑工作的 | relating to editing or editors
+w004614.1 | entertaining | adj. | B1 | 有趣的, 令人愉快的, 娱乐性强的 | amusing and enjoyable
+w004615.1 | eternal | adj. | B2 | 永恒的, 永久的, 不朽的 | lasting forever
+w004615.2 | eternal | adj. | B2 | 没完没了的, 不停的 | seeming to continue forever, often annoyingly
+w004616.1 | freeze | v. | B1 | 结冰, 冻结, 冷冻 | to become hard because of cold, or make something so
+w004616.2 | freeze | v. | B1 | 呆住, 僵住 | to suddenly stop moving
+w004616.3 | freeze | v. | B1 | 冻结, 停止 | to keep prices, wages or assets at a fixed level
+w004616.4 | freeze | n. | B1 | 冻结, 停止 | a stop on increases or activity
+w004617.1 | generic | adj. | C1 | 通用的, 一般的, 普通的 | shared by or relating to a whole group
+w004617.2 | generic | adj. | C1 | 无商标的, 非专利的 | not sold under a brand name
+w004617.3 | generic | n. | C1 | 非专利药, 无商标产品 | a product, especially a drug, without a brand name
+w004618.1 | grandma | n. | A1 | 奶奶, 外婆, 姥姥 | grandmother
+w004619.1 | grip | v. | B2 | 紧握, 抓牢 | to hold something tightly
+w004619.2 | grip | v. | B2 | 吸引, 扣人心弦 | to hold someone's attention completely
+w004619.3 | grip | n. | B2 | 紧握, 抓牢 | a firm hold on something
+w004619.4 | grip | n. | B2 | 控制, 掌握 | control or power over something
+w004619.5 | grip | n. | B2 | 把手, 握柄 | a part of an object that you hold
+w004620.1 | handful | n. | B2 | 少数, 一小撮 | a small number of people or things
+w004620.2 | handful | n. | B2 | 一把 | an amount that can be held in one hand
+w004620.3 | handful | n. | B2 | 难对付的人, 难管的人 | a person who is difficult to control
+w004621.1 | happily | adv. | A2 | 快乐地, 幸福地, 高兴地 | in a happy way
+w004621.2 | happily | adv. | A2 | 乐意地, 情愿地 | willingly and gladly
+w004621.3 | happily | adv. | A2 | 幸运地, 幸好 | fortunately
+w004622.1 | harmony | n. | B2 | 和睦, 融洽, 和谐 | a state of peaceful agreement
+w004622.2 | harmony | n. | B2 | 和声 | pleasant combination of musical notes played together
+w004622.3 | harmony | n. | B2 | 协调, 和谐 | a pleasing combination of parts
+w004623.1 | hmm | int. | A2 | 嗯, 唔 | a sound showing thought, doubt or hesitation
+w004624.1 | humble | adj. | B2 | 谦逊的, 谦虚的 | not proud; not thinking you are better than others
+w004624.2 | humble | adj. | B2 | 卑微的, 低下的, 简陋的 | of low social rank or simple quality
+w004624.3 | humble | v. | B2 | 使谦卑, 使感到卑微 | to make someone feel less important or proud
+w004625.1 | hybrid | n. | C1 | 混合物, 合成物 | something made by combining two different things
+w004625.2 | hybrid | n. | C1 | 混合动力车 | a car powered by both petrol and electricity
+w004625.3 | hybrid | n. | C1 | 杂交种, 杂种 | a plant or animal from two different species
+w004625.4 | hybrid | adj. | C1 | 混合的, 杂交的 | combining two different types
+w004626.1 | keyboard | n. | A2 | 键盘 | the set of keys used to type on a computer
+w004626.2 | keyboard | n. | A2 | 键盘乐器, 电子琴 | a musical instrument with keys like a piano
+w004627.1 | lasting | adj. | B2 | 持久的, 长久的, 永久的 | continuing for a long time
+w004628.1 | locally | adv. | B1 | 在本地, 在当地 | in or near the area where you are
+w004629.1 | medium-sized | adj. | B1 | 中等大小的, 中型的 | neither large nor small
+w004630.1 | mild | adj. | B1 | 温和的, 和暖的 | not very cold or not too hot (of weather)
+w004630.2 | mild | adj. | B1 | 轻微的, 不严重的 | not strong or serious
+w004630.3 | mild | adj. | B1 | 味淡的, 不辣的 | not strong or spicy in taste
+w004631.1 | minimal | adj. | C1 | 最小的, 极少的, 最低限度的 | very small in amount or degree
+w004632.1 | molecular | adj. | C1 | 分子的 | relating to molecules
+w004633.1 | neighbor | n. | A2 | 邻居, 邻人 | a person who lives near you
+w004633.2 | neighbor | n. | A2 | 邻国, 邻近的人或物 | a country or thing next to another
+w004633.3 | neighbor | v. | A2 | 与…相邻, 毗邻 | to be next to or near something
+w004634.1 | noon | n. | A2 | 中午, 正午 | twelve o'clock in the middle of the day
+w004635.1 | nowadays | adv. | A2 | 如今, 现在, 当今 | at the present time, compared with the past
+w004636.1 | openly | adv. | B2 | 公开地, 坦率地, 毫不隐瞒地 | without hiding anything
+w004637.1 | overview | n. | B2 | 概述, 概况, 综述 | a general description of the main facts
+w004638.1 | parish | n. | C1 | 教区, 堂区 | an area served by one church and priest
+w004638.2 | parish | n. | C1 | 行政区, 地方行政区 | a small local government area
+w004639.1 | pathetic | adj. | B2 | 差劲的, 无用的, 可鄙的 | very weak, useless or not good enough
+w004639.2 | pathetic | adj. | B2 | 可怜的, 令人同情的 | causing feelings of pity or sadness
+w004640.1 | potato | n. | A1 | 土豆, 马铃薯 | a round vegetable that grows underground
+w004641.1 | potter | n. | C1 | 陶工, 陶艺家 | a person who makes pots from clay
+w004641.2 | potter | v. | C1 | 闲逛, 慢悠悠地做事 | to spend time doing small, relaxing tasks
+w004642.1 | preference | n. | B2 | 偏爱, 偏好, 喜好 | liking one thing more than another
+w004642.2 | preference | n. | B2 | 优先, 优待 | special favourable treatment given to someone
+w004643.1 | promising | adj. | B2 | 有前途的, 有希望的, 大有可为的 | showing signs of future success
+w004644.1 | proportion | n. | B2 | 比例, 部分, 份额 | a part or share of a whole
+w004644.2 | proportion | n. | B2 | 比例, 比率 | the relationship in size between two things
+w004644.3 | proportion | n. | B2 | 均衡, 协调 | the correct relationship between parts
+w004645.1 | rage | n. | B2 | 狂怒, 盛怒 | very strong anger
+w004645.2 | rage | n. | B2 | 风靡一时的事物, 时尚 | something very fashionable for a short time
+w004645.3 | rage | v. | B2 | 肆虐, 猛烈进行 | to continue with great force or violence
+w004645.4 | rage | v. | B2 | 发怒, 怒斥 | to show violent anger
+w004646.1 | respected | adj. | B2 | 受人尊敬的, 德高望重的 | admired by many people for good qualities
+w004647.1 | restoration | n. | C1 | 修复, 整修 | repairing something old to its original condition
+w004647.2 | restoration | n. | C1 | 恢复, 复原, 归还 | bringing back a previous situation or giving back
+w004648.1 | selfish | adj. | B1 | 自私的, 利己的 | caring only about yourself
+w004649.1 | sergeant | n. | C1 | 中士, 军士 | a non-commissioned officer in the army
+w004649.2 | sergeant | n. | C1 | 警佐, 巡佐 | a police officer of middle rank
+w004650.1 | silk | n. | B1 | 丝, 丝绸, 蚕丝 | fine smooth cloth made from silkworm threads
+w004651.1 | stamp | n. | A2 | 邮票 | a small paper stuck on a letter to pay postage
+w004651.2 | stamp | n. | A2 | 印章, 图章, 印记 | a tool for printing a mark, or the mark
+w004651.3 | stamp | v. | A2 | 跺脚, 踩踏 | to put your foot down hard
+w004651.4 | stamp | v. | A2 | 盖章, 盖印 | to print a mark on something with a stamp
+w004652.1 | throne | n. | B2 | 王座, 宝座 | the special chair of a king or queen
+w004652.2 | throne | n. | B2 | 王位, 王权 | the position of being king or queen
+w004653.1 | thy | det. | C2 | 你的, 汝之 | an old form meaning your
+w004654.1 | urge | v. | B2 | 敦促, 力劝, 催促 | to strongly advise or encourage someone to do something
+w004654.2 | urge | v. | B2 | 驱策, 推动 | to push or drive forward
+w004654.3 | urge | n. | B2 | 冲动, 强烈欲望 | a strong sudden desire
+w004655.1 | voter | n. | B1 | 选民, 投票人 | a person who votes or has the right to vote
+w004657.1 | witch | n. | B1 | 女巫, 巫婆 | a woman believed to have magic powers
+w004657.2 | witch | n. | B1 | 丑老太婆, 恶婆 | an unpleasant or ugly old woman
+w004658.1 | Holland | n. | A2 | 荷兰 | an informal name for the Netherlands
+w004659.1 | Portugal | n. | A2 | 葡萄牙 | a country in southwest Europe
+w004662.1 | ally | n. | B2 | 盟国, 同盟者 | a country that agrees to help another
+w004662.2 | ally | n. | B2 | 支持者, 伙伴 | a person who helps and supports you
+w004662.3 | ally | v. | B2 | 结盟, 联合 | to join with someone to support them
+w004663.1 | array | n. | C1 | 一系列, 大量, 一批 | a large group or range of things
+w004663.2 | array | n. | C1 | 数组, 阵列 | an ordered set of data items
+w004663.3 | array | v. | C1 | 排列, 部署 | to arrange things in an attractive or ordered way
+w004664.1 | belly | n. | B1 | 肚子, 腹部 | the stomach or front part of the body below the chest
+w004664.2 | belly | n. | B1 | 腹部, 底部 | the curved underside of something
+w004665.1 | booth | n. | B1 | 货摊, 展位 | a small temporary stand at a fair or exhibition
+w004665.2 | booth | n. | B1 | 亭, 小隔间 | a small enclosed space for one person
+w004665.3 | booth | n. | B1 | 卡座, 雅座 | a seating area in a restaurant with high-backed seats
+w004666.1 | breakdown | n. | B2 | 故障, 抛锚 | a failure of a machine or vehicle
+w004666.2 | breakdown | n. | B2 | 崩溃, 破裂, 失败 | the failure of a relationship or system
+w004666.3 | breakdown | n. | B2 | 精神崩溃 | a period of severe mental illness
+w004667.1 | brutal | adj. | B2 | 残忍的, 野蛮的, 凶残的 | extremely violent and cruel
+w004667.2 | brutal | adj. | B2 | 直率的, 不讲情面的 | very direct, without trying to spare feelings
+w004667.3 | brutal | adj. | B2 | 严酷的, 难熬的 | very harsh or unpleasant
+w004668.1 | calculated | adj. | C1 | 蓄意的, 有预谋的, 精心策划的 | carefully planned to achieve a particular effect
+w004668.2 | calculated | adj. | C1 | 经过估算的, 计算过的 | based on careful estimation
+w004669.1 | citizenship | n. | B2 | 公民身份, 国籍, 公民权 | the legal right of belonging to a country
+w004669.2 | citizenship | n. | B2 | 公民素质, 公民责任 | behaving as a good member of a community
+w004670.1 | cliff | n. | B1 | 悬崖, 峭壁 | a high, steep rock face, often by the sea
+w004671.1 | consensus | n. | C1 | 共识, 一致意见, 普遍看法 | general agreement among a group
+w004672.1 | cycling | n. | A2 | 骑自行车, 自行车运动 | the activity or sport of riding a bicycle
+w004673.1 | declaration | n. | B2 | 宣言, 宣布, 声明 | an official or formal statement
+w004673.2 | declaration | n. | B2 | 申报, 申报单 | a document giving official information, e.g. to customs
+w004675.1 | derby | n. | C1 | 同城德比, 地区对抗赛 | a match between two local rival teams
+w004675.2 | derby | n. | C1 | 赛马会, 大赛马 | an important horse race
+w004675.3 | derby | n. | C1 | 圆顶礼帽 | a round hard felt hat
+w004676.1 | distinction | n. | B2 | 区别, 差别, 区分 | a clear difference between similar things
+w004676.2 | distinction | n. | B2 | 优秀, 卓越, 杰出 | the quality of being excellent or special
+w004676.3 | distinction | n. | B2 | 优等成绩, 荣誉 | a high mark or special honour
+w004677.1 | facial | adj. | B2 | 面部的, 脸上的 | relating to the face
+w004677.2 | facial | n. | B2 | 面部护理, 美容 | a beauty treatment for the face
+w004678.1 | faithful | adj. | B2 | 忠实的, 忠诚的 | loyal and reliable over time
+w004678.2 | faithful | adj. | B2 | 忠贞的, 不出轨的 | not having a sexual relationship with another person
+w004678.3 | faithful | adj. | B2 | 如实的, 准确的 | accurate and true to the original
+w004678.4 | faithful | n. | B2 | 忠实信徒, 拥护者 | loyal believers or supporters
+w004679.1 | fatal | adj. | B2 | 致命的, 致死的 | causing death
+w004679.2 | fatal | adj. | B2 | 灾难性的, 毁灭性的 | causing failure or very bad results
+w004680.1 | fig | n. | B2 | 无花果 | a soft sweet fruit full of small seeds
+w004681.1 | fitting | adj. | C1 | 合适的, 恰当的 | suitable or right for the situation
+w004681.2 | fitting | n. | C1 | 试衣, 试穿 | an occasion when clothes are tried on to fit
+w004681.3 | fitting | n. | C1 | 配件, 装置 | a small part attached to equipment or furniture
+w004682.1 | genuinely | adv. | B2 | 真正地, 真诚地, 确实 | truly or sincerely
+w004683.1 | hard-pressed | adj. | C1 | 难以做到的, 很难的 | finding it very difficult to do something
+w004683.2 | hard-pressed | adj. | C1 | 处境困难的, 窘迫的 | having too many problems or too little money
+w004684.1 | hunger | n. | B1 | 饥饿, 饥荒 | the feeling or state of needing food
+w004684.2 | hunger | n. | B1 | 渴望, 渴求 | a strong desire for something
+w004684.3 | hunger | v. | B1 | 渴望, 渴求 | to want something very much
+w004685.1 | hurricane | n. | B1 | 飓风 | a violent storm with very strong winds
+w004686.1 | import | n. | B1 | 进口, 输入 | the act of bringing goods into a country
+w004686.2 | import | n. | B1 | 进口商品, 进口货 | a product brought in from another country
+w004686.3 | import | v. | B1 | 进口, 引进 | to bring goods into a country to sell
+w004686.4 | import | v. | B1 | 导入, 输入 | to move data into a computer program
+w004687.1 | innovative | adj. | B2 | 创新的, 革新的, 新颖的 | using new methods or ideas
+w004689.1 | jurisdiction | n. | C2 | 管辖权, 司法权 | the official power to make legal decisions
+w004689.2 | jurisdiction | n. | C2 | 管辖区, 管辖范围 | an area where a legal authority has power
+w004690.1 | laughter | n. | B1 | 笑, 笑声 | the act or sound of laughing
+w004691.1 | lemon | n. | A1 | 柠檬 | a yellow fruit with very sour juice
+w004691.2 | lemon | n. | A1 | 次品, 劣质品 | something, especially a car, that does not work well
+w004691.3 | lemon | adj. | A1 | 柠檬色的, 淡黄色的 | pale yellow in colour
+w004693.1 | lung | n. | B1 | 肺 | one of the two breathing organs in the chest
+w004694.1 | matching | adj. | B1 | 相配的, 匹配的, 成套的 | having the same colour or design as something else
+w004694.2 | matching | n. | B1 | 匹配, 配对 | the process of finding things that fit together
+w004695.1 | mighty | adj. | B2 | 强大的, 有力的, 巨大的 | very large, strong or powerful
+w004695.2 | mighty | adv. | B2 | 非常, 很 | very
+w004696.1 | monetary | adj. | C1 | 货币的, 金融的 | relating to money, especially a country's money supply
+w004697.1 | nutrition | n. | B2 | 营养, 营养学 | the food needed for health and growth
+w004698.1 | ore | n. | C1 | 矿石, 矿砂 | rock from which metal can be obtained
+w004700.1 | outta | prep. | B2 | 从…出来, 离开 | a spoken form of out of
+w004701.1 | pine | n. | B2 | 松树, 松 | an evergreen tree with needle-shaped leaves
+w004701.2 | pine | n. | B2 | 松木 | the pale soft wood of the pine tree
+w004701.3 | pine | v. | B2 | 渴望, 思念, 憔悴 | to feel sad because you miss someone or something
+w004702.1 | poorly | adv. | B1 | 差, 不好地, 拙劣地 | badly or not well enough
+w004702.2 | poorly | adj. | B1 | 身体不适的, 有病的 | ill or unwell
+w004703.1 | pose | v. | B2 | 造成, 引起, 构成 | to cause a problem, threat or difficulty
+w004703.2 | pose | v. | B2 | 提出 | to ask a question or raise an issue
+w004703.3 | pose | v. | B2 | 摆姿势 | to sit or stand still for a photo or painting
+w004703.4 | pose | n. | B2 | 姿势, 姿态 | a particular position of the body
+w004704.1 | pour | v. | B1 | 倒, 灌, 倾倒 | to make liquid flow out of a container
+w004704.2 | pour | v. | B1 | 倾盆而下, 下大雨 | to rain heavily
+w004704.3 | pour | v. | B1 | 涌出, 蜂拥而至 | to come or go in large numbers
+w004705.1 | provider | n. | B2 | 提供者, 供应商, 服务商 | a person or company that supplies something
+w004705.2 | provider | n. | B2 | 养家者, 供养者 | a person who supports a family financially
+w004706.1 | publish | v. | B1 | 出版, 发行 | to produce a book, magazine, etc. for sale
+w004706.2 | publish | v. | B1 | 发表, 刊登 | to print or put someone's work in a publication
+w004706.3 | publish | v. | B1 | 公布, 发布 | to make information available to the public
+w004707.1 | purely | adv. | B2 | 纯粹地, 完全地, 仅仅 | only, completely, or for no other reason
+w004708.1 | rental | n. | B1 | 租金, 租费 | the money paid to rent something
+w004708.2 | rental | n. | B1 | 出租, 租赁 | the act of renting something
+w004708.3 | rental | adj. | B1 | 出租的, 租用的 | available or used for renting
+w004709.1 | resolved | adj. | C1 | 坚决的, 下定决心的 | firmly determined to do something
+w004710.1 | seemingly | adv. | B2 | 表面上, 看似, 似乎 | appearing to be true, though possibly not
+w004711.1 | severely | adv. | B2 | 严重地, 剧烈地 | very badly or seriously
+w004711.2 | severely | adv. | B2 | 严厉地, 严格地 | in a strict or harsh way
+w004712.1 | shark | n. | B1 | 鲨鱼 | a large fierce sea fish with sharp teeth
+w004712.2 | shark | n. | B1 | 骗子, 敲诈者 | a person who cheats others out of money
+w004713.1 | shocking | adj. | B1 | 令人震惊的, 骇人的 | very surprising and upsetting
+w004713.2 | shocking | adj. | B1 | 极差的, 糟透的 | very bad
+w004714.1 | southwest | n. | A2 | 西南, 西南方 | the direction between south and west
+w004714.2 | southwest | adj. | A2 | 西南的, 西南部的 | in or from the southwest
+w004714.3 | southwest | adv. | A2 | 向西南, 朝西南 | towards the southwest
+w004715.1 | technically | adv. | B2 | 严格来说, 从技术上讲 | according to the exact meaning of rules or facts
+w004715.2 | technically | adv. | B2 | 技术上, 在技术方面 | in a way relating to technical skill or methods
+w004716.1 | titled | adj. | B2 | 题为…的, 名为…的 | having a particular name or title
+w004716.2 | titled | adj. | B2 | 有贵族头衔的, 有爵位的 | having a noble rank such as lord or duke
+w004717.1 | unlimited | adj. | B2 | 无限的, 无限制的, 无数的 | without any limit
+w004718.1 | Fr | abbr. | C1 | 神父 | short for Father, the title of a Catholic priest

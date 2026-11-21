@@ -1,0 +1,300 @@
+w030832.1 | The boy did a somersault on the grass. | 那个男孩在草地上翻了个筋斗。
+w030832.2 | The gymnast somersaulted through the air. | 那名体操运动员在空中翻了个筋斗。
+w030839.1 | He sat by the fire, strumming his guitar. | 他坐在火边，轻轻拨着吉他。
+w030839.2 | I heard the strum of a guitar next door. | 我听到隔壁传来拨吉他的声音。
+w030847.1 | Today is my parents' thirtieth wedding anniversary. | 今天是我父母结婚三十周年纪念日。
+w030847.2 | Each child got a thirtieth of the money. | 每个孩子分到了那笔钱的三十分之一。
+w030860.1 | There has been an upturn in the economy. | 经济出现了好转。
+w030860.2 | He upturned the box and emptied it onto the floor. | 他把箱子倒过来，把东西倒在地上。
+w030867.1 | I love the wildness of the mountains. | 我爱这些山的荒野之美。
+w030873.1 | This medicine tastes yucky. | 这药味道真难吃。
+w030890.1 | Her answer astonished everyone. | 她的回答让所有人大吃一惊。
+w030918.1 | The temperature was 30 degrees centigrade. | 气温是摄氏30度。
+w030918.2 | Water boils at 100 degrees in centigrade. | 按摄氏温标，水在100度沸腾。
+w030924.1 | My little brother has chickenpox. | 我弟弟出水痘了。
+w030946.1 | The party went disastrously wrong. | 聚会搞得一塌糊涂。
+w030956.1 | There's a piece of eggshell in my omelet. | 我的煎蛋卷里有一块蛋壳。
+w030956.2 | We painted the walls in eggshell white. | 我们把墙刷成了蛋壳白。
+w030966.1 | We need to work more flexibly. | 我们的工作方式需要更加灵活。
+w030980.1 | It's a generalisation to say all teenagers are lazy. | 说所有青少年都懒是以偏概全。
+w031122.1 | The children played on the seesaw. | 孩子们在跷跷板上玩。
+w031122.2 | Prices have seesawed over the past year. | 过去一年物价忽高忽低。
+w031164.1 | Write your name in uppercase letters. | 用大写字母写你的名字。
+w031164.2 | Passwords can include uppercase and lowercase. | 密码可以包含大写和小写字母。
+w031196.1 | The story was amusingly told. | 这个故事讲得很有趣。
+w031237.1 | It was a warm day with a cloudless sky. | 那天很暖和，天空万里无云。
+w031316.1 | She speaks fluent, idiomatic English. | 她说一口流利地道的英语。
+w031316.2 | "Break a leg" is an idiomatic expression. | “break a leg”是一个习语。
+w031428.1 | Follow the signposts to the station. | 跟着路标去车站。
+w031428.2 | The exits are clearly signposted. | 出口都有清楚的指示。
+w031441.1 | My stepbrother and I get on well. | 我和继兄弟相处得很好。
+w031528.1 | The parrot sat in its birdcage. | 鹦鹉待在鸟笼里。
+w031600.1 | We still need to finalise our holiday plans. | 我们还需要敲定度假计划。
+w031679.1 | Take 500 milligrams of the medicine twice a day. | 这种药每天服两次，每次500毫克。
+w031724.1 | I enjoyed the quietness of the library. | 我喜欢图书馆的安静。
+w031756.1 | My stepsister is two years older than me. | 我继姐比我大两岁。
+w031826.1 | He arrogantly refused to listen to anyone. | 他傲慢地拒绝听任何人的意见。
+w031878.1 | You can customise the app to suit your needs. | 你可以根据需要定制这个应用。
+w031896.1 | The epicentre of the earthquake was near the coast. | 地震的震中靠近海岸。
+w031896.2 | The city became the epicentre of the fashion world. | 这座城市成了时尚界的中心。
+w031911.1 | There has been a fourfold increase in prices. | 价格上涨了四倍。
+w031911.2 | The number of visitors grew fourfold. | 游客人数增长了四倍。
+w031919.1 | We keep a gerbil as a pet. | 我们养了一只沙鼠当宠物。
+w031921.1 | The phone has some gimmicky features nobody uses. | 这款手机有些噱头功能，根本没人用。
+w031922.1 | She was gorgeously dressed for the wedding. | 她为婚礼打扮得非常漂亮。
+w031933.1 | Let's do a headcount before the bus leaves. | 车开之前我们清点一下人数。
+w031934.1 | The actor was a teenage heartthrob in the 90s. | 那个演员在90年代是少女们的偶像。
+w031936.1 | She hesitantly raised her hand. | 她犹犹豫豫地举起了手。
+w031938.1 | He was the only holdout against the plan. | 他是唯一反对这个计划的人。
+w031951.1 | He was inattentive in class. | 他上课不专心。
+w031952.1 | Indent the first line of each paragraph. | 每段的第一行要缩进。
+w031952.2 | Leave an indent at the start of the paragraph. | 段落开头要留出缩进。
+w031952.3 | The school placed an indent for new books. | 学校下了一份订购新书的订单。
+w031953.1 | It was indiscreet of her to tell everyone. | 她告诉了所有人，真是不谨慎。
+w031956.1 | Energy is measured in joules. | 能量以焦耳为单位来测量。
+w031975.1 | The speaker stood behind the lectern. | 演讲者站在讲台后面。
+w031976.1 | He writes for a leftwing newspaper. | 他为一家左翼报纸撰稿。
+w031981.1 | The dog waited loyally for its owner. | 那条狗忠诚地等着它的主人。
+w031996.1 | I have to memorise this poem for tomorrow. | 我明天之前得背下这首诗。
+w032013.1 | She smiled optimistically at the future. | 她对未来乐观地笑着。
+w032032.1 | The company lowered prices to preempt its rivals. | 公司降价以先发制人地应对竞争对手。
+w032032.2 | The match preempted the evening news. | 那场比赛取代了晚间新闻的播出。
+w032087.1 | We sat in the sunlit garden. | 我们坐在洒满阳光的花园里。
+w032105.1 | "Water" is an uncountable noun. | “water”是不可数名词。
+w032105.2 | There were uncountable stars in the sky. | 天上的星星数不胜数。
+w032107.1 | These shoes are unfashionable now. | 这种鞋现在不时兴了。
+w032123.1 | The zookeeper feeds the lions every afternoon. | 动物园管理员每天下午喂狮子。
+w032128.1 | The region is afflicted by drought. | 这个地区饱受旱灾之苦。
+w032156.1 | Please write your birthdate on the form. | 请在表格上填写你的出生日期。
+w032207.1 | I hate to disillusion you, but he isn't coming back. | 我不想让你幻想破灭，但他不会回来了。
+w032207.2 | His disillusion with politics grew over the years. | 这些年来他对政治越来越失望。
+w032217.1 | Very loud music can damage your eardrums. | 很大声的音乐会损伤你的耳膜。
+w032224.1 | She ended her message with a smiling emoticon. | 她在信息末尾加了一个笑脸表情符号。
+w032225.1 | I can empathise with how you feel. | 我能体会你的感受。
+w032227.1 | A rich businessman endowed the new library. | 一位富商捐资兴建了新图书馆。
+w032227.2 | She is endowed with a beautiful voice. | 她天生有一副好嗓子。
+w032231.1 | The child looked fearfully at the dog. | 那个孩子害怕地看着那条狗。
+w032231.2 | It's fearfully expensive to live in London. | 在伦敦生活极其昂贵。
+w032233.1 | The forecaster said it would rain tomorrow. | 天气预报员说明天会下雨。
+w032239.1 | The students fundraised for a new school library. | 学生们为新的学校图书馆筹款。
+w032244.1 | He grows tomatoes in a glasshouse. | 他在玻璃温室里种西红柿。
+w032252.1 | Can I borrow your hairdryer? | 能借用一下你的吹风机吗？
+w032253.1 | The firework exploded harmlessly in the sky. | 烟花在空中爆炸，没有造成伤害。
+w032261.1 | Sorry I'm late, there was a holdup on the motorway. | 抱歉我迟到了，高速公路上堵车了。
+w032261.2 | Two men were arrested after the bank holdup. | 银行抢劫案发生后，两名男子被捕。
+w032268.1 | Icicles were hanging from the roof. | 屋檐上挂着冰柱。
+w032302.1 | Some countries have legalised same-day voting. | 一些国家已将当日投票合法化。
+w032311.1 | You should lubricate your bike chain regularly. | 你应该定期给自行车链条上油。
+w032335.1 | The bread has gone mouldy. | 面包发霉了。
+w032348.1 | Lemon juice can neutralise the smell of fish. | 柠檬汁可以去除鱼腥味。
+w032360.1 | Our office is trying to go paperless. | 我们办公室正努力实现无纸化。
+w032367.1 | Bees pollinate many kinds of flowers. | 蜜蜂为许多种花授粉。
+w032383.1 | Ten dollars for a coffee? What a ripoff! | 一杯咖啡十美元？简直是敲竹杠！
+w032383.2 | That bag is a cheap ripoff of a designer one. | 那个包是名牌包的廉价仿冒品。
+w032393.1 | The new boss announced a major shakeup. | 新老板宣布了一次重大改组。
+w032396.1 | The skateboarders practise in the park every evening. | 玩滑板的人每天晚上在公园练习。
+w032406.1 | He lost a lot of money on the stockmarket. | 他在股市上损失了很多钱。
+w032431.1 | The school is trying to help truants come back. | 学校在努力帮助逃学的学生回校。
+w032431.2 | He truanted from school for a week. | 他逃学了一个星期。
+w032472.1 | The archeologist found some ancient coins. | 那位考古学家发现了一些古钱币。
+w032491.1 | Pack the breakable items carefully. | 把易碎物品小心包好。
+w032497.1 | The government wants to centralize power. | 政府想要集中权力。
+w032528.1 | The bird pulled an earthworm out of the ground. | 那只鸟从地里拖出一条蚯蚓。
+w032569.1 | She suffered from homesickness during her first term. | 她第一学期很想家。
+w032576.1 | Click on the hyperlink to read more. | 点击超链接阅读更多内容。
+w032576.2 | I've hyperlinked the article to our website. | 我已把这篇文章超链接到我们的网站。
+w032690.1 | Sanitize your hands before entering the hospital. | 进医院前请给手消毒。
+w032690.2 | The film sanitizes the true story of the war. | 这部电影粉饰了那场战争的真实故事。
+w032707.1 | She smiled shyly at him. | 她羞涩地朝他笑了笑。
+w032713.1 | Speculators bought up houses in the area. | 投机者买下了这一带的房子。
+w032759.1 | The puppy wagged its tail adorably. | 小狗摇着尾巴，可爱极了。
+w032775.1 | Slice the aubergine and fry it in oil. | 把茄子切片，用油煎。
+w032813.1 | You can leave your coat in the cloakroom. | 你可以把外套放在衣帽间。
+w032813.2 | The ladies' cloakroom is on the first floor. | 女士洗手间在二楼。
+w032823.1 | The company announced cutbacks in staff. | 公司宣布裁减员工。
+w032853.1 | Chickens were running around the farmyard. | 鸡在农家院子里到处跑。
+w032886.1 | Call the helpdesk if your computer stops working. | 如果电脑坏了，就打电话给服务台。
+w032898.1 | His rude comments infuriated her. | 他粗鲁的话把她气坏了。
+w032907.1 | Missing training could jeopardise your place in the team. | 缺席训练可能会危及你在队里的位置。
+w032960.1 | I need to see an optician about new glasses. | 我得去找验光师配副新眼镜。
+w032992.1 | They repurposed the old factory as an art gallery. | 他们把旧工厂改造成了美术馆。
+w032994.1 | Our flight was rerouted because of the storm. | 由于暴风雨，我们的航班改道了。
+w032997.1 | The roundtrip takes about four hours. | 往返一趟大约要四个小时。
+w032997.2 | A roundtrip ticket is cheaper than two singles. | 往返票比两张单程票便宜。
+w033008.1 | "As brave as a lion" is a simile. | “像狮子一样勇敢”是一个明喻。
+w033011.1 | The hotel is situated near the beach. | 酒店位于海滩附近。
+w033022.1 | He dreams of owning a red sportscar. | 他梦想拥有一辆红色跑车。
+w033045.1 | The sign said "Trespassers will be prosecuted". | 告示上写着“擅自闯入者将被起诉”。
+w033050.1 | Some things in life are unchangeable. | 生活中有些事是无法改变的。
+w033062.1 | This toothpaste helps to whiten your teeth. | 这种牙膏有助于美白牙齿。
+w033064.1 | Yippee! We're going to the beach! | 好耶！我们要去海边了！
+w033070.1 | She hopes to get into Oxbridge. | 她希望能考进牛津或剑桥。
+w033116.1 | He wore a bowtie to the wedding. | 他戴着领结去参加婚礼。
+w033128.1 | Type the letters in the captcha to continue. | 输入验证码中的字母以继续。
+w033147.1 | Salt water can corrode metal. | 盐水会腐蚀金属。
+w033147.2 | Lies slowly corroded their friendship. | 谎言慢慢侵蚀了他们的友谊。
+w033157.1 | She is the best debater in our school. | 她是我们学校最好的辩手。
+w033368.1 | Put on some sunblock before you go to the beach. | 去海滩前涂点防晒霜。
+w033453.1 | She beckoned me to come closer. | 她招手示意我走近一点。
+w033453.2 | The summer holidays beckoned. | 暑假在向我们招手。
+w033489.1 | Tick the checkbox to accept the rules. | 勾选复选框以接受这些规则。
+w033579.1 | The boy greedily ate all the sweets. | 那个男孩贪婪地吃光了所有糖果。
+w033629.1 | The teacher was annoyed by his lateness. | 他迟到让老师很恼火。
+w033750.1 | The children collected seashells on the beach. | 孩子们在海滩上捡贝壳。
+w033908.1 | Come home by dinnertime. | 晚饭前回家。
+w033928.1 | We felt exhilarated after the boat ride. | 坐完船我们感到非常兴奋。
+w034003.1 | She wore a miniskirt and boots. | 她穿着迷你裙和靴子。
+w034037.1 | The band used social media to publicise the concert. | 乐队利用社交媒体宣传这场演唱会。
+w034193.1 | Her clumsiness made her drop the plates. | 她笨手笨脚，把盘子摔了。
+w034208.1 | We got drenched in the rain. | 我们被雨淋得浑身湿透。
+w034220.1 | They engraved her name on the trophy. | 他们把她的名字刻在了奖杯上。
+w034220.2 | That day is engraved in my memory. | 那一天铭刻在我的记忆中。
+w034457.1 | My daughter is learning to play the xylophone. | 我女儿在学敲木琴。
+w034514.1 | We played charades at the party. | 我们在聚会上玩了猜字谜游戏。
+w034546.1 | He hit the drum with a drumstick. | 他用鼓槌敲鼓。
+w034546.2 | The kids love chicken drumsticks. | 孩子们爱吃鸡腿。
+w034547.1 | She put in her earbuds and went for a run. | 她戴上耳塞去跑步了。
+w034553.1 | The building has little esthetic value. | 这座建筑没什么审美价值。
+w034553.2 | The film has a dark, simple esthetic. | 这部电影有一种阴暗简约的美学风格。
+w034562.1 | Prices of basic foodstuffs have risen. | 基本食品的价格上涨了。
+w034564.1 | She has freckles on her nose. | 她鼻子上有雀斑。
+w034764.1 | The government subsidises public transport. | 政府为公共交通提供补贴。
+w034767.1 | I got sunburnt on the first day of the holiday. | 度假第一天我就被晒伤了。
+w034960.1 | I can't find my hairbrush. | 我找不到我的发梳了。
+w035116.1 | Your shoelace is undone. | 你的鞋带松了。
+w035128.1 | The streetlights came on at six o'clock. | 路灯在六点钟亮了。
+w035304.1 | My dad is having his fortieth birthday party. | 我爸爸要办四十岁生日聚会。
+w035314.1 | She was attracted by the glamor of Hollywood. | 她被好莱坞的魅力吸引了。
+w035319.1 | We're having dinner at Gramma's house. | 我们要去奶奶家吃晚饭。
+w035351.1 | He lived a lonely, joyless life. | 他过着孤独而没有乐趣的生活。
+w035364.1 | He tied his dog to a lamppost. | 他把狗拴在路灯柱上。
+w035370.1 | I'll have a macchiato, please. | 请给我一杯玛奇朵。
+w035377.1 | Many birds live in the marshland. | 许多鸟生活在这片沼泽地。
+w035391.1 | We bought a multifunction printer for the office. | 我们给办公室买了一台多功能打印机。
+w035406.1 | As a northerner, he finds the south very warm. | 作为北方人，他觉得南方很暖和。
+w035415.1 | She used a stone as a paperweight. | 她用一块石头当镇纸。
+w035427.1 | My son goes to a playgroup twice a week. | 我儿子每周去两次幼儿游戏班。
+w035445.1 | He rashly promised to finish the job by Friday. | 他草率地答应周五前完成工作。
+w035504.1 | We stopped at a small teahouse in the mountains. | 我们在山里的一家小茶馆歇了歇脚。
+w035506.1 | We have a teleconference with the London office at ten. | 我们十点和伦敦办事处开电话会议。
+w035525.1 | The room was unpleasantly hot. | 房间热得让人难受。
+w035536.1 | She sat down wearily after work. | 下班后她疲惫地坐了下来。
+w035565.1 | The question was worded ambiguously. | 这个问题的措辞模棱两可。
+w035614.1 | She has high cheekbones. | 她的颧骨很高。
+w035617.1 | The pictures on the page are clickable. | 这一页上的图片都可以点击。
+w035651.1 | "Lovely weather," he said dryly as the rain poured down. | 大雨倾盆，他却冷冷地说：“天气真好。”
+w035701.1 | The room was imaginatively decorated. | 这个房间装饰得很有创意。
+w035779.1 | The dog sat down obediently. | 那条狗乖乖地坐下了。
+w035827.1 | The shoplifter was caught by a security guard. | 那个商店扒手被保安抓住了。
+w035871.1 | He shifted uneasily in his chair. | 他在椅子上不安地挪动着。
+w035987.1 | She crumpled the letter and threw it away. | 她把信揉成一团扔掉了。
+w035987.2 | He crumpled to the floor when he heard the news. | 他听到这个消息后瘫倒在地。
+w036150.1 | Hold the pages together with a paperclip. | 用回形针把这几页夹在一起。
+w036167.1 | The kids are still in their pyjamas. | 孩子们还穿着睡衣。
+w036167.2 | She wore pyjama bottoms around the house. | 她在家穿着睡裤。
+w036172.1 | Raindrops ran down the window. | 雨滴顺着窗户流下来。
+w036195.1 | I met an old schoolmate at the station. | 我在车站碰到了一个老同学。
+w036215.1 | The astronaut put on his spacesuit. | 宇航员穿上了宇航服。
+w036428.1 | They live on the tenth floor of a highrise. | 他们住在一栋高楼的十层。
+w036428.2 | The city is full of highrise buildings. | 这座城市到处是高层建筑。
+w036457.1 | We don't have the knowhow to build our own website. | 我们没有自己建网站的技术。
+w036470.1 | Suck a throat lozenge if your throat hurts. | 如果嗓子疼就含一片润喉糖。
+w036470.2 | The pattern is made of red and white lozenges. | 这个图案由红白相间的菱形组成。
+w036483.1 | Our family talks a lot at mealtimes. | 我们一家人吃饭时聊得很多。
+w036484.1 | Don't be such a meany, let me play too! | 别这么小气，让我也玩嘛！
+w036509.1 | Alex is nonbinary and uses the pronoun "they". | 亚历克斯是非二元性别者，使用代词“they”。
+w036510.1 | I always buy nonfat milk. | 我总是买脱脂牛奶。
+w036511.1 | Both countries want the normalisation of relations. | 两国都希望关系正常化。
+w036512.1 | Things have started to normalise after the flood. | 洪水过后，情况开始恢复正常。
+w036520.1 | A crowd of onlookers watched the fire. | 一群围观者看着那场火。
+w036525.1 | Oversea travel has become much easier. | 出国旅行变得容易多了。
+w036557.1 | The reconnection of the power took three hours. | 恢复供电花了三个小时。
+w036560.1 | We replanted the roses in a sunnier spot. | 我们把玫瑰移栽到了阳光更好的地方。
+w036574.1 | The referee signed the scoresheet. | 裁判在记分表上签了字。
+w036601.1 | She answered all our questions straightforwardly. | 她坦率地回答了我们所有的问题。
+w036601.2 | The rules are straightforwardly explained. | 规则解释得简单明了。
+w036607.1 | The plane arrived early thanks to a strong tailwind. | 多亏强劲的顺风，飞机提前到达了。
+w036607.2 | Low prices gave the company a tailwind. | 低价格给公司带来了助力。
+w036611.1 | He forgot to pay the taxman. | 他忘了交税。
+w036630.1 | The church was cold and unheated. | 教堂里又冷又没有暖气。
+w036642.1 | There's a long waitlist for this school. | 这所学校的候补名单很长。
+w036642.2 | I was waitlisted for the course. | 我被列入了这门课的候补名单。
+w036650.1 | A windstorm knocked down trees across the city. | 一场风暴刮倒了全城的树木。
+w036653.1 | The shop sells workwear and boots. | 这家店卖工作服和靴子。
+w036671.1 | We ambled along the beach. | 我们沿着海滩漫步。
+w036671.2 | Let's go for an amble in the park. | 我们去公园散散步吧。
+w036700.1 | I've had a brainwave about the party! | 关于聚会，我突然想到一个好主意！
+w036700.2 | The machine records brainwaves during sleep. | 这台机器记录睡眠时的脑电波。
+w036723.1 | Her cheerfulness made everyone feel better. | 她的乐观开朗让每个人都心情好了起来。
+w036749.1 | The book was dramatized for television. | 这本书被改编成了电视剧。
+w036749.2 | The newspapers dramatized the story. | 报纸把这件事渲染得很夸张。
+w036801.1 | The cyclists rode into a strong headwind. | 骑车的人顶着强劲的逆风前进。
+w036801.2 | High prices are a headwind for the economy. | 高物价是经济发展的阻力。
+w036842.1 | The plan worked marvelously. | 这个计划效果好极了。
+w036874.1 | "Oink, oink," said the little pig. | 小猪“哼哼”地叫着。
+w036874.2 | The pigs oinked in the farmyard. | 猪在农家院子里哼哼叫。
+w036882.1 | It's easy to overeat at Christmas. | 圣诞节时很容易吃得过多。
+w036916.1 | She was reassigned to the London office. | 她被调到了伦敦办事处。
+w036927.1 | People often romanticize country life. | 人们常常把乡村生活理想化。
+w036936.1 | The car came scarily close to us. | 那辆车离我们近得吓人。
+w037042.1 | Please annotate the diagram with labels. | 请在图上加注标签。
+w037085.1 | The old house was full of cobwebs. | 那栋老房子里到处是蜘蛛网。
+w037098.1 | You can dehydrate fruit to make it last longer. | 你可以把水果脱水，让它保存得更久。
+w037098.2 | Drink plenty of water so you don't dehydrate. | 多喝水，以免脱水。
+w037129.1 | She wore a facemask on the crowded train. | 她在拥挤的火车上戴着口罩。
+w037171.1 | He was wearing jeans and a grey hoody. | 他穿着牛仔裤和一件灰色连帽衫。
+w037257.1 | The government plans to nationalize the railways. | 政府计划把铁路收归国有。
+w037264.1 | Use a nonstick pan for the eggs. | 用不粘锅煎鸡蛋。
+w037359.1 | She is always stylishly dressed. | 她总是穿得很时髦。
+w037454.1 | The birthrate has fallen in many countries. | 许多国家的出生率下降了。
+w037471.1 | The books are categorised by subject. | 这些书按学科分类。
+w037499.1 | The library is digitizing its old photos. | 图书馆正在把老照片数字化。
+w037506.1 | We made a downpayment on a new car. | 我们为买新车付了首付款。
+w037530.1 | His story sounds a bit farfetched. | 他的说法听起来有点牵强。
+w037596.1 | The kids shared a bag of jellybeans. | 孩子们分吃了一袋软糖豆。
+w037607.1 | The shop sells kitchenware and plates. | 这家店卖厨具和盘子。
+w037620.1 | The book explains science for the layperson. | 这本书为外行人讲解科学。
+w037626.1 | I love the liveliness of the market. | 我喜欢这个市场的热闹。
+w037659.1 | I've misplaced my keys again. | 我又把钥匙放丢了。
+w037665.1 | The thick walls muffled the noise. | 厚厚的墙壁减弱了噪音。
+w037665.2 | The children were muffled in coats and scarves. | 孩子们裹着大衣和围巾。
+w037706.1 | The government decided to privatise the post office. | 政府决定把邮局私有化。
+w037729.1 | The saleswoman showed us some shoes. | 女售货员给我们看了几双鞋。
+w037741.1 | I always get seasick on boats. | 我坐船总会晕船。
+w037751.1 | He sneakily took a biscuit from the jar. | 他偷偷地从罐子里拿了一块饼干。
+w037760.1 | She came back from holiday with a suntan. | 她度假回来，皮肤晒黑了。
+w037760.2 | We suntanned on the beach all afternoon. | 我们在海滩上晒了一下午太阳。
+w037787.1 | She unfriended him after their argument. | 吵架后她把他从好友中删除了。
+w037789.1 | The weather changes unpredictably here. | 这里的天气变化莫测。
+w037808.1 | Worryingly, the number of cases is rising. | 令人担忧的是，病例数正在上升。
+w037869.1 | The island was colonised in the 17th century. | 这座岛在17世纪被殖民。
+w037899.1 | She had her earlobes pierced. | 她打了耳洞。
+w037902.1 | Send me the file in an editable format. | 把文件以可编辑的格式发给我。
+w037966.1 | We bought a new lampshade for the bedroom. | 我们给卧室买了个新灯罩。
+w038073.1 | The kids built a sandcastle on the beach. | 孩子们在海滩上堆了一座沙堡。
+w038084.1 | The children sat in a semicircle around the teacher. | 孩子们围着老师坐成半圆形。
+w038221.1 | Heavy snow led to the cancelation of the match. | 大雪导致比赛被取消。
+w038279.1 | The house was expensively furnished. | 这房子装修得很昂贵。
+w038288.1 | I heard footsteps in the hall. | 我听到走廊里有脚步声。
+w038303.1 | The ball hit the goalpost. | 球打在了门柱上。
+w038314.1 | The EU wants to harmonise the rules across countries. | 欧盟希望统一各国的规定。
+w038398.1 | I always misspell the word "necessary". | 我总是拼错“necessary”这个词。
+w038439.1 | The nurse smiled reassuringly. | 护士微笑着让人放心。
+w038668.1 | Her eyes glistened with tears. | 她的眼里闪着泪光。
+w038787.1 | Moisten the edges of the pastry with water. | 用水把面皮的边缘弄湿。
+w038834.1 | The issue has polarized the country. | 这个问题使全国陷入两极分化。
+w038834.2 | These sunglasses polarize the light to reduce glare. | 这副太阳镜能使光线偏振以减少眩光。
+w038848.1 | I had to repack my suitcase at the airport. | 我不得不在机场重新收拾行李箱。
+w038850.1 | His decision had serious repercussions for the team. | 他的决定给团队带来了严重后果。
+w038911.1 | The kids were unenthusiastic about the museum trip. | 孩子们对参观博物馆不太感兴趣。
+w038968.1 | The baby laughed when I touched her bellybutton. | 我摸宝宝的肚脐时，她笑了。
+w039170.1 | I have muesli with yogurt for breakfast. | 我早餐吃酸奶拌什锦麦片。
+w039210.1 | He's a popular podcaster who talks about films. | 他是一位很受欢迎的播客主，专门谈电影。
+w039212.1 | Some people try to politicize sport. | 有些人试图把体育政治化。
+w039231.1 | He walked restlessly up and down the room. | 他焦躁不安地在屋里走来走去。
+w039232.1 | The film retells an old fairy tale. | 这部电影重新讲述了一个古老的童话。
+w039233.1 | The new park helped revitalise the area. | 新公园让这一带重新焕发了活力。
+w039257.1 | She scrutinised the contract before signing it. | 她签合同前仔细审查了一遍。
+w039283.1 | We sunbathed by the pool all afternoon. | 我们整个下午都在泳池边晒日光浴。
+w039311.1 | Uncheck the box if you don't want emails. | 如果你不想收邮件，就取消勾选这个框。
+w039338.1 | "Street" is often abbreviated to "St". | “Street”常缩写为“St”。

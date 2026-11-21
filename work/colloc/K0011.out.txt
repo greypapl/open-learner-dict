@@ -1,0 +1,192 @@
+highly complex | adv+adj | 极其复杂的 | complex
+strong coffee | adj+n | 浓咖啡 | coffee
+make coffee | v+n | 煮咖啡 | coffee
+submit an application | v+n | 提交申请 | application
+fill in an application | v+n | 填写申请表 | application
+job application | n+n | 求职申请 | application
+reject an application | v+n | 驳回申请 | application
+criminal activity | adj+n | 犯罪活动 | activity
+physical activity | adj+n | 体育活动 | activity
+engage in an activity | v+prep | 从事活动 | activity
+heavy traffic | adj+n | 交通拥堵 | traffic
+traffic jam | n+n | 交通堵塞 | traffic
+deliver a speech | v+n | 发表演讲 | speech
+make a speech | v+n | 发表演讲 | speech
+give a speech | v+n | 发表演讲 | speech
+freedom of speech | n+n | 言论自由 | speech
+endangered species | adj+n | 濒危物种 | species
+protect a species | v+n | 保护物种 | species
+slow down | v+prep | 减速 | slow
+painfully slow | adv+adj | 慢得令人难受 | slow
+serve a purpose | v+n | 达到目的 | serve
+serve a meal | v+n | 上菜 | serve
+serve as sth | v+prep | 充当 | serve
+flat screen | adj+n | 平板屏幕 | screen
+touch screen | n+n | 触摸屏 | screen
+royal family | adj+n | 王室 | royal
+ride a bike | v+n | 骑自行车 | ride
+ride a horse | v+n | 骑马 | ride
+religious belief | adj+n | 宗教信仰 | religious
+deeply religious | adv+adj | 虔诚的 | religious
+receive a letter | v+n | 收到信 | receive
+receive treatment | v+n | 接受治疗 | receive
+receive an award | v+n | 获奖 | receive
+protection against sth | n+n | 对…的防护 | protection
+provide protection | v+n | 提供保护 | protection
+legal protection | adj+n | 法律保护 | protection
+prior knowledge | adj+n | 先前的知识 | prior
+prior to sth | v+prep | 在…之前 | prior
+powerful engine | adj+n | 强劲的发动机 | powerful
+powerful enemy | adj+n | 强大的敌人 | powerful
+mobile phone | n+n | 手机 | mobile
+learned behaviour | adj+n | 习得行为 | learned
+broken glass | adj+n | 碎玻璃 | glass
+a glass of water | n+n | 一杯水 | glass
+research findings | n+n | 研究结果 | finding
+fat content | n+n | 脂肪含量 | fat
+low fat | adj+n | 低脂 | fat
+exchange information | v+n | 交换信息 | exchange
+exchange views | v+n | 交换意见 | exchange
+exchange rate | n+n | 汇率 | exchange
+in exchange for sth | v+prep | 作为交换 | exchange
+long distance | adj+n | 长途 | distance
+keep one's distance | v+n | 保持距离 | distance
+walking distance | n+n | 步行距离 | distance
+television channel | n+n | 电视频道 | channel
+channel of communication | n+n | 沟通渠道 | channel
+make an attempt | v+n | 尝试 | attempt
+a desperate attempt | adj+n | 孤注一掷的尝试 | attempt
+attempt to do sth | v+prep | 试图做某事 | attempt
+successful attempt | adj+n | 成功的尝试 | attempt
+appear on television | v+prep | 出现在电视上 | appear
+suddenly appear | v+adv | 突然出现 | appear
+accept responsibility | v+n | 承担责任 | accept
+accept an offer | v+n | 接受提议 | accept
+accept defeat | v+n | 认输 | accept
+widely accepted | adv+adj | 被广泛接受的 | accept
+worry about sth | v+prep | 担心 | worry
+cause worry | v+n | 引起担忧 | worry
+strong wind | adj+n | 强风 | wind
+twice as much | adv+adj | 两倍之多 | twice
+traditional values | adj+n | 传统价值观 | traditional
+traditional method | adj+n | 传统方法 | traditional
+social structure | adj+n | 社会结构 | structure
+solve a problem | v+n | 解决问题 | solution
+find a solution | v+n | 找到解决办法 | solution
+provide a solution | v+n | 提供解决方案 | solution
+quick solution | adj+n | 快速解决办法 | solution
+deeply sad | adv+adj | 深感悲伤 | sad
+business partner | n+n | 生意伙伴 | partner
+equal partner | adj+n | 平等的伙伴 | partner
+make an investment | v+n | 进行投资 | investment
+foreign investment | adj+n | 外国投资 | investment
+investment in sth | v+prep | 对…的投资 | investment
+world famous | adv+adj | 举世闻名的 | famous
+famous for sth | v+prep | 因…而出名 | famous
+start an engine | v+n | 发动引擎 | engine
+search engine | n+n | 搜索引擎 | engine
+meet demand | v+n | 满足需求 | demand
+supply and demand | n+n | 供求 | demand
+growing demand | adj+n | 日益增长的需求 | demand
+demand for sth | v+prep | 对…的需求 | demand
+bottom of the page | n+n | 页面底部 | bottom
+begin with sth | v+prep | 以…开始 | begin
+begin to do sth | v+prep | 开始做某事 | begin
+airport security | n+n | 机场安检 | airport
+wedding ceremony | n+n | 婚礼 | wedding
+wedding anniversary | n+n | 结婚纪念日 | wedding
+totally different | adv+adj | 完全不同的 | totally
+totally unexpected | adv+adj | 完全出乎意料的 | totally
+totally agree | v+adv | 完全同意 | totally
+throw a ball | v+n | 扔球 | throw
+throw a party | v+n | 举办派对 | throw
+throw light on sth | v+n | 阐明 | throw
+road surface | n+n | 路面 | surface
+smooth surface | adj+n | 光滑的表面 | surface
+smart move | adj+n | 明智之举 | smart
+separate rooms | adj+n | 独立的房间 | separate
+completely separate | adv+adj | 完全分开的 | separate
+score a goal | v+n | 进球 | score
+final score | adj+n | 最终比分 | score
+high score | adj+n | 高分 | score
+large scale | adj+n | 大规模 | scale
+fully realize | v+adv | 充分认识到 | realize
+realize one's dream | v+n | 实现梦想 | realize
+realize one's potential | v+n | 发挥潜力 | realize
+previously unknown | adv+adj | 此前未知的 | previously
+previously mentioned | adv+adj | 前面提到的 | previously
+proud owner | adj+n | 自豪的主人 | owner
+rightful owner | adj+n | 合法所有人 | owner
+mouth of a river | n+n | 河口 | mouth
+open one's mouth | v+n | 张嘴 | mouth
+mostly harmless | adv+adj | 基本无害的 | mostly
+mental health | adj+n | 心理健康 | mental
+mental illness | adj+n | 精神疾病 | mental
+mental image | adj+n | 心理印象 | mental
+fresh air | adj+n | 新鲜空气 | fresh
+fresh start | adj+n | 重新开始 | fresh
+fresh fruit | adj+n | 新鲜水果 | fresh
+digital camera | adj+n | 数码相机 | digital
+digital age | adj+n | 数字时代 | digital
+critical thinking | adj+n | 批判性思维 | critical
+critical condition | adj+n | 危急状态 | critical
+critical of sth | v+prep | 批评 | critical
+highly critical | adv+adj | 严厉批评的 | critical
+covered with sth | v+prep | 被…覆盖 | covered
+count on sb | v+prep | 依靠某人 | count
+brand name | n+n | 品牌名称 | brand
+build a brand | v+n | 打造品牌 | brand
+brand loyalty | n+n | 品牌忠诚度 | brand
+fishing village | n+n | 渔村 | village
+global village | adj+n | 地球村 | village
+mutual understanding | adj+n | 相互理解 | understanding
+better understanding | adj+n | 更深的理解 | understanding
+gain an understanding | v+n | 获得了解 | understanding
+hit a target | v+n | 击中目标 | target
+meet a target | v+n | 达到目标 | target
+set a target | v+n | 设定目标 | target
+target audience | n+n | 目标受众 | target
+sexual harassment | adj+n | 性骚扰 | sexual
+take a seat | v+n | 就座 | seat
+book a seat | v+n | 订座位 | seat
+back seat | adj+n | 后座 | seat
+fasten one's seat belt | v+n | 系好安全带 | seat
+push a button | v+n | 按按钮 | push
+push a door | v+n | 推门 | push
+pull a muscle | v+n | 拉伤肌肉 | pull
+pull a trigger | v+n | 扣动扳机 | pull
+high profile | adj+n | 高调 | profile
+keep a low profile | v+n | 保持低调 | profile
+profile picture | n+n | 头像 | profile
+heavy metal | adj+n | 重金属 | metal
+precious metal | adj+n | 贵金属 | metal
+hearing aid | n+n | 助听器 | hearing
+hearing loss | n+n | 听力损失 | hearing
+fair hearing | adj+n | 公正的听证 | hearing
+steep hill | adj+n | 陡坡 | hill
+climb a hill | v+n | 爬山 | hill
+younger generation | adj+n | 年轻一代 | generation
+future generations | adj+n | 子孙后代 | generation
+raise funds | v+n | 筹款 | fund
+fund raising | n+n | 筹款 | fund
+provide funding | v+n | 提供资金 | fund
+special feature | adj+n | 特色 | feature
+main feature | adj+n | 主要特征 | feature
+safety feature | n+n | 安全功能 | feature
+latest fashion | adj+n | 最新时尚 | fashion
+fashion show | n+n | 时装秀 | fashion
+lose faith | v+n | 失去信心 | faith
+have faith in sb | v+n | 信任某人 | faith
+blind faith | adj+n | 盲目的信任 | faith
+real estate | adj+n | 房地产 | estate
+estate agent | n+n | 房产经纪人 | estate
+click on sth | v+prep | 点击 | click
+double click | adj+n | 双击 | click
+tight budget | adj+n | 预算紧张 | budget
+balance the budget | v+n | 平衡预算 | budget
+cut the budget | v+n | 削减预算 | budget
+budget cuts | n+n | 预算削减 | budget
+benefit from sth | v+prep | 受益于 | benefit
+huge benefit | adj+n | 巨大好处 | benefit
+health benefits | n+n | 健康益处 | benefit
+unemployment benefit | n+n | 失业救济金 | benefit

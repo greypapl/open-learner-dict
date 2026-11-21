@@ -1,0 +1,2500 @@
+c_attached-to-sb | attached to sb | adj+prep | 依戀某人
+c_wise-decision | wise decision | adj+n | 明智的決定
+c_wise-choice | wise choice | adj+n | 明智的選擇
+c_accumulate-wealth | accumulate wealth | v+n | 積累財富
+c_a-wealth-of-sth | a wealth of sth | n+n | 大量的某物
+c_valuable-lesson | valuable lesson | adj+n | 寶貴的教訓
+c_valuable-asset | valuable asset | adj+n | 寶貴財富
+c_reverse-a-trend | reverse a trend | v+n | 扭轉趨勢
+c_tie-a-knot | tie a knot | v+n | 打結
+c_swear-an-oath | swear an oath | v+n | 宣誓
+c_swear-at-sb | swear at sb | v+prep | 咒罵某人
+c_strongly-suspect | strongly suspect | adv+v | 強烈懷疑
+c_recording-studio | recording studio | n+n | 錄音室
+c_well-organized | well organized | adv+adj | 井井有條的
+c_opposed-to-sth | opposed to sth | adj+prep | 反對某事
+c_critically-injured | critically injured | adv+adj | 傷勢危重
+c_entrance-fee | entrance fee | n+n | 入場費
+c_exposed-to-sth | exposed to sth | adj+prep | 暴露於某事物
+c_exact-location | exact location | adj+n | 確切位置
+c_exact-same | exact same | adj+n | 完全相同
+c_defeat-an-opponent | defeat an opponent | v+n | 擊敗對手
+c_suffer-a-defeat | suffer a defeat | v+n | 遭受失敗
+c_draw-a-comparison | draw a comparison | v+n | 作比較
+c_make-a-comparison | make a comparison | v+n | 作比較
+c_happy-childhood | happy childhood | adj+n | 幸福的童年
+c_college-campus | college campus | n+n | 大學校園
+c_aim-at-sth | aim at sth | v+prep | 瞄準, 旨在
+c_visual-effect | visual effect | adj+n | 視覺效果
+c_keep-up-a-tradition | keep up a tradition | v+n | 保持傳統
+c_long-tradition | long tradition | adj+n | 悠久傳統
+c_reply-to-sb | reply to sb | v+prep | 回覆某人
+c_ask-permission | ask permission | v+n | 請求許可
+c_outstanding-achievement | outstanding achievement | adj+n | 傑出成就
+c_operate-a-machine | operate a machine | v+n | 操作機器
+c_markedly-different | markedly different | adv+adj | 顯著不同
+c_marked-improvement | marked improvement | adj+n | 明顯改善
+c_inner-peace | inner peace | adj+n | 內心平靜
+c_graduate-from-sth | graduate from sth | v+prep | 從某校畢業
+c_equivalent-to-sth | equivalent to sth | v+prep | 相當於某物
+c_equivalent-value | equivalent value | adj+n | 等值
+c_draft-a-document | draft a document | v+n | 起草檔案
+c_contain-a-virus | contain a virus | v+n | 含有病毒
+c_barely-contain | barely contain | adv+v | 幾乎無法抑制
+c_convention-centre | convention centre | n+n | 會議中心
+c_social-convention | social convention | adj+n | 社會習俗
+c_burning-desire | burning desire | adj+n | 強烈的願望
+c_approval-rating | approval rating | n+n | 支援率
+c_seek-approval | seek approval | v+n | 尋求批准
+c_vast-majority | vast majority | adj+n | 絕大多數
+c_vast-amount | vast amount | adj+n | 大量
+c_vast-range | vast range | adj+n | 廣泛範圍
+c_universal-truth | universal truth | adj+n | 普遍真理
+c_universal-access | universal access | adj+n | 全民享有
+c_topic-of-conversation | topic of conversation | n+n | 談話主題
+c_raise-a-topic | raise a topic | v+n | 提出話題
+c_surrounding-area | surrounding area | adj+n | 周邊地區
+c_guest-speaker | guest speaker | n+n | 特邀演講人
+c_smell-of-sth | smell of sth | v+prep | 聞起來有某氣味
+c_smell-strongly | smell strongly | v+adv | 氣味濃烈
+c_reach-a-settlement | reach a settlement | v+n | 達成和解
+c_rough-sea | rough sea | adj+n | 波濤洶湧的海
+c_rough-estimate | rough estimate | adj+n | 粗略估計
+c_take-pride-in-sth | take pride in sth | v+prep | 以某事為榮
+c_serve-on-a-jury | serve on a jury | v+prep | 擔任陪審員
+c_initially-planned | initially planned | adv+adj | 最初計劃的
+c_make-an-improvement | make an improvement | v+n | 作出改進
+c_significant-improvement | significant improvement | adj+n | 顯著改善
+c_historic-moment | historic moment | adj+n | 歷史性時刻
+c_historic-site | historic site | adj+n | 歷史遺址
+c_extensive-research | extensive research | adj+n | 廣泛的研究
+c_extensive-use | extensive use | adj+n | 廣泛使用
+c_face-criticism | face criticism | v+n | 面對批評
+c_draw-criticism | draw criticism | v+n | 招致批評
+c_harsh-criticism | harsh criticism | adj+n | 嚴厲批評
+c_contemporary-art | contemporary art | adj+n | 當代藝術
+c_bright-colour | bright colour | adj+n | 鮮豔的顏色
+c_mine-coal | mine coal | v+n | 採煤
+c_box-of-chocolates | box of chocolates | n+n | 一盒巧克力
+c_barely-audible | barely audible | adv+adj | 幾乎聽不見
+c_barely-enough | barely enough | adv+adj | 勉強夠
+c_cancel-an-appointment | cancel an appointment | v+n | 取消預約
+c_play-a-trick-on-sb | play a trick on sb | v+prep | 捉弄某人
+c_temporary-job | temporary job | adj+n | 臨時工作
+c_stable-condition | stable condition | adj+n | 穩定狀態
+c_play-soccer | play soccer | v+n | 踢足球
+c_sharp-pain | sharp pain | adj+n | 劇痛
+c_rescue-operation | rescue operation | n+n | 救援行動
+c_relative-to-sth | relative to sth | adj+prep | 相對於某事物
+c_primarily-concerned | primarily concerned | adv+adj | 主要關注的
+c_practical-advice | practical advice | adj+n | 實用建議
+c_practical-experience | practical experience | adj+n | 實踐經驗
+c_trouser-pocket | trouser pocket | n+n | 褲兜
+c_high-percentage | high percentage | adj+n | 高比例
+c_business-partnership | business partnership | n+n | 商業合夥關係
+c_naturally-occurring | naturally occurring | adv+adj | 天然存在的
+c_ignore-a-warning | ignore a warning | v+n | 無視警告
+c_completely-ignore | completely ignore | adv+v | 完全無視
+c_play-the-guitar | play the guitar | v+n | 彈吉他
+c_grey-hair | grey hair | adj+n | 白髮
+c_consistent-with-sth | consistent with sth | adj+prep | 與某事一致
+c_consistently-high | consistently high | adv+adj | 一貫很高
+c_paper-thin | paper thin | adv+adj | 薄如紙
+c_master-a-technique | master a technique | v+n | 掌握技巧
+c_strongly-believe | strongly believe | adv+v | 堅信
+c_strongly-oppose | strongly oppose | adv+v | 強烈反對
+c_build-a-reputation | build a reputation | v+n | 樹立聲譽
+c_damage-sb-s-reputation | damage sb's reputation | v+n | 損害某人聲譽
+c_good-reputation | good reputation | adj+n | 好名聲
+c_gain-recognition | gain recognition | v+n | 獲得認可
+c_facial-recognition | facial recognition | adj+n | 面部識別
+c_submit-a-proposal | submit a proposal | v+n | 提交提案
+c_reject-a-proposal | reject a proposal | v+n | 拒絕提議
+c_occur-naturally | occur naturally | v+adv | 自然發生
+c_occur-to-sb | occur to sb | v+prep | 突然想到
+c_mount-a-campaign | mount a campaign | v+n | 發動運動
+c_apply-for-membership | apply for membership | v+prep | 申請會員資格
+c_renew-a-membership | renew a membership | v+n | 續訂會員資格
+c_learn-a-lesson | learn a lesson | v+n | 吸取教訓
+c_take-lessons | take lessons | v+n | 上課
+c_impressive-performance | impressive performance | adj+n | 出色表現
+c_deeply-impressive | deeply impressive | adv+adj | 令人印象極為深刻
+c_illegal-immigration | illegal immigration | adj+n | 非法移民
+c_household-income | household income | n+n | 家庭收入
+c_cause-harm | cause harm | v+n | 造成傷害
+c_widen-the-gap | widen the gap | v+n | 擴大差距
+c_gap-between-sth | gap between sth | v+prep | …之間的差距
+c_file-format | file format | n+n | 檔案格式
+c_go-fishing | go fishing | v+n | 去釣魚
+c_the-full-extent-of-sth | the full extent of sth | n+n | 某事的全部程度
+c_everyday-life | everyday life | adj+n | 日常生活
+c_everyday-use | everyday use | adj+n | 日常使用
+c_defend-oneself | defend oneself | v+n | 自衛
+c_defend-a-decision | defend a decision | v+n | 為決定辯護
+c_completely-confused | completely confused | adv+adj | 一頭霧水
+c_hopelessly-confused | hopelessly confused | adv+adj | 完全糊塗
+c_complicated-issue | complicated issue | adj+n | 複雜問題
+c_top-the-charts | top the charts | v+n | 位居榜首
+c_broken-bone | broken bone | adj+n | 斷骨
+c_break-a-bone | break a bone | v+n | 骨折
+c_violent-death | violent death | adj+n | 非正常死亡
+c_smooth-transition | smooth transition | adj+n | 平穩過渡
+c_make-a-transition | make a transition | v+n | 實現過渡
+c_thick-fog | thick fog | adj+n | 濃霧
+c_thick-smoke | thick smoke | adj+n | 濃煙
+c_superior-to-sth | superior to sth | adj+prep | 優於某事物
+c_superior-quality | superior quality | adj+n | 上乘質量
+c_break-the-silence | break the silence | v+n | 打破沉默
+c_come-as-a-shock | come as a shock | v+prep | 令人震驚
+c_sensitive-to-sth | sensitive to sth | adj+prep | 對某事敏感
+c_sensitive-issue | sensitive issue | adj+n | 敏感問題
+c_sensitive-information | sensitive information | adj+n | 敏感資訊
+c_absolutely-ridiculous | absolutely ridiculous | adv+adj | 荒謬至極
+c_live-in-poverty | live in poverty | v+prep | 生活在貧困中
+c_alleviate-poverty | alleviate poverty | v+n | 減輕貧困
+c_abject-poverty | abject poverty | adj+n | 赤貧
+c_launch-an-offensive | launch an offensive | v+n | 發動攻勢
+c_offensive-language | offensive language | adj+n | 冒犯性語言
+c_moral-dilemma | moral dilemma | adj+n | 道德困境
+c_loose-clothing | loose clothing | adj+n | 寬鬆的衣服
+c_public-infrastructure | public infrastructure | adj+n | 公共基礎設施
+c_build-infrastructure | build infrastructure | v+n | 建設基礎設施
+c_grant-an-extension | grant an extension | v+n | 批准延期
+c_establish-a-relationship | establish a relationship | v+n | 建立關係
+c_establish-a-reputation | establish a reputation | v+n | 樹立聲譽
+c_element-of-surprise | element of surprise | n+n | 意外因素
+c_key-element | key element | adj+n | 關鍵要素
+c_boil-an-egg | boil an egg | v+n | 煮雞蛋
+c_lay-an-egg | lay an egg | v+n | 下蛋
+c_fried-egg | fried egg | adj+n | 煎蛋
+c_contrast-with-sth | contrast with sth | v+prep | 與…形成對比
+c_stark-contrast | stark contrast | adj+n | 鮮明對比
+c_sharp-contrast | sharp contrast | adj+n | 強烈對比
+c_cloud-cover | cloud cover | n+n | 雲層
+c_dark-cloud | dark cloud | adj+n | 烏雲
+c_carefully-planned | carefully planned | adv+adj | 精心策劃的
+c_strong-belief | strong belief | adj+n | 堅定的信念
+c_belief-in-sth | belief in sth | v+prep | 對…的信仰
+c_awful-lot | awful lot | adj+n | 很多
+c_friendly-atmosphere | friendly atmosphere | adj+n | 友好的氛圍
+c_create-an-atmosphere | create an atmosphere | v+n | 營造氛圍
+c_relaxed-atmosphere | relaxed atmosphere | adj+n | 輕鬆的氣氛
+c_carry-out-an-assessment | carry out an assessment | v+n | 進行評估
+c_make-an-assessment | make an assessment | v+n | 作出評估
+c_risk-assessment | risk assessment | n+n | 風險評估
+c_argue-with-sb | argue with sb | v+prep | 與某人爭論
+c_argue-about-sth | argue about sth | v+prep | 就某事爭論
+c_argue-strongly | argue strongly | v+adv | 強烈主張
+c_argue-convincingly | argue convincingly | v+adv | 令人信服地論證
+c_sense-of-adventure | sense of adventure | n+n | 冒險精神
+c_embark-on-an-adventure | embark on an adventure | v+prep | 開始冒險
+c_accused-of-sth | accused of sth | adj+prep | 被指控犯有某事
+c_unusual-circumstances | unusual circumstances | adj+n | 特殊情況
+c_highly-unusual | highly unusual | adv+adj | 極不尋常的
+c_suffer-badly | suffer badly | v+adv | 遭受嚴重損失
+c_spoken-english | spoken english | adj+n | 英語口語
+c_softly-spoken | softly spoken | adv+adj | 說話輕柔的
+c_carefully-select | carefully select | adv+v | 精心挑選
+c_refer-to-sth | refer to sth | v+prep | 提到, 參考
+c_high-rating | high rating | adj+n | 高評分, 高收視率
+c_protest-against-sth | protest against sth | v+prep | 抗議某事
+c_stage-a-protest | stage a protest | v+n | 舉行抗議
+c_lodge-a-protest | lodge a protest | v+n | 提出抗議
+c_mass-protest | mass protest | adj+n | 大規模抗議
+c_keep-a-pet | keep a pet | v+n | 養寵物
+c_pet-hate | pet hate | n+n | 最討厭的事
+c_impose-a-penalty | impose a penalty | v+n | 處罰
+c_heavy-penalty | heavy penalty | adj+n | 重罰
+c_solve-a-mystery | solve a mystery | v+n | 解開謎團
+c_unsolved-mystery | unsolved mystery | adj+n | 未解之謎
+c_innocent-victim | innocent victim | adj+n | 無辜的受害者
+c_informed-decision | informed decision | adj+n | 知情決定, 有依據的決定
+c_hungry-for-sth | hungry for sth | adj+prep | 渴望某事
+c_gray-hair | gray hair | adj+n | 白髮
+c_formal-dress | formal dress | adj+n | 正裝
+c_make-a-formal-complaint | make a formal complaint | v+n | 正式投訴
+c_secret-formula | secret formula | adj+n | 秘方
+c_chemical-formula | chemical formula | adj+n | 化學式
+c_flash-of-light | flash of light | n+n | 一道閃光
+c_flash-of-inspiration | flash of inspiration | n+n | 靈光一現
+c_strict-enforcement | strict enforcement | adj+n | 嚴格執法
+c_encourage-sb-to-do-sth | encourage sb to do sth | v+prep | 鼓勵某人做某事
+c_strongly-encourage | strongly encourage | adv+v | 極力鼓勵
+c_make-a-discovery | make a discovery | v+n | 有所發現
+c_scientific-discovery | scientific discovery | adj+n | 科學發現
+c_curious-about-sth | curious about sth | adj+prep | 對某事好奇
+c_cooking-oil | cooking oil | n+n | 食用油
+c_home-cooking | home cooking | n+n | 家常菜
+c_compare-sth-with-sth | compare sth with sth | v+prep | 把…與…比較
+c_compare-sth-to-sth | compare sth to sth | v+prep | 把…比作
+c_compare-favourably | compare favourably | v+adv | 毫不遜色
+c_charity-work | charity work | n+n | 慈善工作
+c_donate-to-charity | donate to charity | v+prep | 向慈善機構捐款
+c_raise-money-for-charity | raise money for charity | v+n | 為慈善籌款
+c_bonus-point | bonus point | n+n | 加分
+c_pay-a-bonus | pay a bonus | v+n | 發獎金
+c_suffer-from-anxiety | suffer from anxiety | v+prep | 患焦慮症
+c_cause-anxiety | cause anxiety | v+n | 引起焦慮
+c_deep-anxiety | deep anxiety | adj+n | 深深的焦慮
+c_administrative-staff | administrative staff | adj+n | 行政人員
+c_administrative-costs | administrative costs | adj+n | 行政費用
+c_leading-actress | leading actress | adj+n | 女主角
+c_best-actress | best actress | adj+n | 最佳女主角
+c_earn-a-wage | earn a wage | v+n | 掙工資
+c_wage-increase | wage increase | n+n | 加薪
+c_loose-thread | loose thread | adj+n | 松線頭
+c_long-shadow | long shadow | adj+n | 長長的影子
+c_settled-weather | settled weather | adj+n | 穩定的天氣
+c_grain-of-sand | grain of sand | n+n | 一粒沙子
+c_replacement-part | replacement part | n+n | 替換零件
+c_find-a-replacement | find a replacement | v+n | 找到替代者
+c_high-rank | high rank | adj+n | 高階別
+c_follow-a-procedure | follow a procedure | v+n | 遵循程式
+c_surgical-procedure | surgical procedure | adj+n | 外科手術
+c_pleased-with-sth | pleased with sth | adj+prep | 對某事滿意
+c_passion-for-sth | passion for sth | n+prep | 對…的熱愛
+c_burning-passion | burning passion | adj+n | 熾熱的激情
+c_build-muscle | build muscle | v+n | 增肌
+c_muscle-pain | muscle pain | n+n | 肌肉疼痛
+c_good-mood | good mood | adj+n | 好心情
+c_bad-mood | bad mood | adj+n | 壞心情
+c_mood-swings | mood swings | n+n | 情緒波動
+c_ideal-candidate | ideal candidate | adj+n | 理想人選
+c_ideal-for-sth | ideal for sth | adj+prep | 非常適合某事
+c_horrible-smell | horrible smell | adj+n | 難聞的氣味
+c_pursue-happiness | pursue happiness | v+n | 追求幸福
+c_find-happiness | find happiness | v+n | 找到幸福
+c_give-a-guarantee | give a guarantee | v+n | 提供保證
+c_exposure-to-sth | exposure to sth | n+prep | 接觸…, 暴露於…
+c_risk-exposure | risk exposure | n+n | 風險敞口
+c_give-an-explanation | give an explanation | v+n | 作出解釋
+c_offer-an-explanation | offer an explanation | v+n | 提出解釋
+c_plausible-explanation | plausible explanation | adj+n | 合理的解釋
+c_deeply-regret | deeply regret | adv+v | 深感遺憾
+c_concrete-evidence | concrete evidence | adj+n | 確鑿證據
+c_concrete-example | concrete example | adj+n | 具體例子
+c_concrete-steps | concrete steps | adj+n | 具體措施
+c_car-chase | car chase | n+n | 汽車追逐
+c_badly-wrong | badly wrong | adv+adj | 大錯特錯
+c_badly-injured | badly injured | adv+adj | 重傷的
+c_public-awareness | public awareness | adj+n | 公眾意識
+c_environmental-awareness | environmental awareness | adj+n | 環保意識
+c_launch-an-assault | launch an assault | v+n | 發動襲擊
+c_physical-assault | physical assault | adj+n | 人身攻擊
+c_await-sb-s-arrival | await sb's arrival | v+n | 等候某人到來
+c_shift-worker | shift worker | n+n | 輪班工人
+c_skilled-worker | skilled worker | adj+n | 熟練工人
+c_manual-worker | manual worker | adj+n | 體力勞動者
+c_social-welfare | social welfare | adj+n | 社會福利
+c_child-welfare | child welfare | n+n | 兒童福利
+c_strategic-planning | strategic planning | adj+n | 戰略規劃
+c_strategic-importance | strategic importance | adj+n | 戰略重要性
+c_romantic-comedy | romantic comedy | adj+n | 浪漫喜劇
+c_romantic-dinner | romantic dinner | adj+n | 浪漫晚餐
+c_reveal-the-truth | reveal the truth | v+n | 揭示真相
+c_rear-window | rear window | adj+n | 後窗
+c_plain-english | plain english | adj+n | 通俗易懂的英語
+c_plain-truth | plain truth | adj+n | 明擺著的事實
+c_pitch-a-tent | pitch a tent | v+n | 搭帳篷
+c_total-output | total output | adj+n | 總產量
+c_industrial-output | industrial output | adj+n | 工業產值
+c_price-label | price label | n+n | 價籤
+c_warning-label | warning label | n+n | 警示標籤
+c_record-label | record label | n+n | 唱片公司
+c_helpful-advice | helpful advice | adj+n | 有益的建議
+c_go-to-the-gym | go to the gym | v+prep | 去健身房
+c_generate-electricity | generate electricity | v+n | 發電
+c_electricity-supply | electricity supply | n+n | 電力供應
+c_pierce-one-s-ears | pierce one's ears | v+n | 穿耳洞
+c_local-custom | local custom | adj+n | 當地習俗
+c_confident-about-sth | confident about sth | adj+prep | 對某事有信心
+c_fairly-confident | fairly confident | adv+adj | 相當有把握
+c_quietly-confident | quietly confident | adv+adj | 暗自有信心
+c_make-a-commitment | make a commitment | v+n | 作出承諾
+c_firm-commitment | firm commitment | adj+n | 堅定的承諾
+c_commitment-to-sth | commitment to sth | n+prep | 對…的承諾
+c_wind-the-clock | wind the clock | v+n | 給鍾上發條
+c_set-the-clock | set the clock | v+n | 調時鐘
+c_deadly-boring | deadly boring | adv+adj | 極其無聊
+c_tree-lined-avenue | tree-lined avenue | adj+n | 林蔭大道
+c_catch-a-virus | catch a virus | v+n | 感染病毒
+c_spread-a-virus | spread a virus | v+n | 傳播病毒
+c_suck-at-sth | suck at sth | v+prep | 在某方面很差
+c_empty-stomach | empty stomach | adj+n | 空腹
+c_stomach-ache | stomach ache | n+n | 胃痛
+c_solve-a-crime | solve a crime | v+n | 破案
+c_fertile-soil | fertile soil | adj+n | 肥沃的土壤
+c_rich-soil | rich soil | adj+n | 沃土
+c_soil-erosion | soil erosion | n+n | 土壤侵蝕
+c_acquire-a-skill | acquire a skill | v+n | 掌握技能
+c_rarely-seen | rarely seen | adv+adj | 難得一見的
+c_racist-remark | racist remark | adj+n | 種族歧視言論
+c_racist-abuse | racist abuse | adj+n | 種族主義辱罵
+c_say-a-prayer | say a prayer | v+n | 祈禱
+c_answer-sb-s-prayers | answer sb's prayers | v+n | 應允某人的祈禱
+c_participate-in-sth | participate in sth | v+prep | 參加某事
+c_actively-participate | actively participate | adv+v | 積極參與
+c_ordinary-life | ordinary life | adj+n | 日常生活
+c_perfectly-ordinary | perfectly ordinary | adv+adj | 極其普通的
+c_newly-elected | newly elected | adv+adj | 新當選的
+c_newly-married | newly married | adv+adj | 新婚的
+c_newly-built | newly built | adv+adj | 新建的
+c_nervous-about-sth | nervous about sth | adj+prep | 對某事緊張
+c_hunting-season | hunting season | n+n | 狩獵季
+c_go-hunting | go hunting | v+n | 去打獵
+c_play-hockey | play hockey | v+n | 打曲棍球
+c_bunch-of-flowers | bunch of flowers | n+n | 一束花
+c_educational-establishment | educational establishment | adj+n | 教育機構
+c_essentially-the-same | essentially the same | adv+adj | 本質上相同
+c_electrical-appliance | electrical appliance | adj+n | 電器
+c_electrical-engineer | electrical engineer | adj+n | 電氣工程師
+c_electrical-equipment | electrical equipment | adj+n | 電氣裝置
+c_highly-efficient | highly efficient | adv+adj | 高效的
+c_fully-dressed | fully dressed | adv+adj | 衣著整齊的
+c_dressed-in-sth | dressed in sth | adj+prep | 穿著某種衣服
+c_deeply-disappointed | deeply disappointed | adv+adj | 非常失望
+c_disappointed-with-sth | disappointed with sth | adj+prep | 對某事失望
+c_bitterly-disappointed | bitterly disappointed | adv+adj | 極度失望
+c_diamond-ring | diamond ring | n+n | 鑽戒
+c_diamond-necklace | diamond necklace | n+n | 鑽石項鍊
+c_fashion-designer | fashion designer | n+n | 服裝設計師
+c_graphic-designer | graphic designer | adj+n | 平面設計師
+c_designer-label | designer label | n+n | 名牌
+c_hold-a-ceremony | hold a ceremony | v+n | 舉行儀式
+c_opening-ceremony | opening ceremony | n+n | 開幕式
+c_capture-sb-s-attention | capture sb's attention | v+n | 吸引某人注意
+c_capture-a-moment | capture a moment | v+n | 捕捉瞬間
+c_assist-sb-with-sth | assist sb with sth | v+prep | 協助某人做某事
+c_modern-architecture | modern architecture | adj+n | 現代建築
+c_gothic-architecture | gothic architecture | adj+n | 哥特式建築
+c_express-anger | express anger | v+n | 表達憤怒
+c_steal-sth-from-sb | steal sth from sb | v+prep | 從某人處偷東西
+c_answer-the-telephone | answer the telephone | v+n | 接電話
+c_root-cause | root cause | n+n | 根本原因
+c_carry-out-repairs | carry out repairs | v+n | 進行修理
+c_remote-area | remote area | adj+n | 偏遠地區
+c_remote-possibility | remote possibility | adj+n | 微小的可能
+c_get-a-promotion | get a promotion | v+n | 獲得晉升
+c_give-priority-to-sth | give priority to sth | v+prep | 優先考慮某事
+c_take-priority-over-sth | take priority over sth | v+prep | 比…優先
+c_high-priority | high priority | adj+n | 優先事項, 當務之急
+c_small-minority | small minority | adj+n | 極少數
+c_source-of-inspiration | source of inspiration | n+n | 靈感源泉
+c_draw-inspiration-from-sth | draw inspiration from sth | v+prep | 從…中汲取靈感
+c_serious-illness | serious illness | adj+n | 重病
+c_suffer-from-an-illness | suffer from an illness | v+prep | 患病
+c_thick-dust | thick dust | adj+n | 厚厚的灰塵
+c_dramatic-change | dramatic change | adj+n | 巨大變化, 急劇變化
+c_dramatic-increase | dramatic increase | adj+n | 急劇增長
+c_dramatic-effect | dramatic effect | adj+n | 戲劇性效果
+c_breathe-fire | breathe fire | v+n | 噴火
+c_take-comfort-from-sth | take comfort from sth | v+prep | 從…中獲得安慰
+c_great-comfort | great comfort | adj+n | 極大的安慰
+c_boost-morale | boost morale | v+n | 提升士氣
+c_give-sb-a-boost | give sb a boost | v+n | 給某人鼓舞
+c_confidence-boost | confidence boost | n+n | 增強信心
+c_every-aspect-of-sth | every aspect of sth | n+n | 某事的方方面面
+c_take-a-vacation | take a vacation | v+n | 度假
+c_a-string-of-sth | a string of sth | n+n | 一連串
+c_sheet-of-paper | sheet of paper | n+n | 一張紙
+c_clean-sheet | clean sheet | adj+n | 清白的記錄, 零失球
+c_play-rugby | play rugby | v+n | 打橄欖球
+c_vividly-recall | vividly recall | adv+v | 清晰地回憶
+c_clearly-recall | clearly recall | adv+v | 清楚地回憶
+c_pray-for-sb | pray for sb | v+prep | 為某人祈禱
+c_pray-to-god | pray to god | v+prep | 向上帝禱告
+c_public-ownership | public ownership | adj+n | 公有制
+c_take-ownership-of-sth | take ownership of sth | v+prep | 對某事負責
+c_organic-food | organic food | adj+n | 有機食品
+c_organic-farming | organic farming | adj+n | 有機農業
+c_obtain-permission | obtain permission | v+n | 獲得許可
+c_qualified-nurse | qualified nurse | adj+n | 有資質的護士
+c_marry-into-sth | marry into sth | v+prep | 嫁入, 入贅
+c_marry-sb | marry sb | v+n | 與某人結婚
+c_thick-layer | thick layer | adj+n | 厚厚的一層
+c_layer-of-dust | layer of dust | n+n | 一層灰
+c_make-a-landing | make a landing | v+n | 著陸
+c_hire-a-car | hire a car | v+n | 租車
+c_elite-athlete | elite athlete | adj+n | 精英運動員
+c_political-elite | political elite | adj+n | 政治精英
+c_cause-a-delay | cause a delay | v+n | 造成延誤
+c_long-delay | long delay | adj+n | 長時間延誤
+c_delay-a-flight | delay a flight | v+n | 推遲航班
+c_decline-an-invitation | decline an invitation | v+n | 謝絕邀請
+c_decline-an-offer | decline an offer | v+n | 拒絕提議
+c_sharp-decline | sharp decline | adj+n | 急劇下降
+c_steady-decline | steady decline | adj+n | 持續下降
+c_decent-job | decent job | adj+n | 像樣的工作
+c_decent-wage | decent wage | adj+n | 體面的工資
+c_decent-standard-of-living | decent standard of living | adj+n | 體面的生活水平
+c_confirm-a-booking | confirm a booking | v+n | 確認預訂
+c_confirm-a-suspicion | confirm a suspicion | v+n | 證實懷疑
+c_confirm-an-appointment | confirm an appointment | v+n | 確認預約
+c_spread-butter | spread butter | v+n | 塗黃油
+c_make-a-bid | make a bid | v+n | 出價, 試圖
+c_place-a-bid | place a bid | v+n | 出價
+c_winning-bid | winning bid | adj+n | 中標價
+c_bid-for-sth | bid for sth | v+prep | 競標某物
+c_annoying-habit | annoying habit | adj+n | 惱人的習慣
+c_form-an-alliance | form an alliance | v+n | 結成聯盟
+c_abandoned-building | abandoned building | adj+n | 廢棄的建築
+c_barely-visible | barely visible | adv+adj | 幾乎看不見的
+c_visible-sign | visible sign | adj+n | 明顯的跡象
+c_subsequent-events | subsequent events | adj+n | 後續事件
+c_silly-mistake | silly mistake | adj+n | 愚蠢的錯誤
+c_silly-question | silly question | adj+n | 傻問題
+c_draw-on-resources | draw on resources | v+prep | 利用資源
+c_flatly-refuse | flatly refuse | adv+v | 斷然拒絕
+c_refuse-to-do-sth | refuse to do sth | v+prep | 拒絕做某事
+c_refuse-permission | refuse permission | v+n | 不予許可
+c_refuse-entry | refuse entry | v+n | 拒絕入境
+c_reflect-on-sth | reflect on sth | v+prep | 反思某事
+c_reflect-the-fact-that | reflect the fact that | v+n | 反映出這一事實
+c_accurately-reflect | accurately reflect | adv+v | 準確反映
+c_price-reduction | price reduction | n+n | 降價
+c_significant-reduction | significant reduction | adj+n | 顯著減少
+c_potentially-fatal | potentially fatal | adv+adj | 可能致命的
+c_potentially-harmful | potentially harmful | adv+adj | 可能有害的
+c_narrow-margin | narrow margin | adj+n | 微弱優勢
+c_take-out-a-mortgage | take out a mortgage | v+n | 辦理抵押貸款
+c_pay-off-a-mortgage | pay off a mortgage | v+n | 還清抵押貸款
+c_win-a-medal | win a medal | v+n | 獲得獎牌
+c_award-a-medal | award a medal | v+n | 授予獎牌
+c_apply-makeup | apply makeup | v+n | 化妝
+c_wear-makeup | wear makeup | v+n | 化著妝, 帶妝
+c_clear-liquid | clear liquid | adj+n | 透明液體
+c_intense-pressure | intense pressure | adj+n | 巨大壓力
+c_intense-competition | intense competition | adj+n | 激烈的競爭
+c_intense-pain | intense pain | adj+n | 劇痛
+c_lifelong-friendship | lifelong friendship | adj+n | 終身的友誼
+c_form-a-friendship | form a friendship | v+n | 建立友誼
+c_close-friendship | close friendship | adj+n | 親密的友誼
+c_physical-fitness | physical fitness | adj+n | 身體素質
+c_equally-important | equally important | adv+adj | 同樣重要的
+c_equally-likely | equally likely | adv+adj | 同樣可能的
+c_main-entrance | main entrance | adj+n | 正門
+c_discover-a-cure | discover a cure | v+n | 發現療法
+c_accidentally-discover | accidentally discover | adv+v | 偶然發現
+c_avert-a-disaster | avert a disaster | v+n | 避免災難
+c_play-cricket | play cricket | v+n | 打板球
+c_compete-with-sb | compete with sb | v+prep | 與某人競爭
+c_compete-for-sth | compete for sth | v+prep | 爭奪某物
+c_compete-against-sb | compete against sb | v+prep | 與某人對抗
+c_fiercely-compete | fiercely compete | adv+v | 激烈競爭
+c_law-abiding-citizen | law-abiding citizen | adj+n | 守法公民
+c_live-broadcast | live broadcast | adj+n | 直播
+c_broadcast-live | broadcast live | v+adv | 現場直播
+c_bother-to-do-sth | bother to do sth | v+prep | 費心做某事
+c_bother-about-sth | bother about sth | v+prep | 為某事煩惱
+c_associate-with-sb | associate with sb | v+prep | 與某人交往
+c_live-abroad | live abroad | v+adv | 住在國外
+c_vital-role | vital role | adj+n | 至關重要的作用
+c_vital-importance | vital importance | adj+n | 至關重要
+c_vital-organ | vital organ | adj+n | 重要器官
+c_valid-reason | valid reason | adj+n | 正當理由
+c_valid-passport | valid passport | adj+n | 有效護照
+c_valid-point | valid point | adj+n | 有道理的觀點
+c_valid-for-sth | valid for sth | adj+prep | 對…有效
+c_suitable-candidate | suitable candidate | adj+n | 合適的人選
+c_suitable-for-sth | suitable for sth | adj+prep | 適合某事
+c_spin-a-web | spin a web | v+n | 織網
+c_local-resident | local resident | adj+n | 當地居民
+c_strict-regulation | strict regulation | adj+n | 嚴格監管
+c_comply-with-regulations | comply with regulations | v+prep | 遵守規定
+c_rapid-progress | rapid progress | adj+n | 迅速進步
+c_take-possession-of-sth | take possession of sth | v+prep | 佔有, 獲得
+c_gain-possession-of-sth | gain possession of sth | v+prep | 獲得, 取得
+c_quicken-the-pace | quicken the pace | v+n | 加快步伐
+c_pace-of-change | pace of change | n+n | 變化的速度
+c_mark-the-occasion | mark the occasion | v+n | 紀念這一時刻
+c_special-occasion | special occasion | adj+n | 特殊場合
+c_formal-occasion | formal occasion | adj+n | 正式場合
+c_increasingly-difficult | increasingly difficult | adv+adj | 越來越難
+c_increasingly-popular | increasingly popular | adv+adj | 越來越受歡迎
+c_cut-the-grass | cut the grass | v+n | 割草
+c_carry-out-an-experiment | carry out an experiment | v+n | 進行實驗
+c_improve-efficiency | improve efficiency | v+n | 提高效率
+c_increase-efficiency | increase efficiency | v+n | 提高效率
+c_get-defensive | get defensive | v+prep | 變得戒備
+c_defensive-about-sth | defensive about sth | adj+prep | 對某事有戒心
+c_connect-to-sth | connect to sth | v+prep | 連線到
+c_connect-with-sb | connect with sb | v+prep | 與某人溝通
+c_commonly-used | commonly used | adv+adj | 常用的
+c_commonly-known-as | commonly known as | adv+adj | 通常被稱為
+c_belong-to-sb | belong to sb | v+prep | 屬於某人
+c_arrive-at-sth | arrive at sth | v+prep | 到達, 得出
+c_arrive-in-sth | arrive in sth | v+prep | 抵達
+c_propose-an-amendment | propose an amendment | v+n | 提出修正案
+c_pass-an-amendment | pass an amendment | v+n | 透過修正案
+c_draw-a-sword | draw a sword | v+n | 拔劍
+c_fight-for-survival | fight for survival | v+prep | 為生存而鬥爭
+c_brief-summary | brief summary | adj+n | 簡要概述
+c_break-the-spell | break the spell | v+n | 破除魔咒
+c_settle-a-dispute | settle a dispute | v+n | 解決爭端
+c_settle-a-matter | settle a matter | v+n | 解決問題
+c_plant-a-seed | plant a seed | v+n | 播種
+c_sow-a-seed | sow a seed | v+n | 播種
+c_routine-check | routine check | adj+n | 例行檢查
+c_follow-a-routine | follow a routine | v+n | 按常規行事, 遵循日常安排
+c_reverse-a-decision | reverse a decision | v+n | 撤銷決定
+c_reverse-the-trend | reverse the trend | v+n | 扭轉趨勢
+c_resort-to-sth | resort to sth | v+prep | 訴諸
+c_gently-remind-sb | gently remind sb | adv+v | 溫和提醒
+c_bitterly-regret | bitterly regret | adv+v | 深感後悔
+c_express-regret | express regret | v+n | 表示遺憾
+c_monitor-progress | monitor progress | v+n | 監控進展
+c_monitor-closely | monitor closely | v+adv | 密切監視
+c_keep-a-log | keep a log | v+n | 記日誌
+c_leave-a-legacy | leave a legacy | v+n | 留下遺產
+c_introduce-sb-to-sb | introduce sb to sb | v+prep | 把某人介紹給某人
+c_introduce-a-bill | introduce a bill | v+n | 提出法案
+c_genuine-interest | genuine interest | adj+n | 真正的興趣
+c_genuine-concern | genuine concern | adj+n | 真切的關心
+c_genuine-mistake | genuine mistake | adj+n | 無心之過
+c_attend-a-funeral | attend a funeral | v+n | 參加葬禮
+c_commit-fraud | commit fraud | v+n | 欺詐
+c_tax-fraud | tax fraud | n+n | 稅務欺詐
+c_hold-an-exhibition | hold an exhibition | v+n | 舉辦展覽
+c_common-currency | common currency | adj+n | 通用貨幣
+c_organic-agriculture | organic agriculture | adj+n | 有機農業
+c_threatened-species | threatened species | adj+n | 受威脅物種
+c_earn-a-salary | earn a salary | v+n | 領薪水
+c_annual-salary | annual salary | adj+n | 年薪
+c_basic-salary | basic salary | adj+n | 基本工資
+c_roughly-equal | roughly equal | adv+adj | 大致相等
+c_permanent-residence | permanent residence | adj+n | 永久居住地
+c_take-up-residence | take up residence | v+prep | 定居
+c_regard-sb-as-sth | regard sb as sth | v+prep | 把某人看作
+c_highly-regarded | highly regarded | adv+adj | 備受推崇
+c_invade-sb-s-privacy | invade sb's privacy | v+n | 侵犯隱私
+c_right-to-privacy | right to privacy | n+prep | 隱私權
+c_achieve-an-objective | achieve an objective | v+n | 實現目標
+c_sound-logic | sound logic | adj+n | 合理的邏輯
+c_squeeze-juice | squeeze juice | v+n | 榨汁
+c_covered-in-glory | covered in glory | adj+prep | 榮耀加身
+c_high-frequency | high frequency | adj+n | 高頻率
+c_seal-sb-s-fate | seal sb's fate | v+n | 決定某人的命運
+c_extraordinary-talent | extraordinary talent | adj+n | 非凡的才能
+c_extraordinary-circumstances | extraordinary circumstances | adj+n | 特殊情況
+c_engage-in-sth | engage in sth | v+prep | 從事
+c_engage-with-sb | engage with sb | v+prep | 與某人交流
+c_file-for-divorce | file for divorce | v+prep | 申請離婚
+c_get-a-divorce | get a divorce | v+n | 離婚
+c_mass-destruction | mass destruction | adj+n | 大規模毀滅
+c_give-consent | give consent | v+n | 表示同意
+c_comprehensive-review | comprehensive review | adj+n | 全面審查
+c_coat-of-paint | coat of paint | n+n | 一層油漆
+c_sense-of-achievement | sense of achievement | n+n | 成就感
+c_shed-tears | shed tears | v+n | 流淚
+c_stretch-of-road | stretch of road | n+n | 一段路
+c_sequence-of-events | sequence of events | n+n | 一系列事件
+c_rob-a-bank | rob a bank | v+n | 搶銀行
+c_conduct-a-poll | conduct a poll | v+n | 進行民調
+c_positive-outcome | positive outcome | adj+n | 積極結果
+c_likely-outcome | likely outcome | adj+n | 可能的結果
+c_live-in-luxury | live in luxury | v+prep | 過奢華生活
+c_valuable-input | valuable input | adj+n | 寶貴意見
+c_clearly-indicate | clearly indicate | adv+v | 清楚表明
+c_lasting-impression | lasting impression | adj+n | 持久印象
+c_grateful-to-sb | grateful to sb | adj+prep | 感激某人
+c_grateful-for-sth | grateful for sth | adj+prep | 感謝某事
+c_absolutely-gorgeous | absolutely gorgeous | adv+adj | 美極了
+c_expand-rapidly | expand rapidly | v+adv | 迅速擴張
+c_expand-on-sth | expand on sth | v+prep | 詳述
+c_notable-exception | notable exception | adj+n | 明顯的例外
+c_dozens-of-sth | dozens of sth | n+n | 幾十個
+c_offer-a-discount | offer a discount | v+n | 提供折扣
+c_give-a-discount | give a discount | v+n | 給折扣
+c_widespread-corruption | widespread corruption | adj+n | 普遍腐敗
+c_fight-corruption | fight corruption | v+n | 打擊腐敗
+c_reduce-consumption | reduce consumption | v+n | 減少消耗
+c_upcoming-election | upcoming election | adj+n | 即將到來的選舉
+c_sum-of-money | sum of money | n+n | 一筆錢
+c_substantial-sum | substantial sum | adj+n | 一大筆錢
+c_avid-reader | avid reader | adj+n | 狂熱讀者
+c_rapidly-growing | rapidly growing | adv+adj | 迅速增長
+c_rapidly-changing | rapidly changing | adv+adj | 瞬息萬變
+c_rally-support | rally support | v+n | 爭取支援
+c_severe-punishment | severe punishment | adj+n | 嚴厲懲罰
+c_moral-principle | moral principle | adj+n | 道德原則
+c_personal-liberty | personal liberty | adj+n | 個人自由
+c_instant-success | instant success | adj+n | 一舉成功, 一炮而紅
+c_deeply-impressed | deeply impressed | adv+adj | 印象深刻
+c_favourably-impressed | favourably impressed | adv+adj | 留下好印象
+c_impressed-by-sth | impressed by sth | adj+prep | 對某事印象深刻
+c_pair-of-glasses | pair of glasses | n+n | 一副眼鏡
+c_genetic-disorder | genetic disorder | adj+n | 遺傳病
+c_rise-to-fame | rise to fame | v+prep | 成名
+c_extend-a-deadline | extend a deadline | v+n | 延長期限
+c_extend-an-invitation | extend an invitation | v+n | 發出邀請
+c_extend-to-sth | extend to sth | v+prep | 延伸到
+c_ease-the-pain | ease the pain | v+n | 減輕痛苦
+c_ease-tension | ease tension | v+n | 緩和緊張
+c_categorically-deny | categorically deny | adv+v | 斷然否認
+c_deny-an-allegation | deny an allegation | v+n | 否認指控
+c_deny-a-request | deny a request | v+n | 拒絕請求
+c_absolutely-delicious | absolutely delicious | adv+adj | 非常美味
+c_make-a-contribution | make a contribution | v+n | 做出貢獻
+c_valuable-contribution | valuable contribution | adj+n | 寶貴貢獻
+c_contribute-to-sth | contribute to sth | v+prep | 促成, 有助於
+c_contribute-significantly | contribute significantly | v+adv | 貢獻很大
+c_set-a-trap | set a trap | v+n | 設陷阱
+c_fall-into-a-trap | fall into a trap | v+prep | 落入圈套
+c_substantial-amount | substantial amount | adj+n | 大量
+c_substantial-increase | substantial increase | adj+n | 大幅增長
+c_substantial-evidence | substantial evidence | adj+n | 有力證據
+c_shake-with-fear | shake with fear | v+prep | 嚇得發抖
+c_launch-a-satellite | launch a satellite | v+n | 發射衛星
+c_reap-the-reward | reap the reward | v+n | 獲得回報
+c_offer-a-reward | offer a reward | v+n | 懸賞
+c_financial-reward | financial reward | adj+n | 經濟回報
+c_residential-area | residential area | adj+n | 住宅區
+c_radical-change | radical change | adj+n | 徹底變革
+c_radical-reform | radical reform | adj+n | 激進改革
+c_prominent-figure | prominent figure | adj+n | 傑出人物
+c_prominent-role | prominent role | adj+n | 重要角色
+c_pretend-to-do-sth | pretend to do sth | v+prep | 假裝做某事
+c_pay-a-premium | pay a premium | v+n | 支付溢價, 多付錢
+c_unwanted-pregnancy | unwanted pregnancy | adj+n | 意外懷孕
+c_precious-time | precious time | adj+n | 寶貴時間
+c_active-participation | active participation | adj+n | 積極參與
+c_mechanical-failure | mechanical failure | adj+n | 機械故障
+c_good-intention | good intention | adj+n | 善意
+c_have-no-intention-of | have no intention of | v+prep | 無意做, 不打算
+c_catch-an-infection | catch an infection | v+n | 感染
+c_give-guidance | give guidance | v+n | 提供指導
+c_seek-guidance | seek guidance | v+n | 尋求指導
+c_greatly-appreciate | greatly appreciate | adv+v | 十分感激
+c_greatly-reduced | greatly reduced | adv+adj | 大大減少
+c_greatly-improved | greatly improved | adv+adj | 大有改善
+c_sheer-genius | sheer genius | adj+n | 絕頂天才
+c_fundamental-change | fundamental change | adj+n | 根本變化
+c_fundamental-right | fundamental right | adj+n | 基本權利
+c_fundamental-difference | fundamental difference | adj+n | 根本差異
+c_foster-a-sense-of | foster a sense of | v+n | 培養…感
+c_have-difficulty-doing-sth | have difficulty doing sth | v+n | 做某事有困難
+c_face-difficulties | face difficulties | v+n | 面臨困難
+c_financial-difficulties | financial difficulties | adj+n | 經濟困難
+c_receive-compensation | receive compensation | v+n | 獲得賠償
+c_commit-oneself-to-sth | commit oneself to sth | v+prep | 致力於
+c_economic-boom | economic boom | adj+n | 經濟繁榮
+c_political-arena | political arena | adj+n | 政治舞臺
+c_alert-to-sth | alert to sth | adj+prep | 對…保持警覺
+c_seriously-wounded | seriously wounded | adv+adj | 身受重傷
+c_sufficient-evidence | sufficient evidence | adj+n | 充分的證據
+c_sufficient-to-do-sth | sufficient to do sth | adj+prep | 足以做某事
+c_deep-purple | deep purple | adj+n | 深紫色
+c_punch-sb-in-the-face | punch sb in the face | v+prep | 一拳打在臉上
+c_careful-preparation | careful preparation | adj+n | 精心準備
+c_preparation-for-sth | preparation for sth | n+prep | 為某事做準備
+c_ongoing-investigation | ongoing investigation | adj+n | 正在進行的調查
+c_occupied-with-sth | occupied with sth | adj+prep | 忙於
+c_manual-labour | manual labour | adj+n | 體力勞動
+c_invest-in-sth | invest in sth | v+prep | 投資於
+c_invest-heavily | invest heavily | v+adv | 大量投資
+c_constructive-feedback | constructive feedback | adj+n | 建設性反饋
+c_give-feedback | give feedback | v+n | 給出反饋
+c_desperate-attempt | desperate attempt | adj+n | 孤注一擲的嘗試
+c_desperate-need | desperate need | adj+n | 迫切需要
+c_desperate-for-sth | desperate for sth | adj+prep | 極想得到某物
+c_find-a-cure | find a cure | v+n | 找到療法
+c_cure-for-sth | cure for sth | n+prep | 治療某病的方法
+c_show-courage | show courage | v+n | 表現勇氣
+c_summon-up-courage | summon up courage | v+n | 鼓起勇氣
+c_key-component | key component | adj+n | 關鍵組成部分
+c_make-a-complaint | make a complaint | v+n | 投訴
+c_complaint-about-sth | complaint about sth | n+prep | 對某事的投訴
+c_bang-on-the-door | bang on the door | v+prep | 砰砰敲門
+c_apparent-reason | apparent reason | adj+n | 明顯的原因
+c_readily-apparent | readily apparent | adv+adj | 顯而易見
+c_aggressive-towards-sb | aggressive towards sb | adj+prep | 對某人有攻擊性
+c_sign-a-treaty | sign a treaty | v+n | 簽訂條約
+c_flush-the-toilet | flush the toilet | v+n | 沖廁所
+c_terminal-illness | terminal illness | adj+n | 絕症
+c_steady-stream | steady stream | adj+n | 源源不斷
+c_slave-to-sth | slave to sth | n+prep | 某事的奴隸
+c_fall-into-ruin | fall into ruin | v+prep | 荒廢
+c_financial-ruin | financial ruin | adj+n | 經濟崩潰
+c_launch-a-rocket | launch a rocket | v+n | 發射火箭
+c_close-relation | close relation | adj+n | 近親
+c_give-a-presentation | give a presentation | v+n | 做演講
+c_make-a-presentation | make a presentation | v+n | 做演示
+c_high-praise | high praise | adj+n | 高度讚揚
+c_praise-sb-for-sth | praise sb for sth | v+prep | 因某事稱讚某人
+c_play-the-piano | play the piano | v+n | 彈鋼琴
+c_packed-with-sth | packed with sth | adj+prep | 擠滿, 充滿
+c_wear-a-mask | wear a mask | v+n | 戴口罩
+c_investigate-thoroughly | investigate thoroughly | v+adv | 徹底調查
+c_full-implementation | full implementation | adj+n | 全面實施
+c_dig-a-grave | dig a grave | v+n | 挖墳
+c_grave-danger | grave danger | adj+n | 嚴重危險
+c_grave-concern | grave concern | adj+n | 深切擔憂
+c_raw-footage | raw footage | adj+n | 原始鏡頭
+c_explore-the-possibility | explore the possibility | v+n | 探討可能性
+c_explore-options | explore options | v+n | 探索各種選擇
+c_break-off-an-engagement | break off an engagement | v+prep | 解除婚約
+c_dynamic-personality | dynamic personality | adj+n | 有活力的個性
+c_make-a-documentary | make a documentary | v+n | 拍紀錄片
+c_mental-disorder | mental disorder | adj+n | 精神障礙
+c_discrimination-against-sb | discrimination against sb | n+prep | 對某人的歧視
+c_clearly-define | clearly define | adv+v | 明確界定
+c_dare-to-do-sth | dare to do sth | v+prep | 敢於做某事
+c_bite-one-s-nails | bite one's nails | v+n | 咬指甲
+c_make-an-announcement | make an announcement | v+n | 宣佈
+c_reach-the-summit | reach the summit | v+n | 登頂
+c_hold-a-summit | hold a summit | v+n | 舉行峰會
+c_shield-sb-from-sth | shield sb from sth | v+prep | 保護某人免受某事
+c_legally-separated | legally separated | adv+adj | 合法分居的
+c_break-a-seal | break a seal | v+n | 打破封條
+c_overthrow-a-regime | overthrow a regime | v+n | 推翻政權
+c_racial-tension | racial tension | adj+n | 種族緊張關係
+c_physically-impossible | physically impossible | adv+adj | 實際上不可能的
+c_file-a-petition | file a petition | v+n | 提出請願
+c_partly-responsible | partly responsible | adv+adj | 部分負責的
+c_deny-involvement | deny involvement | v+n | 否認牽連
+c_direct-involvement | direct involvement | adj+n | 直接參與
+c_invite-sb-to-sth | invite sb to sth | v+prep | 邀請某人參加某事
+c_intellectual-curiosity | intellectual curiosity | adj+n | 求知慾
+c_say-goodbye-to-sb | say goodbye to sb | v+prep | 向某人告別
+c_failing-health | failing health | adj+n | 日漸衰弱的健康
+c_failing-grade | failing grade | adj+n | 不及格
+c_enable-sb-to-do-sth | enable sb to do sth | v+prep | 使某人能夠做某事
+c_complete-darkness | complete darkness | adj+n | 一片漆黑
+c_plunge-into-darkness | plunge into darkness | v+prep | 陷入黑暗
+c_close-cooperation | close cooperation | adj+n | 密切合作
+c_cooperation-with-sb | cooperation with sb | n+prep | 與某人合作
+c_collective-responsibility | collective responsibility | adj+n | 集體責任
+c_bow-one-s-head | bow one's head | v+n | 低頭
+c_set-the-agenda | set the agenda | v+n | 確定議程
+c_have-an-affair | have an affair | v+n | 有婚外情
+c_worthy-of-sth | worthy of sth | adj+prep | 值得某事
+c_worthy-cause | worthy cause | adj+n | 有價值的事業
+c_worthy-opponent | worthy opponent | adj+n | 勢均力敵的對手
+c_perfect-timing | perfect timing | adj+n | 絕佳時機
+c_bad-timing | bad timing | adj+n | 時機不對
+c_tell-a-tale | tell a tale | v+n | 講故事
+c_succeed-in-doing-sth | succeed in doing sth | v+prep | 成功做成某事
+c_sole-responsibility | sole responsibility | adj+n | 唯一責任
+c_sole-purpose | sole purpose | adj+n | 唯一目的
+c_make-a-sacrifice | make a sacrifice | v+n | 做出犧牲
+c_remarkable-achievement | remarkable achievement | adj+n | 卓越成就
+c_remarkable-recovery | remarkable recovery | adj+n | 驚人的康復
+c_rely-on-sb | rely on sb | v+prep | 依賴某人
+c_heavily-rely-on-sth | heavily rely on sth | adv+v | 嚴重依賴某物
+c_recover-from-sth | recover from sth | v+prep | 從某事中恢復
+c_fully-recover | fully recover | adv+v | 完全康復
+c_recover-one-s-strength | recover one's strength | v+n | 恢復體力
+c_overseas-student | overseas student | adj+n | 留學生
+c_dim-lighting | dim lighting | adj+n | 昏暗的燈光
+c_sedentary-lifestyle | sedentary lifestyle | adj+n | 久坐不動的生活方式
+c_interaction-with-sb | interaction with sb | n+prep | 與某人互動
+c_highly-intelligent | highly intelligent | adv+adj | 非常聰明的
+c_piece-of-furniture | piece of furniture | n+n | 一件傢俱
+c_carry-out-an-execution | carry out an execution | v+n | 執行死刑
+c_conservative-estimate | conservative estimate | adj+n | 保守估計
+c_eligible-for-sth | eligible for sth | adj+prep | 有資格獲得某物
+c_well-educated | well educated | adv+adj | 受過良好教育的
+c_distinct-possibility | distinct possibility | adj+n | 很有可能
+c_distinct-from-sth | distinct from sth | adj+prep | 與某物不同
+c_physically-disabled | physically disabled | adv+adj | 身體殘疾的
+c_constructive-dialogue | constructive dialogue | adj+n | 建設性對話
+c_issue-a-certificate | issue a certificate | v+n | 頒發證書
+c_wild-celebration | wild celebration | adj+n | 狂歡
+c_awkward-silence | awkward silence | adj+n | 尷尬的沉默
+c_awkward-question | awkward question | adj+n | 令人為難的問題
+c_awkward-moment | awkward moment | adj+n | 尷尬時刻
+c_alien-to-sb | alien to sb | adj+prep | 與某人格格不入
+c_volunteer-for-sth | volunteer for sth | v+prep | 自願參加某事
+c_promote-tourism | promote tourism | v+n | 促進旅遊業
+c_tap-into-sth | tap into sth | v+prep | 利用某物
+c_hardly-surprising | hardly surprising | adv+adj | 不足為奇的
+c_submit-to-sth | submit to sth | v+prep | 屈服於某事
+c_satisfied-with-sth | satisfied with sth | adj+prep | 對某事滿意
+c_sweet-revenge | sweet revenge | adj+n | 大快人心的報復
+c_repeated-attempts | repeated attempts | adj+n | 多次嘗試
+c_repeated-warnings | repeated warnings | adj+n | 一再警告
+c_publicly-announce | publicly announce | adv+v | 公開宣佈
+c_publicly-available | publicly available | adv+adj | 公開可用的
+c_peaceful-protest | peaceful protest | adj+n | 和平抗議
+c_peaceful-coexistence | peaceful coexistence | adj+n | 和平共處
+c_long-odds | long odds | adj+n | 極小的勝算
+c_emotionally-mature | emotionally mature | adv+adj | 心智成熟的
+c_sound-judgment | sound judgment | adj+n | 正確的判斷
+c_pass-judgment-on-sb | pass judgment on sb | v+prep | 對某人下判斷
+c_use-one-s-judgment | use one's judgment | v+n | 憑自己的判斷
+c_errors-of-judgment | errors of judgment | n+n | 判斷失誤
+c_involve-sb-in-sth | involve sb in sth | v+prep | 使某人參與某事
+c_intent-on-doing-sth | intent on doing sth | adj+prep | 一心想做某事
+c_widening-gulf | widening gulf | adj+n | 日益擴大的鴻溝
+c_experimental-stage | experimental stage | adj+n | 試驗階段
+c_dual-purpose | dual purpose | adj+n | 雙重用途
+c_dependent-on-sb | dependent on sb | adj+prep | 依賴某人
+c_financially-dependent | financially dependent | adv+adj | 經濟上依賴的
+c_dependent-children | dependent children | adj+n | 受撫養子女
+c_crucial-role | crucial role | adj+n | 關鍵作用
+c_crucial-factor | crucial factor | adj+n | 關鍵因素
+c_absolutely-crucial | absolutely crucial | adv+adj | 至關重要的
+c_give-consideration-to-sth | give consideration to sth | v+prep | 考慮某事
+c_take-sth-into-consideration | take sth into consideration | v+prep | 把某事考慮在內
+c_close-collaboration | close collaboration | adj+n | 密切合作
+c_collaboration-with-sb | collaboration with sb | n+prep | 與某人合作
+c_breathing-difficulties | breathing difficulties | adj+n | 呼吸困難
+c_heavy-breathing | heavy breathing | adj+n | 粗重的呼吸
+c_bloody-nose | bloody nose | adj+n | 流血的鼻子
+c_set-off-an-alarm | set off an alarm | v+n | 觸發警報
+c_pull-up-weeds | pull up weeds | v+n | 拔草
+c_stunning-view | stunning view | adj+n | 絕美的景色
+c_stunning-victory | stunning victory | adj+n | 驚人的勝利
+c_visually-stunning | visually stunning | adv+adj | 視覺上驚豔的
+c_suffer-a-stroke | suffer a stroke | v+n | 中風
+c_stroke-of-luck | stroke of luck | n+n | 運氣好, 意外的好運
+c_deeply-shocked | deeply shocked | adv+adj | 深感震驚的
+c_shocked-at-sth | shocked at sth | adj+prep | 對某事感到震驚
+c_quest-for-sth | quest for sth | n+prep | 對某物的追求
+c_passage-of-time | passage of time | n+n | 時間的流逝
+c_run-parallel-to-sth | run parallel to sth | v+prep | 與某物平行
+c_overcome-difficulties | overcome difficulties | v+n | 克服困難
+c_overcome-a-fear | overcome a fear | v+n | 克服恐懼
+c_moderate-exercise | moderate exercise | adj+n | 適度運動
+c_moderate-income | moderate income | adj+n | 中等收入
+c_absolutely-hilarious | absolutely hilarious | adv+adj | 極其搞笑的
+c_frequent-visitor | frequent visitor | adj+n | 常客
+c_bitter-dispute | bitter dispute | adj+n | 激烈的爭執
+c_dispute-over-sth | dispute over sth | n+prep | 關於某事的爭議
+c_lose-concentration | lose concentration | v+n | 分心, 注意力分散
+c_total-chaos | total chaos | adj+n | 一片混亂
+c_cause-chaos | cause chaos | v+n | 造成混亂
+c_physically-challenging | physically challenging | adv+adj | 體力上有挑戰的
+c_put-sth-up-for-auction | put sth up for auction | v+prep | 拍賣某物
+c_socially-acceptable | socially acceptable | adv+adj | 社會可接受的
+c_perfectly-acceptable | perfectly acceptable | adv+adj | 完全可以接受的
+c_virtually-nothing | virtually nothing | adv+adj | 幾乎沒有
+c_scream-in-terror | scream in terror | v+prep | 嚇得尖叫
+c_wide-spectrum | wide spectrum | adj+n | 廣泛的範圍
+c_political-spectrum | political spectrum | adj+n | 政治光譜
+c_scope-for-sth | scope for sth | n+prep | 某事的餘地
+c_beyond-the-scope-of-sth | beyond the scope of sth | v+prep | 超出某事的範圍
+c_realise-a-dream | realise a dream | v+n | 實現夢想
+c_fully-realise | fully realise | adv+v | 充分認識到
+c_pursue-a-goal | pursue a goal | v+n | 追求目標
+c_vigorously-pursue | vigorously pursue | adv+v | 大力推行
+c_take-offense-at-sth | take offense at sth | v+prep | 對某事生氣
+c_commit-an-offense | commit an offense | v+n | 犯罪
+c_mutual-benefit | mutual benefit | adj+n | 互惠互利
+c_surgical-intervention | surgical intervention | adj+n | 手術干預
+c_sit-an-examination | sit an examination | v+n | 參加考試
+c_close-examination | close examination | adj+n | 仔細檢查
+c_encounter-difficulties | encounter difficulties | v+n | 遇到困難
+c_chance-encounter | chance encounter | adj+n | 偶遇
+c_fully-convinced | fully convinced | adv+adj | 完全確信的
+c_spark-controversy | spark controversy | v+n | 引發爭議
+c_controversy-over-sth | controversy over sth | n+prep | 關於某事的爭議
+c_heated-controversy | heated controversy | adj+n | 激烈的爭論
+c_conspiracy-to-do-sth | conspiracy to do sth | n+prep | 密謀做某事
+c_classified-information | classified information | adj+n | 機密資訊
+c_breathe-deeply | breathe deeply | v+adv | 深呼吸
+c_bold-move | bold move | adj+n | 大膽的舉動
+c_bold-print | bold print | adj+n | 黑體字
+c_venue-for-sth | venue for sth | n+prep | 某活動的場地
+c_vary-from-sth-to-sth | vary from sth to sth | v+prep | 因…而異
+c_vary-widely | vary widely | v+adv | 差異很大
+c_vary-in-size | vary in size | v+prep | 大小不一
+c_trigger-a-reaction | trigger a reaction | v+n | 引發反應
+c_trigger-an-alarm | trigger an alarm | v+n | 觸發警報
+c_pay-tribute-to-sb | pay tribute to sb | v+prep | 向某人致敬
+c_glowing-tribute | glowing tribute | adj+n | 高度讚揚
+c_seek-shelter | seek shelter | v+n | 尋找庇護
+c_shelter-from-sth | shelter from sth | v+prep | 躲避某物
+c_rude-to-sb | rude to sb | adj+prep | 對某人無禮
+c_combat-racism | combat racism | v+n | 打擊種族主義
+c_institutional-racism | institutional racism | adj+n | 制度性種族主義
+c_recite-a-poem | recite a poem | v+n | 背誦詩歌
+c_lack-of-oxygen | lack of oxygen | n+n | 缺氧
+c_show-mercy | show mercy | v+n | 表示憐憫
+c_desperately-lonely | desperately lonely | adv+adj | 極度孤獨的
+c_loaded-gun | loaded gun | adj+n | 上了膛的槍
+c_launch-an-inquiry | launch an inquiry | v+n | 展開調查
+c_make-inquiries | make inquiries | v+n | 打聽
+c_social-gathering | social gathering | adj+n | 社交聚會
+c_forgive-sb-for-sth | forgive sb for sth | v+prep | 原諒某人某事
+c_conventional-medicine | conventional medicine | adj+n | 常規醫學, 西醫
+c_considerable-amount | considerable amount | adj+n | 相當大的數量
+c_considerable-difficulty | considerable difficulty | adj+n | 相當大的困難
+c_considerable-effort | considerable effort | adj+n | 相當大的努力
+c_make-arrangements | make arrangements | v+n | 作出安排
+c_inflict-a-wound | inflict a wound | v+n | 造成傷口
+c_open-wound | open wound | adj+n | 開放性傷口
+c_heal-a-wound | heal a wound | v+n | 癒合傷口
+c_issue-a-warrant | issue a warrant | v+n | 簽發逮捕令
+c_upgrade-to-sth | upgrade to sth | v+prep | 升級到某物
+c_dig-a-tunnel | dig a tunnel | v+n | 挖隧道
+c_toxic-chemicals | toxic chemicals | adj+n | 有毒化學品
+c_highly-toxic | highly toxic | adv+adj | 劇毒的
+c_fight-terrorism | fight terrorism | v+n | 打擊恐怖主義
+c_act-of-terrorism | act of terrorism | n+n | 恐怖行為
+c_industrial-spy | industrial spy | adj+n | 商業間諜
+c_spy-on-sb | spy on sb | v+prep | 監視某人
+c_sacred-ground | sacred ground | adj+n | 聖地
+c_sacred-duty | sacred duty | adj+n | 神聖職責
+c_relate-to-sth | relate to sth | v+prep | 與某事有關
+c_growing-popularity | growing popularity | adj+n | 日益流行
+c_enjoy-popularity | enjoy popularity | v+n | 受歡迎
+c_noble-cause | noble cause | adj+n | 崇高事業
+c_politically-neutral | politically neutral | adv+adj | 政治中立的
+c_lazy-afternoon | lazy afternoon | adj+n | 慵懶的午後
+c_jealous-of-sb | jealous of sb | adj+prep | 嫉妒某人
+c_fiercely-jealous | fiercely jealous | adv+adj | 極度嫉妒的
+c_isolated-from-sb | isolated from sb | adj+prep | 與某人隔絕
+c_isolated-case | isolated case | adj+n | 個別情況
+c_break-a-habit | break a habit | v+n | 改掉習慣
+c_kick-a-habit | kick a habit | v+n | 戒掉習慣
+c_get-into-the-habit-of-doing-sth | get into the habit of doing sth | v+prep | 養成做某事的習慣
+c_fully-functional | fully functional | adv+adj | 功能完備的
+c_exclusively-male | exclusively male | adv+adj | 全是男性的
+c_culturally-diverse | culturally diverse | adv+adj | 文化多元的
+c_reach-one-s-destination | reach one's destination | v+n | 到達目的地
+c_make-a-deposit | make a deposit | v+n | 存款
+c_pay-a-deposit | pay a deposit | v+n | 付定金
+c_infringe-copyright | infringe copyright | v+n | 侵犯版權
+c_consistently-deny-sth | consistently deny sth | adv+v | 一貫否認某事
+c_celebrated-author | celebrated author | adj+n | 著名作家
+c_celebrated-for-sth | celebrated for sth | adj+prep | 因某事聞名
+c_fire-a-bullet | fire a bullet | v+n | 開槍
+c_artificial-light | artificial light | adj+n | 人造光
+c_artificial-flavouring | artificial flavouring | adj+n | 人工香料
+c_high-degree-of-accuracy | high degree of accuracy | adj+n | 高度準確
+c_pinpoint-accuracy | pinpoint accuracy | adj+n | 精確無誤
+c_perform-an-abortion | perform an abortion | v+n | 做人工流產
+c_heavy-usage | heavy usage | adj+n | 大量使用
+c_common-usage | common usage | adj+n | 常見用法
+c_unexpected-guest | unexpected guest | adj+n | 不速之客
+c_make-a-suggestion | make a suggestion | v+n | 提建議
+c_illegal-substance | illegal substance | adj+n | 違禁物質
+c_strict-rules | strict rules | adj+n | 嚴格規定
+c_strict-discipline | strict discipline | adj+n | 嚴格紀律
+c_strict-parents | strict parents | adj+n | 嚴厲的父母
+c_poisonous-snake | poisonous snake | adj+n | 毒蛇
+c_shed-a-skin | shed a skin | v+n | 蛻皮
+c_regulatory-framework | regulatory framework | adj+n | 監管框架
+c_follow-a-recipe | follow a recipe | v+n | 照著食譜做
+c_hold-a-reception | hold a reception | v+n | 舉行招待會
+c_warm-reception | warm reception | adj+n | 熱烈歡迎
+c_take-a-photograph | take a photograph | v+n | 拍照
+c_a-legendary-figure | a legendary figure | adj+n | 傳奇人物
+c_a-full-scale-invasion | a full-scale invasion | adj+n | 全面入侵
+c_launch-an-invasion | launch an invasion | v+n | 發動入侵
+c_instantly-recognizable | instantly recognizable | adv+adj | 一眼就能認出
+c_graphic-detail | graphic detail | adj+n | 詳盡逼真的細節
+c_meet-the-expense | meet the expense | v+n | 支付費用
+c_a-dominant-position | a dominant position | adj+n | 主導地位
+c_maintain-discipline | maintain discipline | v+n | 維持紀律
+c_highly-controversial | highly controversial | adv+adj | 極具爭議
+c_complain-about-sth | complain about sth | v+prep | 抱怨某事
+c_complain-bitterly | complain bitterly | v+adv | 強烈抱怨
+c_form-a-coalition | form a coalition | v+n | 組成聯盟
+c_civilian-casualties | civilian casualties | adj+n | 平民傷亡
+c_casual-clothes | casual clothes | adj+n | 休閒服裝
+c_a-casual-remark | a casual remark | adj+n | 隨口說的話
+c_bear-the-burden | bear the burden | v+n | 承擔重擔
+c_a-heavy-burden | a heavy burden | adj+n | 沉重負擔
+c_financial-backing | financial backing | adj+n | 資金支援
+c_a-valuable-asset | a valuable asset | adj+n | 寶貴財富
+c_actively-involved | actively involved | adv+adj | 積極參與
+c_actively-encourage | actively encourage | adv+v | 積極鼓勵
+c_absolutely-useless | absolutely useless | adv+adj | 毫無用處
+c_national-unity | national unity | adj+n | 民族團結
+c_high-unemployment | high unemployment | adj+n | 高失業率
+c_a-twist-of-fate | a twist of fate | n+n | 命運的捉弄
+c_an-unexpected-twist | an unexpected twist | adj+n | 意想不到的轉折
+c_sue-sb-for-sth | sue sb for sth | v+prep | 因某事起訴某人
+c_a-slight-chance | a slight chance | adj+n | 微小的機會
+c_a-slight-difference | a slight difference | adj+n | 細微差別
+c_highly-productive | highly productive | adv+adj | 非常高效
+c_paint-a-portrait | paint a portrait | v+n | 畫肖像
+c_a-pleasant-surprise | a pleasant surprise | adj+n | 驚喜
+c_draw-a-pension | draw a pension | v+n | 領養老金
+c_a-nasty-surprise | a nasty surprise | adj+n | 不愉快的意外
+c_a-nasty-habit | a nasty habit | adj+n | 壞習慣
+c_a-nasty-accident | a nasty accident | adj+n | 嚴重事故
+c_a-flash-of-lightning | a flash of lightning | n+n | 一道閃電
+c_legitimate-concern | legitimate concern | adj+n | 合理的擔憂
+c_a-legitimate-claim | a legitimate claim | adj+n | 合法的主張
+c_a-vivid-imagination | a vivid imagination | adj+n | 豐富的想象力
+c_use-one-s-imagination | use one's imagination | v+n | 發揮想象力
+c_generate-income | generate income | v+n | 創造收入
+c_generate-interest | generate interest | v+n | 引起興趣
+c_generate-jobs | generate jobs | v+n | 創造就業
+c_a-high-fever | a high fever | adj+n | 高燒
+c_a-population-explosion | a population explosion | n+n | 人口激增
+c_competing-interests | competing interests | adj+n | 相互衝突的利益
+c_climb-steadily | climb steadily | v+adv | 穩步攀升
+c_bear-a-resemblance-to-sth | bear a resemblance to sth | v+prep | 與某物相似
+c_particularly-vulnerable | particularly vulnerable | adv+adj | 特別脆弱
+c_vulnerable-to-sth | vulnerable to sth | adj+prep | 易受某物影響
+c_a-radical-transformation | a radical transformation | adj+n | 徹底轉變
+c_undergo-a-transformation | undergo a transformation | v+n | 經歷轉變
+c_snap-one-s-fingers | snap one's fingers | v+n | 打響指
+c_abolish-slavery | abolish slavery | v+n | 廢除奴隸制
+c_skip-a-meal | skip a meal | v+n | 不吃一頓飯
+c_repeatedly-warn | repeatedly warn | adv+v | 多次警告
+c_fully-operational | fully operational | adv+adj | 全面投入執行
+c_legally-binding | legally binding | adv+adj | 具有法律約束力
+c_legally-required | legally required | adv+adj | 法律規定的
+c_virtually-identical | virtually identical | adv+adj | 幾乎完全相同
+c_highlight-the-importance-of-sth | highlight the importance of sth | v+n | 強調某事的重要性
+c_highlight-a-problem | highlight a problem | v+n | 凸顯問題
+c_the-gravity-of-the-situation | the gravity of the situation | n+n | 形勢的嚴重性
+c_put-up-a-fence | put up a fence | v+n | 搭圍欄
+c_carry-out-an-evaluation | carry out an evaluation | v+n | 進行評估
+c_a-thorough-evaluation | a thorough evaluation | adj+n | 全面評估
+c_continuous-improvement | continuous improvement | adj+n | 持續改進
+c_bitter-experience | bitter experience | adj+n | 痛苦的經歷
+c_make-a-backup | make a backup | v+n | 做備份
+c_a-strong-advocate-of-sth | a strong advocate of sth | adj+n | 某事的堅定擁護者
+c_advocate-a-policy | advocate a policy | v+n | 提倡一項政策
+c_a-striking-resemblance | a striking resemblance | adj+n | 驚人的相似
+c_solely-responsible | solely responsible | adv+adj | 全權負責
+c_resist-arrest | resist arrest | v+n | 拒捕
+c_resist-change | resist change | v+n | 抗拒變化
+c_a-rare-privilege | a rare privilege | adj+n | 難得的榮幸
+c_take-sb-prisoner | take sb prisoner | v+n | 俘虜某人
+c_have-patience | have patience | v+n | 有耐心
+c_a-bald-patch | a bald patch | adj+n | 禿斑
+c_mentally-ill | mentally ill | adv+adj | 精神有病
+c_fiercely-loyal | fiercely loyal | adv+adj | 忠心耿耿
+c_loyal-to-sb | loyal to sb | adj+prep | 忠於某人
+c_implement-a-plan | implement a plan | v+n | 實施計劃
+c_implement-a-policy | implement a policy | v+n | 執行政策
+c_implement-changes | implement changes | v+n | 實施變革
+c_generous-with-sth | generous with sth | adj+prep | 對某物慷慨
+c_a-lethal-dose | a lethal dose | adj+n | 致死劑量
+c_distinguished-career | distinguished career | adj+n | 傑出的事業
+c_a-distinguished-guest | a distinguished guest | adj+n | 貴賓
+c_make-a-diagnosis | make a diagnosis | v+n | 做出診斷
+c_depend-on-sth | depend on sth | v+prep | 依靠, 取決於
+c_depend-heavily-on-sth | depend heavily on sth | v+adv | 嚴重依賴某物
+c_clearly-demonstrate | clearly demonstrate | adv+v | 清楚表明
+c_communicate-with-sb | communicate with sb | v+prep | 與某人交流
+c_communicate-effectively | communicate effectively | v+adv | 有效溝通
+c_a-chronic-illness | a chronic illness | adj+n | 慢性病
+c_chronic-pain | chronic pain | adj+n | 慢性疼痛
+c_caring-for-sb | caring for sb | adj+prep | 關心某人
+c_fix-a-bug | fix a bug | v+n | 修復漏洞
+c_bored-with-sth | bored with sth | adj+prep | 對某事厭倦
+c_attract-investment | attract investment | v+n | 吸引投資
+c_be-attracted-to-sb | be attracted to sb | adj+prep | 被某人吸引
+c_widespread-belief | widespread belief | adj+n | 普遍的看法
+c_widespread-support | widespread support | adj+n | 廣泛的支援
+c_a-sign-of-weakness | a sign of weakness | n+n | 軟弱的表現
+c_a-weakness-for-sth | a weakness for sth | n+prep | 對某物無法抗拒
+c_an-uncomfortable-silence | an uncomfortable silence | adj+n | 令人尷尬的沉默
+c_a-threatening-letter | a threatening letter | adj+n | 恐嚇信
+c_threatening-behaviour | threatening behaviour | adj+n | 威脅性行為
+c_be-situated-in-sth | be situated in sth | adj+prep | 位於某地
+c_conveniently-situated | conveniently situated | adv+adj | 位置便利
+c_a-restricted-area | a restricted area | adj+n | 限制區域
+c_restricted-access | restricted access | adj+n | 限制進入
+c_their-respective-roles | their respective roles | adj+n | 各自的角色
+c_carry-out-a-raid | carry out a raid | v+n | 發動突襲
+c_qualify-for-sth | qualify for sth | v+prep | 有資格獲得某物
+c_qualify-as-sth | qualify as sth | v+prep | 取得某種資格
+c_well-preserved | well preserved | adv+adj | 儲存完好
+c_practically-impossible | practically impossible | adv+adj | 幾乎不可能
+c_practically-nothing | practically nothing | adv+adj | 幾乎沒有
+c_put-up-a-poster | put up a poster | v+n | 貼海報
+c_partially-blind | partially blind | adv+adj | 部分失明
+c_partially-responsible | partially responsible | adv+adj | 部分負責
+c_stay-overnight | stay overnight | v+adv | 過夜
+c_an-overnight-stay | an overnight stay | adj+n | 過夜
+c_a-living-nightmare | a living nightmare | adj+n | 活生生的噩夢
+c_a-nightmare-scenario | a nightmare scenario | n+n | 噩夢般的情形
+c_gain-insight | gain insight | v+n | 獲得深刻見解
+c_valuable-insight | valuable insight | adj+n | 寶貴的見解
+c_a-sense-of-humor | a sense of humor | n+n | 幽默感
+c_dry-humor | dry humor | adj+n | 冷幽默
+c_a-filling-meal | a filling meal | adj+n | 管飽的飯
+c_contain-one-s-excitement | contain one's excitement | v+n | 抑制興奮
+c_put-the-emphasis-on-sth | put the emphasis on sth | v+prep | 把重點放在某事上
+c_a-distant-relative | a distant relative | adj+n | 遠親
+c_in-the-distant-future | in the distant future | adj+n | 在遙遠的未來
+c_fulfil-one-s-destiny | fulfil one's destiny | v+n | 完成使命, 實現宿命
+c_control-one-s-destiny | control one's destiny | v+n | 掌控命運
+c_pass-through-customs | pass through customs | v+prep | 透過海關
+c_cause-confusion | cause confusion | v+n | 造成混亂
+c_total-confusion | total confusion | adj+n | 一片混亂
+c_conduct-a-census | conduct a census | v+n | 進行人口普查
+c_buy-in-bulk | buy in bulk | v+prep | 批次購買
+c_adopt-a-child | adopt a child | v+n | 收養孩子
+c_adopt-a-resolution | adopt a resolution | v+n | 透過決議
+c_recite-a-verse | recite a verse | v+n | 朗誦詩句
+c_a-suite-of-rooms | a suite of rooms | n+n | 一套房間
+c_structural-damage | structural damage | adj+n | 結構性損壞
+c_great-significance | great significance | adj+n | 重大意義
+c_sadly-missed | sadly missed | adv+adj | 令人懷念的
+c_sadly-mistaken | sadly mistaken | adv+adj | 大錯特錯
+c_a-bitter-rival | a bitter rival | adj+n | 死對頭
+c_restore-order | restore order | v+n | 恢復秩序
+c_restore-confidence | restore confidence | v+n | 恢復信心
+c_proceed-with-sth | proceed with sth | v+prep | 繼續進行某事
+c_proceed-to-sth | proceed to sth | v+prep | 接著做某事
+c_public-perception | public perception | adj+n | 公眾看法
+c_apply-for-a-patent | apply for a patent | v+n | 申請專利
+c_hold-a-patent | hold a patent | v+n | 擁有專利
+c_sit-on-sb-s-lap | sit on sb's lap | v+prep | 坐在某人腿上
+c_positive-identification | positive identification | adj+n | 明確的身份認定
+c_a-grain-of-sand | a grain of sand | n+n | 一粒沙
+c_examine-closely | examine closely | v+adv | 仔細檢查
+c_an-endless-supply | an endless supply | adj+n | 無窮無盡的供應
+c_an-endless-stream-of-sth | an endless stream of sth | adj+n | 源源不斷的某物
+c_devoted-to-sb | devoted to sb | adj+prep | 對某人一心一意
+c_a-devoted-fan | a devoted fan | adj+n | 忠實的粉絲
+c_the-third-consecutive-year | the third consecutive year | adj+n | 連續第三年
+c_fully-conscious | fully conscious | adv+adj | 完全清醒
+c_conscious-of-sth | conscious of sth | adj+prep | 意識到某事
+c_completely-collapse | completely collapse | adv+v | 徹底崩潰
+c_a-vital-clue | a vital clue | adj+n | 關鍵線索
+c_a-fitted-carpet | a fitted carpet | adj+n | 滿鋪地毯
+c_cancel-a-subscription | cancel a subscription | v+n | 取消訂閱
+c_political-bias | political bias | adj+n | 政治偏見
+c_bias-against-sb | bias against sb | v+prep | 對某人的偏見
+c_a-finished-basement | a finished basement | adj+n | 裝修好的地下室
+c_bare-feet | bare feet | adj+n | 赤腳
+c_a-bare-minimum | a bare minimum | adj+n | 最低限度
+c_a-balanced-view | a balanced view | adj+n | 持平的看法
+c_hand-in-an-assignment | hand in an assignment | v+n | 交作業
+c_an-advisory-body | an advisory body | adj+n | 諮詢機構
+c_acknowledge-a-mistake | acknowledge a mistake | v+n | 承認錯誤
+c_acknowledge-receipt-of-sth | acknowledge receipt of sth | v+n | 確認收到某物
+c_freely-acknowledge | freely acknowledge | adv+v | 坦率承認
+c_accessible-to-sb | accessible to sb | adj+prep | 可供某人使用, 易於某人理解
+c_grossly-unfair | grossly unfair | adv+adj | 極不公平
+c_unfair-to-sb | unfair to sb | adj+prep | 對某人不公平
+c_an-unfair-advantage | an unfair advantage | adj+n | 不公平的優勢
+c_the-underlying-cause | the underlying cause | adj+n | 根本原因
+c_an-underlying-problem | an underlying problem | adj+n | 潛在問題
+c_post-a-tweet | post a tweet | v+n | 發推文
+c_win-a-trophy | win a trophy | v+n | 奪得獎盃
+c_buried-treasure | buried treasure | adj+n | 埋藏的寶藏
+c_a-national-treasure | a national treasure | adj+n | 國寶
+c_give-testimony | give testimony | v+n | 作證
+c_substitute-for-sth | substitute for sth | v+prep | 代替某物
+c_a-substitute-for-sth | a substitute for sth | n+prep | 某物的替代品
+c_a-poor-substitute | a poor substitute | adj+n | 差勁的替代品
+c_shine-brightly | shine brightly | v+adv | 明亮地照耀
+c_cause-a-scandal | cause a scandal | v+n | 引發醜聞
+c_a-corruption-scandal | a corruption scandal | n+n | 腐敗醜聞
+c_resolve-a-dispute | resolve a dispute | v+n | 解決爭端
+c_resolve-an-issue | resolve an issue | v+n | 解決問題
+c_a-reflection-of-sth | a reflection of sth | n+n | 對某事物的反映
+c_a-pale-reflection | a pale reflection | adj+n | 拙劣的翻版
+c_a-propaganda-campaign | a propaganda campaign | n+n | 宣傳攻勢
+c_spread-propaganda | spread propaganda | v+n | 散佈宣傳
+c_partial-success | partial success | adj+n | 部分成功
+c_be-partial-to-sth | be partial to sth | adj+prep | 偏愛某物
+c_reject-the-notion | reject the notion | v+n | 否定這種觀念
+c_a-vague-notion | a vague notion | adj+n | 模糊的概念
+c_a-mysterious-disappearance | a mysterious disappearance | adj+n | 神秘失蹤
+c_a-magnetic-personality | a magnetic personality | adj+n | 有魅力的個性
+c_fierce-loyalty | fierce loyalty | adj+n | 極度忠誠
+c_pledge-loyalty | pledge loyalty | v+n | 宣誓效忠
+c_loyalty-to-sb | loyalty to sb | n+prep | 對某人的忠誠
+c_sign-a-lease | sign a lease | v+n | 籤租約
+c_renew-a-lease | renew a lease | v+n | 續租
+c_a-gentle-breeze | a gentle breeze | adj+n | 微風
+c_a-gentle-reminder | a gentle reminder | adj+n | 溫和的提醒
+c_develop-diabetes | develop diabetes | v+n | 患上糖尿病
+c_decrease-sharply | decrease sharply | v+adv | 急劇下降
+c_a-decrease-in-sth | a decrease in sth | n+prep | 某方面的減少
+c_crush-a-rebellion | crush a rebellion | v+n | 鎮壓叛亂
+c_contrary-to-sth | contrary to sth | adj+prep | 與某事相反
+c_ensure-compliance | ensure compliance | v+n | 確保合規
+c_colonial-rule | colonial rule | adj+n | 殖民統治
+c_a-beloved-son | a beloved son | adj+n | 心愛的兒子
+c_attendance-at-sth | attendance at sth | n+prep | 出席某活動
+c_regular-attendance | regular attendance | adj+n | 經常出席
+c_an-anonymous-donor | an anonymous donor | adj+n | 匿名捐贈者
+c_an-anonymous-tip | an anonymous tip | adj+n | 匿名舉報
+c_widespread-adoption | widespread adoption | adj+n | 廣泛採用
+c_yield-results | yield results | v+n | 產生結果
+c_yield-to-sth | yield to sth | v+prep | 屈服於某事物
+c_a-vocal-minority | a vocal minority | adj+n | 敢於發聲的少數人
+c_a-vocal-critic | a vocal critic | adj+n | 直言不諱的批評者
+c_bright-sunshine | bright sunshine | adj+n | 明媚陽光
+c_strictly-forbidden | strictly forbidden | adv+adj | 嚴禁的
+c_strictly-confidential | strictly confidential | adv+adj | 絕對保密的
+c_a-sporting-event | a sporting event | adj+n | 體育賽事
+c_painfully-shy | painfully shy | adv+adj | 極為害羞
+c_provide-shade | provide shade | v+n | 提供陰涼
+c_a-shade-of-sth | a shade of sth | n+n | 某種顏色的深淺
+c_deep-satisfaction | deep satisfaction | adj+n | 深深的滿足
+c_a-rocky-road | a rocky road | adj+n | 崎嶇的路
+c_retain-control | retain control | v+n | 保持控制
+c_retain-information | retain information | v+n | 記住資訊
+c_a-realistic-goal | a realistic goal | adj+n | 現實的目標
+c_realistic-expectations | realistic expectations | adj+n | 現實的期望
+c_react-to-sth | react to sth | v+prep | 對某事作出反應
+c_react-strongly | react strongly | v+adv | 強烈反應
+c_preliminary-results | preliminary results | adj+n | 初步結果
+c_a-preliminary-investigation | a preliminary investigation | adj+n | 初步調查
+c_a-career-politician | a career politician | n+n | 職業政客
+c_a-tropical-paradise | a tropical paradise | adj+n | 熱帶天堂
+c_a-military-parade | a military parade | adj+n | 閱兵
+c_marvel-at-sth | marvel at sth | v+prep | 對某事驚歎
+c_a-marvel-of-engineering | a marvel of engineering | n+n | 工程奇蹟
+c_run-a-marathon | run a marathon | v+n | 跑馬拉松
+c_accept-liability | accept liability | v+n | 承擔責任
+c_liability-for-sth | liability for sth | n+prep | 對某事的責任
+c_infinite-patience | infinite patience | adj+n | 無限的耐心
+c_indigenous-people | indigenous people | adj+n | 原住民
+c_a-cultural-icon | a cultural icon | adj+n | 文化偶像
+c_a-perfect-gentleman | a perfect gentleman | adj+n | 十足的紳士
+c_exhibit-symptoms | exhibit symptoms | v+n | 表現出症狀
+c_embrace-change | embrace change | v+n | 擁抱變化
+c_embrace-warmly | embrace warmly | v+adv | 熱情擁抱
+c_sheer-determination | sheer determination | adj+n | 憑著堅定的決心
+c_determination-to-do-sth | determination to do sth | n+prep | 做某事的決心
+c_a-deadly-weapon | a deadly weapon | adj+n | 致命武器
+c_deadly-serious | deadly serious | adv+adj | 極其嚴肅
+c_a-living-creature | a living creature | adj+n | 生物
+c_seek-counsel | seek counsel | v+n | 尋求建議
+c_blow-a-bubble | blow a bubble | v+n | 吹泡泡
+c_volcanic-ash | volcanic ash | adj+n | 火山灰
+c_apologize-to-sb | apologize to sb | v+prep | 向某人道歉
+c_apologize-for-sth | apologize for sth | v+prep | 為某事道歉
+c_apologize-profusely | apologize profusely | v+adv | 連連道歉
+c_grudging-acceptance | grudging acceptance | adj+n | 勉強的認可
+c_gain-acceptance | gain acceptance | v+n | 獲得認可
+c_hold-a-workshop | hold a workshop | v+n | 舉辦研討會
+c_a-violation-of-sth | a violation of sth | n+n | 對某事的違反
+c_commit-a-violation | commit a violation | v+n | 違規
+c_an-urgent-need | an urgent need | adj+n | 迫切需要
+c_urgent-attention | urgent attention | adj+n | 緊急處理
+c_tackle-a-problem | tackle a problem | v+n | 處理問題
+c_a-swift-response | a swift response | adj+n | 迅速反應
+c_put-a-strain-on-sth | put a strain on sth | v+n | 給某事造成壓力
+c_win-a-scholarship | win a scholarship | v+n | 獲得獎學金
+c_award-a-scholarship | award a scholarship | v+n | 頒發獎學金
+c_a-full-scholarship | a full scholarship | adj+n | 全額獎學金
+c_follow-protocol | follow protocol | v+n | 遵守規程
+c_boost-productivity | boost productivity | v+n | 提高生產率
+c_take-medication | take medication | v+n | 服藥
+c_prescribe-medication | prescribe medication | v+n | 開藥
+c_medication-for-sth | medication for sth | n+prep | 治療某病的藥物
+c_inform-sb-of-sth | inform sb of sth | v+prep | 通知某人某事
+c_a-well-informed-decision | a well-informed decision | adj+n | 知情決定, 有根據的決定
+c_deeply-embarrassing | deeply embarrassing | adv+adj | 極其尷尬
+c_an-embarrassing-situation | an embarrassing situation | adj+n | 尷尬處境
+c_eliminate-the-possibility | eliminate the possibility | v+n | 排除可能性
+c_eliminate-poverty | eliminate poverty | v+n | 消除貧困
+c_eliminate-waste | eliminate waste | v+n | 杜絕浪費
+c_a-massive-earthquake | a massive earthquake | adj+n | 大地震
+c_an-earthquake-strikes | an earthquake strikes | n+v | 地震發生
+c_a-failed-crop | a failed crop | adj+n | 歉收
+c_a-convenient-location | a convenient location | adj+n | 便利的位置
+c_a-convenient-time | a convenient time | adj+n | 方便的時間
+c_reach-a-compromise | reach a compromise | v+n | 達成妥協
+c_make-a-compromise | make a compromise | v+n | 作出妥協
+c_compromise-on-sth | compromise on sth | v+prep | 在某事上讓步
+c_a-compromise-solution | a compromise solution | n+n | 折中方案
+c_herd-cattle | herd cattle | v+n | 放牛
+c_burst-open | burst open | v+adv | 猛然開啟
+c_a-language-barrier | a language barrier | n+n | 語言障礙
+c_break-down-barriers | break down barriers | v+n | 打破障礙
+c_a-barrier-to-sth | a barrier to sth | n+prep | 某事的障礙
+c_crispy-bacon | crispy bacon | adj+n | 脆培根
+c_gain-admission | gain admission | v+n | 獲准進入, 獲准入學
+c_admission-to-sth | admission to sth | n+prep | 獲准加入某處
+c_free-admission | free admission | adj+n | 免費入場
+c_an-accomplished-musician | an accomplished musician | adj+n | 技藝精湛的音樂家
+c_suffer-trauma | suffer trauma | v+n | 遭受創傷
+c_emotional-trauma | emotional trauma | adj+n | 情感創傷
+c_a-tragedy-strikes | a tragedy strikes | n+v | 悲劇發生
+c_a-national-tragedy | a national tragedy | adj+n | 國家悲劇
+c_a-clap-of-thunder | a clap of thunder | n+n | 一聲雷鳴
+c_thunder-rumbles | thunder rumbles | n+v | 雷聲隆隆
+c_get-a-tattoo | get a tattoo | v+n | 紋身
+c_break-into-a-sweat | break into a sweat | v+prep | 出汗
+c_scream-in-pain | scream in pain | v+prep | 痛得尖叫
+c_scream-with-delight | scream with delight | v+prep | 高興得尖叫
+c_scream-at-sb | scream at sb | v+prep | 對某人尖叫
+c_make-provision-for-sth | make provision for sth | v+n | 為某事作準備
+c_a-legal-provision | a legal provision | adj+n | 法律條款
+c_provision-of-sth | provision of sth | n+n | 提供某物
+c_a-pile-of-sth | a pile of sth | n+n | 一堆某物
+c_a-string-of-pearls | a string of pearls | n+n | 一串珍珠
+c_donate-an-organ | donate an organ | v+n | 捐獻器官
+c_an-organ-transplant | an organ transplant | n+n | 器官移植
+c_launch-a-missile | launch a missile | v+n | 發射導彈
+c_mass-migration | mass migration | adj+n | 大規模遷移
+c_a-meaningful-relationship | a meaningful relationship | adj+n | 有意義的關係
+c_a-logical-conclusion | a logical conclusion | adj+n | 合乎邏輯的結論
+c_a-logical-explanation | a logical explanation | adj+n | 合理的解釋
+c_give-a-lecture | give a lecture | v+n | 作講座
+c_attend-a-lecture | attend a lecture | v+n | 聽講座
+c_a-lecture-on-sth | a lecture on sth | n+prep | 關於某事的講座
+c_lean-on-sth | lean on sth | v+prep | 倚靠某物
+c_justify-a-decision | justify a decision | v+n | 為決定辯護
+c_justify-the-cost | justify the cost | v+n | 證明成本合理
+c_accept-an-invitation | accept an invitation | v+n | 接受邀請
+c_an-open-invitation | an open invitation | adj+n | 隨時有效的邀請
+c_give-instructions | give instructions | v+n | 給出指示
+c_detailed-instructions | detailed instructions | adj+n | 詳細說明
+c_a-thorough-inspection | a thorough inspection | adj+n | 徹底檢查
+c_carry-out-an-inspection | carry out an inspection | v+n | 進行檢查
+c_a-safety-inspection | a safety inspection | n+n | 安全檢查
+c_rising-inflation | rising inflation | adj+n | 通脹加劇
+c_curb-inflation | curb inflation | v+n | 抑制通脹
+c_immune-to-sth | immune to sth | v+prep | 對某事免疫
+c_hurry-to-do-sth | hurry to do sth | v+prep | 趕緊做某事
+c_blow-a-horn | blow a horn | v+n | 吹號
+c_sound-the-horn | sound the horn | v+n | 按喇叭
+c_a-harsh-winter | a harsh winter | adj+n | 嚴冬
+c_harsh-conditions | harsh conditions | adj+n | 惡劣條件
+c_a-harsh-sentence | a harsh sentence | adj+n | 嚴厲判決
+c_a-maternal-grandmother | a maternal grandmother | adj+n | 外婆
+c_an-encouraging-sign | an encouraging sign | adj+n | 令人鼓舞的跡象
+c_encouraging-news | encouraging news | adj+n | 令人鼓舞的訊息
+c_the-duration-of-sth | the duration of sth | n+n | 某事的持續時間
+c_clinically-depressed | clinically depressed | adv+adj | 臨床抑鬱
+c_a-curve-in-the-road | a curve in the road | n+n | 道路彎道
+c_a-sharp-curve | a sharp curve | adj+n | 急轉彎
+c_a-corrupt-official | a corrupt official | adj+n | 腐敗官員
+c_corrupt-practices | corrupt practices | adj+n | 腐敗行為
+c_a-criminal-conviction | a criminal conviction | adj+n | 刑事定罪
+c_a-firm-conviction | a firm conviction | adj+n | 堅定的信念
+c_a-conviction-for-sth | a conviction for sth | n+prep | 因某罪被定罪
+c_a-blank-look | a blank look | adj+n | 茫然的表情
+c_a-binding-agreement | a binding agreement | adj+n | 有約束力的協議
+c_a-beam-of-light | a beam of light | n+n | 一束光
+c_beam-with-pride | beam with pride | v+prep | 自豪得滿面笑容
+c_drug-addiction | drug addiction | n+n | 毒癮
+c_overcome-addiction | overcome addiction | v+n | 戒除成癮
+c_an-addiction-to-sth | an addiction to sth | n+prep | 對某物上癮
+c_a-strong-accent | a strong accent | adj+n | 濃重的口音
+c_speak-with-an-accent | speak with an accent | v+prep | 帶口音說話
+c_a-foreign-accent | a foreign accent | adj+n | 外國口音
+c_an-abstract-concept | an abstract concept | adj+n | 抽象概念
+c_apply-for-a-visa | apply for a visa | v+prep | 申請簽證
+c_a-valid-visa | a valid visa | adj+n | 有效簽證
+c_an-expired-visa | an expired visa | adj+n | 過期簽證
+c_commit-a-theft | commit a theft | v+n | 犯盜竊罪
+c_a-highly-skilled-worker | a highly skilled worker | adv+adj | 技術高超的工人
+c_a-skilled-labourer | a skilled labourer | adj+n | 熟練工人
+c_go-skiing | go skiing | v+n | 去滑雪
+c_sexually-transmitted | sexually transmitted | adv+adj | 透過性傳播的
+c_sexually-active | sexually active | adv+adj | 有性生活的
+c_a-trial-separation | a trial separation | adj+n | 試分居
+c_separation-from-sb | separation from sb | n+prep | 與某人分離
+c_a-rookie-mistake | a rookie mistake | n+n | 新手錯誤
+c_a-hasty-retreat | a hasty retreat | adj+n | 倉促撤退
+c_a-retreat-from-sth | a retreat from sth | n+prep | 從某事退縮
+c_a-protective-layer | a protective layer | adj+n | 保護層
+c_protective-of-sb | protective of sb | adj+prep | 護著某人
+c_a-bright-prospect | a bright prospect | adj+n | 光明前景
+c_the-prospect-of-sth | the prospect of sth | n+n | 某事的可能性
+c_a-job-prospect | a job prospect | n+n | 就業前景
+c_enter-a-profession | enter a profession | v+n | 進入某行業
+c_the-medical-profession | the medical profession | adj+n | 醫學界
+c_precise-details | precise details | adj+n | 精確細節
+c_a-natural-phenomenon | a natural phenomenon | adj+n | 自然現象
+c_a-global-phenomenon | a global phenomenon | adj+n | 全球現象
+c_owe-sb-money | owe sb money | v+n | 欠某人錢
+c_owe-sb-a-favour | owe sb a favour | v+n | 欠某人人情
+c_careful-observation | careful observation | adj+n | 仔細觀察
+c_an-observation-about-sth | an observation about sth | n+prep | 關於某事的評論
+c_a-miracle-cure | a miracle cure | n+n | 神奇療法
+c_work-a-miracle | work a miracle | v+n | 創造奇蹟
+c_a-miracle-of-sth | a miracle of sth | n+n | 某方面的奇蹟
+c_a-mere-coincidence | a mere coincidence | adj+n | 純屬巧合
+c_mandatory-retirement | mandatory retirement | adj+n | 強制退休
+c_mandatory-sentence | mandatory sentence | adj+n | 強制性刑罰
+c_a-lesser-evil | a lesser evil | adj+n | 較小的惡
+c_keen-on-sth | keen on sth | adj+prep | 熱衷於某事
+c_keen-interest | keen interest | adj+n | 濃厚興趣
+c_a-keen-sense-of-sth | a keen sense of sth | adj+n | 敏銳的感覺
+c_an-infected-wound | an infected wound | adj+n | 感染的傷口
+c_infected-with-sth | infected with sth | adj+prep | 感染某病
+c_an-iconic-image | an iconic image | adj+n | 標誌性形象
+c_a-safe-haven | a safe haven | adj+n | 避風港
+c_feel-guilt | feel guilt | v+n | 感到內疚
+c_overwhelming-guilt | overwhelming guilt | adj+n | 強烈的內疚
+c_guilt-about-sth | guilt about sth | n+prep | 對某事的內疚
+c_a-flexible-schedule | a flexible schedule | adj+n | 靈活的時間表
+c_flexible-working-hours | flexible working hours | adj+n | 彈性工作時間
+c_a-fitted-kitchen | a fitted kitchen | adj+n | 整體廚房
+c_an-engaging-personality | an engaging personality | adj+n | 有魅力的個性
+c_an-engaging-smile | an engaging smile | adj+n | 迷人的微笑
+c_a-demanding-job | a demanding job | adj+n | 要求高的工作
+c_physically-demanding | physically demanding | adv+adj | 體力要求高的
+c_a-demanding-boss | a demanding boss | adj+n | 苛刻的老闆
+c_common-courtesy | common courtesy | adj+n | 基本禮貌
+c_a-courtesy-call | a courtesy call | n+n | 禮節性拜訪
+c_a-medical-consultant | a medical consultant | adj+n | 顧問醫生
+c_regain-consciousness | regain consciousness | v+n | 恢復知覺
+c_raise-consciousness | raise consciousness | v+n | 提高意識
+c_a-faithful-companion | a faithful companion | adj+n | 忠實的夥伴
+c_a-constant-companion | a constant companion | adj+n | 形影不離的伴侶
+c_combine-sth-with-sth | combine sth with sth | v+prep | 把某物與某物結合
+c_combine-forces | combine forces | v+n | 聯手
+c_combine-efforts | combine efforts | v+n | 共同努力
+c_a-breach-of-contract | a breach of contract | n+n | 違約
+c_a-security-breach | a security breach | n+n | 安全漏洞
+c_breach-the-rules | breach the rules | v+n | 違反規定
+c_cross-a-boundary | cross a boundary | v+n | 越界
+c_set-boundaries | set boundaries | v+n | 設定界限
+c_a-sharp-bend | a sharp bend | adj+n | 急轉彎
+c_limited-availability | limited availability | adj+n | 供應有限
+c_shoot-an-arrow | shoot an arrow | v+n | 射箭
+c_applicable-to-sth | applicable to sth | adj+prep | 適用於某事
+c_acquire-knowledge | acquire knowledge | v+n | 獲取知識
+c_acquire-a-taste-for-sth | acquire a taste for sth | v+n | 漸漸喜歡某物
+c_acquire-skills | acquire skills | v+n | 掌握技能
+c_a-worrying-trend | a worrying trend | adj+n | 令人擔憂的趨勢
+c_a-worrying-sign | a worrying sign | adj+n | 令人擔憂的跡象
+c_a-key-variable | a key variable | adj+n | 關鍵變數
+c_an-unfortunate-incident | an unfortunate incident | adj+n | 不幸事件
+c_unfortunate-circumstances | unfortunate circumstances | adj+n | 不幸的處境
+c_resume-work | resume work | v+n | 恢復工作
+c_resume-talks | resume talks | v+n | 恢復談判
+c_a-constant-reminder | a constant reminder | adj+n | 不斷的提醒
+c_a-reminder-of-sth | a reminder of sth | n+prep | 令人想起某事的東西
+c_the-pursuit-of-sth | the pursuit of sth | n+n | 對某事的追求
+c_an-occasional-visit | an occasional visit | adj+n | 偶爾造訪
+c_an-occasional-drink | an occasional drink | adj+n | 偶爾小酌
+c_investigative-journalism | investigative journalism | adj+n | 調查性新聞
+c_interface-with-sth | interface with sth | v+prep | 與某事相銜接
+c_heal-the-rift | heal the rift | v+n | 彌合裂痕
+c_a-governing-body | a governing body | adj+n | 管理機構
+c_the-governing-party | the governing party | adj+n | 執政黨
+c_a-feminist-movement | a feminist movement | adj+n | 女權運動
+c_excessive-force | excessive force | adj+n | 過度武力
+c_excessive-drinking | excessive drinking | adj+n | 酗酒
+c_excessive-use-of-sth | excessive use of sth | adj+n | 過度使用某物
+c_a-legal-entity | a legal entity | adj+n | 法人實體
+c_an-electoral-system | an electoral system | adj+n | 選舉制度
+c_electoral-reform | electoral reform | adj+n | 選舉改革
+c_divide-into-sth | divide into sth | v+prep | 分成若干部分
+c_divide-sth-by-sth | divide sth by sth | v+prep | 用某數除以某數
+c_deeply-divided | deeply divided | adv+adj | 嚴重分裂
+c_a-widening-divide | a widening divide | adj+n | 日益擴大的鴻溝
+c_dive-into-sth | dive into sth | v+prep | 潛入某物
+c_a-tight-deadline | a tight deadline | adj+n | 緊迫的期限
+c_set-a-deadline | set a deadline | v+n | 設定截止日期
+c_a-cruel-joke | a cruel joke | adj+n | 殘酷的玩笑
+c_a-former-colony | a former colony | adj+n | 前殖民地
+c_a-colony-of-ants | a colony of ants | n+n | 蟻群
+c_an-athletic-build | an athletic build | adj+n | 運動員體格
+c_express-appreciation | express appreciation | v+n | 表示感謝
+c_show-appreciation | show appreciation | v+n | 表示感激
+c_appreciation-for-sth | appreciation for sth | n+prep | 對某事的感激
+c_adjacent-to-sth | adjacent to sth | adj+prep | 鄰近某物
+c_an-adjacent-room | an adjacent room | adj+n | 相鄰房間
+c_a-registered-voter | a registered voter | adj+n | 登記選民
+c_voter-turnout | voter turnout | n+n | 投票率
+c_urge-sb-to-do-sth | urge sb to do sth | v+prep | 敦促某人做某事
+c_urge-caution | urge caution | v+n | 呼籲謹慎
+c_resist-the-urge | resist the urge | v+n | 抑制衝動
+c_an-overwhelming-urge | an overwhelming urge | adj+n | 強烈的衝動
+c_succeed-to-the-throne | succeed to the throne | v+prep | 繼承王位
+c_ascend-the-throne | ascend the throne | v+n | 登基
+c_stamp-one-s-foot | stamp one's foot | v+n | 跺腳
+c_blind-with-rage | blind with rage | adj+prep | 怒不可遏
+c_a-fit-of-rage | a fit of rage | n+n | 一陣暴怒
+c_a-large-proportion-of-sth | a large proportion of sth | n+n | 很大一部分
+c_a-sense-of-proportion | a sense of proportion | n+n | 分寸感, 輕重感
+c_express-a-preference | express a preference | v+n | 表達偏好
+c_personal-preference | personal preference | adj+n | 個人喜好
+c_a-strong-preference-for-sth | a strong preference for sth | adj+n | 對某物的強烈偏好
+c_peel-a-potato | peel a potato | v+n | 削土豆皮
+c_gain-an-overview | gain an overview | v+n | 獲得概覽
+c_provide-an-overview | provide an overview | v+n | 提供概述
+c_a-brief-overview | a brief overview | adj+n | 簡要概述
+c_talk-openly | talk openly | v+adv | 公開談論, 坦率地談
+c_openly-admit | openly admit | adv+v | 坦率承認
+c_openly-gay | openly gay | adv+adj | 公開出櫃的
+c_minimal-effort | minimal effort | adj+n | 極少的努力
+c_minimal-risk | minimal risk | adj+n | 極小的風險
+c_mild-weather | mild weather | adj+n | 溫和的天氣
+c_mild-winter | mild winter | adj+n | 暖冬
+c_mild-symptoms | mild symptoms | adj+n | 輕微症狀
+c_mild-flavour | mild flavour | adj+n | 清淡的味道
+c_lasting-peace | lasting peace | adj+n | 持久和平
+c_lasting-damage | lasting damage | adj+n | 長期損害
+c_live-in-harmony | live in harmony | v+prep | 和諧相處
+c_racial-harmony | racial harmony | adj+n | 種族和睦
+c_a-handful-of-sth | a handful of sth | n+n | 少數, 一把
+c_tighten-one-s-grip | tighten one's grip | v+n | 抓緊, 加強控制
+c_a-firm-grip | a firm grip | adj+n | 牢牢抓住
+c_generic-term | generic term | adj+n | 通稱, 統稱
+c_freeze-to-death | freeze to death | v+prep | 凍死
+c_freeze-solid | freeze solid | v+adv | 凍硬
+c_freeze-a-bank-account | freeze a bank account | v+n | 凍結賬戶
+c_freeze-wages | freeze wages | v+n | 凍結工資
+c_eternal-life | eternal life | adj+n | 永生
+c_eternal-youth | eternal youth | adj+n | 青春永駐
+c_eternal-love | eternal love | adj+n | 永恆的愛
+c_beat-a-drum | beat a drum | v+n | 敲鼓
+c_diplomatic-relations | diplomatic relations | adj+n | 外交關係
+c_diplomatic-ties | diplomatic ties | adj+n | 外交關係
+c_convert-sth-into-sth | convert sth into sth | v+prep | 把…轉換成
+c_cognitive-development | cognitive development | adj+n | 認知發展
+c_cognitive-ability | cognitive ability | adj+n | 認知能力
+c_cognitive-impairment | cognitive impairment | adj+n | 認知障礙
+c_find-closure | find closure | v+n | 獲得心理了結
+c_go-into-bankruptcy | go into bankruptcy | v+prep | 破產
+c_declare-bankruptcy | declare bankruptcy | v+n | 宣告破產
+c_major-attraction | major attraction | adj+n | 主要景點
+c_physical-attraction | physical attraction | adj+n | 肉體吸引
+c_alternate-between-sth-and-sth | alternate between sth and sth | v+prep | 交替, 輪流出現
+c_unlimited-access | unlimited access | adj+n | 無限制訪問
+c_unlimited-supply | unlimited supply | adj+n | 無限供應
+c_technically-possible | technically possible | adv+adj | 技術上可行
+c_severely-damaged | severely damaged | adv+adj | 嚴重受損
+c_severely-disabled | severely disabled | adv+adj | 嚴重殘疾
+c_severely-injured | severely injured | adv+adj | 嚴重受傷
+c_severely-punish | severely punish | adv+v | 嚴懲
+c_seemingly-endless | seemingly endless | adv+adj | 看似無盡
+c_seemingly-random | seemingly random | adv+adj | 看似隨機
+c_purely-coincidental | purely coincidental | adv+adj | 純屬巧合
+c_publish-a-paper | publish a paper | v+n | 發表論文
+c_pour-a-drink | pour a drink | v+n | 倒酒, 倒飲料
+c_pour-with-rain | pour with rain | v+prep | 傾盆大雨
+c_pour-money-into-sth | pour money into sth | v+prep | 向…投入大量資金
+c_pose-a-question | pose a question | v+n | 提出問題
+c_pose-a-problem | pose a problem | v+n | 造成問題
+c_poorly-designed | poorly designed | adv+adj | 設計拙劣
+c_poorly-paid | poorly paid | adv+adj | 薪水低
+c_poorly-educated | poorly educated | adv+adj | 教育程度低
+c_monetary-value | monetary value | adj+n | 貨幣價值
+c_mighty-river | mighty river | adj+n | 大河
+c_a-mighty-effort | a mighty effort | adj+n | 巨大努力
+c_squeeze-a-lemon | squeeze a lemon | v+n | 擠檸檬
+c_burst-into-laughter | burst into laughter | v+prep | 突然大笑
+c_fits-of-laughter | fits of laughter | n+n | 陣陣笑聲
+c_innovative-approach | innovative approach | adj+n | 創新的方法
+c_innovative-design | innovative design | adj+n | 創新設計
+c_world-hunger | world hunger | n+n | 世界飢餓問題
+c_die-of-hunger | die of hunger | v+prep | 餓死
+c_genuinely-interested | genuinely interested | adv+adj | 真正感興趣
+c_genuinely-surprised | genuinely surprised | adv+adj | 真的很驚訝
+c_genuinely-believe | genuinely believe | adv+v | 真心相信
+c_a-fitting-tribute | a fitting tribute | adj+n | 恰如其分的致敬
+c_a-fitting-end | a fitting end | adj+n | 恰當的結局
+c_fatal-disease | fatal disease | adj+n | 致命疾病
+c_fatal-mistake | fatal mistake | adj+n | 致命錯誤
+c_faithful-to-sb | faithful to sb | adj+prep | 忠於某人
+c_facial-hair | facial hair | adj+n | 鬍鬚
+c_make-a-distinction-between-sth-and-sth | make a distinction between sth and sth | v+n | 區分兩者
+c_a-clear-distinction | a clear distinction | adj+n | 明顯區別
+c_make-a-declaration | make a declaration | v+n | 發表宣告
+c_reach-a-consensus | reach a consensus | v+n | 達成共識
+c_general-consensus | general consensus | adj+n | 普遍共識
+c_a-broad-consensus | a broad consensus | adj+n | 廣泛共識
+c_steep-cliff | steep cliff | adj+n | 陡峭的懸崖
+c_apply-for-citizenship | apply for citizenship | v+prep | 申請公民身份
+c_grant-citizenship | grant citizenship | v+n | 授予公民身份
+c_calculated-move | calculated move | adj+n | 精心算計的舉動
+c_brutal-murder | brutal murder | adj+n | 殘忍的謀殺
+c_brutal-attack | brutal attack | adj+n | 野蠻襲擊
+c_brutal-honesty | brutal honesty | adj+n | 過分直率
+c_brutally-honest | brutally honest | adv+adj | 直言不諱
+c_breakdown-of-talks | breakdown of talks | n+n | 談判破裂
+c_breakdown-of-a-marriage | breakdown of a marriage | n+n | 婚姻破裂
+c_a-wide-array-of-sth | a wide array of sth | adj+n | 種類繁多的
+c_an-impressive-array-of-sth | an impressive array of sth | adj+n | 一系列令人讚歎的
+c_close-ally | close ally | adj+n | 親密盟友
+c_vacuum-the-carpet | vacuum the carpet | v+n | 用吸塵器吸地毯
+c_a-power-vacuum | a power vacuum | n+n | 權力真空
+c_thoroughly-investigate | thoroughly investigate | adv+v | 徹底調查
+c_thoroughly-clean | thoroughly clean | adv+v | 徹底清潔
+c_tender-meat | tender meat | adj+n | 嫩肉
+c_surrender-to-sb | surrender to sb | v+prep | 向某人投降
+c_surrender-to-temptation | surrender to temptation | v+prep | 屈服於誘惑
+c_suspicious-of-sb | suspicious of sb | adj+prep | 懷疑某人
+c_suspicious-circumstances | suspicious circumstances | adj+n | 可疑情形
+c_suspicious-activity | suspicious activity | adj+n | 可疑活動
+c_smash-into-sth | smash into sth | v+prep | 撞上
+c_smash-a-record | smash a record | v+n | 打破紀錄
+c_fracture-one-s-skull | fracture one's skull | v+n | 顱骨骨折
+c_make-a-recommendation | make a recommendation | v+n | 提出建議
+c_strong-recommendation | strong recommendation | adj+n | 強烈推薦
+c_passionate-about-sth | passionate about sth | adj+prep | 熱衷於
+c_passionate-speech | passionate speech | adj+n | 熱情洋溢的演講
+c_passionate-belief | passionate belief | adj+n | 深切信念
+c_leak-information | leak information | v+n | 洩露資訊
+c_bring-a-lawsuit-against-sb | bring a lawsuit against sb | v+n | 對某人提起訴訟
+c_settle-a-lawsuit | settle a lawsuit | v+n | 了結官司
+c_skinny-jeans | skinny jeans | adj+n | 緊身牛仔褲
+c_ripped-jeans | ripped jeans | adj+n | 破洞牛仔褲
+c_virtually-invisible | virtually invisible | adv+adj | 幾乎看不見
+c_intend-to-do-sth | intend to do sth | v+prep | 打算做某事
+c_highly-influential | highly influential | adv+adj | 極具影響力
+c_influential-figure | influential figure | adj+n | 有影響力的人物
+c_heated-debate | heated debate | adj+n | 激烈辯論
+c_heated-argument | heated argument | adj+n | 激烈爭吵
+c_good-governance | good governance | adj+n | 良好治理
+c_make-a-forecast | make a forecast | v+n | 作出預測
+c_economic-forecast | economic forecast | adj+n | 經濟預測
+c_drill-a-hole | drill a hole | v+n | 鑽孔
+c_drill-for-oil | drill for oil | v+prep | 鑽探石油
+c_disappear-from-sight | disappear from sight | v+prep | 消失在視線中
+c_mysteriously-disappear | mysteriously disappear | adv+v | 神秘消失
+c_disagree-with-sb | disagree with sb | v+prep | 不同意某人
+c_strongly-disagree | strongly disagree | adv+v | 強烈反對
+c_completely-disagree | completely disagree | adv+v | 完全不同意
+c_keep-a-diary | keep a diary | v+n | 記日記
+c_delighted-with-sth | delighted with sth | adj+prep | 對…很高興
+c_absolutely-delighted | absolutely delighted | adv+adj | 非常高興
+c_religious-cult | religious cult | adj+n | 邪教
+c_physically-challenged | physically challenged | adv+adj | 身體有殘障的
+c_anxious-about-sth | anxious about sth | adj+prep | 對…感到焦慮
+c_anxious-moment | anxious moment | adj+n | 焦慮的時刻
+c_anxious-to-do-sth | anxious to do sth | adj+prep | 急於做某事
+c_advise-sb-to-do-sth | advise sb to do sth | v+prep | 勸告某人做某事
+c_advise-sb-against-sth | advise sb against sth | v+prep | 勸阻某人做某事
+c_strongly-advise | strongly advise | adv+v | 強烈建議
+c_viral-video | viral video | adj+n | 瘋傳的影片
+c_wide-variation | wide variation | adj+n | 巨大差異
+c_seasonal-variation | seasonal variation | adj+n | 季節性變化
+c_variation-on-a-theme | variation on a theme | n+n | 主題變奏
+c_unbelievably-good | unbelievably good | adv+adj | 好得難以置信
+c_tragic-accident | tragic accident | adj+n | 悲慘事故
+c_tragic-loss | tragic loss | adj+n | 痛失
+c_torn-between-sth-and-sth | torn between sth and sth | adj+prep | 在兩者間猶豫不決
+c_extract-a-tooth | extract a tooth | v+n | 拔牙
+c_take-a-toll-on-sth | take a toll on sth | v+n | 對某事造成損害
+c_subtle-difference | subtle difference | adj+n | 細微差別
+c_subtle-hint | subtle hint | adj+n | 含蓄的暗示
+c_subtle-change | subtle change | adj+n | 細微變化
+c_subtle-flavour | subtle flavour | adj+n | 淡淡的味道
+c_rebel-against-sth | rebel against sth | v+prep | 反抗
+c_rebel-forces | rebel forces | n+n | 叛軍
+c_provincial-capital | provincial capital | adj+n | 省會
+c_provincial-government | provincial government | adj+n | 省政府
+c_pressing-need | pressing need | adj+n | 迫切需要
+c_pressing-issue | pressing issue | adj+n | 緊迫問題
+c_accurately-predict | accurately predict | adv+v | 準確預測
+c_deadly-poison | deadly poison | adj+n | 致命毒藥
+c_permanently-damaged | permanently damaged | adv+adj | 永久受損
+c_permanently-disabled | permanently disabled | adv+adj | 永久殘疾
+c_permanently-close | permanently close | adv+v | 永久關閉
+c_pale-blue | pale blue | adj+n | 淡藍色
+c_pale-skin | pale skin | adj+n | 蒼白的皮膚
+c_overwhelming-majority | overwhelming majority | adj+n | 壓倒性多數
+c_overwhelming-evidence | overwhelming evidence | adj+n | 壓倒性的證據
+c_overwhelming-support | overwhelming support | adj+n | 壓倒性支援
+c_dispel-a-myth | dispel a myth | v+n | 破除謬見
+c_popular-myth | popular myth | adj+n | 普遍的誤解
+c_the-merits-of-sth | the merits of sth | n+n | 優點, 價值
+c_judge-sth-on-its-merits | judge sth on its merits | v+prep | 根據優點評判
+c_merit-consideration | merit consideration | v+n | 值得考慮
+c_lacking-in-sth | lacking in sth | adj+prep | 缺乏
+c_sadly-lacking | sadly lacking | adv+adj | 令人遺憾地缺乏
+c_inevitable-consequence | inevitable consequence | adj+n | 必然後果
+c_almost-inevitable | almost inevitable | adv+adj | 幾乎不可避免
+c_transport-hub | transport hub | n+n | 交通樞紐
+c_hub-of-activity | hub of activity | n+n | 活動中心
+c_historically-accurate | historically accurate | adv+adj | 符合史實
+c_historically-significant | historically significant | adv+adj | 具有歷史意義
+c_deep-grief | deep grief | adj+n | 深深的悲痛
+c_overcome-with-grief | overcome with grief | adj+prep | 悲痛欲絕
+c_glorious-victory | glorious victory | adj+n | 輝煌的勝利
+c_glorious-weather | glorious weather | adj+n | 極好的天氣
+c_glorious-sunshine | glorious sunshine | adj+n | 燦爛的陽光
+c_gently-stroke | gently stroke | v+adv | 輕撫
+c_gently-push | gently push | v+adv | 輕推
+c_gently-sloping | gently sloping | adv+adj | 緩緩傾斜的
+c_gambling-debts | gambling debts | n+n | 賭債
+c_freak-weather | freak weather | adj+n | 反常天氣
+c_fold-in-half | fold in half | v+prep | 對摺
+c_fabulous-time | fabulous time | adj+n | 愉快的時光
+c_fabulous-wealth | fabulous wealth | adj+n | 鉅額財富
+c_the-fabric-of-society | the fabric of society | n+n | 社會結構
+c_herd-of-elephants | herd of elephants | n+n | 一群大象
+c_group-dynamics | group dynamics | n+n | 群體動力
+c_family-dynamics | family dynamics | n+n | 家庭關係動態
+c_dump-waste | dump waste | v+n | 傾倒廢物
+c_receive-confirmation | receive confirmation | v+n | 收到確認
+c_await-confirmation | await confirmation | v+n | 等待確認
+c_roughly-comparable | roughly comparable | adv+adj | 大致相當
+c_comparable-to-sth | comparable to sth | adj+prep | 與…相當
+c_breed-of-dog | breed of dog | n+n | 犬種
+c_rare-breed | rare breed | adj+n | 稀有品種
+c_beneficial-effect | beneficial effect | adj+n | 有益的影響
+c_mutually-beneficial | mutually beneficial | adv+adj | 互惠的
+c_beneficial-to-sb | beneficial to sb | adj+prep | 對某人有益
+c_approve-of-sb | approve of sb | v+prep | 贊成某人
+c_approve-a-plan | approve a plan | v+n | 批准計劃
+c_formally-approve | formally approve | adv+v | 正式批准
+c_unanimously-approve | unanimously approve | adv+v | 一致透過
+c_tremendous-success | tremendous success | adj+n | 巨大成功
+c_tremendous-pressure | tremendous pressure | adj+n | 巨大壓力
+c_tremendous-impact | tremendous impact | adj+n | 巨大影響
+c_tremendous-support | tremendous support | adj+n | 極大的支援
+c_a-testament-to-sth | a testament to sth | n+prep | 證明, 見證
+c_loyal-supporter | loyal supporter | adj+n | 忠實支持者
+c_strong-supporter | strong supporter | adj+n | 堅定的支持者
+c_make-a-submission | make a submission | v+n | 提交意見書
+c_force-into-submission | force into submission | v+prep | 迫使屈服
+c_specialized-equipment | specialized equipment | adj+n | 專業裝置
+c_highly-specialized | highly specialized | adv+adj | 高度專業化的
+c_specialized-knowledge | specialized knowledge | adj+n | 專業知識
+c_span-of-time | span of time | n+n | 時間跨度
+c_span-a-period | span a period | v+n | 跨越一段時間
+c_scare-sb-to-death | scare sb to death | v+prep | 把某人嚇得半死
+c_give-sb-a-scare | give sb a scare | v+n | 嚇某人一跳
+c_scan-the-horizon | scan the horizon | v+n | 掃視地平線
+c_a-large-quantity-of-sth | a large quantity of sth | n+n | 大量的
+c_a-small-quantity-of-sth | a small quantity of sth | n+n | 少量的
+c_positive-outlook | positive outlook | adj+n | 樂觀的前景
+c_economic-outlook | economic outlook | adj+n | 經濟前景
+c_outlook-on-life | outlook on life | n+n | 人生觀
+c_moral-obligation | moral obligation | adj+n | 道德義務
+c_legal-obligation | legal obligation | adj+n | 法律義務
+c_fulfil-an-obligation | fulfil an obligation | v+n | 履行義務
+c_notable-achievement | notable achievement | adj+n | 顯著成就
+c_notable-for-sth | notable for sth | adj+prep | 以…著稱
+c_nomination-for-sth | nomination for sth | n+prep | 提名
+c_receive-a-nomination | receive a nomination | v+n | 獲得提名
+c_nicely-done | nicely done | adv+adj | 做得漂亮
+c_nicely-dressed | nicely dressed | adv+adj | 穿著得體
+c_build-a-nest | build a nest | v+n | 築巢
+c_nationwide-search | nationwide search | adj+n | 全國範圍的搜尋
+c_nationwide-campaign | nationwide campaign | adj+n | 全國性運動
+c_ride-a-motorcycle | ride a motorcycle | v+n | 騎摩托車
+c_lose-momentum | lose momentum | v+n | 失去勢頭
+c_build-momentum | build momentum | v+n | 積聚勢頭
+c_miserable-weather | miserable weather | adj+n | 糟糕的天氣
+c_miserable-failure | miserable failure | adj+n | 慘敗
+c_hostile-environment | hostile environment | adj+n | 敵對的環境
+c_hostile-to-sth | hostile to sth | adj+prep | 對…懷有敵意
+c_a-subtle-hint | a subtle hint | adj+n | 微妙的暗示
+c_hint-of-sth | hint of sth | n+n | 一絲, 少許
+c_graduation-ceremony | graduation ceremony | n+n | 畢業典禮
+c_move-freely | move freely | v+adv | 自由移動
+c_naked-flame | naked flame | adj+n | 明火
+c_academic-excellence | academic excellence | adj+n | 學術卓越
+c_ethical-standards | ethical standards | adj+n | 道德標準
+c_ethical-dilemma | ethical dilemma | adj+n | 倫理困境
+c_a-drain-on-sth | a drain on sth | n+prep | 對…的消耗
+c_put-a-curse-on-sb | put a curse on sb | v+n | 詛咒某人
+c_lift-a-curse | lift a curse | v+n | 解除詛咒
+c_bake-cookies | bake cookies | v+n | 烤餅乾
+c_serious-consequences | serious consequences | adj+n | 嚴重後果
+c_suffer-the-consequences | suffer the consequences | v+n | 承擔後果
+c_dire-consequences | dire consequences | adj+n | 嚴重後果
+c_concentrate-on-sth | concentrate on sth | v+prep | 集中精力於
+c_concentrate-one-s-mind | concentrate one's mind | v+n | 集中精神
+c_charming-smile | charming smile | adj+n | 迷人的微笑
+c_charming-village | charming village | adj+n | 迷人的村莊
+c_capability-to-do-sth | capability to do sth | n+prep | 做某事的能力
+c_military-capability | military capability | adj+n | 軍事能力
+c_nuclear-capability | nuclear capability | adj+n | 核能力
+c_wrap-in-a-blanket | wrap in a blanket | v+prep | 裹在毯子裡
+c_a-blanket-of-snow | a blanket of snow | n+n | 一層雪
+c_wicker-basket | wicker basket | adj+n | 柳條籃
+c_assured-of-sth | assured of sth | adj+prep | 確信
+c_reasonable-assumption | reasonable assumption | adj+n | 合理的假設
+c_make-an-assumption | make an assumption | v+n | 做出假設
+c_assess-the-situation | assess the situation | v+n | 評估形勢
+c_assess-the-risk | assess the risk | v+n | 評估風險
+c_assess-the-damage | assess the damage | v+n | 評估損失
+c_accurately-assess | accurately assess | adv+v | 準確評估
+c_animated-discussion | animated discussion | adj+n | 熱烈的討論
+c_animated-conversation | animated conversation | adj+n | 熱烈的交談
+c_altogether-different | altogether different | adv+adj | 完全不同
+c_allied-forces | allied forces | adj+n | 盟軍
+c_adjust-to-sth | adjust to sth | v+prep | 適應
+c_adjust-the-volume | adjust the volume | v+n | 調節音量
+c_slightly-adjust | slightly adjust | adv+v | 稍作調整
+c_deeply-unhappy | deeply unhappy | adv+adj | 非常不快樂
+c_unhappy-with-sth | unhappy with sth | adj+prep | 對…不滿意
+c_unhappy-childhood | unhappy childhood | adj+n | 不幸的童年
+c_traditionally-dressed | traditionally dressed | adv+adj | 穿著傳統服飾
+c_traditionally-male | traditionally male | adv+adj | 傳統上為男性的
+c_religious-tolerance | religious tolerance | adj+n | 宗教寬容
+c_tolerance-of-sth | tolerance of sth | n+prep | 對…的容忍
+c_temporarily-closed | temporarily closed | adv+adj | 暫時關閉
+c_temporarily-suspend | temporarily suspend | adv+v | 暫時停止
+c_temporarily-unavailable | temporarily unavailable | adv+adj | 暫時不可用
+c_technological-advances | technological advances | adj+n | 技術進步
+c_rapid-technological-change | rapid technological change | adj+n | 快速的技術變革
+c_monthly-subscription | monthly subscription | adj+n | 月度訂閱
+c_annual-subscription | annual subscription | adj+n | 年度訂閱
+c_losing-streak | losing streak | adj+n | 連敗
+c_a-streak-of-luck | a streak of luck | n+n | 一連串好運
+c_spectacular-view | spectacular view | adj+n | 壯觀的景色
+c_spectacular-success | spectacular success | adj+n | 驚人的成功
+c_spectacular-failure | spectacular failure | adj+n | 慘敗
+c_spectacularly-beautiful | spectacularly beautiful | adv+adj | 美得驚人
+c_shout-at-sb | shout at sb | v+prep | 對某人大喊
+c_shout-for-help | shout for help | v+prep | 高聲呼救
+c_shout-in-anger | shout in anger | v+prep | 憤怒地大喊
+c_a-length-of-rope | a length of rope | n+n | 一段繩子
+c_the-realm-of-sth | the realm of sth | n+n | …的領域
+c_rational-thinking | rational thinking | adj+n | 理性思維
+c_rational-explanation | rational explanation | adj+n | 合理的解釋
+c_rational-decision | rational decision | adj+n | 理性決定
+c_feel-the-pulse | feel the pulse | v+n | 摸脈搏
+c_a-weak-pulse | a weak pulse | adj+n | 微弱的脈搏
+c_prosecution-witness | prosecution witness | n+n | 控方證人
+c_face-prosecution | face prosecution | v+n | 面臨起訴
+c_pronounced-accent | pronounced accent | adj+n | 明顯的口音
+c_pronounced-improvement | pronounced improvement | adj+n | 顯著改善
+c_politically-sensitive | politically sensitive | adv+adj | 政治上敏感的
+c_politically-motivated | politically motivated | adv+adj | 出於政治動機的
+c_enter-a-password | enter a password | v+n | 輸入密碼
+c_reset-a-password | reset a password | v+n | 重置密碼
+c_do-the-packing | do the packing | v+n | 收拾行李
+c_observe-a-rule | observe a rule | v+n | 遵守規則
+c_observe-a-minute-s-silence | observe a minute's silence | v+n | 默哀一分鐘
+c_closely-observe | closely observe | adv+v | 仔細觀察
+c_observe-sb-doing-sth | observe sb doing sth | v+prep | 看見某人做某事
+c_intimate-relationship | intimate relationship | adj+n | 親密關係
+c_intimate-details | intimate details | adj+n | 私密細節
+c_intimate-friend | intimate friend | adj+n | 密友
+c_highly-interactive | highly interactive | adv+adj | 高度互動的
+c_intensive-training | intensive training | adj+n | 強化訓練
+c_give-an-indication | give an indication | v+n | 給出跡象
+c_a-clear-indication | a clear indication | adj+n | 明確跡象
+c_a-strong-indication | a strong indication | adj+n | 強烈跡象
+c_work-independently | work independently | v+adv | 獨立工作
+c_act-independently | act independently | v+adv | 獨立行動
+c_halfway-through-sth | halfway through sth | v+prep | 進行到一半
+c_grocery-shopping | grocery shopping | n+n | 採購食品雜貨, 買菜
+c_technical-expertise | technical expertise | adj+n | 專業技術
+c_medical-expertise | medical expertise | adj+n | 醫學專業知識
+c_elaborate-plan | elaborate plan | adj+n | 精心制訂的計劃
+c_elaborate-on-sth | elaborate on sth | v+prep | 詳細說明
+c_early-detection | early detection | adj+n | 早期發現
+c_public-demonstration | public demonstration | adj+n | 公開示威, 公開演示
+c_budget-deficit | budget deficit | n+n | 預算赤字
+c_cut-the-deficit | cut the deficit | v+n | 削減赤字
+c_light-a-cigarette | light a cigarette | v+n | 點菸
+c_cheat-in-an-exam | cheat in an exam | v+prep | 考試作弊
+c_cast-a-ballot | cast a ballot | v+n | 投票
+c_assure-sb-of-sth | assure sb of sth | v+prep | 向某人保證
+c_ashamed-of-sth | ashamed of sth | adj+prep | 為某事羞愧
+c_deeply-ashamed | deeply ashamed | adv+adj | 深感羞愧
+c_call-an-ambulance | call an ambulance | v+n | 叫救護車
+c_temporary-accommodation | temporary accommodation | adj+n | 臨時住所
+c_book-accommodation | book accommodation | v+n | 預訂住宿
+c_provide-accommodation | provide accommodation | v+n | 提供住宿
+c_withdraw-money | withdraw money | v+n | 取錢
+c_withdraw-from-sth | withdraw from sth | v+prep | 退出
+c_withdraw-support | withdraw support | v+n | 撤回支援
+c_doctoral-thesis | doctoral thesis | adj+n | 博士論文
+c_supportive-of-sth | supportive of sth | adj+prep | 支援某事
+c_take-a-stance | take a stance | v+n | 表明立場
+c_a-tough-stance | a tough stance | adj+n | 強硬立場
+c_a-stack-of-sth | a stack of sth | n+n | 一堆
+c_sophisticated-technology | sophisticated technology | adj+n | 先進技術
+c_renew-a-passport | renew a passport | v+n | 換新護照
+c_apply-for-a-passport | apply for a passport | v+prep | 申請護照
+c_reduced-mobility | reduced mobility | adj+n | 行動不便
+c_take-measurements | take measurements | v+n | 測量
+c_interact-with-sb | interact with sb | v+prep | 與某人互動
+c_ignorant-of-sth | ignorant of sth | adj+prep | 對某事無知
+c_racial-hatred | racial hatred | adj+n | 種族仇恨
+c_hack-into-sth | hack into sth | v+prep | 侵入
+c_plot-a-graph | plot a graph | v+n | 繪製圖表
+c_exceptional-circumstances | exceptional circumstances | adj+n | 特殊情況
+c_embarrassed-about-sth | embarrassed about sth | adj+prep | 對某事難為情
+c_deeply-embarrassed | deeply embarrassed | adv+adj | 非常尷尬
+c_disturbing-news | disturbing news | adj+n | 令人不安的訊息
+c_deeply-disturbing | deeply disturbing | adv+adj | 極其令人不安
+c_a-dip-in-sth | a dip in sth | n+n | 小幅下降
+c_detect-a-change | detect a change | v+n | 察覺變化
+c_declare-an-emergency | declare an emergency | v+n | 宣佈進入緊急狀態
+c_a-bout-of-sth | a bout of sth | n+n | 一陣發作
+c_beg-for-sth | beg for sth | v+prep | 乞求
+c_beg-sb-to-do-sth | beg sb to do sth | v+prep | 懇求某人做
+c_make-an-apology | make an apology | v+n | 道歉
+c_accept-an-apology | accept an apology | v+n | 接受道歉
+c_a-public-apology | a public apology | adj+n | 公開道歉
+c_alter-the-course-of-sth | alter the course of sth | v+n | 改變程序
+c_adequate-funding | adequate funding | adj+n | 充足的資金
+c_barely-adequate | barely adequate | adv+adj | 勉強夠用
+c_accomplish-a-task | accomplish a task | v+n | 完成任務
+c_accomplish-a-goal | accomplish a goal | v+n | 實現目標
+c_transform-sth-into-sth | transform sth into sth | v+prep | 把某物變成
+c_completely-transform | completely transform | adv+v | 徹底改變
+c_strengthen-ties | strengthen ties | v+n | 加強聯絡
+c_corporate-sponsor | corporate sponsor | adj+n | 企業贊助商
+c_a-rough-sketch | a rough sketch | adj+n | 草圖
+c_shallow-water | shallow water | adj+n | 淺水
+c_shallow-breathing | shallow breathing | adj+n | 淺呼吸
+c_resigned-to-sth | resigned to sth | adj+prep | 對某事認命
+c_job-placement | job placement | n+n | 就業安置
+c_opposing-views | opposing views | adj+n | 對立觀點
+c_magnificent-view | magnificent view | adj+n | 壯麗景色
+c_intermediate-level | intermediate level | adj+n | 中級水平
+c_pure-ignorance | pure ignorance | adj+n | 純屬無知
+c_ignorance-of-sth | ignorance of sth | n+prep | 對某事無知
+c_enhance-performance | enhance performance | v+n | 提高表現
+c_greatly-enhance | greatly enhance | adv+v | 大大增強
+c_emotionally-attached | emotionally attached | adv+adj | 情感上依戀
+c_emotionally-draining | emotionally draining | adv+adj | 令人心力交瘁
+c_echo-through-sth | echo through sth | v+prep | 迴盪在
+c_donate-sth-to-sb | donate sth to sb | v+prep | 向某人捐贈
+c_divorced-from-sb | divorced from sb | v+prep | 與某人離婚
+c_creepy-feeling | creepy feeling | adj+n | 毛骨悚然的感覺
+c_cope-with-sth | cope with sth | v+prep | 應付
+c_comply-with-sth | comply with sth | v+prep | 遵守
+c_fully-comply | fully comply | adv+v | 完全遵守
+c_authentic-cuisine | authentic cuisine | adj+n | 地道美食
+c_carry-out-an-audit | carry out an audit | v+n | 進行審計
+c_annual-audit | annual audit | adj+n | 年度審計
+c_reach-a-verdict | reach a verdict | v+n | 作出裁決
+c_return-a-verdict | return a verdict | v+n | 宣佈裁決
+c_guilty-verdict | guilty verdict | adj+n | 有罪判決
+c_uncertainty-about-sth | uncertainty about sth | n+prep | 對某事不確定
+c_economic-uncertainty | economic uncertainty | adj+n | 經濟不確定性
+c_cross-the-threshold | cross the threshold | v+n | 跨過門檻
+c_suited-to-sth | suited to sth | adj+prep | 適合
+c_ideally-suited | ideally suited | adv+adj | 非常適合
+c_public-sentiment | public sentiment | adj+n | 公眾情緒
+c_the-remainder-of-sth | the remainder of sth | n+n | 其餘部分
+c_flatly-reject | flatly reject | adv+v | 斷然拒絕
+c_reasonably-priced | reasonably priced | adv+adj | 價格合理
+c_profitable-business | profitable business | adj+n | 有利可圖的生意
+c_highly-profitable | highly profitable | adv+adj | 利潤豐厚
+c_take-a-pill | take a pill | v+n | 吃藥
+c_orbit-the-earth | orbit the earth | v+n | 繞地球執行
+c_modest-income | modest income | adj+n | 微薄收入
+c_modest-success | modest success | adj+n | 小有成就
+c_angry-mob | angry mob | adj+n | 憤怒的暴民
+c_lobby-for-sth | lobby for sth | v+prep | 遊說爭取
+c_insist-on-sth | insist on sth | v+prep | 堅持
+c_bring-in-the-harvest | bring in the harvest | v+n | 收割莊稼
+c_a-bumper-harvest | a bumper harvest | adj+n | 大豐收
+c_the-very-essence | the very essence | adj+n | 本質所在
+c_eager-to-do-sth | eager to do sth | adj+prep | 渴望做某事
+c_eager-for-sth | eager for sth | adj+prep | 渴望
+c_differ-from-sth | differ from sth | v+prep | 與某物不同
+c_differ-widely | differ widely | v+adv | 差別很大
+c_cease-to-exist | cease to exist | v+prep | 不復存在
+c_smoke-cannabis | smoke cannabis | v+n | 吸食大麻
+c_potential-buyer | potential buyer | adj+n | 潛在買家
+c_workout-routine | workout routine | n+n | 鍛鍊計劃
+c_warn-sb-of-sth | warn sb of sth | v+prep | 警告某人
+c_warn-against-sth | warn against sth | v+prep | 告誡別做
+c_strongly-warn | strongly warn | adv+v | 強烈警告
+c_high-voltage | high voltage | adj+n | 高壓
+c_utterly-ridiculous | utterly ridiculous | adv+adj | 荒謬至極
+c_utterly-impossible | utterly impossible | adv+adj | 完全不可能
+c_tire-of-sth | tire of sth | v+prep | 厭倦
+c_subscribe-to-sth | subscribe to sth | v+prep | 訂閱
+c_a-high-probability | a high probability | adj+n | 高機率
+c_probability-of-sth | probability of sth | n+prep | 某事的可能性
+c_possess-a-skill | possess a skill | v+n | 具備技能
+c_pending-approval | pending approval | adj+n | 待批准
+c_justified-in-doing-sth | justified in doing sth | adj+prep | 有理由做某事
+c_fully-justified | fully justified | adv+adj | 完全合理
+c_isolation-from-sth | isolation from sth | n+prep | 與某物隔絕
+c_social-isolation | social isolation | adj+n | 社會隔離
+c_social-inclusion | social inclusion | adj+n | 社會包容
+c_wear-a-helmet | wear a helmet | v+n | 戴頭盔
+c_flexibility-in-sth | flexibility in sth | n+prep | 某方面的靈活性
+c_offer-flexibility | offer flexibility | v+n | 提供靈活性
+c_extract-information | extract information | v+n | 提取資訊
+c_extract-sth-from-sth | extract sth from sth | v+prep | 從中提取
+c_solve-an-equation | solve an equation | v+n | 解方程
+c_show-enthusiasm | show enthusiasm | v+n | 表現出熱情
+c_great-enthusiasm | great enthusiasm | adj+n | 極大熱情
+c_enthusiasm-for-sth | enthusiasm for sth | n+prep | 對某事的熱情
+c_disappointing-results | disappointing results | adj+n | 令人失望的結果
+c_deeply-disappointing | deeply disappointing | adv+adj | 非常令人失望
+c_a-new-dimension | a new dimension | adj+n | 新維度
+c_treat-sb-with-dignity | treat sb with dignity | v+n | 有尊嚴地對待
+c_human-dignity | human dignity | adj+n | 人的尊嚴
+c_lose-one-s-dignity | lose one's dignity | v+n | 喪失尊嚴
+c_deliberately-ignore | deliberately ignore | adv+v | 故意無視
+c_deliberately-misleading | deliberately misleading | adv+adj | 故意誤導
+c_consultation-with-sb | consultation with sb | n+prep | 與某人磋商
+c_public-consultation | public consultation | adj+n | 公眾諮詢
+c_hold-a-consultation | hold a consultation | v+n | 進行磋商
+c_confusing-instructions | confusing instructions | adj+n | 令人困惑的說明
+c_extremely-confusing | extremely confusing | adv+adj | 極其混亂
+c_sing-carols | sing carols | v+n | 唱聖誕頌歌
+c_bizarre-behaviour | bizarre behaviour | adj+n | 怪異行為
+c_bizarre-story | bizarre story | adj+n | 離奇的故事
+c_anchor-sth-to-sth | anchor sth to sth | v+prep | 固定在
+c_sophisticated-algorithm | sophisticated algorithm | adj+n | 複雜演算法
+c_aesthetic-value | aesthetic value | adj+n | 美學價值
+c_aesthetically-pleasing | aesthetically pleasing | adv+adj | 賞心悅目
+c_abandon-a-plan | abandon a plan | v+n | 放棄計劃
+c_abandon-hope | abandon hope | v+n | 放棄希望
+c_wipe-the-table | wipe the table | v+n | 擦桌子
+c_wipe-away-tears | wipe away tears | v+n | 擦去眼淚
+c_whip-cream | whip cream | v+n | 打發奶油
+c_fill-the-void | fill the void | v+n | 填補空白
+c_vitamin-deficiency | vitamin deficiency | n+n | 維生素缺乏
+c_rich-in-vitamins | rich in vitamins | adj+prep | 富含維生素
+c_completely-transparent | completely transparent | adv+adj | 完全透明
+c_transparent-process | transparent process | adj+n | 透明的程式
+c_suck-one-s-thumb | suck one's thumb | v+n | 吮吸拇指
+c_theoretical-framework | theoretical framework | adj+n | 理論框架
+c_sympathy-for-sb | sympathy for sb | n+prep | 對某人的同情
+c_express-sympathy | express sympathy | v+n | 表示同情
+c_deepest-sympathy | deepest sympathy | adj+n | 深切同情
+c_stark-reminder | stark reminder | adj+n | 鮮明的提醒
+c_specially-designed | specially designed | adv+adj | 專門設計
+c_sheer-size | sheer size | adj+n | 龐大規模
+c_sheer-luck | sheer luck | adj+n | 純屬運氣
+c_sheer-cliff | sheer cliff | adj+n | 陡峭懸崖
+c_secretly-hope | secretly hope | adv+v | 暗自希望
+c_privately-owned | privately owned | adv+adj | 私營, 私人所有
+c_conduct-an-orchestra | conduct an orchestra | v+n | 指揮樂團
+c_notably-absent | notably absent | adv+adj | 明顯缺席
+c_give-sb-a-massage | give sb a massage | v+n | 給某人按摩
+c_formally-announce | formally announce | adv+v | 正式宣佈
+c_formally-charged | formally charged | adv+adj | 被正式起訴
+c_bitter-disappointment | bitter disappointment | adj+n | 深深的失望
+c_express-disappointment | express disappointment | v+n | 表示失望
+c_disappointment-at-sth | disappointment at sth | n+prep | 對某事失望
+c_delicate-balance | delicate balance | adj+n | 微妙的平衡
+c_delicate-situation | delicate situation | adj+n | 微妙的局面
+c_delicate-skin | delicate skin | adj+n | 嬌嫩的皮膚
+c_foster-creativity | foster creativity | v+n | 培養創造力
+c_film-adaptation | film adaptation | n+n | 電影改編
+c_administer-a-vaccine | administer a vaccine | v+n | 接種疫苗
+c_vaccine-against-sth | vaccine against sth | n+prep | 針對某病的疫苗
+c_sole-survivor | sole survivor | adj+n | 唯一倖存者
+c_spelling-mistake | spelling mistake | n+n | 拼寫錯誤
+c_a-slice-of-sth | a slice of sth | n+n | 一片
+c_bad-publicity | bad publicity | adj+n | 負面宣傳
+c_generate-publicity | generate publicity | v+n | 引起公眾關注
+c_write-a-prescription | write a prescription | v+n | 開處方
+c_make-a-pledge | make a pledge | v+n | 作出承諾
+c_pledge-support | pledge support | v+n | 承諾支援
+c_pause-briefly | pause briefly | v+adv | 短暫停頓
+c_retail-outlet | retail outlet | n+n | 零售店
+c_win-the-lottery | win the lottery | v+n | 中彩票
+c_an-act-of-kindness | an act of kindness | n+n | 善舉
+c_show-kindness | show kindness | v+n | 表現善意
+c_kindly-requested | kindly requested | adv+adj | 敬請
+c_interim-report | interim report | adj+n | 中期報告
+c_interim-period | interim period | adj+n | 過渡期
+c_inspire-confidence | inspire confidence | v+n | 激發信心
+c_inspire-sb-to-do-sth | inspire sb to do sth | v+prep | 激勵某人做
+c_sift-flour | sift flour | v+n | 篩麵粉
+c_firmly-committed | firmly committed | adv+adj | 堅定致力於
+c_make-a-donation | make a donation | v+n | 捐款
+c_generous-donation | generous donation | adj+n | 慷慨捐贈
+c_donation-to-sth | donation to sth | v+prep | 向某處捐贈
+c_distinctive-style | distinctive style | adj+n | 獨特風格
+c_distinctive-flavour | distinctive flavour | adj+n | 獨特風味
+c_full-disclosure | full disclosure | adj+n | 全面披露
+c_make-a-dash-for-sth | make a dash for sth | v+n | 衝向
+c_crude-joke | crude joke | adj+n | 粗俗的笑話
+c_military-coup | military coup | adj+n | 軍事政變
+c_stage-a-coup | stage a coup | v+n | 發動政變
+c_considerably-higher | considerably higher | adv+adj | 高得多
+c_vary-considerably | vary considerably | v+adv | 差異很大
+c_civic-duty | civic duty | adj+n | 公民義務
+c_civic-pride | civic pride | adj+n | 公民自豪感
+c_borrow-sth-from-sb | borrow sth from sb | v+prep | 向某人借
+c_behave-badly | behave badly | v+adv | 行為不端
+c_arrange-a-meeting | arrange a meeting | v+n | 安排會議
+c_arrange-for-sth | arrange for sth | v+prep | 安排
+c_acute-pain | acute pain | adj+n | 劇痛
+c_acute-shortage | acute shortage | adj+n | 嚴重短缺
+c_acutely-aware | acutely aware | adv+adj | 深切意識到
+c_weigh-the-options | weigh the options | v+n | 權衡利弊
+c_weigh-heavily | weigh heavily | v+adv | 沉重地壓在心頭
+c_uncertain-future | uncertain future | adj+n | 前途未卜
+c_uncertain-about-sth | uncertain about sth | adj+prep | 對某事不確定
+c_highly-uncertain | highly uncertain | adv+adj | 極不確定
+c_worthy-successor | worthy successor | adj+n | 稱職的繼任者
+c_steep-slope | steep slope | adj+n | 陡坡
+c_steep-decline | steep decline | adj+n | 急劇下降
+c_steep-increase | steep increase | adj+n | 陡增
+c_fuel-speculation | fuel speculation | v+n | 引發猜測
+c_wild-speculation | wild speculation | adj+n | 胡亂猜測
+c_speculation-about-sth | speculation about sth | n+prep | 對某事的猜測
+c_spark-interest | spark interest | v+n | 激起興趣
+c_sore-muscles | sore muscles | adj+n | 肌肉痠痛
+c_sneak-into-sth | sneak into sth | v+prep | 偷偷溜進
+c_resistant-to-sth | resistant to sth | adj+prep | 耐…, 對…有抵抗力
+c_drug-rehabilitation | drug rehabilitation | n+n | 戒毒康復
+c_propose-a-solution | propose a solution | v+n | 提出解決方案
+c_propose-marriage | propose marriage | v+n | 求婚
+c_probe-into-sth | probe into sth | v+prep | 調查
+c_strive-for-perfection | strive for perfection | v+prep | 追求完美
+c_the-outbreak-of-war | the outbreak of war | n+n | 戰爭爆發
+c_offset-the-cost | offset the cost | v+n | 抵消成本
+c_negotiate-a-deal | negotiate a deal | v+n | 談判達成協議
+c_negotiate-with-sb | negotiate with sb | v+prep | 與某人談判
+c_a-liking-for-sth | a liking for sth | n+prep | 對某物的喜好
+c_take-a-liking-to-sb | take a liking to sb | v+prep | 開始喜歡某人
+c_interference-with-sth | interference with sth | n+prep | 對某事的干擾
+c_external-interference | external interference | adj+n | 外界干擾
+c_hurl-an-insult | hurl an insult | v+n | 辱罵
+c_insult-sb-s-intelligence | insult sb's intelligence | v+n | 侮辱智商
+c_instrumental-in-doing-sth | instrumental in doing sth | v+prep | 對做某事起重要作用
+c_give-sb-an-injection | give sb an injection | v+n | 給某人打針
+c_inappropriate-behaviour | inappropriate behaviour | adj+n | 不當行為
+c_highly-inappropriate | highly inappropriate | adv+adj | 極不恰當
+c_a-remarkable-feat | a remarkable feat | adj+n | 了不起的壯舉
+c_a-feat-of-engineering | a feat of engineering | n+n | 工程壯舉
+c_facilitate-communication | facilitate communication | v+n | 促進交流
+c_mount-an-expedition | mount an expedition | v+n | 組織遠征
+c_meet-expectations | meet expectations | v+n | 達到預期
+c_exceed-expectations | exceed expectations | v+n | 超出預期
+c_profoundly-deaf | profoundly deaf | adv+adj | 完全失聰
+c_ensure-consistency | ensure consistency | v+n | 確保一致
+c_a-cluster-of-sth | a cluster of sth | n+n | 一群, 一簇
+c_cluster-around-sth | cluster around sth | v+prep | 聚集在周圍
+c_bent-on-sth | bent on sth | adj+prep | 一心想要
+c_grant-asylum | grant asylum | v+n | 給予庇護
+c_affiliate-with-sth | affiliate with sth | v+prep | 隸屬於
+c_wade-through-sth | wade through sth | v+prep | 費力地讀完
+c_twisted-ankle | twisted ankle | adj+n | 扭傷的腳踝
+c_shining-example | shining example | adj+n | 光輝榜樣
+c_sequel-to-sth | sequel to sth | n+prep | …的續集
+c_a-sensible-decision | a sensible decision | adj+n | 明智的決定
+c_sensible-shoes | sensible shoes | adj+n | 實用的鞋
+c_satisfy-a-requirement | satisfy a requirement | v+n | 滿足要求
+c_satisfy-demand | satisfy demand | v+n | 滿足需求
+c_satisfy-one-s-curiosity | satisfy one's curiosity | v+n | 滿足好奇心
+c_hold-a-referendum | hold a referendum | v+n | 舉行公投
+c_call-a-referendum | call a referendum | v+n | 發起公投
+c_prey-on-sth | prey on sth | v+prep | 捕食, 欺騙利用
+c_easy-prey | easy prey | adj+n | 容易得手的獵物
+c_take-pity-on-sb | take pity on sb | v+prep | 憐憫某人
+c_a-great-pity | a great pity | adj+n | 很遺憾
+c_mistaken-belief | mistaken belief | adj+n | 錯誤的看法
+c_mow-the-lawn | mow the lawn | v+n | 修剪草坪
+c_irrelevant-to-sth | irrelevant to sth | v+prep | 與…無關
+c_largely-irrelevant | largely irrelevant | adv+adj | 基本無關
+c_intake-of-sth | intake of sth | n+n | 攝入量
+c_reduce-one-s-intake | reduce one's intake | v+n | 減少攝入
+c_calorie-intake | calorie intake | n+n | 卡路里攝入
+c_remain-intact | remain intact | v+n | 保持完好
+c_completely-intact | completely intact | adv+adj | 完好無損
+c_health-hazard | health hazard | n+n | 健康隱患
+c_pose-a-hazard | pose a hazard | v+n | 構成危險
+c_natural-habitat | natural habitat | adj+n | 自然棲息地
+c_furious-with-sb | furious with sb | adj+prep | 對某人大怒
+c_financially-secure | financially secure | adv+adj | 經濟上有保障
+c_expose-sb-to-sth | expose sb to sth | v+prep | 使暴露於
+c_expose-a-scandal | expose a scandal | v+n | 揭露醜聞
+c_be-exposed-to-sth | be exposed to sth | v+prep | 接觸到
+c_desperately-need-sth | desperately need sth | adv+v | 迫切需要
+c_desperately-try | desperately try | adv+v | 拼命嘗試
+c_dense-fog | dense fog | adj+n | 濃霧
+c_dense-forest | dense forest | adj+n | 茂密的森林
+c_densely-populated | densely populated | adv+adj | 人口稠密
+c_crowded-with-sb | crowded with sb | adj+prep | 擠滿了
+c_construct-an-argument | construct an argument | v+n | 構建論點
+c_compelling-evidence | compelling evidence | adj+n | 有力證據
+c_compelling-reason | compelling reason | adj+n | 令人信服的理由
+c_ride-a-bicycle | ride a bicycle | v+n | 騎腳踏車
+c_archive-footage | archive footage | n+n | 檔案影像
+c_adapt-to-sth | adapt to sth | v+prep | 適應
+c_adapt-sth-for-sth | adapt sth for sth | v+prep | 改編
+c_absent-from-sth | absent from sth | adj+prep | 缺席
+c_private-tuition | private tuition | adj+n | 私人輔導
+c_thorough-investigation | thorough investigation | adj+n | 徹底調查
+c_thorough-knowledge | thorough knowledge | adj+n | 透徹的瞭解
+c_thorough-examination | thorough examination | adj+n | 徹底檢查
+c_tactical-error | tactical error | adj+n | 戰術失誤
+c_sweep-the-floor | sweep the floor | v+n | 掃地
+c_arouse-suspicion | arouse suspicion | v+n | 引起懷疑
+c_raise-suspicion | raise suspicion | v+n | 引起懷疑
+c_deep-suspicion | deep suspicion | adj+n | 深深的懷疑
+c_succession-of-sth | succession of sth | n+n | 一連串
+c_rare-steak | rare steak | adj+n | 三分熟牛排
+c_slap-sb-in-the-face | slap sb in the face | v+prep | 扇某人耳光
+c_scout-for-sth | scout for sth | v+prep | 尋找
+c_scattered-showers | scattered showers | adj+n | 零星陣雨
+c_rub-one-s-hands | rub one's hands | v+n | 搓手
+c_commit-robbery | commit robbery | v+n | 實施搶劫
+c_revealing-remark | revealing remark | adj+n | 很能說明問題的話
+c_resign-from-sth | resign from sth | v+prep | 辭去
+c_resign-as-sth | resign as sth | v+prep | 辭去…職務
+c_resign-oneself-to-sth | resign oneself to sth | v+prep | 只好接受, 聽任
+c_randomly-selected | randomly selected | adv+adj | 隨機挑選
+c_randomly-chosen | randomly chosen | adv+adj | 隨機選取
+c_portable-device | portable device | adj+n | 便攜裝置
+c_play-poker | play poker | v+n | 打撲克
+c_proposed-merger | proposed merger | adj+n | 擬議中的合併
+c_electoral-mandate | electoral mandate | adj+n | 選舉授權
+c_give-sb-a-mandate | give sb a mandate | v+n | 授權某人
+c_sheer-madness | sheer madness | adj+n | 十足的瘋狂
+c_grant-a-licence | grant a licence | v+n | 頒發許可證
+c_inclusive-of-sth | inclusive of sth | adj+prep | 包括
+c_financial-incentive | financial incentive | adj+n | 經濟激勵
+c_provide-an-incentive | provide an incentive | v+n | 提供動力
+c_tax-incentive | tax incentive | n+n | 稅收優惠
+c_suffer-from-headaches | suffer from headaches | v+prep | 飽受頭痛之苦
+c_harmful-to-sb | harmful to sb | adj+prep | 對…有害
+c_grasp-an-opportunity | grasp an opportunity | v+n | 抓住機會
+c_deep-frustration | deep frustration | adj+n | 深深的挫敗感
+c_express-frustration | express frustration | v+n | 表達沮喪
+c_growing-frustration | growing frustration | adj+n | 日益增長的沮喪
+c_final-frontier | final frontier | adj+n | 最後的領域
+c_frontier-of-sth | frontier of sth | n+n | 前沿
+c_explosive-device | explosive device | adj+n | 爆炸裝置
+c_explosive-growth | explosive growth | adj+n | 爆炸式增長
+c_great-delight | great delight | adj+n | 極大的喜悅
+c_take-delight-in-sth | take delight in sth | v+prep | 以…為樂
+c_curiosity-about-sth | curiosity about sth | v+prep | 對…的好奇
+c_arouse-curiosity | arouse curiosity | v+n | 激起好奇心
+c_convincing-evidence | convincing evidence | adj+n | 令人信服的證據
+c_convincing-argument | convincing argument | adj+n | 有說服力的論點
+c_continuously-updated | continuously updated | adv+adj | 持續更新
+c_condemned-building | condemned building | adj+n | 危房
+c_compatible-with-sth | compatible with sth | adj+prep | 與…相容
+c_fully-compatible | fully compatible | adv+adj | 完全相容
+c_clash-with-sb | clash with sb | v+prep | 與…衝突
+c_clash-of-cultures | clash of cultures | n+n | 文化衝突
+c_personality-clash | personality clash | n+n | 性格衝突
+c_distinguishing-characteristic | distinguishing characteristic | adj+n | 顯著特點
+c_physical-characteristic | physical characteristic | adj+n | 身體特徵
+c_characteristic-of-sth | characteristic of sth | adj+prep | 是…的特點
+c_proceed-with-caution | proceed with caution | v+prep | 謹慎行事
+c_word-of-caution | word of caution | n+n | 告誡
+c_confirmed-bachelor | confirmed bachelor | adj+n | 不婚的單身漢
+c_admire-sb-for-sth | admire sb for sth | v+prep | 因…欽佩某人
+c_greatly-admire | greatly admire | adv+v | 十分欽佩
+c_total-wreck | total wreck | adj+n | 徹底報廢, 身心俱疲
+c_quick-wit | quick wit | adj+n | 機智
+c_sharp-wit | sharp wit | adj+n | 機敏, 才思敏捷
+c_viable-option | viable option | adj+n | 可行的選擇
+c_economically-viable | economically viable | adv+adj | 經濟上可行
+c_commercially-viable | commercially viable | adv+adj | 商業上可行
+c_viable-alternative | viable alternative | adj+n | 可行的替代方案
+c_triumph-over-sth | triumph over sth | v+prep | 戰勝
+c_a-triumph-of-sth | a triumph of sth | n+n | …的勝利
+c_tricky-situation | tricky situation | adj+n | 棘手的局面
+c_tricky-question | tricky question | adj+n | 刁鑽的問題
+c_a-tendency-to-do-sth | a tendency to do sth | n+prep | 有做某事的傾向
+c_have-a-tendency-to-do-sth | have a tendency to do sth | v+n | 傾向於
+c_natural-tendency | natural tendency | adj+n | 天性
+c_substantially-higher | substantially higher | adv+adj | 高得多
+c_substantially-reduce | substantially reduce | adv+v | 大幅減少
+c_substantially-different | substantially different | adv+adj | 大不相同
+c_sudden-spike | sudden spike | adj+n | 突然飆升
+c_spike-in-sth | spike in sth | v+prep | …的激增
+c_socially-responsible | socially responsible | adv+adj | 有社會責任感
+c_distinguished-scholar | distinguished scholar | adj+n | 傑出學者
+c_sudden-revelation | sudden revelation | adj+n | 恍然大悟
+c_renowned-for-sth | renowned for sth | adj+prep | 以…聞名
+c_solve-a-puzzle | solve a puzzle | v+n | 解謎
+c_puzzle-over-sth | puzzle over sth | v+prep | 苦思
+c_make-a-prediction | make a prediction | v+n | 做出預測
+c_commit-an-offence | commit an offence | v+n | 犯罪
+c_criminal-offence | criminal offence | adj+n | 刑事犯罪
+c_take-offence-at-sth | take offence at sth | v+prep | 因…而生氣
+c_melt-into-sth | melt into sth | v+prep | 融入
+c_lightly-seasoned | lightly seasoned | adv+adj | 稍加調味
+c_tread-lightly | tread lightly | v+adv | 小心行事
+c_integral-part | integral part | adj+n | 不可或缺的部分
+c_integral-to-sth | integral to sth | adj+prep | 對…至關重要
+c_a-fraction-of-sth | a fraction of sth | n+n | 一小部分
+c_catch-the-flu | catch the flu | v+n | 得流感
+c_explicitly-state | explicitly state | adv+v | 明確表示
+c_explicitly-forbid | explicitly forbid | adv+v | 明令禁止
+c_explicit-content | explicit content | adj+n | 限制級內容
+c_sexually-explicit | sexually explicit | adv+adj | 露骨的
+c_enforce-a-law | enforce a law | v+n | 執法
+c_enforce-a-rule | enforce a rule | v+n | 執行規定
+c_strictly-enforce | strictly enforce | adv+v | 嚴格執行
+c_employ-sb-as-sth | employ sb as sth | v+prep | 僱用某人做
+c_employ-a-method | employ a method | v+n | 採用方法
+c_serve-detention | serve detention | v+n | 受罰留校
+c_dedication-to-sth | dedication to sth | n+prep | 對…的奉獻
+c_tireless-dedication | tireless dedication | adj+n | 不知疲倦的奉獻
+c_countless-times | countless times | adj+n | 無數次
+c_countless-hours | countless hours | adj+n | 無數個小時
+c_bad-conscience | bad conscience | adj+n | 愧疚
+c_clear-conscience | clear conscience | adj+n | 問心無愧
+c_prick-of-conscience | prick of conscience | n+n | 良心的譴責
+c_concentrated-solution | concentrated solution | adj+n | 濃縮溶液
+c_highly-concentrated | highly concentrated | adv+adj | 高濃度
+c_sheer-coincidence | sheer coincidence | adj+n | 純屬巧合
+c_get-clearance | get clearance | v+n | 獲得批准
+c_circulation-figures | circulation figures | n+n | 發行量
+c_rosy-cheeks | rosy cheeks | adj+n | 紅潤的臉頰
+c_kiss-sb-on-the-cheek | kiss sb on the cheek | v+prep | 親吻某人臉頰
+c_heavy-artillery | heavy artillery | adj+n | 重炮
+c_vast-wilderness | vast wilderness | adj+n | 茫茫荒野
+c_tense-situation | tense situation | adj+n | 緊張局勢
+c_tense-atmosphere | tense atmosphere | adj+n | 緊張的氣氛
+c_immediate-supervisor | immediate supervisor | adj+n | 直屬上司
+c_heave-a-sigh | heave a sigh | v+n | 嘆氣
+c_heave-a-sigh-of-relief | heave a sigh of relief | v+n | 鬆了一口氣
+c_sensitivity-to-sth | sensitivity to sth | n+prep | 對…的敏感
+c_cultural-sensitivity | cultural sensitivity | adj+n | 文化敏感度
+c_empty-rhetoric | empty rhetoric | adj+n | 空話
+c_have-reservations-about-sth | have reservations about sth | v+prep | 對…有疑慮
+c_express-reservations | express reservations | v+n | 表示保留意見
+c_greatly-relieved | greatly relieved | adv+adj | 如釋重負
+c_relieved-to-hear-sth | relieved to hear sth | adj+prep | 聽到後鬆了口氣
+c_punish-sb-for-sth | punish sb for sth | v+prep | 因…懲罰某人
+c_harshly-punished | harshly punished | adv+adj | 受到嚴厲懲罰
+c_plea-for-sth | plea for sth | n+prep | 對…的懇求
+c_guilty-plea | guilty plea | adj+n | 認罪答辯
+c_plea-for-help | plea for help | n+prep | 求救
+c_philosophical-about-sth | philosophical about sth | adj+prep | 對…看得開
+c_sharpen-a-pencil | sharpen a pencil | v+n | 削鉛筆
+c_deep-meditation | deep meditation | adj+n | 深度冥想
+c_internationally-recognized | internationally recognized | adv+adj | 國際公認
+c_internationally-renowned | internationally renowned | adv+adj | 國際知名
+c_hollow-laugh | hollow laugh | adj+n | 空洞的笑
+c_hollow-promise | hollow promise | adj+n | 空洞的承諾
+c_go-for-a-hike | go for a hike | v+prep | 去遠足
+c_price-hike | price hike | n+n | 漲價
+c_herald-a-new-era | herald a new era | v+n | 預示新時代
+c_heavy-frost | heavy frost | adj+n | 嚴霜
+c_hard-frost | hard frost | adj+n | 嚴重霜凍
+c_execute-a-plan | execute a plan | v+n | 執行計劃
+c_execute-an-order | execute an order | v+n | 執行命令
+c_dramatically-increase | dramatically increase | adv+v | 急劇增加
+c_dramatically-improve | dramatically improve | adv+v | 大幅改善
+c_dramatically-different | dramatically different | adv+adj | 截然不同
+c_financial-distress | financial distress | adj+n | 經濟困境
+c_cause-distress | cause distress | v+n | 造成痛苦
+c_severe-distress | severe distress | adj+n | 極度痛苦
+c_harsh-critic | harsh critic | adj+n | 嚴厲的批評者
+c_persistent-cough | persistent cough | adj+n | 持續咳嗽
+c_dry-cough | dry cough | adj+n | 乾咳
+c_make-a-correction | make a correction | v+n | 進行更正
+c_issue-a-correction | issue a correction | v+n | 釋出更正
+c_feel-compassion-for-sb | feel compassion for sb | v+prep | 同情某人
+c_show-compassion | show compassion | v+n | 表現出同情
+c_deep-compassion | deep compassion | adj+n | 深切同情
+c_head-on-collision | head-on collision | adj+n | 迎面相撞
+c_hail-a-cab | hail a cab | v+n | 招呼計程車
+c_slam-on-the-brakes | slam on the brakes | v+prep | 猛踩剎車
+c_apply-the-brakes | apply the brakes | v+n | 踩剎車
+c_blend-with-sth | blend with sth | v+prep | 與…融合
+c_blend-of-sth | blend of sth | v+prep | …的混合
+c_a-bargain-price | a bargain price | n+n | 特價
+c_appealing-to-sb | appealing to sb | adj+prep | 對…有吸引力
+c_visually-appealing | visually appealing | adv+adj | 視覺上吸引人
+c_annoyed-with-sb | annoyed with sb | adj+prep | 對…惱火
+c_annoyed-at-sth | annoyed at sth | adj+prep | 因…惱火
+c_thoroughly-annoyed | thoroughly annoyed | adv+adj | 非常惱火
+c_highly-ambitious | highly ambitious | adv+adj | 雄心勃勃
+c_ambitious-plan | ambitious plan | adj+n | 宏偉的計劃
+c_utterly-absurd | utterly absurd | adv+adj | 極其荒謬
+c_skilled-workforce | skilled workforce | adj+n | 技術工人隊伍
+c_cardinal-virtue | cardinal virtue | adj+n | 基本美德
+c_unconscious-mind | unconscious mind | adj+n | 潛意識
+c_a-trio-of-sth | a trio of sth | n+n | 三人組
+c_absolutely-thrilled | absolutely thrilled | adv+adj | 萬分激動
+c_threaten-to-do-sth | threaten to do sth | v+prep | 威脅要做
+c_threaten-sb-with-sth | threaten sb with sth | v+prep | 以…威脅某人
+c_seriously-threaten | seriously threaten | adv+v | 嚴重威脅
+c_rough-terrain | rough terrain | adj+n | 崎嶇地形
+c_swap-sth-for-sth | swap sth for sth | v+prep | 用…換…
+c_swap-places | swap places | v+n | 互換位置
+c_close-supervision | close supervision | adj+n | 嚴密監督
+c_add-spice | add spice | v+n | 增添風味
+c_stone-cold-sober | stone-cold sober | adv+adj | 完全清醒
+c_fall-for-a-scam | fall for a scam | v+prep | 上騙局
+c_robust-economy | robust economy | adj+n | 強勁的經濟
+c_robust-growth | robust growth | adj+n | 強勁增長
+c_claim-a-refund | claim a refund | v+n | 申請退款
+c_full-refund | full refund | adj+n | 全額退款
+c_demand-a-refund | demand a refund | v+n | 要求退款
+c_intended-recipient | intended recipient | adj+n | 指定收件人
+c_armed-rebellion | armed rebellion | adj+n | 武裝叛亂
+c_rebellion-against-sb | rebellion against sb | n+prep | 反抗…
+c_profound-effect | profound effect | adj+n | 深遠影響
+c_profound-impact | profound impact | adj+n | 深遠影響
+c_profoundly-affect | profoundly affect | adv+v | 深刻影響
+c_profound-silence | profound silence | adj+n | 深深的沉默
+c_optimal-solution | optimal solution | adj+n | 最優解
+c_optimal-conditions | optimal conditions | adj+n | 最佳條件
+c_vigorously-oppose | vigorously oppose | adv+v | 強烈反對
+c_bitterly-oppose | bitterly oppose | adv+v | 激烈反對
+c_motive-for-sth | motive for sth | n+prep | …的動機
+c_political-motive | political motive | adj+n | 政治動機
+c_be-located-in-sth | be located in sth | adj+prep | 位於
+c_conveniently-located | conveniently located | adv+adj | 位置便利
+c_leap-forward | leap forward | v+adv | 向前躍進
+c_leap-at-sth | leap at sth | v+prep | 迫不及待抓住
+c_factually-incorrect | factually incorrect | adv+adj | 與事實不符
+c_create-an-illusion | create an illusion | v+n | 製造假象
+c_shatter-an-illusion | shatter an illusion | v+n | 打破幻想
+c_pursue-a-hobby | pursue a hobby | v+n | 培養愛好
+c_bleeding-gums | bleeding gums | adj+n | 牙齦出血
+c_grind-coffee | grind coffee | v+n | 磨咖啡
+c_float-an-idea | float an idea | v+n | 提出想法
+c_bus-fare | bus fare | n+n | 公交車費
+c_air-fare | air fare | n+n | 機票費
+c_dull-pain | dull pain | adj+n | 隱痛
+c_dull-ache | dull ache | adj+n | 隱隱作痛
+c_consist-of-sth | consist of sth | v+prep | 由…組成
+c_consist-in-sth | consist in sth | v+prep | 在於
+c_translate-sth-into-sth | translate sth into sth | v+prep | 把…翻譯成…
+c_translate-literally | translate literally | v+adv | 直譯
+c_translate-from-sth | translate from sth | v+prep | 從…翻譯
+c_thankful-for-sth | thankful for sth | adj+prep | 對…心存感激
+c_smooth-texture | smooth texture | adj+n | 光滑的質地
+c_creamy-texture | creamy texture | adj+n | 綿滑的口感
+c_security-of-tenure | security of tenure | n+n | 任期保障
+c_sustain-an-injury | sustain an injury | v+n | 受傷
+c_sustain-growth | sustain growth | v+n | 保持增長
+c_sustain-life | sustain life | v+n | 維持生命
+c_lay-siege-to-sth | lay siege to sth | v+prep | 圍攻
+c_satisfying-meal | satisfying meal | adj+n | 令人滿足的一餐
+c_deeply-satisfying | deeply satisfying | adv+adj | 非常令人滿足
+c_seek-sanctuary | seek sanctuary | v+n | 尋求庇護
+c_religious-revival | religious revival | adj+n | 宗教復興
+c_class-reunion | class reunion | n+n | 同學聚會
+c_family-reunion | family reunion | n+n | 家庭團聚
+c_readily-available | readily available | adv+adj | 容易獲得
+c_readily-accept | readily accept | adv+v | 欣然接受
+c_readily-admit | readily admit | adv+v | 坦率承認
+c_prone-to-sth | prone to sth | adj+prep | 易於, 容易患…
+c_pierce-the-silence | pierce the silence | v+n | 打破寂靜
+c_overhead-costs | overhead costs | n+n | 間接費用
+c_orthodox-view | orthodox view | adj+n | 正統觀點
+c_occupy-a-position | occupy a position | v+n | 擔任職位
+c_occupy-a-seat | occupy a seat | v+n | 佔座位
+c_be-occupied-with-sth | be occupied with sth | adj+prep | 忙於
+c_social-norm | social norm | adj+n | 社會規範
+c_inability-to-do-sth | inability to do sth | n+prep | 無法做某事
+c_impress-sb-with-sth | impress sb with sth | v+prep | 以…給某人留下深刻印象
+c_call-a-halt-to-sth | call a halt to sth | v+prep | 叫停
+c_root-ginger | root ginger | n+n | 生薑
+c_dodge-a-question | dodge a question | v+n | 迴避問題
+c_dodge-taxes | dodge taxes | v+n | 逃稅
+c_discharge-a-duty | discharge a duty | v+n | 履行職責
+c_discharge-from-hospital | discharge from hospital | v+prep | 出院
+c_honourably-discharged | honourably discharged | adv+adj | 光榮退役
+c_dial-a-number | dial a number | v+n | 撥號碼
+c_steep-descent | steep descent | adj+n | 陡降
+c_descent-into-chaos | descent into chaos | n+n | 陷入混亂
+c_arise-from-sth | arise from sth | v+prep | 由…引起, 起因於
+c_lend-support | lend support | v+n | 提供支援
+c_impose-a-limit | impose a limit | v+n | 設定限制
+c_impose-sth-on-sb | impose sth on sb | v+prep | 把…強加於
+c_fierce-opposition | fierce opposition | adj+n | 強烈反對
+c_fierce-debate | fierce debate | adj+n | 激烈辯論
+c_deep-gratitude | deep gratitude | adj+n | 深深的感激
+c_express-gratitude | express gratitude | v+n | 表達感激
+c_a-debt-of-gratitude | a debt of gratitude | n+n | 恩情
+c_a-clove-of-garlic | a clove of garlic | n+n | 一瓣蒜
+c_clear-debris | clear debris | v+n | 清理殘骸
+c_competent-at-sth | competent at sth | adj+prep | 擅長, 勝任
+c_highly-competent | highly competent | adv+adj | 非常稱職
+c_beautifully-written | beautifully written | adv+adj | 寫得很美
+c_beautifully-designed | beautifully designed | adv+adj | 設計精美
+c_high-altitude | high altitude | adj+n | 高海拔
+c_gain-altitude | gain altitude | v+n | 爬升高度
+c_lose-altitude | lose altitude | v+n | 降低高度
+c_show-affection | show affection | v+n | 表達愛意
+c_deep-affection | deep affection | adj+n | 深情
+c_verbal-agreement | verbal agreement | adj+n | 口頭協議
+c_troubled-by-sth | troubled by sth | adj+prep | 為…所困擾
+c_stare-at-sb | stare at sb | v+prep | 盯著…看
+c_stare-blankly | stare blankly | v+adv | 茫然地凝視
+c_a-shortage-of-sth | a shortage of sth | n+n | …短缺
+c_severe-shortage | severe shortage | adj+n | 嚴重短缺
+c_face-a-shortage | face a shortage | v+n | 面臨短缺

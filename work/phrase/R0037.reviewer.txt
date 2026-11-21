@@ -1,0 +1,37 @@
+absolutely not | delete:free
+that's a good point | delete:free
+you're right | delete:free
+do you mind | phrase | int.你介意吗 = used to ask permission ; int.你能不能收敛点, 拜托 = used to show annoyance [informal] | B1 | -
+if you wouldn't mind | delete:variant=if you don't mind
+say hello to sb | phrase | v.向某人问好, 代为问候 = to greet someone or pass on greetings | A2 | -
+where are you from | delete:free
+I can't believe it | delete:free
+what a surprise | delete:free
+you can do it | delete:free
+don't give up | delete:free
+this is ridiculous | delete:free
+it's not fair | delete:free
+what a nuisance | delete:free
+at the age of | phrase | prep.在某岁时 = when someone is a particular age | A2 | -
+on the edge | phrase | adj.濒临边缘的, 岌岌可危的 = very close to a dangerous or extreme state | C1 | -
+on the grounds that | phrase | conj.理由是, 基于 = for the reason that | C1 | -
+on the part of | phrase | prep.来自某人方面, 由某人所做 = done or felt by someone | C1 | -
+for this reason | delete:free
+to illustrate | delete:free
+as far as sth is concerned | phrase | adv.就某事而言, 至于 = regarding a particular thing | B2 | -
+salt and pepper | delete:free
+ready and willing | delete:free
+cry like a baby | delete:free
+it's no use crying over spilt milk | delete:variant=don't cry over spilt milk
+brainstorming session | delete:free
+run a business | delete:free
+refund policy | delete:free
+pay in cash | delete:variant=in cash
+news story | delete:free
+fail an exam | delete:free
+pass an exam | delete:free
+cheat on a test | delete:free
+end of term | delete:free
+a quick learner | delete:free
+turn left | delete:free
+on the corner | delete:free

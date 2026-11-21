@@ -1,0 +1,303 @@
+w001653.1 | Is this umbrella yours? | 这把伞是你的吗？
+w001654.1 | He spent his youth in a small village. | 他的青年时代是在一个小村庄度过的。
+w001654.2 | The town needs more clubs for its youth. | 这个镇需要更多面向年轻人的俱乐部。
+w001654.3 | She still has the energy of youth. | 她依然充满年轻人的朝气。
+w001656.1 | I really appreciate your help. | 我非常感谢你的帮助。
+w001656.2 | You'll appreciate the music more as you get older. | 年纪越大，你会越懂得欣赏这种音乐。
+w001656.3 | I don't think you appreciate how serious this is. | 我觉得你没有意识到这事有多严重。
+w001657.1 | Keep the matches in a dry place. | 把火柴放在干燥的地方。
+w001657.2 | The lecture was long and rather dry. | 讲座又长又枯燥。
+w001657.3 | She prefers dry white wine. | 她更喜欢不甜的白葡萄酒。
+w001657.4 | Dry your hands on this towel. | 用这条毛巾擦干手。
+w001658.1 | Don't stand too close to the edge of the cliff. | 别站得离悬崖边太近。
+w001658.2 | Good training gave our team the edge. | 良好的训练让我们队占了优势。
+w001658.3 | Be careful, the knife has a sharp edge. | 小心，这把刀的刀刃很锋利。
+w001658.4 | She edged along the narrow wall. | 她沿着窄墙慢慢侧身挪动。
+w001659.1 | The story is about an evil king. | 这个故事讲的是一个邪恶的国王。
+w001659.2 | The film shows the fight between good and evil. | 这部电影展现了善与恶的斗争。
+w001659.3 | Poverty is one of the great evils of our time. | 贫困是我们这个时代的一大祸害。
+w001660.1 | The children are excited about the trip. | 孩子们对这次旅行感到很兴奋。
+w001661.1 | A fact-finding team was sent to the area. | 一个实情调查小组被派往该地区。
+w001662.1 | I'll remember this day forever. | 我会永远记住这一天。
+w001662.2 | My brother is forever losing his keys. | 我弟弟老是丢钥匙。
+w001664.1 | He missed the game because of a knee injury. | 他因膝伤错过了比赛。
+w001665.1 | The gate is made of iron. | 这扇大门是铁做的。
+w001665.2 | Be careful, the iron is still hot. | 小心，熨斗还很烫。
+w001665.3 | I need to iron my shirt before work. | 上班前我得把衬衫熨一下。
+w001666.1 | What a lovely dress! | 多漂亮的连衣裙啊！
+w001666.2 | We had a lovely time at the beach. | 我们在海边玩得很愉快。
+w001667.1 | Mum will be mad if we're late again. | 我们要是再迟到，妈妈会生气的。
+w001667.2 | You must be mad to go out in this storm. | 这么大的暴风雨还出去，你一定是疯了。
+w001667.3 | My son is mad about football. | 我儿子对足球很着迷。
+w001668.1 | She reads a fashion magazine every month. | 她每个月都看一本时尚杂志。
+w001668.2 | The soldier put a new magazine in his rifle. | 士兵给步枪换上了新弹匣。
+w001669.1 | The new law was passed by parliament. | 这项新法律由议会通过。
+w001670.1 | We were well prepared for the exam. | 我们为考试做好了充分准备。
+w001670.2 | Are you prepared to work at weekends? | 你愿意周末上班吗？
+w001671.1 | He made no reference to the accident. | 他没有提到那起事故。
+w001671.2 | Keep this list for future reference. | 把这份清单留着以后参考。
+w001671.3 | My old teacher wrote me a reference. | 我以前的老师给我写了一封推荐信。
+w001671.4 | The report references several earlier studies. | 这份报告引用了几项早期研究。
+w001672.1 | People of every religion are welcome here. | 这里欢迎各种宗教信仰的人。
+w001673.1 | I left my glasses somewhere in the house. | 我把眼镜落在家里某个地方了。
+w001673.2 | She is somewhere around forty. | 她大约四十岁。
+w001674.1 | We need a new strategy to win the game. | 我们需要新的策略来赢得比赛。
+w001675.1 | You can find the answer on the web. | 你可以在网上找到答案。
+w001675.2 | A spider was building a web in the corner. | 一只蜘蛛在角落里结网。
+w001675.3 | The police uncovered a web of lies. | 警方揭穿了一连串错综复杂的谎言。
+w001676.1 | Would you like a glass of red wine? | 你想来杯红葡萄酒吗？
+w001677.1 | Let's get to the core of the problem. | 我们来谈谈问题的核心吧。
+w001677.2 | Cut the apple and remove the core. | 把苹果切开，去掉果核。
+w001677.3 | Reading is a core skill for all students. | 阅读是所有学生的核心技能。
+w001678.1 | We had dinner at a Spanish restaurant. | 我们在一家西班牙餐厅吃了晚饭。
+w001678.2 | She speaks Spanish very well. | 她西班牙语说得很好。
+w001680.1 | He broke his arm playing football. | 他踢足球时摔断了胳膊。
+w001680.2 | The soldiers laid down their arms. | 士兵们放下了武器。
+w001680.3 | She sat on the arm of the sofa. | 她坐在沙发扶手上。
+w001680.4 | The guards were armed with guns. | 警卫们都配了枪。
+w001681.1 | The audience clapped loudly at the end. | 演出结束时观众热烈鼓掌。
+w001681.2 | He was granted an audience with the Pope. | 他获准觐见教皇。
+w001682.1 | Our boat sailed into a quiet bay. | 我们的船驶进了一个平静的海湾。
+w001682.2 | Please park in one of the loading bays. | 请把车停在一个装卸区里。
+w001682.3 | We heard wolves baying at the moon. | 我们听到狼对着月亮嚎叫。
+w001683.1 | She writes a blog about cooking. | 她写了一个关于烹饪的博客。
+w001683.2 | He blogs about his travels every week. | 他每周都写博客记录自己的旅行。
+w001684.1 | He plays centre-forward for the school team. | 他在校队里踢中锋。
+w001685.1 | Buses are a cost-effective way to travel. | 坐公交车是一种划算的出行方式。
+w001686.1 | Every citizen has a democratic right to vote. | 每个公民都享有投票的民主权利。
+w001686.2 | She is a member of the Democratic Party. | 她是民主党党员。
+w001687.1 | Can you give me a description of the man? | 你能描述一下那个男人的样子吗？
+w001687.2 | The shop sells tools of every description. | 这家商店出售各种各样的工具。
+w001688.1 | The food at this restaurant is excellent. | 这家餐厅的饭菜非常好。
+w001689.1 | Do you think ghosts really exist? | 你认为鬼真的存在吗？
+w001689.2 | They existed on bread and water for a week. | 他们靠面包和水活了一个星期。
+w001690.1 | A security guard stood at the door. | 一名保安站在门口。
+w001690.2 | Two dogs guard the farm at night. | 晚上有两只狗看守农场。
+w001690.3 | Soldiers were on guard outside the palace. | 士兵们在宫殿外站岗警戒。
+w001690.4 | Always use the guard when you cut vegetables. | 切菜时一定要用防护装置。
+w001691.1 | He is an honest man who never lies. | 他是个从不撒谎的诚实人。
+w001691.2 | To be honest, I didn't enjoy the film. | 说实话，我不喜欢这部电影。
+w001693.1 | We put up our tent in the lee of a large rock. | 我们在一块大岩石的背风处搭起了帐篷。
+w001693.2 | The village lies on the lee side of the hill. | 这个村子位于山的背风面。
+w001694.1 | Take this medicine three times a day. | 这药一天吃三次。
+w001694.2 | She wants to study medicine at university. | 她想在大学学医。
+w001695.1 | Did he mention where he was going? | 他提到他要去哪儿了吗？
+w001695.2 | There was no mention of the money in her letter. | 她信中没有提到那笔钱。
+w001696.1 | We climbed a mountain last summer. | 去年夏天我们爬了一座山。
+w001696.2 | I have a mountain of homework to do. | 我有一大堆作业要做。
+w001697.1 | The country gets most of its power from nuclear energy. | 这个国家的大部分电力来自核能。
+w001697.2 | Nuclear physics studies the parts of atoms. | 原子核物理学研究原子的组成部分。
+w001698.1 | The wave knocked him off-balance. | 海浪把他冲得失去了平衡。
+w001698.2 | Her question caught him off-balance. | 她的问题让他措手不及。
+w001699.1 | The ship stayed in port for two days. | 那艘船在港口停留了两天。
+w001699.2 | Plug the cable into the USB port. | 把数据线插到USB接口上。
+w001699.3 | The island was on the port side of the ship. | 岛在船的左舷一侧。
+w001700.1 | The company made a pre-tax profit of two million. | 这家公司的税前利润为两百万。
+w001701.1 | Please don't smoke in the presence of children. | 请不要当着孩子的面吸烟。
+w001701.2 | The country still has a military presence there. | 这个国家在那里仍有驻军。
+w001701.3 | The actor has a strong presence on stage. | 这位演员在舞台上很有气场。
+w001702.1 | What was his reaction to the news? | 他听到这个消息有什么反应？
+w001702.2 | Heat causes a chemical reaction. | 加热会引起化学反应。
+w001702.3 | The new fashion is a reaction against bright colours. | 这种新时尚是对鲜艳色彩的反叛。
+w001703.1 | Walking to work helps reduce pollution. | 步行上班有助于减少污染。
+w001704.1 | The hunter shot a deer. | 猎人射中了一头鹿。
+w001704.2 | The film was shot in New Zealand. | 这部电影是在新西兰拍摄的。
+w001704.3 | He shot from the edge of the box and scored. | 他在禁区边缘起脚射门得分了。
+w001704.4 | Green shoots appear on the trees in spring. | 春天树上长出了绿色的嫩芽。
+w001704.5 | She has a photo shoot for a magazine today. | 她今天要为一本杂志拍照。
+w001705.1 | Water turns solid when it freezes. | 水结冰时会变成固体。
+w001705.2 | The old bridge is still solid. | 这座旧桥依然很牢固。
+w001705.3 | The ring is made of solid gold. | 这枚戒指是纯金的。
+w001705.4 | Ice is a solid, but water is a liquid. | 冰是固体，而水是液体。
+w001706.1 | What's your favourite sport? | 你最喜欢什么运动？
+w001706.2 | Thanks for being such a good sport about losing. | 谢谢你输了还这么有风度。
+w001706.3 | He was sporting a bright red hat. | 他戴着一顶醒目的红帽子。
+w001707.1 | She's under a lot of stress at work. | 她工作压力很大。
+w001707.2 | The teacher stressed the importance of reading. | 老师强调了阅读的重要性。
+w001707.3 | The stress is on the first syllable. | 重音在第一个音节上。
+w001707.4 | The bridge was built to take great stress. | 这座桥建造时就考虑了承受巨大应力。
+w001708.1 | I don't like the taste of coffee. | 我不喜欢咖啡的味道。
+w001708.2 | She has good taste in clothes. | 她穿衣服很有品味。
+w001708.3 | Taste the soup and see if it needs salt. | 尝尝汤，看看要不要加盐。
+w001708.4 | This cake tastes wonderful. | 这个蛋糕味道好极了。
+w001709.1 | Would you like a cup of tea? | 你想喝杯茶吗？
+w001709.2 | We had tea and cake at four o'clock. | 我们四点钟吃了下午茶和蛋糕。
+w001710.1 | The team celebrated their victory. | 球队庆祝了他们的胜利。
+w001711.1 | She moved to Britain ten years ago. | 她十年前搬到了英国。
+w001712.1 | I'll see you tomorrow afternoon. | 明天下午见。
+w001713.1 | My assistant will send you the details. | 我的助理会把详细情况发给你。
+w001713.2 | The shop assistant helped me find a coat. | 店员帮我找到了一件外套。
+w001713.3 | She was promoted to assistant manager. | 她被提升为副经理。
+w001714.1 | It's one of the classic films of the 1950s. | 这是20世纪50年代的经典电影之一。
+w001714.2 | That's a classic example of bad planning. | 这是计划不周的典型例子。
+w001714.3 | This novel is a classic of English literature. | 这部小说是英国文学的经典名著。
+w001715.1 | I need to buy some new clothes. | 我需要买些新衣服。
+w001716.1 | My dad drives an electric car. | 我爸爸开电动汽车。
+w001716.2 | The atmosphere in the stadium was electric. | 体育场里的气氛紧张刺激。
+w001717.1 | In an emergency, call this number. | 遇到紧急情况，就打这个号码。
+w001717.2 | The plane made an emergency landing. | 飞机紧急降落了。
+w001718.1 | I entirely agree with you. | 我完全同意你的看法。
+w001719.1 | The plan ended in failure. | 这个计划以失败告终。
+w001719.2 | He felt like a failure after losing his job. | 丢了工作后，他觉得自己是个失败者。
+w001719.3 | The accident was caused by engine failure. | 这起事故是由发动机故障引起的。
+w001720.1 | Spring Festival is the most important festival in China. | 春节是中国最重要的节日。
+w001720.2 | We went to a music festival last summer. | 我们去年夏天去了一个音乐节。
+w001721.1 | The land here is very flat. | 这里的地很平坦。
+w001721.2 | They live in a small flat in the city centre. | 他们住在市中心的一套小公寓里。
+w001721.3 | I can't ride my bike because the tyre is flat. | 我的车胎瘪了，没法骑车。
+w001721.4 | The taxi charges a flat fee to the airport. | 出租车去机场收取固定费用。
+w001722.1 | The car is running out of fuel. | 汽车的燃料快用完了。
+w001722.2 | His words only fuelled her anger. | 他的话只是加剧了她的怒火。
+w001722.3 | The planes were fuelled before take-off. | 飞机起飞前加满了油。
+w001723.1 | The army harried the enemy for weeks. | 军队连续几个星期不断骚扰敌人。
+w001724.1 | Hello, is Anna there? | 喂，安娜在吗？
+w001724.2 | Say hello to your mother for me. | 替我向你妈妈问好。
+w001725.1 | She was ill for a week. | 她病了一个星期。
+w001725.2 | Don't speak ill of your friends. | 别说你朋友的坏话。
+w001725.3 | Many social ills are caused by poverty. | 许多社会弊病都是贫困造成的。
+w001726.1 | My initial reaction was surprise. | 我最初的反应是惊讶。
+w001726.2 | He wrote his initials on the box. | 他在盒子上写了自己姓名的首字母。
+w001726.3 | Please initial each page of the contract. | 请在合同的每一页上签姓名首字母。
+w001728.1 | He kicked the ball into the net. | 他把球踢进了网。
+w001728.2 | She gave the door a hard kick. | 她狠狠踢了门一脚。
+w001728.3 | He gets a kick out of driving fast. | 他从开快车中寻求刺激。
+w001728.4 | He's trying to kick the habit of eating late. | 他正在努力改掉吃夜宵的习惯。
+w001729.1 | The city has a large-scale plan to plant trees. | 这座城市有一个大规模的植树计划。
+w001730.1 | Has the mail arrived yet? | 邮件到了吗？
+w001730.2 | I'll send the book by mail. | 我会把书邮寄过去。
+w001730.3 | I check my mail every morning. | 我每天早上查看电子邮件。
+w001730.4 | Could you mail this letter for me? | 你能帮我寄这封信吗？
+w001731.1 | The storm caused massive damage. | 暴风雨造成了巨大的破坏。
+w001731.2 | The castle has massive stone walls. | 城堡有厚重的石墙。
+w001732.1 | I need a new pair of shoes. | 我需要一双新鞋。
+w001732.2 | The pair have been friends since school. | 这两个人从上学起就是朋友。
+w001732.3 | The teacher paired each student with a partner. | 老师给每个学生配了一个搭档。
+w001733.1 | Our plane landed on time. | 我们的飞机准时降落了。
+w001733.2 | Their discussion moved to a higher plane. | 他们的讨论上升到了更高的层次。
+w001733.3 | He smoothed the board with a plane. | 他用刨子把木板刨平了。
+w001733.4 | Plane the edge of the door so it closes. | 把门边刨一刨，让它能关上。
+w001734.1 | Don't worry, we have plenty of time. | 别担心，我们时间很充足。
+w001734.2 | They lived in a time of peace and plenty. | 他们生活在一个和平富足的时代。
+w001734.3 | The box is plenty big enough. | 这个箱子足够大了。
+w001735.1 | The prince lived in a big castle. | 王子住在一座大城堡里。
+w001735.2 | The prince ruled the small state for forty years. | 这位君主统治这个小国四十年。
+w001736.1 | Put the books back in their proper place. | 把书放回原处。
+w001736.2 | I haven't had a proper meal all day. | 我一整天都没吃上一顿像样的饭。
+w001736.3 | The hotel is outside the city proper. | 酒店在市区以外。
+w001738.1 | Cut the cake into quarters. | 把蛋糕切成四份。
+w001738.2 | It's a quarter past ten. | 现在是十点一刻。
+w001738.3 | Sales rose in the first quarter of the year. | 今年第一季度销售额上升了。
+w001738.4 | Peel and quarter the apples. | 把苹果削皮并切成四块。
+w001739.1 | She speaks with a regional accent. | 她说话带着地方口音。
+w001741.1 | We have a training session every Monday. | 我们每周一有一次训练课。
+w001741.2 | The court is now in session. | 法庭现在正在开庭。
+w001741.3 | The summer session starts in June. | 夏季学期六月开始。
+w001742.1 | The cake was in the shape of a heart. | 蛋糕做成了心形。
+w001742.2 | He runs every day to stay in shape. | 他每天跑步保持身材。
+w001742.3 | Our childhood shapes who we become. | 童年塑造了我们日后成为什么样的人。
+w001743.1 | Two men were hurt in a shoot-out with police. | 两名男子在与警察的枪战中受伤。
+w001743.2 | Our team won the game in a shoot-out. | 我们队在点球大战中赢得了比赛。
+w001744.1 | The sky is clear and blue today. | 今天天空晴朗湛蓝。
+w001745.1 | She has spent thirty years in teaching. | 她从事教学工作已经三十年了。
+w001745.2 | The book explains the teachings of Buddha. | 这本书讲解了佛陀的教义。
+w001746.1 | She walked toward the door. | 她朝门口走去。
+w001746.2 | How do you feel toward your new boss? | 你对新老板有什么看法？
+w001746.3 | It got colder toward evening. | 傍晚时分天气变冷了。
+w001747.1 | The money was transferred to my account. | 钱已经转到了我的账户上。
+w001747.2 | He transferred to a school near his home. | 他转学到了离家近的一所学校。
+w001747.3 | The bank charges a fee for each transfer. | 银行每笔转账都要收手续费。
+w001748.1 | Our bedroom is on the upper floor. | 我们的卧室在楼上。
+w001748.2 | They come from an upper-class family. | 他们出身于上层社会家庭。
+w001748.3 | These shoes have leather uppers. | 这双鞋的鞋帮是皮的。
+w001749.1 | This map is very useful for tourists. | 这张地图对游客非常有用。
+w001750.1 | A river runs through the valley. | 一条河流穿过山谷。
+w001751.1 | Are you willing to help us? | 你愿意帮助我们吗？
+w001751.2 | We need a few willing helpers for the party. | 我们需要几个自愿帮忙筹备聚会的人。
+w001752.1 | This is a no-parking zone. | 这是禁止停车区域。
+w001752.2 | The land has been zoned for housing. | 这片土地已被划为住宅区。
+w001753.1 | He was hurt in a car accident. | 他在一场车祸中受了伤。
+w001753.2 | We met by accident at the station. | 我们在车站偶然遇见了。
+w001754.1 | The hospital uses advanced technology. | 这家医院采用先进的技术。
+w001754.2 | She is taking an advanced English course. | 她在上高级英语课程。
+w001754.3 | The disease was at an advanced stage. | 这种病已经到了晚期。
+w001755.1 | We had no alternative but to wait. | 我们除了等待别无选择。
+w001755.2 | Is there an alternative route to the airport? | 去机场还有其他路线吗？
+w001755.3 | He is interested in alternative medicine. | 他对另类疗法很感兴趣。
+w001756.1 | I can't find my phone anywhere. | 我哪儿都找不到我的手机。
+w001757.1 | We saw a brown bear in the forest. | 我们在森林里看到了一只棕熊。
+w001757.2 | I can't bear this hot weather. | 我受不了这么热的天气。
+w001757.3 | The ice is too thin to bear your weight. | 冰太薄了，承受不住你的重量。
+w001757.4 | The letter bore her signature. | 这封信上有她的签名。
+w001758.1 | We crossed the river by boat. | 我们乘船过了河。
+w001758.2 | We went boating on the lake. | 我们在湖上划船游玩。
+w001759.1 | The stadium has a capacity of 50,000. | 这座体育场可容纳五万人。
+w001759.2 | She has a great capacity for hard work. | 她非常能吃苦耐劳。
+w001759.3 | He spoke in his capacity as head teacher. | 他以校长的身份发言。
+w001760.1 | Fruit is cheap at the market. | 市场上的水果很便宜。
+w001760.2 | These cheap shoes broke after a week. | 这双劣质鞋穿了一个星期就坏了。
+w001760.3 | Don't be so cheap; leave a tip. | 别这么小气，给点小费吧。
+w001761.1 | The island has a warm climate. | 这个岛的气候温暖。
+w001761.2 | The economic climate is difficult right now. | 目前的经济形势很严峻。
+w001762.1 | We had a long discussion about the plan. | 我们就这个计划进行了长时间的讨论。
+w001763.1 | It's our duty to help people in need. | 帮助有需要的人是我们的责任。
+w001763.2 | Which nurse is on duty tonight? | 今晚哪位护士值班？
+w001763.3 | You have to pay duty on these cigarettes. | 这些香烟你得交税。
+w001764.1 | We had a fantastic holiday. | 我们度过了一个极好的假期。
+w001764.2 | The book is full of fantastic creatures. | 这本书里满是奇异的生物。
+w001765.1 | Bats are the only flying mammals. | 蝙蝠是唯一会飞的哺乳动物。
+w001765.2 | My mother is afraid of flying. | 我妈妈害怕坐飞机。
+w001765.3 | She paid us a flying visit on her way home. | 她回家路上匆匆来看了我们一下。
+w001766.1 | The governor of the state gave a speech. | 州长发表了讲话。
+w001766.2 | She is one of the school governors. | 她是学校的理事之一。
+w001767.1 | There are a hundred students in the hall. | 礼堂里有一百名学生。
+w001767.2 | Hundreds of people came to the concert. | 数百人来听音乐会。
+w001768.1 | The river was polluted by industrial waste. | 这条河被工业废料污染了。
+w001768.2 | Britain was the first industrial nation. | 英国是第一个工业化国家。
+w001769.1 | The two schools made a joint decision. | 两所学校共同做出了决定。
+w001769.2 | My knee joints hurt when it rains. | 下雨时我的膝关节疼。
+w001769.3 | Water was leaking from a joint in the pipe. | 水从管子的接头处漏出来。
+w001770.1 | Mix the flour with the milk. | 把面粉和牛奶搅拌在一起。
+w001770.2 | She doesn't mix much with the other students. | 她不怎么和其他同学交往。
+w001770.3 | The city has an interesting mix of old and new buildings. | 这座城市新旧建筑交融，很有意思。
+w001771.1 | We visited the science museum yesterday. | 我们昨天参观了科学博物馆。
+w001772.1 | A narrow path leads down to the beach. | 一条小路通往海滩。
+w001772.2 | The storm is moving along a path to the north. | 暴风雨正沿着向北的路线移动。
+w001772.3 | Hard work is the path to success. | 努力是通往成功的道路。
+w001773.1 | I promise I'll call you tomorrow. | 我保证明天给你打电话。
+w001773.2 | He always keeps his promises. | 他总是信守诺言。
+w001773.3 | The young player shows great promise. | 这个年轻球员很有前途。
+w001774.1 | You can purchase tickets online. | 你可以在网上购票。
+w001774.2 | Keep the receipt as proof of purchase. | 保留收据作为购买凭证。
+w001774.3 | She showed us her new purchases. | 她给我们看了她新买的东西。
+w001775.1 | We got caught in the rain. | 我们遇上了雨。
+w001775.2 | It rained all day yesterday. | 昨天下了一整天的雨。
+w001776.1 | Please remove your bags from the seat. | 请把你的包从座位上拿走。
+w001776.2 | Please remove your shoes before entering. | 进门前请脱鞋。
+w001776.3 | The manager was removed from his job. | 那位经理被撤职了。
+w001777.1 | The bridge is made of steel. | 这座桥是钢铁造的。
+w001777.2 | She steeled herself to tell him the bad news. | 她鼓起勇气把坏消息告诉了他。
+w001779.1 | The food was terrible. | 饭菜糟透了。
+w001779.2 | It was a terrible accident. | 那是一场可怕的事故。
+w001779.3 | I have a terrible headache. | 我头痛得厉害。
+w001780.1 | I'm tired after the long walk. | 走了这么长的路，我累了。
+w001780.2 | I'm tired of eating the same food every day. | 我厌倦了每天吃同样的饭菜。
+w001781.1 | Take the second turning on the left. | 在左边第二个路口转弯。
+w001782.1 | Laziness is his only vice. | 懒惰是他唯一的坏毛病。
+w001782.2 | The police are trying to fight vice in the city. | 警方正在努力打击市内的犯罪活动。
+w001782.3 | He held the wood firmly in a vice. | 他用台钳把木头牢牢夹住。
+w001783.1 | It's warm today, so leave your coat. | 今天很暖和，别穿外套了。
+w001783.2 | They gave us a warm welcome. | 他们热情地欢迎了我们。
+w001783.3 | Come and warm your hands by the fire. | 过来在火边暖暖手。
+w001784.1 | He is a famous Canadian singer. | 他是一位著名的加拿大歌手。
+w001784.2 | Her husband is a Canadian. | 她丈夫是加拿大人。
+w001785.1 | My little sister is afraid of dogs. | 我妹妹怕狗。
+w001785.2 | I'm afraid I can't come tomorrow. | 恐怕我明天来不了。
+w001786.1 | He ordered a beer and a sandwich. | 他点了一杯啤酒和一个三明治。
+w001787.1 | We crossed the border into France. | 我们越过边境进入了法国。
+w001787.2 | The plate has a gold border. | 这个盘子有一道金边。
+w001787.3 | Spain borders France and Portugal. | 西班牙与法国和葡萄牙接壤。
+w001788.1 | The soldiers obeyed the command. | 士兵们服从了命令。
+w001788.2 | The captain is in command of the ship. | 船长指挥着这艘船。
+w001788.3 | She has a good command of French. | 她精通法语。
+w001788.4 | The officer commanded his men to stop. | 军官命令手下停下。
+w001788.5 | She commands the respect of her students. | 她赢得了学生们的尊敬。

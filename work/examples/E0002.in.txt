@@ -1,0 +1,300 @@
+w000114.1 | being | n. | B2 | 生物, 人 | a living creature
+w000114.2 | being | n. | B2 | 存在, 生存 | the state of existing
+w000115.1 | day | n. | A1 | 天, 日, 一天 | a period of 24 hours
+w000115.2 | day | n. | A1 | 白天, 白昼 | the time when it is light
+w000115.3 | day | n. | A1 | 时代, 时期 | a period in history
+w000116.1 | too | adv. | A1 | 太, 过于 | more than is wanted or acceptable
+w000116.2 | too | adv. | A1 | 也, 还 | also; as well
+w000116.3 | too | adv. | A1 | 非常, 很 | very
+w000117.1 | going | n. | B2 | 进展, 进度 | how easy or hard progress is
+w000117.2 | going | adj. | B2 | 现行的, 通行的 | usual or current at the time
+w000117.3 | going | n. | B2 | 离去, 离开 | the act of leaving
+w000118.1 | before | prep. | A1 | 在…之前, 早于 | earlier than
+w000118.2 | before | conj. | A1 | 在…之前, 以免 | earlier than the time when
+w000118.3 | before | adv. | A1 | 以前, 从前 | at an earlier time
+w000119.1 | off | adv. | A1 | 离开, 走开 | away from a place
+w000119.2 | off | adv. | A1 | 关, 停 | not working or switched off
+w000119.3 | off | prep. | A1 | 从…离开, 脱离 | away from or down from
+w000119.4 | off | adj. | A1 | 休息的, 不上班的 | not at work
+w000119.5 | off | adj. | A1 | 变质的, 坏了的 | no longer fresh
+w000120.1 | why | adv. | A1 | 为什么, 为何 | for what reason
+w000122.1 | still | adv. | A1 | 仍然, 还, 依旧 | continuing until now
+w000122.2 | still | adv. | A1 | 然而, 尽管如此 | despite that; however
+w000122.3 | still | adj. | A1 | 静止的, 不动的, 平静的 | not moving
+w000123.1 | take | v. | A1 | 拿, 取, 带走 | to get hold of or carry something
+w000123.2 | take | v. | A1 | 花费, 需要 | to need a certain time or effort
+w000123.3 | take | v. | A1 | 乘坐, 搭 | to travel by a vehicle
+w000125.1 | many | det. | A1 | 许多, 很多 | a large number of
+w000125.2 | many | pron. | A1 | 许多, 许多人 | a large number of people or things
+w000126.1 | never | adv. | A1 | 从不, 从来没有, 决不 | not at any time
+w000127.1 | right-on | adj. | C2 | 思想正确的, 赶潮流的 | having fashionable liberal opinions
+w000128.1 | those | det. | A1 | 那些, 那几个 | the ones further away or already mentioned
+w000128.2 | those | pron. | A1 | 那些, 那些人 | the people or things further away or mentioned
+w000129.1 | life | n. | A1 | 生活, 生涯 | the way a person lives
+w000129.2 | life | n. | A1 | 生命, 性命 | the state of being alive
+w000129.3 | life | n. | A1 | 一生, 寿命 | the period between birth and death
+w000130.1 | say | v. | A1 | 说, 讲 | to speak words
+w000130.2 | say | v. | A1 | 表明, 写着 | to give information in writing or signs
+w000130.3 | say | v. | A1 | 比如说, 假设 | used to suggest an example
+w000130.4 | say | n. | A1 | 发言权, 决定权 | the right to influence a decision
+w000131.1 | world | n. | A1 | 世界, 地球 | the earth and all its countries
+w000131.2 | world | n. | A1 | 领域, 界 | a particular area of activity
+w000131.3 | world | n. | A1 | 世人, 人们 | people in general
+w000132.1 | down | adv. | A1 | 向下, 往下 | towards a lower place or level
+w000132.2 | down | prep. | A1 | 沿着, 顺着 | along or towards the lower end of
+w000132.3 | down | adj. | A1 | 沮丧的, 情绪低落的 | sad or depressed
+w000132.4 | down | adj. | A1 | 出故障的, 停止运行的 | not working, of a computer system
+w000132.5 | down | n. | A1 | 绒毛, 羽绒 | soft fine feathers
+w000133.1 | great | adj. | A1 | 极好的, 很棒的 | very good or enjoyable
+w000133.2 | great | adj. | A1 | 巨大的, 大量的 | very large in size or amount
+w000133.3 | great | adj. | A1 | 伟大的, 杰出的 | important and admired
+w000134.1 | one-way | adj. | B1 | 单向的, 单行的 | moving or allowed in only one direction
+w000134.2 | one-way | adj. | B1 | 单程的 | for travel to a place but not back
+w000135.1 | through | prep. | A1 | 穿过, 通过 | from one side or end to the other
+w000135.2 | through | prep. | A1 | 自始至终, 贯穿 | from the beginning to the end of
+w000135.3 | through | prep. | A1 | 凭借, 由于 | by means of; because of
+w000136.1 | last | adj. | A1 | 最后的, 末尾的 | coming after all others
+w000136.2 | last | adj. | A1 | 上一个的, 最近的 | most recent; just before this one
+w000136.3 | last | v. | A1 | 持续, 延续 | to continue for a period of time
+w000136.4 | last | adv. | A1 | 最后, 最近一次 | after all others; most recently
+w000137.1 | while | conj. | A2 | 当…时, 在…期间 | during the time that
+w000137.2 | while | conj. | A2 | 然而, 而 | whereas; showing contrast
+w000137.3 | while | conj. | A2 | 虽然, 尽管 | although
+w000137.4 | while | n. | A2 | 一会儿, 一段时间 | a period of time
+w000138.1 | well-to-do | adj. | C1 | 富裕的, 有钱的, 小康的 | having plenty of money
+w000139.1 | out-of-the-way | adj. | C1 | 偏僻的, 偏远的 | far from towns and not often visited
+w000140.1 | such | det. | A2 | 这样的, 如此的 | of the kind already mentioned
+w000140.2 | such | det. | A2 | 这么, 那么 | to so great a degree
+w000140.3 | such | det. | A2 | 例如, 诸如 | used with as to give examples
+w000141.1 | love | v. | A1 | 爱, 热爱 | to have strong feelings of affection for
+w000141.2 | love | v. | A1 | 喜欢, 喜爱 | to like something very much
+w000141.3 | love | n. | A1 | 爱, 爱情 | a strong feeling of affection
+w000141.4 | love | n. | A1 | 亲爱的, 宝贝 | a friendly way of addressing someone
+w000141.5 | love | n. | A1 | 零分, 零 | a score of zero in tennis
+w000142.1 | man | n. | A1 | 男人, 成年男子 | an adult male person
+w000142.2 | man | n. | A1 | 人, 人类 | humans in general
+w000142.3 | man | v. | A1 | 操纵, 配备人员 | to work at or operate a place or machine
+w000143.1 | one-off | adj. | B2 | 一次性的, 只有一次的 | happening or made only once
+w000143.2 | one-off | n. | B2 | 一次性事物, 独一无二的事 | something that happens or is made only once
+w000144.1 | home | n. | A1 | 家, 住所 | the place where you live
+w000144.2 | home | adv. | A1 | 在家, 回家 | to or at the place where you live
+w000144.3 | home | n. | A1 | 家乡, 故乡 | the place you come from
+w000144.4 | home | adj. | A1 | 国内的, 本国的 | relating to your own country
+w000144.5 | home | n. | A1 | 养老院, 收容所 | a place where people are cared for
+w000145.1 | long | adj. | A1 | 长的, 长久的 | of great length or duration
+w000145.2 | long | adv. | A1 | 长久地, 长期地 | for a long time
+w000145.3 | long | v. | A1 | 渴望, 渴求 | to want something very much
+w000146.1 | look | v. | A1 | 看, 瞧 | to turn your eyes towards something
+w000146.2 | look | v. | A1 | 看起来, 显得 | to seem or appear
+w000146.3 | look | v. | A1 | 寻找, 找 | to search, used with for
+w000146.4 | look | n. | A1 | 看, 一瞥 | an act of looking
+w000146.5 | look | n. | A1 | 外表, 相貌 | a person's appearance
+w000147.1 | something | pron. | A1 | 某事, 某物, 某种东西 | a thing that is not named or known
+w000147.2 | something | adv. | A1 | 有点, 稍微 | somewhat; rather
+w000148.1 | use | v. | A1 | 使用, 利用 | to do something with a tool or method
+w000148.2 | use | v. | A1 | 耗费, 消耗 | to consume an amount of something
+w000148.3 | use | n. | A1 | 使用, 用途 | the act or purpose of using something
+w000149.1 | same | adj. | A1 | 相同的, 同样的 | exactly like another; not different
+w000149.2 | same | pron. | A1 | 同样的事, 同一事物 | the same thing
+w000150.1 | say-so | n. | C2 | 许可, 授权, 认可 | permission given by someone with authority
+w000150.2 | say-so | n. | C2 | 说法, 断言 | a statement made without proof
+w000151.1 | used | adj. | B1 | 习惯于的, 适应的 | familiar with something, used with to
+w000151.2 | used | adj. | B1 | 二手的, 旧的 | owned by someone else before
+w000152.1 | both | det. | A1 | 两个都, 两者的 | the two together
+w000152.2 | both | pron. | A1 | 两者, 双方 | the two people or things
+w000152.3 | both | conj. | A1 | 既…又, 不但…而且 | used with and to link two things
+w000153.1 | every | det. | A1 | 每个, 每一 | all members of a group, one by one
+w000153.2 | every | det. | A1 | 每隔, 每 | happening at regular intervals
+w000154.1 | AM | abbr. | A1 | 上午, 午前 | before noon, used after a time
+w000154.2 | AM | abbr. | A1 | 调幅, 调幅广播 | amplitude modulation, a radio broadcasting method
+w000155.1 | come | v. | A1 | 来, 过来 | to move towards the speaker
+w000155.2 | come | v. | A1 | 到达, 抵达 | to arrive somewhere
+w000155.3 | come | v. | A1 | 出现, 发生 | to happen or appear
+w000156.1 | part | n. | A1 | 部分, 局部 | a piece or section of a whole
+w000156.2 | part | n. | A1 | 零件, 部件 | a piece of a machine
+w000156.3 | part | n. | A1 | 角色, 作用 | a role in a play or activity
+w000156.4 | part | v. | A1 | 分开, 分离, 分手 | to separate or leave someone
+w000157.1 | state | n. | A2 | 状态, 状况 | the condition of something at a time
+w000157.2 | state | n. | A2 | 国家, 政府 | a country or its government
+w000157.3 | state | n. | A2 | 州, 邦 | a part of a country with its own government
+w000157.4 | state | v. | A2 | 陈述, 声明, 说明 | to say or write something formally
+w000158.1 | three | num. | A1 | 三, 三个 | the number 3
+w000159.1 | around | prep. | A1 | 在…周围, 环绕 | on every side of; surrounding
+w000159.2 | around | adv. | A1 | 到处, 四处 | in or to many places
+w000159.3 | around | adv. | A1 | 大约, 左右 | approximately
+w000160.1 | between | prep. | A1 | 在…之间, 在…中间 | in the space or time separating two things
+w000160.2 | between | prep. | A1 | 在…之间, 共同 | shared by or involving two or more
+w000160.3 | between | adv. | A1 | 在中间, 当中 | in the space or time in the middle
+w000161.1 | always | adv. | A1 | 总是, 一直, 永远 | at all times; forever
+w000162.1 | better | adj. | A1 | 更好的, 较好的 | of a higher standard or quality
+w000162.2 | better | adv. | A1 | 更好地, 更 | in a more excellent way
+w000162.3 | better | adj. | A1 | 好转的, 康复的 | less ill than before
+w000162.4 | better | v. | A1 | 改善, 超过 | to improve or do more than
+w000163.1 | find | v. | A1 | 找到, 发现 | to discover something by searching or by chance
+w000163.2 | find | v. | A1 | 发觉, 认为, 感到 | to have a particular opinion or feeling about
+w000163.3 | find | n. | A1 | 发现物, 收获 | something valuable that has been discovered
+w000164.1 | help | v. | A1 | 帮助, 援助 | to make it easier for someone to do something
+w000164.2 | help | n. | A1 | 帮助, 援助 | the act of helping
+w000164.3 | help | int. | A1 | 救命, 来人啊 | a shout asking for urgent assistance
+w000165.1 | high | adj. | A1 | 高的, 高大的 | far above the ground or tall
+w000165.2 | high | adj. | A1 | 高级的, 重要的 | important or of great rank
+w000165.3 | high | adv. | A1 | 高, 在高处 | at or to a high position
+w000165.4 | high | n. | A1 | 最高点, 高峰 | the highest level
+w000166.1 | little | adj. | A1 | 小的, 年幼的 | small in size or young
+w000166.2 | little | det. | A1 | 一点, 少许 | a small amount, used with a
+w000166.3 | little | det. | A1 | 很少的, 几乎没有的 | not much
+w000166.4 | little | adv. | A1 | 很少, 几乎不 | not much; hardly
+w000167.1 | old | adj. | A1 | 老的, 年老的 | having lived for a long time
+w000167.2 | old | adj. | A1 | …岁的, 年纪的 | of a particular age
+w000167.3 | old | adj. | A1 | 旧的, 陈旧的 | having existed or been used for a long time
+w000168.1 | since | prep. | A2 | 自从, 从…以来 | from a time in the past until now
+w000168.2 | since | conj. | A2 | 自从…以来 | from the time when
+w000168.3 | since | conj. | A2 | 因为, 既然 | because
+w000169.1 | two-way | adj. | B2 | 双向的, 往返的 | moving or working in both directions
+w000169.2 | two-way | adj. | B2 | 相互的, 双方的 | involving two people or groups equally
+w000170.1 | another | det. | A1 | 另一个, 又一个 | one more or a different one
+w000170.2 | another | pron. | A1 | 另一个, 再一个 | an additional or different person or thing
+w000171.1 | own | adj. | A1 | 自己的, 本人的 | belonging to a particular person
+w000171.2 | own | v. | A1 | 拥有, 有 | to have something as your property
+w000172.1 | go-go | adj. | C2 | 充满活力的, 迅速发展的 | energetic and growing fast
+w000172.2 | go-go | adj. | C2 | 劲舞的, 跳摇摆舞的 | relating to fast dancing in clubs
+w000173.1 | one-man | adj. | B2 | 单人的, 一个人的 | done or run by one person only
+w000174.1 | under | prep. | A1 | 在…下面, 在…之下 | below or beneath something
+w000174.2 | under | prep. | A1 | 少于, 低于 | less than
+w000174.3 | under | prep. | A1 | 在…中, 在…控制下 | affected or controlled by
+w000174.4 | under | adv. | A1 | 在下面, 向下 | below the surface
+w000175.1 | during | prep. | A2 | 在…期间, 在…时候 | throughout or at some point in a period
+w000176.1 | game | n. | A1 | 游戏, 娱乐 | an activity played for fun with rules
+w000176.2 | game | n. | A1 | 比赛, 运动 | a sports match
+w000176.3 | game | n. | A1 | 猎物, 野味 | wild animals hunted for food or sport
+w000176.4 | game | adj. | A1 | 愿意的, 乐意尝试的 | willing to try something new
+w000177.1 | thing | n. | A1 | 东西, 事物 | an object you do not name exactly
+w000177.2 | thing | n. | A1 | 事情, 事 | an action, event or idea
+w000177.3 | thing | n. | A1 | 物品, 用品 | personal belongings, in plural
+w000178.1 | give | v. | A1 | 给, 送给 | to hand or provide something to someone
+w000178.2 | give | v. | A1 | 提供, 举办 | to provide or organize something
+w000178.3 | give | v. | A1 | 做出, 发出, 发表 | to perform an action such as a speech or smile
+w000179.1 | house | n. | A1 | 房子, 住宅 | a building where people live
+w000179.2 | house | n. | A1 | 议院, 院 | a group that makes laws
+w000179.3 | house | v. | A1 | 提供住处, 容纳 | to give a place to live or keep
+w000180.1 | place | n. | A1 | 地方, 地点 | a particular area or position
+w000180.2 | place | n. | A1 | 位置, 座位 | a seat or proper position
+w000180.3 | place | n. | A1 | 名次, 名列 | a position in a race or competition
+w000180.4 | place | v. | A1 | 放置, 安放 | to put something somewhere carefully
+w000181.1 | school | n. | A1 | 学校, 学院 | a place where children are educated
+w000181.2 | school | n. | A1 | 上学, 学业 | the time spent studying at school
+w000181.3 | school | n. | A1 | 学派, 流派 | a group sharing the same ideas or style
+w000182.1 | again | adv. | A1 | 再, 又, 再次 | one more time
+w000182.2 | again | adv. | A1 | 回到原处, 恢复原状 | back to a previous state or place
+w000183.1 | next | adj. | A1 | 下一个的, 其次的 | coming immediately after
+w000183.2 | next | adj. | A1 | 隔壁的, 紧挨着的 | nearest in position
+w000183.3 | next | adv. | A1 | 接下来, 然后 | immediately after this
+w000184.1 | Mr | abbr. | A1 | 先生, 君 | a title used before a man's surname
+w000185.1 | each | det. | A1 | 每个, 各个 | every one of two or more, separately
+w000185.2 | each | pron. | A1 | 每个, 各自 | every single one
+w000185.3 | each | adv. | A1 | 每个, 各 | for or to every one
+w000186.1 | well-being | n. | B2 | 幸福, 健康, 安康 | the state of being healthy and happy
+w000187.1 | without | prep. | A1 | 没有, 无 | not having or not with
+w000187.2 | without | prep. | A1 | 不, 而不 | not doing a particular action
+w000188.1 | against | prep. | A2 | 反对, 违反 | opposing or disagreeing with
+w000188.2 | against | prep. | A2 | 与…对抗, 对阵 | competing with in a game or fight
+w000188.3 | against | prep. | A2 | 靠着, 倚着 | touching and pressing on
+w000189.1 | end | n. | A1 | 结束, 末尾 | the final part of something
+w000189.2 | end | n. | A1 | 端, 尽头 | the furthest point of a thing
+w000189.3 | end | n. | A1 | 目的, 目标 | an aim or purpose
+w000189.4 | end | v. | A1 | 结束, 终止 | to finish or stop
+w000190.1 | found | v. | B2 | 建立, 创办, 成立 | to start an organization or institution
+w000190.2 | found | v. | B2 | 基于, 以…为基础 | to base something on an idea or fact
+w000191.1 | must | aux. | A1 | 必须, 应当 | used to say something is necessary
+w000191.2 | must | aux. | A1 | 一定, 必定 | used to say something is very likely
+w000191.3 | must | n. | A1 | 必须做的事, 必备之物 | something that should not be missed
+w000192.1 | show | v. | A1 | 显示, 表明 | to make clear or prove
+w000192.2 | show | v. | A1 | 给…看, 出示 | to let someone see something
+w000192.3 | show | n. | A1 | 演出, 节目 | a performance or programme
+w000192.4 | show | n. | A1 | 展览, 展览会 | an event where things are displayed
+w000193.1 | well-off | adj. | B2 | 富裕的, 有钱的 | having plenty of money
+w000193.2 | well-off | adj. | B2 | 处境好的, 幸运的 | in a good situation
+w000194.1 | big | adj. | A1 | 大的, 巨大的 | large in size or amount
+w000194.2 | big | adj. | A1 | 重要的, 重大的 | important or serious
+w000194.3 | big | adj. | A1 | 年长的, 大的 | older, of a brother or sister
+w000195.1 | feel | v. | A1 | 感觉, 觉得 | to experience an emotion or physical state
+w000195.2 | feel | v. | A1 | 认为, 以为 | to have an opinion
+w000195.3 | feel | v. | A1 | 摸, 触摸 | to touch something to learn about it
+w000195.4 | feel | n. | A1 | 感觉, 触感 | the way something feels when touched
+w000196.1 | see-through | adj. | B2 | 透明的, 透视的 | thin enough to be seen through
+w000197.1 | sure | adj. | A1 | 确信的, 肯定的 | certain about something
+w000197.2 | sure | adj. | A1 | 一定的, 必定的 | certain to happen
+w000197.3 | sure | adv. | A1 | 当然, 没问题 | yes; of course
+w000198.1 | team | n. | A1 | 队, 团队, 小组 | a group of people working or playing together
+w000198.2 | team | v. | A1 | 合作, 联合 | to join together, used with up
+w000199.1 | ever | adv. | A2 | 曾经, 在任何时候 | at any time
+w000199.2 | ever | adv. | A2 | 永远, 始终 | always; all the time
+w000199.3 | ever | adv. | A2 | 究竟, 到底 | used for emphasis in questions
+w000200.1 | family | n. | A1 | 家庭, 家人 | parents and their children
+w000200.2 | family | n. | A1 | 家族, 亲属 | all the people related to someone
+w000200.3 | family | n. | A1 | 科, 族类 | a group of related animals or plants
+w000201.1 | high-up | n. | C1 | 高层人士, 要人, 大人物 | a person with an important position in an organization
+w000202.1 | keep | v. | A1 | 保持, 保留, 继续 | to continue to have or stay in a state
+w000202.2 | keep | v. | A1 | 存放, 保存, 储存 | to store something in a particular place
+w000202.3 | keep | v. | A1 | 遵守, 履行 | to do what you promised or agreed
+w000202.4 | keep | n. | A1 | 生活费, 食宿 | the cost of food and housing
+w000203.1 | might | aux. | A2 | 可能, 也许, 或许 | used to say something is possible
+w000203.2 | might | aux. | A2 | 可以, 不妨 | used to make polite suggestions or requests
+w000203.3 | might | n. | A2 | 力量, 权力, 威力 | great power or strength
+w000204.1 | part-time | adj. | B1 | 兼职的, 非全日的 | working or studying for only part of the usual time
+w000204.2 | part-time | adv. | B1 | 兼职地, 部分时间地 | for only part of the usual working time
+w000205.1 | please | int. | A1 | 请, 劳驾 | used to make a request polite
+w000205.2 | please | v. | A1 | 使高兴, 使满意, 取悦 | to make someone happy or satisfied
+w000205.3 | please | v. | A1 | 想要, 愿意 | to want or choose to do something
+w000206.1 | put | v. | A1 | 放, 放置, 摆 | to move something into a particular place
+w000206.2 | put | v. | A1 | 使处于, 使进入 | to cause someone or something to be in a state
+w000206.3 | put | v. | A1 | 表达, 说, 写 | to express something in words
+w000207.1 | day-to-day | adj. | B2 | 日常的, 每天的, 日复一日的 | happening every day as part of normal life
+w000208.1 | money | n. | A1 | 钱, 金钱, 货币 | coins and notes used to buy things
+w000208.2 | money | n. | A1 | 财富, 财产 | wealth that someone has
+w000209.1 | old-time | adj. | C1 | 旧时的, 老式的, 往昔的 | typical of or belonging to the past
+w000210.1 | free | adj. | A1 | 免费的, 无偿的 | costing nothing
+w000210.2 | free | adj. | A1 | 自由的, 不受约束的 | able to do what you want; not controlled
+w000210.3 | free | adj. | A1 | 空闲的, 有空的 | not busy or not being used
+w000210.4 | free | v. | A1 | 释放, 解放, 使摆脱 | to let someone or something go
+w000210.5 | free | adv. | A1 | 免费地 | without payment
+w000211.1 | second | num. | A1 | 第二, 第二的 | coming after the first one
+w000211.2 | second | n. | A1 | 秒, 片刻, 瞬间 | one sixtieth of a minute; a very short time
+w000211.3 | second | v. | A1 | 附议, 赞成 | to formally support a proposal in a meeting
+w000211.4 | second | adv. | A1 | 其次, 第二 | in the second place
+w000212.1 | someone | pron. | A1 | 某人, 有人 | a person who is not named or known
+w000213.1 | away | adv. | A1 | 离开, 远离 | to or at a distance from a place
+w000213.2 | away | adv. | A1 | 不在, 外出 | not present at home or work
+w000213.3 | away | adv. | A1 | 持续地, 不停地 | continuously or repeatedly
+w000213.4 | away | adj. | A1 | 客场的 | played at the opponent's ground
+w000214.1 | left | adj. | A1 | 左边的, 左侧的 | on the side of the body where the heart is
+w000214.2 | left | adv. | A1 | 向左, 往左 | towards the left side
+w000214.3 | left | n. | A1 | 左边, 左侧 | the left side or direction
+w000214.4 | left | n. | A1 | 左派, 左翼 | political groups supporting social change and equality
+w000215.1 | number | n. | A1 | 数字, 数, 号码 | a word or symbol showing an amount or position
+w000215.2 | number | n. | A1 | 数量, 数目 | an amount of people or things
+w000215.3 | number | v. | A1 | 给编号, 计数 | to give a number to each item
+w000215.4 | number | v. | A1 | 总计, 达到 | to reach a particular total
+w000216.1 | city | n. | A1 | 城市, 都市 | a large and important town
+w000216.2 | city | n. | A1 | 全市居民 | all the people living in a city
+w000217.1 | lot | n. | A1 | 许多, 大量 | a large number or amount
+w000217.2 | lot | n. | A1 | 一块地, 场地 | an area of land used for a purpose
+w000217.3 | lot | n. | A1 | 一批, 一组, 拍卖品 | a group of items, especially sold at auction
+w000218.1 | name | n. | A1 | 名字, 姓名, 名称 | the word that someone or something is called
+w000218.2 | name | n. | A1 | 名声, 名誉 | the reputation someone has
+w000218.3 | name | v. | A1 | 命名, 给取名 | to give someone or something a name
+w000218.4 | name | v. | A1 | 说出名字, 指定, 任命 | to say the name of; to choose officially
+w000219.1 | night | n. | A1 | 夜, 夜晚, 晚上 | the time when it is dark outside
+w000220.1 | play | v. | A1 | 玩, 玩耍, 参加比赛 | to do things for fun or take part in a game
+w000220.2 | play | v. | A1 | 演奏, 弹奏, 播放 | to make music with an instrument or device
+w000220.3 | play | v. | A1 | 扮演, 饰演 | to act a character in a film or drama
+w000220.4 | play | n. | A1 | 戏剧, 剧本 | a story performed by actors on stage
+w000220.5 | play | n. | A1 | 玩耍, 游戏 | activity done for fun
+w000221.1 | until | prep. | A1 | 直到, 直至 | up to a particular time
+w000221.2 | until | conj. | A1 | 直到, 在之前 | up to the time when something happens
+w000222.1 | company | n. | A2 | 公司, 企业 | a business organization that sells goods or services
+w000222.2 | company | n. | A2 | 陪伴, 作伴 | being with another person
+w000222.3 | company | n. | A2 | 同伴, 宾客 | people you are with or who visit you
+w000223.1 | few | det. | A1 | 很少的, 几乎没有的 | not many
+w000223.2 | few | det. | A1 | 一些, 几个 | a small number of, used with a
+w000223.3 | few | pron. | A1 | 少数, 几个 | a small number of people or things

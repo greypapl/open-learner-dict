@@ -1,0 +1,2500 @@
+w011393.1 | bullock | n. | 閹牛, 小公牛
+w011394.1 | cad | n. | 無賴, 下流男人
+w011395.1 | candidacy | n. | 候選資格, 候選人身份
+w011396.1 | carve | v. | 雕刻, 刻
+w011396.2 | carve | v. | 切, 切肉
+w011396.3 | carve | v. | 開創, 贏得
+w011397.1 | clubhouse | n. | 俱樂部會所, 更衣室
+w011398.1 | coarse | adj. | 粗糙的, 粗的
+w011398.2 | coarse | adj. | 粗俗的, 粗魯的
+w011399.1 | collegiate | adj. | 大學的, 學院的
+w011400.1 | commonplace | adj. | 普通的, 常見的, 平凡的
+w011400.2 | commonplace | n. | 平常事, 常見的事
+w011401.1 | compute | v. | 計算, 估算
+w011403.1 | confidently | adv. | 自信地, 有把握地
+w011404.1 | contemplate | v. | 考慮, 打算
+w011404.2 | contemplate | v. | 沉思, 思考
+w011404.3 | contemplate | v. | 注視, 凝視
+w011405.1 | converter | n. | 轉換器, 變換器
+w011406.1 | coop | n. | 雞籠, 雞舍
+w011406.2 | coop | v. | 關起來, 禁閉
+w011407.1 | coronary | adj. | 冠狀動脈的, 心臟的
+w011407.2 | coronary | n. | 心臟病發作, 冠心病
+w011409.1 | crook | n. | 騙子, 壞蛋, 罪犯
+w011409.2 | crook | n. | 彎曲處, 臂彎
+w011409.3 | crook | v. | 彎曲
+w011410.1 | cucumber | n. | 黃瓜
+w011412.1 | deco | n. | 裝飾藝術風格
+w011413.1 | depict | v. | 描繪, 描述, 刻畫
+w011415.1 | diagnose | v. | 診斷, 確診
+w011416.1 | directorate | n. | 理事會, 董事會
+w011416.2 | directorate | n. | 管理局, 司, 處
+w011417.1 | diver | n. | 潛水員, 跳水運動員
+w011419.1 | dormant | adj. | 休眠的, 蟄伏的, 潛伏的
+w011420.1 | dotted | adj. | 有點的, 虛線的
+w011420.2 | dotted | adj. | 散佈的, 點綴的
+w011421.1 | embarrass | v. | 使尷尬, 使難堪, 使窘迫
+w011423.1 | emulate | v. | 仿效, 模仿, 趕上
+w011423.2 | emulate | v. | 模擬, 模擬
+w011424.1 | enquiry | n. | 詢問, 打聽
+w011424.2 | enquiry | n. | 調查, 查究
+w011425.1 | evasion | n. | 逃避, 規避
+w011425.2 | evasion | n. | 託詞, 迴避
+w011426.1 | evergreen | adj. | 常綠的
+w011426.2 | evergreen | n. | 常綠植物
+w011426.3 | evergreen | adj. | 經久不衰的, 長青的
+w011427.1 | eviction | n. | 驅逐, 逐出
+w011428.1 | expulsion | n. | 開除, 驅逐
+w011428.2 | expulsion | n. | 排出, 噴出
+w011430.1 | filth | n. | 汙穢, 汙物, 骯髒
+w011430.2 | filth | n. | 淫穢內容, 下流話
+w011432.1 | foliage | n. | 葉子, 樹葉, 枝葉
+w011433.1 | foreclosure | n. | 取消抵押品贖回權, 止贖
+w011434.1 | fortnight | n. | 兩星期, 十四天
+w011436.1 | genie | n. | 妖怪, 精靈
+w011437.1 | goo | n. | 黏性物, 黏糊糊的東西
+w011439.1 | heartbroken | adj. | 心碎的, 極度傷心的
+w011440.1 | helper | n. | 幫手, 助手
+w011441.1 | hesitant | adj. | 猶豫的, 遲疑的, 不情願的
+w011442.1 | hoop | n. | 圈, 環, 箍
+w011442.2 | hoop | n. | 籃筐
+w011443.1 | hubby | n. | 老公, 丈夫
+w011444.1 | hurdle | n. | 障礙, 難關
+w011444.2 | hurdle | n. | 跨欄, 欄架
+w011444.3 | hurdle | v. | 跨欄, 跳過
+w011445.1 | hypertension | n. | 高血壓
+w011446.1 | immortality | n. | 不朽, 永生, 不朽的名聲
+w011447.1 | indefinite | adj. | 無限期的, 不確定的
+w011447.2 | indefinite | adj. | 模糊的, 不明確的
+w011448.1 | insightful | adj. | 有洞察力的, 有見地的, 深刻的
+w011449.1 | irrespective | adv. | 不論, 不管, 不顧
+w011451.1 | kicker | n. | 踢球手
+w011451.2 | kicker | n. | 意外轉折, 出人意料之處
+w011452.1 | ledge | n. | 壁架, 窗臺, 巖架
+w011456.1 | malt | n. | 麥芽
+w011456.2 | malt | n. | 麥芽威士忌
+w011458.1 | mindfulness | n. | 正念, 留心, 專注
+w011460.1 | moderator | n. | 主持人, 調解人
+w011460.2 | moderator | n. | 版主, 管理員
+w011461.1 | momma | n. | 媽媽, 媽
+w011462.1 | monstrous | adj. | 駭人的, 可怕的, 殘暴的
+w011462.2 | monstrous | adj. | 巨大的, 龐大的
+w011463.1 | morphology | n. | 形態學
+w011463.2 | morphology | n. | 詞法, 形態學
+w011464.1 | mustache | n. | 小鬍子, 八字鬍
+w011466.1 | natal | adj. | 出生的, 誕生的
+w011467.1 | novice | n. | 新手, 初學者
+w011467.2 | novice | n. | 見習修士, 見習修女
+w011468.1 | obituary | n. | 訃告, 訃聞
+w011469.1 | ordination | n. | 授聖職, 聖職授任
+w011471.1 | parity | n. | 同等, 平等, 相等
+w011471.2 | parity | n. | 平價, 匯兌平價
+w011472.1 | persuasive | adj. | 有說服力的, 令人信服的
+w011473.1 | pew | n. | 教堂長椅
+w011475.1 | populous | adj. | 人口眾多的, 人口稠密的
+w011476.1 | postwar | adj. | 戰後的
+w011477.1 | proactive | adj. | 積極主動的, 先發制人的
+w011479.1 | projector | n. | 投影儀, 放映機
+w011480.1 | prominently | adv. | 顯著地, 突出地, 顯眼地
+w011481.1 | prudent | adj. | 謹慎的, 慎重的, 精明的
+w011482.1 | qualifier | n. | 資格賽, 預選賽
+w011482.2 | qualifier | n. | 晉級者, 合格者
+w011482.3 | qualifier | n. | 修飾語, 限定詞
+w011483.1 | reliant | adj. | 依賴的, 依靠的
+w011484.1 | reputable | adj. | 聲譽好的, 可靠的, 值得信賴的
+w011485.1 | revolver | n. | 左輪手槍
+w011486.1 | rink | n. | 溜冰場, 滑冰場
+w011487.1 | ripple | n. | 漣漪, 波紋
+w011487.2 | ripple | v. | 泛起漣漪, 起伏
+w011487.3 | ripple | n. | 波及, 一陣
+w011488.1 | seeker | n. | 尋求者, 探索者
+w011489.1 | sentinel | n. | 哨兵, 守衛
+w011490.1 | solemn | adj. | 莊嚴的, 隆重的
+w011490.2 | solemn | adj. | 嚴肅的, 鄭重的
+w011491.1 | spacious | adj. | 寬敞的, 廣闊的
+w011494.1 | substantive | adj. | 實質性的, 重大的
+w011494.2 | substantive | n. | 名詞, 實詞
+w011495.1 | substitution | n. | 代替, 替換, 替補
+w011497.1 | torah | n. | 托拉, 猶太律法
+w011498.1 | torso | n. | 軀幹, 上身
+w011499.1 | tremendously | adv. | 極大地, 非常, 驚人地
+w011500.1 | tumble | v. | 跌倒, 滾落
+w011500.2 | tumble | v. | 暴跌, 驟降
+w011500.3 | tumble | n. | 跌倒, 摔跤
+w011501.1 | unleash | v. | 釋放, 發洩, 引發
+w011502.1 | unpublished | adj. | 未發表的, 未出版的
+w011503.1 | untrue | adj. | 不真實的, 虛假的, 錯誤的
+w011504.1 | verbally | adv. | 口頭上, 用言語
+w011505.1 | vitality | n. | 活力, 生命力, 生氣
+w011506.1 | windshield | n. | 擋風玻璃
+w011508.1 | zodiac | n. | 黃道帶, 十二宮
+w011509.1 | abandonment | n. | 放棄, 拋棄, 遺棄
+w011510.1 | abyss | n. | 深淵, 無底洞
+w011510.2 | abyss | n. | 絕境, 深淵
+w011511.1 | accession | n. | 就職, 即位
+w011511.2 | accession | n. | 加入, 加盟
+w011514.1 | arithmetic | n. | 算術, 計算
+w011515.1 | arson | n. | 縱火, 放火罪
+w011516.1 | authoritative | adj. | 權威的, 可信的
+w011516.2 | authoritative | adj. | 命令式的, 專斷的
+w011517.1 | barren | adj. | 貧瘠的, 荒蕪的
+w011517.2 | barren | adj. | 不生育的, 不結果的
+w011518.1 | basal | adj. | 基礎的, 基底的
+w011519.1 | batsman | n. | 板球擊球手, 擊球員
+w011520.1 | bedding | n. | 床上用品, 鋪蓋
+w011520.2 | bedding | n. | 墊草, 褥草
+w011521.1 | bender | n. | 狂飲作樂
+w011522.1 | bourgeois | adj. | 資產階級的, 中產階級的
+w011522.2 | bourgeois | adj. | 庸俗的, 守舊的
+w011523.1 | bribery | n. | 賄賂, 行賄, 受賄
+w011524.1 | brunette | n. | 深褐色頭髮的女子
+w011524.2 | brunette | adj. | 深褐色的
+w011525.1 | bureaucratic | adj. | 官僚的, 官僚主義的
+w011526.1 | buzzer | n. | 蜂鳴器, 電鈴
+w011527.1 | cactus | n. | 仙人掌
+w011528.1 | cassette | n. | 盒式磁帶, 磁帶
+w011529.1 | childcare | n. | 兒童保育, 托兒服務
+w011530.1 | chronological | adj. | 按時間順序的, 編年的
+w011531.1 | cleavage | n. | 乳溝
+w011531.2 | cleavage | n. | 分裂, 分歧
+w011532.1 | co-ordination | n. | 協調, 配合
+w011532.2 | co-ordination | n. | 協調能力, 動作協調
+w011533.1 | cohort | n. | 一群人, 同齡群體
+w011533.2 | cohort | n. | 同夥, 支持者
+w011534.1 | conceive | v. | 設想, 構想, 想象
+w011534.2 | conceive | v. | 懷孕, 受孕
+w011535.1 | cuddle | v. | 擁抱, 摟抱
+w011535.2 | cuddle | n. | 擁抱, 摟抱
+w011536.1 | culprit | n. | 罪犯, 肇事者
+w011536.2 | culprit | n. | 罪魁禍首, 根源
+w011538.1 | daunting | adj. | 令人生畏的, 嚇人的, 艱鉅的
+w011539.1 | deviation | n. | 偏離, 背離, 偏差
+w011539.2 | deviation | n. | 偏差, 離差
+w011540.1 | diffusion | n. | 傳播, 擴散, 普及
+w011540.2 | diffusion | n. | 擴散
+w011541.1 | dildo | n. | 假陽具
+w011542.1 | distrust | n. | 不信任, 懷疑
+w011542.2 | distrust | v. | 不信任, 懷疑
+w011543.1 | embark | v. | 上船, 登機
+w011543.2 | embark | v. | 著手, 開始
+w011544.1 | entrepreneurial | adj. | 企業家的, 創業的
+w011545.1 | ether | n. | 乙醚
+w011545.2 | ether | n. | 以太, 太空
+w011546.1 | etiquette | n. | 禮儀, 禮節, 規矩
+w011547.1 | extravagant | adj. | 奢侈的, 浪費的
+w011547.2 | extravagant | adj. | 過分的, 誇張的
+w011548.1 | familiarity | n. | 熟悉, 通曉
+w011548.2 | familiarity | n. | 親近, 隨便
+w011549.1 | fender | n. | 擋泥板
+w011549.2 | fender | n. | 護舷, 爐圍
+w011551.1 | fetal | adj. | 胎兒的
+w011552.1 | fiance | n. | 未婚夫
+w011555.1 | gorge | n. | 峽谷, 山峽
+w011555.2 | gorge | v. | 狼吞虎嚥, 狂吃
+w011558.1 | harp | n. | 豎琴
+w011558.2 | harp | v. | 嘮叨, 反覆說
+w011559.1 | heartfelt | adj. | 衷心的, 真誠的, 誠摯的
+w011560.1 | hoodie | n. | 連帽衫, 衛衣
+w011561.1 | housewife | n. | 家庭主婦
+w011562.1 | hypocrite | n. | 偽君子, 虛偽的人
+w011563.1 | incorporation | n. | 納入, 合併, 結合
+w011563.2 | incorporation | n. | 公司註冊, 成立公司
+w011564.1 | insure | v. | 投保, 給...保險
+w011564.2 | insure | v. | 確保, 保證
+w011565.1 | joyful | adj. | 快樂的, 高興的, 歡樂的
+w011567.1 | kickoff | n. | 開球, 開賽
+w011567.2 | kickoff | n. | 開始, 啟動
+w011569.1 | lacrosse | n. | 長曲棍球
+w011570.1 | latex | n. | 乳膠, 膠乳
+w011571.1 | leftover | n. | 剩飯, 剩菜
+w011571.2 | leftover | adj. | 剩餘的, 殘留的
+w011572.1 | legalization | n. | 合法化
+w011574.1 | mammoth | n. | 猛獁象
+w011574.2 | mammoth | adj. | 巨大的, 龐大的
+w011575.1 | marvellous | adj. | 極好的, 了不起的, 令人驚歎的
+w011576.1 | matchup | n. | 比賽, 對決, 對陣
+w011577.1 | meh | int. | 無所謂, 一般般
+w011577.2 | meh | adj. | 平庸的, 一般的
+w011579.1 | modem | n. | 調變解調器, 貓
+w011580.1 | motif | n. | 圖案, 花紋
+w011580.2 | motif | n. | 主題, 主旨
+w011581.1 | newcomer | n. | 新來者, 新手
+w011582.1 | oats | n. | 燕麥, 燕麥片
+w011583.1 | ominous | adj. | 不祥的, 不吉利的, 預兆不好的
+w011584.1 | openness | n. | 坦率, 公開, 開放
+w011584.2 | openness | n. | 開放性, 接納
+w011586.1 | papal | adj. | 教皇的, 羅馬教皇的
+w011588.1 | peril | n. | 危險, 險境
+w011590.1 | playable | adj. | 可玩的, 可演奏的
+w011592.1 | posh | adj. | 豪華的, 高檔的
+w011592.2 | posh | adj. | 上流社會的, 優雅的
+w011593.1 | precaution | n. | 預防措施, 防備
+w011594.1 | principally | adv. | 主要地, 大部分
+w011595.1 | professionalism | n. | 專業精神, 職業素養
+w011597.1 | rampage | n. | 橫衝直撞, 狂暴行為, 撒野
+w011597.2 | rampage | v. | 橫衝直撞, 狂暴亂闖
+w011598.1 | reassuring | adj. | 令人安心的, 使人放心的, 鼓舞人心的
+w011599.1 | rebirth | n. | 復興, 再生, 重生
+w011600.1 | recharge | v. | 充電, 再充電
+w011600.2 | recharge | v. | 恢復精力, 養精蓄銳
+w011601.1 | reliably | adv. | 可靠地, 確實地, 可信地
+w011602.1 | retina | n. | 視網膜
+w011603.1 | riff | n. | 即興重複段, 反覆樂段, 連復段
+w011603.2 | riff | v. | 即興發揮, 即興演奏
+w011606.1 | scattering | n. | 少量, 零星, 稀疏分佈
+w011606.2 | scattering | n. | 散射, 分散
+w011607.1 | scrape | v. | 刮, 擦, 刮掉
+w011607.2 | scrape | v. | 擦傷, 刮傷
+w011607.3 | scrape | n. | 擦傷, 刮痕, 困境
+w011608.1 | semantic | adj. | 語義的, 語義學的
+w011609.1 | shear | v. | 剪羊毛, 修剪, 剪
+w011609.2 | shear | v. | 切斷, 斷裂
+w011609.3 | shear | n. | 剪下力, 切變
+w011610.1 | sherry | n. | 雪利酒
+w011611.1 | silicone | n. | 矽樹脂, 矽酮, 有機矽
+w011612.1 | skepticism | n. | 懷疑, 懷疑態度, 懷疑論
+w011613.1 | sly | adj. | 狡猾的, 狡詐的, 詭詐的
+w011613.2 | sly | adj. | 會意的, 調皮的, 詭秘的
+w011614.1 | smiley | n. | 笑臉符號, 笑臉
+w011614.2 | smiley | adj. | 笑眯眯的, 愛笑的
+w011615.1 | snoop | v. | 窺探, 打探, 探聽
+w011615.2 | snoop | n. | 窺探者, 愛打聽的人
+w011616.1 | startling | adj. | 驚人的, 令人吃驚的, 駭人的
+w011617.1 | strife | n. | 衝突, 爭鬥, 不和
+w011617.2 | strife | n. | 困難, 麻煩
+w011618.1 | stylist | n. | 髮型師, 造型師
+w011618.2 | stylist | n. | 設計師, 文體家
+w011619.1 | tenor | n. | 男高音, 男高音歌手
+w011619.2 | tenor | n. | 大意, 要旨, 基調
+w011620.1 | thrift | n. | 節儉, 節約
+w011620.2 | thrift | n. | 二手商店
+w011621.1 | traverse | v. | 橫穿, 穿過, 越過
+w011621.2 | traverse | n. | 橫越, 橫向通道
+w011622.1 | turnaround | n. | 好轉, 轉變, 扭轉
+w011622.2 | turnaround | n. | 週轉時間, 處理時間
+w011623.1 | uterus | n. | 子宮
+w011624.1 | validate | v. | 驗證, 證實, 確認
+w011624.2 | validate | v. | 使生效, 批准
+w011624.3 | validate | v. | 認可, 肯定
+w011625.1 | vid | n. | 影片, 錄影
+w011626.1 | vocalist | n. | 歌手, 歌唱家, 主唱
+w011629.1 | zebra | n. | 斑馬
+w011633.1 | aft | adv. | 在船尾, 向船尾, 在機尾
+w011633.2 | aft | adj. | 船尾的, 後部的
+w011634.1 | anesthesia | n. | 麻醉, 麻木
+w011635.1 | anonymity | n. | 匿名, 無名, 不知名
+w011637.1 | appropriation | n. | 撥款, 專款
+w011637.2 | appropriation | n. | 挪用, 盜用, 佔用
+w011637.3 | appropriation | n. | 借用, 挪用
+w011638.1 | aria | n. | 詠歎調
+w011639.1 | barefoot | adj. | 赤腳的, 光腳的
+w011639.2 | barefoot | adv. | 赤著腳, 光著腳
+w011640.1 | barrage | n. | 連珠炮, 一連串, 接二連三
+w011640.2 | barrage | n. | 彈幕, 密集炮火
+w011640.3 | barrage | n. | 攔河壩, 堰
+w011643.1 | brilliance | n. | 才華, 卓越, 出色
+w011643.2 | brilliance | n. | 光輝, 光彩, 明亮
+w011645.1 | broth | n. | 肉湯, 清湯, 高湯
+w011646.1 | centenary | n. | 一百週年, 百年紀念
+w011647.1 | checkpoint | n. | 檢查站, 關卡, 檢查點
+w011648.1 | chloride | n. | 氯化物
+w011649.1 | classify | v. | 分類, 歸類, 劃分
+w011649.2 | classify | v. | 列為機密, 保密
+w011650.1 | clinically | adv. | 臨床上, 醫學上
+w011650.2 | clinically | adv. | 冷靜地, 冷漠地
+w011651.1 | cocky | adj. | 驕傲自大的, 自以為是的, 狂妄的
+w011652.1 | coefficient | n. | 係數
+w011653.1 | conditioner | n. | 護髮素, 潤髮乳
+w011653.2 | conditioner | n. | 柔順劑, 調節劑
+w011654.1 | conglomerate | n. | 企業集團, 聯合大企業
+w011654.2 | conglomerate | n. | 礫岩, 聚集物
+w011655.1 | cornerstone | n. | 基石, 基礎, 柱石
+w011655.2 | cornerstone | n. | 牆角石, 奠基石
+w011656.1 | correctness | n. | 正確性, 準確, 正確
+w011656.2 | correctness | n. | 得體, 恰當
+w011657.1 | counterfeit | adj. | 偽造的, 假冒的, 仿造的
+w011657.2 | counterfeit | v. | 偽造, 仿造, 造假
+w011657.3 | counterfeit | n. | 贗品, 偽造品
+w011658.1 | dazzling | adj. | 耀眼的, 眼花繚亂的, 炫目的
+w011658.2 | dazzling | adj. | 令人讚歎的, 出色的, 驚豔的
+w011660.1 | deacon | n. | 執事, 助祭
+w011661.1 | dentistry | n. | 牙科, 牙醫學, 牙科醫術
+w011664.1 | edgy | adj. | 緊張不安的, 煩躁的, 焦慮的
+w011664.2 | edgy | adj. | 前衛的, 新潮的, 大膽的
+w011665.1 | eff | v. | 罵髒話, 說粗話
+w011667.1 | encore | n. | 返場表演, 加演
+w011667.2 | encore | int. | 再來一個
+w011668.1 | enormously | adv. | 非常, 極其, 巨大地
+w011670.1 | err | v. | 犯錯, 出錯, 犯錯誤
+w011671.1 | espresso | n. | 濃縮咖啡, 意式濃縮咖啡
+w011672.1 | evade | v. | 逃避, 躲避, 規避
+w011672.2 | evade | v. | 迴避, 避開
+w011673.1 | fab | adj. | 極好的, 棒極了
+w011674.1 | freaky | adj. | 怪異的, 古怪的, 嚇人的
+w011675.1 | futile | adj. | 徒勞的, 無效的, 無用的
+w011676.1 | glacial | adj. | 冰川的, 冰河的
+w011676.2 | glacial | adj. | 極慢的, 冷淡的, 冰冷的
+w011677.1 | gloomy | adj. | 憂鬱的, 沮喪的, 悲觀的
+w011677.2 | gloomy | adj. | 昏暗的, 陰暗的
+w011678.1 | graceful | adj. | 優美的, 優雅的, 雅緻的
+w011678.2 | graceful | adj. | 得體的, 大方的
+w011679.1 | gritty | adj. | 真實的, 寫實的, 嚴酷的
+w011679.2 | gritty | adj. | 堅毅的, 有勇氣的
+w011679.3 | gritty | adj. | 有砂礫的, 含沙的
+w011681.1 | heartbreak | n. | 心碎, 傷心, 悲痛
+w011682.1 | heist | n. | 搶劫, 盜竊
+w011683.1 | heterosexual | adj. | 異性戀的
+w011683.2 | heterosexual | n. | 異性戀者
+w011684.1 | hinder | v. | 阻礙, 妨礙, 阻止
+w011685.1 | hobbit | n. | 霍位元人
+w011686.1 | horseback | n. | 馬背
+w011686.2 | horseback | adv. | 騎著馬, 在馬背上
+w011687.1 | hospice | n. | 臨終關懷醫院, 安養院
+w011688.1 | hotline | n. | 熱線, 熱線電話
+w011688.2 | hotline | n. | 直通電話
+w011690.1 | inhibition | n. | 拘束, 顧慮, 壓抑
+w011690.2 | inhibition | n. | 抑制, 阻止
+w011691.1 | integer | n. | 整數
+w011692.1 | interdisciplinary | adj. | 跨學科的, 多學科的
+w011693.1 | intermittent | adj. | 間歇的, 斷斷續續的, 時斷時續的
+w011694.1 | intimidation | n. | 恐嚇, 威脅, 脅迫
+w011696.1 | iteration | n. | 迭代, 版本
+w011696.2 | iteration | n. | 重複, 反覆
+w011700.1 | magnum | n. | 大酒瓶
+w011700.2 | magnum | n. | 馬格南手槍
+w011701.1 | melancholy | n. | 憂鬱, 悲傷, 惆悵
+w011701.2 | melancholy | adj. | 憂鬱的, 傷感的, 悲哀的
+w011702.1 | meteorological | adj. | 氣象的, 氣象學的
+w011703.1 | milf | n. | 性感熟女
+w011704.1 | misplaced | adj. | 錯位的, 放錯地方的
+w011704.2 | misplaced | adj. | 不恰當的, 錯付的
+w011705.1 | misty | adj. | 有霧的, 霧濛濛的
+w011705.2 | misty | adj. | 模糊的, 淚眼朦朧的
+w011706.1 | mop | n. | 拖把
+w011706.2 | mop | v. | 拖地, 擦, 抹
+w011706.3 | mop | n. | 亂蓬蓬的頭髮
+w011707.1 | multicultural | adj. | 多元文化的, 多種文化的
+w011708.1 | negligible | adj. | 微不足道的, 可忽略的, 極少的
+w011709.1 | nudity | n. | 裸體, 赤裸
+w011710.1 | obligatory | adj. | 強制的, 義務的, 必須的
+w011710.2 | obligatory | adj. | 慣常的, 例行的
+w011711.1 | oceanic | adj. | 海洋的, 大洋的
+w011712.1 | outpost | n. | 前哨, 前哨基地, 邊遠據點
+w011713.1 | overflow | v. | 溢位, 漫出, 氾濫
+w011713.2 | overflow | v. | 擠滿, 充滿
+w011713.3 | overflow | n. | 溢位, 過剩, 溢流
+w011714.1 | oxidation | n. | 氧化, 氧化作用
+w011715.1 | panorama | n. | 全景, 全景圖, 風景
+w011715.2 | panorama | n. | 概述, 全貌
+w011716.1 | peep | v. | 偷看, 窺視, 瞥
+w011716.2 | peep | v. | 探出, 露出
+w011716.3 | peep | n. | 偷看, 一瞥, 吱吱聲
+w011717.1 | pervasive | adj. | 普遍的, 遍佈的, 無處不在的
+w011718.1 | pickle | n. | 泡菜, 醃菜, 醃黃瓜
+w011718.2 | pickle | v. | 醃製, 醃漬
+w011718.3 | pickle | n. | 困境, 窘境
+w011719.1 | pinky | n. | 小指, 小拇指
+w011719.2 | pinky | adj. | 略帶粉色的, 粉紅色的
+w011720.1 | playwright | n. | 劇作家, 編劇
+w011721.1 | predatory | adj. | 掠奪性的, 剝削的
+w011721.2 | predatory | adj. | 食肉的, 捕食性的
+w011722.1 | preface | n. | 序言, 前言, 引言
+w011722.2 | preface | v. | 作為開場, 以…開始
+w011723.1 | prescribe | v. | 開藥, 開處方
+w011723.2 | prescribe | v. | 規定, 指定
+w011724.1 | punitive | adj. | 懲罰性的, 處罰的
+w011724.2 | punitive | adj. | 嚴苛的, 過重的
+w011725.1 | rainforest | n. | 雨林, 熱帶雨林
+w011727.1 | reborn | adj. | 再生的, 重生的, 新生的
+w011728.1 | reddish | adj. | 微紅的, 淡紅色的, 略帶紅色的
+w011729.1 | reprint | v. | 重印, 再版
+w011729.2 | reprint | n. | 重印本, 再版
+w011730.1 | restroom | n. | 洗手間, 廁所, 衛生間
+w011731.1 | rhythmic | adj. | 有節奏的, 節律的, 有韻律的
+w011732.1 | robber | n. | 強盜, 搶劫犯, 盜賊
+w011734.1 | roulette | n. | 輪盤賭
+w011735.1 | rowing | n. | 划船, 賽艇運動
+w011736.1 | rumored | adj. | 謠傳的, 據傳的, 傳聞的
+w011737.1 | samoa | n. | 薩摩亞
+w011739.1 | satin | n. | 緞子, 綢緞
+w011739.2 | satin | adj. | 緞子般的, 光滑的
+w011740.1 | scatter | v. | 撒, 散播, 撒播
+w011740.2 | scatter | v. | 驅散, 四散, 分散
+w011741.1 | scramble | v. | 攀爬, 爬, 攀登
+w011741.2 | scramble | v. | 爭奪, 搶, 匆忙行動
+w011741.3 | scramble | v. | 炒蛋, 打亂
+w011742.1 | segregated | adj. | 隔離的, 種族隔離的, 分開的
+w011743.1 | semantics | n. | 語義學
+w011743.2 | semantics | n. | 語義, 含義, 措辭
+w011744.1 | shameless | adj. | 無恥的, 不知羞恥的, 厚顏的
+w011745.1 | showtime | n. | 開演時間, 演出時間
+w011745.2 | showtime | n. | 表現的時刻
+w011746.1 | sinner | n. | 罪人, 有罪的人
+w011747.1 | skeletal | adj. | 骨骼的, 骨架的
+w011747.2 | skeletal | adj. | 骨瘦如柴的, 極瘦的
+w011747.3 | skeletal | adj. | 梗概的, 框架的
+w011748.1 | snapshot | n. | 快照, 照片
+w011748.2 | snapshot | n. | 簡要描述, 概況
+w011749.1 | soar | v. | 猛增, 劇增, 飛漲
+w011749.2 | soar | v. | 翱翔, 高飛
+w011750.1 | spherical | adj. | 球形的, 球狀的
+w011751.1 | sprinkle | v. | 撒, 灑, 點綴
+w011751.2 | sprinkle | n. | 少量, 零星
+w011752.1 | spruce | n. | 雲杉
+w011752.2 | spruce | adj. | 整潔的, 衣冠楚楚的
+w011752.3 | spruce | v. | 打扮, 收拾, 裝飾
+w011754.1 | stamina | n. | 耐力, 精力, 體力
+w011755.1 | standalone | adj. | 獨立的, 單機的, 獨立執行的
+w011756.1 | subconscious | adj. | 潛意識的, 下意識的
+w011756.2 | subconscious | n. | 潛意識
+w011757.1 | thinker | n. | 思想家, 思考者
+w011758.1 | tonic | n. | 奎寧水, 湯力水
+w011758.2 | tonic | n. | 補藥, 補品, 滋補品
+w011758.3 | tonic | n. | 令人振奮的事物
+w011759.1 | troublesome | adj. | 麻煩的, 令人煩惱的, 棘手的
+w011760.1 | tumour | n. | 腫瘤, 腫塊
+w011761.1 | twain | num. | 二, 兩
+w011762.1 | vanish | v. | 消失, 不見, 絕跡
+w011763.1 | vigorously | adv. | 有力地, 精力充沛地, 強烈地
+w011764.1 | visibly | adv. | 明顯地, 顯而易見地
+w011769.1 | abrupt | adj. | 突然的, 意外的
+w011769.2 | abrupt | adj. | 唐突的, 粗魯的, 生硬的
+w011770.1 | acronym | n. | 首字母縮略詞, 縮寫詞
+w011771.1 | adversity | n. | 逆境, 困境, 厄運
+w011772.1 | advertiser | n. | 廣告商, 廣告客戶, 登廣告者
+w011773.1 | affidavit | n. | 宣誓書, 書面證詞
+w011775.1 | antics | n. | 滑稽動作, 古怪行為, 胡鬧
+w011776.1 | astrology | n. | 占星術, 占星學
+w011777.1 | authorize | v. | 授權, 批准, 認可
+w011778.1 | baroness | n. | 男爵夫人, 女男爵
+w011779.1 | barrow | n. | 手推車, 獨輪車
+w011779.2 | barrow | n. | 古墳, 墳丘
+w011781.1 | biographical | adj. | 傳記的, 傳記體的
+w011782.1 | biomass | n. | 生物質, 生物量
+w011784.1 | blouse | n. | 女式襯衫, 女襯衫
+w011785.1 | bodyguard | n. | 保鏢, 警衛, 護衛
+w011786.1 | botany | n. | 植物學
+w011787.1 | bulldog | n. | 鬥牛犬, 牛頭犬
+w011788.1 | caterpillar | n. | 毛毛蟲, 毛蟲
+w011788.2 | caterpillar | n. | 履帶
+w011789.1 | chatter | v. | 喋喋不休, 閒聊, 嘮叨
+w011789.2 | chatter | v. | 打戰, 打顫
+w011789.3 | chatter | n. | 閒聊, 嘮叨, 喋喋不休
+w011790.1 | cleric | n. | 神職人員, 教士, 牧師
+w011791.1 | comedic | adj. | 喜劇的, 滑稽的
+w011792.1 | compile | v. | 編纂, 彙編, 收集
+w011792.2 | compile | v. | 編譯
+w011793.1 | compressor | n. | 壓縮機, 壓氣機
+w011797.1 | cougar | n. | 美洲獅
+w011797.2 | cougar | n. | 熟女, 追求年輕男子的女人
+w011799.1 | deceive | v. | 欺騙, 矇騙, 哄騙
+w011800.1 | defamation | n. | 誹謗, 中傷, 破壞名譽
+w011802.1 | directional | adj. | 方向的, 定向的
+w011802.2 | directional | adj. | 定向的, 指向性的
+w011803.1 | disciple | n. | 追隨者, 信徒, 弟子
+w011803.2 | disciple | n. | 門徒
+w011804.1 | ditto | adv. | 同上, 也一樣
+w011804.2 | ditto | n. | 同上符號, 同前
+w011805.1 | divergent | adj. | 有分歧的, 不同的, 分散的
+w011806.1 | doctorate | n. | 博士學位
+w011808.1 | downright | adv. | 徹頭徹尾地, 完全地, 十足地
+w011808.2 | downright | adj. | 十足的, 徹底的
+w011809.1 | electrode | n. | 電極
+w011810.1 | elemental | adj. | 基本的, 本質的, 原始的
+w011810.2 | elemental | adj. | 自然力的
+w011811.1 | elevate | v. | 提升, 提高, 使升職
+w011811.2 | elevate | v. | 抬高, 舉起
+w011812.1 | exemplary | adj. | 模範的, 典範的, 可作榜樣的
+w011812.2 | exemplary | adj. | 懲戒性的, 警戒性的
+w011813.1 | expansive | adj. | 廣闊的, 遼闊的, 廣泛的
+w011813.2 | expansive | adj. | 健談的, 豪爽的
+w011814.1 | fife | n. | 橫笛, 短笛
+w011815.1 | geez | int. | 天哪, 哎呀
+w011816.1 | gland | n. | 腺, 腺體
+w011817.1 | gotcha | int. | 抓住你了, 逮到了
+w011817.2 | gotcha | int. | 明白了, 知道了
+w011819.1 | guerrilla | n. | 游擊隊員, 游擊戰士
+w011819.2 | guerrilla | adj. | 遊擊的, 遊擊式的
+w011820.1 | gutter | n. | 排水溝, 陰溝, 簷槽
+w011820.2 | gutter | n. | 貧賤, 社會底層
+w011821.1 | hearty | adj. | 豐盛的, 量大的
+w011821.2 | hearty | adj. | 熱情的, 衷心的, 親切的
+w011823.1 | hillside | n. | 山坡, 山腰
+w011825.1 | hysteria | n. | 歇斯底里, 狂熱, 情緒失控
+w011826.1 | impartial | adj. | 公正的, 不偏不倚的, 無偏見的
+w011827.1 | imperialism | n. | 帝國主義
+w011828.1 | imprint | n. | 印記, 痕跡, 影響
+w011828.2 | imprint | v. | 留下印記, 銘刻
+w011828.3 | imprint | n. | 出版社名稱
+w011829.1 | incremental | adj. | 逐步的, 遞增的, 增量的
+w011830.1 | infancy | n. | 嬰兒期, 幼年
+w011830.2 | infancy | n. | 初期, 初創期
+w011831.1 | inhibitor | n. | 抑制劑, 抑制物
+w011832.1 | inquire | v. | 詢問, 打聽, 查問
+w011832.2 | inquire | v. | 調查, 探究
+w011834.1 | jumbo | adj. | 特大的, 巨型的
+w011834.2 | jumbo | n. | 大型噴氣式客機
+w011835.1 | kale | n. | 羽衣甘藍, 甘藍菜
+w011837.1 | lash | n. | 睫毛
+w011837.2 | lash | n. | 鞭打, 鞭子
+w011837.3 | lash | v. | 猛擊, 拍打
+w011837.4 | lash | v. | 捆綁, 繫牢
+w011837.5 | lash | v. | 斥責, 猛烈抨擊
+w011838.1 | latina | n. | 拉丁裔女子, 拉美裔女性
+w011843.1 | manageable | adj. | 可控制的, 易處理的, 可應付的
+w011844.1 | manslaughter | n. | 過失殺人, 誤殺
+w011846.1 | meridian | n. | 子午線, 經線
+w011846.2 | meridian | n. | 經絡
+w011847.1 | midi | n. | 中長裙, 過膝裙
+w011847.2 | midi | n. | 樂器數字介面
+w011849.1 | misdemeanor | n. | 輕罪, 不端行為
+w011850.1 | misfortune | n. | 不幸, 厄運, 災難
+w011851.1 | mountainous | adj. | 多山的, 山區的
+w011851.2 | mountainous | adj. | 巨大的, 堆積如山的
+w011852.1 | obnoxious | adj. | 討厭的, 令人反感的, 可惡的
+w011854.1 | orphanage | n. | 孤兒院
+w011855.1 | pilgrim | n. | 朝聖者, 香客
+w011855.2 | pilgrim | n. | 旅行者, 遊客
+w011856.1 | plainly | adv. | 明顯地, 顯然
+w011856.2 | plainly | adv. | 直率地, 坦白地
+w011856.3 | plainly | adv. | 樸素地, 簡單地
+w011858.1 | rake | n. | 耙子, 草耙
+w011858.2 | rake | v. | 耙, 耙平, 耙攏
+w011858.3 | rake | v. | 搜尋, 搜尋
+w011859.1 | resent | v. | 怨恨, 憎惡, 不滿
+w011860.1 | retribution | n. | 報應, 懲罰, 報復
+w011861.1 | rhetorical | adj. | 修辭的, 修辭學的
+w011861.2 | rhetorical | adj. | 誇張的, 華而不實的
+w011862.1 | rightful | adj. | 合法的, 正當的, 應有的
+w011864.1 | rumour | n. | 謠言, 傳聞, 流言
+w011864.2 | rumour | v. | 謠傳, 傳說
+w011866.1 | semen | n. | 精液
+w011868.1 | shea | n. | 乳木果樹, 牛油樹
+w011869.1 | shorten | v. | 縮短, 使變短, 減少
+w011870.1 | sixteenth | num. | 第十六
+w011870.2 | sixteenth | n. | 十六分之一
+w011871.1 | slime | n. | 黏液, 爛泥, 黏性物
+w011871.2 | slime | v. | 使黏糊, 塗黏液
+w011872.1 | sow | v. | 播種, 種植
+w011872.2 | sow | v. | 散佈, 引起
+w011872.3 | sow | n. | 母豬
+w011873.1 | sparkle | v. | 閃耀, 閃閃發光
+w011873.2 | sparkle | n. | 閃光, 光彩
+w011873.3 | sparkle | n. | 活力, 生氣
+w011874.1 | spawn | v. | 引起, 產生, 造成
+w011874.2 | spawn | v. | 產卵
+w011874.3 | spawn | n. | 魚卵, 蛙卵
+w011875.1 | suffrage | n. | 選舉權, 投票權
+w011876.1 | surrogate | adj. | 替代的, 代理的
+w011876.2 | surrogate | n. | 代替者, 代理人
+w011876.3 | surrogate | n. | 代孕母親
+w011877.1 | synopsis | n. | 概要, 梗概, 提要
+w011879.1 | toothbrush | n. | 牙刷
+w011880.1 | treatise | n. | 論文, 專著, 論述
+w011882.1 | uphill | adv. | 往山上, 向上坡
+w011882.2 | uphill | adj. | 上坡的
+w011882.3 | uphill | adj. | 艱難的, 費力的
+w011884.1 | variability | n. | 可變性, 變化性, 易變
+w011885.1 | waltz | n. | 華爾茲, 華爾茲舞曲
+w011885.2 | waltz | v. | 跳華爾茲
+w011885.3 | waltz | v. | 輕鬆走過, 大搖大擺地走
+w011886.1 | wooded | adj. | 樹木茂盛的, 多樹林的
+w011892.1 | adhesive | n. | 黏合劑, 膠水
+w011892.2 | adhesive | adj. | 有黏性的, 黏著的
+w011893.1 | affluent | adj. | 富裕的, 富足的, 豐富的
+w011894.1 | ambiguity | n. | 模稜兩可, 含糊, 歧義
+w011895.1 | anguish | n. | 極度痛苦, 苦惱, 悲痛
+w011895.2 | anguish | v. | 感到痛苦, 苦惱
+w011896.1 | antitrust | adj. | 反壟斷的, 反托拉斯的
+w011897.1 | arid | adj. | 乾旱的, 乾燥的
+w011897.2 | arid | adj. | 枯燥的, 乏味的
+w011898.1 | bandit | n. | 土匪, 強盜, 歹徒
+w011899.1 | barrister | n. | 出庭律師, 大律師
+w011900.1 | bazaar | n. | 集市, 市場
+w011900.2 | bazaar | n. | 義賣會, 義賣市場
+w011901.1 | beneficiary | n. | 受益人, 受惠者
+w011901.2 | beneficiary | n. | 遺產繼承人, 受益人
+w011902.1 | biker | n. | 騎摩托車的人, 摩托車手
+w011902.2 | biker | n. | 騎腳踏車的人
+w011903.1 | bipartisan | adj. | 兩黨的, 兩黨共同支援的
+w011904.1 | birthplace | n. | 出生地, 故鄉, 發源地
+w011907.1 | brochure | n. | 小冊子, 宣傳冊
+w011908.1 | brokerage | n. | 經紀業務, 經紀公司
+w011908.2 | brokerage | n. | 佣金, 經紀費
+w011909.1 | buildup | n. | 積聚, 增加, 增強
+w011909.2 | buildup | n. | 宣傳, 造勢
+w011910.1 | butch | adj. | 男性化的, 有男子氣的
+w011914.1 | civilisation | n. | 文明, 文化
+w011914.2 | civilisation | n. | 文明世界, 舒適生活
+w011915.1 | cobalt | n. | 鈷
+w011915.2 | cobalt | adj. | 鈷藍色的, 深藍色的
+w011916.1 | collier | n. | 煤礦工人, 礦工
+w011916.2 | collier | n. | 運煤船
+w011917.1 | colossal | adj. | 巨大的, 龐大的
+w011919.1 | commodore | n. | 海軍准將, 准將
+w011919.2 | commodore | n. | 遊艇俱樂部會長
+w011920.1 | compiler | n. | 編譯器, 編譯程式
+w011920.2 | compiler | n. | 編纂者, 編輯者
+w011921.1 | conserve | v. | 節約, 節省
+w011921.2 | conserve | v. | 保護, 儲存
+w011921.3 | conserve | n. | 果醬, 蜜餞
+w011922.1 | constellation | n. | 星座, 星群
+w011922.2 | constellation | n. | 一群, 一系列
+w011923.1 | contour | n. | 輪廓, 外形
+w011923.2 | contour | n. | 等高線
+w011923.3 | contour | v. | 使呈輪廓, 塑造外形
+w011924.1 | crispy | adj. | 脆的, 酥脆的
+w011925.1 | cropped | adj. | 剪短的, 短款的
+w011925.2 | cropped | adj. | 裁剪過的
+w011926.1 | crore | num. | 一千萬
+w011927.1 | curfew | n. | 宵禁, 宵禁令
+w011927.2 | curfew | n. | 回家時限, 門禁時間
+w011928.1 | decidedly | adv. | 明顯地, 確實地, 斷然
+w011929.1 | delusion | n. | 錯覺, 妄想, 誤會
+w011930.1 | depreciation | n. | 貶值, 折舊
+w011931.1 | designate | v. | 指定, 指派, 任命
+w011931.2 | designate | v. | 標明, 指明, 稱為
+w011931.3 | designate | adj. | 已任命但未上任的
+w011932.1 | discard | v. | 丟棄, 拋棄, 摒棄
+w011932.2 | discard | v. | 墊牌, 出牌
+w011932.3 | discard | n. | 被丟棄的東西, 棄牌
+w011933.1 | discontent | n. | 不滿, 不滿意
+w011933.2 | discontent | adj. | 不滿的
+w011936.1 | dopamine | n. | 多巴胺
+w011937.1 | douche | n. | 討厭鬼, 混蛋
+w011937.2 | douche | n. | 沖洗, 沖洗器
+w011937.3 | douche | v. | 沖洗
+w011938.1 | dyke | n. | 堤壩, 堤防
+w011938.2 | dyke | n. | 溝渠, 排水溝
+w011938.3 | dyke | n. | 女同性戀者
+w011939.1 | eclectic | adj. | 兼收幷蓄的, 不拘一格的, 折中的
+w011940.1 | ecstatic | adj. | 狂喜的, 欣喜若狂的
+w011941.1 | endemic | adj. | 地方性的, 流行的, 普遍存在的
+w011941.2 | endemic | adj. | 特有的, 本地的
+w011942.1 | enlist | v. | 爭取, 謀取, 贏得
+w011942.2 | enlist | v. | 參軍, 入伍, 徵募
+w011943.1 | eyebrow | n. | 眉毛
+w011944.1 | firefighter | n. | 消防員, 消防隊員
+w011945.1 | fluorescent | adj. | 熒光的, 發熒光的
+w011945.2 | fluorescent | adj. | 鮮豔奪目的, 亮色的
+w011946.1 | futuristic | adj. | 未來派的, 超現代的, 未來主義的
+w011947.1 | hallmark | n. | 特點, 標誌, 特徵
+w011947.2 | hallmark | n. | 純度標記, 品質證明
+w011947.3 | hallmark | v. | 打上純度標記
+w011949.1 | haste | n. | 匆忙, 急忙, 倉促
+w011951.1 | identifiable | adj. | 可識別的, 可辨認的
+w011952.1 | illiterate | adj. | 不識字的, 文盲的
+w011952.2 | illiterate | adj. | 外行的, 無知的
+w011952.3 | illiterate | n. | 文盲
+w011953.1 | immaculate | adj. | 乾淨整潔的, 一塵不染的
+w011953.2 | immaculate | adj. | 完美的, 無瑕疵的
+w011954.1 | inclination | n. | 傾向, 意願, 愛好
+w011954.2 | inclination | n. | 傾斜, 斜度
+w011955.1 | interpersonal | adj. | 人際的, 人與人之間的
+w011956.1 | interracial | adj. | 不同種族間的, 跨種族的
+w011957.1 | intruder | n. | 入侵者, 闖入者
+w011958.1 | inward | adj. | 內心的, 精神的
+w011958.2 | inward | adj. | 向內的, 內部的
+w011958.3 | inward | adv. | 向內, 向中心
+w011959.1 | IPO | abbr. | 首次公開募股, 首次上市
+w011964.1 | kinky | adj. | 性變態的, 變態的
+w011964.2 | kinky | adj. | 捲曲的, 扭結的
+w011965.1 | launcher | n. | 發射器, 發射裝置
+w011965.2 | launcher | n. | 啟動器, 啟動程式
+w011966.1 | legality | n. | 合法性, 合法
+w011966.2 | legality | n. | 法律細節, 法律事項
+w011967.1 | lessen | v. | 減少, 減輕, 降低
+w011968.1 | lifespan | n. | 壽命, 使用期限
+w011969.1 | longitudinal | adj. | 縱向的, 長期的
+w011969.2 | longitudinal | adj. | 經度的, 經線的
+w011970.1 | loosen | v. | 鬆開, 放鬆, 解開
+w011970.2 | loosen | v. | 放寬, 減弱
+w011973.1 | masculinity | n. | 男子氣概, 男性特徵, 陽剛之氣
+w011975.1 | microscopic | adj. | 微小的, 極小的
+w011975.2 | microscopic | adj. | 顯微鏡的, 用顯微鏡的
+w011976.1 | midday | n. | 正午, 中午
+w011977.1 | moan | v. | 抱怨, 發牢騷
+w011977.2 | moan | v. | 呻吟, 哀嘆
+w011977.3 | moan | n. | 呻吟聲, 抱怨
+w011978.1 | morphine | n. | 嗎啡
+w011979.1 | motherhood | n. | 母親身份, 母性
+w011981.1 | murderous | adj. | 殺氣騰騰的, 蓄意謀殺的, 兇殘的
+w011982.1 | nirvana | n. | 涅槃
+w011982.2 | nirvana | n. | 極樂世界, 天堂
+w011983.1 | non-smoker | n. | 不吸菸者
+w011984.1 | nonstop | adj. | 直達的, 不停的
+w011984.2 | nonstop | adv. | 不停地, 連續地
+w011985.1 | notoriously | adv. | 出了名地, 眾所周知地
+w011987.1 | oatmeal | n. | 燕麥粥, 麥片粥
+w011987.2 | oatmeal | n. | 燕麥片, 燕麥粉
+w011988.1 | opaque | adj. | 不透明的, 不透光的
+w011988.2 | opaque | adj. | 難懂的, 晦澀的
+w011989.1 | ordnance | n. | 軍火, 武器彈藥, 軍械
+w011990.1 | originate | v. | 起源, 發源, 來自
+w011990.2 | originate | v. | 創造, 發起, 首創
+w011991.1 | otter | n. | 水獺
+w011992.1 | parting | n. | 離別, 分別
+w011992.2 | parting | adj. | 臨別的, 離別時的
+w011992.3 | parting | n. | 頭髮分縫
+w011993.1 | pelvic | adj. | 骨盆的, 盆腔的
+w011994.1 | percussion | n. | 打擊樂器, 打擊樂
+w011994.2 | percussion | n. | 撞擊, 碰撞
+w011995.1 | pigment | n. | 顏料, 色料
+w011995.2 | pigment | n. | 色素
+w011996.1 | porous | adj. | 多孔的, 能滲透的
+w011996.2 | porous | adj. | 有漏洞的, 易滲透的
+w011997.1 | predictive | adj. | 預測的, 預言性的
+w011998.1 | racially | adv. | 種族上, 在種族方面
+w011999.1 | registrar | n. | 登記員, 戶籍員
+w011999.2 | registrar | n. | 教務主任, 註冊主任
+w012000.1 | rein | n. | 韁繩
+w012000.2 | rein | n. | 控制, 支配
+w012000.3 | rein | v. | 控制, 約束, 勒住
+w012001.1 | relic | n. | 遺物, 遺蹟, 文物
+w012001.2 | relic | n. | 聖物, 聖骨
+w012001.3 | relic | n. | 過時的事物, 遺風
+w012002.1 | retard | v. | 阻礙, 延緩, 減緩
+w012002.2 | retard | n. | 弱智, 白痴
+w012003.1 | reunite | v. | 重聚, 團聚
+w012003.2 | reunite | v. | 再統一, 重新聯合
+w012004.1 | reuse | v. | 再次使用, 重複利用
+w012004.2 | reuse | n. | 再利用, 重複使用
+w012006.1 | roadway | n. | 車行道, 道路, 路面
+w012007.1 | rustic | adj. | 鄉村的, 有鄉村風味的, 質樸的
+w012007.2 | rustic | n. | 鄉下人, 農民
+w012009.1 | sanitary | adj. | 衛生的, 保健的
+w012009.2 | sanitary | adj. | 清潔的, 乾淨的
+w012011.1 | saturation | n. | 飽和, 飽和狀態
+w012011.2 | saturation | n. | 浸透, 溼透
+w012011.3 | saturation | n. | 飽和度
+w012012.1 | scarcity | n. | 缺乏, 短缺, 稀少
+w012013.1 | scorpion | n. | 蠍子
+w012014.1 | setback | n. | 挫折, 阻礙, 倒退
+w012015.1 | sizable | adj. | 相當大的, 可觀的
+w012016.1 | smoker | n. | 吸菸者, 菸民
+w012016.2 | smoker | n. | 熏製器, 燻爐
+w012018.1 | stun | v. | 使震驚, 使目瞪口呆
+w012018.2 | stun | v. | 使昏迷, 打昏
+w012019.1 | subdued | adj. | 悶悶不樂的, 沉默的
+w012019.2 | subdued | adj. | 柔和的, 不強烈的
+w012020.1 | surpass | v. | 超過, 勝過, 超越
+w012021.1 | tack | n. | 方法, 策略, 方針
+w012021.2 | tack | n. | 圖釘, 平頭釘
+w012021.3 | tack | v. | 用圖釘釘, 釘住
+w012021.4 | tack | v. | 附加, 新增
+w012022.1 | tart | n. | 果餡餅, 水果撻
+w012022.2 | tart | adj. | 酸的, 酸澀的
+w012022.3 | tart | adj. | 尖刻的, 刻薄的
+w012024.1 | tiring | adj. | 令人疲倦的, 累人的
+w012025.1 | toothpaste | n. | 牙膏
+w012026.1 | transformer | n. | 變壓器
+w012026.2 | transformer | n. | 改革者, 變革者
+w012027.1 | transient | adj. | 短暫的, 轉瞬即逝的
+w012027.2 | transient | adj. | 臨時的, 流動的
+w012027.3 | transient | n. | 流動人口, 過客
+w012028.1 | triumphant | adj. | 成功的, 勝利的
+w012028.2 | triumphant | adj. | 得意洋洋的, 歡欣鼓舞的
+w012029.1 | umpire | n. | 裁判員, 裁判
+w012029.2 | umpire | v. | 擔任裁判
+w012030.1 | unborn | adj. | 未出生的, 未來的
+w012031.1 | undisclosed | adj. | 未公開的, 未透露的, 保密的
+w012032.1 | unheard | adj. | 未被聽到的, 不被理睬的
+w012033.1 | vicar | n. | 教區牧師, 代牧
+w012034.1 | weep | v. | 哭泣, 流淚
+w012034.2 | weep | v. | 滲出, 流出
+w012036.1 | wrench | n. | 扳手, 扳鉗
+w012036.2 | wrench | v. | 猛扭, 猛拉, 擰
+w012036.3 | wrench | n. | 痛苦, 難受
+w012037.1 | wretched | adj. | 不幸的, 可憐的, 悲慘的
+w012037.2 | wretched | adj. | 糟糕的, 惡劣的
+w012037.3 | wretched | adj. | 討厭的, 該死的
+w012039.1 | adolescence | n. | 青春期, 青少年時期
+w012040.1 | afterlife | n. | 來世, 死後的生活
+w012041.1 | ammonia | n. | 氨, 氨水
+w012042.1 | analogous | adj. | 類似的, 相似的, 可比擬的
+w012043.1 | anarchist | n. | 無政府主義者
+w012044.1 | apron | n. | 圍裙
+w012044.2 | apron | n. | 停機坪
+w012045.1 | archaic | adj. | 過時的, 陳舊的
+w012045.2 | archaic | adj. | 古代的, 古老的
+w012046.1 | attribution | n. | 歸因, 歸屬
+w012046.2 | attribution | n. | 出處說明, 署名
+w012049.1 | biochemistry | n. | 生物化學
+w012051.1 | bop | v. | 隨音樂起舞, 蹦跳
+w012051.2 | bop | v. | 輕打, 敲擊
+w012051.3 | bop | n. | 比波普爵士樂
+w012052.1 | burr | n. | 芒刺, 刺果
+w012052.2 | burr | n. | 毛刺, 毛邊
+w012052.3 | burr | n. | 捲舌發音, 粗喉音
+w012053.1 | censor | v. | 審查, 刪改
+w012053.2 | censor | n. | 審查員, 檢查員
+w012054.1 | centennial | n. | 一百週年, 百年紀念
+w012054.2 | centennial | adj. | 百年的, 一百週年的
+w012056.1 | clover | n. | 三葉草, 苜蓿
+w012057.1 | colonization | n. | 殖民, 殖民化
+w012057.2 | colonization | n. | 定居, 移植
+w012058.1 | cookbook | n. | 烹飪書, 食譜
+w012059.1 | cosmopolitan | adj. | 國際化的, 世界性的
+w012059.2 | cosmopolitan | adj. | 見多識廣的, 四海為家的
+w012059.3 | cosmopolitan | n. | 世界主義者
+w012061.1 | coyote | n. | 郊狼, 叢林狼
+w012061.2 | coyote | n. | 蛇頭, 偷渡中介
+w012062.1 | crippling | adj. | 嚴重損害的, 極具破壞性的
+w012062.2 | crippling | adj. | 致殘的, 使人癱瘓的
+w012065.1 | decorate | v. | 裝飾, 裝潢, 佈置
+w012065.2 | decorate | v. | 粉刷, 裝修
+w012065.3 | decorate | v. | 授勳, 授獎章
+w012066.1 | deductible | n. | 免賠額, 自付額
+w012066.2 | deductible | adj. | 可扣除的, 可減免的
+w012067.1 | diagonal | adj. | 斜的, 對角線的
+w012067.2 | diagonal | n. | 對角線, 斜線
+w012068.1 | discredit | v. | 使喪失信譽, 使不可信
+w012068.2 | discredit | n. | 喪失信譽, 丟臉
+w012069.1 | dresser | n. | 梳妝檯, 五斗櫃
+w012069.2 | dresser | n. | 碗櫃, 餐具櫃
+w012069.3 | dresser | n. | 穿著者, 衣著講究的人
+w012070.1 | duff | adj. | 差勁的, 無用的
+w012070.2 | duff | n. | 屁股
+w012071.1 | dysfunctional | adj. | 功能失調的, 不正常的
+w012072.1 | elm | n. | 榆樹, 榆木
+w012073.1 | equitable | adj. | 公平的, 公正的
+w012074.1 | estrogen | n. | 雌激素
+w012075.1 | exert | v. | 施加, 運用, 發揮
+w012075.2 | exert | v. | 努力, 盡力
+w012076.1 | felicity | n. | 幸福, 快樂
+w012076.2 | felicity | n. | 恰當, 貼切
+w012077.1 | feudal | adj. | 封建的, 封建制度的
+w012078.1 | fleece | n. | 羊毛, 羊毛皮
+w012078.2 | fleece | n. | 抓絨衣, 搖粒絨
+w012078.3 | fleece | v. | 敲詐, 詐取
+w012079.1 | fodder | n. | 飼料, 草料
+w012079.2 | fodder | n. | 素材, 材料
+w012080.1 | fumble | v. | 笨拙地摸索, 亂摸
+w012080.2 | fumble | v. | 失球, 漏接
+w012080.3 | fumble | n. | 摸索, 失誤
+w012081.1 | git | n. | 蠢貨, 討厭鬼
+w012082.1 | glare | v. | 怒視, 瞪眼
+w012082.2 | glare | n. | 怒視, 瞪眼
+w012082.3 | glare | n. | 刺眼的光, 強光
+w012082.4 | glare | v. | 發出刺眼的光
+w012084.1 | gourmet | n. | 美食家, 講究飲食的人
+w012084.2 | gourmet | adj. | 美食的, 精美的, 高檔的
+w012085.1 | handheld | adj. | 手持的, 便攜的
+w012085.2 | handheld | n. | 掌上裝置, 手持裝置
+w012086.1 | handshake | n. | 握手
+w012086.2 | handshake | n. | 握手協議, 訊號交換
+w012088.1 | hefty | adj. | 數額大的, 高昂的, 可觀的
+w012088.2 | hefty | adj. | 大而重的, 健壯的, 魁梧的
+w012089.1 | herbal | adj. | 草藥的, 草本的, 藥草制的
+w012090.1 | hippie | n. | 嬉皮士, 嬉皮
+w012091.1 | hump | n. | 駝峰, 隆起, 圓丘
+w012091.2 | hump | v. | 吃力地搬運, 扛
+w012092.1 | idiotic | adj. | 愚蠢的, 白痴般的, 荒唐的
+w012093.1 | incarceration | n. | 監禁, 關押, 囚禁
+w012094.1 | incest | n. | 亂倫
+w012095.1 | infect | v. | 感染, 傳染
+w012095.2 | infect | v. | 使受影響, 感染
+w012096.1 | insertion | n. | 插入, 嵌入, 放入
+w012096.2 | insertion | n. | 插入物, 新增內容
+w012097.1 | interruption | n. | 打斷, 中斷, 干擾
+w012098.1 | intrigue | v. | 引起興趣, 激起好奇
+w012098.2 | intrigue | n. | 陰謀, 密謀, 詭計
+w012099.1 | itch | v. | 發癢, 癢
+w012099.2 | itch | n. | 癢, 瘙癢
+w012099.3 | itch | n. | 渴望, 熱望
+w012103.1 | lattice | n. | 格子, 格架, 網格
+w012103.2 | lattice | n. | 晶格, 點陣
+w012104.1 | legitimately | adv. | 合法地, 正當地, 合理地
+w012105.1 | linebacker | n. | 線衛
+w012106.1 | magically | adv. | 神奇地, 魔法般地, 不可思議地
+w012107.1 | mastermind | n. | 策劃者, 主謀, 智囊
+w012107.2 | mastermind | v. | 策劃, 精心組織, 幕後指揮
+w012108.1 | materially | adv. | 實質上, 顯著地, 重大地
+w012108.2 | materially | adv. | 物質上, 在物質方面
+w012109.1 | metadata | n. | 後設資料
+w012111.1 | mischief | n. | 惡作劇, 淘氣, 調皮
+w012111.2 | mischief | n. | 傷害, 損害, 禍害
+w012112.1 | modernization | n. | 現代化, 更新
+w012114.1 | noticeably | adv. | 顯著地, 明顯地
+w012115.1 | occupancy | n. | 佔用, 居住, 入住率
+w012116.1 | oncology | n. | 腫瘤學
+w012117.1 | overrun | v. | 氾濫, 橫行, 侵佔
+w012117.2 | overrun | v. | 超時, 超出
+w012117.3 | overrun | n. | 超支, 超時
+w012118.1 | pasture | n. | 牧場, 草場, 草地
+w012118.2 | pasture | v. | 放牧
+w012119.1 | pathological | adj. | 病態的, 不理智的, 無法控制的
+w012119.2 | pathological | adj. | 病理的, 病理學的
+w012120.1 | payload | n. | 有效載荷, 載重, 載荷
+w012120.2 | payload | n. | 彈頭, 爆炸裝置
+w012121.1 | payout | n. | 賠付金, 支付款, 分紅
+w012123.1 | pertinent | adj. | 相關的, 有關的, 中肯的
+w012124.1 | plentiful | adj. | 豐富的, 充足的, 大量的
+w012125.1 | plumber | n. | 管道工, 水管工
+w012126.1 | PNG | abbr. | PNG格式, 行動式網路圖形
+w012127.1 | porno | n. | 色情作品, 色情片
+w012128.1 | purchaser | n. | 買主, 購買者, 買方
+w012130.1 | rarity | n. | 稀有之物, 珍品, 罕見的事
+w012130.2 | rarity | n. | 稀有, 罕見
+w012131.1 | realty | n. | 房地產, 不動產
+w012132.1 | rebellious | adj. | 叛逆的, 反抗的, 難以控制的
+w012133.1 | revisit | v. | 重訪, 再次參觀
+w012133.2 | revisit | v. | 重新考慮, 重新探討
+w012135.1 | satirical | adj. | 諷刺的, 譏諷的
+w012136.1 | sensual | adj. | 感官的, 肉體的, 性感的
+w012137.1 | sixties | n. | 六十年代, 二十世紀六十年代
+w012137.2 | sixties | n. | 六十多歲
+w012138.1 | slump | v. | 暴跌, 驟降, 銳減
+w012138.2 | slump | v. | 頹然倒下, 垂頭彎腰
+w012138.3 | slump | n. | 暴跌, 蕭條, 低迷
+w012139.1 | soften | v. | 使變軟, 軟化
+w012139.2 | soften | v. | 緩和, 減輕, 使溫和
+w012140.1 | souvenir | n. | 紀念品, 紀念物
+w012141.1 | spaceship | n. | 宇宙飛船, 太空船
+w012142.1 | sparse | adj. | 稀少的, 稀疏的, 零星的
+w012143.1 | spinner | n. | 旋轉物, 陀螺, 轉盤
+w012143.2 | spinner | n. | 旋轉球投手
+w012144.1 | steamer | n. | 汽船, 輪船
+w012144.2 | steamer | n. | 蒸鍋, 蒸籠
+w012145.1 | suction | n. | 吸, 吸力, 抽吸
+w012145.2 | suction | v. | 抽吸, 吸出
+w012146.1 | sunflower | n. | 向日葵, 葵花
+w012147.1 | supplementary | adj. | 補充的, 附加的, 增補的
+w012148.1 | surveyor | n. | 測量員, 勘測員
+w012148.2 | surveyor | n. | 房屋檢查員, 鑑定人
+w012149.1 | temperament | n. | 氣質, 性情, 性格
+w012150.1 | thirteenth | num. | 第十三, 第十三個
+w012150.2 | thirteenth | n. | 十三分之一
+w012151.1 | topless | adj. | 上身裸露的, 袒胸的
+w012152.1 | torment | n. | 折磨, 痛苦, 苦惱
+w012152.2 | torment | v. | 折磨, 使痛苦
+w012152.3 | torment | v. | 戲弄, 捉弄
+w012153.1 | tyrant | n. | 暴君, 專制君主, 獨裁者
+w012154.1 | unattractive | adj. | 不吸引人的, 難看的, 無魅力的
+w012155.1 | unbeaten | adj. | 不敗的, 未被擊敗的, 未被打破的
+w012156.1 | understatement | n. | 輕描淡寫, 低調陳述
+w012157.1 | undesirable | adj. | 不受歡迎的, 不良的, 令人不快的
+w012157.2 | undesirable | n. | 不受歡迎的人
+w012158.1 | unfairly | adv. | 不公平地, 不公正地
+w012159.1 | unification | n. | 統一, 聯合, 一體化
+w012160.1 | weaponry | n. | 武器, 軍械, 兵器
+w012161.1 | webpage | n. | 網頁
+w012162.1 | wildfire | n. | 野火, 山火
+w012163.1 | wreath | n. | 花環, 花圈
+w012163.2 | wreath | n. | 繚繞, 圈狀物
+w012165.1 | Marxism | n. | 馬克思主義
+w012166.1 | afar | adv. | 在遠處, 遙遠地, 從遠方
+w012167.1 | affectionate | adj. | 深情的, 親切的, 充滿愛意的
+w012170.1 | annuity | n. | 年金, 養老金
+w012171.1 | appliance | n. | 家用電器, 器具, 裝置
+w012173.1 | authentication | n. | 認證, 身份驗證, 鑑定
+w012174.1 | awaken | v. | 喚醒, 醒來
+w012174.2 | awaken | v. | 喚起, 激發, 使意識到
+w012175.1 | azure | adj. | 天藍色的, 蔚藍的
+w012175.2 | azure | n. | 天藍色, 蔚藍
+w012176.1 | bedside | n. | 床邊, 床側
+w012176.2 | bedside | adj. | 床邊的, 床頭的
+w012177.1 | biologist | n. | 生物學家
+w012178.1 | blowjob | n. | 口交
+w012181.1 | bonnet | n. | 女式軟帽, 童帽
+w012181.2 | bonnet | n. | 引擎蓋, 發動機罩
+w012183.1 | breeder | n. | 飼養員, 育種者, 繁殖者
+w012184.1 | cadet | n. | 軍校學員, 警校學員, 學員
+w012186.1 | catfish | n. | 鯰魚
+w012186.2 | catfish | n. | 網路冒充者, 網戀騙子
+w012187.1 | clerical | adj. | 文書的, 辦事員的, 文職的
+w012187.2 | clerical | adj. | 神職人員的, 牧師的
+w012188.1 | collage | n. | 拼貼畫, 拼貼藝術
+w012188.2 | collage | n. | 大雜燴, 集錦
+w012189.1 | complimentary | adj. | 免費贈送的, 贈送的
+w012189.2 | complimentary | adj. | 讚美的, 恭維的
+w012190.1 | computation | n. | 計算, 運算
+w012191.1 | conjecture | n. | 猜測, 推測, 臆測
+w012191.2 | conjecture | v. | 猜測, 推測
+w012192.1 | conspicuous | adj. | 顯眼的, 引人注目的, 明顯的
+w012193.1 | continual | adj. | 持續不斷的, 頻繁的, 反覆的
+w012194.1 | contradict | v. | 反駁, 駁斥, 否認
+w012194.2 | contradict | v. | 相矛盾, 相牴觸
+w012195.1 | crackdown | n. | 嚴厲打擊, 鎮壓, 取締
+w012196.1 | craze | n. | 狂熱, 熱潮, 風靡一時的事物
+w012197.1 | cupcake | n. | 紙杯蛋糕, 杯子蛋糕
+w012199.1 | deli | n. | 熟食店, 熟食櫃檯
+w012200.1 | dreaded | adj. | 可怕的, 令人畏懼的
+w012201.1 | DUI | abbr. | 酒後駕車, 醉駕
+w012203.1 | enamel | n. | 搪瓷, 琺琅, 瓷漆
+w012203.2 | enamel | n. | 牙釉質, 琺琅質
+w012204.1 | escalate | v. | 升級, 加劇, 逐步擴大
+w012205.1 | exceedingly | adv. | 極其, 非常, 格外
+w012206.1 | excessively | adv. | 過度地, 過分地, 極度地
+w012207.1 | farmland | n. | 農田, 耕地
+w012208.1 | fiercely | adv. | 激烈地, 猛烈地, 強烈地
+w012209.1 | fourteenth | num. | 第十四, 第十四個
+w012209.2 | fourteenth | n. | 十四分之一
+w012211.1 | frontline | n. | 前線, 第一線, 最前沿
+w012211.2 | frontline | adj. | 一線的, 前線的
+w012212.1 | genealogy | n. | 家譜, 宗譜, 家系
+w012212.2 | genealogy | n. | 家譜學, 譜系學
+w012213.1 | geographically | adv. | 地理上, 在地理位置上
+w012214.1 | giggle | v. | 咯咯地笑, 傻笑, 竊笑
+w012214.2 | giggle | n. | 咯咯笑, 傻笑
+w012215.1 | golfer | n. | 高爾夫球手, 打高爾夫球的人
+w012216.1 | grammatical | adj. | 語法的, 語法上的
+w012216.2 | grammatical | adj. | 合乎語法的, 語法正確的
+w012217.1 | graphite | n. | 石墨
+w012219.1 | handgun | n. | 手槍
+w012221.1 | hella | adv. | 非常, 特別, 超級
+w012222.1 | heresy | n. | 異端, 異端邪說
+w012222.2 | heresy | n. | 離經叛道, 異端思想
+w012223.1 | herpes | n. | 皰疹
+w012224.1 | hipster | n. | 潮人, 文藝青年, 趕時髦的人
+w012225.1 | hostess | n. | 女主人, 女東道主
+w012225.2 | hostess | n. | 女接待員, 女服務員, 女主持人
+w012227.1 | iceberg | n. | 冰山
+w012228.1 | ignite | v. | 點燃, 著火, 引燃
+w012228.2 | ignite | v. | 激起, 引發, 點燃
+w012229.1 | illumination | n. | 照明, 光亮, 光照
+w012229.2 | illumination | n. | 闡明, 啟發, 啟迪
+w012230.1 | improperly | adv. | 不正確地, 不恰當地, 不合規地
+w012231.1 | ingenious | adj. | 巧妙的, 別出心裁的, 心靈手巧的
+w012232.1 | inquisition | n. | 嚴厲審問, 盤問, 審訊
+w012232.2 | inquisition | n. | 宗教裁判所
+w012234.1 | jab | v. | 戳, 刺, 捅
+w012234.2 | jab | n. | 刺拳, 猛擊, 戳
+w012234.3 | jab | n. | 打針, 疫苗接種
+w012236.1 | landfill | n. | 垃圾填埋場, 填埋地
+w012237.1 | learner | n. | 學習者, 學員, 初學者
+w012238.1 | lighten | v. | 減輕, 減少負擔
+w012238.2 | lighten | v. | 使變亮, 使變淺, 變亮
+w012238.3 | lighten | v. | 使輕鬆, 變得愉快
+w012240.1 | maroon | adj. | 栗色的, 褐紅色的
+w012240.2 | maroon | n. | 栗色, 褐紅色
+w012240.3 | maroon | v. | 使困在, 使陷入孤立
+w012241.1 | masonry | n. | 磚石建築, 磚石結構
+w012242.1 | mechanically | adv. | 用機器, 機械上
+w012242.2 | mechanically | adv. | 機械地, 呆板地, 不假思索地
+w012245.1 | moor | v. | 停泊, 繫泊
+w012245.2 | moor | n. | 荒野, 高沼地
+w012246.1 | muffin | n. | 鬆餅, 瑪芬蛋糕
+w012248.1 | nigger | n. | 黑鬼, 對黑人的蔑稱
+w012250.1 | oily | adj. | 油的, 含油的, 油膩的
+w012250.2 | oily | adj. | 油滑的, 諂媚的
+w012251.1 | ostensibly | adv. | 表面上, 名義上, 據稱
+w012252.1 | outspoken | adj. | 直言不諱的, 坦率的, 敢說的
+w012253.1 | palate | n. | 味覺, 品味, 鑑賞力
+w012253.2 | palate | n. | 上顎, 顎
+w012254.1 | pancake | n. | 煎餅, 薄餅, 烙餅
+w012255.1 | parkway | n. | 林蔭大道, 公園道路
+w012256.1 | pedestal | n. | 底座, 基座, 柱腳
+w012257.1 | pedigree | n. | 血統, 出身, 家世
+w012257.2 | pedigree | adj. | 純種的, 有血統證明的
+w012258.1 | phony | adj. | 假的, 偽造的, 虛偽的
+w012258.2 | phony | n. | 騙子, 假冒者, 冒牌貨
+w012259.1 | pinpoint | v. | 準確找出, 精確定位, 確定
+w012259.2 | pinpoint | adj. | 精確的, 準確的
+w012259.3 | pinpoint | n. | 針尖, 極小的點
+w012260.1 | pip | n. | 果核, 籽, 種子
+w012260.2 | pip | v. | 險勝, 以微弱優勢擊敗
+w012261.1 | pleasantly | adv. | 愉快地, 令人愉快地, 友好地
+w012262.1 | ponder | v. | 沉思, 仔細考慮, 琢磨
+w012263.1 | prowess | n. | 高超技藝, 本領, 才能
+w012264.1 | psychologically | adv. | 心理上, 精神上
+w012266.1 | rattle | v. | 發出咔嗒聲, 嘎嘎作響
+w012266.2 | rattle | v. | 使緊張, 使不安
+w012266.3 | rattle | n. | 撥浪鼓, 咔嗒聲
+w012267.1 | recycle | v. | 回收利用, 再利用, 迴圈使用
+w012268.1 | reimbursement | n. | 報銷, 償還, 補償
+w012271.1 | repent | v. | 悔悟, 懺悔, 後悔
+w012272.1 | revert | v. | 恢復, 回覆, 重新回到
+w012276.1 | saliva | n. | 唾液, 口水
+w012277.1 | senseless | adj. | 無意義的, 毫無道理的, 愚蠢的
+w012277.2 | senseless | adj. | 失去知覺的, 昏迷的
+w012278.1 | seventeenth | num. | 第十七, 第十七個
+w012278.2 | seventeenth | n. | 十七分之一
+w012280.1 | shortcut | n. | 捷徑, 近路
+w012280.2 | shortcut | n. | 捷徑, 簡便方法
+w012280.3 | shortcut | n. | 快捷方式, 快捷鍵
+w012281.1 | sikh | n. | 錫克教徒
+w012281.2 | sikh | adj. | 錫克教的, 錫克教徒的
+w012283.1 | slay | v. | 殺死, 殺害, 屠殺
+w012283.2 | slay | v. | 驚豔, 令人傾倒, 表現出色
+w012285.1 | synth | n. | 合成器, 電子琴
+w012286.1 | takeoff | n. | 起飛, 起跳
+w012286.2 | takeoff | n. | 騰飛, 迅速發展
+w012288.1 | tat | n. | 廉價貨, 劣質品
+w012288.2 | tat | n. | 文身, 紋身
+w012289.1 | taxable | adj. | 應納稅的, 可徵稅的
+w012290.1 | treadmill | n. | 跑步機
+w012290.2 | treadmill | n. | 單調乏味的工作, 苦差事
+w012291.1 | unavoidable | adj. | 不可避免的, 無法避免的
+w012292.1 | unilateral | adj. | 單方面的, 單邊的
+w012294.1 | vie | v. | 競爭, 爭奪, 角逐
+w012296.1 | wasp | n. | 黃蜂, 馬蜂
+w012297.1 | watermelon | n. | 西瓜
+w012298.1 | westward | adv. | 向西, 朝西
+w012298.2 | westward | adj. | 向西的, 西行的
+w012299.1 | yin | n. | 陰, 陰性
+w012301.1 | Frenchman | n. | 法國人, 法國男人
+w012302.1 | acidic | adj. | 酸的, 酸性的
+w012302.2 | acidic | adj. | 尖刻的, 刻薄的
+w012303.1 | adherence | n. | 堅持, 遵守, 依附
+w012304.1 | adjective | n. | 形容詞
+w012306.1 | amnesia | n. | 健忘症, 失憶症, 記憶缺失
+w012307.1 | angrily | adv. | 憤怒地, 生氣地
+w012308.1 | appellate | adj. | 上訴的, 有上訴審理權的
+w012309.1 | approving | adj. | 贊成的, 讚許的, 滿意的
+w012310.1 | ascension | n. | 上升, 登上, 升高
+w012310.2 | ascension | n. | 耶穌昇天
+w012311.1 | aspirin | n. | 阿司匹林, 阿司匹林藥片
+w012312.1 | ax | n. | 斧子, 斧頭
+w012312.2 | ax | v. | 解僱, 削減, 取消
+w012313.1 | bard | n. | 詩人, 吟遊詩人
+w012315.1 | benevolent | adj. | 仁慈的, 善意的, 慈善的
+w012316.1 | bestseller | n. | 暢銷書, 暢銷品
+w012317.1 | bog | n. | 沼澤, 泥塘, 溼地
+w012317.2 | bog | v. | 使陷入, 使停滯, 阻礙
+w012317.3 | bog | n. | 廁所, 茅房
+w012319.1 | bombardment | n. | 轟炸, 炮擊
+w012319.2 | bombardment | n. | 大量湧來, 連珠炮似的
+w012320.1 | borderline | adj. | 邊緣的, 兩可之間的, 臨界的
+w012320.2 | borderline | n. | 分界線, 界線
+w012321.1 | bungalow | n. | 平房, 單層小屋
+w012322.1 | burglar | n. | 竊賊, 入室盜竊者
+w012323.1 | calibration | n. | 校準, 校正, 標定
+w012324.1 | capitalize | v. | 利用, 從中獲利
+w012324.2 | capitalize | v. | 用大寫字母書寫, 大寫
+w012324.3 | capitalize | v. | 資本化, 投資
+w012325.1 | charisma | n. | 魅力, 感召力, 領袖氣質
+w012328.1 | classmate | n. | 同班同學, 同學
+w012329.1 | cognition | n. | 認知, 認識, 認知能力
+w012330.1 | cooker | n. | 爐具, 灶具, 炊具
+w012331.1 | cornish | adj. | 康沃爾的, 康沃爾人的
+w012331.2 | cornish | n. | 康沃爾語
+w012332.1 | coupe | n. | 雙門轎車, 雙門小汽車
+w012333.1 | coveted | adj. | 令人垂涎的, 夢寐以求的, 眾人渴望的
+w012336.1 | cylindrical | adj. | 圓柱形的, 圓筒形的
+w012337.1 | deceptive | adj. | 欺騙性的, 迷惑人的, 靠不住的
+w012338.1 | deem | v. | 認為, 視為, 斷定
+w012339.1 | devastation | n. | 毀滅, 破壞, 浩劫
+w012339.2 | devastation | n. | 極度悲痛, 震驚
+w012340.1 | devout | adj. | 虔誠的, 篤信宗教的
+w012340.2 | devout | adj. | 忠誠的, 熱心的
+w012342.1 | disproportionate | adj. | 不成比例的, 過分的, 不相稱的
+w012343.1 | divisive | adj. | 造成分裂的, 引起分歧的
+w012346.1 | ebony | n. | 烏木, 黑檀
+w012346.2 | ebony | adj. | 烏黑的, 漆黑的
+w012349.1 | embryo | n. | 胚胎, 胚
+w012349.2 | embryo | n. | 萌芽, 雛形
+w012351.1 | erratic | adj. | 不穩定的, 無規律的, 反覆無常的
+w012352.1 | fang | n. | 尖牙, 毒牙
+w012353.1 | fiesta | n. | 節日, 慶典, 狂歡節
+w012354.1 | folly | n. | 愚蠢, 荒唐, 蠢事
+w012354.2 | folly | n. | 裝飾性建築
+w012356.1 | foreseeable | adj. | 可預見的, 能預料的
+w012358.1 | glazed | adj. | 上釉的, 上光的
+w012358.2 | glazed | adj. | 目光呆滯的, 無神的
+w012358.3 | glazed | adj. | 裝有玻璃的
+w012359.1 | hardwood | n. | 硬木, 闊葉木
+w012360.1 | highness | n. | 殿下
+w012361.1 | hindsight | n. | 事後的認識, 後見之明, 事後聰明
+w012362.1 | homophobia | n. | 恐同, 同性戀恐懼, 對同性戀的歧視
+w012365.1 | indifference | n. | 冷漠, 漠不關心, 不在乎
+w012366.1 | indispensable | adj. | 必不可少的, 不可或缺的
+w012367.1 | infirmary | n. | 醫務室, 醫院
+w012368.1 | inflict | v. | 使遭受, 施加, 造成
+w012370.1 | inhibit | v. | 抑制, 阻礙, 約束
+w012370.2 | inhibit | v. | 使拘束, 使拘謹
+w012371.1 | insanely | adv. | 極其, 非常, 特別
+w012371.2 | insanely | adv. | 發瘋似地, 瘋狂地
+w012372.1 | intellectually | adv. | 智力上, 理智上
+w012373.1 | interstellar | adj. | 星際的
+w012374.1 | involuntary | adj. | 不由自主的, 無意識的
+w012374.2 | involuntary | adj. | 非自願的, 被迫的
+w012375.1 | issuance | n. | 發行, 發放, 頒發
+w012376.1 | itchy | adj. | 發癢的, 癢的
+w012376.2 | itchy | adj. | 心癢的, 渴望的
+w012378.1 | junta | n. | 軍政府, 軍人集團
+w012379.1 | latch | n. | 門閂, 插銷, 碰鎖
+w012379.2 | latch | v. | 閂上, 扣上
+w012379.3 | latch | v. | 抓住, 纏住, 依附
+w012380.1 | libel | n. | 誹謗, 誹謗罪, 書面誹謗
+w012380.2 | libel | v. | 誹謗, 中傷
+w012381.1 | ligament | n. | 韌帶
+w012382.1 | likeness | n. | 相似, 相像
+w012382.2 | likeness | n. | 肖像, 畫像
+w012384.1 | lofty | adj. | 崇高的, 遠大的, 高尚的
+w012384.2 | lofty | adj. | 高聳的, 極高的
+w012384.3 | lofty | adj. | 高傲的, 傲慢的
+w012385.1 | loom | v. | 逼近, 即將來臨
+w012385.2 | loom | v. | 隱約出現, 赫然聳現
+w012385.3 | loom | n. | 織布機
+w012386.1 | ludicrous | adj. | 荒唐的, 荒謬的, 可笑的
+w012387.1 | maize | n. | 玉米
+w012388.1 | malice | n. | 惡意, 怨恨, 敵意
+w012391.1 | munitions | n. | 軍火, 彈藥
+w012394.1 | nemesis | n. | 剋星, 死敵, 勁敵
+w012394.2 | nemesis | n. | 報應, 天罰
+w012395.1 | originality | n. | 獨創性, 創造力, 新穎
+w012396.1 | ornamental | adj. | 裝飾性的, 觀賞的
+w012396.2 | ornamental | n. | 觀賞植物
+w012397.1 | pancreatic | adj. | 胰腺的, 胰的
+w012398.1 | parlor | n. | 店, 營業室
+w012398.2 | parlor | n. | 客廳, 會客室
+w012399.1 | pebble | n. | 鵝卵石, 小圓石
+w012400.1 | perseverance | n. | 毅力, 堅持不懈, 不屈不撓
+w012401.1 | pharmacist | n. | 藥劑師, 藥師
+w012402.1 | picky | adj. | 挑剔的, 難以取悅的
+w012404.1 | populace | n. | 民眾, 平民, 大眾
+w012406.1 | pricey | adj. | 昂貴的, 價格高的
+w012408.1 | propagation | n. | 傳播, 宣傳, 擴散
+w012408.2 | propagation | n. | 繁殖, 培育
+w012408.3 | propagation | n. | 傳導, 傳播
+w012409.1 | psychedelic | adj. | 致幻的, 迷幻的
+w012409.2 | psychedelic | adj. | 迷幻風格的, 色彩斑斕的
+w012409.3 | psychedelic | n. | 迷幻藥, 致幻劑
+w012411.1 | radiator | n. | 暖氣片, 散熱器
+w012411.2 | radiator | n. | 水箱, 散熱器
+w012412.1 | rector | n. | 教區長, 教區牧師
+w012412.2 | rector | n. | 校長, 院長
+w012413.1 | regal | adj. | 帝王的, 王室的, 莊嚴的
+w012414.1 | relativity | n. | 相對論
+w012414.2 | relativity | n. | 相對性
+w012416.1 | ridicule | n. | 嘲笑, 譏笑, 嘲弄
+w012416.2 | ridicule | v. | 嘲笑, 譏諷, 嘲弄
+w012418.1 | rocker | n. | 搖椅
+w012418.2 | rocker | n. | 搖滾樂手, 搖滾樂迷
+w012419.1 | sculptor | n. | 雕刻家, 雕塑家
+w012421.1 | sheen | n. | 光澤, 光彩
+w012422.1 | sincerity | n. | 真誠, 誠意, 誠懇
+w012423.1 | sinful | adj. | 有罪的, 罪惡的, 邪惡的
+w012424.1 | slander | n. | 誹謗, 詆譭, 中傷
+w012424.2 | slander | v. | 誹謗, 中傷
+w012425.1 | sleek | adj. | 線條流暢的, 時髦的
+w012425.2 | sleek | adj. | 光滑的, 油亮的
+w012426.1 | sling | v. | 扔, 拋, 投
+w012426.2 | sling | v. | 掛, 吊, 懸掛
+w012426.3 | sling | n. | 吊帶, 懸帶
+w012426.4 | sling | n. | 彈弓, 投石器
+w012427.1 | socioeconomic | adj. | 社會經濟的
+w012428.1 | spontaneously | adv. | 自發地, 自然地, 不由自主地
+w012430.1 | sturgeon | n. | 鱘魚
+w012431.1 | subpoena | n. | 傳票
+w012431.2 | subpoena | v. | 傳喚, 發傳票
+w012432.1 | syllabus | n. | 教學大綱, 課程大綱
+w012433.1 | taiwanese | adj. | 臺灣的, 臺灣人的
+w012433.2 | taiwanese | n. | 臺灣人
+w012433.3 | taiwanese | n. | 臺灣話, 閩南語
+w012434.1 | textual | adj. | 文字的, 原文的, 文字的
+w012435.1 | toad | n. | 蟾蜍, 癩蛤蟆
+w012437.1 | unaffected | adj. | 未受影響的, 不受影響的
+w012437.2 | unaffected | adj. | 自然的, 真摯的, 不做作的
+w012438.1 | undeniable | adj. | 不可否認的, 無可爭辯的
+w012440.1 | upstate | adj. | 州北部的, 遠離大城市的
+w012440.2 | upstate | adv. | 在州北部, 向州北部
+w012441.1 | vigilant | adj. | 警惕的, 警覺的, 戒備的
+w012442.1 | visitation | n. | 探視權, 探視
+w012442.2 | visitation | n. | 視察, 正式訪問
+w012442.3 | visitation | n. | 顯靈, 天譴
+w012443.1 | viva | int. | 萬歲
+w012443.2 | viva | n. | 口試, 論文答辯
+w012444.1 | washer | n. | 洗衣機
+w012444.2 | washer | n. | 墊圈, 墊片
+w012445.1 | watered-down | adj. | 削弱了的, 打了折扣的
+w012445.2 | watered-down | adj. | 摻水的, 稀釋的
+w012447.1 | wick | n. | 燈芯, 燭芯
+w012448.1 | worldly | adj. | 世俗的, 塵世的, 物質的
+w012448.2 | worldly | adj. | 老於世故的, 見過世面的
+w012449.1 | additive | n. | 新增劑, 新增物
+w012449.2 | additive | adj. | 加法的, 累加的
+w012450.1 | adept | adj. | 熟練的, 擅長的, 內行的
+w012450.2 | adept | n. | 能手, 內行
+w012451.1 | advantageous | adj. | 有利的, 有好處的
+w012452.1 | aero | adj. | 空氣動力學的, 氣動的
+w012453.1 | afloat | adj. | 漂浮的, 浮著的
+w012453.2 | afloat | adj. | 維持下去的, 有償付能力的
+w012454.1 | agility | n. | 敏捷, 靈活, 靈巧
+w012457.1 | alteration | n. | 改變, 變更, 修改
+w012458.1 | annoyance | n. | 惱怒, 煩惱, 生氣
+w012458.2 | annoyance | n. | 討厭的事, 令人煩惱的事
+w012459.1 | anon | adv. | 不久, 很快
+w012459.2 | anon | adj. | 匿名的
+w012460.1 | ante | n. | 賭注, 預付賭注
+w012460.2 | ante | v. | 下賭注, 付錢
+w012461.1 | archipelago | n. | 群島, 列島
+w012465.1 | bloated | adj. | 腫脹的, 腹脹的
+w012465.2 | bloated | adj. | 臃腫的, 過度膨脹的
+w012466.1 | boating | n. | 划船, 泛舟, 乘船遊玩
+w012467.1 | bonfire | n. | 篝火, 營火
+w012468.1 | bullpen | n. | 替補投手區, 牛棚
+w012468.2 | bullpen | n. | 開放式辦公區
+w012470.1 | canine | adj. | 犬的, 狗的
+w012470.2 | canine | n. | 犬齒, 尖牙
+w012470.3 | canine | n. | 犬, 犬科動物
+w012471.1 | carb | n. | 碳水化合物
+w012471.2 | carb | n. | 化油器
+w012472.1 | carver | n. | 雕刻者, 雕刻師
+w012472.2 | carver | n. | 切肉刀
+w012473.1 | causal | adj. | 因果的, 因果關係的
+w012474.1 | centrally | adv. | 在中心, 位於中心
+w012474.2 | centrally | adv. | 集中地, 由中央
+w012475.1 | cheerleader | n. | 啦啦隊隊員
+w012475.2 | cheerleader | n. | 擁護者, 支持者
+w012476.1 | citadel | n. | 城堡, 要塞
+w012476.2 | citadel | n. | 堡壘, 大本營
+w012478.1 | colonialism | n. | 殖民主義
+w012479.1 | compromising | adj. | 有損名譽的, 令人難堪的
+w012480.1 | corvette | n. | 輕型護衛艦, 小型護衛艦
+w012482.1 | dashboard | n. | 儀表盤, 儀表板
+w012482.2 | dashboard | n. | 資料面板, 控制面板
+w012483.1 | deficient | adj. | 缺乏的, 不足的
+w012483.2 | deficient | adj. | 有缺陷的, 不完善的
+w012484.1 | degenerate | v. | 退化, 惡化, 墮落
+w012484.2 | degenerate | adj. | 墮落的, 頹廢的
+w012484.3 | degenerate | n. | 墮落者, 敗類
+w012485.1 | demonic | adj. | 惡魔的, 魔鬼的
+w012485.2 | demonic | adj. | 瘋狂的, 兇殘的
+w012486.1 | deterrent | n. | 威懾, 遏制因素
+w012486.2 | deterrent | adj. | 威懾的, 制止的
+w012487.1 | disdain | n. | 鄙視, 蔑視, 不屑
+w012487.2 | disdain | v. | 鄙視, 不屑於
+w012488.1 | disgraceful | adj. | 可恥的, 不光彩的, 丟臉的
+w012489.1 | doggy | n. | 狗狗, 小狗
+w012489.2 | doggy | adj. | 狗的, 像狗的
+w012490.1 | dole | n. | 失業救濟金
+w012490.2 | dole | v. | 發放, 分發
+w012491.1 | dun | adj. | 暗褐色的, 灰褐色的
+w012491.2 | dun | v. | 催討, 催債
+w012492.1 | eerie | adj. | 怪異的, 陰森的, 令人毛骨悚然的
+w012494.1 | excursion | n. | 遠足, 短途旅行, 遊覽
+w012495.1 | exponential | adj. | 迅速增長的, 越來越快的
+w012495.2 | exponential | adj. | 指數的
+w012496.1 | farce | n. | 鬧劇, 荒唐事
+w012496.2 | farce | n. | 滑稽戲, 笑劇
+w012497.1 | fatally | adv. | 致命地, 致死地
+w012497.2 | fatally | adv. | 無可挽回地, 嚴重地
+w012500.1 | fling | v. | 扔, 拋, 擲
+w012500.2 | fling | v. | 猛衝, 猛動
+w012500.3 | fling | n. | 短暫戀情, 一時的風流韻事
+w012502.1 | frantic | adj. | 慌亂的, 發狂的, 狂亂的
+w012502.2 | frantic | adj. | 忙亂的, 緊張的
+w012503.1 | fudge | n. | 乳脂軟糖, 軟糖
+w012503.2 | fudge | v. | 迴避, 搪塞, 含糊其辭
+w012503.3 | fudge | v. | 篡改, 捏造
+w012506.1 | glide | v. | 滑行, 滑動, 流暢地移動
+w012506.2 | glide | v. | 滑翔
+w012506.3 | glide | n. | 滑行, 滑動
+w012508.1 | grieve | v. | 悲傷, 哀悼, 悲痛
+w012508.2 | grieve | v. | 使傷心, 使悲傷
+w012509.1 | grossly | adv. | 極其, 非常, 嚴重地
+w012510.1 | grudge | n. | 怨恨, 積怨, 嫌隙
+w012510.2 | grudge | v. | 不情願, 吝惜
+w012512.1 | hairstyle | n. | 髮型, 髮式
+w012513.1 | handwritten | adj. | 手寫的, 親筆寫的
+w012514.1 | harmonic | adj. | 和聲的, 和諧的
+w012514.2 | harmonic | n. | 諧波, 泛音
+w012516.1 | heartless | adj. | 無情的, 冷酷的, 狠心的
+w012517.1 | hectic | adj. | 忙亂的, 繁忙的, 緊張的
+w012518.1 | holistic | adj. | 整體的, 全面的
+w012518.2 | holistic | adj. | 整體療法的
+w012520.1 | hormonal | adj. | 激素的, 荷爾蒙的
+w012522.1 | ICT | abbr. | 資訊通訊技術
+w012523.1 | informant | n. | 線人, 告密者, 提供訊息者
+w012523.2 | informant | n. | 資料提供人, 受訪者
+w012524.1 | inhabit | v. | 居住於, 棲息於
+w012525.1 | intervening | adj. | 介於中間的, 其間的
+w012526.1 | intrusive | adj. | 侵擾的, 打擾的, 侵犯隱私的
+w012527.1 | invoke | v. | 援引, 援用, 行使
+w012527.2 | invoke | v. | 喚起, 使聯想到
+w012527.3 | invoke | v. | 祈求, 召喚
+w012528.1 | jackass | n. | 蠢貨, 笨蛋, 傻瓜
+w012528.2 | jackass | n. | 公驢
+w012531.1 | joyous | adj. | 快樂的, 歡樂的, 令人高興的
+w012532.1 | kiwi | n. | 獼猴桃, 奇異果
+w012532.2 | kiwi | n. | 幾維鳥
+w012532.3 | kiwi | n. | 紐西蘭人
+w012534.1 | limo | n. | 豪華轎車
+w012536.1 | lunchtime | n. | 午餐時間, 午飯時間
+w012537.1 | lux | n. | 勒克斯
+w012538.1 | mace | n. | 狼牙棒, 釘頭錘
+w012538.2 | mace | n. | 權杖
+w012538.3 | mace | n. | 肉豆蔻衣
+w012539.1 | malignant | adj. | 惡性的
+w012539.2 | malignant | adj. | 惡毒的, 惡意的
+w012540.1 | mane | n. | 鬃毛, 鬣毛
+w012540.2 | mane | n. | 濃密長髮
+w012541.1 | mascara | n. | 睫毛膏
+w012542.1 | maverick | n. | 特立獨行者, 標新立異者
+w012542.2 | maverick | adj. | 特立獨行的, 不合常規的
+w012543.1 | measles | n. | 麻疹
+w012544.1 | mend | v. | 修理, 修補, 縫補
+w012544.2 | mend | v. | 改善, 好轉, 康復
+w012544.3 | mend | n. | 修補處
+w012546.1 | microbial | adj. | 微生物的
+w012547.1 | migraine | n. | 偏頭痛
+w012548.1 | millennial | n. | 千禧一代, 千禧世代的人
+w012548.2 | millennial | adj. | 千年的, 千禧年的
+w012549.1 | mitt | n. | 連指手套, 棒球手套
+w012549.2 | mitt | n. | 手
+w012550.1 | molten | adj. | 熔化的, 熔融的
+w012551.1 | monsoon | n. | 季風, 雨季
+w012552.1 | montage | n. | 蒙太奇, 剪輯
+w012552.2 | montage | n. | 拼貼畫, 集錦
+w012553.1 | negligent | adj. | 疏忽的, 翫忽職守的, 粗心的
+w012555.1 | nil | n. | 零, 無
+w012556.1 | opioid | n. | 阿片類藥物
+w012556.2 | opioid | adj. | 阿片類的
+w012557.1 | optimize | v. | 最佳化, 使最最佳化
+w012558.1 | passionately | adv. | 熱情地, 熱烈地, 強烈地
+w012559.1 | penetrating | adj. | 敏銳的, 犀利的, 尖銳的
+w012559.2 | penetrating | adj. | 刺耳的, 有穿透力的
+w012560.1 | persuasion | n. | 說服, 勸說
+w012560.2 | persuasion | n. | 信仰, 派別
+w012562.1 | plaid | n. | 格子呢, 格子圖案
+w012563.1 | playback | n. | 回放, 重放
+w012564.1 | plush | adj. | 豪華的, 舒適的
+w012564.2 | plush | n. | 長毛絨
+w012565.1 | positivity | n. | 積極性, 樂觀, 正能量
+w012566.1 | precedence | n. | 優先, 優先權, 居先
+w012567.1 | pristine | adj. | 嶄新的, 完好如初的
+w012567.2 | pristine | adj. | 原始的, 未受破壞的
+w012568.1 | prognosis | n. | 預後, 病情預測
+w012568.2 | prognosis | n. | 預測, 預料
+w012569.1 | propeller | n. | 螺旋槳, 推進器
+w012570.1 | racket | n. | 球拍
+w012570.2 | racket | n. | 吵鬧聲, 喧囂
+w012570.3 | racket | n. | 敲詐, 非法勾當
+w012571.1 | realistically | adv. | 現實地, 實際地
+w012571.2 | realistically | adv. | 逼真地
+w012572.1 | relatable | adj. | 能引起共鳴的, 感同身受的
+w012573.1 | reorganization | n. | 改組, 重組, 改編
+w012574.1 | retrieval | n. | 取回, 找回, 檢索
+w012575.1 | roundabout | n. | 環島, 環形交叉路口
+w012575.2 | roundabout | adj. | 迂迴的, 拐彎抹角的
+w012575.3 | roundabout | n. | 旋轉木馬
+w012576.1 | saline | adj. | 含鹽的, 鹹的
+w012576.2 | saline | n. | 生理鹽水, 鹽水
+w012577.1 | saviour | n. | 救星, 救助者
+w012577.2 | saviour | n. | 救世主
+w012578.1 | scarcely | adv. | 幾乎不, 簡直不
+w012578.2 | scarcely | adv. | 剛剛, 一…就
+w012580.1 | shipbuilding | n. | 造船, 造船業
+w012582.1 | smoky | adj. | 煙霧瀰漫的, 冒煙的
+w012582.2 | smoky | adj. | 有煙燻味的, 煙燻的
+w012582.3 | smoky | adj. | 菸灰色的, 朦朧的
+w012583.1 | spade | n. | 鐵鍬, 鏟子
+w012583.2 | spade | n. | 黑桃
+w012584.1 | steroid | n. | 類固醇
+w012584.2 | steroid | n. | 合成代謝類固醇, 興奮劑
+w012586.1 | temperate | adj. | 溫和的, 溫帶的
+w012586.2 | temperate | adj. | 有節制的, 適度的
+w012587.1 | thematic | adj. | 主題的, 題材的
+w012588.1 | threesome | n. | 三人組, 三人一組
+w012588.2 | threesome | n. | 三人性行為
+w012589.1 | toaster | n. | 烤麵包機, 多士爐
+w012590.1 | treble | v. | 變成三倍, 增加兩倍
+w012590.2 | treble | adj. | 三倍的, 三重的
+w012590.3 | treble | n. | 高音部, 最高音
+w012591.1 | turquoise | adj. | 綠松石色的, 青綠色的
+w012591.2 | turquoise | n. | 綠松石
+w012591.3 | turquoise | n. | 青綠色, 藍綠色
+w012592.1 | ultraviolet | adj. | 紫外線的, 紫外的
+w012592.2 | ultraviolet | n. | 紫外線
+w012593.1 | unbiased | adj. | 公正的, 無偏見的, 客觀的
+w012594.1 | uncanny | adj. | 離奇的, 神秘的, 不可思議的
+w012595.1 | underdog | n. | 弱者, 處於劣勢的一方
+w012596.1 | ungrateful | adj. | 忘恩負義的, 不領情的
+w012597.1 | untreated | adj. | 未經治療的, 未醫治的
+w012597.2 | untreated | adj. | 未經處理的, 未加工的
+w012598.1 | usefulness | n. | 有用, 實用性, 用處
+w012599.1 | vandalism | n. | 故意破壞公物, 破壞行為
+w012600.1 | vowel | n. | 母音, 母音字母
+w012601.1 | voyager | n. | 航海者, 航行者, 旅行者
+w012602.1 | weirdo | n. | 怪人, 怪胎
+w012603.1 | weld | v. | 焊接, 熔接
+w012603.2 | weld | v. | 使結合, 使團結
+w012603.3 | weld | n. | 焊縫, 焊接點
+w012604.1 | werewolf | n. | 狼人
+w012605.1 | wrongful | adj. | 不正當的, 非法的, 不公的
+w012609.1 | acknowledgement | n. | 承認, 認可
+w012609.2 | acknowledgement | n. | 回執, 收到通知
+w012609.3 | acknowledgement | n. | 致謝, 鳴謝
+w012610.1 | alligator | n. | 短吻鱷, 鱷魚
+w012611.1 | antagonist | n. | 對手, 敵手, 反對者
+w012611.2 | antagonist | n. | 反派, 反面人物
+w012612.1 | approximation | n. | 近似值, 估計
+w012612.2 | approximation | n. | 近似物, 相似的東西
+w012613.1 | aromatic | adj. | 芳香的, 有香味的
+w012613.2 | aromatic | adj. | 芳香族的
+w012614.1 | baroque | adj. | 巴洛克風格的
+w012614.2 | baroque | adj. | 過分裝飾的, 繁複的
+w012614.3 | baroque | n. | 巴洛克風格
+w012615.1 | behavioural | adj. | 行為的, 行為方面的
+w012616.1 | berg | n. | 冰山
+w012619.1 | binder | n. | 活頁夾, 資料夾
+w012619.2 | binder | n. | 黏合劑, 黏結劑
+w012620.1 | blindly | adv. | 盲目地, 不加思考地
+w012620.2 | blindly | adv. | 看不見地, 摸索著
+w012621.1 | brig | n. | 雙桅橫帆船
+w012621.2 | brig | n. | 艦上禁閉室, 軍中監獄
+w012622.1 | buggy | adj. | 有缺陷的, 漏洞多的
+w012622.2 | buggy | n. | 嬰兒車, 童車
+w012622.3 | buggy | n. | 輕便馬車, 小型車
+w012625.1 | canonical | adj. | 規範的, 標準的, 權威的
+w012625.2 | canonical | adj. | 教規的, 依照教會法規的
+w012626.1 | cautiously | adv. | 謹慎地, 小心地
+w012627.1 | ceasefire | n. | 停火, 停戰
+w012628.1 | celery | n. | 芹菜
+w012629.1 | characterize | v. | 以…為特徵, 是…的特點
+w012629.2 | characterize | v. | 描述, 刻畫
+w012630.1 | cor | int. | 哎呀, 天哪
+w012631.1 | counsellor | n. | 顧問, 諮詢師, 輔導員
+w012631.2 | counsellor | n. | 律師
+w012632.1 | couture | n. | 高階時裝, 高階女裝設計
+w012633.1 | cutie | n. | 可愛的人, 小可愛
+w012634.1 | dab | v. | 輕拍, 輕擦, 輕塗
+w012634.2 | dab | n. | 少量, 一點
+w012636.1 | dawg | n. | 哥們, 兄弟
+w012636.2 | dawg | n. | 狗
+w012638.1 | dissatisfaction | n. | 不滿, 不滿意
+w012639.1 | dodgy | adj. | 可疑的, 不可靠的, 不正當的
+w012639.2 | dodgy | adj. | 質量差的, 有毛病的
+w012640.1 | earthly | adj. | 塵世的, 世俗的
+w012640.2 | earthly | adj. | 可能的, 絲毫的
+w012641.1 | elective | adj. | 選修的, 可選擇的
+w012641.2 | elective | n. | 選修課
+w012641.3 | elective | adj. | 選舉的, 選任的
+w012643.1 | escalation | n. | 升級, 加劇, 逐步擴大
+w012644.1 | ethos | n. | 精神特質, 風氣, 理念
+w012645.1 | eureka | int. | 我找到了, 有了
+w012646.1 | exec | n. | 高管, 主管, 經理
+w012647.1 | eyewitness | n. | 目擊者, 見證人
+w012648.1 | fag | n. | 香菸, 菸捲
+w012648.2 | fag | n. | 同性戀者
+w012648.3 | fag | n. | 苦差事, 累活
+w012651.1 | fleeting | adj. | 短暫的, 轉瞬即逝的
+w012652.1 | forfeit | v. | 喪失, 被沒收, 放棄
+w012652.2 | forfeit | n. | 罰金, 沒收物, 代價
+w012652.3 | forfeit | v. | 棄權
+w012653.1 | foundry | n. | 鑄造廠, 鑄工車間
+w012654.1 | fro | adv. | 向後, 往回
+w012655.1 | furnishings | n. | 傢俱陳設, 室內裝飾品
+w012656.1 | giraffe | n. | 長頸鹿
+w012659.1 | grinder | n. | 研磨機, 磨碎機
+w012659.2 | grinder | n. | 砂輪機, 磨床
+w012660.1 | gunman | n. | 持槍歹徒, 槍手
+w012661.1 | hardcover | n. | 精裝書, 精裝本
+w012661.2 | hardcover | adj. | 精裝的, 硬皮的
+w012662.1 | healer | n. | 治療者, 醫治者
+w012664.1 | hinge | n. | 鉸鏈, 合頁
+w012664.2 | hinge | v. | 取決於, 以…為轉移
+w012666.1 | intestinal | adj. | 腸的, 腸道的
+w012668.1 | jock | n. | 運動員, 體育迷
+w012668.2 | jock | n. | 唱片節目主持人
+w012672.1 | mamma | n. | 媽媽, 娘
+w012673.1 | manic | adj. | 瘋狂的, 忙亂的, 興奮過度的
+w012673.2 | manic | adj. | 躁狂的, 躁狂症的
+w012674.1 | manifold | adj. | 多種多樣的, 許多的
+w012674.2 | manifold | n. | 歧管, 集合管
+w012675.1 | measurable | adj. | 可測量的, 可衡量的
+w012675.2 | measurable | adj. | 顯著的, 重要的
+w012677.1 | meek | adj. | 溫順的, 逆來順受的
+w012678.1 | mellow | adj. | 醇厚的, 柔和的, 圓潤的
+w012678.2 | mellow | adj. | 成熟穩重的, 隨和的
+w012678.3 | mellow | v. | 變得成熟, 變柔和
+w012679.1 | melon | n. | 瓜, 甜瓜
+w012680.1 | miscarriage | n. | 流產, 小產
+w012680.2 | miscarriage | n. | 誤判, 失敗
+w012682.1 | mojo | n. | 魅力, 活力, 魔力
+w012685.1 | narration | n. | 旁白, 解說
+w012685.2 | narration | n. | 敘述, 講述
+w012687.1 | nip | v. | 輕咬, 掐, 夾
+w012687.2 | nip | v. | 快速去, 跑一趟
+w012687.3 | nip | n. | 輕咬, 掐
+w012689.1 | oblivion | n. | 湮沒, 被遺忘
+w012689.2 | oblivion | n. | 無知覺, 昏迷
+w012691.1 | ornament | n. | 裝飾品, 飾物
+w012691.2 | ornament | n. | 裝飾, 修飾
+w012691.3 | ornament | v. | 裝飾, 點綴
+w012692.1 | outpatient | n. | 門診病人
+w012692.2 | outpatient | adj. | 門診的
+w012693.1 | pamphlet | n. | 小冊子, 宣傳冊
+w012695.1 | perish | v. | 喪生, 死亡
+w012695.2 | perish | v. | 毀滅, 消亡
+w012695.3 | perish | v. | 腐爛, 變質
+w012696.1 | perpetrator | n. | 犯罪者, 作惡者, 行兇者
+w012697.1 | pervert | n. | 變態, 性變態者
+w012697.2 | pervert | v. | 歪曲, 曲解, 妨礙
+w012697.3 | pervert | v. | 使墮落, 帶壞
+w012698.1 | pharaoh | n. | 法老
+w012699.1 | philanthropy | n. | 慈善, 博愛, 慈善事業
+w012700.1 | photon | n. | 光子
+w012701.1 | potion | n. | 藥水, 魔藥, 飲劑
+w012702.1 | preparedness | n. | 準備就緒, 有準備
+w012703.1 | primal | adj. | 原始的, 本能的
+w012703.2 | primal | adj. | 首要的, 根本的
+w012705.1 | psychopath | n. | 精神變態者, 心理變態者
+w012707.1 | quid | n. | 英鎊
+w012707.2 | quid | n. | 一口嚼煙
+w012708.1 | receptive | adj. | 樂於接受的, 能接納的
+w012709.1 | redundancy | n. | 裁員, 被解僱
+w012709.2 | redundancy | n. | 多餘, 冗餘
+w012710.1 | reelection | n. | 再次當選, 連任
+w012711.1 | reindeer | n. | 馴鹿
+w012712.1 | relapse | n. | 復發, 舊病復發
+w012712.2 | relapse | v. | 復發, 故態復萌
+w012713.1 | relish | v. | 喜愛, 享受, 期待
+w012713.2 | relish | n. | 享受, 樂趣, 興致
+w012713.3 | relish | n. | 調味醬, 佐料
+w012714.1 | rendezvous | n. | 約會, 會面
+w012714.2 | rendezvous | n. | 約會地點, 聚會場所
+w012714.3 | rendezvous | v. | 會面, 會合
+w012715.1 | reversible | adj. | 可逆的, 可撤銷的
+w012715.2 | reversible | adj. | 兩面可穿的, 雙面的
+w012717.1 | rowan | n. | 花楸樹, 歐洲花楸
+w012719.1 | scumbag | n. | 卑鄙小人, 人渣
+w012720.1 | selectively | adv. | 有選擇地, 選擇性地
+w012721.1 | shred | n. | 碎片, 碎條
+w012721.2 | shred | n. | 一點點, 絲毫
+w012721.3 | shred | v. | 切碎, 撕碎, 用碎紙機銷燬
+w012722.1 | sideline | n. | 邊線
+w012722.2 | sideline | n. | 副業, 兼職
+w012722.3 | sideline | v. | 使靠邊站, 使退出比賽
+w012723.1 | simplistic | adj. | 過分簡單化的, 片面的
+w012724.1 | skater | n. | 滑冰者, 溜冰者
+w012724.2 | skater | n. | 滑板手
+w012725.1 | skincare | n. | 護膚, 皮膚護理
+w012728.1 | supervise | v. | 監督, 管理, 指導
+w012729.1 | supervisory | adj. | 監督的, 管理的
+w012730.1 | syllable | n. | 音節
+w012731.1 | synod | n. | 宗教會議, 教會會議
+w012732.1 | takeaway | n. | 外賣, 外賣餐館
+w012732.2 | takeaway | n. | 要點, 收穫, 啟示
+w012734.1 | treacherous | adj. | 危險的, 暗藏危險的
+w012734.2 | treacherous | adj. | 背叛的, 奸詐的, 不忠的
+w012735.1 | untold | adj. | 數不清的, 無數的, 極大的
+w012735.2 | untold | adj. | 未說出的, 未透露的
+w012736.1 | uplifting | adj. | 令人振奮的, 鼓舞人心的
+w012737.1 | versatility | n. | 多才多藝, 多功能性, 用途廣泛
+w012738.1 | visualization | n. | 視覺化, 圖示
+w012738.2 | visualization | n. | 想象, 設想
+w012739.1 | voicemail | n. | 語音信箱, 語音留言
+w012740.1 | volt | n. | 伏特
+w012746.1 | allocate | v. | 分配, 撥給, 劃撥
+w012747.1 | analytic | adj. | 分析的, 善於分析的
+w012748.1 | attributable | adj. | 可歸因於…的, 由…引起的
+w012749.1 | barb | n. | 倒鉤, 倒刺
+w012749.2 | barb | n. | 挖苦, 諷刺話
+w012750.1 | bastion | n. | 堡壘, 捍衛者
+w012750.2 | bastion | n. | 稜堡, 要塞
+w012753.1 | biopsy | n. | 活組織檢查, 活檢
+w012754.1 | bolster | v. | 支援, 加強, 增強
+w012754.2 | bolster | n. | 長枕, 墊枕
+w012755.1 | bray | v. | 驢叫, 發出驢叫聲
+w012755.2 | bray | v. | 大聲刺耳地笑, 粗聲叫喊
+w012755.3 | bray | n. | 驢叫聲, 刺耳聲
+w012759.1 | chopper | n. | 直升機
+w012759.2 | chopper | n. | 斧頭, 砍刀
+w012759.3 | chopper | n. | 改裝摩托車
+w012760.1 | chunky | adj. | 厚重的, 粗大的
+w012760.2 | chunky | adj. | 矮胖的, 敦實的
+w012760.3 | chunky | adj. | 有塊的, 含大塊的
+w012761.1 | cohesive | adj. | 有凝聚力的, 團結的, 緊密結合的
+w012763.1 | commando | n. | 突擊隊員, 突擊隊
+w012764.1 | complication | n. | 複雜化, 難題, 麻煩
+w012764.2 | complication | n. | 併發症
+w012765.1 | contentious | adj. | 有爭議的, 引起爭論的
+w012765.2 | contentious | adj. | 好爭吵的
+w012766.1 | contra | prep. | 相對, 反對, 與…相反
+w012767.1 | cosy | adj. | 舒適的, 溫暖的, 愜意的
+w012767.2 | cosy | adj. | 親切的, 友好的
+w012768.1 | crease | n. | 摺痕, 褶皺
+w012768.2 | crease | v. | 弄皺, 起摺痕
+w012768.3 | crease | n. | 皺紋
+w012769.1 | dehydration | n. | 脫水
+w012770.1 | denomination | n. | 教派, 宗派
+w012770.2 | denomination | n. | 面額, 面值
+w012771.1 | digestion | n. | 消化
+w012771.2 | digestion | n. | 消化能力
+w012772.1 | dissatisfied | adj. | 不滿的, 不滿意的
+w012773.1 | donut | n. | 甜甜圈, 炸面圈
+w012774.1 | embargo | n. | 禁運, 貿易禁令
+w012774.2 | embargo | v. | 禁運, 禁止貿易
+w012775.1 | embodiment | n. | 化身, 體現, 典型
+w012776.1 | explanatory | adj. | 解釋的, 說明的
+w012777.1 | extremism | n. | 極端主義, 偏激
+w012780.1 | filtration | n. | 過濾, 濾除
+w012781.1 | fracking | n. | 水力壓裂, 壓裂法
+w012783.1 | fungal | adj. | 真菌的, 真菌引起的
+w012787.1 | glaring | adj. | 明顯的, 顯眼的
+w012787.2 | glaring | adj. | 刺眼的, 耀眼的
+w012787.3 | glaring | adj. | 怒視的
+w012788.1 | gloom | n. | 憂鬱, 沮喪, 悲觀
+w012788.2 | gloom | n. | 昏暗, 幽暗
+w012789.1 | goblin | n. | 小妖精, 小鬼
+w012790.1 | gunner | n. | 炮手, 槍手
+w012791.1 | hamster | n. | 倉鼠
+w012792.1 | hex | n. | 魔咒, 詛咒
+w012792.2 | hex | v. | 施魔法於, 詛咒
+w012792.3 | hex | adj. | 十六進位制的
+w012793.1 | hydra | n. | 九頭蛇
+w012793.2 | hydra | n. | 頑疾, 難以根除的禍患
+w012793.3 | hydra | n. | 水螅
+w012794.1 | hypocritical | adj. | 虛偽的, 偽善的
+w012795.1 | illustrious | adj. | 傑出的, 著名的, 顯赫的
+w012796.1 | incidental | adj. | 附帶的, 次要的, 偶然的
+w012796.2 | incidental | n. | 雜費, 附帶開支
+w012797.1 | indigo | n. | 靛藍色, 靛青
+w012797.2 | indigo | adj. | 靛藍色的
+w012797.3 | indigo | n. | 靛藍染料
+w012798.1 | instruct | v. | 指示, 命令, 吩咐
+w012798.2 | instruct | v. | 教, 指導, 傳授
+w012799.1 | insurgency | n. | 叛亂, 暴動, 起義
+w012800.1 | intimidate | v. | 恐嚇, 威脅, 使膽怯
+w012803.1 | labyrinth | n. | 迷宮, 曲徑
+w012803.2 | labyrinth | n. | 錯綜複雜的事物
+w012804.1 | lac | n. | 紫膠, 蟲膠
+w012805.1 | latency | n. | 延遲, 時延
+w012805.2 | latency | n. | 潛伏, 潛伏期
+w012806.1 | limbo | n. | 不確定狀態, 懸而未決
+w012806.2 | limbo | n. | 林波舞
+w012807.1 | linger | v. | 逗留, 徘徊, 流連
+w012807.2 | linger | v. | 繼續存留, 遲遲不消失
+w012808.1 | lousy | adj. | 糟糕的, 差勁的, 討厭的
+w012808.2 | lousy | adj. | 不舒服的, 難受的
+w012809.1 | luncheon | n. | 午宴, 正式午餐
+w012810.1 | mailbox | n. | 信箱, 郵箱
+w012810.2 | mailbox | n. | 電子郵箱
+w012811.1 | mammal | n. | 哺乳動物
+w012812.1 | memorabilia | n. | 紀念品, 收藏品
+w012813.1 | midterm | adj. | 期中的, 中期的
+w012813.2 | midterm | n. | 期中考試
+w012813.3 | midterm | n. | 中期選舉
+w012814.1 | midtown | n. | 市中心區, 城市中部
+w012815.1 | muzzle | n. | 口套, 口絡
+w012815.2 | muzzle | n. | 槍口, 炮口
+w012815.3 | muzzle | v. | 壓制, 鉗制言論
+w012817.1 | nurture | v. | 培養, 養育, 扶持
+w012817.2 | nurture | n. | 養育, 培育, 教養
+w012818.1 | oblivious | adj. | 未察覺的, 不知道的, 忘卻的
+w012819.1 | ode | n. | 頌詩, 頌歌
+w012821.1 | overt | adj. | 公開的, 明顯的, 顯而易見的
+w012822.1 | paisley | n. | 佩斯利花紋, 渦旋紋
+w012823.1 | patriarch | n. | 家長, 族長
+w012823.2 | patriarch | n. | 元老, 創始人
+w012823.3 | patriarch | n. | 宗主教, 牧首
+w012824.1 | penthouse | n. | 頂層豪華公寓, 樓頂套房
+w012825.1 | perjury | n. | 偽證, 偽證罪
+w012826.1 | pious | adj. | 虔誠的, 敬神的
+w012826.2 | pious | adj. | 假裝虔誠的, 偽善的
+w012828.1 | powdered | adj. | 粉狀的, 粉末的
+w012828.2 | powdered | adj. | 搽了粉的, 撒了粉的
+w012829.1 | prematurely | adv. | 過早地, 提前地
+w012830.1 | prioritize | v. | 優先處理, 按重要性排序
+w012831.1 | proprietor | n. | 業主, 所有者, 老闆
+w012832.1 | quarrel | n. | 爭吵, 口角, 吵架
+w012832.2 | quarrel | v. | 爭吵, 吵架
+w012832.3 | quarrel | n. | 異議, 不滿
+w012833.1 | raider | n. | 襲擊者, 侵入者, 搶劫者
+w012833.2 | raider | n. | 企業收購者
+w012834.1 | raja | n. | 王公, 土邦主
+w012836.1 | reasoned | adj. | 理由充分的, 經過推理的
+w012837.1 | rebate | n. | 退款, 部分退還
+w012837.2 | rebate | n. | 折扣, 回扣
+w012838.1 | resurgence | n. | 復甦, 復興, 再次興起
+w012839.1 | roc | n. | 大鵬, 巨鳥
+w012840.1 | rooster | n. | 公雞, 雄雞
+w012846.1 | scuba | n. | 水肺, 水下呼吸器, 水肺潛水
+w012847.1 | seamless | adj. | 無縫的, 流暢的, 天衣無縫的
+w012847.2 | seamless | adj. | 無接縫的, 無縫製的
+w012849.1 | shite | n. | 屎, 廢話, 垃圾
+w012849.2 | shite | adj. | 糟糕的, 爛的
+w012850.1 | shoreline | n. | 海岸線, 湖岸線, 岸邊
+w012852.1 | sickening | adj. | 令人作嘔的, 令人厭惡的, 令人噁心的
+w012852.2 | sickening | adj. | 令人不快的, 可怕的
+w012853.1 | silhouette | n. | 輪廓, 剪影, 側影
+w012853.2 | silhouette | n. | 外形, 廓形
+w012853.3 | silhouette | v. | 映出輪廓, 使呈現剪影
+w012854.1 | slug | n. | 鼻涕蟲, 蛞蝓
+w012854.2 | slug | n. | 一口, 少量
+w012854.3 | slug | v. | 猛擊, 重擊
+w012855.1 | smug | adj. | 自鳴得意的, 沾沾自喜的, 自滿的
+w012856.1 | soprano | n. | 女高音, 女高音歌手, 最高音部
+w012856.2 | soprano | adj. | 高音的, 女高音的
+w012857.1 | spectroscopy | n. | 光譜學, 波譜學, 光譜分析
+w012858.1 | spreadsheet | n. | 電子表格, 電子資料表
+w012859.1 | stagnant | adj. | 停滯的, 不景氣的, 無發展的
+w012859.2 | stagnant | adj. | 不流動的, 汙濁的, 死水的
+w012861.1 | tendon | n. | 肌腱, 腱
+w012862.1 | thc | abbr. | 四氫大麻酚, 大麻主要成分
+w012863.1 | thine | pron. | 你的, 你的東西
+w012863.2 | thine | det. | 你的
+w012865.1 | toughness | n. | 堅韌, 強硬, 韌性
+w012867.1 | unanswered | adj. | 未回答的, 未答覆的, 懸而未決的
+w012868.1 | unethical | adj. | 不道德的, 不合倫理的, 違反職業道德的
+w012869.1 | uptown | adv. | 在住宅區, 往城市北部
+w012869.2 | uptown | adj. | 住宅區的, 高檔的, 上城區的
+w012870.1 | urinary | adj. | 泌尿的, 尿的, 排尿的
+w012871.1 | valiant | adj. | 英勇的, 勇敢的, 頑強的
+w012872.1 | vigilante | n. | 義務警員, 私刑執行者, 民間治安隊員
+w012873.1 | viper | n. | 毒蛇, 蝰蛇
+w012873.2 | viper | n. | 陰險的人, 惡毒的人
+w012874.1 | weekday | n. | 工作日, 平日, 週日以外的日子
+w012878.1 | woe | n. | 困難, 麻煩, 問題
+w012878.2 | woe | n. | 悲哀, 痛苦, 悲傷
+w012880.1 | abstraction | n. | 抽象概念, 抽象, 抽象化
+w012880.2 | abstraction | n. | 心不在焉, 出神
+w012880.3 | abstraction | n. | 提取, 抽取
+w012881.1 | adjunct | n. | 附屬物, 附加物, 輔助
+w012881.2 | adjunct | adj. | 兼職的, 非正式編制的
+w012881.3 | adjunct | n. | 修飾語, 附加語
+w012882.1 | all-rounder | n. | 多面手, 全才, 全能選手
+w012884.1 | aspiration | n. | 抱負, 志向, 渴望
+w012884.2 | aspiration | n. | 送氣, 送氣音
+w012884.3 | aspiration | n. | 吸入, 抽吸
+w012886.1 | attentive | adj. | 專心的, 注意的, 留心的
+w012886.2 | attentive | adj. | 體貼的, 殷勤的, 關心的
+w012887.1 | auntie | n. | 阿姨, 姑媽, 嬸嬸
+w012888.1 | ballpark | n. | 棒球場
+w012888.2 | ballpark | adj. | 大致的, 粗略的, 估計的
+w012888.3 | ballpark | n. | 大致範圍, 估計範圍
+w012889.1 | beak | n. | 鳥嘴, 喙
+w012889.2 | beak | n. | 鷹鉤鼻, 大鼻子
+w012890.1 | beige | adj. | 米色的, 淺褐色的
+w012890.2 | beige | n. | 米色, 淺褐色
+w012892.1 | blasphemy | n. | 褻瀆, 瀆神, 褻瀆言行
+w012893.1 | blueberry | n. | 藍莓
+w012894.1 | boar | n. | 野豬
+w012894.2 | boar | n. | 公豬, 種豬
+w012896.1 | bran | n. | 麩, 糠, 麥麩
+w012897.1 | brigadier | n. | 准將, 旅長
+w012898.1 | broaden | v. | 擴大, 拓寬, 增長
+w012898.2 | broaden | v. | 變寬, 加寬
+w012900.1 | bulky | adj. | 體積大的, 笨重的, 龐大的
+w012900.2 | bulky | adj. | 魁梧的, 肥胖的
+w012901.1 | cameraman | n. | 攝影師, 攝像師
+w012902.1 | carnage | n. | 大屠殺, 殘殺, 大量傷亡
+w012902.2 | carnage | n. | 混亂, 破壞
+w012903.1 | chateau | n. | 城堡, 莊園, 別墅
+w012903.2 | chateau | n. | 酒莊
+w012906.1 | commune | n. | 公社, 群居團體
+w012906.2 | commune | n. | 市鎮, 地方行政區
+w012906.3 | commune | v. | 交流, 親近, 融為一體
+w012907.1 | conclusive | adj. | 決定性的, 確鑿的, 結論性的
+w012908.1 | conservatory | n. | 音樂學院, 藝術學院
+w012908.2 | conservatory | n. | 溫室, 玻璃暖房, 陽光房
+w012909.1 | considerate | adj. | 體貼的, 考慮周到的, 體諒的
+w012911.1 | coo | v. | 咕咕叫, 發咕咕聲
+w012911.2 | coo | v. | 柔聲說, 輕聲細語
+w012911.3 | coo | int. | 哇, 呀
+w012912.1 | cultured | adj. | 有教養的, 有修養的, 文雅的
+w012912.2 | cultured | adj. | 人工培養的, 養殖的
+w012914.1 | daycare | n. | 日託, 託兒所, 日間護理
+w012916.1 | depressive | adj. | 抑鬱的, 抑鬱症的
+w012916.2 | depressive | n. | 抑鬱症患者
+w012917.1 | descendant | n. | 後代, 後裔, 子孫
+w012917.2 | descendant | n. | 派生物, 衍生物
+w012918.1 | disperse | v. | 驅散, 散開, 解散
+w012918.2 | disperse | v. | 分散, 散佈, 傳播
+w012919.1 | disproportionately | adv. | 不成比例地, 過多地, 不相稱地
+w012920.1 | ecommerce | n. | 電子商務, 網上交易
+w012922.1 | enrich | v. | 豐富, 充實, 改善
+w012922.2 | enrich | v. | 使富裕, 使發財
+w012922.3 | enrich | v. | 濃縮, 強化
+w012923.1 | epidemiology | n. | 流行病學
+w012924.1 | exaggeration | n. | 誇張, 誇大, 言過其實
+w012925.1 | exhaustive | adj. | 詳盡的, 徹底的, 全面的
+w012926.1 | exponentially | adv. | 迅速地, 急劇地, 成倍地
+w012926.2 | exponentially | adv. | 呈指數地
+w012927.1 | externally | adv. | 外部地, 在外面, 外表上
+w012928.1 | fermentation | n. | 發酵, 發酵作用
+w012929.1 | fiasco | n. | 慘敗, 大失敗, 鬧劇
+w012930.1 | fifteenth | num. | 第十五, 第十五個
+w012930.2 | fifteenth | n. | 十五分之一
+w012933.1 | fright | n. | 驚嚇, 恐懼, 驚恐
+w012933.2 | fright | n. | 嚇人的經歷, 驚恐的事
+w012934.1 | fruitful | adj. | 富有成效的, 有成果的, 有益的
+w012934.2 | fruitful | adj. | 多產的, 果實累累的
+w012935.1 | gall | n. | 厚顏無恥, 膽大妄為
+w012935.2 | gall | v. | 使惱火, 激怒
+w012935.3 | gall | n. | 蟲癭, 癭
+w012936.1 | gastric | adj. | 胃的, 胃部的
+w012937.1 | hallelujah | int. | 哈利路亞, 讚美上帝
+w012937.2 | hallelujah | int. | 謝天謝地, 太好了
+w012938.1 | hastily | adv. | 匆忙地, 急忙地, 草率地
+w012940.1 | headphone | n. | 耳機, 頭戴式耳機
+w012941.1 | horizontally | adv. | 水平地, 橫向地, 橫著
+w012943.1 | hurtful | adj. | 傷感情的, 刻薄的, 令人難過的
+w012944.1 | illuminate | v. | 照亮, 照明, 點亮
+w012944.2 | illuminate | v. | 闡明, 解釋, 啟發
+w012945.1 | inaccessible | adj. | 難以到達的, 無法進入的
+w012945.2 | inaccessible | adj. | 難以理解的, 難懂的
+w012946.1 | incur | v. | 招致, 遭受, 引起
+w012946.2 | incur | v. | 產生費用, 承擔
+w012947.1 | inferno | n. | 大火, 火海, 烈焰
+w012947.2 | inferno | n. | 地獄, 煉獄般的地方
+w012949.1 | jog | v. | 慢跑
+w012949.2 | jog | v. | 輕推, 輕碰
+w012949.3 | jog | n. | 慢跑
+w012951.1 | jug | n. | 壺, 罐
+w012951.2 | jug | n. | 一壺的量
+w012954.1 | labrador | n. | 拉布拉多犬, 拉布拉多獵犬
+w012955.1 | latte | n. | 拿鐵, 拿鐵咖啡
+w012956.1 | leafy | adj. | 多葉的, 葉茂的
+w012956.2 | leafy | adj. | 綠樹成蔭的, 林木繁茂的
+w012957.1 | lobe | n. | 耳垂
+w012957.2 | lobe | n. | 葉, 腦葉, 肺葉
+w012958.1 | loo | n. | 廁所, 洗手間
+w012962.1 | margarita | n. | 瑪格麗特酒, 瑪格麗特雞尾酒
+w012965.1 | omission | n. | 遺漏, 省略, 疏漏
+w012965.2 | omission | n. | 失職, 不作為
+w012966.1 | orchid | n. | 蘭花, 蘭
+w012967.1 | overtake | v. | 超過, 趕上, 超越
+w012967.2 | overtake | v. | 超車
+w012967.3 | overtake | v. | 突然降臨, 侵襲
+w012969.1 | peat | n. | 泥炭, 泥煤
+w012970.1 | pedophile | n. | 戀童癖者
+w012971.1 | peptide | n. | 肽, 縮氨酸
+w012972.1 | periphery | n. | 邊緣, 外圍, 周邊
+w012972.2 | periphery | n. | 次要地位, 邊緣位置
+w012973.1 | piggy | n. | 小豬, 豬豬
+w012973.2 | piggy | adj. | 像豬的, 貪吃的
+w012974.1 | POV | abbr. | 觀點, 視角, 視點
+w012975.1 | prelude | n. | 前奏, 序幕, 開端
+w012975.2 | prelude | n. | 前奏曲, 序曲
+w012976.1 | priesthood | n. | 神職, 牧師職位, 聖職
+w012976.2 | priesthood | n. | 全體神職人員, 教士階層
+w012977.1 | punishable | adj. | 可處罰的, 應受懲罰的
+w012979.1 | reaper | n. | 死神
+w012979.2 | reaper | n. | 收割者, 收割機
+w012980.1 | reassure | v. | 使放心, 安慰, 打消疑慮
+w012981.1 | remnant | n. | 殘餘, 剩餘部分, 遺蹟
+w012981.2 | remnant | n. | 零頭布, 布頭
+w012982.1 | rockstar | n. | 搖滾明星
+w012982.2 | rockstar | n. | 明星人物, 佼佼者
+w012984.1 | scented | adj. | 有香味的, 加香料的, 芳香的
+w012985.1 | sclerosis | n. | 硬化, 硬化症
+w012986.1 | selfless | adj. | 無私的, 忘我的, 不自私的
+w012987.1 | serenity | n. | 寧靜, 平靜, 安詳
+w012988.1 | shrug | v. | 聳肩
+w012988.2 | shrug | n. | 聳肩
+w012989.1 | sighting | n. | 目擊, 看見, 發現
+w012991.1 | sonar | n. | 聲吶, 聲波定位儀
+w012992.1 | stabilization | n. | 穩定, 穩定化, 穩固
+w012993.1 | starch | n. | 澱粉, 含澱粉食物
+w012993.2 | starch | n. | 漿粉, 衣服漿
+w012993.3 | starch | v. | 上漿, 漿硬
+w012994.1 | stony | adj. | 多石的, 石頭的
+w012994.2 | stony | adj. | 冷漠的, 無情的, 冷酷的
+w012995.1 | subtly | adv. | 微妙地, 巧妙地, 細微地
+w012996.1 | surfer | n. | 衝浪者, 衝浪運動員
+w012996.2 | surfer | n. | 網上衝浪者, 網民
+w012997.1 | taper | v. | 逐漸變細, 一頭變尖
+w012997.2 | taper | v. | 逐漸減少, 逐漸減弱
+w012997.3 | taper | n. | 細蠟燭, 蠟芯
+w012998.1 | teaspoon | n. | 茶匙, 小勺
+w012998.2 | teaspoon | n. | 一茶匙的量
+w013000.1 | toxin | n. | 毒素, 毒質
+w013001.1 | typo | n. | 打字錯誤, 筆誤, 排印錯誤
+w013002.1 | unequal | adj. | 不平等的, 不公平的
+w013002.2 | unequal | adj. | 不相等的, 不同的
+w013002.3 | unequal | adj. | 不能勝任的
+w013003.1 | unresolved | adj. | 未解決的, 懸而未決的
+w013004.1 | unspecified | adj. | 未指明的, 未詳細說明的, 未具體規定的
+w013005.1 | veg | n. | 蔬菜
+w013005.2 | veg | v. | 無所事事, 放鬆, 消磨時間
+w013006.1 | VHS | abbr. | 家用錄影系統, 錄影帶
+w013007.1 | waffle | n. | 華夫餅, 威化餅
+w013007.2 | waffle | v. | 嘮叨, 胡扯, 廢話連篇
+w013007.3 | waffle | v. | 猶豫不決, 含糊其辭
+w013009.1 | winery | n. | 釀酒廠, 葡萄酒廠, 酒莊
+w013011.1 | writ | n. | 令狀, 書面命令, 傳票
+w013015.1 | zipper | n. | 拉鍊, 拉鎖
+w013015.2 | zipper | v. | 拉上拉鍊
+w013016.1 | acclaim | n. | 稱讚, 讚譽, 好評
+w013016.2 | acclaim | v. | 稱讚, 讚揚, 公認
+w013017.1 | adversary | n. | 對手, 敵手, 敵人
+w013018.1 | airfield | n. | 飛機場, 機場, 停機坪
+w013019.1 | ascertain | v. | 查明, 弄清, 確定
+w013020.1 | believable | adj. | 可信的, 可相信的, 令人信服的
+w013021.1 | bitterly | adv. | 痛苦地, 悲痛地, 怨恨地
+w013021.2 | bitterly | adv. | 激烈地, 強烈地
+w013021.3 | bitterly | adv. | 刺骨地, 極其
+w013022.1 | bloodshed | n. | 流血, 殺戮, 流血衝突
+w013025.1 | cello | n. | 大提琴
+w013026.1 | celsius | adj. | 攝氏的, 攝氏溫度的
+w013026.2 | celsius | n. | 攝氏溫標, 攝氏度
+w013027.1 | chai | n. | 印度香料奶茶, 茶
+w013028.1 | chariot | n. | 雙輪戰車, 馬拉戰車
+w013029.1 | cheddar | n. | 切達乾酪, 切達乳酪
+w013030.1 | chilli | n. | 辣椒, 紅辣椒
+w013030.2 | chilli | n. | 辣肉醬, 辣味燉肉
+w013031.1 | cholera | n. | 霍亂
+w013033.1 | clinch | v. | 贏得, 確定, 達成
+w013033.2 | clinch | n. | 擁抱, 摟抱
+w013033.3 | clinch | n. | 扭抱, 纏抱
+w013034.1 | clipped | adj. | 簡短的, 斷續的, 吐字短促的
+w013034.2 | clipped | adj. | 修剪過的, 剪短的
+w013035.1 | collide | v. | 碰撞, 相撞
+w013035.2 | collide | v. | 衝突, 牴觸
+w013036.1 | commemoration | n. | 紀念, 紀念活動, 紀念儀式
+w013037.1 | complexion | n. | 膚色, 面色, 氣色
+w013037.2 | complexion | n. | 性質, 局面, 特徵
+w013038.1 | compulsive | adj. | 強迫性的, 難以控制的, 上癮的
+w013038.2 | compulsive | adj. | 引人入勝的, 極吸引人的
+w013039.1 | congenital | adj. | 先天的, 天生的
+w013039.2 | congenital | adj. | 根深蒂固的, 本性難改的
+w013040.1 | consular | adj. | 領事的, 領事館的
+w013041.1 | corrective | adj. | 矯正的, 糾正的, 改正的
+w013041.2 | corrective | n. | 糾正措施, 矯正物
+w013043.1 | coworker | n. | 同事, 工友, 合作者
+w013044.1 | crumble | v. | 破碎, 弄碎, 碎裂
+w013044.2 | crumble | v. | 崩潰, 瓦解, 衰落
+w013044.3 | crumble | n. | 水果酥, 酥皮甜點
+w013045.1 | daredevil | n. | 冒失鬼, 膽大妄為者, 蠻勇的人
+w013045.2 | daredevil | adj. | 冒險的, 不顧危險的
+w013046.1 | denote | v. | 表示, 意味著, 代表
+w013047.1 | detox | n. | 戒毒, 戒酒, 排毒
+w013047.2 | detox | v. | 戒毒, 排毒
+w013048.1 | discrepancy | n. | 差異, 不一致, 出入
+w013049.1 | dishwasher | n. | 洗碗機
+w013049.2 | dishwasher | n. | 洗碗工
+w013051.1 | doodle | v. | 亂塗, 胡亂畫
+w013051.2 | doodle | n. | 塗鴉, 隨手畫的圖
+w013052.1 | dossier | n. | 檔案, 卷宗, 資料
+w013053.1 | draper | n. | 布商, 布料商
+w013055.1 | eradicate | v. | 根除, 消滅, 杜絕
+w013056.1 | excite | v. | 使興奮, 使激動
+w013056.2 | excite | v. | 引起, 激起, 激發
+w013057.1 | exporter | n. | 出口商, 出口國
+w013058.1 | extortion | n. | 敲詐, 勒索, 強取
+w013061.1 | feral | adj. | 野生的, 野化的
+w013061.2 | feral | adj. | 野性的, 兇猛的
+w013062.1 | generously | adv. | 慷慨地, 大方地
+w013062.2 | generously | adv. | 大量地, 充足地
+w013064.1 | grange | n. | 農莊, 莊園
+w013065.1 | hangar | n. | 飛機庫, 機棚
+w013066.1 | hardworking | adj. | 勤奮的, 努力的, 勤勞的
+w013067.1 | hasty | adj. | 匆忙的, 急速的
+w013067.2 | hasty | adj. | 草率的, 輕率的
+w013068.1 | HDMI | abbr. | 高畫質多媒體介面, HDMI介面
+w013070.1 | housekeeper | n. | 管家, 女管家, 家政人員
+w013070.2 | housekeeper | n. | 客房服務員, 保潔員
+w013071.1 | husky | adj. | 沙啞的, 嘶啞的, 低沉的
+w013071.2 | husky | n. | 哈士奇, 愛斯基摩犬
+w013071.3 | husky | adj. | 高大強壯的, 魁梧的
+w013073.1 | imitate | v. | 模仿, 仿效, 效仿
+w013073.2 | imitate | v. | 仿造, 仿製
+w013074.1 | improbable | adj. | 不大可能的, 未必會發生的
+w013074.2 | improbable | adj. | 離奇的, 奇特的
+w013075.1 | ineligible | adj. | 不合格的, 無資格的
+w013076.1 | infusion | n. | 注入, 投入
+w013076.2 | infusion | n. | 輸液, 靜脈注射
+w013076.3 | infusion | n. | 浸劑, 泡製的飲料
+w013078.1 | journalistic | adj. | 新聞的, 新聞業的, 新聞工作的
+w013080.1 | kart | n. | 卡丁車, 小型賽車
+w013081.1 | keyword | n. | 關鍵詞, 關鍵字
+w013081.2 | keyword | n. | 關鍵詞, 要點
+w013083.1 | lipid | n. | 脂質, 類脂
+w013084.1 | lordship | n. | 閣下, 大人
+w013084.2 | lordship | n. | 統治權, 領主權
+w013086.1 | mahogany | n. | 桃花心木, 紅木
+w013086.2 | mahogany | adj. | 紅褐色的, 赤褐色的
+w013087.1 | malfunction | n. | 故障, 失靈, 功能失常
+w013087.2 | malfunction | v. | 發生故障, 失靈
+w013088.1 | mana | n. | 法力, 魔力值
+w013088.2 | mana | n. | 威望, 神力, 超自然力量
+w013090.1 | markedly | adv. | 明顯地, 顯著地
+w013092.1 | mediator | n. | 調解人, 調停者, 中間人
+w013094.1 | meow | n. | 喵, 貓叫聲
+w013094.2 | meow | v. | 喵喵叫
+w013096.1 | mirage | n. | 海市蜃樓, 幻景
+w013096.2 | mirage | n. | 幻想, 妄想, 泡影
+w013097.1 | mockery | n. | 嘲笑, 嘲弄, 譏諷
+w013097.2 | mockery | n. | 笑柄, 鬧劇, 拙劣的模仿
+w013098.1 | modulation | n. | 調節, 調整
+w013098.2 | modulation | n. | 轉調, 變調
+w013098.3 | modulation | n. | 調製
+w013100.1 | navigator | n. | 領航員, 導航員
+w013100.2 | navigator | n. | 航海家, 探險家
+w013101.1 | nightingale | n. | 夜鶯
+w013102.1 | nuke | n. | 核武器, 核彈
+w013102.2 | nuke | v. | 用核武器攻擊, 徹底摧毀
+w013102.3 | nuke | v. | 用微波爐加熱
+w013103.1 | occult | n. | 神秘學, 超自然現象, 巫術
+w013103.2 | occult | adj. | 神秘的, 超自然的, 玄妙的
+w013104.1 | OCD | abbr. | 強迫症
+w013105.1 | olympian | n. | 奧運選手, 奧林匹克運動員
+w013105.2 | olympian | adj. | 超凡的, 威嚴的, 高高在上的
+w013105.3 | olympian | n. | 奧林匹斯山神
+w013107.1 | ovation | n. | 熱烈鼓掌, 歡呼, 喝彩
+w013108.1 | payback | n. | 報復, 報應
+w013108.2 | payback | n. | 回報, 收益, 投資回收
+w013109.1 | pediatrics | n. | 兒科, 兒科學
+w013110.1 | perch | v. | 棲息, 坐在高處, 置於高處
+w013110.2 | perch | n. | 棲木, 高處的座位
+w013110.3 | perch | n. | 鱸魚
+w013111.1 | perpendicular | adj. | 垂直的, 成直角的, 直立的
+w013111.2 | perpendicular | n. | 垂直線, 垂線
+w013112.1 | physique | n. | 體格, 體形, 身材
+w013113.1 | playbook | n. | 戰術手冊, 戰術圖冊
+w013113.2 | playbook | n. | 策略, 行動方案, 套路
+w013114.1 | plywood | n. | 膠合板, 夾板
+w013115.1 | pooh | int. | 呸, 哼, 啐
+w013115.2 | pooh | n. | 大便, 粑粑
+w013116.1 | proficient | adj. | 熟練的, 精通的, 嫻熟的
+w013117.1 | punctuation | n. | 標點符號, 標點, 標點法
+w013118.1 | purification | n. | 淨化, 提純, 純化
+w013119.1 | readable | adj. | 易讀的, 可讀性強的, 有趣的
+w013119.2 | readable | adj. | 清晰可辨的, 可讀取的
+w013120.1 | recourse | n. | 求助, 依靠, 追索權
+w013121.1 | regimen | n. | 養生法, 療法, 方案
+w013122.1 | removable | adj. | 可移動的, 可拆卸的, 可去除的
+w013123.1 | retrospect | n. | 回顧, 追溯, 事後看來
+w013124.1 | roundup | n. | 綜述, 摘要, 彙總
+w013124.2 | roundup | n. | 圍捕, 搜捕
+w013127.1 | sequential | adj. | 按順序的, 連續的, 相繼的
+w013128.1 | smelly | adj. | 有臭味的, 難聞的, 發臭的
+w013129.1 | sorta | adv. | 有點, 有幾分, 某種程度上
+w013130.1 | specialization | n. | 專業化, 專門化, 專攻
+w013130.2 | specialization | n. | 專業, 專長
+w013131.1 | spiritually | adv. | 精神上, 心靈上, 宗教上
+w013132.1 | sporadic | adj. | 零星的, 偶發的, 斷斷續續的
+w013133.1 | stationery | n. | 文具, 信紙, 辦公用品
+w013134.1 | sunscreen | n. | 防曬霜, 防曬油
+w013135.1 | tau | n. | 希臘字母τ, 陶
+w013136.1 | tempest | n. | 暴風雨, 風暴
+w013136.2 | tempest | n. | 騷動, 動盪, 風波
+w013138.1 | tights | n. | 連褲襪, 緊身褲, 褲襪
+w013140.1 | tofu | n. | 豆腐
+w013143.1 | truss | n. | 桁架, 構架
+w013143.2 | truss | v. | 捆綁, 紮緊
+w013143.3 | truss | n. | 疝氣帶
+w013144.1 | tubing | n. | 管道, 管子, 軟管
+w013144.2 | tubing | n. | 乘輪胎漂流, 雪圈滑行
+w013145.1 | twat | n. | 蠢貨, 混蛋
+w013145.2 | twat | n. | 女性陰部
+w013145.3 | twat | v. | 猛擊, 揍
+w013146.1 | undue | adj. | 過度的, 過分的, 不適當的
+w013147.1 | unionist | n. | 工會會員, 工會主義者
+w013147.2 | unionist | n. | 聯合主義者, 統一派
+w013148.1 | unprotected | adj. | 無保護的, 不設防的, 無防護的
+w013148.2 | unprotected | adj. | 無保護措施的
+w013149.1 | unsettling | adj. | 令人不安的, 擾亂人心的, 令人不快的
+w013150.1 | upscale | adj. | 高檔的, 高階的, 高階的
+w013155.1 | wacky | adj. | 古怪的, 滑稽的, 瘋狂的
+w013156.1 | wearable | adj. | 可穿戴的, 適合穿的
+w013156.2 | wearable | n. | 可穿戴裝置
+w013159.1 | wreckage | n. | 殘骸, 碎片, 廢墟
+w013160.1 | XML | abbr. | 可擴充套件標記語言
+w013161.1 | zeppelin | n. | 齊柏林飛艇, 飛艇
+w013162.1 | adamant | adj. | 堅決的, 堅定不移的, 毫不讓步的
+w013163.1 | airspace | n. | 領空, 空域
+w013164.1 | amplitude | n. | 振幅, 幅度
+w013164.2 | amplitude | n. | 廣闊, 充足
+w013165.1 | analogue | adj. | 模擬的, 指標式的
+w013165.2 | analogue | n. | 類似物, 對應物
+w013166.1 | archival | adj. | 檔案的, 檔案館的, 存檔的
+w013167.1 | ardent | adj. | 熱情的, 熱心的, 狂熱的
+w013168.1 | assay | n. | 化驗, 檢測, 分析
+w013168.2 | assay | v. | 化驗, 測定, 分析
+w013169.1 | assorted | adj. | 各式各樣的, 什錦的, 混雜的
+w013171.1 | badminton | n. | 羽毛球, 羽毛球運動
+w013172.1 | barbarian | n. | 野蠻人, 未開化的人
+w013172.2 | barbarian | n. | 粗人, 沒教養的人
+w013173.1 | bedrock | n. | 基礎, 根基, 基本原則
+w013173.2 | bedrock | n. | 基岩, 岩床
+w013175.1 | boardwalk | n. | 木板路, 海濱木棧道
+w013176.1 | boldly | adv. | 大膽地, 勇敢地, 無畏地
+w013176.2 | boldly | adv. | 醒目地, 顯眼地
+w013177.1 | boomer | n. | 嬰兒潮一代
+w013177.2 | boomer | n. | 老古板, 守舊的人
+w013178.1 | brittle | adj. | 易碎的, 脆的
+w013178.2 | brittle | adj. | 脆弱的, 不穩定的
+w013178.3 | brittle | n. | 果仁脆糖
+w013179.1 | budding | adj. | 嶄露頭角的, 初露鋒芒的, 萌芽的
+w013182.1 | cheaply | adv. | 便宜地, 廉價地, 低成本地
+w013186.1 | cohesion | n. | 凝聚力, 團結, 結合
+w013186.2 | cohesion | n. | 內聚力, 黏合
+w013187.1 | compel | v. | 強迫, 迫使, 逼迫
+w013187.2 | compel | v. | 引起, 激起
+w013188.1 | conduit | n. | 渠道, 中介, 途徑
+w013188.2 | conduit | n. | 管道, 導管, 線管
+w013189.1 | constraint | n. | 限制, 約束, 制約
+w013189.2 | constraint | n. | 拘束, 剋制
+w013190.1 | conveyor | n. | 傳送帶, 輸送機
+w013190.2 | conveyor | n. | 傳送者, 運送者
+w013192.1 | cramped | adj. | 狹窄的, 擁擠的, 侷促的
+w013194.1 | decimal | adj. | 十進位制的, 小數的
+w013194.2 | decimal | n. | 小數
+w013195.1 | defensively | adv. | 防禦地, 防守地
+w013195.2 | defensively | adv. | 戒備地, 自我辯護地
+w013196.1 | defunct | adj. | 已倒閉的, 不再存在的, 失效的
+w013197.1 | degrade | v. | 降低質量, 使退化
+w013197.2 | degrade | v. | 貶低, 侮辱, 使丟臉
+w013197.3 | degrade | v. | 降解, 分解
+w013200.1 | diffuse | v. | 擴散, 傳播, 散佈
+w013200.2 | diffuse | adj. | 分散的, 瀰漫的, 冗長的
+w013201.1 | dignified | adj. | 莊重的, 有尊嚴的, 高貴的
+w013202.1 | disapproval | n. | 不贊成, 反對, 不滿
+w013203.1 | disobedience | n. | 不服從, 違抗, 抗命
+w013204.1 | dreamer | n. | 夢想家, 空想家, 不切實際的人
+w013204.2 | dreamer | n. | 做夢的人
+w013205.1 | dune | n. | 沙丘
+w013208.1 | electronically | adv. | 電子地, 透過電子方式, 以電子形式
+w013209.1 | emancipation | n. | 解放, 解除束縛, 釋放
+w013210.1 | entropy | n. | 熵
+w013210.2 | entropy | n. | 混亂, 無序, 衰退
+w013211.1 | epitome | n. | 典型, 縮影, 化身
+w013213.1 | extradition | n. | 引渡
+w013214.1 | eyesight | n. | 視力, 視覺
+w013216.1 | finder | n. | 發現者, 拾得者
+w013216.2 | finder | n. | 取景器, 尋像器
+w013217.1 | fishy | adj. | 可疑的, 不對勁的
+w013217.2 | fishy | adj. | 有魚腥味的, 魚似的
+w013218.1 | flooring | n. | 地板材料, 鋪地材料, 地面
+w013219.1 | forearm | n. | 前臂
+w013220.1 | frail | adj. | 虛弱的, 衰弱的
+w013220.2 | frail | adj. | 脆弱的, 易損的
+w013221.1 | fray | v. | 磨損, 磨破
+w013221.2 | fray | n. | 爭鬥, 衝突, 競爭
+w013221.3 | fray | v. | 使緊張, 使煩躁
+w013222.1 | generational | adj. | 代際的, 一代人的, 世代的
+w013223.1 | glaze | n. | 釉, 釉料, 糖漿面
+w013223.2 | glaze | v. | 上釉, 塗糖漿
+w013223.3 | glaze | v. | 目光呆滯
+w013224.1 | goldfish | n. | 金魚
+w013226.1 | grizzly | n. | 灰熊
+w013226.2 | grizzly | adj. | 灰白的, 斑白的
+w013227.1 | grotesque | adj. | 怪誕的, 醜陋怪異的, 荒唐的
+w013227.2 | grotesque | n. | 怪誕風格, 怪人
+w013228.1 | harass | v. | 騷擾, 侵擾, 折磨
+w013228.2 | harass | v. | 不斷襲擊
+w013229.1 | hooded | adj. | 帶兜帽的, 戴頭巾的
+w013229.2 | hooded | adj. | 眼皮下垂的
+w013230.1 | horrid | adj. | 可怕的, 討厭的, 極壞的
+w013234.1 | impractical | adj. | 不切實際的, 不實用的, 不現實的
+w013235.1 | interchangeable | adj. | 可互換的, 可交換的, 可替代的
+w013236.1 | irreversible | adj. | 不可逆的, 無法挽回的, 不可改變的
+w013238.1 | lawless | adj. | 無法無天的, 目無法紀的, 無政府的
+w013239.1 | leggings | n. | 緊身褲, 打底褲
+w013239.2 | leggings | n. | 綁腿, 護腿
+w013243.1 | mayoral | adj. | 市長的
+w013244.1 | medley | n. | 混合曲, 整合曲
+w013244.2 | medley | n. | 混合物, 大雜燴
+w013244.3 | medley | n. | 混合泳
+w013247.1 | minimalist | adj. | 極簡的, 簡約的, 極簡主義的
+w013247.2 | minimalist | n. | 極簡主義者
+w013249.1 | objectively | adv. | 客觀地, 公正地, 不帶偏見地
+w013251.1 | pap | n. | 無聊的東西, 淺薄讀物
+w013251.2 | pap | n. | 糊狀食物, 軟食
+w013252.1 | plugin | n. | 外掛, 外掛程式
+w013253.1 | pore | n. | 毛孔, 氣孔, 細孔
+w013253.2 | pore | v. | 仔細閱讀, 鑽研, 認真研究
+w013254.1 | postgraduate | n. | 研究生
+w013254.2 | postgraduate | adj. | 研究生的, 大學畢業後的
+w013255.1 | predicament | n. | 困境, 窘境, 尷尬處境
+w013256.1 | predominant | adj. | 主要的, 佔優勢的, 主導的
+w013258.1 | puke | v. | 嘔吐, 吐
+w013258.2 | puke | n. | 嘔吐物
+w013260.1 | quadrant | n. | 象限, 四分之一區域
+w013260.2 | quadrant | n. | 象限儀
+w013261.1 | recital | n. | 獨奏會, 獨唱會, 演奏會
+w013261.2 | recital | n. | 詳述, 列舉, 背誦
+w013262.1 | recite | v. | 背誦, 朗誦
+w013262.2 | recite | v. | 列舉, 詳述
+w013263.1 | reckoning | n. | 清算, 報應, 懲罰
+w013263.2 | reckoning | n. | 計算, 估算, 估計
+w013264.1 | recollection | n. | 回憶, 記憶, 往事
+w013265.1 | refine | v. | 改進, 完善, 改善
+w013265.2 | refine | v. | 提煉, 精煉, 提純
+w013266.1 | resale | n. | 轉售, 再出售, 轉賣
+w013267.1 | retake | v. | 重考, 重新參加
+w013267.2 | retake | v. | 奪回, 收復
+w013267.3 | retake | n. | 重拍, 重新拍攝, 補考
+w013269.1 | rosy | adj. | 樂觀的, 美好的, 光明的
+w013269.2 | rosy | adj. | 紅潤的, 玫瑰色的
+w013270.1 | rupture | v. | 破裂, 爆裂, 使斷裂
+w013270.2 | rupture | n. | 破裂, 斷裂
+w013270.3 | rupture | n. | 決裂, 破裂
+w013271.1 | scandalous | adj. | 可恥的, 令人震驚的, 丟人的
+w013271.2 | scandalous | adj. | 誹謗的, 中傷的
+w013272.1 | scot | n. | 蘇格蘭人
+w013273.1 | seasoning | n. | 調味品, 調料, 佐料
+w013274.1 | securely | adv. | 牢固地, 緊緊地, 穩妥地
+w013274.2 | securely | adv. | 安全地, 可靠地
+w013275.1 | shabby | adj. | 破舊的, 寒酸的, 衣衫襤褸的
+w013275.2 | shabby | adj. | 卑鄙的, 不公正的
+w013276.1 | sinus | n. | 鼻竇, 竇
+w013278.1 | skid | v. | 打滑, 滑行, 側滑
+w013278.2 | skid | n. | 打滑, 滑行
+w013279.1 | solace | n. | 安慰, 慰藉, 撫慰
+w013279.2 | solace | v. | 安慰, 撫慰
+w013280.1 | specialize | v. | 專攻, 專門從事, 專營
+w013281.1 | splinter | n. | 碎片, 尖片, 木刺
+w013281.2 | splinter | v. | 裂成碎片, 碎裂
+w013281.3 | splinter | v. | 分裂, 分化
+w013282.1 | squire | n. | 鄉紳, 地主
+w013282.2 | squire | n. | 侍從, 騎士隨從
+w013283.1 | standout | n. | 傑出者, 佼佼者, 出眾的事物
+w013283.2 | standout | adj. | 出色的, 傑出的
+w013284.1 | stoner | n. | 癮君子, 常吸大麻的人
+w013285.1 | swimsuit | n. | 泳衣, 游泳衣
+w013286.1 | symmetrical | adj. | 對稱的, 勻稱的
+w013288.1 | tam | n. | 蘇格蘭圓帽, 無簷圓帽
+w013289.1 | terminator | n. | 終結者, 終止者
+w013289.2 | terminator | n. | 明暗界線
+w013290.1 | tinker | v. | 修補, 小修小改, 擺弄
+w013290.2 | tinker | n. | 補鍋匠, 流動修補匠
+w013291.1 | topography | n. | 地形, 地勢, 地貌
+w013291.2 | topography | n. | 地形學, 地形測量
+w013292.1 | unexplained | adj. | 無法解釋的, 原因不明的, 未說明的
+w013293.1 | unintended | adj. | 無意的, 非故意的, 意料之外的
+w013294.1 | unsolved | adj. | 未解決的, 未破的, 未解開的
+w013295.1 | unsuccessfully | adv. | 不成功地, 失敗地, 徒勞地
+w013296.1 | uptake | n. | 採用, 接受程度, 利用率
+w013296.2 | uptake | n. | 吸收, 攝取
+w013297.1 | vantage | n. | 有利位置, 優勢, 觀察點
+w013300.1 | whim | n. | 一時的念頭, 心血來潮, 奇想
+w013301.1 | whine | v. | 抱怨, 發牢騷, 哭訴
+w013301.2 | whine | v. | 哀鳴, 嗚咽
+w013301.3 | whine | n. | 嗚嗚聲, 哀鳴聲, 牢騷
+w013302.1 | withhold | v. | 扣留, 拒絕給予, 隱瞞
+w013302.2 | withhold | v. | 代扣, 預扣
+w013305.1 | zeal | n. | 熱情, 熱忱, 狂熱
+w013306.1 | abort | v. | 中止, 取消, 放棄
+w013306.2 | abort | v. | 墮胎, 流產
+w013307.1 | abound | v. | 大量存在, 充滿, 富於
+w013308.1 | adversely | adv. | 不利地, 有害地, 負面地
+w013310.1 | astonished | adj. | 驚訝的, 吃驚的, 震驚的
+w013311.1 | audacity | n. | 厚顏無恥, 放肆, 魯莽
+w013311.2 | audacity | n. | 大膽, 勇氣, 膽量
+w013312.1 | banjo | n. | 班卓琴
+w013313.1 | barbaric | adj. | 野蠻的, 殘暴的, 未開化的
+w013314.1 | barbed | adj. | 有倒鉤的, 帶刺的
+w013314.2 | barbed | adj. | 尖刻的, 諷刺的, 帶刺的
+w013315.1 | beech | n. | 山毛櫸, 山毛櫸木
+w013316.1 | biz | n. | 生意, 行業, 娛樂圈
+w013317.1 | blazer | n. | 西裝上衣, 運動夾克, 校服外套
+w013318.1 | blower | n. | 鼓風機, 吹風機
+w013318.2 | blower | n. | 電話
+w013319.1 | blurry | adj. | 模糊的, 不清楚的
+w013320.1 | bravely | adv. | 勇敢地, 英勇地, 無畏地
+w013324.1 | chevron | n. | V形圖案, 人字形
+w013324.2 | chevron | n. | 軍銜條紋, V形臂章
+w013326.1 | coercion | n. | 強迫, 脅迫, 強制
+w013327.1 | comma | n. | 逗號
+w013328.1 | competency | n. | 能力, 勝任, 技能
+w013329.1 | concerted | adj. | 齊心協力的, 一致的, 協同的
+w013329.2 | concerted | adj. | 竭盡全力的, 堅決的
+w013332.1 | crotch | n. | 胯部, 褲襠
+w013332.2 | crotch | n. | 樹杈, 分叉處
+w013333.1 | customize | v. | 定製, 定做, 自定義
+w013335.1 | dashing | adj. | 瀟灑的, 英俊的, 風度翩翩的
+w013336.1 | departmental | adj. | 部門的, 系的, 部的
+w013338.1 | dharma | n. | 佛法, 達摩, 法
+w013339.1 | dialysis | n. | 透析, 血液透析
+w013340.1 | distal | adj. | 遠端的, 末梢的
+w013341.1 | divisional | adj. | 部門的, 分部的, 師的
+w013342.1 | dogma | n. | 教條, 信條, 教義
+w013344.1 | emptiness | n. | 空虛, 空洞感, 寂寞
+w013344.2 | emptiness | n. | 空曠, 空無一物
+w013345.1 | encompass | v. | 包含, 包括, 涵蓋
+w013345.2 | encompass | v. | 包圍, 環繞
+w013346.1 | ensign | n. | 海軍少尉
+w013346.2 | ensign | n. | 艦旗, 旗幟
+w013347.1 | evoke | v. | 喚起, 引起, 使人想起
+w013348.1 | faithfully | adv. | 忠實地, 忠誠地, 如實地
+w013349.1 | fern | n. | 蕨類植物, 蕨
+w013350.1 | firepower | n. | 火力
+w013350.2 | firepower | n. | 實力, 影響力
+w013351.1 | fixation | n. | 迷戀, 執著, 痴迷
+w013351.2 | fixation | n. | 固定, 固著
+w013352.1 | formative | adj. | 形成期的, 塑造性格的, 發展的
+w013353.1 | fret | v. | 煩惱, 焦慮, 發愁
+w013353.2 | fret | n. | 品, 琴格
+w013355.1 | gastrointestinal | adj. | 胃腸的, 胃腸道的
+w013356.1 | grader | n. | 年級學生
+w013356.2 | grader | n. | 評分者, 閱卷人
+w013356.3 | grader | n. | 平地機
+w013358.1 | gratification | n. | 滿足, 滿意, 快感
+w013359.1 | gruesome | adj. | 可怕的, 恐怖的, 令人毛骨悚然的
+w013361.1 | harshly | adv. | 嚴厲地, 苛刻地, 粗暴地
+w013365.1 | imaginable | adj. | 可想象的, 想得到的, 可能的
+w013366.1 | impetus | n. | 推動力, 動力, 刺激
+w013366.2 | impetus | n. | 衝力, 動量
+w013367.1 | impulsive | adj. | 衝動的, 任性的, 一時衝動的
+w013368.1 | incense | n. | 香, 薰香, 焚香
+w013368.2 | incense | v. | 激怒, 使大怒
+w013369.1 | inhuman | adj. | 不人道的, 殘忍的, 野蠻的
+w013369.2 | inhuman | adj. | 非人的, 非人類的
+w013370.1 | injure | v. | 使受傷, 傷害, 損害
+w013371.1 | invoice | n. | 發票, 發貨單, 賬單
+w013371.2 | invoice | v. | 開發票, 開賬單
+w013374.1 | junkie | n. | 吸毒者, 癮君子
+w013374.2 | junkie | n. | 迷, 狂熱愛好者
+w013378.1 | lao | n. | 寮國人, 寮國族
+w013378.2 | lao | n. | 寮國語
+w013378.3 | lao | adj. | 寮國的, 寮國人的, 寮國語的
+w013379.1 | latent | adj. | 潛在的, 潛伏的, 隱藏的
+w013385.1 | limitless | adj. | 無限的, 無邊無際的, 無窮的
+w013386.1 | literate | adj. | 有讀寫能力的, 識字的
+w013386.2 | literate | adj. | 有文化的, 精通的, 熟悉的
+w013388.1 | localization | n. | 本地化, 本土化
+w013388.2 | localization | n. | 定位, 區域性化, 侷限
+w013390.1 | lowly | adj. | 地位低下的, 卑微的, 低等的
+w013391.1 | lucid | adj. | 清楚的, 易懂的, 明晰的
+w013391.2 | lucid | adj. | 神志清醒的, 頭腦清楚的
+w013392.1 | lymphoma | n. | 淋巴瘤
+w013393.1 | martini | n. | 馬提尼酒, 馬提尼雞尾酒
+w013394.1 | merciful | adj. | 仁慈的, 寬大的, 慈悲的
+w013394.2 | merciful | adj. | 幸運的, 令人寬慰的
+w013396.1 | midget | n. | 侏儒, 矮子
+w013396.2 | midget | adj. | 微型的, 極小的
+w013397.1 | midwife | n. | 助產士, 接生員
+w013399.1 | misinformation | n. | 錯誤資訊, 誤傳, 虛假資訊
+w013400.1 | mitochondrial | adj. | 線粒體的
+w013401.1 | mobilization | n. | 動員, 調動, 組織
+w013401.2 | mobilization | n. | 戰爭動員, 軍事動員
+w013402.1 | monologue | n. | 獨白, 獨角戲
+w013402.2 | monologue | n. | 長篇大論, 滔滔不絕
+w013403.1 | monoxide | n. | 一氧化物
+w013404.1 | musically | adv. | 音樂上, 在音樂方面
+w013404.2 | musically | adv. | 悅耳地, 有樂感地
+w013405.1 | mutiny | n. | 兵變, 叛變, 譁變
+w013405.2 | mutiny | v. | 反叛, 叛變, 譁變
+w013406.1 | nervously | adv. | 緊張地, 不安地, 焦慮地
+w013407.1 | nighttime | n. | 夜間, 夜晚
+w013408.1 | nonlinear | adj. | 非線性的
+w013408.2 | nonlinear | adj. | 非順序的, 跳躍式的
+w013411.1 | outweigh | v. | 超過, 勝過, 比…重要
+w013412.1 | parasitic | adj. | 寄生的, 寄生蟲引起的
+w013412.2 | parasitic | adj. | 依賴他人的, 寄生的
+w013413.1 | parsley | n. | 歐芹, 香芹, 洋香菜
+w013414.1 | pendulum | n. | 擺, 鐘擺
+w013414.2 | pendulum | n. | 搖擺, 變動
+w013416.1 | picket | n. | 糾察隊, 罷工糾察員
+w013416.2 | picket | v. | 設定糾察, 在…外抗議
+w013416.3 | picket | n. | 尖樁, 柵欄樁
+w013417.1 | poignant | adj. | 令人心酸的, 辛酸的, 感人的
+w013418.1 | polio | n. | 脊髓灰質炎, 小兒麻痺症
+w013419.1 | potency | n. | 效力, 藥效, 力量
+w013419.2 | potency | n. | 效能力
+w013420.1 | precarious | adj. | 不穩定的, 不牢靠的, 危險的
+w013422.1 | pretext | n. | 藉口, 託詞
+w013423.1 | privatization | n. | 私有化, 民營化
+w013424.1 | proclaim | v. | 宣佈, 宣告, 宣告
+w013424.2 | proclaim | v. | 表明, 顯示
+w013425.1 | quaint | adj. | 古色古香的, 古雅的, 奇特有趣的
+w013426.1 | raccoon | n. | 浣熊
+w013427.1 | reassurance | n. | 安慰, 寬慰, 消除疑慮
+w013428.1 | redistribution | n. | 再分配, 重新分配
+w013429.1 | restrain | v. | 制止, 阻止, 控制
+w013429.2 | restrain | v. | 剋制, 抑制, 限制
+w013430.1 | richly | adv. | 豐富地, 華麗地, 富足地
+w013430.2 | richly | adv. | 完全地, 充分地
+w013431.1 | saver | n. | 儲蓄者, 存款人
+w013431.2 | saver | n. | 節省…的東西
+w013432.1 | secession | n. | 脫離, 退出, 分離
+w013433.1 | sectarian | adj. | 宗派的, 派系的, 宗派主義的
+w013434.1 | seminal | adj. | 開創性的, 影響深遠的
+w013434.2 | seminal | adj. | 精液的, 生殖的
+w013435.1 | serene | adj. | 平靜的, 安詳的, 寧靜的

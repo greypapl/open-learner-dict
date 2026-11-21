@@ -1,0 +1,300 @@
+w001517.1 | The city is world-famous for its old buildings. | 这座城市以古老的建筑闻名世界。
+w001520.1 | My cousin lives in the USA. | 我的表哥住在美国。
+w001521.1 | She put her books in her bag. | 她把书放进了包里。
+w001521.2 | The kids ate a whole bag of sweets. | 孩子们吃了一整袋糖果。
+w001521.3 | Could you bag these apples for me? | 你能帮我把这些苹果装袋吗？
+w001521.4 | Our team bagged three gold medals. | 我们队赢得了三枚金牌。
+w001522.1 | He bet ten dollars on the red horse. | 他在那匹红马上下注了十美元。
+w001522.2 | I lost the bet, so I have to buy lunch. | 我打赌输了，所以得请吃午饭。
+w001522.3 | I bet she'll be late again. | 我敢说她又要迟到了。
+w001523.1 | We walked back to camp before dark. | 我们在天黑前走回了营地。
+w001523.2 | We camped by the lake for two nights. | 我们在湖边露营了两晚。
+w001523.3 | The party is split into two camps on this issue. | 在这个问题上，党内分成了两个阵营。
+w001524.1 | The whole cast came on stage at the end. | 最后全体演员都登上了舞台。
+w001524.2 | The tree cast a long shadow across the grass. | 那棵树在草地上投下了长长的影子。
+w001524.3 | She was cast as the queen in the school play. | 她在学校的戏里被选来演女王。
+w001524.4 | He had his arm in a cast for six weeks. | 他的胳膊打了六个星期的石膏。
+w001524.5 | Millions of people cast their votes yesterday. | 昨天有数百万人投了票。
+w001525.1 | Is this the correct answer? | 这是正确答案吗？
+w001525.2 | What is the correct way to greet a teacher? | 跟老师打招呼的得体方式是什么？
+w001525.3 | The teacher corrected our homework in red pen. | 老师用红笔批改了我们的作业。
+w001526.1 | It's dangerous to swim in this river. | 在这条河里游泳很危险。
+w001527.1 | The test was extremely difficult. | 这次考试极其难。
+w001528.1 | She works for a law firm in the city. | 她在市里一家律师事务所工作。
+w001528.2 | I prefer a firm bed to a soft one. | 比起软床，我更喜欢硬实的床。
+w001528.3 | My parents are firm about bedtime. | 我父母在睡觉时间上很坚决。
+w001529.1 | She handled the problem very calmly. | 她非常冷静地处理了这个问题。
+w001529.2 | Please handle the glasses with care. | 请小心拿这些玻璃杯。
+w001529.3 | The handle of the cup is broken. | 杯子的把手断了。
+w001530.1 | Your English has improved a lot this year. | 你的英语今年进步了很多。
+w001531.1 | "Was it expensive?" "It was indeed." | “贵吗？”“确实很贵。”
+w001531.2 | Thank you very much indeed for your help. | 真的非常感谢你的帮助。
+w001532.1 | Stress can have a negative effect on your health. | 压力会对健康产生负面影响。
+w001532.2 | Her test results came back negative. | 她的检测结果呈阴性。
+w001532.3 | Any number below zero is a negative number. | 任何小于零的数都是负数。
+w001532.4 | He kept the old negatives in a box. | 他把旧底片放在一个盒子里。
+w001533.1 | Washing your hands can prevent illness. | 洗手可以预防疾病。
+w001536.1 | They believe the spirit lives on after death. | 他们相信人死后灵魂依然存在。
+w001536.2 | The team was in high spirits after the win. | 赢球后，全队情绪高涨。
+w001536.3 | Some people say the old house has spirits in it. | 有人说那座老房子里有鬼魂。
+w001537.1 | We bought a new television for the living room. | 我们给客厅买了一台新电视机。
+w001537.2 | My brother wants to work in television. | 我哥哥想在电视业工作。
+w001538.1 | The shop is open till nine. | 这家商店营业到九点。
+w001538.2 | Wait here till I come back. | 在这儿等着，直到我回来。
+w001538.3 | She put the money in the till. | 她把钱放进了收银机。
+w001538.4 | Farmers till the land in spring. | 农民在春天耕地。
+w001539.1 | We had trouble finding the hotel. | 我们找酒店费了不少劲。
+w001539.2 | My car has engine trouble again. | 我的车发动机又出故障了。
+w001539.3 | Something seems to be troubling you. | 好像有什么事让你烦恼。
+w001539.4 | Sorry to trouble you, but could you open the window? | 不好意思麻烦您，能把窗户打开吗？
+w001540.1 | Being tall is an advantage in basketball. | 个子高在篮球中是一种优势。
+w001540.2 | One advantage of living here is the quiet. | 住在这里的一个好处就是安静。
+w001541.1 | The two friends were never apart. | 这两个朋友从来没分开过。
+w001541.2 | Our birthdays are only three days apart. | 我们的生日只相差三天。
+w001541.3 | Apart from Tom, everyone came to the party. | 除了汤姆，大家都来参加聚会了。
+w001542.1 | Are you aware of the dangers of smoking? | 你意识到吸烟的危害了吗？
+w001543.1 | Our cat likes to sleep on the sofa. | 我们的猫喜欢在沙发上睡觉。
+w001544.1 | I decided to stay at home. | 我决定待在家里。
+w001544.2 | One goal decided the game. | 一个进球决定了比赛结果。
+w001545.1 | What's for dinner tonight? | 今晚吃什么晚饭？
+w001545.2 | The school held a dinner for the old teachers. | 学校为老教师们举办了一场晚宴。
+w001546.1 | They live in the eastern part of the city. | 他们住在城市东部。
+w001546.2 | She is interested in Eastern art. | 她对东方艺术很感兴趣。
+w001547.1 | My office is on the fifth floor. | 我的办公室在五楼。
+w001547.2 | A fifth of the students walk to school. | 五分之一的学生步行上学。
+w001548.1 | What is the function of this button? | 这个按钮有什么作用？
+w001548.2 | The machine isn't functioning properly. | 这台机器运转不正常。
+w001548.3 | We learned about functions in maths today. | 今天数学课我们学了函数。
+w001548.4 | The hotel is often used for business functions. | 这家酒店常用来举办商务宴会。
+w001549.1 | Thank you for the lovely gift. | 谢谢你送的可爱礼物。
+w001549.2 | She has a gift for music. | 她有音乐天赋。
+w001549.3 | The watch was gifted to him by his grandfather. | 这块手表是他祖父送给他的。
+w001550.1 | She hurt herself playing tennis. | 她打网球时弄伤了自己。
+w001550.2 | She made the cake herself. | 蛋糕是她亲手做的。
+w001551.1 | It's impossible to finish this in one day. | 一天之内不可能完成这件事。
+w001551.2 | The child has been impossible all morning. | 这孩子一上午都让人受不了。
+w001552.1 | Parents have a big influence on their children. | 父母对孩子有很大的影响。
+w001552.2 | The weather can influence your mood. | 天气会影响你的心情。
+w001552.3 | His older brother was a good influence on him. | 他哥哥对他产生了良好的影响。
+w001555.1 | She works in marketing for a travel company. | 她在一家旅游公司做市场营销。
+w001557.1 | I don't like coffee, nor does my sister. | 我不喜欢咖啡，我妹妹也不喜欢。
+w001558.1 | This factory produces cars. | 这家工厂生产汽车。
+w001558.2 | The new medicine produced good results. | 这种新药产生了良好的效果。
+w001558.3 | The film was produced in Canada. | 这部电影是在加拿大制作的。
+w001558.4 | The market sells fresh local produce. | 这个市场出售新鲜的本地农产品。
+w001559.1 | He is making good progress at school. | 他在学校进步很大。
+w001559.2 | The work is progressing well. | 工作进展顺利。
+w001560.1 | I'm very proud of you. | 我为你感到非常自豪。
+w001560.2 | He was too proud to ask for help. | 他太傲慢了，不肯求助。
+w001561.1 | This job requires a lot of patience. | 这份工作需要很大的耐心。
+w001561.2 | All visitors are required to sign in. | 所有访客都必须登记。
+w001562.1 | Police are looking into last night's shooting. | 警方正在调查昨晚的枪击事件。
+w001562.2 | He goes shooting with his father in the autumn. | 他秋天和父亲一起去打猎。
+w001562.3 | The shooting of the film took six months. | 这部电影的拍摄花了六个月。
+w001563.1 | Please shut the door behind you. | 请随手关门。
+w001563.2 | The shops shut at six on Sundays. | 星期天商店六点关门。
+w001563.3 | The bank was shut when we got there. | 我们到的时候银行已经关门了。
+w001564.1 | They moved the furniture in a small van. | 他们用一辆小货车搬家具。
+w001565.1 | The table is made of wood. | 这张桌子是木头做的。
+w001565.2 | We went for a walk in the woods. | 我们去树林里散步了。
+w001566.1 | He works for a small software company, Brightline Inc. | 他在一家名为布莱特莱恩有限公司的小软件公司工作。
+w001567.1 | They visited Israel last summer. | 他们去年夏天去了以色列。
+w001568.1 | The teacher explained the background to the war. | 老师讲解了这场战争的背景。
+w001568.2 | Students from different backgrounds study here. | 来自不同背景的学生在这里学习。
+w001568.3 | There are mountains in the background of the photo. | 照片的背景里有群山。
+w001569.1 | She has written several best-selling novels. | 她写过好几本畅销小说。
+w001570.1 | Please write your date of birth here. | 请在这里写上你的出生日期。
+w001570.2 | She gave birth to a baby girl last night. | 她昨晚生了一个女婴。
+w001570.3 | The book is about the birth of the internet. | 这本书讲的是互联网的诞生。
+w001571.1 | We walked across the bridge to the old town. | 我们走过桥到了老城区。
+w001571.2 | Music can be a bridge between cultures. | 音乐可以成为不同文化之间的纽带。
+w001571.3 | The plan aims to bridge the gap between rich and poor. | 这项计划旨在缩小贫富差距。
+w001571.4 | My grandparents play bridge every Friday. | 我祖父母每周五打桥牌。
+w001572.1 | The concept of time is hard to explain. | 时间这个概念很难解释。
+w001573.1 | Keep a copy of the letter. | 把这封信留一份副本。
+w001573.2 | The book sold a million copies. | 这本书卖了一百万册。
+w001573.3 | Copy the words into your notebook. | 把这些单词抄到你的本子上。
+w001573.4 | Little children often copy their parents. | 小孩子常常模仿父母。
+w001574.1 | Dear Anna, thank you for your letter. | 亲爱的安娜，谢谢你的来信。
+w001574.2 | She is one of my dearest friends. | 她是我最亲爱的朋友之一。
+w001574.3 | Come here, dear, and sit down. | 过来，亲爱的，坐下。
+w001574.4 | Oh dear, I've forgotten my keys. | 哎呀，我忘带钥匙了。
+w001575.1 | The children are playing in the garden. | 孩子们正在花园里玩。
+w001575.2 | We visited the botanical gardens on Sunday. | 我们星期天参观了植物园。
+w001575.3 | My mother loves to garden at weekends. | 我妈妈周末喜欢侍弄花草。
+w001576.1 | The case received a lot of high-profile media attention. | 这个案件受到了媒体的高度关注。
+w001577.1 | Our host welcomed us at the door. | 主人在门口迎接我们。
+w001577.2 | He is the host of a popular radio show. | 他是一档热门电台节目的主持人。
+w001577.3 | Which city will host the next Olympics? | 哪个城市将主办下一届奥运会？
+w001577.4 | The website is stored on a remote host. | 这个网站存放在一台远程主机上。
+w001578.1 | The city needs more cheap housing. | 这座城市需要更多廉价住房。
+w001578.2 | The engine is protected by a metal housing. | 发动机由一个金属外壳保护着。
+w001579.1 | Her research was published in a medical journal. | 她的研究发表在一份医学期刊上。
+w001579.2 | He kept a journal during his trip. | 他在旅途中写了日记。
+w001580.1 | The price includes the cost of labor. | 这个价格包括了人工费。
+w001580.2 | The factory uses cheap labor. | 这家工厂使用廉价劳工。
+w001580.3 | She was in labor for ten hours. | 她分娩阵痛了十个小时。
+w001580.4 | They labored all day in the fields. | 他们在田里辛苦劳作了一整天。
+w001581.1 | The team did well under her leadership. | 在她的领导下，球队表现很好。
+w001581.2 | He showed strong leadership as captain. | 作为队长，他展现了很强的领导才能。
+w001581.3 | The party leadership met this morning. | 党的领导层今天上午开了会。
+w001582.1 | The length of the room is five metres. | 这个房间长五米。
+w001582.2 | The length of the film is two hours. | 这部电影时长两个小时。
+w001582.3 | We need a length of rope to tie the boat. | 我们需要一段绳子来拴船。
+w001583.1 | You're lucky to have such good friends. | 你有这么好的朋友，真幸运。
+w001583.2 | Seven is my lucky number. | 七是我的幸运数字。
+w001584.1 | Neither answer is correct. | 两个答案都不对。
+w001584.2 | Neither of my parents can swim. | 我父母俩都不会游泳。
+w001584.3 | "I can't swim." "Neither can I." | “我不会游泳。”“我也不会。”
+w001584.4 | He neither called nor wrote. | 他既没打电话也没写信。
+w001585.1 | The cat jumped onto the table. | 猫跳到了桌子上。
+w001586.1 | The doctor has a lot of patients today. | 医生今天有很多病人。
+w001586.2 | Please be patient; dinner is almost ready. | 请耐心点，晚饭快好了。
+w001587.1 | It will possibly rain this afternoon. | 今天下午可能会下雨。
+w001587.2 | I'll come as soon as I possibly can. | 我会尽快赶来。
+w001588.1 | Can you prove that you were at home? | 你能证明你当时在家吗？
+w001588.2 | The test proved more difficult than we expected. | 这次测试结果比我们预想的要难。
+w001589.1 | This bird is very rare in Europe. | 这种鸟在欧洲很罕见。
+w001589.2 | I like my steak rare. | 我喜欢吃三分熟的牛排。
+w001590.1 | Sport can help teenagers build a positive self-image. | 运动能帮助青少年建立积极的自我形象。
+w001591.1 | The village is a perfect setting for the story. | 这个村庄是这个故事的绝佳场景。
+w001591.2 | Change the camera setting for night photos. | 拍夜景时要改一下相机设置。
+w001592.1 | You need to install new software on your computer. | 你需要在电脑上安装新软件。
+w001594.1 | It was a tough decision to make. | 这是一个艰难的决定。
+w001594.2 | The new teacher is very tough on homework. | 新老师对作业要求很严。
+w001594.3 | These boots are made of tough leather. | 这双靴子是用结实的皮革做的。
+w001596.1 | I saw an ad for the job online. | 我在网上看到了这份工作的广告。
+w001597.1 | Is the old man still alive? | 那位老人还活着吗？
+w001597.2 | The city really comes alive at night. | 这座城市到了晚上真正热闹起来。
+w001598.1 | She eats an apple every day. | 她每天吃一个苹果。
+w001599.1 | Try to keep a balance between work and rest. | 尽量在工作和休息之间保持平衡。
+w001599.2 | She balanced a book on her head. | 她把一本书平稳地顶在头上。
+w001599.3 | I checked my bank balance this morning. | 我今天早上查了银行账户余额。
+w001600.1 | Happy birthday! How old are you now? | 生日快乐！你现在几岁了？
+w001601.1 | Calling a woman a bitch is very rude. | 骂女人“婊子”是非常粗鲁的。
+w001601.2 | He's always bitching about his job. | 他总是抱怨自己的工作。
+w001601.3 | Our bitch had six puppies last week. | 我们的母狗上周生了六只小狗。
+w001602.1 | I need to ask my boss for a day off. | 我得向老板请一天假。
+w001602.2 | Stop bossing your little brother around! | 别再对你弟弟指手画脚了！
+w001603.1 | She used to wear her sister's cast-offs. | 她过去常穿姐姐不要的旧衣服。
+w001603.2 | The charity collects cast-off furniture. | 这家慈善机构收集旧家具。
+w001604.1 | She is the co-author of a book on language learning. | 她是一本语言学习书的合著者。
+w001604.2 | He co-authored the report with two colleagues. | 他和两位同事共同撰写了这份报告。
+w001605.1 | Is there a connection between diet and sleep? | 饮食和睡眠之间有联系吗？
+w001605.2 | My internet connection is very slow today. | 今天我的网络连接很慢。
+w001605.3 | She got the job through her connections. | 她靠人脉得到了这份工作。
+w001606.1 | She wore a red dress to the party. | 她穿了一条红色连衣裙去参加聚会。
+w001606.2 | Formal dress is required at the dinner. | 晚宴要求穿正装。
+w001606.3 | Hurry up and get dressed! | 快点穿好衣服！
+w001607.1 | He gets on well with his fellow students. | 他和同学们相处得很好。
+w001607.2 | He seems a nice fellow. | 他看上去是个不错的人。
+w001607.3 | She is a fellow of the Royal Society. | 她是皇家学会的会员。
+w001608.1 | They live in a high-rise apartment block. | 他们住在一栋高层公寓楼里。
+w001608.2 | The city centre is full of high-rises. | 市中心到处都是高楼。
+w001609.1 | Can you ride a horse? | 你会骑马吗？
+w001610.1 | The witch used magic to turn him into a frog. | 女巫用魔法把他变成了一只青蛙。
+w001610.2 | He did some magic at the birthday party. | 他在生日聚会上表演了魔术。
+w001610.3 | Nothing can match the magic of Christmas. | 什么都比不上圣诞节的魅力。
+w001610.4 | Is there a magic word to open the door? | 有没有能打开门的神奇咒语？
+w001611.1 | Let's look at the map to find the station. | 我们看看地图找车站吧。
+w001611.2 | Scientists have mapped the ocean floor. | 科学家已经绘制出了海底地图。
+w001612.1 | The fishermen pulled in their nets. | 渔民们收起了渔网。
+w001612.2 | The ball hit the net and went out. | 球打在网上出界了。
+w001612.3 | His net income is about 3,000 a month. | 他每月的净收入大约是3000。
+w001612.4 | I found the recipe on the Net. | 我在网上找到了这个菜谱。
+w001613.1 | They made a request for more time. | 他们请求延长时间。
+w001613.2 | The hotel requested that guests leave by noon. | 酒店要求客人中午前退房。
+w001614.1 | The old man walks with a stick. | 那位老人拄着拐杖走路。
+w001614.2 | Stick the stamp on the envelope. | 把邮票贴在信封上。
+w001614.3 | She stuck a pin into the map. | 她在地图上插了一枚大头针。
+w001614.4 | The door keeps sticking in wet weather. | 下雨天这扇门老是卡住。
+w001615.1 | No vehicles are allowed in the park. | 公园里禁止车辆通行。
+w001615.2 | Art can be a vehicle for new ideas. | 艺术可以成为表达新思想的媒介。
+w001616.1 | Can you turn the volume down, please? | 请你把音量调小一点好吗？
+w001616.2 | The volume of traffic has increased this year. | 今年的交通量增加了。
+w001616.3 | The dictionary comes in two volumes. | 这部词典分为两卷。
+w001617.1 | I woke up at six this morning. | 我今天早上六点醒了。
+w001617.2 | The small boat rocked in the wake of the ship. | 小船在大船的尾流中摇晃。
+w001617.3 | The family held a wake for their grandfather. | 全家为祖父守灵。
+w001618.1 | They spent their holiday in Mexico. | 他们在墨西哥度假。
+w001619.1 | The country needs food aid after the flood. | 洪灾过后，这个国家需要粮食援助。
+w001619.2 | The new tools will aid our work. | 这些新工具会对我们的工作有帮助。
+w001619.3 | My grandfather wears a hearing aid. | 我祖父戴着助听器。
+w001620.1 | We were amazed by the beauty of the lake. | 湖的美让我们惊叹不已。
+w001620.2 | She was a famous beauty when she was young. | 她年轻时是个有名的美人。
+w001620.3 | The beauty of the plan is that it costs nothing. | 这个计划的妙处在于不花一分钱。
+w001621.1 | The project cost over a billion dollars. | 这个项目耗资超过十亿美元。
+w001622.1 | I'm too busy to go out tonight. | 我今晚太忙了，出不去。
+w001622.2 | This is a very busy street. | 这是一条非常热闹的街道。
+w001622.3 | I called her, but the line was busy. | 我给她打电话，但是占线。
+w001623.1 | Her parents are concerned about her health. | 她父母很担心她的健康。
+w001623.2 | The new rules will affect everyone concerned. | 新规定会影响到所有相关的人。
+w001624.1 | I had a long conversation with my aunt. | 我和姑姑聊了很久。
+w001625.1 | There's a lamp in the corner of the room. | 房间的角落里有一盏灯。
+w001625.2 | The bank is on the corner of the street. | 银行在街角。
+w001625.3 | The police cornered the thief in an alley. | 警察把小偷堵在了一条小巷里。
+w001625.4 | Our team scored from a corner. | 我们队通过角球得分了。
+w001626.1 | The criminal was sent to prison. | 那个罪犯被送进了监狱。
+w001626.2 | Stealing is a criminal act. | 偷窃是犯罪行为。
+w001627.1 | There are many cultural differences between the two countries. | 这两个国家之间有很多文化差异。
+w001627.2 | The city has a rich cultural life. | 这座城市有丰富的文艺生活。
+w001628.1 | The town developed into a big city. | 这个小镇发展成了一座大城市。
+w001628.2 | The company is developing a new game. | 这家公司正在开发一款新游戏。
+w001628.3 | He developed a cough last week. | 他上周开始咳嗽了。
+w001629.1 | The bus driver said good morning to us. | 公交车司机跟我们说早上好。
+w001629.2 | You need to update the printer driver. | 你需要更新打印机驱动程序。
+w001629.3 | Tourism is a key driver of the local economy. | 旅游业是当地经济的主要推动力。
+w001630.1 | The new road will replace the existing one. | 新路将取代现有的路。
+w001631.1 | My uncle has a farm with cows and sheep. | 我叔叔有一个养牛羊的农场。
+w001631.2 | His family has farmed this land for years. | 他家在这片土地上耕种了很多年。
+w001632.1 | Save the file before you close it. | 关闭文件之前先保存。
+w001632.2 | Please file these letters for me. | 请帮我把这些信件归档。
+w001632.3 | She filed a complaint with the manager. | 她向经理提出了投诉。
+w001632.4 | She shaped her nails with a file. | 她用指甲锉修了修指甲。
+w001633.1 | Can you fix my bike? | 你能修一下我的自行车吗？
+w001633.2 | He fixed a shelf to the wall. | 他在墙上装了一个架子。
+w001633.3 | Let's fix a date for the meeting. | 我们定个开会的日期吧。
+w001633.4 | There is no quick fix for this problem. | 这个问题没有速效的解决办法。
+w001634.1 | The birds flew over the house. | 鸟儿飞过了房子。
+w001634.2 | We're flying to Paris next week. | 我们下周坐飞机去巴黎。
+w001634.3 | Her dream is to fly a plane. | 她的梦想是开飞机。
+w001634.4 | There's a fly in my soup! | 我的汤里有只苍蝇！
+w001635.1 | To be frank, I don't like the idea. | 坦白地说，我不喜欢这个主意。
+w001636.1 | The government launched a full-scale investigation. | 政府展开了全面调查。
+w001636.2 | The museum has a full-scale model of a whale. | 博物馆里有一个与实物等大的鲸鱼模型。
+w001637.1 | Our guide showed us around the castle. | 导游带我们参观了城堡。
+w001637.2 | I bought a guide to Rome. | 我买了一本罗马旅游指南。
+w001637.3 | She guided us through the dark forest. | 她带领我们穿过了黑暗的森林。
+w001638.1 | The police have started an investigation. | 警方已经展开调查。
+w001639.1 | Raise your hand if you know the answer. | 知道答案的请举手。
+w001639.2 | The shop has raised its prices again. | 这家商店又涨价了。
+w001639.3 | She raised an important question at the meeting. | 她在会上提出了一个重要问题。
+w001639.4 | He asked his boss for a raise. | 他向老板要求加薪。
+w001640.1 | It's your responsibility to feed the dog. | 喂狗是你的责任。
+w001640.2 | Nobody has taken responsibility for the accident. | 还没有人对这起事故承担责任。
+w001641.1 | The ball rolled under the table. | 球滚到了桌子底下。
+w001641.2 | Roll the paper into a tube. | 把纸卷成一个筒。
+w001641.3 | We need another roll of toilet paper. | 我们还需要一卷卫生纸。
+w001641.4 | I had a cheese roll for lunch. | 我午饭吃了一个奶酪面包卷。
+w001641.5 | The teacher called the roll. | 老师点了名。
+w001642.1 | Their happiness was short-lived. | 他们的幸福很短暂。
+w001643.1 | We watched TV in the sitting-room. | 我们在客厅里看电视。
+w001644.1 | I'm feeling slightly better today. | 我今天感觉稍微好一点了。
+w001645.1 | They run a small-scale farm in the hills. | 他们在山里经营着一个小型农场。
+w001646.1 | I suggest we leave early. | 我建议我们早点出发。
+w001646.2 | The results suggest that the plan is working. | 结果表明这个计划正在起作用。
+w001647.1 | To my surprise, she said yes. | 让我惊讶的是，她答应了。
+w001647.2 | We have a surprise for you! | 我们给你准备了一个惊喜！
+w001647.3 | Her answer surprised everyone. | 她的回答让大家都很吃惊。
+w001648.1 | The flight was delayed by a technical problem. | 航班因技术问题延误了。
+w001648.2 | The article uses too many technical terms. | 这篇文章用了太多专业术语。
+w001649.1 | She treats her staff very well. | 她对员工非常好。
+w001649.2 | The doctor treated him for a broken leg. | 医生给他治疗了腿骨折。
+w001649.3 | I'll treat you to lunch. | 我请你吃午饭。
+w001649.4 | Going to the zoo was a real treat for the kids. | 去动物园对孩子们来说是件真正的乐事。
+w001650.1 | Every person's fingerprints are unique. | 每个人的指纹都是独一无二的。
+w001651.1 | The shop sells a variety of shoes. | 这家商店卖各种各样的鞋。
+w001651.2 | I like a job with plenty of variety. | 我喜欢富有变化的工作。
+w001651.3 | This is a new variety of rose. | 这是一种新品种的玫瑰。
+w001652.1 | There is too much violence on TV. | 电视上的暴力内容太多了。
+w001652.2 | The violence of the storm surprised everyone. | 暴风雨的猛烈让所有人都很吃惊。

@@ -1,0 +1,400 @@
+write a poem | v+n | 写诗 | poem
+love poem | n+n | 情诗 | poem
+recite a poem | v+n | 背诵诗 | poem
+oxygen mask | n+n | 氧气面罩 | oxygen
+lack of oxygen | n+n | 缺氧 | oxygen
+outer layer | adj+n | 外层 | outer
+show mercy | v+n | 表示怜悯 | mercy
+feel lonely | v+adv | 感到孤独 | lonely
+desperately lonely | adv+adj | 极度孤独的 | lonely
+loaded gun | adj+n | 上了膛的枪 | loaded
+launch an inquiry | v+n | 展开调查 | inquiry
+make inquiries | v+n | 打听 | inquiry
+social gathering | adj+n | 社交聚会 | gathering
+family gathering | n+n | 家庭聚会 | gathering
+forgive sb for sth | v+prep | 原谅某人某事 | forgive
+unable to forgive | v+adv | 无法原谅 | forgive
+enormous amount | adj+n | 巨大数量 | enormous
+enormous success | adj+n | 巨大成功 | enormous
+enormous difference | adj+n | 巨大差异 | enormous
+conventional weapons | adj+n | 常规武器 | conventional
+conventional medicine | adj+n | 传统医学 | conventional
+considerable amount | adj+n | 相当大的数量 | considerable
+considerable difficulty | adj+n | 相当大的困难 | considerable
+considerable effort | adj+n | 相当大的努力 | considerable
+make arrangements | v+n | 作出安排 | arrangement
+seating arrangement | n+n | 座位安排 | arrangement
+flexible arrangement | adj+n | 灵活的安排 | arrangement
+inflict a wound | v+n | 造成伤口 | wound
+open wound | adj+n | 开放性伤口 | wound
+heal a wound | v+n | 愈合伤口 | wound,heal
+arrest warrant | n+n | 逮捕令 | warrant
+issue a warrant | v+n | 签发令状 | warrant
+upgrade to sth | v+prep | 升级到某物 | upgrade
+software upgrade | n+n | 软件升级 | upgrade
+dig a tunnel | v+n | 挖隧道 | tunnel
+railway tunnel | n+n | 铁路隧道 | tunnel
+toxic chemicals | adj+n | 有毒化学品 | toxic
+highly toxic | adv+adj | 剧毒的 | toxic
+fight terrorism | v+n | 打击恐怖主义 | terrorism
+act of terrorism | n+n | 恐怖行为 | terrorism
+industrial spy | adj+n | 商业间谍 | spy
+spy on sb | v+prep | 监视某人 | spy
+spy ring | n+n | 间谍网 | spy
+shoe size | n+n | 鞋码 | shoe
+sacred ground | adj+n | 圣地 | sacred
+sacred duty | adj+n | 神圣职责 | sacred
+sacred text | adj+n | 圣典 | sacred
+industrial robot | adj+n | 工业机器人 | robot
+relate to sth | v+prep | 与某事有关 | relate
+growing popularity | adj+n | 日益流行 | popularity
+enjoy popularity | v+n | 受欢迎 | popularity
+noble cause | adj+n | 崇高事业 | noble
+politically neutral | adv+adj | 政治中立的 | neutral
+neutral colour | adj+n | 中性色 | neutral
+naval base | adj+n | 海军基地 | naval
+naval officer | adj+n | 海军军官 | naval
+municipal government | adj+n | 市政府 | municipal
+municipal council | adj+n | 市议会 | municipal
+lazy afternoon | adj+n | 慵懒的午后 | lazy
+lazy day | adj+n | 懒散的一天 | lazy
+jealous of sb | v+prep | 嫉妒某人 | jealous
+fiercely jealous | adv+adj | 极度嫉妒的 | jealous
+isolated from sb | v+prep | 与某人隔绝 | isolated
+isolated case | adj+n | 个别情况 | isolated
+break a habit | v+n | 改掉习惯 | habit
+kick a habit | v+n | 戒掉习惯 | habit
+get into the habit of doing sth | v+prep | 养成做某事的习惯 | habit
+bad habit | adj+n | 坏习惯 | habit
+fully functional | adv+adj | 功能完备的 | functional
+export goods | v+n | 出口货物 | export
+exclusively male | adv+adj | 全是男性的 | exclusively
+divine intervention | adj+n | 神的干预 | divine
+culturally diverse | adv+adj | 文化多元的 | diverse
+tourist destination | n+n | 旅游目的地 | destination
+final destination | adj+n | 最终目的地 | destination
+reach one's destination | v+n | 到达目的地 | destination
+make a deposit | v+n | 存款 | deposit
+security deposit | n+n | 押金 | deposit
+pay a deposit | v+n | 付定金 | deposit
+protect copyright | v+n | 保护版权 | copyright
+infringe copyright | v+n | 侵犯版权 | copyright
+copyright law | n+n | 版权法 | copyright
+conversion rate | n+n | 转化率 | conversion
+consistently good | adv+adj | 始终良好 | consistently
+consistently deny sth | v+adv | 一贯否认某事 | consistently
+celebrated author | adj+n | 著名作家 | celebrated
+celebrated for sth | v+prep | 因某事闻名 | celebrated
+bullet wound | n+n | 枪伤 | bullet
+fire a bullet | v+n | 开枪 | bullet
+artificial light | adj+n | 人造光 | artificial
+artificial flavouring | adj+n | 人工香料 | artificial
+high degree of accuracy | adj+n | 高度准确 | accuracy
+pinpoint accuracy | adj+n | 精确无误 | accuracy
+perform an abortion | v+n | 做人工流产 | abortion
+illegal abortion | adj+n | 非法堕胎 | abortion
+heavy usage | adj+n | 大量使用 | usage
+common usage | adj+n | 常见用法 | usage
+unexpected guest | adj+n | 不速之客 | unexpected
+unexpected result | adj+n | 意外结果 | unexpected
+make a suggestion | v+n | 提建议 | suggestion
+at sb's suggestion | v+prep | 应某人的建议 | suggestion
+helpful suggestion | adj+n | 有用的建议 | suggestion
+toxic substance | adj+n | 有毒物质 | substance
+illegal substance | adj+n | 违禁物质 | substance
+strict rules | adj+n | 严格规定 | strict
+strict discipline | adj+n | 严格纪律 | strict,discipline
+strict parents | adj+n | 严厉的父母 | strict
+poisonous snake | adj+n | 毒蛇 | snake
+snake bite | n+n | 蛇咬伤 | snake
+shed a skin | v+n | 蜕皮 | shed
+regulatory body | adj+n | 监管机构 | regulatory
+regulatory framework | adj+n | 监管框架 | regulatory
+regulatory authority | adj+n | 监管当局 | regulatory
+follow a recipe | v+n | 照着食谱做 | recipe
+hold a reception | v+n | 举行招待会 | reception
+wedding reception | n+n | 婚宴 | reception
+warm reception | adj+n | 热烈欢迎 | reception
+take a photograph | v+n | 拍照 | photograph
+black-and-white photograph | adj+n | 黑白照片 | photograph
+the outdoor life | adj+n | 户外生活 | outdoor
+a legendary figure | adj+n | 传奇人物 | legendary
+power up a laptop | v+n | 开启笔记本电脑 | laptop
+a full-scale invasion | adj+n | 全面入侵 | invasion
+launch an invasion | v+n | 发动入侵 | invasion
+instantly recognizable | adv+adj | 一眼就能认出 | instantly
+graphic detail | adj+n | 生动详尽的描述 | graphic
+meet the expense | v+n | 支付费用 | expense
+write an essay | v+n | 写论文 | essay
+a dominant position | adj+n | 主导地位 | dominant
+a disgusting smell | adj+n | 恶心的气味 | disgusting
+maintain discipline | v+n | 维持纪律 | discipline
+controversial issue | adj+n | 有争议的问题 | controversial
+highly controversial | adv+adj | 极具争议 | controversial
+complain about sth | v+prep | 抱怨某事 | complain
+complain bitterly | v+adv | 强烈抱怨 | complain
+form a coalition | v+n | 组成联盟 | coalition
+a coalition government | n+n | 联合政府 | coalition
+civilian casualties | adj+n | 平民伤亡 | civilian
+celebrity chef | n+n | 名厨 | chef
+casual clothes | adj+n | 休闲服装 | casual
+a casual remark | adj+n | 随口说的话 | casual
+bear the burden | v+n | 承担重担 | burden
+a heavy burden | adj+n | 沉重负担 | burden
+tax burden | n+n | 税负 | burden
+a blessed event | adj+n | 喜事 | blessed
+financial backing | adj+n | 资金支持 | backing
+a valuable asset | adj+n | 宝贵财富 | asset
+actively involved | adv+adj | 积极参与 | actively
+actively encourage | v+adv | 积极鼓励 | actively
+absolutely useless | adv+adj | 毫无用处 | useless
+national unity | adj+n | 民族团结 | unity
+high unemployment | adj+n | 高失业率 | unemployment
+a twist of fate | n+n | 命运的捉弄 | twist
+an unexpected twist | adj+n | 意想不到的转折 | twist
+sue sb for sth | v+prep | 因某事起诉某人 | sue
+a slight chance | adj+n | 微小的机会 | slight
+a slight difference | adj+n | 细微差别 | slight
+highly productive | adv+adj | 非常高效 | productive
+paint a portrait | v+n | 画肖像 | portrait
+a pleasant surprise | adj+n | 惊喜 | pleasant
+a work permit | n+n | 工作许可 | permit
+draw a pension | v+n | 领养老金 | pension
+state pension | n+n | 国家养老金 | pension
+a nasty surprise | adj+n | 不愉快的意外 | nasty
+a nasty habit | adj+n | 坏习惯 | nasty
+a nasty accident | adj+n | 严重事故 | nasty
+a lack of motivation | n+n | 缺乏动力 | motivation
+a flash of lightning | n+n | 一道闪电 | lightning
+legitimate concern | adj+n | 合理的担忧 | legitimate
+a legitimate claim | adj+n | 合法的主张 | legitimate
+a different interpretation | adj+n | 不同的解读 | interpretation
+a vivid imagination | adj+n | 丰富的想象力 | imagination
+use one's imagination | v+n | 发挥想象力 | imagination
+a handsome man | adj+n | 英俊的男人 | handsome
+generate income | v+n | 创造收入 | generate
+generate interest | v+n | 引起兴趣 | generate
+generate jobs | v+n | 创造就业 | generate
+a high fever | adj+n | 高烧 | fever
+a huge explosion | adj+n | 巨大的爆炸 | explosion
+a population explosion | n+n | 人口激增 | explosion
+a potential employer | adj+n | 潜在雇主 | employer
+delete a file | v+n | 删除文件 | delete
+be in custody | v+prep | 被拘留 | custody
+upon completion | n+n | 完成后 | completion
+competing interests | adj+n | 相互冲突的利益 | competing
+climb steadily | v+adv | 稳步攀升 | climb
+marine biology | adj+n | 海洋生物学 | biology
+a recycling bin | n+n | 回收箱 | bin
+bear a resemblance to sth | v+prep | 与某物相似 | bearing
+fully affordable | adv+adj | 价格实惠 | affordable
+accidentally delete | v+adv | 不小心删除 | accidentally
+extremely wealthy | adv+adj | 极其富有 | wealthy
+particularly vulnerable | adv+adj | 特别脆弱 | vulnerable
+vulnerable to sth | v+prep | 易受某物影响 | vulnerable
+a war veteran | n+n | 退伍军人 | veteran
+a radical transformation | adj+n | 彻底转变 | transformation
+undergo a transformation | v+n | 经历转变 | transformation
+a financial transaction | adj+n | 金融交易 | transaction
+complete a transaction | v+n | 完成交易 | transaction
+swim across sth | v+prep | 游过某处 | swim
+snap one's fingers | v+n | 打响指 | snap
+abolish slavery | v+n | 废除奴隶制 | slavery
+skip a meal | v+n | 不吃一顿饭 | skip
+the ship sank | v+n | 船沉没了 | sink
+a research scientist | n+n | 研究科学家 | scientist
+repeatedly warn | v+adv | 多次警告 | repeatedly
+fully operational | adv+adj | 全面投入运行 | operational
+a car manufacturer | n+n | 汽车制造商 | manufacturer
+legally binding | adv+adj | 具有法律约束力 | legally,binding
+legally required | adv+adj | 法律规定的 | legally
+imperial power | adj+n | 帝国势力 | imperial
+virtually identical | adv+adj | 几乎完全相同 | identical
+a holder of sth | n+n | 持有者 | holder
+passport holder | n+n | 护照持有人 | holder
+highlight the importance of sth | v+n | 强调某事的重要性 | highlight
+highlight a problem | v+n | 凸显问题 | highlight
+the force of gravity | n+n | 重力 | gravity
+the gravity of the situation | n+n | 形势的严重性 | gravity
+gradually increase | v+adv | 逐渐增加 | gradually
+gradually become | v+adv | 逐渐变得 | gradually
+put up a fence | v+n | 搭围栏 | fence
+in excess of sth | v+prep | 超过某物 | excess
+carry out an evaluation | v+n | 进行评估 | evaluation
+a thorough evaluation | adj+n | 全面评估 | evaluation
+a roast duck | adj+n | 烤鸭 | duck
+a side dish | n+n | 配菜 | dish
+a learning disability | n+n | 学习障碍 | disability
+a private detective | adj+n | 私家侦探 | detective
+correctly identify | v+adv | 正确辨认 | correctly
+a continuous process | adj+n | 持续的过程 | continuous
+continuous improvement | adj+n | 持续改进 | continuous
+a private clinic | adj+n | 私人诊所 | clinic
+a clever idea | adj+n | 聪明的主意 | clever
+a clever trick | adj+n | 巧妙的把戏 | clever
+bitter experience | adj+n | 痛苦的经历 | bitter
+a bitter taste | adj+n | 苦味 | bitter
+make a backup | v+n | 做备份 | backup
+a backup copy | n+n | 备份副本 | backup
+a strong advocate of sth | adj+n | 某事的坚定拥护者 | advocate
+advocate a policy | v+n | 提倡一项政策 | advocate
+wrap sth in paper | v+prep | 用纸包裹某物 | wrap
+wireless network | n+n | 无线网络 | wireless
+a holiday villa | n+n | 度假别墅 | villa
+public transit | adj+n | 公共交通 | transit
+a tourist attraction | n+n | 旅游景点 | tourist
+a striking resemblance | adj+n | 惊人的相似 | striking
+solely responsible | adv+adj | 全权负责 | solely
+solely because of sth | adv+adj | 仅仅因为 | solely
+resist arrest | v+n | 拒捕 | resist
+resist change | v+n | 抗拒变化 | resist
+a radar screen | n+n | 雷达屏幕 | radar
+a rare privilege | adj+n | 难得的荣幸 | privilege
+a political prisoner | adj+n | 政治犯 | prisoner
+take sb prisoner | v+n | 俘虏某人 | prisoner
+a prisoner of war | n+n | 战俘 | prisoner
+precisely because | adv+adj | 正因为 | precisely
+at precisely that moment | adv+adj | 就在那一刻 | precisely
+reduce pollution | v+n | 减少污染 | pollution
+have patience | v+n | 有耐心 | patience
+a bald patch | adj+n | 秃斑 | patch
+a political opponent | adj+n | 政治对手 | opponent
+an opponent of sth | n+n | 反对者 | opponent
+a skilled occupation | adj+n | 技术性职业 | occupation
+mentally ill | adv+adj | 精神有病 | mentally
+mentally handicapped | adv+adj | 智力障碍的 | mentally
+legalize marijuana | v+n | 使大麻合法化 | marijuana
+fiercely loyal | adv+adj | 忠心耿耿 | loyal
+loyal to sb | v+prep | 忠于某人 | loyal
+a laser beam | n+n | 激光束 | laser
+implement a plan | v+n | 实施计划 | implement
+implement a policy | v+n | 执行政策 | implement
+implement changes | v+n | 落实改革 | implement
+generous with sth | v+prep | 对某物慷慨 | generous
+flip through sth | v+prep | 快速翻阅某物 | flip
+a lethal dose | adj+n | 致死剂量 | dose
+distinguished career | adj+n | 杰出的事业 | distinguished
+a distinguished guest | adj+n | 贵宾 | distinguished
+make a diagnosis | v+n | 做出诊断 | diagnosis
+an accurate diagnosis | adj+n | 准确的诊断 | diagnosis
+software developer | n+n | 软件开发人员 | developer
+depend on sth | v+prep | 依靠, 取决于 | depend
+depend heavily on sth | v+adv | 严重依赖某物 | depend
+demonstrate a skill | v+n | 展示技能 | demonstrate
+clearly demonstrate | v+adv | 清楚表明 | demonstrate
+communicate with sb | v+prep | 与某人交流 | communicate
+communicate effectively | v+adv | 有效沟通 | communicate
+a chronic illness | adj+n | 慢性病 | chronic
+chronic pain | adj+n | 慢性疼痛 | chronic
+a deep cave | adj+n | 深洞穴 | cave
+a catching disease | adj+n | 传染性疾病 | catching
+a caring attitude | adj+n | 关怀的态度 | caring
+caring for sb | v+prep | 关心某人 | caring
+a software bug | n+n | 软件缺陷 | bug
+fix a bug | v+n | 修复漏洞 | bug
+win a bronze medal | v+n | 获得铜牌 | bronze
+bored with sth | v+prep | 对某事厌倦 | bored
+attract investment | v+n | 吸引投资 | attract
+be attracted to sb | v+prep | 被某人吸引 | attract
+additionally required | adv+adj | 另外需要的 | additionally
+widespread belief | adj+n | 普遍的看法 | widespread
+widespread support | adj+n | 广泛的支持 | widespread
+a sign of weakness | n+n | 软弱的表现 | weakness
+a weakness for sth | v+prep | 对某物无法抗拒 | weakness
+an uncomfortable silence | adj+n | 令人尴尬的沉默 | uncomfortable
+trapped in sth | v+prep | 困在某处 | trapped
+trace elements | adj+n | 微量元素 | trace
+smoke tobacco | v+n | 吸烟草 | tobacco
+a threatening letter | adj+n | 恐吓信 | threatening
+threatening behaviour | adj+n | 威胁性行为 | threatening
+sustainable energy | adj+n | 可持续能源 | sustainable
+be situated in sth | v+prep | 位于某地 | situated
+conveniently situated | adv+adj | 位置便利 | situated
+a worst-case scenario | adj+n | 最坏的情形 | scenario
+a restricted area | adj+n | 限制区域 | restricted
+restricted access | adj+n | 限制进入 | restricted
+their respective roles | adj+n | 各自的角色 | respective
+a high ranking | adj+n | 高排名 | ranking
+a ram's horns | n+n | 公羊角 | ram
+carry out a raid | v+n | 发动突袭 | raid
+a police raid | n+n | 警方突击检查 | raid
+qualify for sth | v+prep | 有资格获得某物 | qualify
+qualify as sth | v+prep | 取得某种资格 | qualify
+preserve the environment | v+n | 保护环境 | preserve
+well preserved | adv+adj | 保存完好 | preserve
+practically impossible | adv+adj | 几乎不可能 | practically
+practically nothing | adv+adj | 几乎没有 | practically
+put up a poster | v+n | 贴海报 | poster
+a pumpkin pie | n+n | 南瓜派 | pie
+partially blind | adv+adj | 部分失明 | partially
+partially responsible | adv+adj | 部分负责 | partially
+stay overnight | v+adv | 过夜 | overnight
+an overnight stay | adj+n | 过夜 | overnight
+a living nightmare | adj+n | 活生生的噩梦 | nightmare
+a nightmare scenario | n+n | 噩梦般的情形 | nightmare
+gain insight | v+n | 获得深刻见解 | insight
+valuable insight | adj+n | 宝贵的见解 | insight
+a sense of humor | n+n | 幽默感 | humor
+dry humor | adj+n | 冷幽默 | humor
+computer graphics | n+n | 计算机图形 | graphics
+a filling meal | adj+n | 管饱的饭 | filling
+space exploration | n+n | 太空探索 | exploration
+a sense of excitement | n+n | 兴奋感 | excitement
+contain one's excitement | v+n | 抑制兴奋 | excitement
+medical ethics | adj+n | 医学伦理 | ethics
+a code of ethics | n+n | 道德准则 | ethics
+put the emphasis on sth | v+prep | 把重点放在某事上 | emphasis
+express emotion | v+n | 表达情感 | emotion
+strong emotion | adj+n | 强烈的情感 | emotion
+consumer electronics | n+n | 消费电子产品 | electronics
+a distant relative | adj+n | 远亲 | distant
+in the distant future | adj+n | 在遥远的未来 | distant
+fulfil one's destiny | v+n | 实现命运 | destiny
+control one's destiny | v+n | 掌控命运 | destiny
+a drug dealer | n+n | 毒贩 | dealer
+a car dealer | n+n | 汽车经销商 | dealer
+pass through customs | v+n | 通过海关 | customs
+a congressional hearing | adj+n | 国会听证会 | congressional
+cause confusion | v+n | 造成混乱 | confusion
+total confusion | adj+n | 一片混乱 | confusion
+a political commentary | adj+n | 政治评论 | commentary
+a coastal town | adj+n | 沿海城镇 | coastal
+conduct a census | v+n | 进行人口普查 | census
+bulk purchase | n+n | 批量购买 | bulk
+buy in bulk | v+prep | 批量购买 | bulk
+a pair of boots | n+n | 一双靴子 | boot
+a razor blade | n+n | 剃须刀片 | blade
+harmful bacteria | adj+n | 有害细菌 | bacteria
+adopt a child | v+n | 收养孩子 | adopt
+adopt a resolution | v+n | 通过决议 | adopt
+a vintage car | n+n | 老爷车 | vintage
+recite a verse | v+n | 朗诵诗句 | verse
+totally unnecessary | adv+adj | 完全没必要 | unnecessary
+a tropical storm | adj+n | 热带风暴 | tropical
+a tropical climate | adj+n | 热带气候 | tropical
+a suite of rooms | n+n | 一套房间 | suite
+structural damage | adj+n | 结构性损坏 | structural
+structural change | adj+n | 结构性变化 | structural
+feel stressed | v+adv | 感到压力大 | stressed
+great significance | adj+n | 重大意义 | significance
+historical significance | adj+n | 历史意义 | significance
+sadly missed | adv+adj | 令人怀念的 | sadly
+sadly mistaken | adv+adj | 大错特错 | sadly
+a long-distance runner | n+n | 长跑运动员 | runner
+a bitter rival | adj+n | 死对头 | rival
+a rival company | n+n | 竞争对手公司 | rival
+fire a rifle | v+n | 开枪 | rifle
+restore order | v+n | 恢复秩序 | restore
+restore confidence | v+n | 恢复信心 | restore
+fully restored | adv+adj | 完全修复 | restore
+a reserved seat | adj+n | 预留座位 | reserved
+proceed with sth | v+prep | 继续进行某事 | proceed
+proceed to sth | v+prep | 接着做某事 | proceed
+a family physician | n+n | 家庭医生 | physician
+public perception | adj+n | 公众看法 | perception
+change perception | v+n | 改变观念 | perception
+apply for a patent | v+n | 申请专利 | patent
+hold a patent | v+n | 拥有专利 | patent
+a parliamentary election | adj+n | 议会选举 | parliamentary
+an oak tree | n+n | 橡树 | oak
+a mixture of sth | n+n | 某物的混合 | mixture

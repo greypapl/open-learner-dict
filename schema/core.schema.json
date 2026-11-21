@@ -1,0 +1,261 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "open-learner-dict/0.10.0/core.schema.json",
+  "title": "open-learner-dict core (one object per JSONL line)",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^w\\d{6}$"
+    },
+    "word": {
+      "type": "string"
+    },
+    "layer": {
+      "enum": [
+        "core"
+      ]
+    },
+    "rank": {
+      "type": "integer"
+    },
+    "zipf": {
+      "type": "number"
+    },
+    "zipf_source": {
+      "enum": [
+        "wordfreq",
+        "level-estimate",
+        "coca-estimate"
+      ]
+    },
+    "ipa_uk": {
+      "type": "string"
+    },
+    "ipa_us": {
+      "type": "string"
+    },
+    "ipa_us_source": {
+      "enum": [
+        "cmu",
+        "model"
+      ]
+    },
+    "syllables": {
+      "type": "string"
+    },
+    "stress": {
+      "type": [
+        "array",
+        "null"
+      ],
+      "items": {
+        "enum": [
+          0,
+          1,
+          2
+        ]
+      }
+    },
+    "senses": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "sense_id": {
+            "type": "string"
+          },
+          "pos": {
+            "enum": [
+              "n.",
+              "v.",
+              "adj.",
+              "adv.",
+              "prep.",
+              "conj.",
+              "pron.",
+              "det.",
+              "int.",
+              "num.",
+              "aux.",
+              "abbr."
+            ]
+          },
+          "zh": {
+            "type": "string"
+          },
+          "zh_hant": {
+            "type": "string"
+          },
+          "en_short": {
+            "type": "string"
+          },
+          "register": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "pattern": "^(formal|informal|slang|dated|literary|uk|us|offensive-mild|offensive-strong|domain:.+)$"
+            }
+          },
+          "synonyms": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "antonyms": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "examples": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "en": {
+                  "type": "string"
+                },
+                "zh": {
+                  "type": "string"
+                },
+                "zh_hant": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "en",
+                "zh",
+                "zh_hant"
+              ],
+              "additionalProperties": false
+            }
+          }
+        },
+        "required": [
+          "sense_id",
+          "pos",
+          "zh",
+          "zh_hant",
+          "en_short",
+          "register",
+          "synonyms",
+          "antonyms",
+          "examples"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "inflections": {
+      "type": "object"
+    },
+    "spelling_variants": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "word_family": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "affixes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "level": {
+      "enum": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "C2"
+      ]
+    },
+    "level_estimated": {
+      "type": "boolean"
+    },
+    "exam_tags": {
+      "type": "array",
+      "items": {
+        "enum": [
+          "zk",
+          "gk",
+          "cet4",
+          "cet6",
+          "ky"
+        ]
+      }
+    },
+    "offensive": {
+      "enum": [
+        null,
+        "mild",
+        "strong"
+      ]
+    },
+    "kid_safe": {
+      "type": "boolean"
+    },
+    "game_ok": {
+      "type": "boolean"
+    },
+    "confidence": {
+      "enum": [
+        "high",
+        "low"
+      ]
+    },
+    "reviewed": {
+      "type": "boolean"
+    },
+    "review_status": {
+      "enum": [
+        "agreed",
+        "arbitrated",
+        "disputed"
+      ]
+    },
+    "standard_form": {
+      "type": "string"
+    },
+    "meta": {
+      "type": "object"
+    }
+  },
+  "required": [
+    "id",
+    "word",
+    "layer",
+    "rank",
+    "zipf",
+    "zipf_source",
+    "ipa_uk",
+    "ipa_us",
+    "ipa_us_source",
+    "syllables",
+    "stress",
+    "senses",
+    "inflections",
+    "spelling_variants",
+    "word_family",
+    "affixes",
+    "level",
+    "level_estimated",
+    "exam_tags",
+    "offensive",
+    "kid_safe",
+    "game_ok",
+    "confidence",
+    "reviewed",
+    "review_status",
+    "meta"
+  ],
+  "additionalProperties": false
+}

@@ -1,0 +1,3500 @@
+breed: breeding, breeder, crossbreed
+bride: bridal, bridegroom, bridesmaid
+bud: budding, buddy
+cartoon: cartoonist
+chick: chicken
+comparable: compare, comparison, comparably
+confirmation: confirm, confirmed
+console: consolation
+contractor: contract, subcontractor
+dump: dumping
+dynamics: dynamic, dynamically
+fabulous: fabulously
+fairy: fairyland
+fold: folder, unfold, folding
+freak: freaky, freakish
+gambling: gamble, gambler
+gently: gentle, gentleness
+glorious: glory, gloriously
+grief: grieve, grieving
+historically: history, historical, historic
+inevitable: inevitably, inevitability
+lacking: lack
+lodge: lodging, lodger
+merchant: merchandise
+myth: mythical, mythology
+overwhelming: overwhelm, overwhelmingly
+pale: paleness
+pastor: pastoral
+permanently: permanent, permanence
+poison: poisonous, poisoning
+predict: prediction, predictable, unpredictable
+pressing: press
+provincial: province
+rebel: rebellion, rebellious
+rotation: rotate, rotary
+separately: separate, separation
+subtle: subtlety, subtly
+tooth: toothbrush, toothpaste, toothache
+torn: tear
+tragic: tragedy, tragically
+trainer: train, training, trainee
+unbelievable: believe, believable, unbelievably
+variation: vary, variant, variable
+viral: virus
+widow: widower, widowed
+Austria: Austrian
+adjust: adjustment, adjustable
+administrator: administer, administration, administrative
+allied: ally, alliance
+animated: animate, animation
+assess: assessment, assessor
+assumption: assume
+assured: assure, assurance, self-assured
+basket: basketball
+beard: bearded
+bio: biography
+burger: hamburger
+capability: capable
+charming: charm, charmingly
+computing: compute, computer
+concentrate: concentration, concentrated
+consequence: consequently, consequent
+continent: continental, intercontinental
+curse: cursed
+drain: drainage, drained
+ethical: ethics, ethically, unethical
+excellence: excel, excellent
+flame: flaming, flammable, inflame
+freely: free, freedom
+graduation: graduate
+horizon: horizontal
+hostile: hostility
+ink: inky
+inn: innkeeper
+intel: intelligence
+miserable: misery, miserably
+motorcycle: motorcyclist, motorbike
+nationwide: nation, national
+nest: nestle
+nicely: nice
+ninth: nine
+nomination: nominate, nominee
+notable: notably, note
+obligation: oblige, obligatory
+optical: optics, optician
+penny: penniless
+petty: pettiness
+quantity: quantitative, quantify
+reed: reedy
+scan: scanner
+scare: scared, scary
+span: lifespan
+specialized: specialize, specialist, special
+submission: submit, submissive
+sunny: sun, sunshine
+supporter: support, supportive
+toe: toenail, tiptoe
+tremendous: tremendously
+Chile: Chilean
+Demo: demonstrate, demonstration
+Nigerian: Nigeria
+ab: abdominal
+accommodation: accommodate
+adorable: adore
+allegedly: allege, alleged, allegation
+ashamed: shame, shameful
+assure: assurance, reassure, assured
+blessing: bless, blessed
+cheat: cheater, cheating
+cheer: cheerful, cheers, cheerleader
+cigarette: cigar
+demon: demonic
+demonstration: demonstrate, demonstrator
+detection: detect, detective, detector
+elaborate: elaboration, elaborately
+elder: elderly, eldest
+expertise: expert
+fiber: fibrous, fiberglass
+grocery: grocer
+independently: independent, independence
+indication: indicate, indicator
+intensive: intense, intensity, intensively
+interactive: interact, interaction, active
+intimate: intimacy, intimately
+laundry: launder
+northeast: northeastern, northeasterly
+observe: observation, observer, observant
+packing: pack, package
+politically: politics, political
+presumably: presume, presumption
+pronounced: pronounce
+prosecution: prosecute, prosecutor
+rational: rationality, irrational, rationally
+smartphone: phone
+spectacular: spectacle, spectacularly
+streak: streaky
+subscription: subscribe, subscriber
+technological: technology, technologically
+temporarily: temporary
+tolerance: tolerate, tolerant, intolerance
+traditionally: tradition, traditional
+unhappy: unhappiness, happy, unhappily
+accomplish: accomplishment, accomplished
+adequate: adequately, adequacy, inadequate
+alter: alteration, unaltered
+apology: apologize, apologise, apologetic
+beg: beggar
+bowling: bowl, bowler
+brass: brassy
+buzz: buzzer, buzzword
+declare: declaration
+detect: detection, detective, detector, detectable
+disturbing: disturb, disturbance, disturbingly
+dot: dotted
+effectiveness: effective, effectively, ineffective
+embarrassed: embarrass, embarrassing, embarrassment
+exceptional: exception, exceptionally
+frankly: frank, frankness
+freezing: freeze, frozen, freezer
+graph: graphic, graphical
+hack: hacker
+hatred: hate, hateful
+ignorant: ignorance, ignore, ignorantly
+interact: interaction, interactive
+lamp: lampshade, lamppost
+majesty: majestic
+measurement: measure, measurable
+mobility: mobile, mobilize, immobility
+orientation: orient, oriented, orientate
+retire: retirement, retired, retiree
+rhythm: rhythmic, rhythmical
+ruth: ruthless
+savage: savagely, savagery
+shooter: shoot
+slim: slimming
+sophisticated: sophistication, unsophisticated
+spam: spammer
+supportive: support, supporter
+surgical: surgery, surgeon, surgically
+tide: tidal
+withdraw: withdrawal, withdrawn
+withdrawal: withdraw, withdrawn
+Denmark: Danish, Dane
+airline: airliner
+audit: auditor
+authentic: authenticity, authenticate
+ave: avenue
+backwards: backward
+bust: busted
+clearing: clear
+comply: compliance, compliant
+cope: coping
+creepy: creep
+divorced: divorce, divorcee
+donate: donation, donor
+dried: dry
+emotionally: emotion, emotional
+enhance: enhancement, enhanced
+flavor: flavored, flavoring, flavorful
+ignorance: ignorant, ignore
+immigrant: immigrate, immigration
+intermediate: intermediary
+invention: invent, inventor, inventive
+magnificent: magnificence, magnificently
+mathematical: mathematics, mathematician, mathematically
+meantime: meanwhile
+nut: nutty, nutshell, nuts
+opposing: oppose, opposite, opposition
+placement: place
+recreation: recreational
+resigned: resign, resignation
+shallow: shallowness
+shitty: shit
+sketch: sketchy, sketchbook
+spite: spiteful
+sponsor: sponsorship
+strengthen: strength, strong
+sunset: sunrise
+thee: thou, thy
+transform: transformation, transformer
+Arabic: Arab, Arabian
+Portuguese: Portugal
+analyst: analysis, analyze, analytical
+arctic: Antarctic
+burnt: burn
+burnt-out: burnout
+buyer: buy
+cease: ceasefire, ceaseless
+cloth: clothes, clothing
+container: contain
+differ: difference, different
+dimensional: dimension, three-dimensional
+eager: eagerly, eagerness
+elect: election, elector, electoral
+essence: essential, essentially
+fur: furry
+harvest: harvester
+headline: headliner
+hype: hyped
+insist: insistence, insistent
+junk: junky
+lobby: lobbyist, lobbying
+mob: mobster
+modest: modesty, modestly
+navigation: navigate, navigator
+orbit: orbital
+passive: passively, passivity
+profitable: profit, profitability, unprofitable
+ranch: rancher
+reasonably: reasonable, reason
+reject: rejection
+remainder: remain, remaining, remains
+sentiment: sentimental
+suited: suit, suitable
+supplement: supplementary
+tin: tinned
+tribal: tribe
+trunk: trunks
+uncertainty: uncertain, certainty, uncertainly
+varied: vary, variety, various
+abandon: abandoned, abandonment
+accommodate: accommodation, accommodating
+accordingly: accord, according
+aesthetic: aesthetics, aesthetically
+algorithm: algorithmic
+anchor: anchorman, anchorage
+arch: archway
+bizarre: bizarrely
+bounce: bouncy, bouncer
+broadcasting: broadcast, broadcaster
+cannon: cannonball
+complexity: complex
+confusing: confuse, confused, confusion
+consultation: consult, consultant
+continental: continent
+convenience: convenient, conveniently, inconvenience
+deliberately: deliberate, deliberation
+dictionary: diction
+dignity: dignified, undignified, dignitary, indignity
+dimension: dimensional, three-dimensional, multidimensional
+disappointing: disappoint, disappointed, disappointment, disappointingly
+diving: dive, diver, skydiving
+ego: egoism, egotism, egotistic, egocentric
+enthusiasm: enthusiast, enthusiastic, enthusiastically
+equation: equate, equal
+extract: extraction, extractor
+ferry: ferryboat, ferryman
+fisher: fish, fisherman, fishery, fishing
+flexibility: flexible, inflexible, flexibly, flex
+fridge: refrigerator
+fusion: fuse
+goat: goatee, goatskin
+gut: gutsy, gutted, gutless
+ideology: ideological, ideologically, ideologue
+inclusion: include, inclusive, exclusion, including
+innings: inning
+instructor: instruct, instruction, instructive, instructional
+isolation: isolate, isolated, isolationism
+justified: justify, justification, unjustified, justifiable
+keeper: keep, goalkeeper, shopkeeper, zookeeper, bookkeeper
+lamb: lambskin
+liar: lie, lying
+machinery: machine, machinist
+mercury: mercurial
+namely: name
+pending: impending, pend
+possess: possession, possessive, possessor, possessed
+premises: premise
+probability: probable, probably, improbable
+resignation: resign, resigned
+rider: ride, riding
+ritual: ritually, ritualistic, rite
+shelf: shelve, bookshelf
+starter: start, non-starter
+subscribe: subscriber, subscription, unsubscribe
+superman: superhuman, superhero
+three-dimensional: dimension, two-dimensional, 3D
+tire: tired, tiring, tireless, tiresome
+utterly: utter
+voltage: volt
+warn: warning, forewarn
+width: wide, widen, widely
+workout: work out
+Lebanon: Lebanese
+Pakistani: Pakistan
+adaptation: adapt, adaptable, adaptive, adapter
+advisor: advise, advice, advisory
+bail: bailout
+civilization: civilize, civilized, civil, civilian
+creativity: create, creative, creation, creator, creatively
+delicate: delicately, delicacy
+disappointment: disappoint, disappointed, disappointing
+disk: diskette
+evaluate: evaluation, evaluative, value
+formally: formal, formality, informally
+goddess: god
+gov: government, govern
+harassment: harass, harassed
+insert: insertion
+legit: legitimate, legitimacy
+liquor: liqueur
+loser: lose, loss
+massage: masseur, masseuse
+musician: music, musical, musically
+notably: notable, note
+orchestra: orchestral, orchestrate, orchestration
+oz: ounce
+pad: padding, padded, launchpad, notepad
+precision: precise, precisely, imprecision
+preservation: preserve, preservative, preserved
+president-elect: president, elect, election
+privately: private, privacy
+reasoning: reason, reasonable, reasonably
+relaxed: relax, relaxing, relaxation
+sail: sailor, sailing, sailboat
+secretly: secret, secrecy, secretive
+seller: sell, bestseller, sale
+sheer: sheerly
+specially: special, specialist, speciality, specialize
+stark: starkly, starkness
+sympathy: sympathetic, sympathize, sympathizer
+tan: tanned, tanning, suntan
+theoretical: theory, theoretically, theorist, theorize
+thumb: thumbnail, thumbtack, thumbprint
+timber: timbered
+transparent: transparency, transparently
+upside: downside, upside-down
+visitor: visit, visitation
+vitamin: multivitamin
+voluntary: volunteer, voluntarily, involuntary
+wheat: buckwheat, wholewheat
+whip: whipping, whipped
+wipe: wiper, wipeout
+wrist: wristband, wristwatch
+Celtic: Celt
+Hindu: Hinduism
+MC: emcee
+acute: acutely, acuteness
+admiral: admiralty
+arrange: arrangement, rearrange, prearranged
+behave: behaviour, behavior, behavioral, misbehave, well-behaved
+betting: bet, bettor
+borrow: borrower, borrowing
+camping: camp, camper, campsite
+chin: double chin, chin-up
+civic: civics, civil, citizen
+clerk: clerical
+considerably: considerable, consider
+coup: coup d'etat
+crude: crudely, crudity
+dash: dashing, dashboard
+disclosure: disclose, close
+disposal: dispose, disposable
+distinctive: distinct, distinction, distinctively, distinguish
+donation: donate, donor
+firmly: firm, firmness
+flour: floury
+indie: independent
+indirect: direct, indirectly, directly
+inspire: inspiration, inspiring, inspired, inspirational
+institutional: institution, institute, institutionalize
+jerk: jerky
+kindly: kind, kindness, unkindly
+kindness: kind, kindly, unkindness
+lottery: lot
+magnitude: magnify, magnificent
+nude: nudity, nudist
+prescription: prescribe, prescriptive
+publicity: public, publicize, publicist
+puppy: pup
+re-elect: re-election, elect, election
+recruitment: recruit, recruiter
+silicon: silicone, silica
+slice: slicer, sliced
+spelling: spell, misspelling, speller
+survivor: survive, survival
+telegraph: telegram, telegraphic
+upside-down: upside
+vaccine: vaccinate, vaccination
+accurately: accurate, accuracy, inaccurately
+affiliate: affiliated, affiliation
+barn: barnyard
+bent: bend
+cluster: clustering
+consistency: consistent, consistently, inconsistency
+cracked: crack, cracker
+cylinder: cylindrical
+dancer: dance, dancing
+deaf: deafness, deafen, deafening
+denial: deny, undeniable
+dock: docker, dockyard
+entrepreneur: entrepreneurial, entrepreneurship
+evident: evidence, evidently, self-evident
+expectation: expect, expectant, unexpected
+expedition: expedite, expeditionary
+facilitate: facility, facilitator, facilitation
+fossil: fossilize, fossilized
+freight: freighter
+goddamn: damn, goddamned
+honesty: honest, honestly, dishonesty
+inappropriate: appropriate, inappropriately
+infant: infancy, infantile
+injection: inject
+instrumental: instrument, instrumentalist
+insult: insulting
+interference: interfere
+liking: like
+neat: neatly, neatness
+negotiate: negotiation, negotiator, negotiable
+pal: penpal
+perfection: perfect, perfectionist
+propose: proposal, proposition
+quarterly: quarter
+rehabilitation: rehabilitate, rehab
+resistant: resist, resistance
+roller: roll, rollercoaster
+sailing: sail, sailor
+skinny: skin
+sneak: sneaky, sneakers
+sore: soreness, sorely
+spark: sparkle, sparkling
+speculation: speculate, speculative
+steep: steeply
+straw: strawberry
+successor: succeed, succession
+uncertain: uncertainty, certain, uncertainly
+upload: download
+weigh: weight
+wicked: wickedness, wickedly
+absent: absence, absently, absentee
+acoustic: acoustics
+adapt: adaptation, adaptable, adapter
+archive: archival
+atomic: atom
+bicycle: bike, cyclist
+bump: bumpy, bumper
+compelling: compel
+construct: construction, constructive, reconstruct
+cord: cordless
+crowded: crowd, overcrowded
+cyber: cyberspace, cybersecurity, cyberattack
+defendant: defend, defence
+dense: density, densely
+desperately: desperate, desperation
+doctrine: doctrinal
+expose: exposure, exposed
+financially: financial, finance
+furious: fury, furiously
+geography: geographic, geographical, geographer
+habitat: habitation, inhabit
+hazard: hazardous
+irrelevant: relevant, irrelevance
+jaw: jawbone
+kitty: kitten
+manufacture: manufacturer, manufacturing
+mistaken: mistake, mistakenly
+organize: organization, organizer, organized
+pity: pitiful, pitiless
+prey: predator
+prophet: prophecy, prophetic
+refugee: refuge
+rounded: round
+satisfy: satisfaction, satisfied, satisfying, satisfactory
+seasonal: season, seasonally
+sensible: sense, sensibly
+shifting: shift
+shining: shine, shiny
+township: town
+twisted: twist
+whale: whaling, whaler
+admire: admiration, admirer, admirable
+armor: armored, armory
+autism: autistic
+berry: strawberry, blueberry
+capitalism: capitalist, capital
+caution: cautious, cautiously, precaution
+certification: certify, certificate
+characteristic: character, characterize
+compatible: compatibility, incompatible
+condemned: condemn, condemnation
+configuration: configure
+continuously: continuous, continue
+convincing: convince, convincingly
+curiosity: curious, curiously
+delight: delightful, delighted
+explosive: explode, explosion
+fortunate: fortune, fortunately, unfortunate
+fortunately: fortunate, unfortunately
+frustration: frustrate, frustrated, frustrating
+geographic: geography, geographical, geographically
+handy: hand
+harmful: harm, harmless
+hers: her, she
+inclusive: include, inclusion
+licence: license, licensed
+madness: mad, madly
+mandate: mandatory
+memorable: memory, memorably
+merger: merge
+poker: poke
+randomly: random
+resign: resignation, resigned
+revealing: reveal, revelation
+robbery: rob, robber
+rub: rubbing
+scattered: scatter
+sexuality: sexual, sex
+succession: succeed, successor, successive
+superintendent: superintend
+suspicion: suspect, suspicious
+sweep: sweeper, sweeping
+tactical: tactic, tactically
+therapist: therapy, therapeutic
+thorough: thoroughly, thoroughness
+wholesale: wholesaler
+architectural: architecture, architect
+cheek: cheeky
+circular: circle, circulate
+circulation: circulate, circular
+clearance: clear
+coincidence: coincide, coincidental
+comedian: comedy
+concentrated: concentrate, concentration
+conscience: conscientious
+cooler: cool
+countless: count
+dedication: dedicate, dedicated
+detention: detain, detainee
+employ: employee, employer, employment, unemployed
+enforce: enforcement, enforceable
+explicit: explicitly, implicit
+explicitly: explicit
+flu: influenza
+forbidden: forbid
+fraction: fractional
+integral: integrate, integrity
+investor: invest, investment
+lightly: light
+melt: meltdown, molten, melting
+nominee: nominate, nomination
+offence: offend, offensive, offender
+packaging: package, packager
+pillow: pillowcase
+pirate: piracy, pirated
+polar: pole, polarity, polarize, polarization
+prediction: predict, predictable, unpredictable, predictor
+preview: view, review
+puzzle: puzzled, puzzling, puzzlement
+rapper: rap
+reconstruction: reconstruct, construction, reconstructive
+renowned: renown
+revelation: reveal, revealing
+scholar: scholarship, scholarly
+self-pity: pity, self-pitying
+skirt: miniskirt
+socially: social, society, socialize
+spike: spiky, spiked
+sprint: sprinter
+stir: stirring, stirrer
+substantially: substantial, substance, insubstantial
+superb: superbly
+supposedly: suppose, supposed, supposition
+tendency: tend
+theirs: their, they, them
+toast: toaster, toasted
+touchdown: touch
+trek: trekking, trekker
+tricky: trick, trickery, trickster
+triumph: triumphant, triumphal, triumphantly
+underwear: wear
+viable: viability
+waist: waistline, waistband, waistcoat
+wit: witty, witless, outwit
+wreck: wreckage, wrecker
+absurd: absurdity, absurdly
+ambitious: ambition, ambitiously, unambitious
+annoyed: annoy, annoying, annoyance
+appealing: appeal, unappealing, appealingly
+ballet: ballerina
+bargain: bargaining
+blend: blender, blended
+brake: braking
+businessman: business, businesswoman, businesslike
+cab: taxicab
+collision: collide
+compassion: compassionate, compassionately
+correction: correct, corrective, incorrect
+critic: criticism, criticize, critical, critique
+distress: distressed, distressing
+documentation: document, documentary
+dramatically: drama, dramatic, dramatize
+elegant: elegance, elegantly, inelegant
+elevator: elevate, elevation
+execute: execution, executive, executor
+frost: frosty, frosting, frostbite
+hike: hiker, hiking
+homeland: home
+internationally: international, nation, internationalize
+lame: lameness, lamely
+locker: lock
+marking: mark, marker
+meditation: meditate, meditative
+messenger: message
+philosophical: philosophy, philosopher, philosophically
+plea: plead
+punish: punishment, punishable, punishing
+ref: referee, reference
+relieved: relieve, relief
+reservation: reserve, reserved
+rhetoric: rhetorical, rhetorically
+secular: secularism, secularize
+sensitivity: sensitive, insensitive, sense
+sixteen: sixteenth, six
+sovereign: sovereignty
+spouse: spousal
+stat: statistic, statistics
+supervisor: supervise, supervision, supervisory
+synthetic: synthesis, synthesize, synthetically
+tense: tension, tensely
+vegan: veganism, vegetarian
+wilderness: wild
+adviser: advise, advice, advisory
+aggregate: aggregation
+anal: anus
+anatomy: anatomical, anatomist
+automobile: automotive, auto
+chess: chessboard
+composite: compose, composition
+consequently: consequence, consequent
+consist: consistent, consistency, consistently
+cox: coxswain
+dull: dullness, dully
+fare: airfare, farewell
+float: floating, afloat
+generator: generate, generation
+grind: grinder, grinding
+gum: gummy
+idol: idolize, idolatry
+illusion: illusory, disillusion, disillusioned
+incorrect: correct, incorrectly
+lance: lancer
+leap: leapfrog
+locate: location, relocate, located
+lynch: lynching
+motive: motivate, motivation
+neighbourhood: neighbour, neighbouring, neighbourly
+networking: network
+oppose: opposition, opposite, opponent, opposed
+optimal: optimum, optimize
+postal: post, postage
+prep: preparation, prepare
+profound: profoundly, profundity
+prosecutor: prosecute, prosecution
+rebellion: rebel, rebellious
+recipient: receive
+refund: refundable, nonrefundable
+risky: risk, riskiness
+robust: robustly, robustness
+scam: scammer
+simulation: simulate, simulator
+sober: sobriety, sobering, soberly
+spice: spicy
+supervision: supervise, supervisor, supervisory
+threaten: threat, threatening
+thrilled: thrill, thrilling, thriller
+unconscious: conscious, unconsciously, consciousness
+vegetable: vegetarian, veggie, vegetation
+vibe: vibes
+virtue: virtuous
+workforce: work, worker
+acre: acreage
+arise: rise
+automotive: automobile, auto
+battlefield: battle
+bloom: blooming
+bore: boring, bored, boredom
+costly: cost
+descent: descend, descendant
+desktop: desk, laptop
+directory: direct, director
+discharge: charge
+dodge: dodgy, dodgeball
+elimination: eliminate
+ginger: gingerbread
+halt: halting
+imaging: image
+impress: impression, impressive, impressed
+inability: ability, unable
+jar: jarring
+litigation: litigate, litigant
+mentor: mentoring, mentorship
+merchandise: merchandising, merchant
+monk: monastery, monkish
+norm: normal, normative
+occupy: occupation, occupant, occupied, occupier
+orthodox: orthodoxy, unorthodox
+overhead: overheads
+painter: paint, painting
+pierce: piercing
+printer: print, printing
+prone: proneness
+readily: ready, readiness
+regiment: regimental, regimented
+reunion: reunite, reunify
+revival: revive, revivalist
+sanctuary: sanctum
+satisfying: satisfy, satisfaction, satisfied, unsatisfying
+siege: besiege
+sixty: sixtieth, six
+sleeve: sleeveless
+sonic: supersonic, ultrasonic
+soundtrack: sound, track
+spine: spinal, spineless
+steering: steer
+sustain: sustainable, sustainability, sustained
+tenure: tenured
+texture: textured, textural
+thankful: thank, thankfully, thankless
+translate: translation, translator
+treasurer: treasure, treasury
+triangle: triangular
+unclear: clear, unclearly
+wizard: wizardry
+ADMIN: administration, administrator
+affection: affectionate, affectionately
+airplane: plane, aircraft
+baking: bake, baker, bakery
+beautifully: beautiful, beauty
+biblical: Bible
+boo: booing
+coloured: colour, colourful, discoloured
+competent: competence, incompetent, competently
+countryside: country
+cracking: crack
+delegation: delegate
+demographic: demography, demographics, demographer
+donor: donate, donation
+educate: education, educational, educated, educator
+enrollment: enroll, enrol
+exceed: excess, excessive, exceedingly
+excluding: exclude, exclusion, exclusive
+fierce: fiercely, fierceness
+garlic: garlicky
+gratitude: grateful, ungrateful
+hail: hailstone, hailstorm
+hooked: hook
+illustration: illustrate, illustrator, illustrative
+impose: imposition, imposing
+indicator: indicate, indication
+inequality: equality, unequal
+leisure: leisurely
+lend: lender, lending
+lounge: lounger
+luckily: luck, lucky, unluckily
+mint: minty
+notification: notify
+nova: supernova
+outline: line
+polite: politely, politeness, impolite
+receipt: receive
+recognise: recognition, recognisable
+reliability: reliable, rely, unreliable
+researcher: research
+sculpture: sculptor, sculpt, sculptural
+sensor: sense, sensory
+tenth: ten
+theology: theological, theologian
+underwater: water
+wax: waxy, beeswax
+GB: gigabyte
+accountability: accountable, account
+alcoholic: alcohol, alcoholism, nonalcoholic
+amazed: amaze, amazing, amazement
+ambition: ambitious, ambitiously
+ammunition: ammo
+bake: baker, bakery, baking
+charitable: charity, charitably
+collector: collect, collection, collectible
+compliment: complimentary
+continually: continual, continue
+coordinator: coordinate, coordination
+deployment: deploy
+enjoyable: enjoy, enjoyment
+exotic: exotically
+feminine: femininity, feminist, female
+fury: furious, furiously
+genocide: genocidal
+glow: glowing
+hay: haystack
+hometown: home, town
+humanitarian: humanity, humanitarianism
+immunity: immune, immunize
+liberation: liberate, liberator, liberal
+likelihood: likely, unlikely
+lone: lonely, alone
+nationalist: nationalism, national
+necessity: necessary, necessarily
+nickname: name
+observer: observe, observation
+offshore: shore
+optional: option
+pioneer: pioneering
+prosperity: prosper, prosperous
+recreational: recreation
+refuge: refugee
+renewable: renew, renewal, nonrenewable
+shortage: short
+sphere: spherical, atmosphere, hemisphere
+suburban: suburb, suburbia
+terribly: terrible
+territorial: territory
+thriller: thrill, thrilling
+transgender: trans, gender
+troubled: trouble, troubling, troublesome
+turtle: tortoise
+two-thirds: third
+verbal: verbally, verb
+vocals: vocal, vocalist
+wool: woollen, woolly
+yang: yin
+accountable: accountability, account
+advocacy: advocate
+aggression: aggressive, aggressor
+arguably: argue, arguable
+blunt: bluntly, bluntness
+brigade: brigadier
+burial: bury
+champ: champion
+chorus: choral, choir
+chrome: chromium
+clarity: clear, clarify
+cleaner: clean, cleaning
+conclude: conclusion, conclusive
+confidential: confidentiality, confidentially, confide
+coordination: coordinate, coordinator
+discretion: discreet, discretionary
+dome: domed
+dope: dopey
+elevation: elevate, elevator
+esteem: self-esteem, esteemed
+fog: foggy
+historian: history, historic, historical
+horizontal: horizontally, horizon
+hospitality: hospitable, inhospitable
+individually: individual, individuality, individualism
+inevitably: inevitable, inevitability
+lad: laddish
+literacy: literate, illiterate, illiteracy
+misleading: mislead, misleadingly
+moisture: moist, moisturize, moisturizer
+monument: monumental
+mortality: mortal, immortal, immortality
+obsession: obsess, obsessed, obsessive
+opt: option, optional, opt-out
+opt-out: opt, opt-in
+persistent: persist, persistence, persistently
+petroleum: petrol
+pharmaceutical: pharmacy, pharmacist
+progression: progress, progressive
+rebuild: build, rebuilding
+rejection: reject
+relaxing: relax, relaxed, relaxation
+scrap: scrappy, scrapbook
+sensation: sensational, sense
+shuttle: shuttlecock
+slope: sloping
+stern: sternly
+stiff: stiffen, stiffly, stiffness
+striker: strike
+terrific: terrifically
+transparency: transparent
+unemployed: unemployment, employ, employed
+unite: united, unity, union, reunite
+unlock: lock, unlocked
+vet: veterinary, veterinarian
+withdrawn: withdraw, withdrawal
+adverse: adversely, adversity
+biography: biographer, biographical, autobiography
+broker: brokerage, stockbroker
+browser: browse
+bury: burial
+cellular: cell
+counseling: counsel, counselor
+destructive: destroy, destruction
+dislike: like
+emerge: emergence, emerging
+fist: fistful
+fond: fondly, fondness
+foolish: fool, foolishly, foolishness
+fry: fried, frying pan
+gifted: gift
+heir: heiress, heirloom
+imprisonment: imprison, prison, prisoner
+landlord: landlady
+liable: liability
+midst: mid, middle
+misery: miserable
+module: modular
+mommy: mom
+moss: mossy
+nursery: nurse
+positively: positive
+recruit: recruitment, recruiter
+sharply: sharp, sharpen
+sincerely: sincere, sincerity
+specialty: special, specialist, specialize
+supernatural: natural
+thirteen: thirteenth
+tomb: tombstone
+trim: trimming
+voyage: voyager
+adjustment: adjust, adjustable
+air-conditioning: air conditioner, air-conditioned
+attachment: attach, attached
+baron: baroness
+bomber: bomb
+candle: candlelight, candlestick
+confession: confess
+consume: consumer, consumption
+credibility: credible, incredible
+critically: critical, critic, criticism
+distracted: distract, distraction
+fourteen: fourteenth
+geometry: geometric
+gossip: gossipy
+haul: haulage
+header: head
+immense: immensely
+interfere: interference
+intersection: intersect
+leverage: lever
+lil: little
+lining: line
+mankind: humankind
+metric: metre, metrics
+opener: open
+pointless: point
+qualification: qualify, qualified
+sadness: sad, sadly
+selective: select, selection, selectively
+shiny: shine
+socialism: socialist, social
+sour: sourness
+spoon: spoonful, teaspoon, tablespoon
+stressful: stress, stressed
+terrace: terraced
+thief: theft
+undoubtedly: doubt, undoubted
+verify: verification
+whistle: whistleblower
+yearly: year
+Jew: Jewish, Judaism
+abusive: abuse
+appetite: appetizer
+bully: bullying
+calculate: calculation, calculator, calculated
+consult: consultant, consultation
+damned: damn
+distinguish: distinguished, distinction, distinct
+dominate: dominant, domination, dominance
+economist: economy, economics, economic
+extensively: extensive, extend
+forgiveness: forgive
+gem: gemstone
+haunted: haunt, haunting
+heather: heath
+hypothesis: hypothetical, hypothesize
+illegally: illegal, legal, legally
+inclined: incline, inclination
+informal: informally, formal, informality
+marker: mark
+marsh: marshy
+maturity: mature, immature, immaturity, maturely
+messy: mess, messily, messiness
+optimistic: optimism, optimist, optimistically
+owl: owlish
+parenting: parent, parental, parenthood
+pharmacy: pharmacist, pharmaceutical
+problematic: problem, problematically
+processor: process, processing, microprocessor
+promotional: promote, promotion, promoter
+prospective: prospect, prospectively
+psychiatric: psychiatry, psychiatrist
+regulate: regulation, regulator, regulatory, deregulate
+roast: roasted, roaster
+rubbish: rubbishy
+seventeen: seventeenth
+systematic: system, systematically
+unacceptable: acceptable, unacceptably
+unaware: aware, awareness
+uncommon: common, uncommonly
+unstable: stable, instability
+upstairs: downstairs, stairs
+vague: vaguely, vagueness
+woo: wooer
+zip: zipper, unzip
+abundance: abundant, abundantly
+ant: anthill
+antique: antiquity
+autonomy: autonomous
+behavioral: behavior, behave, behaviorally
+booking: book, overbooking
+breeze: breezy
+congressman: congress, congresswoman, congressional
+cooperative: cooperate, cooperation, cooperatively
+correlation: correlate, correlated
+correspondent: correspond, correspondence
+dentist: dentistry
+dough: doughnut, doughy
+envelope: envelop
+fade: faded
+fatigue: fatigued, fatiguing
+fellowship: fellow
+fictional: fiction, fictitious
+fragile: fragility
+fulfill: fulfillment, fulfilling, fulfilled
+hardy: hardiness
+instinct: instinctive, instinctively, instinctual
+inviting: invite, invitation, invitingly
+irony: ironic, ironically
+judgement: judge, judgemental
+judiciary: judicial, judge
+legion: legionnaire
+lethal: lethally
+lime: limestone
+lively: liveliness
+logistics: logistic, logistical
+maid: maiden, bridesmaid
+midfielder: midfield
+mistress: master
+morality: moral, immorality, morally
+mortal: mortality, immortal, mortally
+nonprofit: profit
+operative: operate, operation, operator
+prestigious: prestige
+prompt: promptly, prompting
+radius: radial
+rig: rigging
+sovereignty: sovereign
+stunt: stuntman, stunted
+sunlight: sunlit, sun
+surf: surfer, surfing, surfboard
+symbolic: symbol, symbolize, symbolism, symbolically
+sync: synchronize, synchronization
+taxpayer: tax, taxation
+tempted: tempt, temptation, tempting
+yourselves: yourself
+Buddhist: Buddhism, Buddha
+allowance: allow
+arbitrary: arbitrarily, arbitrariness
+autonomous: autonomy, autonomously
+blogger: blog, blogging
+brotherhood: brother
+builder: build, building
+carriage: carry
+censorship: censor
+clarify: clarification, clarity
+comp: compensation, complimentary
+compilation: compile, compiler
+composer: compose, composition
+constitute: constitution, constituent
+correspondence: correspond, correspondent
+cowboy: cowgirl
+desirable: desire, undesirable, desirability
+devastating: devastate, devastation, devastated
+diagram: diagrammatic
+dismiss: dismissal, dismissive
+explorer: explore, exploration
+farther: far, farthest
+favorable: favor, favorably, unfavorable
+feminism: feminist, feminine
+gasoline: gas
+geographical: geography, geographic, geographically
+governmental: government, govern
+grandson: granddaughter, grandchild
+incomplete: complete, incompletely
+incorporate: incorporation, incorporated
+lengthy: length, lengthen
+manipulation: manipulate, manipulative
+mock: mockery, mocking
+obscure: obscurity, obscurely
+possessed: possess, possession
+proposition: propose, proposal
+recession: recede, recessive
+rim: rimmed
+secondly: second
+spinal: spine
+spit: spittle, spitting
+successive: succession, successively, succeed
+superhero: hero
+therapeutic: therapy, therapist
+timely: untimely
+tub: bathtub
+undergraduate: graduate
+utter: utterly, utterance
+vietnamese: Vietnam
+volleyball: volley
+advertisement: advertise, advertising, advertiser, ad
+analyze: analysis, analyst, analytical
+atmospheric: atmosphere
+co-operative: co-operate, co-operation
+commanding: command, commander
+creep: creepy, creeper
+disclose: disclosure
+enthusiastic: enthusiasm, enthusiast, enthusiastically
+envy: envious, enviable
+exile: exiled
+exploitation: exploit, exploitative
+genetics: gene, genetic, geneticist
+goose: gosling
+grill: grilled, griller
+heroic: hero, heroism, heroically
+mat: doormat, mouse mat
+monopoly: monopolize, monopolistic
+nationally: nation, national, nationality
+outrage: outrageous, outraged, outrageously
+paperwork: paper, work
+promptly: prompt, promptness
+renewal: renew, renewable
+ruler: rule, ruling
+sincere: sincerely, sincerity, insincere
+slaughter: slaughterhouse
+sperm: sperm whale
+spill: spillage, oil spill, spillover
+steadily: steady, steadiness
+supplier: supply
+swamp: swampy
+swan: cygnet
+synthesis: synthesize, synthetic, synthesizer
+tasty: taste, tasteless, tasteful
+teammate: team, mate
+testify: testimony, testimonial
+tolerate: tolerance, tolerant, intolerable, toleration
+treason: treasonous
+typing: type, typist, typewriter
+urine: urinate, urinary, urination
+violet: ultraviolet
+activation: activate, active, activator
+afterward: after
+applause: applaud
+bald: baldness, balding, baldly
+boil: boiler, boiling, boiled
+breakthrough: break
+cone: conical
+convey: conveyor, conveyance
+critique: critic, criticism, critical, criticize
+curved: curve, curvy, curvature
+decay: decayed
+depressing: depress, depressed, depression
+dessert: dessertspoon
+diagnostic: diagnose, diagnosis
+differential: differ, difference, different, differentiate
+dominance: dominant, dominate, domination
+economically: economy, economic, economical, economics
+entertain: entertainment, entertainer, entertaining
+exploit: exploitation, exploitative, exploiter
+freeman: free, freedom
+gateway: gate
+high-pitched: pitch
+humidity: humid, humidifier
+humour: humorous, humorist, humourless
+imagery: image, imagine
+imply: implication, implicit, implied
+inherent: inherently
+inning: innings
+innocence: innocent, innocently
+investigator: investigate, investigation, investigative
+isle: islet
+ivy: ivied
+justification: justify, justifiable, justified
+livestock: stock
+mafia: mafioso
+merry: merrily, merriment, merry-go-round
+missionary: mission
+nationalism: nationalist, nationalistic, nation, national
+naughty: naughtiness
+notorious: notoriety, notoriously
+obey: obedience, obedient, disobey
+organizational: organize, organization, organizer
+overly: over
+oversight: oversee
+polling: poll, pollster, polling station
+prototype: prototypical
+reactor: react, reaction
+reef: coral reef
+refined: refine, refinery, refinement, unrefined
+refreshing: refresh, refreshment, refreshingly
+refusal: refuse
+reset: set
+sage: sagely
+shave: shaver, shaving, shaven
+sickness: sick, sickly
+startup: start
+statute: statutory
+straightforward: straightforwardly
+superstar: star
+telecommunications: telecommunication, telecom, communication
+thoughtful: thought, thoughtfully, thoughtfulness, thoughtless
+thru: through
+toddler: toddle
+vicious: viciously, viciousness, vice
+wholly: whole
+zoom: zoom lens
+Hm: hmm
+accidental: accident, accidentally
+archbishop: bishop
+assassination: assassin, assassinate
+athletics: athlete, athletic
+basics: basic, basically
+bibliography: bibliographic, bibliographical
+broadly: broad, breadth, broaden
+capita: per capita
+certainty: certain, certainly, uncertainty
+citation: cite
+collectively: collective, collect, collection
+compression: compress, compressor
+confess: confession
+confined: confine, confinement
+congregation: congregate
+coordinate: coordination, coordinator
+cube: cubic, cubicle
+decoration: decorate, decorative, decorator
+deliberate: deliberately, deliberation
+despair: desperate, desperation
+dividend: divide
+drift: drifter, driftwood
+dye: dyed
+electron: electronic, electronics
+endure: endurance, enduring, endurable
+evolutionary: evolution, evolve
+geological: geology, geologist
+globally: global, globe, globalization
+hatch: hatchery, hatchback
+hormone: hormonal
+inadequate: adequate, inadequacy, inadequately
+infinity: infinite, infinitely
+intentionally: intention, intentional, intend, unintentionally
+lace: lacy, shoelace
+maiden: maid, maiden name
+marketplace: market
+membrane: membranous
+metallic: metal
+methodology: method, methodological
+murderer: murder, murderous
+nap: catnap
+niece: nephew
+pardon: pardonable
+persuade: persuasion, persuasive
+predecessor: successor
+premise: premises
+quiz: quizzical
+rainfall: rain, fall
+reckless: recklessly, recklessness
+redemption: redeem, redeemable
+remedy: remedial
+replay: play
+revision: revise, revised
+rooted: root, deep-rooted
+scent: scented
+stimulus: stimulate, stimulation, stimuli
+sunrise: sun, sunset
+surge: upsurge
+tee: tee shirt
+token: tokenism
+unprecedented: precedent, unprecedentedly
+vagina: vaginal
+vocabulary: vocab
+willingness: willing, willingly, unwilling
+woody: wood, wooden
+worthless: worth, worthy, worthwhile
+yacht: yachting, yachtsman
+Protestant: Protestantism
+absorb: absorption, absorbent, absorbing, absorbed
+accompany: accompaniment, accompanist
+accord: accordance, accordingly, according
+advancement: advance, advanced
+alt: alternative
+alternatively: alternative, alternate
+anglo: Anglo-Saxon, Anglican
+archer: archery
+assurance: assure, assured
+barber: barbershop
+bulgarian: Bulgaria
+carpenter: carpentry
+coding: code, coder, decode, encode
+competitor: compete, competition, competitive, competitively
+dioxide: oxide
+doom: doomed, doomsday
+eighteen: eighteenth, eight
+enjoyment: enjoy, enjoyable
+exhaust: exhausted, exhausting, exhaustion, exhaustive
+hahaha: haha
+hawk: hawkish, hawker
+homemade: home, made
+honorable: honor, honorably, dishonorable
+infectious: infect, infection, infected
+inferior: inferiority, superior
+injustice: justice, unjust
+interpret: interpretation, interpreter, misinterpret
+intro: introduction, introduce
+kindle: kindling, rekindle
+lid: eyelid
+masterpiece: master, piece
+melody: melodic, melodious
+memo: memorandum
+narrator: narrate, narrative, narration
+obesity: obese
+partisan: bipartisan, nonpartisan, partisanship
+pony: ponytail
+privileged: privilege, underprivileged
+prolonged: prolong
+promo: promotion, promote
+reliance: rely, reliable, reliant
+reluctant: reluctantly, reluctance
+respiratory: respiration, respire
+retention: retain
+roommate: room, mate
+rotten: rot
+shotgun: shot, gun
+spoil: spoiled, spoiler, spoils
+submarine: marine
+suburb: suburban, suburbia
+sympathetic: sympathy, sympathize, sympathetically, unsympathetic
+taxation: tax, taxpayer, taxable
+temper: temperament, bad-tempered, short-tempered
+USSR: Soviet
+amp: amplifier, ampere
+automation: automate, automatic, automated
+awe: awesome, awful, awed, awe-inspiring
+colorful: color, colored, colorless
+combo: combination, combine
+communism: communist
+conductor: conduct, semiconductor
+confront: confrontation, confrontational
+crow: scarecrow
+decisive: decide, decision, decisively, indecisive
+decorative: decorate, decoration
+definitive: definitively, definite, define
+disturbed: disturb, disturbing, disturbance
+epidemic: pandemic, epidemiology
+eternity: eternal, eternally
+evolve: evolution, evolutionary
+explode: explosion, explosive
+extraction: extract, extractor
+fatty: fat, fatten
+filthy: filth
+flush: flushed
+freestyle: free, style
+glue: glued
+grandpa: grandfather, grandma
+hairy: hair
+homicide: homicidal
+inheritance: inherit, heritage, heir
+ironic: irony, ironically
+madame: madam
+microwave: wave
+minimize: minimum, minimal, minimization
+peel: peeler, peeling
+performer: perform, performance
+picnic: picnicker
+predominantly: predominant, predominate, predominance
+providence: provident, providential
+psychic: psyche, psychology
+psychologist: psychology, psychological
+puppet: puppeteer, puppetry
+reproductive: reproduce, reproduction
+restrict: restriction, restricted, restrictive
+righteous: righteousness, self-righteous
+rivalry: rival
+royalty: royal
+seize: seizure
+sim: simulation, simulate
+skeleton: skeletal
+spicy: spice
+sticky: stick, stickiness
+sting: stinger, stinging
+sufficiently: sufficient, insufficient, suffice
+thankfully: thankful, thank, thanks
+tick: ticking
+tutorial: tutor
+twentieth: twenty
+unpleasant: pleasant, unpleasantly, pleasure
+unrelated: related, relate, relation
+vacant: vacancy, vacate
+vent: ventilate, ventilation
+wan: wanly
+warmth: warm, warmly
+Iceland: Icelandic, Icelander
+Latino: Latina, Latin
+bf: boyfriend
+capitalist: capital, capitalism
+cautious: caution, cautiously
+constable: constabulary
+cooperate: cooperation, cooperative
+counselor: counsel, counseling
+destined: destiny, destination
+detached: detach, detachment, semi-detached
+distribute: distribution, distributor
+dong: ding-dong
+efficiently: efficient, efficiency, inefficient
+encouragement: encourage, courage, encouraging
+faction: factional
+fascist: fascism
+gamble: gambling, gambler
+goalkeeper: goal, goalie, keeper
+harmless: harm, harmful, harmlessly
+hesitate: hesitation, hesitant
+hopeful: hope, hopefully, hopeless
+horny: horn
+hygiene: hygienic, unhygienic
+imaginary: imagine, imagination, imaginative
+inconsistent: consistent, inconsistency
+loudly: loud, aloud, loudness
+mechanic: mechanical, mechanics, mechanism
+modify: modification, modifier, modified
+neglect: neglected, negligent, negligence
+non-aligned: align, alignment
+northwestern: northwest, northwards
+oppression: oppress, oppressive, oppressor
+patriotic: patriot, patriotism
+pitcher: pitch
+playground: play, ground
+prejudice: prejudiced, prejudicial
+probable: probably, probability, improbable
+probation: probationary
+projection: project, projector
+receptor: receive, reception
+rehab: rehabilitation, rehabilitate
+remake: make
+reproduction: reproduce, reproductive
+spokesman: spokesperson, spokeswoman, speak
+strap: strapless, strapped
+subjective: subject, subjectivity, objective
+surround: surrounding, surroundings
+surroundings: surround, surrounding
+sweeping: sweep, sweeper
+traumatic: trauma, traumatize
+trillion: million, billion
+tucker: tuckered
+vendor: vend, vending
+MB: megabyte
+aboriginal: aborigine, original
+alignment: align, misalignment
+allergic: allergy, allergen
+backpack: backpacker, backpacking
+banker: bank, banking
+bliss: blissful, blissfully
+bodily: body
+buffer: buffering
+collaborative: collaborate, collaboration, collaborator
+compensate: compensation, compensatory
+constructive: construct, construction, constructively
+cosmic: cosmos
+definite: define, definitely, indefinite, definition
+developmental: develop, development, developmentally
+distraction: distract, distracted, distracting
+drawer: draw
+ecological: ecology, ecologist, ecologically, ecosystem
+ecosystem: ecology, ecological
+exclude: exclusion, exclusive, excluding
+exempt: exemption
+faint: faintly, fainting
+fertility: fertile, fertilize, fertilizer, infertility
+foam: foamy
+forge: forgery, forger
+hierarchy: hierarchical
+invalid: valid, invalidate, validity
+jointly: joint
+lightweight: light, weight
+metabolism: metabolic, metabolize
+negotiation: negotiate, negotiator, negotiable
+notch: top-notch
+parental: parent, parenting, parenthood
+participant: participate, participation
+photoshop: photo
+precedent: precede, unprecedented
+prevalent: prevalence, prevail
+questionable: question, unquestionable
+render: rendering, rendition
+sailor: sail, sailing
+seventy: seven, seventieth
+sociology: sociologist, sociological, social
+specify: specific, specification, specified
+stab: stabbing
+supermarket: market
+tenant: tenancy
+traction: tractor
+unwanted: want
+variant: vary, variation, variable
+vegetarian: vegetable, vegetarianism, vegan
+visibility: visible, invisible, visibly
+abundant: abundance, abundantly
+algebra: algebraic
+attribute: attribution, attributable
+chop: chopper
+comparative: compare, comparison, comparatively
+complement: complementary
+conquer: conquest, conqueror
+conquest: conquer, conqueror
+continuity: continue, continuous, continual
+crawl: crawler
+credible: credibility, incredible, credibly
+cursed: curse
+delightful: delight, delighted, delightfully
+digit: digital
+drainage: drain
+embarrassment: embarrass, embarrassed, embarrassing
+fairness: fair, fairly, unfair
+felony: felon
+floral: flower, flora, florist
+fortress: fort
+fundamentally: fundamental
+hearted: heart, kind-hearted, warm-hearted, half-hearted, light-hearted
+herb: herbal, herbalist
+herd: herder, herdsman
+ideological: ideology, ideologically
+immortal: mortal, immortality
+incumbent: incumbency
+insider: inside, outsider
+insufficient: sufficient, insufficiently
+jelly: jellyfish
+literal: literally
+maternal: maternity, paternal
+modification: modify, modified
+mold: moldy
+neighbouring: neighbour, neighbourhood
+objection: object, objectionable
+occurrence: occur
+outrageous: outrage, outrageously
+packet: pack, package
+pathway: path
+presenter: present, presentation
+prohibition: prohibit, prohibitive
+registry: register, registration
+relieve: relief, relieved
+remarkably: remark, remarkable
+scar: scarred
+sci-fi: science, fiction
+scripture: scriptural
+seating: seat
+simplicity: simple, simplify, simply
+softly: soft, soften
+sustainability: sustain, sustainable
+symphony: symphonic
+textbook: text, book
+theological: theology, theologian
+trader: trade, trading
+undercover: cover
+vegetation: vegetable
+velvet: velvety
+viewer: view, viewing
+wheeler: wheel
+worm: earthworm, wormhole
+accountant: account, accounting, accountancy
+activate: active, activation, activity
+amusing: amuse, amusement, amused
+behold: beholder
+biased: bias, unbiased
+billionaire: billion, millionaire
+calculation: calculate, calculator
+cancellation: cancel
+cane: sugarcane
+catalyst: catalyze, catalytic
+cruelty: cruel, cruelly
+designation: designate, designated
+dev: developer, development
+dice: die
+dispatch: dispatcher
+duchess: duke, duchy
+extinction: extinct
+geology: geologist, geological
+gram: kilogram, milligram
+half-hearted: half-heartedly, wholehearted
+heath: heather
+heavenly: heaven
+horrific: horror, horrify, horrible
+insect: insecticide
+light-hearted: light-heartedly
+logging: log, logger
+mentality: mental, mentally
+metre: kilometre, centimetre, metric
+neural: neuron, neurology
+newsletter: news, letter
+nineteenth: nineteen
+payroll: pay
+phenomenal: phenomenon, phenomenally
+photographic: photograph, photography, photographer
+predictable: predict, prediction, unpredictable
+professionally: profession, professional
+queer: queerness
+reckon: reckoning
+restriction: restrict, restrictive, restricted, unrestricted
+resurrection: resurrect
+rover: rove
+shipment: ship, shipping
+slut: slutty
+spatial: space, spatially
+stainless: stain
+statutory: statute
+stellar: interstellar
+stubborn: stubbornly, stubbornness
+syrup: syrupy
+tightly: tight, tighten, tightness
+transplant: transplantation
+twitch: twitchy
+unusually: unusual, usual, usually
+username: user
+volcano: volcanic
+ROM: CD-ROM
+armour: armoured, armoury
+attach: attached, attachment, detach
+bind: binding, binder, bound
+boiling: boil, boiler
+bum: bummer
+butcher: butchery
+chandler: chandlery
+conception: conceive, concept, misconception
+disciplinary: discipline, interdisciplinary
+eighty: eight, eightieth
+eligibility: eligible, ineligible
+endorsement: endorse
+finite: infinite, infinity
+flagship: flag, ship
+forensic: forensics
+forthcoming: forth, coming
+glowing: glow, glowingly
+gore: gory
+govt: government
+gown: nightgown, dressing gown
+greedy: greed, greedily, greediness
+ideally: ideal, idealism, idealistic
+infamous: infamy, famous
+inspirational: inspire, inspiration, inspiring
+internally: internal, external
+lateral: laterally, bilateral, unilateral
+lib: liberation, liberal
+lifelong: life, long
+limestone: lime, stone
+liner: line, lining, eyeliner
+maths: mathematics, mathematical, mathematician
+merge: merger
+migrant: migrate, migration, immigrant, emigrant
+moron: moronic
+naive: naivety, naively
+noticeable: notice, noticeably, unnoticed
+perfume: perfumed
+pleasing: please, pleasure, pleasant
+prestige: prestigious
+pyramid: pyramidal
+relevance: relevant, irrelevant, irrelevance
+remotely: remote, remoteness
+retailer: retail
+rigid: rigidity, rigidly
+screenshot: screen, shot
+selfie: self
+shattered: shatter, shattering
+spacecraft: space, spaceship
+specification: specify, specific, specifically
+splendid: splendour, splendidly
+telescope: telescopic
+temp: temporary
+textile: texture
+thickness: thick, thicken, thickly
+tray: ashtray
+unreasonable: reasonable, unreasonably, reason
+unsure: sure
+upwards: upward, downwards
+utilize: utilization, utility
+valuation: value, valuable, evaluation
+veterinary: veterinarian, vet
+violate: violation, violator
+vivid: vividly, vividness
+Scots: Scotland, Scottish, Scot
+allocation: allocate
+amusement: amuse, amusing, amused
+anticipation: anticipate, anticipated
+appropriately: appropriate, inappropriate, inappropriately
+arrogant: arrogance, arrogantly
+authorization: authorize, authority, unauthorized
+baggage: bag, luggage
+bounty: bountiful
+boxer: box, boxing, boxers
+briefing: brief, debriefing
+ceramic: ceramics
+challenger: challenge, challenging
+clergy: clergyman, cleric, clerical
+coma: comatose
+comfortably: comfort, comfortable, uncomfortable
+contempt: contemptuous, contemptible
+credentials: credential, credible
+disappearance: disappear, appear, appearance
+dwelling: dwell, dweller
+ecology: ecological, ecologist, ecosystem
+emergence: emerge, emerging, emergent
+endurance: endure, enduring
+erotic: erotica, eroticism
+evacuation: evacuate, evacuee
+exceptionally: exception, exceptional, except
+expenditure: expend, expense, expensive
+falcon: falconry, falconer
+folder: fold
+frightened: frighten, fright, frightening
+groove: groovy
+hedge: hedgehog, hedging
+homosexuality: homosexual, heterosexuality, sexuality
+initiate: initiative, initiation, initial
+ironically: irony, ironic
+jealousy: jealous, jealously
+jewellery: jewel, jeweller
+joker: joke, jokingly
+laden: load
+mil: million
+notebook: note, book
+offline: online
+overweight: weight, underweight
+policeman: police, policewoman, police officer
+potent: potency, impotent, potential
+psycho: psychopath, psychotic
+rainy: rain, rainfall, rainbow
+renovation: renovate
+reverend: revere, reverence
+rewarding: reward, unrewarding
+rust: rusty, rustproof
+salty: salt, saltiness
+scrutiny: scrutinize
+seizure: seize
+singular: singularly, singularity, plural
+skate: skating, skater, skateboard
+storyline: story, line
+stud: studded
+sweetheart: sweet, heart
+systemic: system, systematic
+thereof: thereby, therein
+thirsty: thirst
+torch: blowtorch
+turbo: turbine, turbocharged
+unchanged: change, changeable, unchanging
+understandable: understand, understandably, understanding
+upright: uprightness
+uprising: rise, rising
+vain: vanity, vainly
+vanity: vain
+violin: violinist
+whereby: whereas, whereupon
+whisper: whispering
+worthwhile: worth, worthy, worthless
+HQ: headquarters
+KO: knockout
+acceleration: accelerate, accelerator
+aerospace: space
+analog: analogy, analogous
+analytical: analyse, analysis, analyst, analytic
+anticipate: anticipation, anticipated, unanticipated
+asthma: asthmatic
+bacterial: bacteria, bacterium, antibacterial
+bankrupt: bankruptcy, bank
+blink: blinker
+childish: child, childhood, childlike
+coil: coiled, uncoil
+contention: contend, contentious, contender
+devotion: devote, devoted, devotee
+disgrace: disgraceful, disgracefully, disgraced
+ethnicity: ethnic, ethnically
+eventual: eventually
+excel: excellent, excellence, excellently
+firstly: first
+flavour: flavouring, flavourful, flavourless
+flex: flexible, flexibility
+glove: gloved
+greed: greedy, greedily
+greet: greeting
+hose: hosepipe
+imposing: impose, imposition
+inflammation: inflame, inflamed, inflammatory
+magnet: magnetic, magnetism, magnetize
+metaphor: metaphorical, metaphorically
+millionaire: million, billionaire
+notify: notification
+null: nullify
+oriental: orient
+paranoid: paranoia
+patriot: patriotic, patriotism
+patron: patronage, patronize, patronizing
+quantitative: quantity, quantify, quantitatively
+regain: gain
+renew: renewal, renewable, renewed
+resemble: resemblance
+retarded: retard, retardation
+revolt: revolting, revolution
+rightly: right
+rumor: rumored
+schooling: school
+shrine: enshrine
+shrink: shrinkage, shrunken
+sniper: snipe
+solitary: solitude
+sorrow: sorrowful
+stoke: stoked
+termination: terminate, terminal
+thrive: thriving
+troll: trolling
+undertake: undertaking, undertaker
+unpaid: pay, paid
+unsuccessful: successful, unsuccessfully, success
+vest: vested
+vine: vineyard
+warranty: warrant
+almighty: mighty
+arbitration: arbitrate, arbitrator
+atom: atomic
+bilateral: bilaterally, unilateral, multilateral
+bleed: blood, bleeding, bloody
+brace: bracelet, bracing
+choke: choking
+classy: class
+condemn: condemnation, condemned
+confrontation: confront, confrontational
+contributor: contribute, contribution
+devastated: devastate, devastating, devastation
+disguise: disguised
+dismissal: dismiss, dismissive
+downstairs: upstairs, stairs
+empathy: empathize, empathetic, empathic
+feasible: feasibility, unfeasible
+grease: greasy
+hallway: hall
+homosexual: homosexuality, heterosexual, sexual
+hulk: hulking
+hydraulic: hydraulics
+impulse: impulsive, impulsively
+incapable: capable, capability, incapacity
+inflammatory: inflame, inflammation
+insanity: insane, sanity, insanely
+insecure: insecurity, secure, security
+integrate: integration, integrated, integral
+intentional: intention, intentionally, unintentional
+knot: knotted, knotty
+lecturer: lecture
+lust: lustful
+mayo: mayonnaise
+microphone: mic
+miniature: miniaturize
+nationality: nation, national, nationalism
+occupational: occupation, occupy
+perceive: perception, perceptive, perceived
+persecution: persecute, persecutor
+petrol: petroleum
+philosopher: philosophy, philosophical
+pixel: pixelated
+plantation: plant
+presently: present
+prose: prosaic
+prostitution: prostitute
+radioactive: radioactivity, radiation
+realization: realize, real, reality
+reconciliation: reconcile
+sponsorship: sponsor
+steer: steering
+strive: strife
+sunglasses: sun, glasses
+temptation: tempt, tempting
+thrill: thrilled, thrilling, thriller
+tile: tiled
+tow: tow truck
+trusting: trust, trustworthy
+unarmed: armed, arms
+undertaking: undertake
+unfinished: finish, finished
+unhealthy: healthy, health, unhealthily
+unlawful: lawful, law, unlawfully
+unpopular: popular, popularity, unpopularity
+verb: verbal, adverb
+volatile: volatility
+voluntarily: voluntary, volunteer, involuntary
+Capt: captain
+abnormal: normal, abnormality, abnormally
+accuse: accusation, accused, accuser
+ample: amply
+analogy: analogous
+apocalypse: apocalyptic
+backward: backwards, forward
+beck: beckon
+blogging: blog, blogger
+boiler: boil
+boulder: bouldering
+coating: coat
+consolidation: consolidate
+continuation: continue, continuous, continual
+cork: corkscrew
+cosmetic: cosmetics
+cubic: cube
+dept: department
+detector: detect, detection, detective
+digest: digestion, digestive, indigestion
+diplomacy: diplomat, diplomatic
+directive: direct, direction, director
+disadvantage: advantage, disadvantaged, disadvantageous
+disruption: disrupt, disruptive
+distract: distraction, distracted, distracting
+downward: downwards, upward
+ebook: book
+eco: ecology, ecological
+energetic: energy, energize, energetically
+fest: festival
+funk: funky
+greatness: great, greatly
+hazardous: hazard
+hopeless: hope, hopelessly, hopelessness, hopeful
+hourly: hour
+illustrate: illustration, illustrator, illustrative
+indirectly: indirect, direct, directly
+induction: induce, inductive
+instability: stability, unstable, stable
+limitation: limit, limited, unlimited
+linguistic: linguistics, linguist, linguistically
+litter: litterbug
+lump: lumpy
+macro: macroeconomics
+marginal: margin, marginally, marginalize
+masculine: masculinity, feminine
+milestone: mile, stone
+mug: mugger, mugging, mugshot
+municipality: municipal
+ninety: nine, ninetieth, nineties
+observatory: observe, observation, observer
+outdoors: outdoor, indoors
+pedestrian: pedestrianize
+penetration: penetrate, penetrating
+predator: predatory, prey
+preferably: prefer, preferable, preference
+prophecy: prophet, prophesy, prophetic
+proudly: proud, pride
+recorder: record, recording
+relaxation: relax, relaxed, relaxing
+respectable: respect, respectability, respectful
+respectful: respect, respectfully, disrespectful
+roma: Romani
+routinely: routine
+salute: salutation
+scum: scumbag
+serbia: Serbian
+severity: severe, severely
+shady: shade, shadow
+slack: slacker, slacken, slacks
+slick: slickly
+spontaneous: spontaneously, spontaneity
+sticker: stick, sticky
+stove: stovetop
+tactic: tactics, tactical, tactically
+texting: text, texter
+theorem: theory
+tribune: tribunal
+unexpectedly: unexpected, expect, expectation
+upward: upwards, downward
+volcanic: volcano
+wildly: wild, wildness
+adore: adorable, adoration, adoring
+akin: kin
+alphabet: alphabetical, alphabetically
+appoint: appointment, appointee, disappoint
+apprentice: apprenticeship
+baseline: base, line
+beware: aware, wary
+bisexual: bisexuality, sexual, homosexual, heterosexual
+captive: captivity, captor, capture, captivate
+chronicle: chronicler, chronological
+comprehend: comprehension, comprehensible, incomprehensible, comprehensive
+compulsory: compulsion, compel, compulsive
+confederate: confederation, confederacy
+contamination: contaminate, contaminant, contaminated
+crisp: crispy, crisply
+crust: crusty
+cutter: cut, cutting
+daring: dare, daringly
+delegate: delegation
+deploy: deployment
+dietary: diet
+domination: dominate, dominant, dominance
+emission: emit
+flora: floral, fauna
+folding: fold, folder
+fracture: fractured
+functionality: function, functional
+gaze: stargazing
+genome: gene, genetic, genomic
+grape: grapevine, grapefruit
+gravel: gravelly
+haircut: hair, hairdresser
+haired: hair, hairy
+highland: highlander, lowland
+hustle: hustler
+idle: idly, idleness
+indictment: indict
+insulting: insult, insulted
+irregular: regular, irregularly, irregularity
+juicy: juice
+jumper: jump
+manually: manual
+meaningless: meaning, meaningful, mean
+millennium: millennial
+misunderstanding: misunderstand, understand, understanding
+moody: mood, moodiness
+offender: offend, offence, offensive
+overlap: overlapping
+peek: peekaboo
+pentagon: pentagonal
+pottery: potter, pot
+prank: prankster
+premature: prematurely, mature
+psychiatrist: psychiatry, psychiatric
+quad: quadrangle, quadruplet
+residency: resident, residence, residential
+responsive: respond, response, responsiveness, unresponsive
+roar: roaring
+rot: rotten
+songwriter: song, writer, songwriting
+spear: spearhead
+stain: stained, stainless
+stimulation: stimulate, stimulus, stimulating
+stylish: style, stylishly
+technician: technical, technique, technology
+tidal: tide
+transcript: transcribe, transcription
+trousers: trouser
+unwilling: willing, unwillingly, unwillingness
+validity: valid, validate, invalid
+varsity: university
+verification: verify, verifiable
+vulnerability: vulnerable, invulnerable
+whichever: which, whatever, whoever
+wrath: wrathful
+Scotch: Scottish, Scot, Scotland
+accomplishment: accomplish, accomplished
+aide: aid
+apt: aptly, aptitude
+blaze: blazing, blazer
+broadband: broad, band
+bumper: bump
+chalk: chalkboard, chalky
+chilling: chill, chilly
+coaster: coast
+constituency: constituent
+contingent: contingency
+costing: cost
+councillor: council
+diplomat: diplomacy, diplomatic
+eldest: elder, old
+emphasize: emphasis, emphatic
+entirety: entire, entirely
+fallout: fall
+feather: feathered, feathery
+firearm: fire, arms
+footballer: football
+forestry: forest, forester
+grim: grimly
+helpless: help, helplessly, helplessness, helpful
+hemisphere: sphere, hemispheric
+hyper: hyperactive
+inconvenience: convenience, inconvenient, convenient
+intriguing: intrigue, intrigued
+invasive: invade, invasion, invader
+irrigation: irrigate
+lastly: last, firstly
+lipstick: lip, stick
+manipulate: manipulation, manipulative, manipulator
+moist: moisture, moisten, moisturizer, moistness
+monarch: monarchy, monarchist, monarchical
+mourning: mourn, mourner, mournful
+negatively: negative, negativity, negate
+neighbour: neighbourhood, neighbouring, neighbourly
+persona: personal, personality
+poetic: poet, poetry, poem, poetically
+preach: preacher, preachy
+purity: pure, purify, purely, impurity
+rabbi: rabbinical
+realism: real, realist, realistic, realistically
+retrieve: retrieval, retriever, retrievable
+scrub: scrubber, scrubby
+sewing: sew
+shin: shinbone
+solicitor: solicit, solicitation
+sophomore: sophomoric
+squadron: squad
+stigma: stigmatize, stigmatization
+takeover: take
+tinder: tinderbox
+traitor: treason, traitorous
+troop: trooper
+underestimate: estimate, overestimate, underestimation
+wallpaper: wall, paper
+watt: wattage, kilowatt, megawatt
+willow: willowy
+RNA: DNA
+addict: addiction, addicted, addictive
+ale: alehouse
+archaeological: archaeology, archaeologist
+betrayal: betray, betrayer
+cardiovascular: vascular, cardiac
+chic: chicly
+clone: cloning
+communal: community, commune, communally
+countdown: count
+defect: defective, defection, defector
+disastrous: disaster, disastrously
+drown: drowning
+drummer: drum, drumstick
+durable: durability, duration, endure
+efficacy: efficacious
+exaggerated: exaggerate, exaggeration
+exclusion: exclude, exclusive, exclusively
+freelance: freelancer
+greeting: greet, greeter
+honeymoon: honeymooner, honey
+ignition: ignite, igniter
+investigative: investigate, investigation, investigator
+jewel: jewellery, jeweller, jewelled
+manifest: manifestation, manifesto, manifestly
+mutually: mutual
+navigate: navigation, navigator, navigable
+obese: obesity
+outreach: reach
+pike: turnpike
+piper: pipe, bagpipes
+preacher: preach, preachy
+procurement: procure
+protector: protect, protection, protective
+pulp: pulpy
+ransom: ransomware
+rehearsal: rehearse
+reinforce: reinforcement, force
+restart: start
+revive: revival
+rigorous: rigour, rigorously
+ringing: ring
+scenery: scene, scenic
+sensory: sense, sensor, sensation
+skeptical: skeptic, skepticism, skeptically
+sleepy: sleep, sleepiness, sleepily
+smoothly: smooth, smoothness
+staple: stapler
+stirring: stir
+strand: stranded
+suppression: suppress, suppressant
+suspend: suspension, suspense, suspended
+swelling: swell, swollen
+terminology: term, terminological
+theatrical: theatre, theatrically, theatricality
+timer: time, timing
+trustee: trust, trusteeship
+turnout: turn
+unanimous: unanimously, unanimity
+unpredictable: predict, predictable, unpredictability
+validation: valid, validate, validity
+vengeance: avenge, revenge, vengeful
+visually: visual, vision, visualize
+activism: active, activist
+airborne: air
+astonishing: astonish, astonishment, astonished, astonishingly
+bakery: bake, baker, baking
+believer: believe, belief, unbeliever
+caffeine: decaffeinated, caffeinated
+chaotic: chaos, chaotically
+cite: citation
+commentator: comment, commentary, commentate
+commercially: commerce, commercial, commercialize
+confuse: confusion, confused, confusing
+coward: cowardly, cowardice
+dammit: damn
+depart: departure, departed
+disappoint: disappointed, disappointing, disappointment
+dove: dovish
+dusty: dust, duster
+enlightenment: enlighten, enlightened, enlightening
+fibre: fibrous, fibreglass
+fixture: fix, fixed
+focal: focus
+frightening: fright, frighten, frightened, frighteningly
+fucker: fuck, fucking
+gladly: glad, gladness
+goodwill: good, will
+govern: government, governor, governance, governing
+gradual: gradually, grade
+groceries: grocery, grocer
+hacker: hack, hacking
+hard-boiled: soft-boiled
+hashtag: hash, tag
+heartbeat: heart, beat
+honourable: honour, honourably, dishonourable
+imminent: imminently, imminence
+inaugural: inaugurate, inauguration
+insulation: insulate, insulator, insulated
+intern: internship, internment
+irresponsible: responsible, responsibility, irresponsibility
+lag: jet lag, laggard
+locality: local, locally, locale
+lure: alluring
+malicious: malice, maliciously
+mist: misty
+mole: molehill
+molecule: molecular
+monarchy: monarch, monarchist
+muscular: muscle, musculature
+neutrality: neutral, neutralize
+noisy: noise, noisily
+orgasm: orgasmic
+peculiar: peculiarity, peculiarly
+proprietary: proprietor
+rant: ranting
+rash: rashly, rashness
+replica: replicate, replication
+reside: resident, residence, residential
+ripe: ripen, ripeness, unripe
+riverside: river
+sane: sanity, insane, insanity
+savior: save, salvation
+scenic: scene, scenery
+statistically: statistic, statistical, statistician, statistics
+stimulate: stimulus, stimulation, stimulating, stimulant
+strangely: strange, stranger, strangeness
+susceptible: susceptibility
+translator: translate, translation
+transmit: transmission, transmitter
+tutor: tutorial, tutoring
+unsafe: safe, safety
+vibrant: vibrancy, vibrantly
+wander: wanderer, wandering
+yeast: yeasty
+absorption: absorb, absorbent, absorbing
+accelerate: acceleration, accelerator
+advertise: advertisement, advertising, advertiser
+apologise: apology, apologetic, apologetically
+assassin: assassinate, assassination
+assign: assignment, reassign
+bbq: barbecue
+brewery: brew, brewer, brewing
+bulb: lightbulb, bulbous
+casually: casual, casualness
+chartered: charter
+chew: chewy, chewing gum
+circumstance: circumstantial
+congestion: congested
+crossover: cross over
+crunch: crunchy, crunching
+dependence: depend, dependent, dependency, independence
+dictator: dictate, dictatorship, dictatorial
+dire: direly
+disagreement: disagree, agreement, disagreeable
+disregard: regard
+distributor: distribute, distribution
+dominion: dominate, domination
+downhill: uphill
+dreadful: dread, dreadfully
+drunken: drunk, drunkenness, drunkenly
+earnest: earnestly, earnestness
+erase: eraser, erasure
+extinct: extinction
+forbid: forbidden, forbidding
+freezer: freeze, frozen
+genetically: gene, genetic, genetics
+hare: harebell
+herein: hereby, herewith
+honorary: honor, honour, honorable
+immature: mature, immaturity
+imperative: imperatively
+ineffective: effective, ineffectively, ineffectiveness
+knit: knitting, knitwear, knitter
+manly: man, manliness
+maternity: maternal, paternity
+misconduct: conduct
+mute: muted, mutely
+needless: need, needlessly
+nerd: nerdy
+novelty: novel
+optimism: optimist, optimistic, optimistically
+optimization: optimize, optimal, optimum
+outdated: date, up-to-date
+oxide: oxygen, oxidize, oxidation
+pence: penny
+peripheral: periphery
+poop: pooped
+pornography: porn, pornographic
+prevalence: prevalent, prevail
+proceeding: proceed, procedure, proceeds
+pronounce: pronunciation, pronounced, pronouncement
+provisional: provision, provisionally
+remark: remarkable, remarkably
+repay: pay, repayment
+saturated: saturate, saturation, unsaturated
+softball: baseball
+southeastern: southeast, southeastward
+spur: spurred
+storytelling: story, storyteller
+stupidity: stupid, stupidly
+suppress: suppression, suppressant
+tangible: intangible, tangibly
+trivial: trivia, triviality, trivialize
+unofficial: official, unofficially
+veil: veiled, unveil
+versatile: versatility
+wed: wedding, newlywed
+anthropology: anthropologist, anthropological
+artery: arterial
+blackberry: berry
+booze: boozy, boozer
+cellphone: cell, phone
+courtyard: court, yard
+crest: crested
+dang: darn
+deception: deceive, deceptive, deceit
+decor: decorate, decoration
+derivative: derive, derivation
+discomfort: comfort, comfortable
+drastically: drastic
+driveway: drive, way
+duel: dueling, duelling
+evenly: even, uneven, unevenly
+exemption: exempt
+fashionable: fashion, fashionably, unfashionable
+fetch: fetching
+formidable: formidably
+furnished: furnish, furniture, unfurnished
+fuzzy: fuzz, fuzziness
+gothic: goth
+helm: helmsman
+hugely: huge
+hypocrisy: hypocrite, hypocritical
+inaccurate: accurate, inaccuracy, inaccurately
+incompetent: competent, incompetence
+indefinitely: indefinite, definite, definitely
+intervene: intervention, intervening
+kin: kinship, kinsman
+loneliness: lonely, lone
+malaria: malarial
+manifesto: manifest
+masked: mask, unmask
+monastery: monk, monastic
+narrowly: narrow
+negligence: negligent, neglect
+nightclub: club, clubbing
+numerical: number, numeric, numerically
+obsolete: obsolescence, obsolescent
+optic: optical, optics, optician
+posture: postural
+preseason: season
+refresh: refreshing, refreshment, refresher
+resonance: resonate, resonant
+ruthless: ruthlessly, ruthlessness
+salvage: salvageable
+satire: satirical, satirist, satirize
+seafood: sea, food
+slash: backslash
+spaghetti: pasta
+speedy: speed, speedily
+standpoint: viewpoint
+terminate: termination, terminal
+unconstitutional: constitution, constitutional
+vacancy: vacant
+vocational: vocation
+withstand: stand
+woodland: wood, woods
+accustomed: accustom, custom, unaccustomed
+adequately: adequate, inadequate
+amazingly: amaze, amazing, amazement
+applicant: apply, application
+approximate: approximately, approximation
+assemble: assembly, disassemble
+breakup: break up
+brew: brewery, brewer
+charger: charge
+checkout: check, check out
+chunk: chunky
+coca: cocaine
+cocoa: cacao
+compartment: compartmentalize
+corpus: corpora
+cozy: coziness
+culturally: culture, cultural
+deficiency: deficient, deficit
+deserted: desert
+dictatorship: dictator, dictatorial, dictate
+disrespectful: disrespect, disrespectfully, respectful
+dread: dreadful, dreadfully, dreaded
+dub: dubbing
+electorate: elect, election, elector, electoral
+erosion: erode, erosive
+expo: exposition
+flare: flare-up, flared
+flare-up: flare
+incidence: incident, incidental, incidentally
+intimacy: intimate, intimately
+kitten: kitty
+lender: lend, lending
+lever: leverage
+mileage: mile
+multiplayer: player
+mutant: mutate, mutation
+mutation: mutate, mutant
+mythology: myth, mythological, mythical
+northeastern: northeast
+nun: nunnery
+nutritional: nutrition, nutrient, nutritious, nutritionist
+pest: pesticide
+plausible: plausibility, implausible, plausibly
+precipitation: precipitate
+pup: puppy
+rapids: rapid
+restraint: restrain, restrained, unrestrained
+salesman: sales, salesperson, saleswoman, salesmanship
+sewer: sewage, sewerage
+southwestern: southwest
+spokesperson: spokesman, spokeswoman
+sultan: sultanate
+supremacy: supreme, supremacist
+swell: swelling, swollen
+symptom: symptomatic
+theoretically: theory, theoretical, theorist
+thirst: thirsty
+transitional: transition
+unused: use, used
+viewpoint: view
+Buddhism: Buddhist, Buddha
+accessory: access
+affiliation: affiliate, affiliated
+aggressively: aggressive, aggression, aggressor
+air-conditioned: air conditioning, air conditioner
+align: alignment
+assertion: assert, assertive
+astronomy: astronomer, astronomical
+autobiography: autobiographical, biography
+broadcaster: broadcast, broadcasting
+coherent: coherence, incoherent, coherently
+comfy: comfortable
+condo: condominium
+criticize: critic, criticism, critical
+crooked: crook
+cultivation: cultivate, cultivated
+displacement: displace, displaced
+disrespect: respect, disrespectful
+drastic: drastically
+edible: inedible
+endorse: endorsement
+enhancement: enhance
+funky: funk
+gigantic: giant
+groom: bridegroom, grooming
+guitarist: guitar
+hydro: hydroelectric
+inactive: active, inactivity
+inspect: inspection, inspector
+leftist: left
+legitimacy: legitimate, illegitimate
+lyric: lyrics, lyrical, lyricist
+maximize: maximum, maximal
+morally: moral, morality, immoral
+paradox: paradoxical, paradoxically
+peacefully: peace, peaceful
+periodic: period, periodically, periodical
+plead: plea, pleading
+portray: portrait, portrayal
+practitioner: practice, practise, practical
+reconsider: consider, reconsideration
+reproduce: reproduction, reproductive
+rite: ritual
+scorer: score
+shareholder: share
+sis: sister
+soy: soybean
+subdivision: subdivide, division
+tracker: track
+unavailable: available, availability
+universally: universal, universe
+unlucky: luck, lucky, unluckily
+uv: ultraviolet
+warp: warped
+ambient: ambience
+aquatic: aquatics
+argentine: Argentina, Argentinian
+assert: assertion, assertive, assertiveness
+atheist: atheism, atheistic
+bipolar: polar
+computational: compute, computation, computer
+conceptual: concept, conception, conceptually
+damp: dampen, dampness
+demolition: demolish
+differentiate: different, difference, differentiation
+dim: dimly, dimmer
+downstream: upstream
+empirical: empirically, empiricism
+faulty: fault, faultless
+fertile: fertility, fertilizer, fertilize, infertile
+filmmaker: film, filmmaking
+fuse: fusion
+fuss: fussy
+gamer: game, gaming
+generosity: generous, generously
+gluten: gluten-free
+humane: humanely, inhumane, humanity
+lawful: law, unlawful, lawfully
+loosely: loose, loosen
+metabolic: metabolism, metabolize
+midfield: midfielder
+militant: militancy, militantly, military, militia
+nostalgia: nostalgic, nostalgically
+paddy: paddy field
+paperback: hardback, paper
+peasant: peasantry
+pointer: point, pointless, pointed
+presume: presumably, presumption, presumptuous, presumed
+rapist: rape
+rectangular: rectangle
+regulator: regulate, regulation, regulatory, deregulate
+sabotage: saboteur
+sarcasm: sarcastic, sarcastically
+sexist: sexism
+shaving: shave, shaver
+shutdown: shut, shut down
+stir-fry: stir, fry
+unanimously: unanimous, unanimity
+undefeated: defeat, defeated
+unfamiliar: familiar, familiarity, unfamiliarity
+vastly: vast, vastness
+vile: vilify, vileness
+violently: violent, violence, nonviolent
+wedge: wedged
+wisely: wise, wisdom, unwisely
+adaptive: adapt, adaptation, adaptable, adapter
+addictive: addict, addiction, addicted
+arthritis: arthritic
+ay: aye
+bale: baler
+caller: call
+casualty: casual
+cavity: cave
+chap: chapped
+comforting: comfort, comfortable, comfortingly
+courthouse: court
+crank: cranky, crankshaft
+cv: curriculum vitae
+darn: darned, darning
+disgust: disgusting, disgusted, disgustingly
+dissolution: dissolve
+disturbance: disturb, disturbing, disturbed
+enclosure: enclose, enclosed
+evangelical: evangelist, evangelism
+exquisite: exquisitely
+factual: fact, factually
+falsely: false, falsehood, falsify
+famine: famished
+fraudulent: fraud, fraudulently, fraudster
+freshly: fresh, freshness, refresh
+geek: geeky
+granny: grandmother, grandma
+handicap: handicapped
+hostility: hostile
+hymn: hymnal
+hypothetical: hypothesis, hypothetically, hypothesize
+informative: inform, information, informant
+infringement: infringe
+internship: intern
+interrupt: interruption, uninterrupted
+invade: invasion, invader, invasive
+irritating: irritate, irritation, irritated, irritable
+knockout: knock, knock out
+lookout: look, look out
+misunderstood: misunderstand, misunderstanding, understood
+moonlight: moonlit, moonlighting, moon
+motel: hotel
+motherfucker: motherfucking
+noun: pronoun
+novelist: novel
+onwards: onward
+overthrow: throw
+paradigm: paradigmatic
+pavement: pave, paved
+payday: pay, payment
+perpetual: perpetually, perpetuate
+physiology: physiological, physiologist
+playlist: play, list
+premiership: premier
+proliferation: proliferate, prolific
+pseudo: pseudonym
+refrigerator: fridge, refrigerate, refrigeration
+regeneration: regenerate, generation, regenerative
+remembrance: remember
+reminiscent: reminisce, reminiscence
+resentment: resent, resentful
+resin: rosin
+rotary: rotate, rotation
+rusty: rust
+scarce: scarcely, scarcity
+simulator: simulate, simulation
+slippery: slip, slipper
+soak: soaked, soaking
+spectacle: spectacular, spectator, spectacles
+stint: unstinting
+storey: multistorey
+suicidal: suicide
+tailor: tailored, tailor-made
+tailor-made: tailor, tailored
+thrilling: thrill, thriller, thrilled
+unidentified: identify, identification, identity
+unrest: rest, restless
+unseen: see, seen
+utmost: uttermost
+waiter: waitress, wait
+weary: wearily, weariness, wearisome
+willy: willies
+accusation: accuse, accused, accuser
+adapter: adapt, adaptation, adaptive
+adjustable: adjust, adjustment
+adulthood: adult
+agony: agonize, agonizing
+allergy: allergic, allergen
+astronaut: astronomy, astronautics
+attain: attainment, attainable, unattainable
+attendant: attend, attendance, attention
+authenticity: authentic, authenticate
+backstage: stage, backstage pass
+benchmark: benchmarking
+binge: binge-watch, binge drinking
+bouncing: bounce, bouncy, bouncer
+breaker: break, circuit breaker, icebreaker
+breathtaking: breath, breathtakingly
+brutality: brutal, brutally, brute
+calculus: calculate, calculation
+careless: care, carelessly, carelessness, careful
+cerebral: cerebrum
+chant: chanting
+cheerful: cheer, cheerfully, cheerfulness, cheery
+cinematic: cinema, cinematography
+climax: climactic, anticlimax
+colon: semicolon
+consul: consulate, consular
+contender: contend, contention
+crypto: cryptocurrency, cryptography
+cultivated: cultivate, cultivation, culture
+curly: curl
+degradation: degrade, degrading
+equilibrium: equal
+evidently: evident, evidence
+famed: fame, famous
+fetus: fetal
+flaw: flawed, flawless
+flawless: flaw, flawlessly, flawed
+grad: graduate, graduation
+granddaughter: grandson, grandchild, daughter
+gymnastics: gymnast, gymnastic, gym
+hereby: hereafter, herein, thereby
+humorous: humor, humorously, humorist
+indoors: indoor, outdoors
+interestingly: interest, interesting, interested
+isolate: isolated, isolation
+motivate: motivation, motivated, motivational, motive, motivator
+muddy: mud
+mystic: mystical, mysticism, mystery, mystify
+nominal: nominally, nominate, nomination
+non-proliferation: proliferation, proliferate
+pairing: pair
+poke: poker, pokey
+presbyterian: presbyterianism
+prick: prickly, prickle
+prolific: prolifically, proliferate
+proportional: proportion, proportionally, proportionate, disproportionate
+prosperous: prosper, prosperity
+quarry: quarrying
+referral: refer, reference
+repost: post
+restless: rest, restlessly, restlessness
+rugged: ruggedly, ruggedness
+sap: sappy
+sarcastic: sarcasm, sarcastically
+scholarly: scholar, scholarship
+segregation: segregate, segregated, desegregation
+sheikh: sheikhdom
+strait: straitjacket, strait-laced
+ventilation: ventilate, ventilator
+weaver: weave, weaving
+abide: abiding, law-abiding, abode
+accumulation: accumulate, accumulative
+admiration: admire, admirer, admirable, admiring
+aesthetics: aesthetic, aesthetically
+attacker: attack
+authoritarian: authority, authoritarianism, authoritative
+avail: available, availability
+barker: bark
+bravery: brave, bravely
+brit: British, Britain
+browse: browser
+brutally: brutal, brutality, brute
+calorie: calorific, low-calorie
+commence: commencement
+compatibility: compatible, incompatible, incompatibility
+conditional: condition, conditionally, unconditional
+congratulate: congratulations, congratulatory
+cortex: cortical
+courageous: courage, courageously
+crusade: crusader
+cynical: cynic, cynicism, cynically
+disrupt: disruption, disruptive
+duplicate: duplication
+economical: economy, economically, economic, economize
+elastic: elasticity
+exposition: expose, expository, expo
+fetish: fetishism, fetishize
+fluffy: fluff
+fundamentals: fundamental, fundamentally, fundamentalist
+fundraiser: fundraising, fund, raise
+geometric: geometry, geometrical, geometrically
+gracious: grace, graciously, graciousness, ungracious
+hum: humming
+humility: humble, humbly
+impeachment: impeach
+inherently: inherent
+inventor: invent, invention, inventive
+librarian: library
+lumber: lumberjack, lumbering
+madam: madame, ma'am
+meds: medication, medicine, medical
+multitude: multitudinous
+muse: musing, amuse
+nineteen: nineteenth, nine
+nucleus: nuclear, nuclei
+orbital: orbit
+organism: organic, microorganism, organ
+outgoing: outgoings
+overhaul: haul
+patriotism: patriot, patriotic
+periodically: period, periodic, periodical
+readiness: ready, readily
+redundant: redundancy
+resemblance: resemble
+rib: ribcage, ribbed
+sloppy: sloppily, slop
+societal: society, social
+spec: specification, specs, specify
+sponge: spongy, sponger
+sucker: suck
+superiority: superior
+surreal: surrealism, surrealist
+tease: teaser, teasing
+transmitter: transmit, transmission
+unreal: real, unrealistic, reality
+vaccination: vaccine, vaccinate
+vibration: vibrate, vibrant, vibe
+wartime: war
+wicket: wicketkeeper
+Judaism: Jew, Jewish, Judaic
+Saxon: Anglo-Saxon
+Semitic: anti-Semitic, anti-Semitism, Semite
+abdominal: abdomen, abs
+adolescent: adolescence
+announcer: announce, announcement
+backdrop: back, drop
+blackout: black out
+bluff: bluffer
+catastrophic: catastrophe, catastrophically
+charcoal: coal
+cheesy: cheese
+citrus: citric
+clad: cladding
+coded: code, decode, encode
+columnist: column
+competence: competent, competency, incompetence
+constituent: constituency, constitute
+contagious: contagion
+conveniently: convenient, convenience, inconvenient
+courtroom: court
+cushion: cushioning
+cyclist: cycle, cycling
+dictate: dictation, dictator, dictatorship
+dorm: dormitory
+drip: dripping, drippy
+duct: ductwork
+eccentric: eccentricity
+electro: electronic, electric
+electromagnetic: electromagnetism, electromagnet
+emblem: emblematic
+fascism: fascist, fascistic
+fearful: fear, fearfully, fearless
+festive: festival, festivity
+flyer: fly, flight
+foreman: forewoman
+glacier: glacial
+high-flyer: high-flying
+improper: proper, improperly, impropriety
+installment: install, installation
+liaison: liaise
+miner: mine, mining, mineral
+needy: need
+optics: optic, optical, optician
+orphan: orphanage, orphaned
+pineapple: pine, apple
+potassium: potash
+priceless: price, pricey
+prostitute: prostitution
+reflective: reflect, reflection, reflector
+resilience: resilient
+rotate: rotation, rotary, rotating
+seaside: sea
+silently: silent, silence
+similarity: similar, similarly, dissimilar
+stabbing: stab
+staircase: stair, stairs, stairway
+tang: tangy
+telecom: telecommunications, telecoms
+tolerant: tolerate, tolerance, intolerant
+toxicity: toxic, toxin, detoxify
+trumpet: trumpeter
+tuberculosis: tubercular
+willingly: willing, willingness, unwilling, unwillingly
+wrapping: wrap, wrapper, unwrap
+youthful: youth, youthfulness
+adhere: adherence, adherent, adhesive, adhesion
+affirmative: affirm, affirmation, affirmatively
+ambiguous: ambiguity, ambiguously, unambiguous
+archaeology: archaeologist, archaeological
+arse: arsehole
+blitz: blitzkrieg
+blockade: block
+bosnia: Bosnian
+brightness: bright, brighten, brightly
+calculating: calculate, calculation, calculated
+cashier: cash
+cigar: cigarette
+cloak: cloakroom
+combustion: combustible
+comprehension: comprehend, comprehensible, incomprehensible, comprehensive
+concession: concede
+defective: defect
+deportation: deport, deportee
+deserving: deserve, undeserving, deservedly
+discourage: courage, encourage, discouraged, discouraging, discouragement
+disgusted: disgust, disgusting
+disposable: dispose, disposal
+dumbass: dumb
+dwell: dweller, dwelling
+entrepreneurship: entrepreneur, entrepreneurial
+fiery: fire
+goofy: goof
+handwriting: handwritten
+heartbreaking: heartbreak, heartbroken
+hog: hedgehog
+immensely: immense, immensity
+inauguration: inaugurate, inaugural
+incorrectly: incorrect, correct, correctly
+indicative: indicate, indication, indicator
+inexpensive: expensive, inexpensively
+intercept: interception, interceptor
+intuitive: intuition, intuitively, counterintuitive
+invent: invention, inventor, inventive, reinvent
+jamaican: Jamaica
+jockey: disc jockey
+kenyan: Kenya
+latitude: longitude
+libertarian: liberty, libertarianism
+majestic: majesty, majestically
+mastery: master, masterful
+metropolis: metropolitan
+mummy: mum, mummify
+nominate: nomination, nominee, nominal
+offend: offence, offense, offensive, offender, offended
+organizer: organize, organization, organized
+overdose: dose
+pathology: pathologist, pathological
+piercing: pierce
+poisonous: poison, poisoning
+procession: proceed
+relocation: relocate, location
+rhino: rhinoceros
+sandstone: sand, stone
+sanitation: sanitary, sanitize
+satisfactory: satisfy, satisfaction, unsatisfactory, satisfactorily
+scooter: scoot
+secrecy: secret, secretive, secretly
+shameful: shame, shameless, ashamed
+socio-economic: economic, social
+sweetie: sweet, sweetheart
+swollen: swell, swelling
+traveler: travel, travelling
+unauthorized: authorize, authorization, authority
+undo: undone, undoing
+unnamed: name, named
+upsetting: upset
+venom: venomous
+victorious: victory, victor
+wary: warily, beware, aware
+wellness: well
+windy: wind
+winger: wing
+Mister: Mr
+abdomen: abdominal
+abruptly: abrupt
+amidst: amid, midst
+antarctic: Antarctica, Arctic
+aspiring: aspire, aspiration
+batter: battered, battery
+bedtime: bed, time
+belongings: belong, belonging
+blush: blusher
+booster: boost
+calculator: calculate, calculation
+calmly: calm, calmness
+captivity: captive, capture, captor
+catastrophe: catastrophic
+chemotherapy: chemo, therapy
+commute: commuter
+complementary: complement
+connectivity: connect, connection, connective
+consulate: consul, consular
+contend: contender, contention
+convict: conviction, convicted
+discrete: discretely
+dissent: dissenter, dissident
+disturb: disturbance, disturbing, disturbed, undisturbed
+eminent: eminence, eminently
+encryption: encrypt, decrypt, decryption
+fencing: fence
+flop: floppy
+follower: follow, following
+fraternity: fraternal
+furry: fur
+glitter: glittering
+graveyard: grave, yard
+hardship: hard
+implication: imply, implicate, implicit
+induce: induction, inducement
+insecurity: insecure, security, secure
+interrogation: interrogate, interrogator, interrogative
+irrational: rational, irrationality, irrationally
+managerial: manage, manager, management
+moderately: moderate, moderation
+multimedia: media
+multinational: national, nation
+oddly: odd, oddity
+pagan: paganism
+planetary: planet
+playboy: play, boy
+programmer: program, programming, programme
+promoter: promote, promotion, promotional
+psychiatry: psychiatrist, psychiatric
+pursuant: pursue
+repetitive: repeat, repetition
+reversal: reverse, reversible
+rhyme: rhyming
+rue: rueful
+scanner: scan
+schizophrenia: schizophrenic
+seriousness: serious, seriously
+sparkling: sparkle, spark
+subsidy: subsidize, subsidized
+sup: supper
+superficial: superficially, superficiality
+sweaty: sweat
+tame: untamed
+tanner: tan, tannery
+topping: top
+upstream: downstream, stream
+vapor: evaporate, vaporize, vape
+waitress: waiter, wait
+walnut: nut
+waterfront: water, front
+witty: wit, wittily
+Aussie: Australia, Australian
+acquaintance: acquaint, acquainted
+amend: amendment, amends
+arrogance: arrogant, arrogantly
+baptism: baptize, baptist
+blond: blonde
+blur: blurry, blurred
+blvd: boulevard
+booker: book, booking
+brow: eyebrow, highbrow
+bureaucracy: bureaucrat, bureaucratic
+canton: cantonal
+cater: caterer, catering
+cloudy: cloud
+colourful: colour, colourless
+compassionate: compassion, compassionately
+comrade: comradeship
+convertible: convert, conversion
+cumulative: accumulate, cumulatively
+curator: curate
+desperation: desperate, desperately
+detrimental: detriment
+disposed: dispose, disposition
+distortion: distort, distorted
+doctoral: doctor, doctorate
+edged: edge
+educator: educate, education
+entitlement: entitle, entitled
+fearless: fear, fearlessly
+fragment: fragmented, fragmentation, fragmentary
+fulfil: fulfilment, fulfilling
+gangster: gang
+harassed: harass, harassment
+heater: heat
+hesitation: hesitate, hesitant
+humiliation: humiliate, humiliating
+impairment: impair, impaired
+impatient: patient, impatience, impatiently
+intricate: intricacy, intricately
+lore: folklore
+luxurious: luxury, luxuriously
+mash: mashed
+messiah: messianic
+meteor: meteorite, meteoric
+ministerial: minister, ministry
+mystical: mystic, mystery, mysticism
+obstruction: obstruct, obstructive
+onboard: onboarding
+outsider: outside
+penetrate: penetration, penetrating
+plural: plurality, pluralism
+portrayal: portray, portrait
+prevail: prevailing, prevalent, prevalence
+puff: puffy, puffed
+rag: ragged
+replicate: replication, replica
+retaliation: retaliate, retaliatory
+rooftop: roof
+safeguard: safe, guard
+sewage: sewer
+slang: slangy
+spirited: spirit, high-spirited
+spirituality: spirit, spiritual, spiritually
+spoiler: spoil
+summon: summons
+telegram: telegraph
+turbulence: turbulent
+two-edged: double-edged
+uneven: even, unevenly
+urgency: urgent, urgently
+ware: software, hardware, warehouse
+waterproof: water, waterproofing
+wonderfully: wonder, wonderful
+wording: word
+academia: academic, academy
+accreditation: accredit, accredited
+administer: administration, administrative, administrator
+admittedly: admit, admission
+aforementioned: mention
+algae: alga, algal
+articulate: articulation, inarticulate
+avoidance: avoid, avoidable
+brewer: brew, brewery
+burner: burn
+catcher: catch
+clarification: clarify, clarity
+consolation: console, inconsolable
+covert: covertly
+cringe: cringeworthy, cringey
+dealings: deal, dealer
+descriptive: describe, description
+dialect: dialectal
+downside: upside
+dryer: dry, hairdryer
+empowerment: empower, power
+ethic: ethics, ethical, ethically
+expire: expiry, expiration
+fireplace: fire
+hah: ha
+haunt: haunted, haunting
+homecoming: home
+icy: ice
+indulge: indulgence, indulgent
+inscription: inscribe
+interpreter: interpret, interpretation
+intuition: intuitive, intuitively
+invaluable: value, valuable
+lax: laxity
+menace: menacing
+misuse: use
+mitigate: mitigation, mitigating
+nausea: nauseous, nauseating
+neurological: neurology, neurologist
+optimum: optimal, optimize
+overwhelmingly: overwhelm, overwhelming
+pastoral: pastor
+pea: peanut
+physiological: physiology, physiologically
+pioneering: pioneer
+pre-eminent: pre-eminence, eminent
+prominence: prominent, prominently
+prosecute: prosecution, prosecutor
+quartet: quarter
+radically: radical
+reactive: react, reaction, proactive
+reboot: boot
+restrictive: restrict, restriction
+robotic: robot, robotics
+runaway: run
+screenplay: screenwriter
+sect: sectarian
+seismic: seismology
+seminary: seminarian
+sideways: side
+sighted: sight, short-sighted, long-sighted
+striped: stripe, stripy
+stroll: stroller
+swiftly: swift, swiftness
+transcription: transcribe, transcript
+uniquely: unique, uniqueness
+unrealistic: realistic, unrealistically, realism
+vineyard: vine
+viola: violist
+yummy: yum
+Arabian: Arab, Arabic, Arabia
+alarming: alarm, alarmingly, alarmed
+amused: amuse, amusement, amusing
+booklet: book
+brawl: brawler
+characterization: character, characterize, characteristic
+conform: conformity, conformist, nonconformist
+conversely: converse
+countess: count
+customary: custom, customarily
+devote: devoted, devotion, devotee
+dispose: disposal, disposable, disposition
+distinctly: distinct, distinction, distinctive
+evacuate: evacuation, evacuee
+favourable: favour, favourably, unfavourable
+flourish: flourishing
+fragrance: fragrant
+fungus: fungal, fungi
+gunfire: gun
+heroine: hero, heroic, heroism
+hoax: hoaxer
+impending: impend
+insignificant: significant, significance, insignificance
+insurer: insure, insurance, insured
+knowledgeable: knowledge, knowledgeably
+magician: magic, magical
+maneuver: maneuverable, maneuverability
+marrow: bone marrow
+marvelous: marvel, marvelously
+medicinal: medicine, medical
+mono: mononucleosis
+numb: numbness, numbly
+overlook: overlooked
+pawn: pawnshop, pawnbroker
+pediatric: pediatrician, pediatrics
+persist: persistent, persistence, persistently
+planner: plan, planning
+plaster: plastered, plasterer
+playful: play, playfully, playfulness
+pleading: plead
+quirky: quirk
+rationale: rational
+reap: reaper
+recess: recessed
+redeem: redemption, redeemable
+reformation: reform, reformer
+residue: residual
+rwanda: Rwandan
+semiconductor: conductor
+sentimental: sentiment, sentimentality
+serbian: Serbia, Serb
+short-sighted: short-sightedness
+simultaneous: simultaneously
+snatch: snatcher
+spooky: spook
+staffing: staff
+stealth: stealthy, stealthily
+strained: strain
+subset: set
+suspense: suspend, suspenseful
+swearing: swear
+syntax: syntactic
+tidy: tidily, tidiness, untidy
+timeless: time
+unreliable: reliable, reliability, unreliability
+usable: use, usability
+vulgar: vulgarity
+waiver: waive
+weave: weaver, woven
+wiring: wire
+alleviate: alleviation
+anarchy: anarchist, anarchism, anarchic
+ashore: shore
+beginner: begin, beginning
+bilingual: bilingualism, multilingual
+cherish: cherished
+civilized: civilization, civilize, civil
+comb: honeycomb
+conceal: concealment, concealed
+condemnation: condemn
+cruiser: cruise
+curl: curly, curler
+dart: dartboard
+dependency: depend, dependent, dependence
+dew: dewy, dewdrop
+disable: disabled, disability, enable
+dishonest: honest, dishonesty, dishonestly
+dosage: dose
+doubtful: doubt, doubtless, doubtfully
+dysfunction: dysfunctional, function
+encyclopedia: encyclopedic
+endowment: endow, endowed
+enrichment: enrich, rich
+erect: erection
+erection: erect
+eruption: erupt
+examiner: examine, examination
+fam: family
+feds: federal
+fidelity: infidelity
+finely: fine
+flirt: flirtation, flirtatious, flirty
+fluent: fluency, fluently
+flute: flutist, flautist
+footprint: foot
+fore: forefront, forehead
+forefront: front
+harden: hard, hardened
+hateful: hate, hatred
+haunting: haunt, haunted, hauntingly
+inherit: inheritance, inherited, heir
+initiation: initiate, initiative
+intensely: intense, intensity, intensify
+jeopardy: jeopardize
+listener: listen
+mast: masthead
+mediocre: mediocrity
+outward: outwardly, outwards, inward
+pep: peppy
+piracy: pirate
+practise: practice, practical, practised
+rave: raving
+recreate: recreation
+residual: residue
+robe: bathrobe
+sensational: sensation, sensationalism
+sexism: sexist
+sneaky: sneak, sneakily
+specifics: specific, specify, specifically
+starvation: starve
+starve: starvation, starving
+stricken: strike
+subscriber: subscribe, subscription
+systematically: system, systematic
+tread: treadmill
+tyranny: tyrant, tyrannical
+unfit: fit, fitness
+wonderland: wonder, wonderful
+wrestler: wrestle, wrestling
+Georgian: Georgia
+abolition: abolish, abolitionist
+accessibility: access, accessible, inaccessible
+aloud: loud
+angular: angle, angularity
+appendix: appendicitis, append
+auditorium: audience
+boast: boastful
+brethren: brother
+brink: brinkmanship
+carving: carve, carver
+cheeky: cheek, cheekily, cheekiness
+chemist: chemistry, chemical
+coastline: coast, coastal
+collaborate: collaboration, collaborative, collaborator
+comparatively: comparative, compare, comparison
+cosmos: cosmic, cosmology
+cuff: handcuff, cufflink
+cyclone: cyclonic
+dedicate: dedicated, dedication
+delusional: delusion, delude
+deposition: deposit, depose
+derive: derivation, derivative
+descend: descendant, descent
+diligence: diligent, diligently
+disciplined: discipline, self-disciplined, undisciplined
+discriminate: discrimination, discriminatory
+diversion: divert
+doorway: door
+dumpster: dump
+empower: empowerment, power
+existent: exist, existence, non-existent
+fandom: fan
+glamour: glamorous, glamorize
+incidentally: incident, incidental
+infinitely: infinite, infinity
+influenza: flu
+instructional: instruct, instruction, instructor
+interviewer: interview, interviewee
+introductory: introduce, introduction
+loft: lofty
+massively: massive, mass
+mediation: mediate, mediator
+modular: module, modularity
+nutrient: nutrition, nutritious, nutritional
+oversee: overseer, oversight
+pageant: pageantry
+parachute: parachutist
+parasite: parasitic
+parenthood: parent, parental, parenting
+perennial: perennially
+persistence: persist, persistent, persistently
+postage: post, postal
+preschool: school, preschooler
+procedural: procedure, proceed
+profoundly: profound, profundity
+prohibit: prohibition, prohibitive
+pronunciation: pronounce, mispronunciation
+quotation: quote
+relentless: relent, relentlessly
+repression: repress, repressive
+ridiculously: ridiculous, ridicule
+roaring: roar
+roller-coaster: roller, coaster
+seasoned: season, seasoning
+shootout: shoot
+spectator: spectacle, spectacular
+speculative: speculate, speculation
+stripe: striped, stripy
+symmetry: symmetrical, symmetric, asymmetry
+syndicate: syndication, syndicated
+tighten: tight, tightly, tightening
+trustworthy: trust, untrustworthy
+twelfth: twelve
+ultrasound: sound, ultrasonic
+vascular: cardiovascular
+wholesome: whole
+absorbing: absorb, absorbed, absorption
+allegation: allege, alleged, allegedly
+ancestry: ancestor, ancestral
+annex: annexation
+avid: avidly
+bartender: bar
+bland: blandly, blandness
+bribe: bribery
+bridal: bride, bridesmaid
+buckle: unbuckle
+canoe: canoeing, canoeist
+chilly: chill
+clueless: clue
+consciously: conscious, consciousness, unconsciously
+correspond: correspondence, correspondent, corresponding
+crappy: crap
+decency: decent, decently, indecency
+despise: despicable
+destroyer: destroy, destruction
+diocese: diocesan
+dispersed: disperse, dispersal, dispersion
+doorstep: door
+equip: equipment, equipped
+footing: foot
+glamorous: glamour, glamorize
+handler: handle, handling
+hangover: hang
+hind: behind, hindsight
+hitter: hit
+hive: beehive
+homophobic: homophobia, homophobe
+humid: humidity
+illuminated: illuminate, illumination
+irritated: irritate, irritation, irritating
+knowingly: know, knowing, unknowingly
+legged: leg
+liberalism: liberal, liberty
+lithuania: Lithuanian
+litre: millilitre
+locomotive: locomotion
+longing: long, longingly
+microscope: microscopic
+milky: milk
+mixer: mix, mixture
+monumental: monument
+moth: mothball
+multiply: multiplication, multiple
+non-existent: exist, existent, existence
+obedience: obey, obedient, disobedience
+organise: organisation, organised, organiser
+outing: out
+overdue: due
+overload: load, overloaded
+payable: pay, payment
+paycheck: pay
+picturesque: picture
+pilgrimage: pilgrim
+pivot: pivotal
+pivotal: pivot
+preventive: prevent, prevention, preventable
+primer: prime
+profitability: profit, profitable, unprofitable
+provoke: provocation, provocative
+punishing: punish, punishment
+raspberry: berry
+reconcile: reconciliation
+regression: regress, regressive
+resilient: resilience
+router: route
+shovel: shovelful
+staggering: stagger, staggeringly
+surname: name
+synonymous: synonym
+tedious: tedium
+tug: tugboat
+utilization: utilize, utility
+ancestor: ancestry, ancestral
+astronomical: astronomy, astronomer
+autograph: autographed
+botanical: botany, botanist
+brag: braggart, bragging
+catchy: catch
+ceremonial: ceremony, ceremonially
+cheque: chequebook
+choreography: choreographer, choreograph, choreographic
+cling: clingy, clingfilm
+coincide: coincidence, coincidental, coincidentally
+commemorate: commemoration, commemorative
+concurrent: concurrently, concur, concurrence
+differentiation: differentiate, different, difference
+dine: diner, dining, dinner
+disadvantaged: disadvantage, advantage, disadvantageous
+dissolve: dissolution, soluble, solvent
+dubious: dubiously, doubt
+eagerly: eager, eagerness
+ecclesiastical: ecclesiastic
+enlightened: enlighten, enlightenment, unenlightened
+exhaustion: exhaust, exhausted, exhausting, exhaustive
+expectancy: expect, expectation, expectant
+famously: famous, fame
+fingerprint: fingerprinting, finger
+fisherman: fish, fishing, fishery
+folklore: folk, folkloric
+galactic: galaxy, intergalactic
+gardener: garden, gardening
+glee: gleeful, gleefully
+gravitational: gravity, gravitation, gravitate
+gunshot: gun, shot
+hereditary: heredity, heir, inherit
+homestead: homesteader, home
+horribly: horrible, horror, horrify
+horsepower: horse, power
+icing: ice, icy
+intellect: intellectual, intelligence, intelligent
+interchange: interchangeable, exchange, change
+jihad: jihadist
+knob: knobby
+loaf: loafer
+login: log, logout
+loot: looter, looting
+malware: software
+mimic: mimicry
+mindful: mindfulness, mind, mindless
+mural: muralist
+musk: musky
+nasal: nose
+neatly: neat, neatness
+negativity: negative, negatively
+noteworthy: note, worthy
+odor: odorless, deodorant
+plunge: plunger
+powerless: power, powerful, powerlessness
+pragmatic: pragmatism, pragmatist, pragmatically
+radiant: radiance, radiate, radiation
+refinery: refine, refined, refinement
+remorse: remorseful, remorseless
+sanity: sane, insanity, insane
+skyline: sky, line

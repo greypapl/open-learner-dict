@@ -1,0 +1,123 @@
+stand-up comedian | delete:phrase
+circular motion | delete:phrase
+deep canyon | delete:free
+oil canvas | delete:wrong
+architectural style | delete:free
+architectural design | delete:free
+vast wilderness | adj+n | 茫茫荒野 | wilderness
+synthetic fibre | delete:phrase
+line supervisor | delete:phrase
+heave a sigh of relief | v+n | 松了一口气 | sigh
+sensitivity to sth | v+prep | 对…的敏感 | sensitivity
+secular society | delete:free
+eternal salvation | delete:free
+have reservations about sth | v+prep | 对…有疑虑 | reservation
+hotel reservation | delete:free
+greatly relieved | adv+adj | 如释重负 | relieved
+punish sb for sth | v+prep | 因…惩罚某人 | punish
+harshly punished | adv+adj | 受到严厉惩罚 | punish
+plea for sth | v+prep | 对…的恳求 | plea
+plea for help | v+prep | 求救 | plea
+blood plasma | delete:phrase
+philosophical question | delete:free
+philosophical about sth | v+prep | 对…看得开 | philosophical
+in pencil | delete:phrase
+messenger service | delete:free
+guided meditation | delete:phrase
+gym locker | delete:free
+hard frost | adj+n | 严重霜冻 | frost
+wedding feast | delete:free
+execute a prisoner | delete:free
+documentation process | delete:free
+in distress | delete:phrase
+film critic | delete:free
+cab driver | delete:free
+brake pedal | delete:phrase
+apply the brakes | v+n | 踩刹车 | brake
+blend with sth | v+prep | 与…融合 | blend
+blend of sth | v+prep | …的混合 | blend
+appealing to sb | v+prep | 对…有吸引力 | appealing
+annoyed with sb | v+prep | 对…恼火 | annoyed
+annoyed at sth | v+prep | 因…恼火 | annoyed
+absurd idea | delete:free
+zombie apocalypse | delete:phrase
+workforce of sth | delete:free
+by virtue of sth | delete:phrase
+make a virtue of sth | delete:phrase
+good vibe | delete:free
+beach towel | delete:phrase
+threaten to do sth | v+prep | 威胁要做 | threaten
+threaten sb with sth | v+prep | 以…威胁某人 | threaten
+difficult terrain | delete:free
+swap sth for sth | v+prep | 用…换… | swap
+under supervision | delete:phrase
+squeeze sth in | delete:phrase
+spice up sth | delete:phrase
+computer simulation | delete:free
+highly risky | delete:free
+get a refund | delete:free
+rebellion against sb | v+prep | 反抗… | rebellion
+public prosecutor | delete:phrase
+optimal performance | delete:free
+social networking | delete:phrase
+safe neighbourhood | delete:free
+motive for sth | v+prep | …的动机 | motive
+leap of faith | delete:phrase
+a quantum leap | delete:phrase
+incorrect answer | delete:free
+pop idol | delete:phrase
+float on water | delete:free
+air fare | n+n | 机票费 | fare
+consist of sth | v+prep | 由…组成 | consist
+composite material | delete:phrase
+automobile industry | delete:free
+human anatomy | delete:free
+aggregate demand | delete:phrase
+financial adviser | delete:phrase
+legal adviser | delete:phrase
+translate sth into sth | v+prep | 把…翻译成… | translate
+translate from sth | v+prep | 从…翻译 | translate
+thankful for sth | v+prep | 对…心存感激 | thankful
+truly thankful | delete:free
+long sleeve | delete:free
+wildlife sanctuary | delete:phrase
+prone to sth | v+prep | 易于, 容易患… | prone
+litigation costs | delete:free
+incoming message | delete:free
+impress sb with sth | v+prep | 以…给某人留下深刻印象 | impress
+medical imaging | delete:phrase
+elimination of sth | delete:free
+a debt of gratitude | n+n | 恩情 | gratitude
+stare at sb | v+prep | 盯着…看 | stare
+economic prosperity | delete:free
+ensure prosperity | delete:free
+paste sth into sth | delete:free
+glance up | delete:free
+continually improve | delete:free
+charitable work | delete:free
+bake a cake | delete:free
+political ambition | delete:free
+financial transparency | delete:free
+rebuild a relationship | delete:free
+opt out of sth | delete:phrase
+misleading information | delete:free
+release a hostage | delete:free
+conclude that | delete:free
+the aftermath of sth | n+n | …的余波, …的后果 | aftermath
+sharply divided | adv+adj | 分歧严重 | sharply
+recruit new members | delete:free
+spread of the plague | delete:free
+module of a course | delete:wrong
+abject misery | adj+n | 极度痛苦 | misery
+foolish mistake | delete:free
+extremely fond | delete:free
+take a dislike to sb | v+prep | 对…产生反感 | dislike
+counseling service | delete:free
+insurance broker | delete:phrase
+broker a peace deal | delete:free
+sour taste | delete:free
+feel sadness | delete:free
+proximity to sth | v+prep | 靠近… | proximity
+militia group | delete:free
+performance metric | delete:phrase
+lining of sth | delete:free

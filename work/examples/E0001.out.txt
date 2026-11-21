@@ -1,0 +1,301 @@
+w000001.1 | Can you close the door, please? | 请你把门关上好吗？
+w000002.1 | I walk to school every morning. | 我每天早上走路去上学。
+w000002.2 | She gave the book to her brother. | 她把书给了她弟弟。
+w000002.3 | The shop is open from nine to five. | 这家商店从九点营业到五点。
+w000003.1 | I bought bread and milk. | 我买了面包和牛奶。
+w000003.2 | He finished his homework and went to bed. | 他做完作业，然后去睡觉了。
+w000004.1 | The color of the car is red. | 这辆车的颜色是红色的。
+w000004.2 | She drank a cup of tea. | 她喝了一杯茶。
+w000004.3 | He told us a story of his childhood. | 他给我们讲了一个关于他童年的故事。
+w000005.1 | I saw a cat in the garden. | 我在花园里看见一只猫。
+w000005.2 | I go swimming twice a week. | 我每周去游泳两次。
+w000006.1 | The keys are in my bag. | 钥匙在我的包里。
+w000006.2 | We usually go to the beach in summer. | 我们通常在夏天去海边。
+w000006.3 | Come in and sit down. | 进来坐吧。
+w000007.1 | I made this cake for you. | 这个蛋糕是我为你做的。
+w000007.2 | We went out for a walk. | 我们出去散步了。
+w000007.3 | We waited for two hours. | 我们等了两个小时。
+w000007.4 | She stayed at home, for she was very tired. | 她待在家里，因为她非常累。
+w000008.1 | Who is that man over there? | 那边那个男人是谁？
+w000008.2 | That was a really good idea. | 那真是个好主意。
+w000008.3 | I know that you are right. | 我知道你是对的。
+w000008.4 | The film wasn't that bad. | 那部电影没那么糟糕。
+w000009.1 | Are you ready to go? | 你准备好走了吗？
+w000009.2 | You can't buy happiness with money. | 人用钱买不到幸福。
+w000010.1 | I lost my pen, but I found it later. | 我丢了钢笔，不过后来找到了。
+w000010.2 | It's very cold today. | 今天很冷。
+w000011.1 | Put the cups on the table. | 把杯子放在桌子上。
+w000011.2 | My birthday is on Monday. | 我的生日在星期一。
+w000011.3 | She wrote a book on Chinese history. | 她写了一本关于中国历史的书。
+w000011.4 | Don't stop, just keep on walking. | 别停下，继续往前走。
+w000011.5 | Is the TV still on? | 电视还开着吗？
+w000012.1 | I went to the cinema with my sister. | 我和我妹妹去看了电影。
+w000012.2 | He cut the paper with scissors. | 他用剪刀把纸剪开了。
+w000012.3 | She lives in a house with a big garden. | 她住在一座带大花园的房子里。
+w000013.1 | I like this song very much. | 我非常喜欢这首歌。
+w000013.2 | Is this your phone? | 这是你的手机吗？
+w000013.3 | I didn't know it was this late. | 我不知道已经这么晚了。
+w000015.1 | My father is a doctor. | 我父亲是一名医生。
+w000015.2 | Tom is in the kitchen. | 汤姆在厨房里。
+w000015.3 | There is a park near my house. | 我家附近有一个公园。
+w000015.4 | The children are playing outside. | 孩子们正在外面玩。
+w000016.1 | She sang as she walked home. | 她一边走回家一边唱歌。
+w000016.2 | As it was raining, we stayed inside. | 因为下着雨，我们待在屋里。
+w000016.3 | She works as a teacher. | 她当老师。
+w000016.4 | He is as tall as his father. | 他和他父亲一样高。
+w000018.1 | We have two cats. | 我们养了两只猫。
+w000018.2 | I have to get up early tomorrow. | 我明天必须早起。
+w000018.3 | Let's have lunch together. | 我们一起吃午饭吧。
+w000018.4 | I have never been to Paris. | 我从来没去过巴黎。
+w000019.1 | I'll meet you at the station. | 我会在车站和你见面。
+w000019.2 | The class starts at nine o'clock. | 课九点钟开始。
+w000019.3 | She smiled at me. | 她朝我笑了笑。
+w000020.1 | He lives next door to us. | 他住在我们隔壁。
+w000021.1 | I'm not hungry right now. | 我现在不饿。
+w000022.1 | This picture was painted by my grandmother. | 这幅画是我奶奶画的。
+w000022.2 | We went to London by train. | 我们坐火车去了伦敦。
+w000022.3 | Please finish the report by Friday. | 请在星期五之前完成报告。
+w000023.1 | I like tea, but my brother likes coffee. | 我喜欢茶，但我弟弟喜欢咖啡。
+w000023.2 | Everyone but Anna came to the party. | 除了安娜，大家都来参加聚会了。
+w000023.3 | He is but a child. | 他只不过是个孩子。
+w000024.1 | I got a letter from my aunt. | 我收到了姑姑的一封信。
+w000024.2 | The hotel is two miles from the beach. | 酒店离海滩两英里。
+w000024.3 | She was tired from the long journey. | 由于长途旅行，她很累。
+w000025.1 | This is my bike. | 这是我的自行车。
+w000025.2 | My, what a big dog! | 天哪，好大的一条狗！
+w000026.1 | Would you like tea or coffee? | 你想喝茶还是咖啡？
+w000026.2 | Hurry up, or you'll miss the bus. | 快点，否则你会赶不上公交车。
+w000026.3 | It weighs one kilo, or about two pounds. | 它重一公斤，也就是大约两磅。
+w000027.1 | We are going to the zoo tomorrow. | 我们明天要去动物园。
+w000028.1 | She ate an apple. | 她吃了一个苹果。
+w000029.1 | Is this your coat? | 这是你的外套吗？
+w000030.1 | All the students passed the test. | 所有学生都通过了考试。
+w000030.2 | All of us enjoyed the trip. | 我们大家都很喜欢这次旅行。
+w000030.3 | His shoes were all wet. | 他的鞋子全湿了。
+w000031.1 | I'm so happy to see you. | 见到你我太高兴了。
+w000031.2 | It was raining, so we took a taxi. | 当时在下雨，所以我们打了出租车。
+w000031.3 | I'm hungry. — So am I. | 我饿了。——我也是。
+w000031.4 | Speak louder so everyone can hear you. | 大声点说，好让大家都能听见。
+w000032.1 | He lost his keys again. | 他又把钥匙丢了。
+w000032.2 | This bag isn't mine; it's his. | 这个包不是我的，是他的。
+w000033.1 | My parents said they would be late. | 我父母说他们会晚到。
+w000033.2 | They say it will snow tomorrow. | 人们说明天会下雪。
+w000034.1 | Can you help me with this box? | 你能帮我搬这个箱子吗？
+w000035.1 | If it rains, we'll stay at home. | 如果下雨，我们就待在家里。
+w000035.2 | I asked her if she was free. | 我问她是否有空。
+w000036.1 | I have one brother and two sisters. | 我有一个哥哥和两个姐姐。
+w000036.2 | I don't like this shirt; can I see that one? | 我不喜欢这件衬衫，能看看那件吗？
+w000036.3 | One day I'd like to visit Japan. | 有朝一日我想去日本看看。
+w000037.1 | Can you swim very fast? | 你能游得很快吗？
+w000037.2 | You can use my computer if you like. | 你愿意的话可以用我的电脑。
+w000037.3 | He opened a can of beans. | 他打开了一罐豆子。
+w000038.1 | I will call you tomorrow. | 我明天会给你打电话。
+w000038.2 | Will you help me carry this bag? | 你愿意帮我提这个包吗？
+w000038.3 | She has a strong will to win. | 她有很强的求胜意志。
+w000038.4 | My grandfather left me his watch in his will. | 我祖父在遗嘱里把他的手表留给了我。
+w000039.1 | I've just finished my homework. | 我刚刚做完作业。
+w000039.2 | I'm just looking, thanks. | 我只是看看，谢谢。
+w000039.3 | This dress is just my size. | 这条裙子正好是我的尺码。
+w000039.4 | Everyone thought it was a just decision. | 大家都认为这是个公正的决定。
+w000040.1 | I like playing football. | 我喜欢踢足球。
+w000040.2 | Would you like a cup of tea? | 你想喝杯茶吗？
+w000040.3 | She looks like her mother. | 她长得像她妈妈。
+w000040.4 | I enjoy fruit like apples and oranges. | 我喜欢吃水果，比如苹果和橙子。
+w000041.1 | It's a film about a lost dog. | 这是一部关于一只走失的狗的电影。
+w000041.2 | It takes about ten minutes to walk there. | 走到那里大约要十分钟。
+w000041.3 | Children were running about in the park. | 孩子们在公园里到处跑。
+w000042.1 | She looked up at the sky. | 她抬头望着天空。
+w000042.2 | We walked up the hill. | 我们沿着山坡往上走。
+w000042.3 | Eat up your vegetables. | 把你的蔬菜吃完。
+w000042.4 | Are you up yet? | 你起床了吗？
+w000043.1 | He opened the door and went out. | 他打开门走了出去。
+w000043.2 | Sorry, Anna is out at the moment. | 抱歉，安娜现在不在家。
+w000043.3 | The fire was out by morning. | 到早上火已经灭了。
+w000044.1 | What is your name? | 你叫什么名字？
+w000044.2 | What colour do you want? | 你想要什么颜色？
+w000044.3 | I didn't hear what she said. | 我没听见她说的话。
+w000045.1 | When does the train leave? | 火车什么时候开？
+w000045.2 | I was reading when the phone rang. | 电话响的时候我正在看书。
+w000045.3 | Why buy a new one when the old one works fine? | 旧的还很好用，干吗买新的？
+w000046.1 | Can I have more rice, please? | 能再给我一些米饭吗？
+w000046.2 | This book is more interesting than that one. | 这本书比那本更有意思。
+w000046.3 | Could you say that once more? | 你能再说一遍吗？
+w000047.1 | What are you doing this weekend? | 你这个周末做什么？
+w000047.2 | I'll do the dishes after dinner. | 晚饭后我来洗碗。
+w000047.3 | A small box will do. | 一个小盒子就行。
+w000047.4 | Do you like cats? | 你喜欢猫吗？
+w000048.1 | Are you tired? — No, I'm fine. | 你累了吗？——不，我很好。
+w000048.2 | There's no milk in the fridge. | 冰箱里没有牛奶了。
+w000048.3 | The sign said "No smoking". | 牌子上写着"禁止吸烟"。
+w000049.1 | Who is your best friend? | 谁是你最好的朋友？
+w000049.2 | The woman who lives next door is a nurse. | 住在隔壁的那个女人是护士。
+w000050.1 | The children put on their coats. | 孩子们穿上了他们的外套。
+w000051.1 | I left my bag over there. | 我把包落在那边了。
+w000051.2 | There are three apples on the table. | 桌子上有三个苹果。
+w000051.3 | There, there, don't cry. | 好了，好了，别哭了。
+w000052.1 | Anna lost her umbrella. | 安娜把她的伞弄丢了。
+w000052.2 | I saw her at the shop. | 我在商店看见她了。
+w000053.1 | Which bus goes to the city centre? | 哪路公交车去市中心？
+w000053.2 | Which of these cakes would you like? | 这些蛋糕你想要哪一个？
+w000053.3 | I lost the book which you gave me. | 我把你给我的那本书弄丢了。
+w000054.1 | I don't have much free time. | 我没有多少空闲时间。
+w000054.2 | What time is it? | 现在几点了？
+w000054.3 | I've seen that film three times. | 那部电影我看过三次。
+w000054.4 | The teacher timed us in the race. | 老师给我们的赛跑计时。
+w000055.1 | Did you get my message? | 你收到我的信息了吗？
+w000055.2 | It's getting dark outside. | 外面天渐渐黑了。
+w000055.3 | We got home very late. | 我们很晚才到家。
+w000056.1 | He said he would help us. | 他说他会帮我们。
+w000056.2 | Would you open the window, please? | 请你把窗户打开好吗？
+w000056.3 | We would go fishing every summer. | 我们过去每年夏天都去钓鱼。
+w000057.1 | She is my best friend. | 她是我最好的朋友。
+w000058.1 | They opened a new hospital last year. | 他们去年开了一家新医院。
+w000058.2 | Tom is new to this school. | 汤姆是这所学校新来的。
+w000058.3 | I need a new pair of shoes. | 我需要一双新鞋。
+w000059.1 | Many people came to the concert. | 很多人来听音乐会。
+w000059.2 | The book is about the peoples of Africa. | 这本书讲的是非洲的各个民族。
+w000059.3 | The new law has the support of the people. | 新法律得到了人民的支持。
+w000060.1 | How do you get to school? | 你怎么去上学？
+w000060.2 | How beautiful the flowers are! | 这些花多么美啊！
+w000060.3 | How are you today? | 你今天怎么样？
+w000061.1 | The food at the hotel was only so-so. | 酒店的饭菜只是一般般。
+w000061.2 | I slept so-so last night. | 我昨晚睡得马马虎虎。
+w000062.1 | I need some help with my homework. | 我做作业需要一些帮助。
+w000062.2 | Some man called while you were out. | 你出去的时候有个男人打电话来。
+w000062.3 | I made cookies; would you like some? | 我做了饼干，你要来一些吗？
+w000063.1 | She speaks French and also a little Chinese. | 她会说法语，还会一点中文。
+w000064.1 | She's always talking about what so-and-so said. | 她总是在说某某人说了什么。
+w000064.2 | That so-and-so took my parking space again! | 那个讨厌鬼又占了我的停车位！
+w000065.1 | I met your parents and liked them a lot. | 我见过你父母，很喜欢他们。
+w000066.1 | I'm busy now; can I call you later? | 我现在很忙，我晚点给你打电话好吗？
+w000066.2 | Come here right now, please! | 请马上过来！
+w000066.3 | Now that you're here, we can start. | 既然你来了，我们就可以开始了。
+w000067.1 | Do you have any other questions? | 你还有其他问题吗？
+w000067.2 | She held the bag in her other hand. | 她用另一只手拿着包。
+w000067.3 | Some students walked, and others took the bus. | 有些学生走路，其他人坐公交车。
+w000068.1 | The would-be actors waited nervously outside. | 那些想当演员的人在外面紧张地等着。
+w000069.1 | She gives one-to-one English lessons. | 她教一对一的英语课。
+w000069.2 | There is a one-to-one match between letters and sounds. | 字母和发音之间是一一对应的。
+w000070.1 | The team made an all-out effort to win. | 球队全力以赴争取胜利。
+w000071.1 | The dog wagged its tail. | 那条狗摇着它的尾巴。
+w000072.1 | Our house is near the river. | 我们的房子在河边。
+w000073.1 | My brother is taller than me. | 我哥哥比我高。
+w000073.2 | I'd rather walk than take the bus. | 我宁愿走路，也不想坐公交车。
+w000074.1 | We had a good time at the party. | 我们在聚会上玩得很开心。
+w000074.2 | She is good at maths. | 她擅长数学。
+w000074.3 | Be a good boy and wait here. | 乖乖在这儿等着。
+w000074.4 | Exercise does you a lot of good. | 锻炼对你很有好处。
+w000075.1 | I only have five pounds. | 我只有五英镑。
+w000075.2 | She is an only child. | 她是独生女。
+w000075.3 | I'd like to come, only I'm too busy. | 我很想来，不过我太忙了。
+w000076.1 | Let's go for a walk after lunch. | 午饭后我们去散散步吧。
+w000076.2 | We went home after the film ended. | 电影结束以后我们回家了。
+w000076.3 | The police ran after the thief. | 警察追赶小偷。
+w000077.1 | January is the first month of the year. | 一月是一年中的第一个月。
+w000077.2 | You can go first, Anna. | 安娜，你先走吧。
+w000077.3 | At first I didn't like the city. | 起初我不喜欢这座城市。
+w000078.1 | I gave him a birthday card. | 我给了他一张生日贺卡。
+w000079.1 | She walked into the room. | 她走进了房间。
+w000079.2 | The rain turned into snow. | 雨变成了雪。
+w000079.3 | My son is really into football. | 我儿子特别迷足球。
+w000080.1 | Do you know where she lives? | 你知道她住在哪里吗？
+w000080.2 | I've known Tom for ten years. | 我认识汤姆十年了。
+w000080.3 | Do you know how to drive? | 你会开车吗？
+w000081.1 | I can see the sea from my window. | 我从窗口能看到大海。
+w000081.2 | I see what you mean. | 我明白你的意思。
+w000081.3 | I'm going to see my grandmother this weekend. | 这个周末我要去看望奶奶。
+w000082.1 | I have two dogs. | 我有两条狗。
+w000083.1 | Sales reached an all-time high this year. | 今年的销量创下了历史新高。
+w000084.1 | My mother made a cake for my birthday. | 我妈妈为我的生日做了一个蛋糕。
+w000084.2 | That film made me cry. | 那部电影让我哭了。
+w000084.3 | He makes a lot of money as a lawyer. | 他当律师挣很多钱。
+w000084.4 | What make is your car? | 你的车是什么牌子的？
+w000085.1 | A plane flew over the house. | 一架飞机从房子上空飞过。
+w000085.2 | Over fifty people came to the meeting. | 有五十多人来参加了会议。
+w000085.3 | We stayed with my aunt over the summer. | 暑假期间我们住在姑姑家。
+w000085.4 | The game is over. | 比赛结束了。
+w000086.1 | I think it will rain later. | 我觉得等会儿会下雨。
+w000086.2 | Let me think about it for a minute. | 让我考虑一下。
+w000087.1 | You can sit in any chair you like. | 你可以随便坐哪把椅子。
+w000087.2 | Do you have any brothers? | 你有兄弟吗？
+w000087.3 | I need a pen. Do you have any? | 我需要一支笔，你有吗？
+w000088.1 | The one-time champion now coaches young players. | 这位昔日的冠军现在在教年轻球员。
+w000088.2 | You need to pay a one-time fee to join. | 加入需要交一次性的费用。
+w000089.1 | We had dinner and then watched TV. | 我们吃了晚饭，然后看电视。
+w000089.2 | I was living in Paris then. | 那时我住在巴黎。
+w000089.3 | If you're tired, then go to bed. | 如果你累了，那就去睡吧。
+w000090.1 | I could swim when I was five. | 我五岁时就会游泳了。
+w000090.2 | It could rain this afternoon. | 今天下午可能会下雨。
+w000090.3 | Could you pass me the salt? | 能把盐递给我吗？
+w000091.1 | I'll be back in ten minutes. | 我十分钟后回来。
+w000091.2 | He lay on his back in the grass. | 他仰面躺在草地上。
+w000091.3 | Write your name on the back of the card. | 把你的名字写在卡片背面。
+w000091.4 | The children sat in the back seat. | 孩子们坐在后座。
+w000091.5 | My parents backed my decision. | 我父母支持我的决定。
+w000091.6 | She backed the car out of the garage. | 她把车倒出了车库。
+w000092.1 | These shoes are too small for me. | 这双鞋我穿太小了。
+w000092.2 | Are these your keys? | 这些是你的钥匙吗？
+w000093.1 | Can you take us to the airport? | 你能送我们去机场吗？
+w000094.1 | I want a glass of water. | 我想要一杯水。
+w000094.2 | Your hair wants cutting. | 你的头发该剪了。
+w000094.3 | The plants died for want of water. | 这些植物因缺水而死了。
+w000095.1 | I stayed at home because I was ill. | 我待在家里，因为我生病了。
+w000096.1 | He came to the party in a strange get-up. | 他穿着一身奇怪的装束来参加聚会。
+w000097.1 | We went to the beach last weekend. | 上周末我们去了海边。
+w000097.2 | It's getting late, so I'd better go. | 时间不早了，我该走了。
+w000097.3 | The milk has gone bad. | 牛奶变质了。
+w000097.4 | Can I have a go on your bike? | 我能试试骑你的自行车吗？
+w000098.1 | She speaks English very well. | 她英语说得很好。
+w000098.2 | Shake the bottle well before use. | 使用前请充分摇匀。
+w000098.3 | I don't feel well today. | 我今天身体不舒服。
+w000098.4 | Well, what do you think? | 嗯，你觉得怎么样？
+w000098.5 | The village gets its water from a well. | 这个村子从一口井里取水。
+w000099.1 | This is the best way to learn English. | 这是学英语最好的方法。
+w000099.2 | Can you tell me the way to the station? | 你能告诉我去车站的路吗？
+w000099.3 | In some ways, she is right. | 在某些方面，她是对的。
+w000099.4 | The price was way too high. | 价格实在太高了。
+w000100.1 | This is the most beautiful beach I've ever seen. | 这是我见过的最美的海滩。
+w000100.2 | Most children like ice cream. | 大多数孩子都喜欢冰淇淋。
+w000100.3 | It was a most interesting talk. | 那是一场非常有趣的讲座。
+w000101.1 | I don't have much money. | 我没有多少钱。
+w000101.2 | Thank you very much. | 非常感谢你。
+w000101.3 | Did you eat much at lunch? | 你午饭吃得多吗？
+w000102.1 | It's very hot today. | 今天非常热。
+w000102.2 | That's the very book I was looking for. | 这正是我在找的那本书。
+w000103.1 | Where do you live? | 你住在哪里？
+w000103.2 | Put it back where you found it. | 把它放回你找到它的地方。
+w000104.1 | Even my little brother can do it. | 连我弟弟都会做。
+w000104.2 | Today is even colder than yesterday. | 今天比昨天还要冷。
+w000104.3 | We need an even floor for the new table. | 新桌子需要放在平坦的地面上。
+w000104.4 | The score is even at two all. | 比分是二比二平。
+w000104.5 | Two, four and six are even numbers. | 二、四、六是偶数。
+w000105.1 | You should see a doctor. | 你应该去看医生。
+w000105.2 | The parcel should arrive tomorrow. | 包裹应该明天到。
+w000105.3 | Should you need any help, just call me. | 万一你需要帮忙，就给我打电话。
+w000106.1 | It may rain this afternoon. | 今天下午可能会下雨。
+w000106.2 | May I come in? | 我可以进来吗？
+w000106.3 | May you both be very happy. | 祝你们俩幸福美满。
+w000107.1 | Come here and sit next to me. | 过来坐我旁边。
+w000107.2 | Here the teacher stopped and asked a question. | 这时老师停下来提了一个问题。
+w000107.3 | Here, take my umbrella. | 喏，拿我的伞去吧。
+w000108.1 | I need some new clothes. | 我需要一些新衣服。
+w000108.2 | There's no need to hurry. | 没有必要着急。
+w000108.3 | We should help families in need. | 我们应该帮助有困难的家庭。
+w000109.1 | Did she really say that? | 她真的那么说了吗？
+w000109.2 | The film was really good. | 那部电影非常好看。
+w000109.3 | I'm getting married. — Really? | 我要结婚了。——真的吗？
+w000110.1 | Nobody likes a know-all in class. | 班上没人喜欢自以为是的人。
+w000111.1 | You're right, it is late. | 你说得对，确实很晚了。
+w000111.2 | He writes with his right hand. | 他用右手写字。
+w000111.3 | She's the right person for the job. | 她是这份工作的合适人选。
+w000111.4 | The bus stops right outside my house. | 公交车就停在我家门口。
+w000111.5 | Every child has the right to an education. | 每个孩子都有受教育的权利。
+w000111.6 | Turn to the right at the corner. | 在拐角处向右转。
+w000112.1 | My father works in a bank. | 我父亲在银行工作。
+w000112.2 | The lift isn't working. | 电梯坏了。
+w000112.3 | Painting the house was hard work. | 粉刷房子是件辛苦的活。
+w000112.4 | What time do you leave for work? | 你几点出门上班？
+w000112.5 | The museum has many works by local artists. | 博物馆里有许多本地艺术家的作品。
+w000113.1 | We moved here two years ago. | 我们两年前搬到这里。
+w000113.2 | My son is in Year 5 at school. | 我儿子在上五年级。
+w000113.3 | My daughter is six years old. | 我女儿六岁了。

@@ -1,0 +1,160 @@
+ph_pilot-project.1 | 試辦計畫
+ph_pilot-scheme.1 | 試行計畫
+ph_pilot-study.1 | 前導研究
+ph_pit-bull.1 | 比特犬
+ph_pizza-parlor.1 | 披薩店
+ph_plan-of-action.1 | 行動計畫
+ph_plasma-screen.1 | 電漿螢幕
+ph_plastic-surgeon.1 | 整形外科醫師
+ph_plump-up.1 | 拍鬆
+ph_pocket-calculator.1 | 袖珍計算機
+ph_pogo-stick.1 | 彈簧跳跳桿
+ph_point-of-order.1 | 程序問題
+ph_police-record.1 | 犯罪紀錄, 前科
+ph_polling-place.1 | 投票所
+ph_pool-cue.1 | 撞球桿
+ph_pop-art.1 | 普普藝術
+ph_pop-group.1 | 流行樂團
+ph_positive-feedback.1 | 正向回饋
+ph_possessive-adjective.1 | 所有格形容詞
+ph_possessive-pronoun.1 | 所有格代名詞
+ph_potato-chip.1 | 洋芋片
+ph_present-perfect.1 | 現在完成式
+ph_present-tense.1 | 現在式
+ph_primary-care.1 | 基層醫療
+ph_private-enterprise.1 | 民營企業, 私營經濟
+ph_property-tax.1 | 財產稅, 房屋稅
+ph_punk-rock.1 | 龐克搖滾
+ph_quad-bike.1 | 四輪越野車
+ph_quality-control.1 | 品質管制
+ph_quality-of-life.1 | 生活品質
+ph_radio-telescope.1 | 電波望遠鏡
+ph_random-access-memory.1 | 隨機存取記憶體
+ph_rapid-transit.1 | 大眾捷運系統
+ph_real-time.1 | 即時
+ph_rearview-mirror.1 | 後照鏡
+ph_recycle-bin.1 | 資源回收筒, 回收箱
+ph_ring-pull.1 | 拉環
+ph_ring-road.1 | 環狀道路
+ph_risk-factor.1 | 風險因子
+ph_rock-face.1 | 岩壁
+ph_roller-skate.1 | 溜冰鞋
+ph_round-robin.1 | 循環賽
+ph_round-down.1 | 無條件捨去
+ph_rubber-bullet.1 | 橡膠子彈
+ph_sad-sack.1 | 倒楣蛋, 笨蛋
+ph_science-park.1 | 科學園區
+ph_second-home.1 | 度假屋, 第二間住宅
+ph_sergeant-major.1 | 士官長
+ph_set-phrase.1 | 固定片語
+ph_set-square.1 | 三角板
+ph_settle-a-score.1 | 了結舊帳, 報仇
+ph_settle-up-with.1 | 與…結帳
+ph_sex-object.1 | 性對象
+ph_shelf-life.1 | 保存期限
+ph_shell-shock.1 | 砲彈休克
+ph_shock-absorber.1 | 避震器
+ph_shop-floor.1 | 工廠現場, 生產第一線
+ph_shoulder-bag.1 | 肩背包, 單肩包
+ph_show-house.1 | 樣品屋
+ph_sick-pay.1 | 病假薪資
+ph_situation-comedy.1 | 情境喜劇
+ph_skeleton-key.1 | 萬用鑰匙
+ph_sleep-apnea.1 | 睡眠呼吸中止
+ph_smear-test.1 | 子宮頸抹片檢查
+ph_smoke-alarm.1 | 煙霧警報器
+ph_soft-copy.1 | 電子檔
+ph_soft-launch.1 | 試營運, 軟性啟動
+ph_soft-toy.1 | 絨毛玩具
+ph_soldier-of-fortune.1 | 傭兵
+ph_sole-trader.1 | 獨資經營者
+ph_space-bar.1 | 空白鍵
+ph_space-heater.1 | 電暖器
+ph_space-station.1 | 太空站
+ph_special-delivery.1 | 限時專送
+ph_speed-camera.1 | 測速照相機
+ph_speed-hump.1 | 減速丘
+ph_spell-checker.1 | 拼字檢查程式
+ph_spoiler-alert.1 | 爆雷警告
+ph_sport-utility-vehicle.1 | 運動休旅車
+ph_square-bracket.1 | 中括號
+ph_square-metre.1 | 平方公尺
+ph_squeak-by.1 | 勉強通過
+ph_standing-order.1 | 長期轉帳指令
+ph_staple-gun.1 | 釘書槍
+ph_steam-iron.1 | 蒸氣熨斗
+ph_steam-room.1 | 蒸氣浴室
+ph_steel-band.1 | 鋼鼓樂團
+ph_stick-shift.1 | 手排檔
+ph_stock-option.1 | 股票選擇權
+ph_string-quartet.1 | 弦樂四重奏
+ph_studio-apartment.1 | 套房
+ph_studio-flat.1 | 套房
+ph_subordinate-clause.1 | 從屬子句
+ph_suicide-bomber.1 | 自殺炸彈客
+ph_summer-time.1 | 夏令時間
+ph_support-group.1 | 互助團體
+ph_surge-protector.1 | 突波保護器
+ph_surrogate-mother.1 | 代理孕母
+ph_sustainable-development.1 | 永續發展
+ph_swipe-card.1 | 磁卡, 刷卡
+ph_terrace-house.1 | 連棟住宅
+ph_town-house.1 | 連棟別墅
+ph_toilet-roll.1 | 衛生紙捲
+ph_town-planning.1 | 都市計畫
+ph_traffic-circle.1 | 圓環
+ph_trial-run.1 | 試運轉
+ph_spark-plug.1 | 火星塞
+ph_simultaneous-interpretation.1 | 同步口譯
+ph_trunk-road.1 | 幹線道路
+ph_tuck-shop.1 | 校內福利社
+ph_turn-signal.1 | 方向燈
+ph_unemployment-benefit.1 | 失業給付
+ph_unidentified-flying-object.1 | 不明飛行物體
+ph_urban-renewal.1 | 都市更新
+ph_urban-sprawl.1 | 都市擴張
+ph_venture-capital.1 | 創業投資
+ph_vicious-cycle.1 | 惡性循環
+ph_virtuous-circle.1 | 良性循環
+ph_vital-sign.1 | 生命徵象
+ph_wage-earner.1 | 領薪水的人
+ph_wage-freeze.1 | 薪資凍結
+ph_water-cannon.1 | 水砲
+ph_weight-training.1 | 重量訓練
+ph_wind-turbine.1 | 風力發電機
+ph_window-dressing.1 | 櫥窗布置, 裝點門面
+ph_wing-mirror.1 | 車外後照鏡
+ph_wooden-spoon.1 | 木湯匙
+ph_working-group.1 | 工作小組
+ph_working-week.1 | 工作週
+ph_worse-luck.1 | 真倒楣
+ph_written-off.1 | 報廢的, 註銷的
+ph_youth-hostel.1 | 青年旅館
+ph_good-job.1 | 做得好
+ph_good-for-you.1 | 做得好, 真為你高興
+ph_way-to-go.1 | 做得好
+ph_nice-one.1 | 做得漂亮
+ph_like-the-back-of-one-s-hand.1 | 了如指掌
+ph_keep-sb-in-the-loop.1 | 讓某人了解情況
+ph_up-to-speed.1 | 了解最新情況
+ph_bring-sb-up-to-speed.1 | 讓某人了解最新情況
+ph_business-plan.1 | 商業計畫書
+ph_annual-leave.1 | 特休
+ph_digital-native.1 | 數位原住民
+ph_class-teacher.1 | 導師
+ph_school-report.1 | 成績單
+ph_boarding-pass.1 | 登機證
+ph_a-sore-throat.1 | 喉嚨痛
+ph_household-chores.1 | 家事
+ph_do-the-housework.1 | 做家事
+ph_bad-hair-day.1 | 倒楣的一天
+ph_be-in-the-dark.1 | 被蒙在鼓裡
+ph_beyond-one-s-wildest-dreams.1 | 超出想像
+ph_by-trial-and-error.1 | 通過反覆試驗
+ph_cards-on-the-table.1 | 攤牌, 開誠布公
+ph_go-dutch.1 | 各付各的帳
+ph_have-a-bone-to-pick-with-sb.1 | 有帳要算, 有意見要提
+ph_hear-it-on-the-grapevine.1 | 聽小道消息
+ph_on-the-dole.1 | 領失業給付
+ph_put-sb-in-their-place.1 | 讓某人認清身分
+ph_put-a-spanner-in-the-works.1 | 從中作梗, 破壞計畫

@@ -1,0 +1,103 @@
+c_accumulate-wealth | accumulate wealth | v+n | 累積財富
+c_draft-a-document | draft a document | v+n | 起草文件
+c_approval-rating | approval rating | n+n | 支持率
+c_initially-planned | initially planned | adv+adj | 最初計畫的
+c_trouser-pocket | trouser pocket | n+n | 褲袋
+c_facial-recognition | facial recognition | adj+n | 臉部辨識
+c_superior-quality | superior quality | adj+n | 上乘品質
+c_public-infrastructure | public infrastructure | adj+n | 公共基礎建設
+c_build-infrastructure | build infrastructure | v+n | 興建基礎建設
+c_earn-a-wage | earn a wage | v+n | 賺薪水
+c_loose-thread | loose thread | adj+n | 鬆線頭
+c_follow-a-procedure | follow a procedure | v+n | 遵循程序
+c_price-label | price label | n+n | 價格標籤
+c_wind-the-clock | wind the clock | v+n | 給鐘上發條
+c_electrical-engineer | electrical engineer | adj+n | 電機工程師
+c_electrical-equipment | electrical equipment | adj+n | 電氣設備
+c_clean-sheet | clean sheet | adj+n | 清白的紀錄, 零失球
+c_elite-athlete | elite athlete | adj+n | 菁英運動員
+c_political-elite | political elite | adj+n | 政治菁英
+c_decent-standard-of-living | decent standard of living | adj+n | 體面的生活水準
+c_spread-butter | spread butter | v+n | 塗奶油
+c_rally-support | rally support | v+n | 爭取支持
+c_constructive-feedback | constructive feedback | adj+n | 建設性回饋
+c_give-feedback | give feedback | v+n | 提供回饋
+c_make-a-presentation | make a presentation | v+n | 做簡報
+c_make-an-announcement | make an announcement | v+n | 宣布
+c_publicly-announce | publicly announce | adv+v | 公開宣布
+c_bold-print | bold print | adj+n | 粗體字
+c_infringe-copyright | infringe copyright | v+n | 侵犯著作權
+c_financial-backing | financial backing | adj+n | 資金支持
+c_draw-a-pension | draw a pension | v+n | 領退休金
+c_a-vivid-imagination | a vivid imagination | adj+n | 豐富的想像力
+c_use-one-s-imagination | use one's imagination | v+n | 發揮想像力
+c_implement-a-plan | implement a plan | v+n | 實施計畫
+c_widespread-support | widespread support | adj+n | 廣泛的支持
+c_well-preserved | well preserved | adv+adj | 保存完好
+c_buy-in-bulk | buy in bulk | v+prep | 大量購買
+c_positive-identification | positive identification | adj+n | 明確的身分認定
+c_spread-propaganda | spread propaganda | v+n | 散布宣傳
+c_sign-a-lease | sign a lease | v+n | 簽租約
+c_an-anonymous-tip | an anonymous tip | adj+n | 匿名檢舉
+c_boost-productivity | boost productivity | v+n | 提高生產力
+c_get-a-tattoo | get a tattoo | v+n | 刺青
+c_break-into-a-sweat | break into a sweat | v+prep | 流汗
+c_launch-a-missile | launch a missile | v+n | 發射飛彈
+c_rising-inflation | rising inflation | adj+n | 通貨膨脹加劇
+c_curb-inflation | curb inflation | v+n | 抑制通貨膨脹
+c_clinically-depressed | clinically depressed | adv+adj | 臨床憂鬱
+c_a-flexible-schedule | a flexible schedule | adj+n | 彈性的時間表
+c_a-fitted-kitchen | a fitted kitchen | adj+n | 系統廚房
+c_investigative-journalism | investigative journalism | adj+n | 調查報導
+c_peel-a-potato | peel a potato | v+n | 削馬鈴薯皮
+c_freeze-a-bank-account | freeze a bank account | v+n | 凍結帳戶
+c_freeze-wages | freeze wages | v+n | 凍結薪資
+c_unlimited-access | unlimited access | adj+n | 無限制存取
+c_make-a-declaration | make a declaration | v+n | 發表聲明
+c_apply-for-citizenship | apply for citizenship | v+prep | 申請公民身分
+c_grant-citizenship | grant citizenship | v+n | 授予公民身分
+c_overwhelming-support | overwhelming support | adj+n | 壓倒性支持
+c_tremendous-support | tremendous support | adj+n | 極大的支持
+c_withdraw-support | withdraw support | v+n | 撤回支持
+c_supportive-of-sth | supportive of sth | adj+prep | 支持某事
+c_pledge-support | pledge support | v+n | 承諾支持
+c_lend-support | lend support | v+n | 提供支持
+c_approve-a-plan | approve a plan | v+n | 批准計畫
+c_unanimously-approve | unanimously approve | adv+v | 一致通過
+c_specialized-equipment | specialized equipment | adj+n | 專業設備
+c_portable-device | portable device | adj+n | 可攜式裝置
+c_ride-a-motorcycle | ride a motorcycle | v+n | 騎機車
+c_rational-thinking | rational thinking | adj+n | 理性思考
+c_reset-a-password | reset a password | v+n | 重設密碼
+c_elaborate-plan | elaborate plan | adj+n | 精心擬定的計畫
+c_declare-an-emergency | declare an emergency | v+n | 宣布進入緊急狀態
+c_alter-the-course-of-sth | alter the course of sth | v+n | 改變某事的進程
+c_strengthen-ties | strengthen ties | v+n | 加強聯繫
+c_intermediate-level | intermediate level | adj+n | 中級水準
+c_return-a-verdict | return a verdict | v+n | 宣布裁決
+c_workout-routine | workout routine | n+n | 運動計畫
+c_wear-a-helmet | wear a helmet | v+n | 戴安全帽
+c_flexibility-in-sth | flexibility in sth | n+prep | 某方面的彈性
+c_offer-flexibility | offer flexibility | v+n | 提供彈性
+c_solve-an-equation | solve an equation | v+n | 解方程式
+c_transparent-process | transparent process | adj+n | 透明的程序
+c_formally-announce | formally announce | adv+v | 正式宣布
+c_spelling-mistake | spelling mistake | n+n | 拼字錯誤
+c_win-the-lottery | win the lottery | v+n | 中樂透
+c_intake-of-sth | intake of sth | n+n | 攝取量
+c_reduce-one-s-intake | reduce one's intake | v+n | 減少攝取
+c_calorie-intake | calorie intake | n+n | 熱量攝取
+c_slap-sb-in-the-face | slap sb in the face | v+prep | 打某人耳光
+c_execute-a-plan | execute a plan | v+n | 執行計畫
+c_ambitious-plan | ambitious plan | adj+n | 宏偉的計畫
+c_issue-a-correction | issue a correction | v+n | 發布更正
+c_slam-on-the-brakes | slam on the brakes | v+prep | 猛踩煞車
+c_apply-the-brakes | apply the brakes | v+n | 踩煞車
+c_fall-for-a-scam | fall for a scam | v+prep | 上當受騙
+c_bus-fare | bus fare | n+n | 公車費用
+c_prosecution-witness | prosecution witness | n+n | 檢方證人
+c_vitamin-deficiency | vitamin deficiency | n+n | 維他命缺乏
+c_rich-in-vitamins | rich in vitamins | adj+prep | 富含維他命
+c_adopt-a-resolution | adopt a resolution | v+n | 通過決議
+c_pass-through-customs | pass through customs | v+prep | 通過海關
+c_pass-an-amendment | pass an amendment | v+n | 通過修正案

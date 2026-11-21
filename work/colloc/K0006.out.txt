@@ -1,0 +1,297 @@
+interest rate | n+n | 利率 | rate
+birth rate | n+n | 出生率 | rate
+unemployment rate | n+n | 失业率 | rate
+mass production | adj+n | 批量生产 | production
+oil production | n+n | 石油产量 | production
+film production | n+n | 电影制作 | production
+senior official | adj+n | 高级官员 | official
+government official | n+n | 政府官员 | official
+follow instructions | v+n | 遵循指示 | follow
+follow advice | v+n | 听从建议 | follow
+follow the rules | v+n | 遵守规则 | follow
+follow in sb's footsteps | v+prep | 追随某人的脚步 | follow
+provide evidence | v+n | 提供证据 | evidence
+strong evidence | adj+n | 有力的证据 | evidence
+clear evidence | adj+n | 明确的证据 | evidence
+evidence of sth | v+prep | …的证据 | evidence
+earn sb's trust | v+n | 赢得信任 | trust
+breach of trust | n+n | 违背信任 | trust
+trust sb with sth | v+prep | 把…托付给某人 | trust
+blindly trust | v+adv | 盲目信任 | trust
+take a step | v+n | 迈出一步 | step
+step forward | v+adv | 上前一步 | step
+huge size | adj+n | 巨大的尺寸 | size
+average size | adj+n | 平均大小 | size
+size of sth | n+n | …的大小 | size
+draw a picture | v+n | 画画 | picture
+take a picture | v+n | 拍照 | picture
+paint a picture | v+n | 描绘 | picture
+big picture | adj+n | 全局 | picture
+fashion model | n+n | 时装模特 | model
+build a model | v+n | 建立模型 | model
+tennis match | n+n | 网球赛 | match
+match sth against sth | v+prep | 使…与…对照 | match
+perfect match | adj+n | 绝配 | match
+senior management | adj+n | 高层管理 | management
+time management | n+n | 时间管理 | management
+financial management | adj+n | 财务管理 | management
+premier league | adj+n | 超级联赛 | league
+league table | n+n | 排行榜 | league
+feel a sense of | v+prep | 感到 | feeling
+hurt sb's feelings | v+n | 伤害某人感情 | feeling
+mixed feelings | adj+n | 复杂的感情 | feeling
+strong feeling | adj+n | 强烈的感觉 | feeling
+federal government | adj+n | 联邦政府 | federal
+federal law | adj+n | 联邦法律 | federal
+fast food | adj+n | 快餐 | fast
+fast asleep | adv+adj | 熟睡 | fast
+fast growing | adv+adj | 快速增长的 | fast
+fall in love | v+n | 坠入爱河 | fall
+fall behind | v+adv | 落后 | fall
+fall sharply | v+adv | 急剧下降 | fall
+fall short of sth | v+prep | 达不到 | fall
+eat out | v+adv | 外出就餐 | eat
+eat a meal | v+n | 吃饭 | eat
+eat healthily | v+adv | 健康饮食 | eat
+drive a car | v+n | 开车 | drive
+drive sb crazy | v+n | 把某人逼疯 | drive
+drive carefully | v+adv | 小心驾驶 | drive
+drive down the road | v+prep | 沿路开车 | drive
+test drive | n+n | 试驾 | drive
+blue sky | adj+n | 蓝天 | blue
+a large amount of | n+n | 大量 | amount
+amount to sth | v+prep | 总计, 相当于 | amount
+amount of money | n+n | 金额 | amount
+various reasons | adj+n | 种种原因 | various
+various ways | adj+n | 各种方式 | various
+free trade | adj+n | 自由贸易 | trade
+trade union | n+n | 工会 | trade
+trade deficit | n+n | 贸易逆差 | trade
+trade in sth | v+prep | 经营 | trade
+computer science | n+n | 计算机科学 | science
+social science | adj+n | 社会科学 | science
+science fiction | n+n | 科幻小说 | science
+conduct a review | v+n | 进行审查 | review
+book review | n+n | 书评 | review
+review a decision | v+n | 重新考虑决定 | review
+a wide range of | n+n | 各种各样的 | range
+price range | n+n | 价格范围 | range
+age range | n+n | 年龄范围 | range
+well paid | adv+adj | 薪水高的 | paid
+highly paid | adv+adj | 高薪的 | paid
+paid leave | adj+n | 带薪假 | paid
+home page | n+n | 主页 | page
+turn the page | v+n | 翻页 | page
+web page | n+n | 网页 | page
+key factor | adj+n | 关键因素 | key
+key issue | adj+n | 关键问题 | key
+keyboard shortcut | n+n | 键盘快捷键 | key
+look forward to sth | v+prep | 期待 | forward
+step forward | v+adv | 上前 | forward
+move forward | v+adv | 前进 | forward
+bring sth forward | v+adv | 提前 | forward
+central heating | adj+n | 集中供暖 | central
+central bank | adj+n | 中央银行 | central
+central role | adj+n | 核心作用 | central
+vote for sb | v+prep | 投票支持 | vote
+cast a vote | v+n | 投票 | vote
+vote against sth | v+prep | 投票反对 | vote
+majority vote | n+n | 多数票 | vote
+writing style | n+n | 写作风格 | style
+fashion style | n+n | 时尚风格 | style
+send a message | v+n | 发消息 | send
+send an email | v+n | 发邮件 | send
+send sb a letter | v+n | 给某人寄信 | send
+send sth to sb | v+prep | 把…寄给某人 | send
+high quality | adj+n | 高质量 | quality
+poor quality | adj+n | 质量差 | quality
+quality of life | n+n | 生活质量 | quality
+quality control | n+n | 质量控制 | quality
+private property | adj+n | 私有财产 | property
+property market | n+n | 房地产市场 | property
+natural disaster | adj+n | 自然灾害 | natural
+natural resources | adj+n | 自然资源 | natural
+natural gas | adj+n | 天然气 | natural
+come naturally | v+adv | 自然而然 | natural
+lower the price | v+n | 降价 | lower
+lower the age | v+n | 降低年龄 | lower
+lower class | adj+n | 下层阶级 | lower
+absolutely hate | v+adv | 极其讨厌 | hate
+really hate | v+adv | 真的很讨厌 | hate
+hate sb for sth | v+prep | 因…恨某人 | hate
+hate speech | n+n | 仇恨言论 | hate
+football pitch | n+n | 足球场 | football
+football fan | n+n | 足球迷 | football
+cup final | n+n | 杯赛决赛 | cup
+a cup of tea | n+n | 一杯茶 | cup
+win the cup | v+n | 赢得奖杯 | cup
+chief minister | adj+n | 首席部长 | chief
+chief reason | adj+n | 主要原因 | chief
+main character | adj+n | 主角 | character
+strong character | adj+n | 坚强的性格 | character
+character trait | n+n | 性格特征 | character
+younger brother | adj+n | 弟弟 | brother
+big brother | adj+n | 哥哥 | brother
+pay attention | v+n | 注意 | attention
+attract attention | v+n | 吸引注意 | attention
+draw attention to sth | v+prep | 使人注意到 | attention
+catch sb's attention | v+n | 引起某人注意 | attention
+attention to detail | n+n | 注重细节 | attention
+title page | n+n | 扉页 | title
+hold the title | v+n | 保持头衔 | title
+win the title | v+n | 夺冠 | title
+title role | n+n | 主角 | title
+early stage | adj+n | 早期阶段 | stage
+final stage | adj+n | 最后阶段 | stage
+take the stage | v+n | 登台 | stage
+at this stage | n+n | 在这个阶段 | stage
+stage of sth | n+n | …的阶段 | stage
+serious injury | adj+n | 重伤 | serious
+serious problem | adj+n | 严重问题 | serious
+seriously ill | adv+adj | 病重 | serious
+seriously injured | adv+adj | 重伤 | serious
+closely related | adv+adj | 密切相关 | related
+related to sth | v+prep | 与…有关 | related
+crude oil | adj+n | 原油 | oil
+oil price | n+n | 油价 | oil
+olive oil | n+n | 橄榄油 | oil
+oil spill | n+n | 石油泄漏 | oil
+native language | adj+n | 母语 | language
+foreign language | adj+n | 外语 | language
+body language | n+n | 肢体语言 | language
+programming language | n+n | 编程语言 | language
+get involved in sth | v+prep | 参与 | involved
+deeply involved | adv+adj | 深度参与 | involved
+emotionally involved | adv+adj | 感情上牵涉 | involved
+economic growth | adj+n | 经济增长 | economic
+economic crisis | adj+n | 经济危机 | economic
+economic policy | adj+n | 经济政策 | economic
+walk the dog | v+n | 遛狗 | dog
+guide dog | n+n | 导盲犬 | dog
+dog food | n+n | 狗粮 | dog
+complete a form | v+n | 填写表格 | complete
+complete a course | v+n | 完成课程 | complete
+completely different | adv+adj | 完全不同 | complete
+completely agree | v+adv | 完全同意 | complete
+complete stranger | adj+n | 完全陌生的人 | complete
+blood pressure | n+n | 血压 | blood
+blood test | n+n | 验血 | blood
+donate blood | v+n | 献血 | blood
+blood vessel | n+n | 血管 | blood
+in cold blood | n+n | 冷血地 | blood
+amazing view | adj+n | 令人惊叹的景色 | amazing
+absolutely amazing | adv+adj | 太棒了 | amazing
+amazing story | adj+n | 惊人的故事 | amazing
+written agreement | adj+n | 书面协议 | written
+written permission | adj+n | 书面许可 | written
+written consent | adj+n | 书面同意 | written
+official website | adj+n | 官方网站 | website
+visit a website | v+n | 访问网站 | website
+launch a website | v+n | 推出网站 | website
+information technology | n+n | 信息技术 | technology
+modern technology | adj+n | 现代技术 | technology
+advanced technology | adj+n | 先进技术 | technology
+latest technology | adj+n | 最新技术 | technology
+difficult situation | adj+n | 困境 | situation
+cope with a situation | v+prep | 应付局面 | situation
+financial situation | adj+n | 财务状况 | situation
+release a statement | v+n | 发表声明 | release
+press release | n+n | 新闻稿 | release
+release a film | v+n | 上映电影 | release
+release sb from sth | v+prep | 使某人摆脱 | release
+release date | n+n | 发行日期 | release
+extreme poverty | adj+n | 赤贫 | poor
+poor quality | adj+n | 质量差 | poor
+poor health | adj+n | 健康状况差 | poor
+poor performance | adj+n | 表现不佳 | poor
+kill time | v+n | 消磨时间 | kill
+kill sb instantly | v+adv | 当场杀死某人 | kill
+kill off sth | v+prep | 彻底消灭 | kill
+entire world | adj+n | 全世界 | entire
+entire population | adj+n | 全体人口 | entire
+entire life | adj+n | 一生 | entire
+enjoy oneself | v+n | 玩得开心 | enjoy
+thoroughly enjoy | v+adv | 十分喜爱 | enjoy
+enjoy life | v+n | 享受生活 | enjoy
+enjoy a meal | v+n | 享用美食 | enjoy
+make a decision | v+n | 做决定 | decision
+reach a decision | v+n | 作出决定 | decision
+take a decision | v+n | 作决定 | decision
+final decision | adj+n | 最终决定 | decision
+difficult decision | adj+n | 艰难的决定 | decision
+overturn a decision | v+n | 推翻决定 | decision
+damn good | adv+adj | 非常好 | damn
+born into | v+prep | 出生于 | born
+born and bred | adj+n | 土生土长 | born
+born in | v+prep | 出生于 | born
+heart attack | n+n | 心脏病发作 | attack
+terrorist attack | n+n | 恐怖袭击 | attack
+launch an attack | v+n | 发动攻击 | attack
+come under attack | v+prep | 受到攻击 | attack
+newspaper article | n+n | 报纸文章 | article
+article of clothing | n+n | 服装物品 | article
+add up | v+adv | 合计 | add
+add to sth | v+prep | 增加 | add
+add insult to injury | v+n | 雪上加霜 | add
+go for a walk | v+prep | 去散步 | walk
+take a walk | v+n | 散步 | walk
+walk of life | n+n | 社会阶层 | walk
+walk home | v+adv | 走回家 | walk
+trade union | n+n | 工会 | union
+student union | n+n | 学生会 | union
+super hero | adj+n | 超级英雄 | super
+super bowl | n+n | 超级碗 | super
+staff meeting | n+n | 员工会议 | staff
+medical staff | adj+n | 医务人员 | staff
+teaching staff | n+n | 教职工 | staff
+simply amazing | adv+adj | 简直惊人 | simply
+simple question | adj+n | 简单的问题 | simple
+simple solution | adj+n | 简单的办法 | simple
+simple matter | adj+n | 简单的事 | simple
+sign a contract | v+n | 签合同 | sign
+sign a petition | v+n | 签署请愿书 | sign
+sign up for sth | v+prep | 报名参加 | sign
+warning sign | n+n | 警示标志 | sign
+seem to be | v+prep | 似乎是 | seem
+horse race | n+n | 赛马 | race
+race relations | n+n | 种族关系 | race
+win a race | v+n | 赢得比赛 | race
+pick a fight | v+n | 挑起争斗 | pick
+lose weight | v+n | 减肥 | lose
+lose one's temper | v+n | 发脾气 | lose
+lose track of time | v+n | 忘记时间 | lose
+lose control | v+n | 失去控制 | lose
+lose sight of sth | v+prep | 忽视 | lose
+lose interest | v+n | 失去兴趣 | lose
+legal action | adj+n | 法律诉讼 | legal
+legal advice | adj+n | 法律咨询 | legal
+legal system | adj+n | 法律体系 | legal
+legal age | adj+n | 法定年龄 | legal
+increase sharply | v+adv | 急剧增加 | increase
+increase in sth | v+prep | …的增加 | increase
+rapid increase | adj+n | 迅速增长 | increase
+increase the price | v+n | 提价 | increase
+increase by | v+prep | 增加了 | increase
+brush one's hair | v+n | 梳头 | hair
+hair dryer | n+n | 吹风机 | hair
+curly hair | adj+n | 卷发 | hair
+foreign policy | adj+n | 外交政策 | foreign
+foreign language | adj+n | 外语 | foreign
+foreign aid | adj+n | 对外援助 | foreign
+financial crisis | adj+n | 金融危机 | financial
+financial support | adj+n | 经济支持 | financial
+financial services | adj+n | 金融服务 | financial
+general election | adj+n | 大选 | election
+hold an election | v+n | 举行选举 | election
+win an election | v+n | 赢得选举 | election
+knock on the door | v+prep | 敲门 | door
+answer the door | v+n | 开门 | door
+slam the door | v+n | 重重关门 | door
+currently unavailable | adv+adj | 目前无法获得 | currently
+cover a topic | v+n | 涉及话题 | cover
+cover costs | v+n | 支付费用 | cover
+cover up | v+adv | 掩盖 | cover
+cover story | n+n | 封面故事 | cover
+city council | n+n | 市议会 | council
+local council | adj+n | 地方议会 | council
+council meeting | n+n | 议会会议 | council

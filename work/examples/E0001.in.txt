@@ -1,0 +1,301 @@
+w000001.1 | the | det. | A1 | 这, 那, 该 | used before a noun that is known or specific
+w000002.1 | to | prep. | A1 | 向, 往, 到 | in the direction of a place
+w000002.2 | to | prep. | A1 | 给, 对, 对于 | showing who receives or is affected by something
+w000002.3 | to | prep. | A1 | 到, 直到 | until a stated time or point
+w000003.1 | and | conj. | A1 | 和, 与, 并且 | used to join words, phrases or clauses
+w000003.2 | and | conj. | A1 | 然后, 接着 | after that; then
+w000004.1 | of | prep. | A1 | …的, 属于 | belonging to or connected with
+w000004.2 | of | prep. | A1 | 由…组成, 含有 | containing or made up of
+w000004.3 | of | prep. | A1 | 关于, 有关 | about; concerning
+w000005.1 | a | det. | A1 | 一, 一个, 某个 | one; any single person or thing
+w000005.2 | a | det. | A1 | 每, 每一 | for each; per
+w000006.1 | in | prep. | A1 | 在…里, 在…内 | inside a place, container or area
+w000006.2 | in | prep. | A1 | 在…期间, 在…时 | during a period of time
+w000006.3 | in | adv. | A1 | 进, 在里面, 在家 | into or inside a place
+w000007.1 | for | prep. | A1 | 为, 给, 对于 | intended to be given to or used by
+w000007.2 | for | prep. | A1 | 为了, 以便 | with the purpose of
+w000007.3 | for | prep. | A1 | 持续, 达 | showing a length of time or distance
+w000007.4 | for | conj. | A1 | 因为, 由于 | because; since
+w000008.1 | that | det. | A1 | 那, 那个 | the one further away or already mentioned
+w000008.2 | that | pron. | A1 | 那, 那个, 那件事 | a thing or idea already mentioned
+w000008.3 | that | conj. | A1 | 引导从句, 以致 | used to introduce a clause stating a fact or idea
+w000008.4 | that | adv. | A1 | 那么, 那样 | to such a degree; so
+w000009.1 | you | pron. | A1 | 你, 你们 | the person or people being spoken to
+w000009.2 | you | pron. | A1 | 任何人, 人们 | people in general
+w000010.1 | it | pron. | A1 | 它, 这, 那 | the thing or animal already mentioned
+w000010.2 | it | pron. | A1 | 这事, 那事, 情况 | a situation or fact being talked about
+w000011.1 | on | prep. | A1 | 在…上, 在…上面 | touching and supported by a surface
+w000011.2 | on | prep. | A1 | 在…日, 在…时 | used with days and dates
+w000011.3 | on | prep. | A1 | 关于, 有关 | about a particular subject
+w000011.4 | on | adv. | A1 | 继续, 向前 | continuing to do something
+w000011.5 | on | adj. | A1 | 开着的, 运转着的 | working or switched on
+w000012.1 | with | prep. | A1 | 和, 跟, 与…一起 | together with someone or something
+w000012.2 | with | prep. | A1 | 用, 以 | using a tool or means
+w000012.3 | with | prep. | A1 | 带有, 具有 | having or carrying something
+w000013.1 | this | det. | A1 | 这, 这个 | the one near or being mentioned now
+w000013.2 | this | pron. | A1 | 这, 这个, 这件事 | the thing near or being discussed
+w000013.3 | this | adv. | A1 | 这么, 这样 | to this degree
+w000015.1 | be | v. | A1 | 是, 为 | used to say what someone or something is
+w000015.2 | be | v. | A1 | 在, 位于 | to be in a place
+w000015.3 | be | v. | A1 | 存在, 有 | to exist or happen
+w000015.4 | be | aux. | A1 | 正在, 被 | used to form progressive and passive verbs
+w000016.1 | as | conj. | A1 | 当…时, 随着 | while; at the same time that
+w000016.2 | as | conj. | A1 | 因为, 由于 | because; since
+w000016.3 | as | prep. | A1 | 作为, 当作 | in the role or function of
+w000016.4 | as | adv. | A1 | 同样, 一样 | to the same degree, in comparisons
+w000018.1 | have | v. | A1 | 有, 拥有 | to own or possess
+w000018.2 | have | v. | A1 | 必须, 不得不 | to be obliged to do something
+w000018.3 | have | v. | A1 | 吃, 喝, 进行 | to eat, drink or experience something
+w000018.4 | have | aux. | A1 | 已经, 曾经 | used to form perfect tenses
+w000019.1 | at | prep. | A1 | 在, 于 | showing a place or position
+w000019.2 | at | prep. | A1 | 在…时, 在…点钟 | showing a point in time
+w000019.3 | at | prep. | A1 | 向, 朝 | towards; in the direction of
+w000020.1 | he | pron. | A1 | 他, 那个男人 | a male person or animal already mentioned
+w000021.1 | not | adv. | A1 | 不, 没有, 非 | used to make a statement negative
+w000022.1 | by | prep. | A1 | 被, 由 | showing who or what does something
+w000022.2 | by | prep. | A1 | 通过, 靠, 用 | by means of; using
+w000022.3 | by | prep. | A1 | 在…之前, 不迟于 | not later than a time
+w000023.1 | but | conj. | A1 | 但是, 可是, 然而 | used to introduce a contrast
+w000023.2 | but | prep. | A1 | 除了, 除…之外 | except
+w000023.3 | but | adv. | A1 | 只, 仅仅 | only; merely
+w000024.1 | from | prep. | A1 | 从, 自, 来自 | starting at a place, time or source
+w000024.2 | from | prep. | A1 | 离, 距 | showing distance or separation
+w000024.3 | from | prep. | A1 | 由于, 因为 | because of; as a result of
+w000025.1 | my | det. | A1 | 我的, 属于我的 | belonging to the speaker
+w000025.2 | my | int. | A1 | 天哪, 哎呀 | expressing surprise
+w000026.1 | or | conj. | A1 | 或, 或者, 还是 | used to link alternatives
+w000026.2 | or | conj. | A1 | 否则, 要不然 | if not; otherwise
+w000026.3 | or | conj. | A1 | 即, 也就是 | in other words
+w000027.1 | we | pron. | A1 | 我们, 咱们 | the speaker and one or more others
+w000028.1 | an | det. | A1 | 一, 一个, 某个 | form of 'a' used before a vowel sound
+w000029.1 | your | det. | A1 | 你的, 你们的 | belonging to the person or people spoken to
+w000030.1 | all | det. | A1 | 所有, 全部, 一切 | the whole number or amount of
+w000030.2 | all | pron. | A1 | 全部, 大家, 一切 | everyone or everything
+w000030.3 | all | adv. | A1 | 完全, 十分 | completely
+w000031.1 | so | adv. | A1 | 如此, 这么, 很 | to such a great degree
+w000031.2 | so | conj. | A1 | 所以, 因此 | for that reason
+w000031.3 | so | adv. | A1 | 也, 同样 | also; likewise
+w000031.4 | so | conj. | A1 | 以便, 为了 | in order that
+w000032.1 | his | det. | A1 | 他的, 属于他的 | belonging to a male already mentioned
+w000032.2 | his | pron. | A1 | 他的, 他的东西 | the one or ones belonging to him
+w000033.1 | they | pron. | A1 | 他们, 她们, 它们 | the people or things already mentioned
+w000033.2 | they | pron. | A1 | 人们, 有人 | people in general
+w000034.1 | me | pron. | A1 | 我, 本人 | the speaker, used as an object
+w000035.1 | if | conj. | A1 | 如果, 假如, 要是 | on the condition that
+w000035.2 | if | conj. | A1 | 是否, 是不是 | whether
+w000036.1 | one | num. | A1 | 一, 一个 | the number 1
+w000036.2 | one | pron. | A1 | 一个, 某人 | a single person or thing
+w000036.3 | one | det. | A1 | 某一, 某个 | a particular but unnamed person or thing
+w000037.1 | can | aux. | A1 | 能, 会, 能够 | to be able to
+w000037.2 | can | aux. | A1 | 可以, 允许 | to be allowed to
+w000037.3 | can | n. | A1 | 罐头, 金属罐 | a metal container for food or drink
+w000038.1 | will | aux. | A1 | 将, 会, 要 | used to talk about the future
+w000038.2 | will | aux. | A1 | 愿意, 肯 | to be willing to
+w000038.3 | will | n. | A1 | 意志, 决心 | determination to do something
+w000038.4 | will | n. | A1 | 遗嘱, 遗言 | a legal document saying who gets your property
+w000039.1 | just | adv. | A1 | 刚刚, 刚才 | very recently
+w000039.2 | just | adv. | A1 | 只是, 仅仅 | only; simply
+w000039.3 | just | adv. | A1 | 正好, 恰好 | exactly
+w000039.4 | just | adj. | A1 | 公正的, 正义的 | fair and morally right
+w000040.1 | like | v. | A1 | 喜欢, 喜爱 | to enjoy or find pleasant
+w000040.2 | like | v. | A1 | 想要, 希望 | to want, often with would
+w000040.3 | like | prep. | A1 | 像, 如同 | similar to
+w000040.4 | like | prep. | A1 | 比如, 例如 | for example
+w000041.1 | about | prep. | A1 | 关于, 有关 | on the subject of
+w000041.2 | about | adv. | A1 | 大约, 左右 | approximately
+w000041.3 | about | adv. | A1 | 到处, 四处 | in many places; here and there
+w000042.1 | up | adv. | A1 | 向上, 往上 | towards a higher place or level
+w000042.2 | up | prep. | A1 | 沿着, 向…上方 | along or towards the top of
+w000042.3 | up | adv. | A1 | 完, 尽 | completely; so nothing is left
+w000042.4 | up | adj. | A1 | 起床的, 醒着的 | awake and out of bed
+w000043.1 | out | adv. | A1 | 出, 向外, 在外 | away from the inside of a place
+w000043.2 | out | adv. | A1 | 外出, 不在家 | away from home or work
+w000043.3 | out | adj. | A1 | 熄灭的, 不亮的 | no longer burning or shining
+w000044.1 | what | pron. | A1 | 什么, 什么东西 | used to ask for information
+w000044.2 | what | det. | A1 | 什么, 哪些 | used to ask which thing or kind
+w000044.3 | what | pron. | A1 | 所…的, …的事物 | the thing or things that
+w000045.1 | when | adv. | A1 | 什么时候, 何时 | at what time
+w000045.2 | when | conj. | A1 | 当…时, 在…时候 | at the time that
+w000045.3 | when | conj. | A1 | 既然, 虽然 | considering that; although
+w000046.1 | more | det. | A1 | 更多的, 较多的 | a larger number or amount
+w000046.2 | more | adv. | A1 | 更, 更加 | to a greater degree
+w000046.3 | more | adv. | A1 | 再, 又 | again; additionally
+w000047.1 | do | v. | A1 | 做, 干, 进行 | to perform an action or activity
+w000047.2 | do | v. | A1 | 完成, 处理 | to finish or deal with something
+w000047.3 | do | v. | A1 | 行, 足够 | to be enough or suitable
+w000047.4 | do | aux. | A1 | 确实, 的确, 务必 | used in questions, negatives and for emphasis
+w000048.1 | no | adv. | A1 | 不, 不是 | used to give a negative answer
+w000048.2 | no | det. | A1 | 没有, 无 | not any
+w000048.3 | no | det. | A1 | 不准, 禁止 | used on signs to forbid something
+w000049.1 | who | pron. | A1 | 谁, 什么人 | what or which person
+w000049.2 | who | pron. | A1 | …的人, 那个人 | used to refer back to a person
+w000050.1 | their | det. | A1 | 他们的, 她们的, 它们的 | belonging to them
+w000051.1 | there | adv. | A1 | 在那里, 那里, 往那里 | in, at or to that place
+w000051.2 | there | pron. | A1 | 有, 存在 | used to say that something exists
+w000051.3 | there | int. | A1 | 好了, 瞧 | used to comfort someone or draw attention
+w000052.1 | her | det. | A1 | 她的, 属于她的 | belonging to a female already mentioned
+w000052.2 | her | pron. | A1 | 她, 那个女人 | a female person, used as an object
+w000053.1 | which | det. | A1 | 哪个, 哪些 | asking about one of a limited set
+w000053.2 | which | pron. | A1 | 哪一个, 哪些 | what one or ones from a group
+w000053.3 | which | pron. | A1 | 那个, 那些 | used to add information about a thing
+w000054.1 | time | n. | A1 | 时间, 时光 | what is measured in minutes, hours and days
+w000054.2 | time | n. | A1 | 时候, 时刻 | a particular point in the day
+w000054.3 | time | n. | A1 | 次, 回 | an occasion when something happens
+w000054.4 | time | v. | A1 | 计时, 安排时间 | to measure or plan when something happens
+w000055.1 | get | v. | A1 | 得到, 获得, 收到 | to obtain or receive something
+w000055.2 | get | v. | A1 | 变得, 成为 | to change to a new state
+w000055.3 | get | v. | A1 | 到达, 抵达 | to arrive at a place
+w000056.1 | would | aux. | A1 | 将, 会 | used as the past form of will
+w000056.2 | would | aux. | A1 | 愿意, 想要 | used in polite requests and wishes
+w000056.3 | would | aux. | A1 | 过去常常, 总是 | used for past habits
+w000057.1 | she | pron. | A1 | 她, 那个女人 | a female person or animal already mentioned
+w000058.1 | new | adj. | A1 | 新的, 新出现的 | recently made, created or discovered
+w000058.2 | new | adj. | A1 | 新来的, 陌生的 | recently arrived or not yet familiar
+w000058.3 | new | adj. | A1 | 崭新的, 未用过的 | not used or owned before
+w000059.1 | people | n. | A1 | 人, 人们 | men, women and children in general
+w000059.2 | people | n. | A1 | 民族, 种族 | a nation or ethnic group
+w000059.3 | people | n. | A1 | 人民, 民众 | the ordinary citizens of a country
+w000060.1 | how | adv. | A1 | 怎么, 如何 | in what way or by what means
+w000060.2 | how | adv. | A1 | 多么, 何等 | to what degree; used for emphasis
+w000060.3 | how | adv. | A1 | 怎么样, 情况如何 | in what condition or state
+w000061.1 | so-so | adj. | B1 | 一般的, 马马虎虎的, 不好不坏的 | neither very good nor very bad
+w000061.2 | so-so | adv. | B1 | 还行, 马马虎虎 | in an average way; not very well
+w000062.1 | some | det. | A1 | 一些, 若干 | an amount or number of
+w000062.2 | some | det. | A1 | 某个, 某一 | an unknown or unnamed person or thing
+w000062.3 | some | pron. | A1 | 一些, 有些 | a number or part of something
+w000063.1 | also | adv. | A1 | 也, 还, 同样 | in addition; too
+w000064.1 | so-and-so | n. | C1 | 某某人, 某某 | a person whose name is not given
+w000064.2 | so-and-so | n. | C1 | 讨厌鬼, 家伙 | an unpleasant or annoying person
+w000065.1 | them | pron. | A1 | 他们, 她们, 它们 | people or things already mentioned, as object
+w000066.1 | now | adv. | A1 | 现在, 目前 | at the present time
+w000066.2 | now | adv. | A1 | 立刻, 马上 | immediately
+w000066.3 | now | conj. | A1 | 既然, 由于 | because something has happened
+w000067.1 | other | det. | A1 | 其他的, 别的 | additional or different from those mentioned
+w000067.2 | other | det. | A1 | 另一个, 另外的 | the second of two, or the rest
+w000067.3 | other | pron. | A1 | 另一个, 其他人 | a different person or thing
+w000068.1 | would-be | adj. | C1 | 想要成为的, 未来的, 自封的 | hoping or trying to become a certain type of person
+w000069.1 | one-to-one | adj. | B2 | 一对一的, 个别的 | between two people only
+w000069.2 | one-to-one | adj. | B2 | 一一对应的 | matching each item with exactly one other
+w000070.1 | all-out | adj. | C1 | 全力以赴的, 竭尽全力的, 全面的 | using every possible effort
+w000071.1 | its | det. | A1 | 它的, 其 | belonging to a thing or animal
+w000072.1 | our | det. | A1 | 我们的, 咱们的 | belonging to the speaker and others
+w000073.1 | than | conj. | A1 | 比, 较 | used to introduce the second part of a comparison
+w000073.2 | than | conj. | A1 | 除了, 而不是 | used after other or rather
+w000074.1 | good | adj. | A1 | 好的, 优良的 | of high quality or pleasant
+w000074.2 | good | adj. | A1 | 擅长的, 熟练的 | able to do something well
+w000074.3 | good | adj. | A1 | 善良的, 乖的 | kind or well-behaved
+w000074.4 | good | n. | A1 | 好处, 利益 | something that helps or benefits
+w000075.1 | only | adv. | A1 | 只, 仅仅 | no more than; just
+w000075.2 | only | adj. | A1 | 唯一的, 仅有的 | with no others of the same kind
+w000075.3 | only | conj. | A1 | 可是, 不过 | but; except that
+w000076.1 | after | prep. | A1 | 在…之后, 以后 | later than a time or event
+w000076.2 | after | conj. | A1 | 在…以后 | later than the time when
+w000076.3 | after | prep. | A1 | 追赶, 寻找 | following or trying to catch
+w000077.1 | first | num. | A1 | 第一, 第一的, 最早的 | coming before all others
+w000077.2 | first | adv. | A1 | 首先, 第一次 | before anything or anyone else
+w000077.3 | first | adv. | A1 | 最初, 起初 | at the beginning
+w000078.1 | him | pron. | A1 | 他, 那个男人 | a male person, used as an object
+w000079.1 | into | prep. | A1 | 进入, 到…里面 | to the inside of
+w000079.2 | into | prep. | A1 | 变成, 成为 | showing a change of form or state
+w000079.3 | into | prep. | A1 | 喜欢, 热衷于 | very interested in
+w000080.1 | know | v. | A1 | 知道, 了解 | to have information in your mind
+w000080.2 | know | v. | A1 | 认识, 熟悉 | to be familiar with a person or place
+w000080.3 | know | v. | A1 | 懂得, 会 | to have learned a skill or language
+w000081.1 | see | v. | A1 | 看见, 看到 | to notice using your eyes
+w000081.2 | see | v. | A1 | 明白, 理解 | to understand
+w000081.3 | see | v. | A1 | 见面, 会见, 看望 | to meet or visit someone
+w000082.1 | two | num. | A1 | 二, 两, 两个 | the number 2
+w000083.1 | all-time | adj. | B2 | 空前的, 有史以来的 | greater or more than ever before
+w000084.1 | make | v. | A1 | 做, 制造, 制作 | to produce or create something
+w000084.2 | make | v. | A1 | 使, 让, 迫使 | to cause someone to do or be something
+w000084.3 | make | v. | A1 | 挣得, 赚 | to earn money
+w000084.4 | make | n. | A1 | 品牌, 型号 | the brand of a product
+w000085.1 | over | prep. | A1 | 在…上方, 越过 | above or across something
+w000085.2 | over | prep. | A1 | 超过, 多于 | more than
+w000085.3 | over | prep. | A1 | 在…期间 | during a period of time
+w000085.4 | over | adj. | A1 | 结束的, 完了的 | finished
+w000086.1 | think | v. | A1 | 认为, 以为, 觉得 | to have an opinion or belief
+w000086.2 | think | v. | A1 | 想, 思考, 考虑 | to use your mind to consider something
+w000087.1 | any | det. | A1 | 任何, 任一 | one or some, no matter which
+w000087.2 | any | det. | A1 | 一些, 什么 | some, used in questions and negatives
+w000087.3 | any | pron. | A1 | 任何一个, 任何人 | one or some of a group
+w000088.1 | one-time | adj. | C1 | 以前的, 一度的 | former
+w000088.2 | one-time | adj. | C1 | 一次性的, 仅一次的 | happening or used only once
+w000089.1 | then | adv. | A1 | 然后, 接着 | after that; next
+w000089.2 | then | adv. | A1 | 那时, 当时 | at that time
+w000089.3 | then | adv. | A1 | 那么, 那样的话 | in that case
+w000090.1 | could | aux. | A1 | 能, 会, 可以 | past form of can, showing ability
+w000090.2 | could | aux. | A1 | 可能, 也许 | showing possibility
+w000090.3 | could | aux. | A1 | 可以吗, 能否 | used in polite requests
+w000091.1 | back | adv. | A1 | 回, 回原处, 返回 | to the place or state you were in before
+w000091.2 | back | n. | A1 | 背, 背部 | the rear part of the body
+w000091.3 | back | n. | A1 | 后面, 背面 | the part furthest from the front
+w000091.4 | back | adj. | A1 | 后面的, 后部的 | at or near the rear
+w000091.5 | back | v. | A1 | 支持, 支援 | to give support to
+w000091.6 | back | v. | A1 | 倒退, 后退 | to move backwards
+w000092.1 | these | det. | A1 | 这些, 这几个 | the ones near or being mentioned now
+w000092.2 | these | pron. | A1 | 这些, 这几个 | the things or people near or mentioned
+w000093.1 | us | pron. | A1 | 我们, 咱们 | the speaker and others, used as an object
+w000094.1 | want | v. | A1 | 想要, 要, 希望 | to wish to have or do something
+w000094.2 | want | v. | A1 | 需要, 应该 | to need
+w000094.3 | want | n. | A1 | 缺乏, 不足 | a lack of something
+w000095.1 | because | conj. | A1 | 因为, 由于 | for the reason that
+w000096.1 | get-up | n. | C1 | 装束, 打扮, 奇装异服 | an unusual or striking set of clothes
+w000097.1 | go | v. | A1 | 去, 走, 行进 | to move or travel to a place
+w000097.2 | go | v. | A1 | 离开, 走开 | to leave a place
+w000097.3 | go | v. | A1 | 变得, 变成 | to change to a different state
+w000097.4 | go | n. | A1 | 尝试, 一次机会 | an attempt or turn
+w000098.1 | well | adv. | A1 | 好, 令人满意地 | in a good or satisfactory way
+w000098.2 | well | adv. | A1 | 充分地, 很, 相当 | thoroughly; to a great degree
+w000098.3 | well | adj. | A1 | 健康的, 身体好的 | healthy; not ill
+w000098.4 | well | int. | A1 | 嗯, 好吧 | used to pause or start speaking
+w000098.5 | well | n. | A1 | 井, 水井 | a deep hole for getting water or oil
+w000099.1 | way | n. | A1 | 方法, 方式 | a method or manner of doing something
+w000099.2 | way | n. | A1 | 路, 道路, 路线 | a route or road to a place
+w000099.3 | way | n. | A1 | 方面, 点 | a particular aspect
+w000099.4 | way | adv. | A1 | 远远地, 大大地 | very far; by a large amount
+w000100.1 | most | adv. | A1 | 最, 最为 | to the greatest degree
+w000100.2 | most | det. | A1 | 大多数, 大部分 | nearly all of
+w000100.3 | most | adv. | A1 | 非常, 极其 | very; extremely
+w000101.1 | much | det. | A1 | 许多, 大量 | a large amount of
+w000101.2 | much | adv. | A1 | 非常, 很, 大大 | to a great degree; a lot
+w000101.3 | much | pron. | A1 | 许多, 大量 | a large amount
+w000102.1 | very | adv. | A1 | 很, 非常, 十分 | to a high degree
+w000102.2 | very | adj. | A1 | 正是的, 恰好的 | exact or actual, for emphasis
+w000103.1 | where | adv. | A1 | 在哪里, 到哪里 | in or to what place
+w000103.2 | where | conj. | A1 | 在…的地方, 到…的地方 | in or to the place that
+w000104.1 | even | adv. | A2 | 甚至, 连 | used to show something is surprising
+w000104.2 | even | adv. | A2 | 更, 还 | used to make a comparison stronger
+w000104.3 | even | adj. | A2 | 平坦的, 平的 | flat and smooth
+w000104.4 | even | adj. | A2 | 相等的, 均等的 | equal in amount or level
+w000104.5 | even | adj. | A2 | 偶数的, 双数的 | able to be divided exactly by two
+w000105.1 | should | aux. | A1 | 应该, 应当 | used to say what is right or advisable
+w000105.2 | should | aux. | A1 | 可能, 该 | used to say what is probable
+w000105.3 | should | aux. | A1 | 万一, 如果 | used for an unlikely condition
+w000106.1 | may | aux. | A1 | 可能, 也许 | used to say something is possible
+w000106.2 | may | aux. | A1 | 可以, 允许 | used to ask for or give permission
+w000106.3 | may | aux. | A1 | 祝, 愿 | used to express a wish
+w000107.1 | here | adv. | A1 | 在这里, 到这里 | in, at or to this place
+w000107.2 | here | adv. | A1 | 这时, 此时 | at this point in time
+w000107.3 | here | adv. | A1 | 给你, 喏 | used when offering something
+w000108.1 | need | v. | A1 | 需要, 必须 | to require something because it is necessary
+w000108.2 | need | n. | A1 | 需要, 需求 | something that is necessary
+w000108.3 | need | n. | A1 | 贫困, 困难 | a situation of poverty or difficulty
+w000109.1 | really | adv. | A1 | 真正地, 实际上 | in fact; truly
+w000109.2 | really | adv. | A1 | 非常, 很 | very; extremely
+w000109.3 | really | adv. | A1 | 真的吗, 是吗 | used to show surprise or interest
+w000110.1 | know-all | n. | C2 | 万事通, 自以为是的人 | someone who acts as if they know everything
+w000111.1 | right | adj. | A1 | 正确的, 对的 | correct or true
+w000111.2 | right | adj. | A1 | 右边的, 右的 | on the side of the body away from the heart
+w000111.3 | right | adj. | A1 | 合适的, 恰当的 | most suitable
+w000111.4 | right | adv. | A1 | 正好, 就, 直接 | exactly; directly
+w000111.5 | right | n. | A1 | 权利, 正当要求 | something you are morally or legally allowed
+w000111.6 | right | n. | A1 | 右边, 右方 | the right side or direction
+w000112.1 | work | v. | A1 | 工作, 劳动 | to do a job or activity
+w000112.2 | work | v. | A1 | 运转, 起作用, 奏效 | to function or be effective
+w000112.3 | work | n. | A1 | 工作, 劳动 | activity that needs effort
+w000112.4 | work | n. | A1 | 职业, 工作单位 | a job or the place where you do it
+w000112.5 | work | n. | A1 | 作品, 著作 | something produced by an artist or writer
+w000113.1 | year | n. | A1 | 年, 一年 | a period of twelve months
+w000113.2 | year | n. | A1 | 年级, 学年 | a level or period in school
+w000113.3 | year | n. | A1 | 岁, 年纪 | a measure of age

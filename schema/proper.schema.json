@@ -1,0 +1,95 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "open-learner-dict/0.10.0/proper.schema.json",
+  "title": "open-learner-dict proper (one object per JSONL line)",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^p_"
+    },
+    "word": {
+      "type": "string"
+    },
+    "display": {
+      "type": "string"
+    },
+    "layer": {
+      "enum": [
+        "proper"
+      ]
+    },
+    "zipf": {
+      "type": "number"
+    },
+    "names": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "type": {
+            "enum": [
+              "place",
+              "person",
+              "brand",
+              "org",
+              "abbr",
+              "work",
+              "people",
+              "religion",
+              "event",
+              "other"
+            ]
+          },
+          "zh": {
+            "type": "string"
+          },
+          "zh_hant": {
+            "type": "string"
+          },
+          "note": {
+            "type": "string"
+          },
+          "note_hant": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "type",
+          "zh",
+          "zh_hant",
+          "note",
+          "note_hant"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "also_common": {
+      "type": "boolean"
+    },
+    "confidence": {
+      "enum": [
+        "low"
+      ]
+    },
+    "reviewed": {
+      "type": "boolean"
+    },
+    "meta": {
+      "type": "object"
+    }
+  },
+  "required": [
+    "id",
+    "word",
+    "display",
+    "layer",
+    "zipf",
+    "names",
+    "also_common",
+    "confidence",
+    "reviewed",
+    "meta"
+  ],
+  "additionalProperties": false
+}

@@ -1,0 +1,126 @@
+ph_throw-the-baby-out-with-the-bathwater.1 | throw the baby out with the bathwater | v. | 連好的也一起丟掉
+ph_take-it-or-leave-it.1 | take it or leave it | v. | 要就要, 不要就算了
+ph_write-sth-off.1 | write sth off | v. | 註銷, 勾銷
+ph_limber-up.1 | limber up | v. | 做暖身運動
+ph_type-sth-up.1 | type sth up | v. | 打字整理
+ph_tool-up.1 | tool up | v. | 配備武器或設備
+c_a-cover-story | a cover story | n+n | 封面報導
+c_reach-a-level | reach a level | v+n | 達到水準
+c_make-a-plan | make a plan | v+n | 制訂計畫
+c_detailed-plan | detailed plan | adj+n | 詳細計畫
+c_critical-thinking | critical thinking | adj+n | 批判性思考
+c_running-costs | running costs | adj+n | 營運成本
+c_added-value | added value | adj+n | 附加價值
+c_pay-a-bill | pay a bill | v+n | 付帳單
+c_electricity-bill | electricity bill | n+n | 電費帳單
+c_fashion-model | fashion model | n+n | 時裝模特兒
+c_high-quality | high quality | adj+n | 高品質
+c_poor-quality | poor quality | adj+n | 品質差
+c_visit-a-website | visit a website | v+n | 瀏覽網站
+c_release-a-statement | release a statement | v+n | 發表聲明
+c_terrorist-attack | terrorist attack | n+n | 恐怖攻擊
+c_sign-a-contract | sign a contract | v+n | 簽合約
+c_teaching-staff | teaching staff | n+n | 教職員
+c_internet-access | internet access | n+n | 網路連線
+c_join-the-army | join the army | v+n | 入伍
+c_a-strong-link | a strong link | adj+n | 緊密聯繫
+c_a-direct-link | a direct link | adj+n | 直接聯繫
+c_establish-a-link | establish a link | v+n | 建立聯繫
+c_a-link-with-sb | a link with sb | n+prep | 與某人的聯繫
+c_tick-the-box | tick the box | v+n | 打勾
+c_a-cardboard-box | a cardboard box | n+n | 紙箱
+c_a-standard-of-living | a standard of living | n+n | 生活水準
+c_excess-weight | excess weight | adj+n | 過重
+c_create-a-mess | create a mess | v+n | 弄得一團糟
+c_a-bus-station | a bus station | n+n | 公車站
+c_a-space-station | a space station | n+n | 太空站
+c_an-ageing-population | an ageing population | adj+n | 高齡化人口
+c_a-gas-leak | a gas leak | n+n | 瓦斯外洩
+c_a-press-conference | a press conference | n+n | 記者會
+c_an-organizing-committee | an organizing committee | adj+n | 籌備委員會
+c_raise-capital | raise capital | v+n | 籌措資金
+c_beat-the-traffic | beat the traffic | v+n | 避開塞車
+c_a-trade-association | a trade association | n+n | 同業公會
+c_cross-one-s-legs | cross one's legs | v+n | 蹺二郎腿
+c_a-credit-rating | a credit rating | n+n | 信用評等
+c_a-clearance-sale | a clearance sale | n+n | 出清大拍賣
+c_take-minutes | take minutes | v+n | 做會議紀錄
+c_the-minutes-of-a-meeting | the minutes of a meeting | n+n | 會議紀錄
+c_make-a-statement | make a statement | v+n | 發表聲明
+c_issue-a-statement | issue a statement | v+n | 發表聲明
+c_a-bank-statement | a bank statement | n+n | 銀行對帳單
+c_a-joint-statement | a joint statement | adj+n | 聯合聲明
+c_a-clean-record | a clean record | adj+n | 清白紀錄
+c_a-heavy-smoker | a heavy smoker | adj+n | 菸癮很大的人
+c_regular-exercise | regular exercise | adj+n | 定期運動
+c_book-a-hotel | book a hotel | v+n | 預訂飯店
+c_win-a-contract | win a contract | v+n | 贏得合約
+c_a-binding-contract | a binding contract | adj+n | 有約束力的合約
+c_vividly-imagine | vividly imagine | adv+v | 生動地想像
+c_imagine-sb-doing-sth | imagine sb doing sth | v+prep | 想像某人做某事
+c_a-die-hard-fan | a die-hard fan | adj+n | 死忠粉絲
+c_clearly-marked | clearly marked | adv+adj | 標示清楚
+c_form-a-band | form a band | v+n | 組樂團
+c_fully-equipped | fully equipped | adv+adj | 設備齊全的
+c_piece-of-equipment | piece of equipment | n+n | 一件設備
+c_catch-a-bus | catch a bus | v+n | 趕公車
+c_powerful-engine | powerful engine | adj+n | 強勁的引擎
+c_channel-of-communication | channel of communication | n+n | 溝通管道
+c_digital-age | digital age | adj+n | 數位時代
+c_marketing-campaign | marketing campaign | n+n | 行銷活動
+c_affordable-housing | affordable housing | adj+n | 平價住宅
+c_make-a-connection | make a connection | v+n | 建立聯繫
+c_close-connection | close connection | adj+n | 密切聯繫
+c_connection-with-sth | connection with sth | n+prep | 與…有聯繫
+c_turn-a-corner | turn a corner | v+n | 轉過轉角
+c_declare-a-winner | declare a winner | v+n | 宣布獲勝者
+c_joint-statement | joint statement | adj+n | 聯合聲明
+c_proof-of-identity | proof of identity | n+n | 身分證明
+c_originally-planned | originally planned | adv+v | 原計畫
+c_stuck-in-traffic | stuck in traffic | adj+prep | 塞在路上
+c_draw-up-a-schedule | draw up a schedule | v+n | 擬定行程
+c_tight-schedule | tight schedule | adj+n | 緊湊的行程
+c_holiday-season | holiday season | n+n | 假日期間
+c_urban-planning | urban planning | adj+n | 都市計畫
+c_split-the-bill | split the bill | v+n | 平攤帳單
+c_raise-finance | raise finance | v+n | 籌措資金
+c_establish-one-s-identity | establish one's identity | v+n | 確認身分
+c_reveal-one-s-identity | reveal one's identity | v+n | 透露身分
+c_media-coverage | media coverage | n+n | 媒體報導
+c_live-coverage | live coverage | adj+n | 現場報導, 直播
+c_news-coverage | news coverage | n+n | 新聞報導
+c_a-vicious-cycle | a vicious cycle | adj+n | 惡性循環
+c_creative-thinking | creative thinking | adj+n | 創造性思考
+c_a-bomb-attack | a bomb attack | n+n | 炸彈攻擊
+c_home-delivery | home delivery | n+n | 送貨到府
+c_strengthen-the-bond | strengthen the bond | v+n | 加強聯繫
+c_a-close-bond | a close bond | adj+n | 緊密聯繫
+c_declare-independence | declare independence | v+n | 宣布獨立
+c_public-transportation | public transportation | adj+n | 大眾運輸
+c_a-transportation-system | a transportation system | n+n | 運輸系統
+c_a-tight-schedule | a tight schedule | adj+n | 緊湊的行程
+c_a-pension-scheme | a pension scheme | n+n | 退休金計畫
+c_launch-a-scheme | launch a scheme | v+n | 推行計畫
+c_a-training-programme | a training programme | n+n | 培訓計畫
+c_launch-a-programme | launch a programme | v+n | 啟動計畫
+c_normally-distributed | normally distributed | adv+adj | 常態分布的
+c_make-a-mess | make a mess | v+n | 弄得一團糟
+c_a-bus-lane | a bus lane | n+n | 公車專用道
+c_an-agenda-item | an agenda item | n+n | 議程項目
+c_a-golf-club | a golf club | n+n | 高爾夫球桿
+c_suffer-from-depression | suffer from depression | v+prep | 患憂鬱症
+c_a-noise-level | a noise level | n+n | 噪音水準
+c_a-matt-finish | a matt finish | adj+n | 霧面效果
+c_matt-paint | matt paint | adj+n | 霧面漆
+c_officially-announce | officially announce | adv+v | 正式宣布
+c_automatically-generated | automatically generated | adv+adj | 自動產生的
+c_strongly-support | strongly support | adv+v | 大力支持
+c_vote-for-sb | vote for sb | v+prep | 投票支持
+c_emotional-support | emotional support | adj+n | 情感支持
+c_spread-a-rumour | spread a rumour | v+n | 散布謠言
+c_pass-a-law | pass a law | v+n | 通過法律
+c_pass-a-test | pass a test | v+n | 通過考試
+c_pass-an-exam | pass an exam | v+n | 通過考試
+c_pass-a-bill | pass a bill | v+n | 通過法案
+c_pass-a-resolution | pass a resolution | v+n | 通過決議
+c_pass-legislation | pass legislation | v+n | 通過立法

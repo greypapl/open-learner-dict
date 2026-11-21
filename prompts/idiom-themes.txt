@@ -1,0 +1,43 @@
+# 习语主题（phrase_more.py make-idioms 每 4 个一块）
+body parts: head, face, eyes, ears, nose, mouth, teeth, tongue
+body parts: hands, fingers, arms, shoulders, legs, feet, back, neck
+heart, mind, brain, blood, bones, skin, stomach
+animals: dogs, cats, horses
+animals: birds, fish, insects, wild animals
+farm animals: pigs, cows, sheep, chickens, goats
+colours
+food and cooking
+drinks, fruit and vegetables
+bread, cake, sweets, eggs, butter, salt
+money, buying and selling, prices
+work, business and careers
+success and failure
+time, speed, lateness, the clock
+weather, seasons, sun, wind, rain, storms
+nature: water, fire, earth, trees, plants, flowers
+sea, ships and sailing
+sport and games
+cards, gambling, luck and chance
+war, fighting and weapons
+the law, crime and punishment
+health, illness, death
+love, relationships, marriage, family
+friendship, enemies, trust, loyalty
+anger, fear, happiness, sadness, surprise
+talking, arguing, secrets, gossip, lies
+honesty, cheating, deception
+thinking, understanding, knowledge, memory
+difficulty, problems, trouble, danger
+ease, simplicity, comfort
+effort, hard work, laziness
+starting, stopping, finishing, changing
+power, control, authority, rules
+risk, decisions, choices, opportunities
+home, house, rooms, furniture, doors, windows
+clothes, hats, shoes, pockets
+travel, roads, vehicles, trains, journeys
+numbers, size, quantity, measurement
+music, theatre, art, books, words
+religion, heaven, hell, the devil, angels
+people's character and behaviour
+age, youth, old age, generations

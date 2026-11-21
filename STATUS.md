@@ -1,6 +1,6 @@
 # open-learner-dict 交接文档（STATUS）
 
-> 更新于 2026-11-18。给 compact 之后的自己 / 维护者看：项目现状、怎么继续、踩过的坑。
+> 更新于 2026-11-19。给 compact 之后的自己 / 维护者看：项目现状、怎么继续、踩过的坑。
 > 设计依据见 [SPEC.md](SPEC.md)；逐步操作模板见 [prompts/RUNBOOK.md](prompts/RUNBOOK.md)。
 
 ## 1. 当前进度
@@ -13,8 +13,14 @@
 | Opus 写 / 审 / Fable 仲裁 | ✅ **B0001–B0453 全部合并**（`work/merged/`；B0089 起为 v3；B0343–B0453 为初筛后的尾部）。主体生产完成 |
 | 已合并词条 | **86,851 条**（453/453 批），disputed 0；另有 61,076 个尾部词经初筛记为 too-rare（`work/merged/triage-skips.jsonl`） |
 | 简释扩展层 | ✅ **48,359 条**（含 Opus 重试 2,692 条）（`work/merged/gloss.jsonl`，confidence=low，未审核） |
-| 扩展层（例句、短语、同反义） | ⏳ 未开始 |
-| 发布脚本（繁体、最终排名、CSV/SQLite/MDX/Anki、质量报告） | ⏳ 未写 |
+| 变形索引 | ✅ **43,970 个形式**（`work/merged/inflections.jsonl`，纯脚本） |
+| 专名层 | ✅ **12,954 条**专名 + 2,568 条普通漏词（`proper.jsonl` / `proper-common.jsonl`，Sonnet，zipf ≥ 2，confidence=low，未审核） |
+| 短语层 | ✅ **13,349 条**（`phrases.jsonl`，全部经 Opus 审核，confidence=medium；见 §0 短语层各轮） |
+| 搭配层 | ✅ **5,016 条**（`collocations.jsonl`，前 5,000 实词，Sonnet 写 + Opus 审，confidence=medium） |
+| 扩展层（例句、同反义） | ⏳ 未开始 |
+| 发布脚本 | ✅ `scripts/release.py --version 0.10.0` → `release/0.10.0/`（JSONL、CSV、SQLite、词表、MANIFEST）；`docs/DATA.md`、`schema/`、README 已写。MDX、Anki 未做 |
+| 例句 | ✅ 前 1 万词 + 全部 A1–C1 词，每个义项 1 句（29,034 条，Opus 写 + Opus 审），见 §0「例句层 v1 完成」。短语层例句未做 |
+| 质量抽检 | ✅ v0.9.0：Fable 抽 900 条，报告 `reports/quality-0.9.0.md` |
 | git | ✅ 2026-11-18 首次提交（work/raw、sources、headwords*.jsonl、selected.jsonl 不入库，见 .gitignore） |
 
 批次顺序 = 选词顺序：B0001–B0306 ≈ 前 1000 + 主池（常用到中频），B0307 起为尾部罕见/专业词（几乎全是 K2）。
@@ -67,20 +73,146 @@ B0307 起为尾部罕见/专业词，拉丁学名按 rules.md 一律 not-english
   - **已完成**：15 块共新增 **2,692 条**（试点 U0001 是 43%，其余各块 9–41%，后面字母段更冷僻）。合并后 gloss.jsonl 共 **48,359 条**，gloss-skips 剩 12,717 个。额度：5 小时 3%→16%，周额度 69%→71%。
   - G0026–27 曾被怀疑偷懒而重写，结果相近，原稿保留为 *.lazy.txt。
 
-### 下一步（2026-11-19 用户已决定：compact 后依次做 1 → 2 → 3）
+### 1+2+3 扩展（2026-11-19 用户决定，已完成）
 
-主词典（86,851）和简释层（48,359）都已完成。wordfreq 前 30 万词对比结果：普通单词基本收全，高频词里还缺的主要是专有名词、品牌、缩写，以及屈折变化形式；短语还完全没做。
+1. **变形索引**（`scripts/inflect.py`，零额度）→ `work/merged/inflections.jsonl`，每行 `{form, lemmas:[{lemma,types,src}], headword}`。
+   - 来源：主词典 inflections（main）、ECDICT exchange（ecdict，要求 zipf ≥ 1.5 去噪）、not-lemma skip 的手工表 + 去后缀/拉丁复数规则（manual / rule）。
+   - 43,970 个形式，827 个本身也是词头（left、saw）。not-lemma skip 389 个覆盖 304；剩下 85 个是原词不在词典里（strew、chid）。
+2. **专名层**（`scripts/proper.py` + `prompts/proper.md`，Sonnet）→ `proper.jsonl`（`{word, display, names:[{type,zh,note}], also_common}`）、`proper-common.jsonl`（普通漏词，gloss 格式）、`proper-skips.jsonl`。
+   - 候选：wordfreq zipf ≥ 3、主词典/简释层/变形索引都没有的 5,704 词，切 P0001–P0012（每块 500）。
+   - 结果：专名 4,272、普通词 366、skip 1,066（unknown 554、junk 296、fragment 135〔angeles、kong 这类多词名碎片〕、not-english 71、numeral 10）。抽查译名准确。
+   - 额度约 5 小时窗口 5%。
+3. **短语层**（`scripts/phrase.py` + `prompts/phrase-writer.md` / `phrase-supp.md` / `phrase-reviewer.md`）→ `phrases.jsonl`（`{phrase, type, senses:[{pos,zh,en_short,tags}], level, flags}`）、`phrase-deletes.jsonl`。
+   - 输入：主词典 zipf 前 6,000 个小写词头，切 Q0001–Q0060（每块 100 词）。Opus 写手（effort=low，每人 3 块）写 phrv / idiom / phrase / compound 四类，compound 补上了主词典没有的分写复合词（ice cream、high school）。
+   - 前几块写得偏保守，写手规则加了「逐词四问」；之后对产出偏少的 23 块做补写（`Q*.supp.txt`，只补缺的）。写手 4,687 + 补写 814 → 去重 4,955。
+   - 审核：切 R0001–R0013（每块 400），Opus 只写改正行或 `delete:<free|rare|proper|wrong|variant>`。改 82、删 175（free 130）。**没有仲裁**，审核结果直接生效。
+   - 最终 **4,780 条**：phrase 1,311、compound 1,242、idiom 1,237、phrv 990；级别以 B2–C1 为主。
+   - 额度：整个 1+2+3 约 5 小时窗口 17%→35%，周额度 71%→73%。
+   - 已知：后段（Q0046 起，词频 4,500 名以后）每块只有 20–40 条，属正常下降；短语没有频率数据，发布时要另想排序（按 level 或按所属词头的 zipf）。
 
-1. **变形索引**（纯脚本，零额度）
-   - 生成 `work/merged/inflections.jsonl`（形式 → 原词，如 went→go、children→child、best→good）。
-   - 来源：主词典词条的 inflections 字段、ECDICT 的 exchange 字段，以及 not-lemma skip 记录；只收原词在主词典或简释层里的。
-2. **专名层**（类似 gloss，约 5,000 词，估计 5–8% 的 5 小时额度）
-   - wordfreq zipf ≥ 3 中未收录的地名、人名、品牌、机构缩写（chicago、google、fbi…），写标准中文译名。
-   - 单独成层，标 `layer: proper`。
-   - 先用脚本列出候选（排除已收、已 skip、变形），再分块交给 Sonnet；规则另写 `prompts/proper.md`。
-3. **短语层**（价值最高、工作量最大）
-   - 从前 5,000–10,000 个常用词出发，让模型列出常用短语动词、介词短语、习语（give up、in spite of、break the ice），先出候选，再走写手 → 审核（→ 仲裁）。
-   - 需要新的格式和规则（`prompts/phrase-*.md`），预计几千到一万多条，一两个 5 小时窗口。开始前先试点。
+### 扩词第二轮（2026-11-19，用户：「再增加一下词吧」）
+
+- **专名层扩到 zipf ≥ 2**：`proper.py make --min 2.0` 追加 P0013–P0076（31,937 词；make 会跳过已切过的词，编号接着排）。
+  - 产出随频率下降：P0013 约 70%，P0030 约 34%，P0047 以后约 20–25%。
+  - 合并后 proper.jsonl **12,954 条**，proper-common **2,568 条**，skip 22,119（unknown 18,494、junk 1,246、not-english 900、fragment 381）。
+  - 已知：proper.py 的 Display 校验不认重音和撇号，所以 L'Oréal 写成了 LOreal、Dennys 等；中文栏不许字母，三K党成员 被改写。发布前可放宽校验后让模型修这些行。
+- **短语层扩到前 10,000 词头**：`phrase.py make --top 10000`（前 60 块输入不变）追加 Q0061–Q0100，后段每块 10–40 条。
+  - `phrase.py dedup --append` 只把新短语切成 R0014–R0016（850 条），旧审核结果不动。审核改 15、删 22。
+  - 合并后 phrases.jsonl **5,608 条**。
+- 额度：5 小时窗口 35%→59%，周额度 73%→77%。
+
+### 短语层大扩充（2026-11-20，用户：「按三个方向补，尽量省 token」）——✅ 已完成
+
+脚本 `scripts/phrase_more.py`（make-verbs / make-idioms / make-cands / triage-check / make-strict / make-compounds），产出仍用 `phrase.py check / dedup --append / merge`。
+1. **短语动词** V0001–V0026（主词典前 1 万词里的 2,502 个动词，每块附 `.have.txt` 已有短语）→ Opus low，prompt `phrase-verbs.md`。✅ 已完成，约 1,300 条。
+2. **习语** I0001–I0011（`prompts/idiom-themes.txt` 42 个主题，已有习语在 `idioms-have.txt`）→ Opus low，prompt `phrase-idioms.md`。✅ 已完成，约 1,600 条。
+   - V + I 去重后 2,465 条，已切成审核块 **R0017–R0023（未审核）**。
+3. **复合词**：ECDICT 2–3 词、由前 2 万常用词组成的 146,536 条 → K0001–K0049 Sonnet 初筛（`phrase-triage.md`）保留 15,189（偏松，部分块 15–22%）→ L0001–L0006 Sonnet 严筛（`phrase-triage2.md`）保留 9,960（仍偏松，约 70%）→ 已切成 **C0001–C0034（每块 300，未写）**。
+   - 写手 prompt `phrase-compound.md` 已改严：只写 OALD 级别的条目，拿不准就不写，预计删掉约三分之一。
+- 复合词写手 C0001–C0034（Sonnet，每人 4–6 块）写出约 6,200 条；去重（与已有短语重复的不再送审）后 5,124 条 → R0024–R0036。
+- 审核 R0017–R0036（Opus，每人 2–3 块）：改 205、删 865。复合词块删得最多（rare 为主，另有 play list / post card 这类本应连写的 delete:wrong）。
+- **合并后 phrases.jsonl 12,332 条**（上轮 5,608），phrase-deletes 1,062 条。级别以 C1（5,554）、B2（3,413）为主。
+- 额度：第一段 5 小时窗口 59%→80%；窗口重置后第二段 11%→23%；周额度共 77%→86%。
+
+### 短语层第四轮：类别横扫 + 查漏（2026-11-20，用户：「做 1 和 2」）
+
+- **类别横扫** F0001–F0008（`prompts/phrase-themes.txt` 24 类：口语、介词短语、学术连接语、成对词、明喻、谚语、商务、时间、数量、科技等；prompt `phrase-themes.md`，Opus low）写出约 1,560 条，但大多数已经有了。
+- **查漏**：Opus 凭记忆列常用短语动词和习语清单（`work/phrase/audit/`，prompt `phrase-audit.md`）共 3,340 条 → `phrase_more.py audit-diff` 对比现有，缺 749 条（覆盖率约 78%）→ G0001–G0003 Sonnet 写出 635 条。
+- 去重后新增 1,055 条 → R0037–R0039 Opus 审核（改 14、删 38）。
+- 合并后 phrases.jsonl **13,349 条**。查漏说明主流常用短语已基本收全，继续扩的边际收益很小。
+- 额度：5 小时窗口 23%→约 36%，周额度 86%→87%。
+
+### 搭配层（2026-11-20，用户：「那就上搭配层吧」）
+
+- 脚本 `scripts/colloc.py`（make / check / merge），规则 `prompts/colloc.md`，数据 `work/colloc/K0001–K0050`（主词典 zipf 前 5,000 个有 n./v./adj./adv. 义项的词头，每块 100）。
+- 格式：`collocation | pattern | 中文 | headword`，pattern 为 v+n / adj+n / n+n / adv+adj / v+adv / v+prep；不写英文释义（省 token）。
+- 试点 K0006 后规则加了「中国学习者会不会选错词」的测试，排除普通组合、介词短语、专名、已在短语层的复合词（试点稿存为 K0006.pilot.txt）。
+- Sonnet 每人 3–4 块。K0007–K0009 第一稿太粗（430–590 条）存为 *.rough.txt 后重写；K0001（最高频词）只写了 71 条，补写到 191 条。
+- 合并：写手共 8,751 条 → 去掉与短语层重复的 1,516 条 → **collocations.jsonl 6,809 条**（adj+n 2,277、v+n 1,565、n+n 1,333、v+prep 871、adv+adj 468、v+adv 295）。同一搭配挂在多个词头下时 headword 为列表。
+- **审核**（同日，用户：「额度够的话现在审」）：`colloc.py review-make` 切 J0001–J0018（每块 400），Opus 按 `prompts/colloc-reviewer.md` 审，`review-apply` 应用。
+  - 改 224，删 1,793（free 1,021、phrase 714、rare 32、wrong 26）→ **collocations.jsonl 5,016 条**，全部 review_status=reviewer-ok/fixed，confidence=medium。删除记录在 `colloc-deletes.jsonl`；审核前版本备份为 `work/colloc/collocations.prereview.jsonl`。
+  - **注意：不要再跑 `colloc.py merge`**，它会用写手稿覆盖审核后的结果；要重来就先 merge 再 review-apply。
+  - 被判为 `phrase` 的 714 条（短语性质的搭配）目前只在 deletes 里，以后可挑出不在短语层的交给短语写手。
+- 额度：写手 周额度 87%→89%；审核 89%→90%，5 小时窗口 43%→56%。
+
+### 发布脚本与质量抽检（2026-11-20，用户目标：「世界上最好、小作坊都能直接用」）
+
+- **发布**：`scripts/release.py [--version 0.9.0]`，16 秒，纯脚本，可重复跑。
+  - 主词典按 zipf 生成最终 `rank`；各层统一 `id / layer / confidence / reviewed`，中文释义统一成字符串。
+  - 输出 `release/<版本>/`（已在 .gitignore）：`jsonl/`、`csv/`、`open-learner-dict.sqlite`（含 `lookup` 表：任意写法 → 层和 id）、`wordlists/`、`MANIFEST.json`。
+  - v0.9.0 条数：core 86,851（105,257 义项）、gloss 50,927（含专名层补的普通漏词，去掉与主词典重复的）、proper 12,954、phrases 13,346、collocations 5,016、inflections 43,937。
+  - `scripts/make_schema.py`：生成 `schema/*.schema.json` 并逐行校验发布包（不依赖第三方库），全部通过。
+  - 文档：`docs/DATA.md`（文件、字段、查词 SQL、已知局限）、`README.md`、`NOTICE.md`。
+- **抽检**：`scripts/audit.py sample / check / report`，规则 `prompts/audit.md`。主词典按 rank 分 5 段各 100 条，其余四层各 100 条，3 个 Fable agent 各判 300 条。
+  - 结果：900 条里 major 2（都在简释层）、minor 57。主词典 major 0、minor 21（4.2%）。
+  - **抽检偏松**：按更严口径主词典约 1% 有释义用词错误（turnip→萝卜、qualitative→质量的 等）。解读和系统性问题清单写在 `reports/quality-0.9.0.notes.md`（report 时自动附在统计表后）。
+  - 系统性问题（v1.0 前要修）：① word_family 混入不同源的词（约 2%）；② 非标准词头（living-room、ngo、kw，约 1%）；③ 搭配 pattern 需拆出 adj+prep / n+prep / n+v；④ 短语连字符写法（runner up）。
+- 额度：周额度 90%→约 91%，Fable 36%→约 38%。
+
+### 四类系统性问题的定向修正 → v0.9.1（2026-11-20）
+
+- `scripts/fixes.py make / check / apply`，规则 `prompts/fixes.md`，数据 `work/fixes/`（H 词头、Y 短语写法、C 搭配分类、F 词族）。8 个 Sonnet，只输出要改的行。
+- 结果：`work/merged/core-fixes.jsonl` 1,233 条（改大小写 72、加 standard_form 792、词族 369）；搭配 pattern 改 421；短语改写 40、移出 166（存 `phrase-solid.jsonl`，其中主词典没有的 56 个由 release.py 转进简释层）、去重 29，短语剩 13,153。
+- 修正前的 phrases / collocations 备份在 `work/fixes/*.prefix.jsonl`。**apply 只能跑一次**（它改写 merged 里的 phrases 和 collocations）。
+- `data/errata.jsonl`：勘误表（sense_id → 新 zh / en_short），release.py 每次自动应用；现有 6 条来自抽检。
+- 发布版改为 **v0.9.1**（`release/0.9.1/`；0.9.0 目录已删，抽检报告仍叫 quality-0.9.0，说明里写了修正情况）。core 增加可选字段 `standard_form`，CSV 和 SQLite 同步加列。
+- 没做的：3 万名以后的词族；H 的判断有些偏严（teabag、passionfruit 两种写法都通行），但只是加了 standard_form，不影响查词。
+- 额度：这一轮周额度 91%→94%，5 小时窗口 56%→81%。**周额度已接近 95% 上限，重置前不要再派 agent。**
+
+### 繁体中文（台湾用词）（2026-11-21，用户同意安装 opencc-python-reimplemented）
+
+- `scripts/hant.py make / check / apply`，规则 `prompts/hant.md`，数据 `work/hant/`（T01–T27 释义 65,137 行；N01–N06 专名 13,126 行）。
+- 做法：OpenCC `s2twp` 转出初稿 → 模型只输出要改的行（T 用 Sonnet 每人 3 块，N 用 Opus low 每人 2 块）→ `apply` 生成 `data/hant-overrides.jsonl`（78,188 条 = 校对范围内全部 key 的最终繁体；模型改了 3,987 条）。
+- **教训：s2twp 的词组模式偏电脑术语，会误伤普通文本**（窗口/视窗→都成視窗，类型→型別，发布→釋出，通过→透過，安全局→安全域性）。所以：
+  - 发布时没进校对范围的（主词典 3 万名以后、简释层）用 `s2tw`（只转字形）+ `data/hant-terms.tsv`（约 75 个无歧义台湾用词）；
+  - 校对范围内模型没改、但仍含已知误伤词或重复项的 75 条，apply 时不写覆盖，退回安全转换。
+- 原文带拉丁/希腊字母的释义（CT、PDF、γ）不接受模型改写（校验不许输出字母，模型只能硬改）。
+- release.py：所有层输出 `zh_hant`（专名另有 `note_hant`），CSV / SQLite / Schema 同步；`docs/DATA.md` §5.1 说明来源。
+- 没做的：香港用词；3 万名以后专业术语的台湾说法；繁体没有抽检过。
+- 额度：周额度 2%→5%，5 小时窗口 12%→约 38%（Sonnet 每个 agent 约 30 万 token，比预想的贵）。
+
+### 例句层 v1 完成（2026-11-21）→ release 0.10.0
+
+- 前 5,000 词 11,658 个义项全部有 1 句例句（`scripts/examples.py`，prompts `example-writer.md` / `example-reviewer.md`）。
+- 写手 Opus low：39 块 × 300，13 个 agent，每个约 13 万 token；审核 Opus：6 块 × 2,000，每个约 20 万 token，共改 97 条（0.8%）。整轮约占 5 小时窗口 15–20%，周额度约 1–2%，比预估省很多。
+- 产物：`work/merged/examples.jsonl`；release 0.10.0 的 `senses[].examples`、`csv/examples.csv`、SQLite `examples` 表；Schema 全部通过。例句繁体只做安全转换。
+- **排名修正（同日）**：wordfreq 把 `so-so` 拆成 so + so 算频率，338 个带连字符/空格的词头排名虚高（so-so 原排第 59）。ECDICT 对这些词没有 COCA/BNC 词频，所以 release.py 改用「同 CEFR 级别单词 zipf 的中位数，且不高于原值」，新字段 `zipf_source = level-estimate`（core、gloss、CSV、SQLite、Schema 都已同步）。修后 so-so 第 3807、well-being 第 7309，前 5,000 里这类词从 288 个降到 47 个。
+- 修正后新进前 5,000 的词补了 471 个义项（E0040–E0041，审核 V0007 改 7 条）。现在共 12,129 条例句，覆盖 5,241 个词，前 5,000 名零缺口；审核共改 104 条。
+- **扩到前 1 万（完成）**：E0042–E0070（8,563 条）+ 审核 V0008–V0012（改 103 条）。现在共 **20,692 条例句**，覆盖 10,143 个词，前 1 万名零缺口；审核共改 207 条（1.0%）。release 0.10.0 已重新生成，Schema 通过。这一轮写手 10 个 agent 约 125 万 token，但 5 小时窗口从 60% 涨到 92%，比前一轮贵（原因不明）。
+- **A1–C1 全补（完成）**：`make --top 10000 --max-level C1` 新增 8,307 个义项（E0071–E0098，审核 V0013–V0017 改 65 条）。现在共 **28,999 条例句**，覆盖 16,023 个词；前 1 万名和全部 A1–C1 零缺口，审核共改 272 条（0.9%）。这一轮写 + 审约占 5 小时窗口 30%。
+- **人名同形词排名修正（完成）**：`scripts/zipf_overrides.py` → `data/zipf-overrides.tsv`（97 条，release.py 读取）。① coca 51 条：C1/C2、zipf ≥ 3、ECDICT 的 COCA 词频（frq，按普通词用法统计）推出的 zipf 比 wordfreq 低 1.5 以上 → 用 COCA 推算值（john 342 → 14710、cooper → 27511，也抓到 trying/considered 这类形容词词条，频率其实来自动词形式）；② manual 46 条：COCA 没数据的人名/姓氏同形词（smith、lee、turner、warren…），用同级别中位数。脚本读 `work/merged/B*.jsonl` 原值，可以重复运行。前 5,000 里剩下的 C2 词基本是真实高频的古语/俚语（thou、ye）和真词（jurisdiction、vector）。修正后新进前 1 万的 35 个义项补了例句（E0099，我自己审，无改动）。COCA 没数据、又不是人名的高频 C1/C2 词（mindset、crypto、criterion）没动，频率是真的。
+- `examples.py make` 和 `review-make` 都已改成**增量**：已切过块的 sense_id 不再切，新块接着编号。扩到前 1 万词直接 `make --top 10000 --version 0.10.0` → `check` → `review-make` → 审核 → `apply` → 发布。
+
+### （已完成）例句的原计划
+
+**目标**：给主词典前 1 万常用词的每个义项写 1 句英文例句 + 简体译文 + 繁体译文，填进 `senses[].examples`（现在全是空数组）。
+
+**规模**：前 1 万词共 20,450 个义项（前 5,000 词 11,658；前 2 万 34,757；前 3 万 46,332）。短语层另有 13,789 个义项，这一轮不做。
+
+**token 估算**（参照短语层和繁体校对的实际消耗）：
+- 写手：每条例句约 60 个输出 token（英文 12 词 + 中文）；每块 300 个义项，每个 agent 3 块，约 12–15 万 token。约 23 个 agent → **约 300 万 token**。
+- 审核：每块 2,000 条，每个 agent 2 块，约 25 万 token。约 6 个 agent → **约 150 万 token**。
+- 合计 **约 450–500 万 token**。折算：Opus 写 + Opus 审，约占一个 5 小时窗口的 70–90%，周额度约 8–10%；写手换 Sonnet 可降到约一半，但例句自然度会差一些。
+- 省钱办法：先只做前 5,000 词（约 250 万 token）；繁体译文不让模型写，用 `hant.py` 的办法转（安全转换 + 用词表），以后再校对。
+
+**建议的做法**（都还没写，照 phrase / colloc 的套路）：
+1. `scripts/examples.py make`：从 `release/0.9.1/jsonl/core.jsonl` 取 rank ≤ 10000 → `work/examples/E0001.in.txt`，每行 `sense_id | word | pos | zh | en_short`。
+2. `prompts/example-writer.md`：每个义项 1 句；8–14 个词；用词不超过该词级别太多（A1–B1 的词用简单句）；必须体现这个义项而不是别的义项；例句里原词可以用变化形式；不出现真实人名、品牌、敏感内容；输出 `sense_id | 英文例句 | 中文译文`。
+3. `check`：sense_id 都在、句子含原词或其变形（用 inflections.jsonl 判断）、长度、中文无字母。
+4. 试点 1 块（Opus low），抽查后再批量；写手 5 个并行，每人 3 块。
+5. `prompts/example-reviewer.md` + Opus 审核：只输出要改的行（译文不准、例句体现的不是该义项、不自然）。
+6. `apply` → `work/merged/examples.jsonl`（{sense_id, en, zh}）；release.py 读它填 `examples: [{en, zh, zh_hant}]`，Schema、DATA.md、CSV（新 `examples.csv`）、SQLite（新 `examples` 表）同步。
+7. 做完重新发布（版本号升到 0.10.0，因为新增了内容），再抽检一次。
+
+**注意事项（踩过的坑）**：
+- Bash heredoc 里的反斜杠转义（反斜杠加 n、b、d、竖线）会被吃掉或报错：改脚本一律用 Write 工具写一个补丁脚本到 scratchpad 再运行，或直接 Write 整个文件。
+- 让模型「只输出要改的行」很省 token，但要在 check 里校验 key 存在；有的 agent 会把整行抄回来，check 要能兼容。
+- 校验规则别太死（比如不许字母），否则模型会为了过校验而硬改内容。
+- `colloc.py merge`、`fixes.py apply` 都是一次性的，不要重跑（见各自小节）。
+- 额度闸门照旧：5 小时窗口 ≥ 90% 或周额度 ≥ 95% 就停。现在周额度约 5%（2026-11-27 23:00 重置）。
+- 全部改动自 2026-11-20 起**没有提交 git**（约 50 多个文件，含 scripts/、prompts/、docs/、schema/、data/、reports/ 和 work/ 下的新数据），用户还没说要提交。
+
+**例句之后的候选**：更严口径、换模型重新抽检（每层 300 条，含繁体）→ 3 万名以后的词族检查 → 同反义词 → 简释层和专名层审核 → MDX / Anki 导出。
 
 ## 2. 手动推进：每批的完整流程（v3，B0089 起）
 

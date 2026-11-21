@@ -1,0 +1,500 @@
+mcgarry | skip:unknown
+mcginty | skip:unknown
+mckeown | skip:unknown
+mcr | skip:unknown
+mcwilliams | skip:unknown
+menard | skip:unknown
+michaud | skip:unknown
+minto | skip:unknown
+mohd | Mohd | person:穆罕默德=马来人名缩写
+mone | skip:unknown
+moti | skip:unknown
+mowgli | Mowgli | work:毛克利=丛林之书主角
+msd | skip:unknown
+msl | skip:unknown
+mtdna | mtDNA | abbr:线粒体脱氧核糖核酸=遗传物质
+mui | skip:unknown
+muldoon | skip:unknown
+murkowski | Murkowski | person:穆尔科斯基=美国参议员
+n.a | skip:junk
+namco | Namco | brand:南梦宫=日本游戏公司
+narayana | skip:unknown
+narragansett | Narragansett | people:纳拉甘塞特人=美洲原住民
+nava | skip:unknown
+naver | skip:unknown
+nbd | common | abbr.没什么大不了 [informal]
+nextgen | skip:junk
+nfpa | NFPA | abbr:美国国家消防协会=美国组织
+nii | skip:unknown
+nio | NIO | brand:蔚来=中国电动汽车品牌
+nivea | Nivea | brand:妮维雅=德国护肤品牌
+norrie | skip:unknown
+nowak | skip:unknown
+nva | NVA | abbr:北越军队=越战时期军队
+o.s | skip:junk
+occuring | skip:junk
+oceana | skip:unknown
+oed | OED | abbr:牛津英语词典=权威词典
+ogg | skip:unknown
+okie | common | n.俄克拉何马人 [informal]
+opc | skip:unknown
+optima | skip:unknown
+origi | skip:junk
+ormsby | skip:unknown
+osh | skip:unknown
+overwrought | common | adj.过度紧张的, 神经紧张的 ; adj.过分雕琢的
+palacios | skip:unknown
+paradiso | Paradiso | work:天堂篇=神曲第三部
+paraguayan | Paraguayan | people:巴拉圭人=巴拉圭国民
+peale | skip:unknown
+peet | skip:unknown
+penta | skip:fragment
+pervez | skip:unknown
+petaluma | Petaluma | place:佩塔卢马=美国加州城市
+pippen | Pippen | person:皮蓬=美国篮球运动员
+pollo | skip:not-english
+popov | Popov | person:波波夫=俄语姓氏
+pradhan | skip:unknown
+presidente | skip:not-english
+pritzker | Pritzker | person:普利兹克=美国家族姓氏
+pucci | Pucci | brand:璞琪=意大利时装品牌
+quang | skip:unknown
+quds | skip:unknown
+r.m | skip:junk
+redcliffe | skip:unknown
+remeber | skip:junk
+remotes | common | n.遥控器
+renzo | skip:unknown
+resnick | skip:unknown
+ries | skip:unknown
+riki | skip:unknown
+rollie | skip:unknown
+rothwell | skip:unknown
+rousseff | Rousseff | person:罗塞夫=巴西前总统
+rowell | skip:unknown
+rpa | RPA | abbr:机器人流程自动化=软件技术
+rpc | RPC | abbr:远程过程调用=计算机术语
+rspb | RSPB | abbr:皇家鸟类保护协会=英国慈善机构
+saha | skip:unknown
+salk | Salk | person:索尔克=美国病毒学家
+sask | skip:unknown
+sayre | skip:unknown
+sema | skip:unknown
+sephardic | common | adj.塞法迪犹太人的 [domain:宗教]
+serv | skip:fragment
+sgs | skip:unknown
+shabazz | skip:unknown
+shanxi | Shanxi | place:山西=中国省份
+sharknado | Sharknado | work:鲨卷风=美国灾难电影
+sheboygan | Sheboygan | place:谢博伊根=美国威斯康星州城市
+shinzo | Shinzo | person:晋三=日本男子名
+siddharth | skip:unknown
+skaggs | skip:unknown
+sokoto | Sokoto | place:索科托=尼日利亚城市
+spelman | skip:unknown
+ssris | skip:unknown
+stellenbosch | Stellenbosch | place:斯泰伦博斯=南非城市
+sten | skip:unknown
+sublet | common | v.转租 ; n.转租房
+sulawesi | Sulawesi | place:苏拉威西岛=印度尼西亚岛屿
+sussman | skip:unknown
+suzi | skip:unknown
+suzuka | Suzuka | place:铃鹿=日本城市
+taketh | common | v.取走 [literary]
+tarr | skip:unknown
+taub | skip:unknown
+thet | skip:junk
+timey | skip:unknown
+tippett | skip:unknown
+togethers | skip:junk
+topo | skip:unknown
+tosca | Tosca | work:托斯卡=普契尼歌剧
+tpb | skip:unknown
+tracklist | common | n.曲目列表
+triomphe | skip:fragment
+trx | skip:unknown
+tsh | TSH | abbr:促甲状腺激素=医学检验指标
+ucsf | UCSF | abbr:加州大学旧金山分校=美国高校
+uday | skip:unknown
+unboxing | common | n.开箱
+unfollow | common | v.取消关注
+v.s | skip:junk
+valeri | skip:unknown
+varga | skip:unknown
+varma | skip:unknown
+varney | skip:unknown
+vedder | Vedder | person:维德=珍珠果酱乐队主唱
+vpns | VPNs | abbr:虚拟专用网络=网络技术
+waaay | common | adv.非常, 太 [informal]
+wast | common | v.是 [literary]
+waylon | skip:unknown
+xxv | skip:numeral
+yad | skip:unknown
+yadda | common | int.等等等等 [informal]
+yana | skip:unknown
+yann | skip:unknown
+yoder | skip:unknown
+yor | skip:unknown
+zoran | skip:unknown
+a.h | skip:junk
+addons | common | n.附加组件, 插件 [domain:计算机]
+agen | skip:junk
+airasia | AirAsia | brand:亚洲航空=马来西亚航空公司
+akali | Akali | brand:阿卡丽=英雄联盟角色
+albee | Albee | person:阿尔比=美国剧作家
+aliasing | common | n.混叠, 走样 [domain:计算机]
+amas | skip:unknown
+amboy | skip:unknown
+ammon | skip:unknown
+amu | skip:unknown
+amway | Amway | brand:安利=美国直销公司
+andalusian | Andalusian | people:安达卢西亚人=西班牙地区居民
+anniston | skip:unknown
+antiochus | Antiochus | person:安条克=古代塞琉古国王
+appalachians | Appalachians | place:阿巴拉契亚山脉=美国东部山脉
+ards | skip:unknown
+arles | Arles | place:阿尔勒=法国城市
+asante | Asante | people:阿散蒂人=加纳民族
+asperger | Asperger | person:阿斯佩格=奥地利儿科医生
+astroturf | common | n.人造草皮, 假草根运动
+athanasius | Athanasius | person:亚他那修=早期教会神学家
+avanti | skip:unknown
+b.e | skip:junk
+baristas | common | n.咖啡师
+bartolo | skip:unknown
+beleive | skip:junk
+belkin | Belkin | brand:贝尔金=美国电子配件品牌
+benjamins | common | n.百元美钞 [slang,us]
+berea | skip:unknown
+bhagavad | skip:fragment
+bih | BiH | abbr:波黑=波斯尼亚和黑塞哥维那
+bioware | skip:unknown
+blaney | skip:unknown
+breck | skip:unknown
+brophy | skip:unknown
+browder | skip:unknown
+bruner | Bruner | person:布鲁纳=美国心理学家
+burlingame | skip:unknown
+cagliari | Cagliari | place:卡利亚里=意大利城市
+capua | Capua | place:卡普阿=意大利城市
+caravaggio | Caravaggio | person:卡拉瓦乔=意大利画家
+castlereagh | Castlereagh | person:卡斯尔雷=英国政治家
+caswell | skip:unknown
+cbf | skip:unknown
+cdo | skip:unknown
+certiorari | common | n.调卷令 [domain:法律]
+chainz | skip:unknown
+cheech | skip:unknown
+chih | skip:unknown
+chinaman | common | n.中国佬 [offensive-mild] | nokid
+chyna | skip:unknown
+clausen | skip:unknown
+cmg | skip:unknown
+cnr | skip:unknown
+combe | skip:unknown
+condit | skip:unknown
+connexion | common | n.联系, 连接 [dated]
+conveyancing | common | n.产权转让 [domain:法律]
+cousteau | Cousteau | person:库斯托=法国海洋学家
+cpap | CPAP | abbr:持续气道正压通气=医学术语
+cracow | Cracow | place:克拉科夫=波兰城市
+cretan | Cretan | people:克里特人=克里特岛居民
+cromer | skip:unknown
+cronkite | Cronkite | person:克朗凯特=美国新闻主播
+crossley | skip:unknown
+cth | skip:unknown
+cwc | skip:unknown
+cypriots | Cypriots | people:塞浦路斯人=塞浦路斯居民
+daf | skip:unknown
+dagon | Dagon | religion:大衮=古代闪米特神
+darvish | Darvish | person:达比修有=日本棒球选手
+dcu | skip:unknown
+deron | skip:unknown
+deschamps | Deschamps | person:德尚=法国足球教练
+devonport | skip:unknown
+dfl | skip:unknown
+diehl | skip:unknown
+diggle | skip:unknown
+dilbert | Dilbert | work:呆伯特=美国漫画
+dostoyevsky | Dostoyevsky | person:陀思妥耶夫斯基=俄国作家
+durch | skip:not-english
+e.b | skip:junk
+easyjet | easyJet | brand:易捷航空=英国廉价航空公司
+ebs | skip:unknown
+ecf | skip:unknown
+elyse | skip:unknown
+elysian | common | adj.极乐的, 幸福的 [literary]
+estado | skip:not-english
+eurostar | Eurostar | brand:欧洲之星=高速列车服务
+evi | skip:unknown
+ezequiel | skip:unknown
+fansite | common | n.粉丝网站
+feld | skip:unknown
+fila | FILA | brand:斐乐=意大利运动品牌
+fmla | FMLA | abbr:家庭医疗休假法=美国法律
+forthe | skip:junk
+frei | skip:unknown
+fyfe | skip:unknown
+gac | skip:unknown
+gallaudet | Gallaudet | org:加劳德特大学=美国聋人大学
+gamescom | Gamescom | event:科隆游戏展=德国游戏展会
+gaskell | Gaskell | person:盖斯凯尔=英国作家
+gault | skip:unknown
+gdansk | Gdansk | place:格但斯克=波兰城市
+gerrit | skip:unknown
+getz | skip:unknown
+golgi | Golgi | person:高尔基=意大利医学家
+goonies | Goonies | work:七宝奇谋=美国电影
+gos | skip:unknown
+govinda | skip:unknown
+grecian | common | adj.古希腊的
+grigg | skip:unknown
+gsk | GSK | abbr:葛兰素史克=英国制药公司
+haggerty | skip:unknown
+halton | skip:unknown
+hannon | skip:unknown
+haruhi | skip:unknown
+haz | skip:unknown
+herz | skip:unknown
+hillsong | Hillsong | org:希尔颂教会=澳大利亚教会
+hittin | skip:junk
+holdsworth | skip:unknown
+homered | common | v.打出全垒打 [domain:体育]
+hooke | Hooke | person:胡克=英国科学家
+hoxton | Hoxton | place:霍克斯顿=伦敦街区
+hpc | HPC | abbr:高性能计算=计算机领域
+ijn | IJN | abbr:日本帝国海军=二战日本海军
+inte | skip:fragment
+isomer | common | n.同分异构体 [domain:化学]
+italiana | skip:not-english
+iyengar | Iyengar | person:艾扬格=印度瑜伽大师
+jacksons | skip:unknown
+jalisco | Jalisco | place:哈利斯科=墨西哥州
+janette | skip:unknown
+joc | skip:unknown
+jordon | skip:unknown
+juma | skip:unknown
+junko | skip:unknown
+kennard | skip:unknown
+killarney | Killarney | place:基拉尼=爱尔兰城镇
+kirwan | skip:unknown
+kokomo | Kokomo | place:科科莫=美国印第安纳州城市
+kolo | skip:unknown
+korg | skip:unknown
+ksi | skip:unknown
+kunal | skip:unknown
+kurd | Kurd | people:库尔德人=中东民族
+lamela | Lamela | person:拉梅拉=阿根廷足球运动员
+lani | skip:unknown
+layed | skip:junk
+leben | skip:not-english
+legia | Legia | org:华沙莱吉亚=波兰足球俱乐部
+lemmy | skip:unknown
+letts | skip:unknown
+levon | skip:unknown
+lfc | LFC | abbr:利物浦足球俱乐部=英格兰球队
+linc | skip:unknown
+linky | skip:unknown
+linwood | skip:unknown
+livonia | Livonia | place:利沃尼亚=波罗的海历史地区
+longworth | skip:unknown
+lorimer | skip:unknown
+lothar | Lothar | person:洛塔尔=德语男子名
+lowestoft | Lowestoft | place:洛斯托夫特=英国城镇
+lowther | skip:unknown
+lvg | skip:unknown
+lynchings | common | n.私刑
+lyne | skip:unknown
+m.i.t | M.I.T | abbr:麻省理工学院=美国高校
+mailings | common | n.邮寄品, 群发邮件
+mandelson | Mandelson | person:曼德尔森=英国政治家
+marcin | skip:unknown
+marshfield | skip:unknown
+mbbs | MBBS | abbr:医学学士=学位
+mcat | MCAT | abbr:医学院入学考试=美国考试
+melba | Melba | person:梅尔巴=澳大利亚女高音
+mhs | skip:unknown
+mickie | skip:unknown
+miyuki | skip:unknown
+moldovan | Moldovan | people:摩尔多瓦人=摩尔多瓦国民
+molinari | skip:unknown
+moloney | skip:unknown
+morro | skip:unknown
+mpls | skip:unknown
+mulcahy | skip:unknown
+murata | Murata | brand:村田=日本电子元件公司 ; person:村田=日本姓氏
+muy | skip:not-english
+nandi | Nandi | people:南迪人=肯尼亚民族
+nanette | skip:unknown
+nass | skip:unknown
+noni | common | n.诺丽果
+novosibirsk | Novosibirsk | place:新西伯利亚=俄罗斯城市
+ods | skip:unknown
+oligocene | Oligocene | other:渐新世=地质年代
+orsay | Orsay | place:奥赛=巴黎奥赛博物馆所在地
+otl | skip:unknown
+palmas | skip:fragment
+passat | Passat | brand:帕萨特=大众汽车车型
+pdr | skip:unknown
+pera | skip:unknown
+pez | skip:unknown
+phaedra | Phaedra | person:淮德拉=希腊神话人物
+pirie | skip:unknown
+poehler | Poehler | person:波勒=美国喜剧演员
+pondicherry | Pondicherry | place:本地治里=印度城市
+poroshenko | Poroshenko | person:波罗申科=乌克兰前总统
+poss | skip:unknown
+pupper | common | n.小狗 [slang]
+quai | skip:fragment
+quechua | Quechua | people:克丘亚人=南美原住民
+raghu | skip:unknown
+rask | skip:unknown
+rcp | skip:unknown
+revista | skip:not-english
+reyna | skip:unknown
+rfu | RFU | abbr:橄榄球联合会=英格兰橄榄球机构
+rhondda | Rhondda | place:朗达=威尔士地区
+ringwood | skip:unknown
+rivaled | common | v.与…匹敌, 比得上
+rnli | RNLI | org:皇家救生艇协会=英国慈善机构
+rohr | skip:unknown
+romanov | Romanov | person:罗曼诺夫=俄国王朝姓氏
+roni | skip:unknown
+royston | skip:unknown
+rsd | skip:unknown
+rtp | skip:unknown
+rtr | skip:unknown
+rupa | skip:unknown
+rvp | skip:unknown
+ryland | skip:unknown
+saarc | SAARC | org:南亚区域合作联盟=区域组织
+sangster | skip:unknown
+saxena | skip:unknown
+scherer | skip:unknown
+screamin | skip:junk
+scribner | Scribner | brand:斯克里布纳出版社=美国出版社
+seon | skip:unknown
+sfs | skip:unknown
+shadowbanned | common | adj.被隐形封禁的 [slang]
+shand | skip:unknown
+shaqiri | Shaqiri | person:沙奇里=瑞士足球运动员
+shew | common | v.展示 [dated]
+shimbun | skip:not-english
+shinn | skip:unknown
+sinhala | Sinhala | people:僧伽罗人=斯里兰卡民族
+smi | skip:unknown
+snorlax | Snorlax | work:卡比兽=宝可梦角色
+socorro | skip:unknown
+softcore | common | adj.软色情的 | nokid
+sont | skip:not-english
+sooooooo | common | adv.非常 [informal]
+soph | skip:unknown
+spratt | skip:unknown
+sram | SRAM | abbr:静态随机存储器=计算机存储
+stax | skip:unknown
+steinway | Steinway | brand:施坦威=美国钢琴品牌
+suc | skip:unknown
+sulaiman | Sulaiman | person:苏莱曼=阿拉伯男子名
+suo | skip:unknown
+svc | skip:unknown
+sydenham | skip:unknown
+sym | skip:unknown
+tbr | skip:unknown
+tehreek | skip:unknown
+tiktok | TikTok | brand:抖音国际版=短视频应用
+timelapse | common | n.延时摄影
+tinsley | skip:unknown
+tnc | skip:unknown
+tng | skip:unknown
+tpm | skip:unknown
+tq | skip:unknown
+trainspotting | Trainspotting | work:猜火车=英国电影
+trine | skip:unknown
+trix | skip:unknown
+trollope | Trollope | person:特罗洛普=英国作家
+tsc | skip:unknown
+turan | skip:unknown
+turley | skip:unknown
+ucas | UCAS | org:英国大学招生服务中心=英国机构
+uj | skip:unknown
+unep | UNEP | org:联合国环境规划署=联合国机构
+uther | Uther | person:尤瑟=亚瑟王之父
+valladolid | Valladolid | place:巴利亚多利德=西班牙城市
+villanueva | skip:unknown
+volte | skip:fragment
+w.va | W.Va | abbr:西弗吉尼亚州=美国州名
+waldman | skip:unknown
+warsi | skip:unknown
+wayans | skip:unknown
+waze | skip:unknown
+weatherford | skip:unknown
+webmd | skip:unknown
+welby | skip:unknown
+wiesbaden | Wiesbaden | place:威斯巴登=德国城市
+willingham | skip:unknown
+wishart | skip:unknown
+woh | skip:unknown
+woop | common | int.哇哦 [informal]
+worldcat | skip:unknown
+wsb | skip:unknown
+yc | skip:unknown
+yehuda | skip:unknown
+yuba | skip:unknown
+yuko | skip:unknown
+yusef | skip:unknown
+zaragoza | Zaragoza | place:萨拉戈萨=西班牙城市
+zetas | skip:unknown
+zootopia | Zootopia | work:疯狂动物城=迪士尼动画电影
+zr | skip:unknown
+abdulaziz | Abdulaziz | person:阿卜杜勒阿齐兹=阿拉伯男子名
+accomodate | skip:junk
+accrington | skip:unknown
+adorno | Adorno | person:阿多诺=德国哲学家
+afrique | skip:not-english
+aikman | skip:unknown
+aipac | AIPAC | org:美国以色列公共事务委员会=美国游说组织
+akan | Akan | people:阿肯人=西非民族
+akane | skip:unknown
+alcantara | Alcantara | person:阿尔坎塔拉=西班牙语姓氏
+alexi | skip:unknown
+allis | skip:unknown
+allstars | common | n.全明星队
+alstom | Alstom | brand:阿尔斯通=法国工业集团
+alu | skip:unknown
+analytica | skip:fragment
+andretti | Andretti | person:安德雷蒂=美国赛车手家族
+angsty | common | adj.焦虑不安的 [informal]
+anyones | skip:junk
+apb | APB | abbr:全境通缉=警方通报
+archiv | skip:not-english
+arcing | common | v.呈弧形运动 ; n.电弧放电
+arnott | skip:unknown
+arsenio | skip:unknown
+asis | skip:unknown
+asterix | skip:unknown
+audley | skip:unknown
+avp | skip:unknown
+bacall | skip:unknown
+badu | Badu | person:巴杜=美国女歌手
+bair | skip:unknown
+bapu | skip:unknown
+baseballs | common | n.棒球
+basta | skip:not-english
+bax | skip:unknown
+believeth | common | v.相信 [literary]
+benidorm | Benidorm | place:贝尼多姆=西班牙城市
+berlioz | Berlioz | person:柏辽兹=法国作曲家
+bernardi | skip:unknown
+biol | skip:junk
+bisping | skip:unknown
+bjork | Bjork | person:比约克=冰岛歌手
+blackfoot | Blackfoot | people:黑脚族=北美原住民
+bloemfontein | Bloemfontein | place:布隆方丹=南非城市
+bmd | skip:unknown
+bolshevism | common | n.布尔什维主义 [domain:政治]
+boykin | skip:unknown
+brandis | skip:unknown
+brandywine | skip:unknown
+brickell | skip:unknown
+brzezinski | Brzezinski | person:布热津斯基=美国政治学者
+busquets | Busquets | person:布斯克茨=西班牙足球运动员

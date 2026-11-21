@@ -1,0 +1,300 @@
+w005540.1 | The city centre is dense with shops and offices. | 市中心商店和写字楼密集。
+w005540.2 | We drove slowly through the dense fog. | 我们在浓雾中缓慢驾驶。
+w005540.3 | The report was too dense for most readers to follow. | 这份报告太晦涩，大多数读者看不懂。
+w005541.1 | She was desperately looking for her lost dog. | 她拼命地寻找走失的狗。
+w005541.2 | He desperately wanted to win the race. | 他非常想赢得这场比赛。
+w005542.1 | The church teaches the doctrine of forgiveness. | 教会传授宽恕的教义。
+w005542.2 | The country followed a doctrine of neutrality for years. | 这个国家多年来奉行中立主义。
+w005543.1 | Low tide exposed the rocks along the shore. | 退潮使岸边的岩石显露出来。
+w005543.2 | The newspaper exposed the mayor's lies. | 报纸揭露了市长的谎言。
+w005543.3 | Children shouldn't be exposed to loud noise for too long. | 儿童不应长时间接触噪音。
+w005544.1 | After the new job, we were much better off financially. | 换了新工作后，我们在经济上宽裕多了。
+w005545.1 | My brother is a freshman at a college in Boston. | 我哥哥是波士顿一所大学的大一新生。
+w005545.2 | As a freshman in Congress, she had little power. | 作为国会的新人，她没有多大权力。
+w005546.1 | Dad was furious when he saw the broken window. | 爸爸看到破窗户时大发雷霆。
+w005546.2 | The cyclists rode at a furious pace. | 骑车的人以飞快的速度前进。
+w005547.1 | The graphics are great, but the gameplay is boring. | 画面很棒，但游戏玩法很无聊。
+w005548.1 | We have a geography lesson every Monday. | 我们每周一都有地理课。
+w005548.2 | The geography of the island makes travel difficult. | 这个岛的地形使出行很困难。
+w005549.1 | The band played a gig in a small pub last night. | 昨晚乐队在一家小酒吧演出。
+w005549.2 | She found a weekend gig delivering food. | 她找了份周末送餐的零工。
+w005549.3 | This phone has 64 gigs of storage. | 这部手机有64千兆字节的存储空间。
+w005550.1 | Pollution is destroying the bird's natural habitat. | 污染正在破坏这种鸟的自然栖息地。
+w005551.1 | The fishing boats stayed in the harbour during the storm. | 暴风雨期间渔船都停在港湾里。
+w005551.2 | She still harbours doubts about his story. | 她对他的说法仍心存怀疑。
+w005551.3 | He was accused of harbouring a criminal. | 他被指控窝藏罪犯。
+w005552.1 | Wet floors are a hazard in the kitchen. | 湿滑的地板在厨房里是一种隐患。
+w005552.2 | Can I hazard a guess about her age? | 我能斗胆猜一下她的年龄吗？
+w005553.1 | Water is made of hydrogen and oxygen. | 水由氢和氧组成。
+w005554.1 | The old church survived the storm intact. | 那座老教堂在暴风雨中完好无损。
+w005555.1 | You should reduce your daily intake of sugar. | 你应该减少每天的糖摄入量。
+w005555.2 | The school has an annual intake of 200 students. | 这所学校每年招收200名学生。
+w005555.3 | Leaves were blocking the engine's air intake. | 树叶堵住了发动机的进气口。
+w005556.1 | His age is irrelevant to the job. | 他的年龄与这份工作无关。
+w005557.1 | He broke his jaw in a football match. | 他在一场足球赛中摔断了下巴。
+w005557.2 | Hold the wood firmly in the jaws of the vice. | 把木头牢牢夹在台钳的钳口里。
+w005559.1 | The little kitty was sleeping on the sofa. | 小猫咪在沙发上睡觉。
+w005559.2 | We each put ten pounds into the kitty for drinks. | 我们每人往公共基金里放了十英镑买饮料。
+w005561.1 | Dad mows the lawn every Saturday. | 爸爸每周六都修剪草坪。
+w005562.1 | The factory manufactures car parts. | 这家工厂生产汽车零件。
+w005562.2 | The manufacture of plastic uses a lot of energy. | 塑料的生产消耗大量能源。
+w005562.3 | He manufactured an excuse for being late. | 他编造了一个迟到的借口。
+w005564.1 | You are mistaken if you think it will be easy. | 如果你认为这很容易，那你就错了。
+w005564.2 | She went in the mistaken belief that the shop was open. | 她误以为商店开着就去了。
+w005566.1 | Can you thread this needle for me? | 你能帮我把线穿进这根针吗？
+w005566.2 | The nurse used a clean needle for the injection. | 护士用了干净的针头打针。
+w005566.3 | The needle on the fuel gauge was close to empty. | 油表的指针快指到空了。
+w005567.1 | Anna organized a party for her mother's birthday. | 安娜为妈妈的生日筹备了一个聚会。
+w005567.2 | I need to organize my notes before the exam. | 考试前我需要整理一下笔记。
+w005568.1 | She has a pretty oval face. | 她有一张漂亮的鹅蛋脸。
+w005568.2 | Cut the paper into an oval. | 把纸剪成椭圆形。
+w005569.1 | It's a pity you can't come to the party. | 你不能来参加聚会，真可惜。
+w005569.2 | She felt pity for the homeless man. | 她同情那个无家可归的人。
+w005569.3 | I pity anyone who has to work on Christmas Day. | 我同情任何在圣诞节还得工作的人。
+w005570.1 | There are fish in the pond. | 池塘里有鱼。
+w005571.1 | A porter carried our bags to the room. | 一名行李员把我们的包搬到了房间。
+w005571.2 | The porter at the gate asked to see my card. | 门口的门房要求看我的证件。
+w005572.1 | The lion waited quietly for its prey. | 狮子静静地等待猎物。
+w005572.2 | Old people are often easy prey for thieves. | 老人常常容易成为小偷的受害者。
+w005572.3 | Owls prey on mice and other small animals. | 猫头鹰捕食老鼠和其他小动物。
+w005573.1 | Many religions have stories about a prophet. | 许多宗教都有关于先知的故事。
+w005573.2 | He was an early prophet of the internet age. | 他是互联网时代早期的预言家。
+w005575.1 | The country will hold a referendum on the new law. | 该国将就新法律举行全民公决。
+w005576.1 | Thousands of refugees crossed the border. | 成千上万的难民越过了边境。
+w005577.1 | The table has rounded corners for safety. | 为了安全，这张桌子是圆角的。
+w005577.2 | The school wants students to have a rounded education. | 这所学校希望学生接受全面的教育。
+w005578.1 | She wore a ring with a large ruby. | 她戴着一枚镶有大红宝石的戒指。
+w005578.2 | She painted her lips a ruby red. | 她把嘴唇涂成宝石红色。
+w005579.1 | Nothing I do seems to satisfy my boss. | 我做什么似乎都不能让老板满意。
+w005579.2 | The building does not satisfy safety rules. | 这栋建筑不符合安全规定。
+w005579.3 | The police were satisfied that he was telling the truth. | 警方确信他说的是实话。
+w005580.1 | Many farm workers do seasonal jobs. | 许多农场工人做季节性工作。
+w005581.1 | It would be sensible to leave early. | 早点出发是明智的。
+w005581.2 | Wear sensible shoes for the walk. | 走路时要穿合适的鞋。
+w005582.1 | The sequel is even better than the first film. | 续集比第一部电影还要好。
+w005582.2 | The fight had an unhappy sequel. | 那场争吵有个不愉快的结局。
+w005583.1 | Camels walk easily on the shifting sand. | 骆驼在流动的沙子上轻松行走。
+w005584.1 | The children looked up at the shining stars. | 孩子们抬头望着闪亮的星星。
+w005584.2 | She is a shining example to other students. | 她是其他学生的杰出榜样。
+w005586.1 | They live in a small township in Ohio. | 他们住在俄亥俄州的一个小镇区。
+w005586.2 | He grew up in a township near Johannesburg. | 他在约翰内斯堡附近的一个黑人城镇长大。
+w005587.1 | The car was a pile of twisted metal. | 那辆车成了一堆扭曲的金属。
+w005587.2 | The film's villain has a twisted mind. | 电影里的反派心理变态。
+w005588.1 | Plug the cable into the USB port. | 把数据线插进USB接口。
+w005588.2 | I saved the photos on a USB. | 我把照片存在了U盘上。
+w005589.1 | We waded across the river. | 我们蹚水过了河。
+w005589.2 | I had to wade through a pile of emails. | 我得费力地处理一大堆邮件。
+w005590.1 | We saw a whale from the boat. | 我们在船上看到了一头鲸鱼。
+w005592.1 | The city has a large Hispanic population. | 这座城市有大量拉丁裔人口。
+w005592.2 | Many Hispanics in the area speak two languages. | 这一地区的许多拉丁裔人会说两种语言。
+w005594.1 | I really admire her courage. | 我真的很钦佩她的勇气。
+w005594.2 | We stopped to admire the view. | 我们停下来欣赏风景。
+w005595.1 | She wore a necklace made of amber. | 她戴着一条琥珀项链。
+w005595.2 | The traffic light changed to amber. | 交通灯变成了黄灯。
+w005595.3 | The room was filled with warm amber light. | 房间里充满了温暖的琥珀色灯光。
+w005596.1 | I twisted my ankle playing tennis. | 我打网球时扭伤了脚踝。
+w005597.1 | The knight wore a suit of armor. | 骑士穿着一副盔甲。
+w005597.2 | The tank's armor protected the soldiers inside. | 坦克的装甲保护了里面的士兵。
+w005598.1 | Children with autism may find social situations difficult. | 患有自闭症的孩子可能觉得社交场合很难应对。
+w005599.1 | My uncle is still a bachelor at forty. | 我叔叔四十岁了还是单身汉。
+w005599.2 | She has a bachelor's degree in history. | 她拥有历史学学士学位。
+w005600.1 | We picked berries in the forest. | 我们在森林里摘浆果。
+w005603.1 | Capitalism encourages competition between businesses. | 资本主义鼓励企业之间的竞争。
+w005604.1 | Drive with caution on icy roads. | 在结冰的路上要小心驾驶。
+w005604.2 | The police let him off with a caution. | 警察给了他一个警告就放他走了。
+w005604.3 | Doctors caution against eating too much salt. | 医生告诫不要吃太多盐。
+w005605.1 | All teachers need certification before they can work here. | 所有教师在这里工作前都需要资格证书。
+w005606.1 | Honesty is his best characteristic. | 诚实是他最好的品质。
+w005606.2 | She answered with characteristic good humour. | 她以一贯的幽默作了回答。
+w005607.1 | The whole clan gathered for the wedding. | 整个家族都聚集来参加婚礼。
+w005607.2 | The office has its own little clans. | 办公室里有自己的小帮派。
+w005608.1 | There was a clash between fans after the match. | 比赛结束后球迷之间发生了冲突。
+w005608.2 | Protesters clashed with police outside the building. | 抗议者在大楼外与警察发生冲突。
+w005608.3 | That red tie clashes with your shirt. | 那条红领带和你的衬衫不搭。
+w005609.1 | This software is not compatible with older computers. | 这个软件与旧电脑不兼容。
+w005609.2 | They divorced because they weren't compatible. | 他们因为合不来而离婚了。
+w005610.1 | The condemned man asked for a last meal. | 那个死刑犯要求吃最后一顿饭。
+w005610.2 | Nobody is allowed into the condemned building. | 任何人都不准进入那栋被宣布为危楼的建筑。
+w005611.1 | Check the network configuration before you restart. | 重新启动前请检查网络配置。
+w005611.2 | The configuration of the rooms makes the house feel large. | 房间的布局让房子显得很大。
+w005612.1 | It rained continuously for three days. | 雨连续下了三天。
+w005613.1 | She gave a convincing explanation. | 她给出了令人信服的解释。
+w005613.2 | The team won a convincing victory. | 这支队伍取得了决定性的胜利。
+w005614.1 | The child opened the box out of curiosity. | 那孩子出于好奇打开了盒子。
+w005614.2 | The shop sells old maps and other curiosities. | 这家店卖旧地图和其他珍奇物品。
+w005615.1 | The kids shouted with delight when it snowed. | 下雪时孩子们高兴得大叫。
+w005615.2 | The show delighted audiences of all ages. | 这场演出让各个年龄段的观众都很开心。
+w005616.1 | The police found explosives in the car. | 警察在车里发现了炸药。
+w005616.2 | Keep explosive gases away from flames. | 让易爆气体远离火焰。
+w005616.3 | The online market has seen explosive growth. | 网络市场出现了激增。
+w005617.1 | We were fortunate to have such good weather. | 我们很幸运遇上这么好的天气。
+w005618.1 | Fortunately, nobody was hurt in the accident. | 幸运的是，事故中没有人受伤。
+w005619.1 | They crossed the frontier into France. | 他们越过边境进入法国。
+w005619.2 | Scientists are pushing back the frontiers of medicine. | 科学家们在不断拓展医学的前沿。
+w005619.3 | Life on the frontier was hard for early settlers. | 对早期移民来说，边疆生活很艰苦。
+w005620.1 | He shouted in frustration when the computer crashed. | 电脑死机时，他沮丧地大叫。
+w005620.2 | The frustration of their plans upset everyone. | 他们的计划受挫让大家都很难过。
+w005621.1 | The map shows the geographic features of the region. | 这张地图显示了该地区的地理特征。
+w005624.1 | It took me a while to grasp the idea. | 我花了一段时间才理解这个想法。
+w005624.2 | She grasped the rope with both hands. | 她双手紧紧抓住绳子。
+w005624.3 | He has a good grasp of grammar. | 他对语法掌握得很好。
+w005625.1 | This little knife is very handy for camping. | 这把小刀露营时非常有用。
+w005625.2 | Keep a pen handy when you make the call. | 打电话时手边放支笔。
+w005625.3 | My dad is handy around the house. | 我爸爸很会修理家里的东西。
+w005626.1 | Only hardcore fans waited outside in the rain. | 只有铁杆粉丝在雨中等候。
+w005626.2 | This is a hardcore workout for experienced runners. | 这是给有经验的跑步者设计的高强度训练。
+w005626.3 | A hardcore of members still meets every week. | 一批核心成员仍然每周聚会。
+w005627.1 | Too much sun can be harmful to your skin. | 晒太多太阳对皮肤有害。
+w005628.1 | I have a bad headache today. | 我今天头很痛。
+w005628.2 | Parking in the city is a real headache. | 在城里停车真是件令人头疼的事。
+w005629.1 | This book is mine, and that one is hers. | 这本书是我的，那本是她的。
+w005630.1 | The bonus gives workers an incentive to work harder. | 奖金激励员工更加努力工作。
+w005631.1 | The club wants to be more inclusive. | 这个俱乐部希望更具包容性。
+w005631.2 | The price is inclusive of breakfast. | 价格包括早餐。
+w005633.1 | You need a licence to drive a car. | 开车需要驾照。
+w005633.2 | The writer took some licence with the facts. | 作者对事实作了一些自由发挥。
+w005634.1 | It would be madness to climb in this weather. | 在这种天气登山简直是疯了。
+w005634.2 | In the story, the king slowly sinks into madness. | 故事里，国王渐渐陷入疯狂。
+w005635.1 | The new government has a clear mandate for change. | 新政府获得了明确的变革授权。
+w005635.2 | The UN issued a mandate to protect the area. | 联合国下达了保护该地区的命令。
+w005635.3 | The law mandates seat belts for all passengers. | 法律规定所有乘客都必须系安全带。
+w005636.1 | My sister reads manga every evening. | 我妹妹每天晚上都看日本漫画。
+w005637.1 | It was a memorable day for all of us. | 那是我们所有人难忘的一天。
+w005638.1 | The merger created the biggest bank in the country. | 这次合并造就了全国最大的银行。
+w005640.1 | They play poker every Friday night. | 他们每周五晚上打扑克。
+w005640.2 | He moved the burning logs with a poker. | 他用拨火棍拨动燃烧的木柴。
+w005641.1 | I bought a portable speaker for the beach. | 我买了个便携音箱去海滩用。
+w005641.2 | We watched the match on a small portable. | 我们用一台小型便携电视看了比赛。
+w005643.1 | Students were randomly chosen to answer questions. | 学生们被随机挑选回答问题。
+w005644.1 | The manager resigned after the scandal. | 丑闻发生后经理辞职了。
+w005644.2 | She resigned herself to staying at home all summer. | 她只好接受整个夏天待在家里。
+w005645.1 | The interview was very revealing about his past. | 那次采访揭示了他的很多过去。
+w005645.2 | She thought the dress was too revealing. | 她觉得那条裙子太暴露了。
+w005647.1 | There was a robbery at the bank yesterday. | 昨天那家银行发生了一起抢劫案。
+w005648.1 | He rubbed his eyes and yawned. | 他揉了揉眼睛，打了个哈欠。
+w005648.2 | Rub some cream into your hands. | 往手上擦点护手霜。
+w005648.3 | Give the table a quick rub with a cloth. | 用布把桌子快速擦一下。
+w005649.1 | The soldiers made a sally from the castle at dawn. | 士兵们黎明时从城堡突围出击。
+w005649.2 | Her witty sally made everyone laugh. | 她的一句俏皮话逗得大家都笑了。
+w005649.3 | We sallied forth into the snowy streets. | 我们冲出门，走进积雪的街道。
+w005650.1 | His clothes were scattered across the floor. | 他的衣服散落一地。
+w005650.2 | I only have scattered memories of that year. | 我对那一年只有零星的记忆。
+w005651.1 | My brother joined the scouts when he was ten. | 我哥哥十岁时加入了童子军。
+w005651.2 | A football scout came to watch the game. | 一位球探来看了这场比赛。
+w005651.3 | We scouted the area for a good place to camp. | 我们在这一带寻找合适的露营地点。
+w005653.1 | Nobody should be judged because of their sexuality. | 任何人都不应因性取向而受到评判。
+w005653.2 | The book discusses teenage sexuality in a sensitive way. | 这本书以审慎的方式讨论青少年的性。
+w005654.1 | In the film, she slaps him across the face. | 电影里，她扇了他一耳光。
+w005654.2 | He got a slap on the back from his friend. | 他的朋友在他背上拍了一下。
+w005654.3 | He slapped the money down on the counter. | 他把钱啪地扔在柜台上。
+w005655.1 | I'd like my steak well done, please. | 我的牛排请做全熟。
+w005655.2 | We had salmon steaks for dinner. | 我们晚饭吃了三文鱼排。
+w005656.1 | She had a succession of bad colds this winter. | 今年冬天她接连患了几次重感冒。
+w005656.2 | The prince is first in line of succession. | 王子是第一顺位继承人。
+w005657.1 | The superintendent of schools visited our class. | 学区主管来参观了我们的班级。
+w005657.2 | A police superintendent led the investigation. | 一名警司领导了这次调查。
+w005657.3 | Call the superintendent if the heating stops working. | 如果暖气坏了就给大楼管理员打电话。
+w005658.1 | He was arrested on suspicion of theft. | 他因涉嫌盗窃被捕。
+w005658.2 | I have a suspicion that she already knows. | 我感觉她已经知道了。
+w005658.3 | The villagers treated strangers with suspicion. | 村民们对陌生人心存疑虑。
+w005659.1 | Could you sweep the kitchen floor? | 你能扫一下厨房地板吗？
+w005659.2 | A storm swept across the country. | 一场风暴席卷全国。
+w005659.3 | Give the yard a quick sweep. | 把院子快速扫一下。
+w005660.1 | Leaving early was a tactical decision. | 提早离开是一个策略性的决定。
+w005660.2 | The army used tactical missiles in the battle. | 军队在战斗中使用了战术导弹。
+w005661.1 | A physical therapist helped me after my knee injury. | 膝盖受伤后，一位理疗师帮助了我。
+w005661.2 | She talks to a therapist once a week. | 她每周和心理治疗师谈一次话。
+w005662.1 | He left school at sixteen and thereafter worked on a farm. | 他十六岁辍学，此后在农场工作。
+w005663.1 | The doctor gave me a thorough check-up. | 医生给我做了全面的检查。
+w005663.2 | She is very thorough in her work. | 她工作非常细致。
+w005664.1 | University tuition has gone up again. | 大学学费又涨了。
+w005664.2 | He gets extra tuition in maths. | 他在数学上接受额外辅导。
+w005665.1 | Doctors removed a small tumor from her brain. | 医生从她脑部切除了一个小肿瘤。
+w005667.1 | The company sells only by wholesale. | 这家公司只做批发。
+w005667.2 | Wholesale prices are lower than shop prices. | 批发价比零售价低。
+w005667.3 | The new boss made wholesale changes to the team. | 新老板对团队进行了大规模调整。
+w005670.1 | The town is famous for its architectural beauty. | 这个小镇以建筑之美闻名。
+w005671.1 | We heard the sound of artillery in the distance. | 我们听到远处的炮声。
+w005671.2 | My grandfather served in the artillery. | 我祖父曾在炮兵部队服役。
+w005673.1 | The bag is made of canvas. | 这个包是帆布做的。
+w005673.2 | The artist stretched a new canvas over the frame. | 画家把一块新画布绷在画框上。
+w005674.1 | The river runs through a deep canyon. | 那条河流经一个深峡谷。
+w005676.1 | She kissed her grandma on the cheek. | 她亲了亲奶奶的脸颊。
+w005676.2 | He had the cheek to ask me for more money. | 他竟然厚着脸皮向我要更多的钱。
+w005678.1 | We sat around a circular table. | 我们围坐在一张圆桌旁。
+w005678.2 | We took a circular walk around the lake. | 我们绕着湖走了一圈。
+w005678.3 | The school sent a circular to all parents. | 学校给所有家长发了一份通知。
+w005679.1 | Exercise improves your circulation. | 运动能改善你的血液循环。
+w005679.2 | Old coins are no longer in circulation. | 旧硬币已不再流通。
+w005679.3 | The newspaper has a circulation of two million. | 这家报纸的发行量为两百万份。
+w005680.1 | The pilot was waiting for clearance to land. | 飞行员在等待降落许可。
+w005680.2 | The forest clearance has harmed local wildlife. | 森林清除损害了当地的野生动物。
+w005680.3 | There is only a few centimetres of clearance under the bridge. | 桥下只有几厘米的净空。
+w005681.1 | What a coincidence to meet you here! | 在这里遇见你真是太巧了！
+w005681.2 | The coincidence of the two holidays caused traffic problems. | 两个假日同时到来导致了交通问题。
+w005682.1 | The comedian told jokes about his family. | 那位喜剧演员讲了关于他家人的笑话。
+w005683.1 | Mix the concentrated juice with water. | 把浓缩果汁兑水。
+w005683.2 | After a concentrated effort, we finished the job. | 经过集中全力的努力，我们完成了工作。
+w005684.1 | My conscience told me to return the wallet. | 我的良心告诉我要把钱包还回去。
+w005684.2 | He had a guilty conscience about lying to his mother. | 他对妈妈撒了谎，心里很内疚。
+w005685.1 | We packed sandwiches and drinks in the cooler. | 我们把三明治和饮料装进了冷藏箱。
+w005686.1 | I've told you countless times to close the door. | 我已经无数次叫你关门了。
+w005687.1 | We had chicken curry for dinner. | 我们晚饭吃了咖喱鸡。
+w005687.2 | She curried the vegetables with rice. | 她把蔬菜做成了咖喱，配米饭吃。
+w005688.1 | The actress was made a dame for her work in theatre. | 这位女演员因戏剧方面的贡献被封为女爵士。
+w005688.2 | In old films, men often call a woman a dame. | 在老电影里，男人常把女人叫作“娘们”。
+w005689.1 | The money was left to her deceased husband's family. | 这笔钱留给了她已故丈夫的家人。
+w005689.2 | The police informed the family of the deceased. | 警方通知了死者家属。
+w005690.1 | Her dedication to her students is amazing. | 她对学生的奉献精神令人钦佩。
+w005690.2 | The dedication at the front of the book reads "For my mother". | 书前面的献词写着“献给我的母亲”。
+w005691.1 | The suspects were held in detention for two days. | 嫌疑人被拘留了两天。
+w005691.2 | Tom got detention for talking in class. | 汤姆因为上课说话被罚课后留校。
+w005692.1 | A drake has brighter feathers than a female duck. | 公鸭的羽毛比母鸭更鲜艳。
+w005693.1 | The factory employs over 500 people. | 这家工厂雇用了五百多人。
+w005693.2 | The teacher employs games to help children learn. | 老师运用游戏来帮助孩子学习。
+w005694.1 | The police must enforce the law fairly. | 警察必须公正地执法。
+w005694.2 | You can't enforce friendship between people. | 你无法强迫人们成为朋友。
+w005695.1 | She gave explicit instructions not to open the door. | 她明确指示不要开门。
+w005695.2 | The film was banned because of its explicit scenes. | 这部电影因露骨的镜头而被禁映。
+w005696.1 | The rules explicitly say no phones in class. | 规定明确说上课不准用手机。
+w005697.1 | I stayed in bed for a week with the flu. | 我得了流感，在床上躺了一周。
+w005698.1 | Smoking is forbidden in the building. | 大楼内禁止吸烟。
+w005698.2 | Money was a forbidden subject in our family. | 在我们家，钱是个禁忌话题。
+w005699.1 | The tickets cost a fraction of the normal price. | 这些票只花了平常价格的一小部分。
+w005699.2 | Write three quarters as a fraction. | 把四分之三写成分数。
+w005701.1 | The infantry marched towards the town. | 步兵向小镇行进。
+w005702.1 | Music is an integral part of the school day. | 音乐是学校生活中不可或缺的一部分。
+w005702.2 | The car has an integral GPS system. | 这辆车有内置的卫星导航系统。
+w005702.3 | We learned how to calculate an integral in maths class. | 我们在数学课上学习了如何计算积分。
+w005703.1 | The company is looking for new investors. | 这家公司正在寻找新的投资者。
+w005705.1 | She touched his arm lightly. | 她轻轻地碰了碰他的手臂。
+w005705.2 | Season the fish lightly with salt. | 给鱼稍微撒点盐。
+w005705.3 | This is not a decision to be taken lightly. | 这不是一个可以轻率做出的决定。
+w005706.1 | The hotel has a marble floor. | 这家酒店铺着大理石地板。
+w005706.2 | The boys were playing marbles in the yard. | 男孩们在院子里玩弹珠。
+w005707.1 | The city has a museum of maritime history. | 这座城市有一座航海历史博物馆。
+w005707.2 | The maritime provinces have mild winters. | 沿海省份的冬天比较温和。
+w005708.1 | The ice cream melted in the sun. | 冰淇淋在阳光下融化了。
+w005708.2 | Her anger melted when she saw his smile. | 看到他的笑容，她的怒气消散了。
+w005710.1 | She was a nominee for best actress. | 她是最佳女演员的候选人。
+w005711.1 | He took an oath to tell the truth. | 他宣誓会说实话。
+w005711.2 | He muttered an oath when he dropped the plate. | 他把盘子摔了，嘴里骂了一句。
+w005712.1 | Driving without a licence is a serious offence. | 无照驾驶是严重的违法行为。
+w005712.2 | I didn't mean to cause offence. | 我无意冒犯。
+w005713.1 | Too much plastic packaging ends up in the sea. | 太多塑料包装最终进入了大海。
+w005713.2 | Clever packaging helped the band become popular. | 巧妙的形象包装帮助乐队走红。
+w005714.1 | The puppy peed on the carpet. | 小狗在地毯上撒了尿。
+w005714.2 | I need to stop for a pee. | 我得停下来上个小便。
+w005715.1 | I like to sleep with two pillows. | 我喜欢枕两个枕头睡觉。
+w005716.1 | The pirates attacked the ship and took its gold. | 海盗袭击了这艘船，抢走了金子。
+w005716.2 | It is illegal to pirate films. | 盗版电影是违法的。
+w005716.3 | Software pirates cost the industry millions. | 软件盗版者使这个行业损失了数百万。
+w005717.1 | Polar bears live in the Arctic. | 北极熊生活在北极地区。
+w005717.2 | The two brothers hold polar views on most things. | 两兄弟在大多数事情上观点截然相反。
+w005718.1 | My prediction is that it will rain tomorrow. | 我预测明天会下雨。
+w005719.1 | We watched a preview of the new film. | 我们看了新电影的预告片。
+w005719.2 | You can preview the document before printing it. | 打印前你可以预览文件。
+w005720.1 | The kids did a jigsaw puzzle together. | 孩子们一起玩了拼图。
+w005720.2 | How the cat got out is still a puzzle. | 猫是怎么跑出去的仍然是个谜。
+w005720.3 | His answer puzzled me. | 他的回答让我很困惑。
+w005721.1 | The rapper released a new song last week. | 那位说唱歌手上周发布了新歌。

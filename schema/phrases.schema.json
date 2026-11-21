@@ -1,0 +1,122 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "open-learner-dict/0.10.0/phrases.schema.json",
+  "title": "open-learner-dict phrases (one object per JSONL line)",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^ph_"
+    },
+    "phrase": {
+      "type": "string"
+    },
+    "layer": {
+      "enum": [
+        "phrase"
+      ]
+    },
+    "type": {
+      "enum": [
+        "phrv",
+        "idiom",
+        "phrase",
+        "compound"
+      ]
+    },
+    "senses": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "sense_id": {
+            "type": "string"
+          },
+          "pos": {
+            "enum": [
+              "n.",
+              "v.",
+              "adj.",
+              "adv.",
+              "prep.",
+              "conj.",
+              "pron.",
+              "det.",
+              "int.",
+              "num.",
+              "aux.",
+              "abbr."
+            ]
+          },
+          "zh": {
+            "type": "string"
+          },
+          "zh_hant": {
+            "type": "string"
+          },
+          "en_short": {
+            "type": "string"
+          },
+          "register": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "pattern": "^(formal|informal|slang|dated|literary|uk|us|offensive-mild|offensive-strong|domain:.+)$"
+            }
+          }
+        },
+        "required": [
+          "sense_id",
+          "pos",
+          "zh",
+          "zh_hant",
+          "en_short",
+          "register"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "level": {
+      "enum": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "C2"
+      ]
+    },
+    "level_estimated": {
+      "type": "boolean"
+    },
+    "kid_safe": {
+      "type": "boolean"
+    },
+    "confidence": {
+      "enum": [
+        "medium",
+        "low"
+      ]
+    },
+    "reviewed": {
+      "type": "boolean"
+    },
+    "meta": {
+      "type": "object"
+    }
+  },
+  "required": [
+    "id",
+    "phrase",
+    "layer",
+    "type",
+    "senses",
+    "level",
+    "level_estimated",
+    "kid_safe",
+    "confidence",
+    "reviewed",
+    "meta"
+  ],
+  "additionalProperties": false
+}

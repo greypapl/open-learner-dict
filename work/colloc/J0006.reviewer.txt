@@ -1,0 +1,190 @@
+next to impossible | delete:phrase
+gift shop | delete:phrase
+give a gift | delete:free
+receive a gift | delete:free
+basic function | delete:free
+eastern part | delete:free
+cook dinner | delete:free
+decide to do sth | delete:free
+finally decide | delete:free
+decide against sth | v+prep | 决定不做… | decide
+domestic cat | delete:free
+painfully aware | adv+adj | 深切地意识到 | aware
+have an advantage | delete:free
+install software | delete:free
+software package | delete:phrase
+software development | delete:free
+quiet setting | delete:free
+rare disease | delete:free
+rare opportunity | delete:free
+possibly the best | delete:free
+cannot possibly | v+adv | 怎么也不能, 绝不可能 | possibly
+extremely lucky | delete:free
+length of time | delete:free
+full length | delete:free
+leadership skills | delete:free
+child labor | delete:phrase
+academic journal | delete:free
+scientific journal | delete:free
+housing market | delete:phrase
+vegetable garden | delete:phrase
+beautiful garden | delete:free
+family background | n+n | 家庭背景 | background
+turn up the volume | delete:phrase
+stick to sth | delete:phrase
+turn down a request | delete:phrase
+alive and well | delete:phrase
+treat an illness | delete:free
+technical support | delete:phrase
+slightly different | delete:free
+fix a problem | delete:free
+open a file | delete:free
+cultural heritage | delete:free
+extremely busy | delete:free
+busy schedule | delete:free
+natural beauty | delete:free
+for future reference | delete:phrase
+absolutely lovely | delete:free
+head injury | delete:free
+really excited | delete:free
+evil spirit | delete:phrase
+really appreciate | delete:free
+acquired taste | delete:phrase
+cause stress | delete:free
+reduce costs | delete:free
+immediate reaction | delete:free
+reaction to sth | v+prep | 对…的反应 | reaction
+nuclear weapon | delete:phrase
+climb a mountain | delete:free
+completely honest | delete:free
+exist in sth | delete:free
+detailed description | delete:free
+beyond description | delete:phrase
+democratic government | delete:free
+democratic election | delete:free
+write a blog | delete:free
+fertile valley | delete:free
+extremely useful | delete:free
+useful information | delete:free
+transfer money | delete:free
+transfer sth to sb | delete:free
+clear sky | delete:free
+change shape | delete:free
+regional office | delete:free
+a quarter of sth | delete:free
+proper way | delete:free
+plenty of sth | delete:phrase
+massive amount | delete:free
+massive increase | delete:free
+send mail | delete:free
+initial stage | delete:free
+initial reaction | delete:free
+run out of fuel | delete:phrase
+flat surface | delete:free
+music festival | delete:free
+hold a festival | delete:free
+complete failure | delete:free
+entirely different | delete:free
+emergency services | delete:phrase
+electric light | delete:free
+electric current | delete:phrase
+put on clothes | delete:phrase
+assistant manager | delete:phrase
+warm weather | delete:free
+terrible mistake | delete:free
+terrible accident | delete:free
+steel industry | delete:free
+remove sth from sth | delete:free
+purchase a ticket | delete:free
+garden path | delete:phrase
+follow a path | delete:free
+career path | delete:phrase
+visit a museum | delete:free
+mix sth with sth | delete:free
+industrial development | delete:free
+industrial area | delete:free
+fantastic news | delete:free
+absolutely fantastic | delete:free
+customs duty | delete:phrase
+discussion about sth | delete:free
+alternative energy | delete:phrase
+alternative to sth | v+prep | …的替代品 | alternative
+advanced level | delete:free
+accident victim | delete:free
+proof of sth | delete:free
+provide proof | delete:free
+age limit | delete:phrase
+time limit | delete:phrase
+child labour | delete:phrase
+intelligence agency | delete:phrase
+tropical forest | delete:free
+forest fire | delete:phrase
+environmental protection | delete:free
+environmental damage | delete:free
+environmental impact | delete:free
+ensure safety | delete:free
+enemy forces | delete:free
+large crowd | adj+n | 一大群人 | crowd
+cheering crowd | delete:free
+film crew | delete:phrase
+have a good command of sth | v+n | 精通…, 熟练掌握… | command
+border control | delete:phrase
+border dispute | delete:free
+draught beer | delete:phrase
+terribly afraid | delete:free
+freelance writer | delete:phrase
+software update | delete:phrase
+regular update | delete:free
+survey results | delete:free
+opinion survey | delete:phrase
+suddenly realize | delete:free
+suddenly stop | delete:free
+jump at a chance | delete:phrase
+quite honestly | delete:free
+historical event | delete:free
+historical evidence | delete:free
+historical background | delete:free
+extremely expensive | delete:free
+run up a debt | v+n | 欠下债务 | debt
+behavior problem | delete:free
+good behavior | delete:free
+defense attorney | delete:phrase
+pleasantly surprised | adv+adj | 又惊又喜, 喜出望外 | surprised
+surprised by sth | delete:free
+a spoonful of sugar | delete:free
+soft voice | delete:free
+planet earth | delete:phrase
+take out a loan | v+n | 贷款 | loan
+illegal drugs | delete:free
+national hero | delete:free
+war hero | delete:free
+exercise regularly | delete:free
+download a file | delete:free
+free download | delete:free
+connected to sth | delete:free
+communication with sb | v+prep | 与某人的沟通 | communication
+ancient civilization | delete:free
+blood testing | delete:phrase
+firing squad | delete:phrase
+bomb squad | delete:phrase
+smoke a cigarette | delete:free
+scientific evidence | delete:free
+scientific method | delete:phrase
+bus route | delete:phrase
+escape route | delete:phrase
+talent pool | delete:phrase
+launch platform | delete:phrase
+big mistake | delete:free
+hire a lawyer | delete:free
+defence lawyer | delete:phrase
+research grant | delete:phrase
+feed a baby | delete:free
+factor in sth | delete:phrase
+victorian era | delete:phrase
+new era | delete:free
+entry fee | delete:phrase
+diary entry | n+n | 一篇日记 | entry
+drama series | delete:phrase
+mobile device | delete:free
+electronic device | delete:free
+safety device | delete:free

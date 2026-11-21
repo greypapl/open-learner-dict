@@ -1,0 +1,127 @@
+the metropolitan area | delete:phrase
+liver disease | delete:free
+liver failure | delete:free
+a lap of honour | delete:phrase
+a power grid | delete:phrase
+whole grain | delete:phrase
+household garbage | delete:free
+examine the evidence | delete:free
+a period costume | delete:phrase
+consecutive days | delete:free
+a chemical compound | delete:phrase
+collapse in sth | delete:wrong
+give sb a clue | delete:free
+have no clue | delete:phrase
+a classification system | delete:free
+a chill runs down one's spine | delete:phrase
+a cherry tree | delete:free
+a high ceiling | delete:free
+a price ceiling | delete:phrase
+a written assignment | delete:free
+computer animation | delete:free
+accessible to sb | v+prep | 可供某人使用, 易于某人理解 | accessible
+conclusive testimony | delete:rare
+under surveillance | delete:phrase
+surveillance camera | delete:phrase
+simultaneously translate | delete:rare
+the sun shines | delete:free
+a sex scandal | delete:free
+a pale reflection | adj+n | 拙劣的翻版 | reflection
+a notion of sth | delete:free
+a magnetic field | delete:phrase
+a traffic jam | delete:phrase
+a paper jam | delete:phrase
+build a dam | delete:free
+in compliance with sth | delete:phrase
+chuck sth away | delete:phrase
+a beer barrel | delete:free
+civil aviation | delete:phrase
+crop yield | delete:phrase
+a vocal minority | adj+n | 敢于发声的少数人 | vocal
+shy away from sth | delete:phrase
+a shade of sth | n+n | 某种颜色的深浅 | shade
+customer satisfaction | delete:phrase
+deep satisfaction | adj+n | 深深的满足 | satisfaction
+react angrily | delete:free
+the state legislature | delete:free
+sheer determination | adj+n | 凭着坚定的决心 | determination
+a speech bubble | delete:phrase
+grudging acceptance | adj+n | 勉强的认可 | acceptance
+a traffic violation | delete:phrase
+a vertical line | delete:free
+urgent attention | adj+n | 紧急处理 | urgent
+a project timeline | delete:free
+a muscle strain | delete:free
+a high stake | delete:wrong
+speak quietly | delete:free
+a research protocol | delete:free
+increase productivity | delete:free
+productivity growth | delete:free
+an investment portfolio | delete:phrase
+a podcast episode | delete:free
+on a par with sth | delete:phrase
+applied mathematics | delete:phrase
+a well-informed decision | adj+n | 知情决定, 有根据的决定 | inform
+a natural harbor | delete:free
+a dairy farmer | delete:phrase
+the elderly parents | delete:wrong
+a cash crop | delete:phrase
+a classroom teacher | delete:free
+a casting vote | delete:phrase
+gain admission | v+n | 获准进入, 获准入学 | admission
+a petting zoo | delete:phrase
+a teenage girl | delete:free
+sweat with sth | delete:rare
+statistical analysis | delete:free
+an iron rod | delete:free
+a fishing rod | delete:phrase
+a plug socket | delete:phrase
+pile sth up | delete:phrase
+a pile of junk | delete:free
+roast pig | delete:phrase
+a pearl necklace | delete:free
+a police patrol | delete:free
+a pipe organ | delete:phrase
+a missile launch | delete:free
+a ballistic missile | delete:phrase
+hardly justify | delete:rare
+the judicial system | delete:free
+an open invitation | adj+n | 随时有效的邀请 | invitation
+inventory control | delete:phrase
+great intensity | delete:free
+reduce intensity | delete:free
+rising inflation | adj+n | 通胀加剧 | inflation
+the inflation rate | delete:phrase
+the immune system | delete:phrase
+of short duration | delete:phrase
+a learning curve | delete:phrase
+a dairy cow | delete:phrase
+a buffalo herd | delete:rare
+a blank page | delete:free
+beam with pride | v+prep | 自豪得满面笑容 | beam
+abstract art | delete:phrase
+welcome aboard | delete:phrase
+a washing machine | delete:phrase
+a tourist visa | delete:phrase
+a safety valve | delete:phrase
+a heart valve | delete:phrase
+a plastic surgeon | delete:phrase
+a brain surgeon | delete:phrase
+a ski resort | delete:phrase
+separation anxiety | delete:phrase
+make a sandwich | delete:free
+reportedly killed | delete:free
+a leading publisher | delete:free
+protective of sb | v+prep | 护着某人 | protective
+the prospect of sth | n+n | 某事的可能性 | prospect
+a playoff game | delete:free
+a sticky mud | delete:wrong
+mandatory sentence | adj+n | 强制性刑罚 | mandatory
+a rescue helicopter | delete:free
+a tax haven | delete:phrase
+a foreign embassy | delete:free
+an embassy official | delete:free
+a bald eagle | delete:phrase
+a hard disc | delete:phrase
+a slipped disc | delete:phrase
+a game controller | delete:phrase

@@ -1,0 +1,500 @@
+halen | skip:fragment
+haskins | skip:unknown
+haworth | skip:unknown
+hazzard | skip:unknown
+hcg | hCG | abbr:人绒毛膜促性腺激素
+headwaters | common | n.源头, 上游
+hennessey | skip:unknown
+hinata | skip:unknown
+hoshi | skip:unknown
+houthi | Houthi | org:胡塞武装=也门武装组织
+houthis | Houthis | org:胡塞武装=也门武装组织
+iea | IEA | abbr:国际能源署
+ila | skip:unknown
+inhumans | Inhumans | work:异人族=漫威漫画
+iom | IOM | abbr:国际移民组织
+iplayer | skip:unknown
+jada | Jada | person:贾达=英语女子名
+jervis | skip:unknown
+jetta | Jetta | brand:捷达=大众汽车车型
+justinian | Justinian | person:查士丁尼=拜占庭皇帝
+kampf | skip:fragment
+kandi | skip:unknown
+karlsruhe | Karlsruhe | place:卡尔斯鲁厄=德国城市
+kenmore | skip:unknown
+keogh | skip:unknown
+kierkegaard | Kierkegaard | person:克尔凯郭尔=丹麦哲学家
+kildare | Kildare | place:基尔代尔=爱尔兰郡
+kingman | skip:unknown
+lacs | skip:unknown
+latif | skip:unknown
+lauer | skip:unknown
+leveson | skip:unknown
+lichfield | Lichfield | place:利奇菲尔德=英国城市
+littlest | common | adj.最小的, 最年幼的
+lun | skip:unknown
+maeve | Maeve | person:梅芙=爱尔兰女子名
+magdalen | Magdalen | org:莫德林学院=牛津大学学院
+maidan | skip:unknown
+mair | skip:unknown
+mang | skip:unknown
+manmohan | Manmohan | person:曼莫汉=印度男子名
+mathilde | Mathilde | person:玛蒂尔德=法语女子名
+mdr | skip:unknown
+mercia | Mercia | place:麦西亚=英格兰古王国
+mervyn | Mervyn | person:默文=英语男子名
+methuen | skip:unknown
+minimums | common | n.最低限额, 最小值
+monza | Monza | place:蒙扎=意大利城市
+moz | skip:unknown
+munroe | skip:unknown
+nashua | Nashua | place:纳舒厄=美国城市
+natalya | Natalya | person:娜塔莉娅=俄语女子名
+netizens | common | n.网民
+nme | skip:unknown
+nobu | skip:unknown
+nome | Nome | place:诺姆=美国阿拉斯加城市
+northridge | Northridge | place:北岭=美国洛杉矶地区
+nta | skip:unknown
+nunez | Nunez | person:努涅斯=西班牙语姓氏
+occ | skip:unknown
+oceanside | Oceanside | place:奥申赛德=美国加州城市
+ogilvy | Ogilvy | brand:奥美=广告公司
+oxnard | Oxnard | place:奥克斯纳德=美国加州城市
+pcbs | common | abbr.印刷电路板, 多氯联苯
+ppt | common | abbr.幻灯片
+pullin | skip:unknown
+pyeongchang | Pyeongchang | place:平昌=韩国郡
+rayburn | Rayburn | person:雷伯恩=英语姓氏
+recife | Recife | place:累西腓=巴西城市
+renard | skip:unknown
+renderings | common | n.效果图, 渲染
+renton | skip:unknown
+rereading | common | n.重读
+rowena | Rowena | person:罗温娜=英语女子名
+rsc | skip:unknown
+rtc | skip:unknown
+rti | skip:unknown
+scm | skip:unknown
+seaton | skip:unknown
+sfc | skip:unknown
+shaftesbury | Shaftesbury | place:沙夫茨伯里=英国地名
+shhhh | common | int.嘘
+spammers | common | n.垃圾邮件发送者
+spina | skip:unknown
+sst | skip:unknown
+stayin | skip:unknown
+steinbeck | Steinbeck | person:斯坦贝克=美国作家
+stinson | skip:unknown
+stoners | common | n.吸大麻者 [slang] | nokid
+susana | Susana | person:苏珊娜=西班牙语女子名
+takings | common | n.收入, 营业额 [uk]
+tcs | skip:unknown
+tegan | skip:unknown
+tempore | skip:fragment
+thackeray | Thackeray | person:萨克雷=英国作家
+thales | Thales | person:泰勒斯=古希腊哲学家
+thrace | Thrace | place:色雷斯=巴尔干东南部地区
+tio | skip:not-english
+tivoli | Tivoli | place:蒂沃利=意大利城市
+tmp | skip:junk
+tonto | skip:unknown
+topps | skip:unknown
+tora | skip:unknown
+tsx | TSX | abbr:多伦多证券交易所
+tuan | skip:unknown
+tuc | TUC | abbr:英国工会联盟
+tunbridge | skip:fragment
+turkic | common | adj.突厥语的, 突厥的
+tuskegee | Tuskegee | place:塔斯克基=美国阿拉巴马城市
+vergara | skip:unknown
+vers | skip:junk
+vesuvius | Vesuvius | place:维苏威火山=意大利火山
+viejo | skip:not-english
+westin | Westin | brand:威斯汀=酒店品牌
+wexler | skip:unknown
+wheres | skip:junk
+wilberforce | Wilberforce | person:威尔伯福斯=英国废奴主义者
+woking | Woking | place:沃金=英国城市
+woodhead | skip:unknown
+xxii | skip:numeral
+zedd | skip:unknown
+zeno | Zeno | person:芝诺=古希腊哲学家
+zucker | skip:unknown
+aau | skip:unknown
+airsoft | common | n.气枪对战运动
+algonquin | Algonquin | people:阿尔冈昆人=北美原住民
+alon | skip:unknown
+alzheimer | Alzheimer | person:阿尔茨海默=德国神经学家
+ander | skip:unknown
+anja | skip:unknown
+annika | Annika | person:安妮卡=北欧女子名
+arianna | Arianna | person:阿里安娜=意大利语女子名
+aru | skip:unknown
+asghar | skip:unknown
+ashworth | skip:unknown
+b.b | skip:junk
+bahama | Bahama | place:巴哈马=加勒比国家
+bamford | skip:unknown
+bayonne | Bayonne | place:巴约讷=法国城市
+beltran | Beltran | person:贝尔特兰=西班牙语姓氏
+bennington | Bennington | place:本宁顿=美国佛蒙特城镇
+bmo | BMO | abbr:蒙特利尔银行
+boleyn | Boleyn | person:博林=英国王后姓氏
+bolshoi | Bolshoi | org:大剧院=莫斯科剧院
+bridgend | skip:unknown
+bridgestone | Bridgestone | brand:普利司通=日本轮胎品牌
+bunbury | Bunbury | place:班伯里=澳大利亚城市
+c.e | common | abbr.公元
+cambria | Cambria | place:坎布里亚=威尔士古称
+capa | Capa | person:卡帕=匈牙利战地摄影师
+caregiving | common | n.照护, 护理
+casas | skip:not-english
+cea | skip:unknown
+cerro | skip:not-english
+chaka | skip:unknown
+charly | skip:unknown
+cie | skip:not-english
+cin | skip:unknown
+clp | skip:unknown
+cormier | skip:unknown
+cristobal | Cristobal | person:克里斯托瓦尔=西班牙语男子名
+danilo | Danilo | person:达尼洛=男子名
+darin | Darin | person:达林=英语男子名
+dietz | skip:unknown
+diplo | skip:unknown
+drago | skip:unknown
+dri | skip:unknown
+eac | skip:unknown
+elbert | Elbert | person:埃尔伯特=英语男子名
+elmira | Elmira | place:埃尔迈拉=美国纽约城市
+enrollees | common | n.注册者, 参保者
+enrollments | common | n.入学人数, 注册
+epping | Epping | place:埃平=英国小镇
+erc | skip:unknown
+faris | skip:unknown
+faroe | Faroe | place:法罗群岛=丹麦自治领地
+farsi | common | n.波斯语
+feu | skip:not-english
+fico | FICO | brand:费埃哲=美国信用评分公司
+finsbury | Finsbury | place:芬斯伯里=伦敦地区
+forsythe | skip:unknown
+fournier | Fournier | person:富尼耶=法语姓氏
+franca | skip:fragment
+fromm | Fromm | person:弗洛姆=德国心理学家
+fsc | skip:unknown
+fte | skip:unknown
+gallatin | Gallatin | place:加勒廷=美国田纳西城市
+gard | skip:unknown
+goalies | common | n.守门员
+goverment | skip:junk
+goya | Goya | person:戈雅=西班牙画家
+grohl | Grohl | person:格罗尔=美国音乐人
+grp | skip:unknown
+grupo | skip:not-english
+hainan | Hainan | place:海南=中国省份
+hamad | Hamad | person:哈马德=阿拉伯男子名
+hangings | common | n.绞刑, 帷幔
+heli | skip:unknown
+hgh | HGH | abbr:人类生长激素
+higuain | Higuain | person:伊瓜因=阿根廷足球运动员
+holyoke | Holyoke | place:霍利奥克=美国马萨诸塞城市
+howells | skip:unknown
+hts | skip:unknown
+iago | Iago | work:伊阿古=莎士比亚《奥赛罗》人物
+indore | Indore | place:印多尔=印度城市
+ingraham | skip:unknown
+ino | skip:unknown
+iras | skip:unknown
+isc | skip:unknown
+iver | skip:unknown
+ivey | skip:unknown
+jal | JAL | brand:日本航空=日本航空公司
+joakim | Joakim | person:约阿基姆=北欧男子名
+joh | skip:unknown
+johnstown | Johnstown | place:约翰斯敦=美国宾夕法尼亚城市
+josep | skip:unknown
+karel | Karel | person:卡雷尔=捷克语男子名
+khomeini | Khomeini | person:霍梅尼=伊朗宗教领袖
+klinger | skip:unknown
+kodiak | Kodiak | place:科迪亚克=美国阿拉斯加岛屿
+kronos | Kronos | religion:克洛诺斯=希腊神话泰坦神
+kunming | Kunming | place:昆明=中国城市
+lavinia | Lavinia | person:拉维尼娅=英语女子名
+lavrov | Lavrov | person:拉夫罗夫=俄罗斯外交部长
+lepage | skip:unknown
+lewisham | Lewisham | place:刘易舍姆=伦敦行政区
+lionsgate | Lionsgate | brand:狮门=美国影视公司
+liston | Liston | person:利斯顿=美国拳击手
+lma | skip:unknown
+loca | skip:unknown
+lolo | skip:unknown
+lusaka | Lusaka | place:卢萨卡=赞比亚首都
+macintyre | skip:unknown
+mahindra | Mahindra | brand:马恒达=印度企业集团
+malden | skip:unknown
+margery | Margery | person:玛杰里=英语女子名
+materia | skip:fragment
+maxime | Maxime | person:马克西姆=法语男子名
+mbeki | Mbeki | person:姆贝基=南非前总统
+mccollum | skip:unknown
+mcconaughey | McConaughey | person:麦康纳=美国演员
+mcmurray | skip:unknown
+meaner | common | adj.更刻薄的, 更吝啬的
+medway | Medway | place:梅德韦=英国地区
+meetups | common | n.聚会, 见面会
+mensa | Mensa | org:门萨=高智商者协会
+mignon | skip:fragment
+millicent | Millicent | person:米利森特=英语女子名
+mlg | skip:unknown
+moda | skip:unknown
+modric | Modric | person:莫德里奇=克罗地亚足球运动员
+moores | skip:unknown
+morsi | Morsi | person:穆尔西=埃及前总统
+morten | Morten | person:莫滕=北欧男子名
+mosby | skip:unknown
+nabil | Nabil | person:纳比勒=阿拉伯男子名
+ncs | skip:unknown
+ndtv | skip:unknown
+nex | skip:unknown
+nfs | skip:unknown
+nicu | NICU | abbr:新生儿重症监护室
+nighter | skip:fragment
+nir | skip:unknown
+nui | skip:unknown
+oakville | Oakville | place:奥克维尔=加拿大城市
+ooc | skip:unknown
+ordovician | common | n.奥陶纪 ; adj.奥陶纪的
+ovechkin | Ovechkin | person:奥维奇金=俄罗斯冰球运动员
+p.d | skip:unknown
+parkin | skip:unknown
+parthenon | Parthenon | place:帕特农神庙=雅典古建筑
+pauli | Pauli | person:泡利=奥地利物理学家
+pdfs | skip:unknown
+peo | skip:unknown
+perthshire | Perthshire | place:珀斯郡=苏格兰地区
+pha | skip:unknown
+pickings | common | n.收益, 战利品
+pima | Pima | people:皮马人=美洲原住民
+pino | skip:unknown
+pml | skip:unknown
+ppr | skip:unknown
+purebred | common | adj.纯种的 ; n.纯种动物
+putney | Putney | place:帕特尼=伦敦地区
+qaida | Qaida | org:基地组织=恐怖组织
+rafferty | skip:unknown
+rar | skip:unknown
+recep | Recep | person:雷杰普=土耳其男子名
+rhone | Rhone | place:罗讷河=法国河流
+rhp | skip:unknown
+riddler | Riddler | work:谜语人=蝙蝠侠反派
+riordan | skip:unknown
+ripon | Ripon | place:里彭=英国城市
+rit | skip:unknown
+rizal | Rizal | person:黎刹=菲律宾民族英雄
+rodin | Rodin | person:罗丹=法国雕塑家
+roshan | skip:unknown
+sandford | skip:unknown
+sandor | Sandor | person:桑多尔=匈牙利男子名
+saville | skip:unknown
+scheer | skip:unknown
+scotts | skip:unknown
+sharpton | Sharpton | person:夏普顿=美国民权活动家
+shek | skip:fragment
+shing | skip:unknown
+shriver | Shriver | person:施赖弗=英语姓氏
+snd | skip:unknown
+soames | skip:unknown
+statham | Statham | person:斯坦森=英国演员
+stc | skip:unknown
+stepan | Stepan | person:斯捷潘=斯拉夫男子名
+sutcliffe | skip:unknown
+svg | SVG | abbr:可缩放矢量图形
+syfy | Syfy | brand:科幻频道=美国电视频道
+syriac | common | n.叙利亚语 ; adj.叙利亚语的
+t.s | skip:unknown
+takumi | skip:unknown
+techcrunch | skip:unknown
+thay | skip:unknown
+thicc | common | adj.身材丰满的 [slang] | nokid
+thinkpad | skip:unknown
+tilbury | Tilbury | place:蒂尔伯里=英国港口
+tilda | Tilda | person:蒂尔达=英语女子名
+tobey | Tobey | person:托比=英语男子名
+tomi | skip:unknown
+trapp | skip:unknown
+treadwell | skip:unknown
+tsn | skip:unknown
+tsu | skip:unknown
+tutti | common | adv.全奏 [domain:音乐]
+uavs | common | abbr.无人机
+udall | skip:unknown
+undrafted | common | adj.未被选秀的 [domain:体育]
+ung | skip:unknown
+upc | skip:unknown
+uxbridge | Uxbridge | place:阿克斯布里奇=伦敦地区
+valdes | Valdes | person:巴尔德斯=西班牙语姓氏
+varun | skip:unknown
+velasquez | Velasquez | person:委拉斯开兹=西班牙画家
+verdun | Verdun | place:凡尔登=法国城市
+vickie | Vickie | person:维基=英语女子名
+vincennes | Vincennes | place:万塞讷=法国城市
+vogt | skip:unknown
+vou | skip:unknown
+waddell | skip:unknown
+waikiki | Waikiki | place:威基基=夏威夷海滩
+wald | skip:not-english
+warburg | Warburg | person:沃伯格=德语姓氏
+weeknd | Weeknd | person:威肯=加拿大歌手
+whipple | skip:unknown
+wic | skip:unknown
+yara | skip:unknown
+yellen | Yellen | person:耶伦=美国前财政部长
+yost | skip:unknown
+yousef | Yousef | person:优素福=阿拉伯男子名
+yuna | skip:unknown
+zn | common | abbr.锌 [domain:化学]
+abbotsford | Abbotsford | place:阿伯茨福德=加拿大城市
+abkhazia | Abkhazia | place:阿布哈兹=格鲁吉亚地区
+acct | common | abbr.账户, 会计
+aed | skip:unknown
+afr | skip:unknown
+agh | skip:unknown
+ailes | Ailes | person:艾尔斯=英语姓氏
+akhtar | skip:unknown
+alasdair | Alasdair | person:阿拉斯代尔=苏格兰男子名
+aldous | Aldous | person:奥尔德斯=英语男子名
+aldrin | Aldrin | person:奥尔德林=美国宇航员
+aliexpress | AliExpress | brand:速卖通=阿里巴巴电商平台
+allstate | Allstate | brand:好事达=美国保险公司
+alo | skip:unknown
+altho | skip:junk
+amitabh | skip:unknown
+ansar | skip:unknown
+aragorn | Aragorn | work:阿拉贡=《魔戒》人物
+argonne | Argonne | org:阿贡国家实验室=美国能源部实验室
+astaire | Astaire | person:阿斯泰尔=美国舞蹈家
+attn | common | abbr.收件人, 注意
+auden | Auden | person:奥登=英国诗人
+avs | skip:unknown
+balzac | Balzac | person:巴尔扎克=法国作家
+baskin | skip:fragment
+bellator | skip:unknown
+bmt | skip:unknown
+bohr | Bohr | person:玻尔=丹麦物理学家
+boniface | skip:unknown
+boynton | skip:unknown
+brahmins | common | n.婆罗门
+breakwater | common | n.防波堤
+breckenridge | skip:unknown
+brookhaven | Brookhaven | place:布鲁克海文=美国纽约地区
+buckner | skip:unknown
+bushnell | skip:unknown
+caron | skip:unknown
+cazorla | Cazorla | person:卡索拉=西班牙足球运动员
+cbr | skip:unknown
+chae | skip:unknown
+chantilly | Chantilly | place:尚蒂伊=法国城市
+clarksville | Clarksville | place:克拉克斯维尔=美国田纳西城市
+clos | skip:unknown
+coinbase | skip:unknown
+cond | skip:unknown
+conyers | skip:unknown
+cornwallis | Cornwallis | person:康沃利斯=英国将军
+corr | skip:unknown
+crispr | CRISPR | abbr:规律间隔成簇短回文重复=基因编辑技术
+cudi | skip:fragment
+darmstadt | Darmstadt | place:达姆施塔特=德国城市
+dela | skip:unknown
+depeche | skip:fragment
+devel | skip:unknown
+dido | Dido | person:狄多=迦太基女王 ; person:黛朵=英国歌手
+dob | common | abbr.出生日期
+dpr | skip:unknown
+dsa | skip:unknown
+eben | skip:unknown
+elway | Elway | person:埃尔韦=美国橄榄球运动员
+epcot | EPCOT | brand:未来世界=迪士尼乐园景区
+esperanza | Esperanza | person:埃斯佩兰萨=西班牙语女子名
+etna | Etna | place:埃特纳火山=意大利火山
+etruscan | Etruscan | people:伊特鲁里亚人=古意大利民族
+fallujah | Fallujah | place:费卢杰=伊拉克城市
+feinberg | skip:unknown
+ferraris | skip:unknown
+filip | Filip | person:菲利普=斯拉夫男子名
+filippo | Filippo | person:菲利波=意大利男子名
+fiske | skip:unknown
+folkestone | Folkestone | place:福克斯通=英国港口城市
+frampton | skip:unknown
+fre | skip:unknown
+frome | Frome | place:弗罗姆=英国小镇
+fulani | Fulani | people:富拉尼人=西非民族
+gautam | Gautam | person:高塔姆=印度男子名
+gbs | skip:unknown
+geri | skip:unknown
+gfs | skip:unknown
+gilda | skip:unknown
+gipsy | common | n.吉卜赛人 [offensive-mild]
+giulio | Giulio | person:朱利奥=意大利男子名
+gnc | skip:unknown
+greig | skip:unknown
+gruden | skip:unknown
+guardia | skip:fragment
+h.e | skip:unknown
+hashim | Hashim | person:哈希姆=阿拉伯男子名
+hea | skip:unknown
+headshots | common | n.头部特写照, 爆头
+hed | skip:unknown
+hedwig | Hedwig | work:海德薇=《哈利·波特》中的猫头鹰
+heine | Heine | person:海涅=德国诗人
+helios | Helios | religion:赫利俄斯=希腊太阳神
+hilo | Hilo | place:希洛=美国夏威夷城市
+hons | skip:unknown
+ifrs | IFRS | abbr:国际财务报告准则
+islamism | common | n.伊斯兰主义
+jacinto | Jacinto | person:哈辛托=西班牙语男子名
+jafar | Jafar | work:贾法尔=《阿拉丁》反派 ; person:贾法尔=阿拉伯男子名
+jeanie | Jeanie | person:珍妮=英语女子名
+jeeves | Jeeves | work:吉夫斯=伍德豪斯小说人物
+jima | skip:fragment
+jorgensen | Jorgensen | person:约尔根森=丹麦姓氏
+juilliard | Juilliard | org:茱莉亚学院=美国音乐学院
+jumpin | skip:unknown
+kao | Kao | brand:花王=日本日化企业
+karp | skip:unknown
+kasey | skip:unknown
+kass | skip:unknown
+katerina | Katerina | person:卡捷琳娜=俄语女子名
+kemal | Kemal | person:凯末尔=土耳其男子名
+kigali | Kigali | place:基加利=卢旺达首都
+kyra | skip:unknown
+leavitt | skip:unknown
+leesburg | Leesburg | place:利斯堡=美国弗吉尼亚城镇
+lewinsky | Lewinsky | person:莱温斯基=美国前白宫实习生
+lod | skip:unknown
+lundy | skip:unknown
+lycra | Lycra | brand:莱卡=弹性纤维品牌
+macclesfield | Macclesfield | place:麦克尔斯菲尔德=英国城镇
+machina | skip:fragment
+maddow | Maddow | person:马多=美国电视主持人
+mahon | skip:unknown
+mamie | Mamie | person:玛米=英语女子名
+mandel | skip:unknown
+masai | Masai | people:马赛人=东非民族
+mcclintock | McClintock | person:麦克林托克=英语姓氏
+mclennan | skip:unknown
+mecklenburg | Mecklenburg | place:梅克伦堡=德国历史地区
+meister | skip:not-english
+mersey | Mersey | place:默西河=英国河流
+mev | common | abbr.兆电子伏 [domain:物理]
+mitra | skip:unknown
+miyagi | Miyagi | place:宫城=日本县份
+mmmmm | common | int.嗯
+morin | skip:unknown
+mrp | skip:unknown
+mundy | skip:unknown
+munn | skip:unknown
+musgrave | skip:unknown
+n.m | skip:unknown
+nairn | Nairn | place:奈恩=苏格兰城镇
+nak | skip:unknown

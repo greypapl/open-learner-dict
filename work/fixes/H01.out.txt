@@ -1,0 +1,235 @@
+ngo | standard:NGO
+ceo | standard:CEO
+feb | standard:Feb
+nov | standard:Nov
+oct | standard:Oct
+sept | standard:Sept
+DEC | standard:Dec
+jr | standard:Jr
+ST | standard:St
+id | standard:ID
+x-ray | standard:X-ray
+https | standard:HTTPS
+wtf | standard:WTF
+tbh | standard:TBH
+hiv | standard:HIV
+idk | standard:IDK
+phd | standard:PhD
+btw | standard:BTW
+ave | standard:Ave
+usb | standard:USB
+mvp | standard:MVP
+pdf | standard:PDF
+vr | standard:VR
+asap | standard:ASAP
+imo | standard:IMO
+uv | standard:UV
+eg | standard:e.g.
+cv | standard:CV
+suv | standard:SUV
+blvd | standard:Blvd
+mba | standard:MBA
+gpa | standard:GPA
+smh | standard:SMH
+adhd | standard:ADHD
+ipo | standard:IPO
+png | standard:PNG
+dui | standard:DUI
+ict | standard:ICT
+pov | standard:POV
+vhs | standard:VHS
+hdmi | standard:HDMI
+ocd | standard:OCD
+xml | standard:XML
+gmo | standard:GMO
+gpu | standard:GPU
+ssd | standard:SSD
+pcr | standard:PCR
+hpv | standard:HPV
+ivf | standard:IVF
+cfo | standard:CFO
+rgb | standard:RGB
+esl | standard:ESL
+bce | standard:BCE
+kwh | standard:kWh
+dvr | standard:DVR
+jpeg | standard:JPEG
+brb | standard:BRB
+nda | standard:NDA
+bff | standard:BFF
+bf | standard:BF
+msrp | standard:MSRP
+hdtv | standard:HDTV
+rfid | standard:RFID
+cfc | standard:CFC
+lpg | standard:LPG
+xxl | standard:XXL
+ebitda | standard:EBITDA
+wmd | standard:WMD
+sjw | standard:SJW
+dmz | standard:DMZ
+llm | standard:LLM
+freakshow | standard:freak show
+check-list | standard:checklist
+side-effect | standard:side effect
+living-room | standard:living room
+sitting-room | standard:sitting room
+ice-cream | standard:ice cream
+come-down | standard:comedown
+re-run | standard:rerun
+world-wide | standard:worldwide
+think-tank | standard:think tank
+co-ordination | standard:coordination
+roller-coaster | standard:roller coaster
+rollercoaster | standard:roller coaster
+fulltime | standard:full-time
+realtime | standard:real-time
+commonsense | standard:common sense
+kickass | standard:kick-ass
+knowhow | standard:know-how
+greenlight | standard:green light
+stockmarket | standard:stock market
+gameplan | standard:game plan
+hotdog | standard:hot dog
+downpayment | standard:down payment
+machinegun | standard:machine gun
+bandaid | standard:Band-Aid
+bellybutton | standard:belly button
+teargas | standard:tear gas
+newsmagazine | standard:news magazine
+heatsink | standard:heat sink
+plaintext | standard:plain text
+scoresheet | standard:score sheet
+highrise | standard:high-rise
+radiofrequency | standard:radio frequency
+councilmember | standard:council member
+diecast | standard:die-cast
+wargame | standard:war game
+treeline | standard:tree line
+ragdoll | standard:rag doll
+drumroll | standard:drum roll
+freakout | standard:freak-out
+dropdown | standard:drop-down
+datasheet | standard:data sheet
+nametag | standard:name tag
+piledriver | standard:pile driver
+haircare | standard:hair care
+jobsite | standard:job site
+sendoff | standard:send-off
+blacklight | standard:black light
+carwash | standard:car wash
+crawlspace | standard:crawl space
+teabag | standard:tea bag
+toolset | standard:tool set
+databank | standard:data bank
+punchbowl | standard:punch bowl
+phonebook | standard:phone book
+bellend | standard:bell end
+factsheet | standard:fact sheet
+showoff | standard:show-off
+timespan | standard:time span
+tipoff | standard:tip-off
+warpaint | standard:war paint
+jobseeker | standard:job seeker
+selloff | standard:sell-off
+strawman | standard:straw man
+bandgap | standard:band gap
+drydock | standard:dry dock
+wavefunction | standard:wave function
+windchill | standard:wind chill
+bedsheet | standard:bed sheet
+firetruck | standard:fire truck
+flashmob | standard:flash mob
+hotpot | standard:hot pot
+arclight | standard:arc light
+callsign | standard:call sign
+highlife | standard:high life
+hostname | standard:host name
+passionfruit | standard:passion fruit
+firestarter | standard:fire starter
+flatscreen | standard:flat-screen
+photobooth | standard:photo booth
+spellcheck | standard:spell check
+kneejerk | standard:knee-jerk
+nightshift | standard:night shift
+topnotch | standard:top-notch
+trenchcoat | standard:trench coat
+allover | standard:all-over
+spacebar | standard:space bar
+wingnut | standard:wing nut
+crosscheck | standard:cross-check
+lifeform | standard:life form
+rosehip | standard:rose hip
+firehose | standard:fire hose
+laserdisc | standard:laser disc
+truelove | standard:true love
+nevermind | standard:never mind
+fairytale | standard:fairy tale
+wildcard | standard:wild card
+standalone | standard:stand-alone
+rockstar | standard:rock star
+fully-fledged | standard:fully fledged
+longstanding | standard:long-standing
+wishlist | standard:wish list
+videogame | standard:video game
+lifecycle | standard:life cycle
+backend | standard:back end
+bootcamp | standard:boot camp
+heatwave | standard:heat wave
+meatloaf | standard:meat loaf
+fanfiction | standard:fan fiction
+diehard | standard:die-hard
+greenbelt | standard:green belt
+handjob | standard:hand job
+lightbulb | standard:light bulb
+lawnmower | standard:lawn mower
+shockwave | standard:shock wave
+ballgame | standard:ball game
+bodyweight | standard:body weight
+launchpad | standard:launch pad
+tradeoff | standard:trade-off
+bitrate | standard:bit rate
+goldmine | standard:gold mine
+faceoff | standard:face-off
+codename | standard:code name
+carpark | standard:car park
+filesystem | standard:file system
+jumpstart | standard:jump-start
+mugshot | standard:mug shot
+smokescreen | standard:smoke screen
+airshow | standard:air show
+chatroom | standard:chat room
+racecar | standard:race car
+flipside | standard:flip side
+powerplant | standard:power plant
+timezone | standard:time zone
+freeform | standard:free-form
+waterpark | standard:water park
+lightyear | standard:light-year
+offsite | standard:off-site
+timeslot | standard:time slot
+centerline | standard:center line
+feelgood | standard:feel-good
+landmine | standard:land mine
+trashcan | standard:trash can
+afterschool | standard:after-school
+leftwing | standard:left-wing
+hairdryer | standard:hair dryer
+ripoff | standard:rip-off
+dropkick | standard:drop kick
+helpdesk | standard:help desk
+motorhome | standard:motor home
+roundtrip | standard:round trip
+bowtie | standard:bow tie
+breakeven | standard:break-even
+colorblind | standard:color-blind
+lightspeed | standard:light speed
+failsafe | standard:fail-safe
+powerline | standard:power line
+ribcage | standard:rib cage
+paperclip | standard:paper clip
+facemask | standard:face mask
+birthrate | standard:birth rate
+codeword | standard:code word
+funhouse | standard:fun house
+jellybean | standard:jelly bean

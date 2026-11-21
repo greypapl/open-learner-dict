@@ -1,0 +1,62 @@
+w042422.1 | 非循環的, 無環的
+w042451.1 | 身分驗證器
+w042491.1 | 循環器, 循環泵
+w042599.1 | 圖像學的
+w042669.1 | 網友
+w042671.1 | 嗜中性白血球減少症
+w042711.1 | 使個人化, 客製
+w042918.1 | 乾椰子肉
+w042972.1 | 福馬林
+w042977.1 | 瓦斯廠
+w043145.1 | 攝護腺切除術
+w043252.1 | 游標尺
+w043321.1 | 呼叫器
+w043531.1 | 黴漿菌
+w043539.1 | 非參數的
+w043566.1 | 小兒麻痺病毒
+w043580.1 | 古怪, 酷兒身分
+w043890.1 | 開菲爾優格
+w043979.1 | 新聞群組
+w043989.1 | 食道的
+w044026.1 | 黃體素
+w044034.1 | 放射性核種
+w044187.1 | 回流, 逆流
+w044305.1 | 蠢貨, 白癡
+w044441.1 | 商品推銷員, 行銷員
+w044448.2 | 宏大計畫
+w044518.1 | 電磁軌道砲
+w044586.1 | 維甲酸, 視黃酸
+w044587.2 | 三環類抗憂鬱藥
+w044640.1 | 過敏專科醫師
+w044685.1 | 九重葛, 葉子花
+w044686.1 | 低音管, 低音鐘
+w044810.1 | 幽門螺旋桿菌屬
+w044827.1 | 免疫組織化學的
+w044850.1 | 酮酸中毒
+w044939.1 | 電漿子
+w045044.1 | 渦輪噴射引擎
+ph_in-favour-of.1 | 支持, 贊成
+ph_good-morning.1 | 早安
+ph_back-up.1 | 支持
+ph_pocket-money.1 | 零用錢
+ph_top-up.1 | 加滿, 儲值
+ph_in-support-of.1 | 支持
+ph_public-transport.1 | 大眾運輸
+ph_age-group.1 | 年齡層, 年齡組
+ph_week-by-week.1 | 逐週地
+ph_intensive-care.1 | 重症加護
+ph_climate-change.1 | 氣候變遷
+ph_power-station.1 | 發電廠
+ph_social-media.1 | 社群媒體
+ph_social-security.1 | 社會安全
+ph_fast-food.1 | 速食
+ph_air-conditioning.1 | 冷氣
+ph_past-tense.1 | 過去式
+ph_traffic-light.1 | 紅綠燈
+ph_one-in-a-million.1 | 百里挑一
+ph_check-out.1 | 結帳離開
+ph_plan-ahead.1 | 提前計畫
+ph_behind-schedule.1 | 落後於計畫的
+ph_in-the-know.1 | 知情的, 消息靈通
+ph_break-the-news.1 | 透露壞消息
+ph_no-news-is-good-news.1 | 沒消息就是好消息

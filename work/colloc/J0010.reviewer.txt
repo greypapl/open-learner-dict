@@ -1,0 +1,136 @@
+android phone | delete:free
+telephone call | delete:free
+telephone number | delete:free
+repair work | delete:free
+rail network | delete:free
+rail fare | delete:free
+sales promotion | delete:phrase
+high priority | adj+n | 优先事项, 当务之急 | priority
+mum and dad | delete:phrase
+minority group | delete:phrase
+war memorial | delete:phrase
+memorial service | delete:phrase
+kitchen knife | delete:phrase
+carving knife | delete:phrase
+financial institution | delete:phrase
+theory of evolution | delete:phrase
+rapid evolution | delete:free
+dust cloud | delete:free
+dramatic change | adj+n | 巨大变化, 急剧变化 | dramatic
+sun deck | delete:phrase
+offer comfort | delete:free
+bureau of statistics | delete:phrase
+important aspect | delete:free
+positive aspect | delete:free
+summer vacation | delete:free
+sudden change | delete:free
+sudden movement | delete:free
+spiritual leader | delete:free
+spiritual growth | delete:free
+smooth skin | delete:free
+signing ceremony | delete:phrase
+signing bonus | delete:phrase
+clean sheet | adj+n | 清白的记录, 零失球 | sheet
+rugby union | delete:phrase
+recall details | delete:free
+cooking pot | delete:phrase
+flower pot | delete:phrase
+coffee pot | delete:phrase
+write poetry | delete:free
+poetry reading | delete:phrase
+home ownership | delete:phrase
+obtain information | delete:free
+obtain a visa | delete:free
+night nurse | delete:free
+insane jealousy | delete:rare
+hop on a bus | delete:phrase
+hire staff | delete:free
+elite group | delete:free
+downtown area | delete:free
+desert climate | delete:free
+crystal glass | delete:phrase
+foregone conclusion | delete:phrase
+melt butter | delete:free
+drinking buddy | delete:phrase
+extremely annoying | delete:free
+military alliance | delete:free
+abandoned car | delete:free
+machine translation | delete:phrase
+translation error | delete:free
+silly me | delete:phrase
+egg shell | delete:phrase
+tax reduction | delete:free
+make a reduction | delete:rare
+job posting | delete:phrase
+nuclear physics | delete:phrase
+study physics | delete:free
+occasionally visit | delete:free
+narrow down sth | delete:phrase
+narrow street | delete:free
+narrative style | delete:free
+first-person narrative | delete:phrase
+mortgage payment | delete:free
+wear makeup | v+n | 化着妆, 带妆 | makeup
+makeup artist | delete:phrase
+liquid soap | delete:phrase
+pour a liquid | delete:free
+lifetime achievement | delete:phrase
+fitness centre | delete:phrase
+discover the truth | delete:free
+cricket match | delete:free
+citizen of a country | delete:free
+broadcast a programme | delete:free
+radio broadcast | delete:free
+work bench | delete:phrase
+park bench | delete:phrase
+substitutes bench | delete:phrase
+associate professor | delete:phrase
+vital importance | adj+n | 至关重要 | vital
+vital signs | delete:phrase
+valid for sth | v+prep | 对…有效 | valid
+entirely suitable | delete:free
+spin the wheel | delete:free
+resident of a city | delete:free
+resident doctor | delete:phrase
+government regulation | delete:free
+rapid change | delete:free
+gain possession of sth | v+prep | 获得, 取得 | possession
+incredibly difficult | delete:free
+incredibly lucky | delete:free
+energy efficiency | delete:phrase
+arrive safely | delete:free
+acute angle | delete:phrase
+constitutional amendment | delete:phrase
+survival rate | delete:phrase
+scary movie | delete:free
+follow a routine | v+n | 按常规行事, 遵循日常安排 | routine
+seaside resort | delete:phrase
+heart monitor | delete:phrase
+cultural legacy | delete:free
+in honour of sb | delete:phrase
+guest of honour | delete:phrase
+tax fraud | n+n | 税务欺诈 | fraud
+foreign currency | delete:phrase
+collect information | delete:free
+charitable organisation | delete:free
+main objective | delete:free
+beautiful landscape | delete:free
+company headquarters | delete:free
+frequency of sth | delete:free
+comprehensive insurance | delete:phrase
+good behaviour | delete:free
+automatic weapon | delete:phrase
+great achievement | delete:free
+final outcome | delete:free
+take a fancy to sb | delete:phrase
+energy consumption | delete:free
+organic chemistry | delete:phrase
+progressive tax | delete:phrase
+basic principle | delete:free
+instant success | adj+n | 一举成功, 一炮而红 | instant
+flood warning | delete:phrase
+agricultural production | delete:free
+in the absence of sth | delete:phrase
+wooden floor | delete:free
+protect wildlife | delete:free
+disease transmission | delete:free

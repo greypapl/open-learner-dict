@@ -1,0 +1,71 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "open-learner-dict/0.10.0/collocations.schema.json",
+  "title": "open-learner-dict collocations (one object per JSONL line)",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^c_"
+    },
+    "collocation": {
+      "type": "string"
+    },
+    "layer": {
+      "enum": [
+        "collocation"
+      ]
+    },
+    "pattern": {
+      "enum": [
+        "v+n",
+        "adj+n",
+        "n+n",
+        "adv+adj",
+        "v+adv",
+        "adv+v",
+        "v+prep",
+        "adj+prep",
+        "n+prep",
+        "n+v"
+      ]
+    },
+    "zh": {
+      "type": "string"
+    },
+    "zh_hant": {
+      "type": "string"
+    },
+    "headwords": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "confidence": {
+      "enum": [
+        "medium",
+        "low"
+      ]
+    },
+    "reviewed": {
+      "type": "boolean"
+    },
+    "meta": {
+      "type": "object"
+    }
+  },
+  "required": [
+    "id",
+    "collocation",
+    "layer",
+    "pattern",
+    "zh",
+    "zh_hant",
+    "headwords",
+    "confidence",
+    "reviewed",
+    "meta"
+  ],
+  "additionalProperties": false
+}

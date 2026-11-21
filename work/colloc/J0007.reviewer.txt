@@ -1,0 +1,73 @@
+confirmed booking | delete:free
+weak signal | delete:free
+relatively small | delete:free
+relatively easy | delete:free
+monthly payment | delete:free
+in payment for sth | delete:phrase
+payment of sth | delete:free
+a glass of milk | delete:free
+milk bottle | delete:free
+liberal arts | delete:phrase
+laugh out loud | delete:phrase
+have a laugh | v+n | 开心一下, 找乐子 | laugh
+hole in the ground | delete:free
+emotionally exhausted | adv+adj | 心力交瘁 | emotional
+discuss a problem | delete:free
+concern for sb | v+prep | 对某人的关心 | concern
+comfortable chair | delete:free
+make oneself comfortable | delete:phrase
+candidate for sth | v+prep | …的候选人 | candidate
+extremely angry | delete:free
+urban development | delete:free
+numerous examples | delete:free
+take a measure | delete:wrong
+kitchen table | delete:free
+a vote of confidence | delete:phrase
+a chain reaction | delete:phrase
+a talent for sth | v+prep | 有…的天赋 | talent
+smile broadly | v+adv | 咧嘴而笑 | smile
+be at fault | delete:phrase
+an extended family | delete:phrase
+extremely worried | delete:free
+a graphic novel | delete:phrase
+incredibly good | delete:free
+a false alarm | delete:phrase
+a dying breed | delete:phrase
+live coverage | adj+n | 现场报道, 直播 | coverage
+a bird of prey | delete:phrase
+a wave of sth | n+n | 一阵…, 一股…浪潮 | wave
+unfortunately for sb | delete:phrase
+elect a mayor | delete:free
+the chief editor | delete:phrase
+a world champion | n+n | 世界冠军 | champion
+the right wing | delete:phrase
+a return ticket | n+n | 往返票 | ticket
+a speeding ticket | n+n | 超速罚单 | ticket
+a relevant point | delete:free
+a medium-sized company | delete:free
+write a draft | delete:free
+cutting-edge technology | delete:phrase
+a combination of sth | delete:free
+in combination with sth | delete:phrase
+an assembly line | delete:phrase
+a threat to sth | v+prep | 对…的威胁 | threat
+switch sth on | delete:phrase
+switch sth off | delete:phrase
+according to statistics | delete:phrase
+add salt | delete:free
+read a newspaper | delete:free
+to the maximum | delete:phrase
+mainly because | delete:free
+a facility for sth | v+prep | 做某事的设施 | facility
+a cycle of sth | delete:free
+a motion picture | delete:phrase
+an empty room | delete:free
+a danger to sb | v+prep | 对某人构成危险 | danger
+a cry for help | delete:phrase
+controlled by sb | delete:free
+a careful look | adj+n | 仔细看一看 | careful
+with the assistance of sb | delete:phrase
+represent sb | delete:free
+fully replace | delete:free
+rule out a possibility | v+n | 排除可能性 | possibility
+a plot to do sth | v+prep | 做某事的阴谋 | plot

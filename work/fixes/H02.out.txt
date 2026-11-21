@@ -1,0 +1,629 @@
+wfh | standard:WFH
+ttyl | standard:TTYL
+smartcard | standard:smart card
+stylesheet | standard:style sheet
+keycard | standard:key card
+videoconference | standard:video conference
+tradeshow | standard:trade show
+alltime | standard:all-time
+falloff | standard:fall-off
+showbusiness | standard:show business
+swansong | standard:swan song
+pushbutton | standard:push-button
+papercut | standard:paper cut
+clingfilm | standard:cling film
+textbox | standard:text box
+lifejacket | standard:life jacket
+doubleclick | standard:double-click
+soymilk | standard:soy milk
+loveseat | standard:love seat
+trendline | standard:trend line
+zipcode | standard:ZIP code
+penpal | standard:pen pal
+bluejay | standard:blue jay
+lifeforce | standard:life force
+newsdesk | standard:news desk
+pinkeye | standard:pink eye
+sparkplug | standard:spark plug
+watercooler | standard:water cooler
+woodgrain | standard:wood grain
+dewpoint | standard:dew point
+corndog | standard:corn dog
+fatcat | standard:fat cat
+icecap | standard:ice cap
+toyboy | standard:toy boy
+workingman | standard:working man
+fiberoptic | standard:fiber optic
+highchair | standard:high chair
+backoff | standard:back off
+backorder | standard:back order
+screenprint | standard:screen print
+greenroom | standard:green room
+bellydance | standard:belly dance
+buzzcut | standard:buzz cut
+hardhat | standard:hard hat
+lovesong | standard:love song
+bigshot | standard:big shot
+prayerbook | standard:prayer book
+springwater | standard:spring water
+highroad | standard:high road
+peashooter | standard:pea shooter
+soundcard | standard:sound card
+streetlamp | standard:street lamp
+blackspot | standard:black spot
+scrollbar | standard:scroll bar
+waterlily | standard:water lily
+chargesheet | standard:charge sheet
+fortuneteller | standard:fortune-teller
+icefield | standard:ice field
+blastoff | standard:blast-off
+lightshow | standard:light show
+ballboy | standard:ball boy
+numberplate | standard:number plate
+razorblade | standard:razor blade
+signoff | standard:sign-off
+batboy | standard:bat boy
+clearout | standard:clear-out
+lockerroom | standard:locker room
+paintbox | standard:paint box
+stylebook | standard:style book
+largescale | standard:large-scale
+passkey | standard:pass key
+backroad | standard:back road
+posttest | standard:post-test
+witchdoctor | standard:witch doctor
+castoff | standard:cast-off
+highwire | standard:high-wire
+cookoff | standard:cook-off
+flashforward | standard:flash-forward
+printshop | standard:print shop
+tanktop | standard:tank top
+blackmarket | standard:black market
+bluescreen | standard:blue screen
+packrat | standard:pack rat
+poppyseed | standard:poppy seed
+postoffice | standard:post office
+wholefood | standard:whole food
+bathmat | standard:bath mat
+knockback | standard:knock-back
+photocard | standard:photo card
+poundcake | standard:pound cake
+shopgirl | standard:shop girl
+stepdown | standard:step-down
+tradename | standard:trade name
+worktable | standard:work table
+fishcake | standard:fish cake
+kitbag | standard:kit bag
+radiocommunication | standard:radio communication
+punchbag | standard:punch bag
+teashop | standard:tea shop
+groundball | standard:ground ball
+plughole | standard:plug hole
+timecard | standard:time card
+applecart | standard:apple cart
+hymnbook | standard:hymn book
+passionflower | standard:passion flower
+powerpack | standard:power pack
+bookfair | standard:book fair
+rockpool | standard:rock pool
+schoolfriend | standard:school friend
+seastar | standard:sea star
+watchout | standard:watch-out
+writedown | standard:write-down
+pricelist | standard:price list
+spellchecker | standard:spell checker
+waveband | standard:wave band
+wholewheat | standard:whole wheat
+logoff | standard:log-off
+paperchase | standard:paper chase
+pepperpot | standard:pepper pot
+raincheck | standard:rain check
+saleroom | standard:sale room
+setpiece | standard:set piece
+sunhat | standard:sun hat
+basketweave | standard:basket weave
+bottlebrush | standard:bottle brush
+dayroom | standard:day room
+nosecone | standard:nose cone
+piggybank | standard:piggy bank
+printhead | standard:print head
+scratchpad | standard:scratch pad
+videodisc | standard:video disc
+footswitch | standard:foot switch
+greenmarket | standard:green market
+househusband | standard:house husband
+kingsnake | standard:king snake
+starfruit | standard:star fruit
+swearword | standard:swear word
+whistlestop | standard:whistle-stop
+airbrake | standard:air brake
+booklover | standard:book lover
+gearset | standard:gear set
+paygrade | standard:pay grade
+porkpie | standard:pork pie
+rollerskate | standard:roller skate
+beachball | standard:beach ball
+candleholder | standard:candle holder
+firetrap | standard:fire trap
+poolroom | standard:pool room
+tailfin | standard:tail fin
+fireline | standard:fire line
+golfball | standard:golf ball
+handwheel | standard:hand wheel
+middleground | standard:middle ground
+sandfly | standard:sand fly
+scrumhalf | standard:scrum half
+truckdriver | standard:truck driver
+writeoff | standard:write-off
+potholder | standard:pot holder
+rolloff | standard:roll-off
+bugout | standard:bug-out
+doubletalk | standard:double-talk
+drysuit | standard:dry suit
+filetype | standard:file type
+limekiln | standard:lime kiln
+mudflap | standard:mud flap
+papermill | standard:paper mill
+placename | standard:place name
+speedskater | standard:speed skater
+deepfreeze | standard:deep freeze
+harddisk | standard:hard disk
+powderpuff | standard:powder puff
+punchcard | standard:punch card
+seadog | standard:sea dog
+snowline | standard:snow line
+stockstill | standard:stock-still
+tuckshop | standard:tuck shop
+beancurd | standard:bean curd
+locknut | standard:lock nut
+offwhite | standard:off-white
+piecrust | standard:pie crust
+shotput | standard:shot put
+wirecutter | standard:wire cutter
+gasmask | standard:gas mask
+sundog | standard:sun dog
+airbed | standard:air bed
+airconditioner | standard:air conditioner
+alleycat | standard:alley cat
+blackeye | standard:black eye
+bluechip | standard:blue chip
+copout | standard:cop-out
+frypan | standard:fry pan
+giftwrap | standard:gift wrap
+skyblue | standard:sky blue
+snakepit | standard:snake pit
+listbox | standard:list box
+groundspeed | standard:ground speed
+gundog | standard:gun dog
+screwcap | standard:screw cap
+coalminer | standard:coal miner
+dishtowel | standard:dish towel
+waterpipe | standard:water pipe
+carryforward | standard:carry-forward
+gunbarrel | standard:gun barrel
+halftrack | standard:half-track
+raincloud | standard:rain cloud
+tarpaper | standard:tar paper
+closedown | standard:close-down
+logfile | standard:log file
+finetune | standard:fine-tune
+posterboard | standard:poster board
+breaktime | standard:break time
+moneybox | standard:money box
+rockface | standard:rock face
+earthmover | standard:earth mover
+flipchart | standard:flip chart
+footbath | standard:foot bath
+heatshield | standard:heat shield
+tagalong | standard:tag-along
+clotheshorse | standard:clothes horse
+dustoff | standard:dust-off
+lawbook | standard:law book
+salesclerk | standard:sales clerk
+washdown | standard:wash-down
+blueshift | standard:blue shift
+schoolday | standard:school day
+towbar | standard:tow bar
+treefrog | standard:tree frog
+namecalling | standard:name-calling
+saltshaker | standard:salt shaker
+crewcut | standard:crew cut
+fellowman | standard:fellow man
+lilywhite | standard:lily-white
+pushpin | standard:push pin
+putout | standard:put-out
+tealeaf | standard:tea leaf
+schoolyear | standard:school year
+talktime | standard:talk time
+bellyflop | standard:belly flop
+highflyer | standard:high-flyer
+milkfat | standard:milk fat
+sawblade | standard:saw blade
+bedcover | standard:bed cover
+fingerpaint | standard:finger paint
+showhouse | standard:show house
+stableboy | standard:stable boy
+daytripper | standard:day-tripper
+birdfeeder | standard:bird feeder
+fieldmouse | standard:field mouse
+glidepath | standard:glide path
+shoptalk | standard:shop talk
+chickenfeed | standard:chicken feed
+icewine | standard:ice wine
+dillweed | standard:dill weed
+flowline | standard:flow line
+peppertree | standard:pepper tree
+setscrew | standard:set screw
+thirdhand | standard:third-hand
+climbdown | standard:climb-down
+foldback | standard:fold-back
+coatrack | standard:coat rack
+codesign | standard:co-design
+trapline | standard:trap line
+washbowl | standard:wash bowl
+bargirl | standard:bar girl
+callboy | standard:call boy
+combobox | standard:combo box
+stockcar | standard:stock car
+tidepool | standard:tide pool
+bankbook | standard:bank book
+fallaway | standard:fall-away
+setoff | standard:set-off
+foglight | standard:fog light
+coverslip | standard:cover slip
+housesitter | standard:house-sitter
+wetnurse | standard:wet nurse
+bedlinen | standard:bed linen
+cardplayer | standard:card player
+chamberpot | standard:chamber pot
+throwout | standard:throw-out
+tiedown | standard:tie-down
+coffeecake | standard:coffee cake
+firewalking | standard:fire-walking
+foxhunt | standard:fox hunt
+sparetime | standard:spare time
+allaround | standard:all-around
+gearwheel | standard:gear wheel
+hindleg | standard:hind leg
+shipbroker | standard:ship broker
+soapdish | standard:soap dish
+cornmill | standard:corn mill
+airshaft | standard:air shaft
+wheatgerm | standard:wheat germ
+dropcloth | standard:drop cloth
+tickertape | standard:ticker tape
+polltaker | standard:poll taker
+stocklist | standard:stock list
+spyhole | standard:spy hole
+bluetit | standard:blue tit
+airhole | standard:air hole
+airletter | standard:air letter
+applemint | standard:apple mint
+ashbin | standard:ash bin
+ashpit | standard:ash pit
+bargraph | standard:bar graph
+barhop | standard:bar-hop
+beermat | standard:beer mat
+bellpull | standard:bell pull
+bellylaugh | standard:belly laugh
+billposter | standard:bill poster
+blacklead | standard:black lead
+bodycheck | standard:body-check
+bodysnatcher | standard:body snatcher
+boilersuit | standard:boiler suit
+boxroom | standard:box room
+brandysnap | standard:brandy snap
+brownnose | standard:brown-nose
+brushoff | standard:brush-off
+callbox | standard:call box
+carsickness | standard:car sickness
+chainsmoke | standard:chain-smoke
+chainstitch | standard:chain stitch
+chainwheel | standard:chain wheel
+chalkpit | standard:chalk pit
+charterparty | standard:charter party
+chilidog | standard:chili dog
+chilipepper | standard:chili pepper
+chimneypot | standard:chimney pot
+chimneystack | standard:chimney stack
+chimneysweep | standard:chimney sweep
+clockface | standard:clock face
+clothesbasket | standard:clothes basket
+clothesbrush | standard:clothes brush
+clothespeg | standard:clothes peg
+cloudbank | standard:cloud bank
+coalbin | standard:coal bin
+coalpit | standard:coal pit
+couchgrass | standard:couch grass
+crashland | standard:crash-land
+dayboy | standard:day boy
+daygirl | standard:day girl
+dayschool | standard:day school
+deafmute | standard:deaf-mute
+deedbox | standard:deed box
+deepfreezer | standard:deep freezer
+deepfry | standard:deep-fry
+deerfly | standard:deer fly
+dessertspoon | standard:dessert spoon
+dickybird | standard:dicky bird
+dimout | standard:dim-out
+ditchdigger | standard:ditch digger
+donkeywork | standard:donkey work
+doorknocker | standard:door knocker
+driftnet | standard:drift net
+dropleaf | standard:drop-leaf
+dumbshow | standard:dumb show
+dustcoat | standard:dust coat
+dustmop | standard:dust mop
+dustsheet | standard:dust sheet
+duststorm | standard:dust storm
+eggcup | standard:egg cup
+electronvolt | standard:electron volt
+endgate | standard:end gate
+eyebolt | standard:eye bolt
+eyecup | standard:eye cup
+eyetooth | standard:eye tooth
+facecloth | standard:face cloth
+fatstock | standard:fat stock
+fingerstall | standard:finger stall
+firedoor | standard:fire door
+fleabite | standard:flea bite
+floodtide | standard:flood tide
+floorshow | standard:floor show
+flourmill | standard:flour mill
+fluidounce | standard:fluid ounce
+foglamp | standard:fog lamp
+footbrake | standard:foot brake
+footfault | standard:foot fault
+fowlpox | standard:fowl pox
+fretsaw | standard:fret saw
+frontloader | standard:front-loader
+gallnut | standard:gall nut
+gangsaw | standard:gang saw
+gashouse | standard:gas house
+gastight | standard:gas-tight
+gearcase | standard:gear case
+gingernut | standard:ginger nut
+ginmill | standard:gin mill
+girocheque | standard:giro cheque
+gladhand | standard:glad-hand
+glasspaper | standard:glass paper
+globeflower | standard:globe flower
+glowlamp | standard:glow lamp
+gluepot | standard:glue pot
+goldbrick | standard:gold brick
+goosegrass | standard:goose grass
+gooseskin | standard:goose skin
+griddlecake | standard:griddle cake
+groundbait | standard:ground bait
+guardship | standard:guard ship
+gumboil | standard:gum boil
+gunroom | standard:gun room
+hairslide | standard:hair slide
+hairtrigger | standard:hair trigger
+halfcock | standard:half-cock
+hammertoe | standard:hammer toe
+hangfire | standard:hang-fire
+harvesttime | standard:harvest time
+heelbone | standard:heel bone
+heeltap | standard:heel tap
+horseleech | standard:horse leech
+horsemint | standard:horse mint
+horseshow | standard:horse show
+horseweed | standard:horse weed
+huggermugger | standard:hugger-mugger
+jamjar | standard:jam jar
+jogtrot | standard:jog trot
+jumbojet | standard:jumbo jet
+jumpcut | standard:jump cut
+keyslot | standard:key slot
+kickdown | standard:kick-down
+kidstuff | standard:kid stuff
+kingpost | standard:king post
+kneepad | standard:knee pad
+knifeedge | standard:knife-edge
+laboursaving | standard:labour-saving
+lampholder | standard:lamp holder
+landrail | standard:land rail
+layday | standard:lay day
+leeside | standard:lee side
+lightface | standard:light-face
+limewater | standard:lime water
+linefeed | standard:line feed
+litterbin | standard:litter bin
+livetrap | standard:live trap
+liveweight | standard:live weight
+lockwasher | standard:lock washer
+mailcoach | standard:mail coach
+makeready | standard:make-ready
+manday | standard:man-day
+manhour | standard:man-hour
+marketbasket | standard:market basket
+marketmaker | standard:market maker
+messtin | standard:mess tin
+metermaid | standard:meter maid
+millwheel | standard:mill wheel
+mitrebox | standard:mitre box
+mobcap | standard:mob cap
+moneychanger | standard:money-changer
+monkeypod | standard:monkey pod
+motortruck | standard:motor truck
+mudbath | standard:mud bath
+muttonchop | standard:mutton chop
+nailbrush | standard:nail brush
+nettlerash | standard:nettle rash
+newsheet | standard:news sheet
+newsvendor | standard:news vendor
+nutgrass | standard:nut grass
+oasthouse | standard:oast house
+offcenter | standard:off-center
+oilcan | standard:oil can
+oilrig | standard:oil rig
+oilstone | standard:oil stone
+oiltight | standard:oil-tight
+orrisroot | standard:orris root
+otterhound | standard:otter hound
+paddlewheeler | standard:paddle wheeler
+paddyfield | standard:paddy field
+paperknife | standard:paper knife
+partsong | standard:part-song
+pastrycook | standard:pastry cook
+patchboard | standard:patch board
+patchcord | standard:patch cord
+peakload | standard:peak load
+pennywhistle | standard:penny whistle
+penpoint | standard:pen point
+penpusher | standard:pen-pusher
+peptalk | standard:pep talk
+petname | standard:pet name
+phasedown | standard:phase-down
+phonecard | standard:phone card
+pikeperch | standard:pike perch
+pillarbox | standard:pillar box
+pillowslip | standard:pillow slip
+pilotfish | standard:pilot fish
+pitprop | standard:pit prop
+pitsaw | standard:pit saw
+placekick | standard:place kick
+poloneck | standard:polo neck
+posthorse | standard:post horse
+posthouse | standard:post house
+potsticker | standard:pot sticker
+pressgang | standard:press gang
+puddingstone | standard:pudding stone
+pugmill | standard:pug mill
+pushoff | standard:push-off
+putoff | standard:put-off
+questionmaster | standard:question master
+quitrent | standard:quit-rent
+radioastronomy | standard:radio astronomy
+ratfink | standard:rat fink
+rhumbline | standard:rhumb line
+ringbolt | standard:ring bolt
+rockcress | standard:rock cress
+rottenstone | standard:rotten stone
+saltcellar | standard:salt cellar
+saltpan | standard:salt pan
+sandhopper | standard:sand hopper
+sandwichman | standard:sandwich man
+sauceboat | standard:sauce boat
+sawlog | standard:saw log
+screwjack | standard:screw jack
+scutwork | standard:scut work
+seakale | standard:sea kale
+seedcake | standard:seed cake
+seedcorn | standard:seed corn
+setsquare | standard:set square
+shankbone | standard:shank bone
+sheepdip | standard:sheep dip
+sheepwalk | standard:sheep walk
+shinguard | standard:shin guard
+shoeblack | standard:shoe black
+shoetree | standard:shoe tree
+shopwindow | standard:shop window
+shovelboard | standard:shovel board
+sickbag | standard:sick bag
+simplemindedness | standard:simple-mindedness
+slagheap | standard:slag heap
+slipform | standard:slip form
+slipover | standard:slip-over
+slowcoach | standard:slow coach
+sluicegate | standard:sluice gate
+smoothhound | standard:smooth hound
+snowblindness | standard:snow blindness
+soapbark | standard:soap bark
+soleplate | standard:sole plate
+soupspoon | standard:soup spoon
+sourball | standard:sour ball
+sowbelly | standard:sow belly
+sowbug | standard:sow bug
+sparerib | standard:spare rib
+spiderflower | standard:spider flower
+spikemoss | standard:spike moss
+splashboard | standard:splash board
+splayfoot | standard:splay foot
+spongecake | standard:sponge cake
+spotweld | standard:spot weld
+spraygun | standard:spray gun
+spreadeagle | standard:spread-eagle
+springback | standard:spring back
+springtide | standard:spring tide
+squawkbox | standard:squawk box
+standpat | standard:stand-pat
+starspot | standard:star spot
+startover | standard:start-over
+staybolt | standard:stay bolt
+steamtight | standard:steam-tight
+sticklac | standard:stick-lac
+stillroom | standard:still room
+stockboy | standard:stock boy
+stockbreeder | standard:stock breeder
+stockjobber | standard:stock jobber
+stockout | standard:stock-out
+stoolpigeon | standard:stool pigeon
+streetsmart | standard:street smart
+streetwalking | standard:street-walking
+stretchmark | standard:stretch mark
+sublieutenant | standard:sub-lieutenant
+sunrose | standard:sun rose
+surfcasting | standard:surf casting
+swallowhole | standard:swallow hole
+swallowwort | standard:swallow wort
+swinepox | standard:swine pox
+tackboard | standard:tack board
+taskwork | standard:task work
+tavernkeeper | standard:tavern keeper
+teaset | standard:tea set
+tentpeg | standard:tent peg
+termtime | standard:term time
+thoroughbass | standard:thorough bass
+thriftshop | standard:thrift shop
+thumbnut | standard:thumb nut
+tightfitting | standard:tight-fitting
+timberyard | standard:timber yard
+timework | standard:time work
+toastrack | standard:toast rack
+tollbar | standard:toll bar
+toolholder | standard:tool holder
+toothpowder | standard:tooth powder
+topkick | standard:top kick
+towaway | standard:tow-away
+towrope | standard:tow rope
+trawlnet | standard:trawl net
+tropicbird | standard:tropic bird
+tubeworm | standard:tube worm
+turntail | standard:turn-tail
+typebar | standard:type bar
+typecase | standard:type case
+venthole | standard:vent hole
+violinmaker | standard:violin maker
+voltampere | standard:volt-ampere
+wallplate | standard:wall plate
+washaway | standard:wash-away
+washleather | standard:wash leather
+wastebin | standard:waste bin
+watchcase | standard:watch case
+watchstrap | standard:watch strap
+waterbag | standard:water bag
+waterdog | standard:water dog
+waterglass | standard:water glass
+waterpot | standard:water pot
+waterthrush | standard:water thrush
+watthour | standard:watt-hour
+waveoff | standard:wave-off
+waveshape | standard:wave shape
+weaverbird | standard:weaver bird
+webfoot | standard:web foot
+wellnigh | standard:well-nigh
+wheelhorse | standard:wheel horse
+whipsnake | standard:whip snake
+willowherb | standard:willow herb
+wintersweet | standard:winter sweet
+wisewoman | standard:wise woman
+witchgrass | standard:witch grass
+woodscrew | standard:wood screw
+wordwrap | standard:word wrap
+workbag | standard:work bag
+workbasket | standard:work basket
+wormgear | standard:worm gear
+wristdrop | standard:wrist drop

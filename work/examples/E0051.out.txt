@@ -1,0 +1,300 @@
+w007621.1 | My uncle has worked in aerospace for twenty years. | 我叔叔在航空航天业工作了二十年。
+w007622.1 | Most drink cans are made of aluminium. | 大多数饮料罐是用铝做的。
+w007623.1 | The old radio uses an analog signal. | 这台旧收音机使用模拟信号。
+w007623.2 | I prefer an analog watch to a digital one. | 比起数字表，我更喜欢指针式手表。
+w007623.3 | There is no modern analog for this ancient custom. | 这种古老习俗在现代没有对应物。
+w007624.1 | She has a very analytical mind and loves solving problems. | 她头脑很善于分析，喜欢解决问题。
+w007625.1 | We don't anticipate any problems with the new system. | 我们预计新系统不会出什么问题。
+w007625.2 | Good drivers anticipate danger before it happens. | 好司机会在危险发生前预先做好准备。
+w007625.3 | The children were eagerly anticipating the holidays. | 孩子们热切地盼望着假期。
+w007626.1 | We spent the afternoon playing games at the arcade. | 我们整个下午都在电子游戏厅玩游戏。
+w007626.2 | There's a nice little bookshop in the shopping arcade. | 购物拱廊街里有一家不错的小书店。
+w007626.3 | The old church has a beautiful stone arcade. | 那座老教堂有一道漂亮的石拱廊。
+w007628.1 | My brother has asthma and always carries an inhaler. | 我弟弟有哮喘，总是随身带着吸入器。
+w007629.1 | We travelled to Norway to see the aurora. | 我们去挪威看极光。
+w007630.1 | The doctor said it was a bacterial infection. | 医生说这是细菌感染。
+w007631.1 | The company went bankrupt last year. | 那家公司去年破产了。
+w007631.2 | The long strike nearly bankrupted the factory. | 长时间的罢工几乎使工厂破产。
+w007631.3 | His speech was morally bankrupt. | 他的讲话在道德上毫无可取之处。
+w007632.1 | She blinked as she walked into the bright sunlight. | 她走进明亮的阳光里时眨了眨眼。
+w007632.2 | A red light was blinking on the dashboard. | 仪表盘上一盏红灯在闪烁。
+w007632.3 | It was all over in the blink of an eye. | 一眨眼的工夫，一切都结束了。
+w007635.1 | Stop being so childish and say sorry. | 别这么幼稚了，快道歉。
+w007635.2 | The letter was written in large, childish handwriting. | 这封信是用大大的孩子气的字迹写的。
+w007636.1 | Add some chili if you like your food hot. | 如果你喜欢吃辣，就加点辣椒。
+w007636.2 | We had a big bowl of chili for dinner. | 我们晚饭吃了一大碗辣味肉酱。
+w007638.1 | He picked up a coil of rope from the boat. | 他从船上拿起一卷绳子。
+w007638.2 | The snake coiled itself around the branch. | 那条蛇盘绕在树枝上。
+w007638.3 | The heater has a coil that gets very hot. | 这个加热器里有一个会变得很烫的线圈。
+w007640.1 | The new rule has been a source of contention among staff. | 新规定一直是员工之间争论的根源。
+w007640.2 | It is my contention that the plan will not work. | 我的观点是这个计划行不通。
+w007640.3 | Three teams are still in contention for the title. | 有三支队伍仍在角逐冠军。
+w007641.1 | The two families made a covenant to protect the land. | 两个家族立下盟约，要保护这片土地。
+w007642.1 | Her devotion to her children is clear to everyone. | 她对孩子的挚爱人人都看得出来。
+w007642.2 | His devotion to his work earned him a promotion. | 他对工作的投入为他赢得了晋升。
+w007642.3 | The temple is a place of quiet devotion. | 这座寺庙是静心祈祷的地方。
+w007643.1 | I'm in a dilemma about whether to take the job. | 我正为是否接受这份工作而进退两难。
+w007644.1 | He left the school in disgrace after cheating. | 他作弊后不光彩地离开了学校。
+w007644.2 | She felt she had disgraced her family. | 她觉得自己让家人蒙羞了。
+w007646.1 | The survey asks about age, gender and ethnicity. | 这项调查询问年龄、性别和族裔。
+w007647.1 | Nobody predicted the team's eventual victory. | 没有人预料到这支队伍最终会获胜。
+w007648.1 | She excels at maths and science. | 她擅长数学和科学。
+w007648.2 | He excelled all the other students in the exam. | 他在考试中胜过了所有其他学生。
+w007649.1 | Firstly, I'd like to thank you all for coming. | 首先，我要感谢大家的到来。
+w007650.1 | This ice cream comes in ten different flavours. | 这种冰淇淋有十种不同的口味。
+w007650.2 | The old town has a strong Italian flavour. | 老城区有浓厚的意大利风味。
+w007650.3 | She flavoured the soup with fresh herbs. | 她用新鲜香草给汤调味。
+w007651.1 | He flexed his arm to show his muscles. | 他屈起手臂展示肌肉。
+w007651.2 | He likes to flex his new car on social media. | 他喜欢在社交媒体上炫耀他的新车。
+w007651.3 | The flex on the lamp isn't long enough. | 台灯的电线不够长。
+w007653.1 | Lions and tigers belong to the same genus. | 狮子和老虎属于同一个属。
+w007653.2 | His novel belongs to a rare genus of comic writing. | 他的小说属于一种罕见的喜剧写作类型。
+w007655.1 | I lost one of my gloves on the bus. | 我在公交车上丢了一只手套。
+w007656.1 | The story is about greed and its punishment. | 这个故事讲的是贪婪及其惩罚。
+w007657.1 | She greeted her guests at the door. | 她在门口迎接客人。
+w007657.2 | The news was greeted with cheers. | 人们对这个消息报以欢呼。
+w007658.1 | She bought a hank of red wool. | 她买了一绞红毛线。
+w007659.1 | He watered the garden with a hose. | 他用水管给花园浇水。
+w007659.2 | We hosed down the car after the trip. | 旅行回来后，我们用水管冲洗了汽车。
+w007659.3 | The dancers wore black hose. | 舞者们穿着黑色长筒袜。
+w007660.1 | The castle is an imposing building on the hill. | 那座城堡是山上一座宏伟的建筑。
+w007661.1 | The cream helps reduce inflammation of the skin. | 这种药膏有助于减轻皮肤炎症。
+w007663.1 | Hot lava poured down the side of the volcano. | 炽热的熔岩沿着火山侧面倾泻而下。
+w007665.1 | Anna is a longtime friend of mine. | 安娜是我的老朋友。
+w007666.1 | He stuck a magnet on the fridge door. | 他在冰箱门上贴了一块磁铁。
+w007666.2 | The city is a magnet for young people. | 这座城市吸引着众多年轻人。
+w007668.1 | "Life is a journey" is a common metaphor. | “人生是一段旅程”是一个常见的隐喻。
+w007669.1 | He became a millionaire before he was thirty. | 他三十岁前就成了百万富翁。
+w007670.1 | The word "negro" is now considered offensive. | “negro”这个词现在被认为带有冒犯性。
+w007671.1 | Please notify us if you change your address. | 如果你更改了地址，请通知我们。
+w007672.1 | The contract was declared null and void. | 这份合同被宣布无效。
+w007672.2 | The program returns a null value if the field is empty. | 如果字段为空，程序就返回空值。
+w007673.1 | Oops, I've spilled my coffee! | 哎呀，我把咖啡洒了！
+w007674.1 | The museum has a fine collection of oriental art. | 这家博物馆收藏了许多精美的东方艺术品。
+w007675.1 | The two countries signed a peace pact. | 两国签署了和平条约。
+w007676.1 | Safety is of paramount importance. | 安全是最重要的。
+w007677.1 | Stop being so paranoid—nobody is watching you. | 别疑神疑鬼了，没人在看你。
+w007677.2 | The patient showed paranoid symptoms. | 这个病人表现出妄想症状。
+w007678.1 | He was a true patriot who loved his country. | 他是一位真正热爱祖国的爱国者。
+w007679.1 | She is a generous patron of the arts. | 她是一位慷慨的艺术赞助人。
+w007679.2 | The restaurant offers free parking for patrons. | 这家餐厅为顾客提供免费停车。
+w007681.1 | Let's get some popcorn before the film starts. | 电影开始前我们买点爆米花吧。
+w007682.1 | You can vote by proxy if you are away. | 如果你不在，可以委托代理人投票。
+w007682.2 | Test scores are often used as a proxy for intelligence. | 考试分数常被用作衡量智力的替代指标。
+w007682.3 | The office connects to the internet through a proxy. | 办公室通过代理服务器连接互联网。
+w007683.1 | The study used quantitative methods to analyse the data. | 这项研究采用定量方法分析数据。
+w007684.1 | She slowly regained her strength after the illness. | 病后她慢慢恢复了体力。
+w007685.1 | I need to renew my passport this year. | 我今年需要续签护照。
+w007685.2 | The two sides agreed to renew talks. | 双方同意重新开始谈判。
+w007685.3 | The old pipes will be renewed next month. | 旧水管下个月将被更换。
+w007686.1 | She closely resembles her mother. | 她长得很像她妈妈。
+w007687.1 | The word "retarded" is now considered offensive. | “retarded”这个词现在被认为有冒犯性。
+w007687.2 | Teachers told the students not to call ideas "retarded". | 老师告诉学生不要把想法说成“白痴的”。
+w007688.1 | She loves retro clothes from the seventies. | 她喜欢七十年代的复古服装。
+w007689.1 | The peasants led a revolt against the king. | 农民们发动了反抗国王的起义。
+w007689.2 | The people revolted against the cruel ruler. | 人民起来反抗残暴的统治者。
+w007689.3 | The smell of the rotten meat revolted me. | 腐肉的气味让我感到恶心。
+w007690.1 | She was rightly proud of her work. | 她理所当然地为自己的作品感到自豪。
+w007691.1 | There's a rumor that the shop is closing. | 有传言说那家商店要关门了。
+w007691.2 | He is rumored to be leaving the team. | 据传他要离开球队。
+w007692.1 | She put the saddle on the horse. | 她把马鞍放到马背上。
+w007692.2 | Can you lower the saddle on my bike? | 你能把我自行车的车座调低一点吗？
+w007692.3 | I don't want to be saddled with all the work. | 我不想被所有这些工作拖累。
+w007692.4 | He saddled the horse and rode off. | 他给马备好鞍，骑马走了。
+w007694.1 | She had only six years of schooling. | 她只上过六年学。
+w007697.1 | Thousands of people visit the shrine every year. | 每年有成千上万的人参拜这座神殿。
+w007697.2 | The singer's old home has become a shrine for fans. | 这位歌手的故居已成为歌迷心中的圣地。
+w007698.1 | My sweater shrank in the wash. | 我的毛衣洗缩水了。
+w007698.2 | She shrank back in fear when the dog barked. | 狗叫时她吓得往后退缩。
+w007698.3 | He's been seeing a shrink for years. | 他看心理医生已经好几年了。
+w007699.1 | The soldiers were warned about a sniper in the hills. | 士兵们被警告山里有狙击手。
+w007700.1 | He enjoys long, solitary walks in the countryside. | 他喜欢在乡间独自长时间散步。
+w007700.2 | There was not a solitary person on the street. | 街上一个人也没有。
+w007700.3 | The prisoner was kept in solitary for a week. | 那名囚犯被单独监禁了一周。
+w007701.1 | She felt deep sorrow when her dog died. | 她的狗死了，她深感悲伤。
+w007701.2 | Life is full of joys and sorrows. | 人生充满了欢乐和伤心事。
+w007702.1 | His words only stoked her anger. | 他的话只是加剧了她的怒火。
+w007702.2 | He stoked the fire with more wood. | 他又添了些柴，把火烧旺。
+w007704.1 | Both sides agreed to the termination of the contract. | 双方同意终止合同。
+w007704.2 | He received a letter of termination from his boss. | 他收到了老板发的解雇信。
+w007705.1 | She hurt her thigh while running. | 她跑步时伤了大腿。
+w007706.1 | These plants thrive in warm, wet weather. | 这些植物在温暖潮湿的天气里长得很茂盛。
+w007707.1 | Just ignore the trolls in the comments. | 别理评论区里那些网络喷子。
+w007707.2 | He was banned for trolling other users. | 他因恶意挑衅其他用户而被封号。
+w007707.3 | In the story, a troll lived under the bridge. | 故事里，有个山怪住在桥下。
+w007709.1 | The company will undertake the building of the new school. | 这家公司将承担新学校的建设工作。
+w007709.2 | He undertook to pay the money back within a month. | 他答应一个月内还钱。
+w007710.1 | She still has some unpaid bills. | 她还有一些未付的账单。
+w007710.2 | She does unpaid work at the local hospital. | 她在当地医院做义务工作。
+w007711.1 | His first attempt was unsuccessful. | 他的第一次尝试失败了。
+w007713.1 | He wore a grey vest over his white shirt. | 他在白衬衫外面穿了一件灰色马甲。
+w007713.2 | It's cold, so wear a vest under your shirt. | 天冷，衬衫里面穿件汗衫吧。
+w007713.3 | Power is vested in the elected council. | 权力被授予选举产生的委员会。
+w007714.1 | Grapes grow on vines in the sunny hills. | 葡萄长在阳光充足的山坡上的葡萄藤上。
+w007715.1 | The laptop comes with a two-year warranty. | 这台笔记本电脑有两年保修。
+w007718.1 | How many yen is this ticket? | 这张票多少日元？
+w007718.2 | I've always had a yen to travel the world. | 我一直渴望周游世界。
+w007719.1 | The computer has a fast CPU. | 这台电脑有一个很快的处理器。
+w007724.1 | Would you like a window seat or an aisle seat? | 您想要靠窗的座位还是靠过道的座位？
+w007725.1 | Many people believe in an almighty God. | 许多人信仰全能的上帝。
+w007725.2 | They prayed to the Almighty for help. | 他们向上帝祈求帮助。
+w007725.3 | There was an almighty crash in the kitchen. | 厨房里传来一声巨响。
+w007726.1 | Proteins are made of amino acids. | 蛋白质由氨基酸构成。
+w007727.1 | The shop sells sports apparel. | 这家店出售运动服装。
+w007728.1 | The dispute was settled by arbitration. | 这场纠纷通过仲裁解决了。
+w007729.1 | A water molecule has three atoms. | 一个水分子有三个原子。
+w007729.2 | There isn't an atom of truth in his story. | 他的说法里没有一丁点儿真话。
+w007730.1 | She has long auburn hair. | 她留着一头长长的赤褐色头发。
+w007731.1 | The two countries signed a bilateral trade agreement. | 两国签署了双边贸易协定。
+w007731.2 | He had bilateral knee surgery last year. | 他去年做了双膝手术。
+w007732.1 | Your nose is bleeding. | 你的鼻子在流血。
+w007732.2 | The red shirt bled into the white towels. | 那件红衬衫把白毛巾染上了颜色。
+w007732.3 | The landlord bled them dry with high rent. | 房东用高额房租把他们榨干了。
+w007733.1 | We braced ourselves for bad news. | 我们做好了听坏消息的准备。
+w007733.2 | He had to wear a neck brace after the accident. | 事故后他不得不戴颈托。
+w007733.3 | My sister has braces on her teeth. | 我妹妹戴着牙箍。
+w007734.1 | The caption under the photo was funny. | 照片下面的说明文字很有趣。
+w007734.2 | I watch films with captions to learn English. | 我看带字幕的电影来学英语。
+w007734.3 | The photo was captioned "Summer 2020". | 这张照片的说明是“2020年夏天”。
+w007735.1 | He choked on a fish bone. | 他被鱼刺卡住了喉咙。
+w007735.2 | In the film, the villain tries to choke the hero. | 在电影里，坏人试图掐死主角。
+w007735.3 | The roads were choked with traffic. | 道路被车辆堵塞了。
+w007736.1 | Eating too much fat can raise your cholesterol. | 吃太多脂肪会升高胆固醇。
+w007737.1 | They had dinner at a classy restaurant. | 他们在一家高档餐厅吃了晚饭。
+w007739.1 | Everyone condemned the attack. | 所有人都谴责了这次袭击。
+w007739.2 | He was condemned to ten years in prison. | 他被判十年监禁。
+w007739.3 | Poor education condemned them to low-paid jobs. | 糟糕的教育使他们注定只能做低薪工作。
+w007740.1 | She tried to avoid a confrontation with her boss. | 她尽量避免和老板发生冲突。
+w007741.1 | He is a major contributor to the charity. | 他是这个慈善机构的主要捐助人。
+w007741.2 | She is a regular contributor to the magazine. | 她是这家杂志的固定撰稿人。
+w007741.3 | Stress is a major contributor to heart disease. | 压力是导致心脏病的主要因素之一。
+w007743.1 | We stayed in a deluxe room with a sea view. | 我们住在一间海景豪华房里。
+w007744.1 | She was devastated when she failed the exam. | 考试不及格时，她崩溃了。
+w007744.2 | The devastated town was slowly rebuilt. | 被摧毁的小镇慢慢得到了重建。
+w007745.1 | He disguised himself as a waiter. | 他乔装成一名服务员。
+w007745.2 | She couldn't disguise her disappointment. | 她掩饰不住自己的失望。
+w007745.3 | Nobody recognized him in his clever disguise. | 他伪装得很巧妙，没人认出他。
+w007746.1 | The manager's dismissal surprised everyone. | 经理被解雇让所有人都很吃惊。
+w007746.2 | Her quick dismissal of my idea upset me. | 她很快就否定了我的想法，这让我很难过。
+w007746.3 | The judge ordered the dismissal of the case. | 法官下令驳回此案。
+w007747.1 | I'll be downstairs if you need me. | 你需要我的话，我就在楼下。
+w007747.2 | The downstairs bathroom is being repaired. | 楼下的浴室正在维修。
+w007747.3 | The downstairs of the house was flooded. | 房子的底层被淹了。
+w007748.1 | Good nurses show empathy for their patients. | 好护士对病人有同理心。
+w007749.1 | She plays the violin in a small ensemble. | 她在一个小乐团里拉小提琴。
+w007749.2 | The houses form a lovely ensemble around the square. | 这些房子围绕广场构成了一个可爱的整体。
+w007749.3 | She wore a smart blue ensemble to the wedding. | 她穿了一套漂亮的蓝色套装去参加婚礼。
+w007750.1 | Is it feasible to finish the work by Friday? | 周五前完成这项工作可行吗？
+w007751.1 | He put on his gi before judo practice. | 柔道练习前，他穿上了柔道服。
+w007752.1 | His hands were covered in grease. | 他满手都是油污。
+w007752.2 | Grease the pan before you add the batter. | 倒入面糊前先给锅抹油。
+w007753.1 | Leave your shoes in the hallway. | 把鞋放在门厅里。
+w007755.1 | The film tells the story of a homosexual couple. | 这部电影讲述了一对同性恋伴侣的故事。
+w007755.2 | The law once treated homosexuals unfairly. | 法律曾经不公平地对待同性恋者。
+w007756.1 | A great hulk of a man stood at the door. | 一个大块头男人站在门口。
+w007756.2 | The rusty hulk of a ship lay on the beach. | 一艘生锈的废船躺在海滩上。
+w007757.1 | The truck uses hydraulic brakes. | 这辆卡车使用液压刹车。
+w007758.1 | I bought the dress on impulse. | 我一时冲动买了这条裙子。
+w007758.2 | Nerves send electrical impulses to the brain. | 神经向大脑传送电脉冲。
+w007758.3 | The new road gave an impulse to local trade. | 新公路推动了当地贸易。
+w007759.1 | He seems incapable of telling the truth. | 他似乎不会说实话。
+w007760.1 | The politician was criticized for his inflammatory remarks. | 这位政治人物因煽动性言论受到批评。
+w007760.2 | Arthritis is an inflammatory disease of the joints. | 关节炎是一种关节炎症性疾病。
+w007761.1 | He was found not guilty by reason of insanity. | 他因精神错乱被判无罪。
+w007761.2 | It's insanity to drive in this storm. | 在这样的暴风雨里开车简直是疯了。
+w007762.1 | She feels insecure about her looks. | 她对自己的外貌缺乏自信。
+w007762.2 | Many workers have insecure jobs. | 许多工人的工作不稳定。
+w007763.1 | The new system integrates text, sound and video. | 新系统将文字、声音和视频整合在一起。
+w007763.2 | It took the family a year to integrate into the community. | 这家人用了一年时间才融入社区。
+w007764.1 | I'm sorry, the mistake wasn't intentional. | 对不起，这个错误不是故意的。
+w007765.1 | "Are you ready?" "Ish. Give me five more minutes." | “你准备好了吗？”“差不多吧，再给我五分钟。”
+w007766.1 | They drove a jeep across the desert. | 他们开着吉普车穿越沙漠。
+w007767.1 | Tie a knot at the end of the rope. | 在绳子末端打个结。
+w007767.2 | He knotted his tie carefully. | 他仔细地系好领带。
+w007767.3 | The ship was sailing at twenty knots. | 这艘船以二十节的速度航行。
+w007768.1 | We had dinner at a Lebanese restaurant. | 我们在一家黎巴嫩餐馆吃了晚饭。
+w007768.2 | Her husband is a Lebanese from Beirut. | 她丈夫是来自贝鲁特的黎巴嫩人。
+w007769.1 | She is a lecturer in history at the university. | 她是大学的历史讲师。
+w007770.1 | The novel is about love and lust. | 这部小说讲的是爱情与情欲。
+w007770.2 | He has a lust for adventure. | 他对冒险有强烈的渴望。
+w007770.3 | He lusted after power all his life. | 他一辈子都在贪求权力。
+w007772.1 | Do you want mayo on your sandwich? | 你的三明治要加蛋黄酱吗？
+w007774.1 | Please speak into the microphone. | 请对着麦克风讲话。
+w007775.1 | We have a miniature poodle. | 我们养了一只迷你贵宾犬。
+w007775.2 | He collects miniatures of famous buildings. | 他收集著名建筑的微缩模型。
+w007775.3 | The museum has a miniature of the young queen. | 博物馆藏有一幅年轻女王的小画像。
+w007776.1 | Our school motto is "Always do your best." | 我们的校训是“永远全力以赴”。
+w007777.1 | What nationality are you? | 你是哪国人？
+w007777.2 | People of many nationalities live in this city. | 这座城市居住着许多民族的人。
+w007779.1 | Lack of money is the biggest obstacle. | 缺钱是最大的障碍。
+w007780.1 | Back pain is an occupational hazard for drivers. | 背痛是司机的职业病。
+w007782.1 | Stay indoors at the onset of a storm. | 暴风雨来临时要待在室内。
+w007783.1 | He is perceived as a strong leader. | 他被视为一位强有力的领导者。
+w007783.2 | Dogs can perceive sounds we cannot hear. | 狗能察觉到我们听不到的声音。
+w007784.1 | They fled their country to escape persecution. | 他们逃离祖国以躲避迫害。
+w007785.1 | We stopped to buy petrol on the way. | 我们在路上停下来加油。
+w007786.1 | Plato was a famous Greek philosopher. | 柏拉图是一位著名的希腊哲学家。
+w007787.1 | The screen has millions of pixels. | 这块屏幕有几百万个像素。
+w007788.1 | They visited a tea plantation in the hills. | 他们参观了山里的一个茶园。
+w007788.2 | The hills are covered with pine plantations. | 山上覆盖着人工种植的松林。
+w007789.1 | The manager is presently on holiday. | 经理目前正在休假。
+w007789.2 | The doctor will see you presently. | 医生很快就会给你看病。
+w007790.1 | He writes poetry as well as prose. | 他既写诗也写散文。
+w007791.1 | Prostitution is illegal in many countries. | 卖淫在许多国家是违法的。
+w007792.1 | The area was polluted by radioactive waste. | 这个地区被放射性废料污染了。
+w007793.1 | He shaves with an electric razor. | 他用电动剃须刀刮胡子。
+w007794.1 | She came to the realization that she was lost. | 她意识到自己迷路了。
+w007794.2 | Winning the prize was the realization of a dream. | 获奖是梦想的实现。
+w007795.1 | The meeting led to a reconciliation between the brothers. | 这次会面使兄弟俩和好了。
+w007795.2 | The reconciliation of the two accounts took hours. | 核对这两个账目花了好几个小时。
+w007796.1 | The cat is sleeping on the rug. | 猫在小地毯上睡觉。
+w007797.1 | The company has a catchy new slogan. | 这家公司有了一句朗朗上口的新口号。
+w007798.1 | The nurse took a blood specimen. | 护士采了一份血样。
+w007799.1 | The team is looking for sponsorship. | 这支队伍正在寻找赞助。
+w007800.1 | He steered the boat towards the shore. | 他把船驶向岸边。
+w007800.2 | She steered the conversation away from work. | 她把话题从工作上引开。
+w007800.3 | The farmer raises steers for beef. | 那个农民饲养菜牛来产牛肉。
+w007802.1 | I'd like some strawberries with cream. | 我想要一些草莓加奶油。
+w007803.1 | We always strive to improve our service. | 我们一直努力改进服务。
+w007804.1 | Don't forget your sunglasses. | 别忘了带太阳镜。
+w007806.1 | I resisted the temptation to eat another cake. | 我忍住了再吃一块蛋糕的诱惑。
+w007806.2 | Shops full of sweets are a temptation for kids. | 满是糖果的商店对孩子来说是一种诱惑。
+w007807.1 | Riding a roller coaster gives me a real thrill. | 坐过山车让我真正感到刺激。
+w007807.2 | The news thrilled the whole family. | 这个消息让全家人都很激动。
+w007808.1 | Some of the roof tiles fell off in the wind. | 一些屋瓦被风刮掉了。
+w007808.2 | We tiled the bathroom floor ourselves. | 我们自己给浴室地面铺了瓷砖。
+w007809.1 | The police towed the car away. | 警察把车拖走了。
+w007809.2 | We called a truck to give us a tow. | 我们叫了一辆拖车来拖我们的车。
+w007810.1 | Young children are very trusting. | 小孩子很容易信任别人。
+w007811.1 | The guards shot at unarmed people. | 卫兵向手无寸铁的人开枪。
+w007812.1 | Building a new hospital is a huge undertaking. | 修建一所新医院是一项巨大的工程。
+w007812.2 | He gave an undertaking to repay the loan. | 他保证偿还贷款。
+w007813.1 | She left the painting unfinished. | 她没把那幅画画完。
+w007814.1 | Fast food is unhealthy if you eat it every day. | 如果每天吃快餐，是不健康的。
+w007814.2 | He has an unhealthy interest in other people's lives. | 他对别人的生活有一种病态的兴趣。
+w007815.1 | The court ruled that the arrest was unlawful. | 法院裁定这次逮捕是违法的。
+w007816.1 | The new tax is very unpopular. | 新税很不得人心。
+w007818.1 | "Run" is a verb. | “run”是一个动词。
+w007821.1 | Oil prices are very volatile at the moment. | 目前油价非常不稳定。
+w007821.2 | He has a volatile temper. | 他脾气喜怒无常。
+w007821.3 | Petrol is a volatile liquid. | 汽油是一种易挥发的液体。
+w007822.1 | She left the company voluntarily. | 她是自愿离开公司的。
+w007826.1 | The ship was commanded by Capt. Brown. | 这艘船由布朗船长指挥。
+w007833.1 | He was treated for TB as a child. | 他小时候接受过肺结核治疗。
+w007833.2 | This hard drive holds two TB of data. | 这个硬盘能存储两太字节的数据。
+w007835.1 | The test showed abnormal results. | 检查结果显示异常。
+w007836.1 | She accused him of lying. | 她指责他撒谎。
+w007837.1 | There is ample time to finish the work. | 有充足的时间完成这项工作。
+w007837.2 | The house has an ample garden. | 这所房子有一个宽敞的花园。
+w007838.1 | The teacher used an analogy to explain the idea. | 老师用了一个类比来解释这个概念。
+w007839.1 | They climbed to the apex of the mountain. | 他们爬到了山顶。
+w007840.1 | The film is set after a nuclear apocalypse. | 这部电影以核浩劫之后为背景。
+w007841.1 | He took a backward step. | 他向后退了一步。
+w007841.2 | Can you say the alphabet backward? | 你能倒着背字母表吗？
+w007841.3 | The region is economically backward. | 这个地区经济落后。
+w007842.1 | That was a badass skateboard trick! | 那个滑板动作太酷了！
+w007842.2 | In the film, she plays a real badass. | 在电影里，她演一个真正的狠角色。
+w007843.1 | He expects his staff to be at his beck and call. | 他希望员工随叫随到。
+w007843.2 | We crossed a small beck on our walk. | 我们散步时跨过了一条小溪。
+w007844.1 | My grandmother plays bingo every Friday. | 我奶奶每周五都玩宾果游戏。
+w007844.2 | Bingo! I've found the missing key. | 成了！我找到那把丢了的钥匙。

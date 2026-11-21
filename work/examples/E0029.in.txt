@@ -1,0 +1,301 @@
+w003737.1 | Er | int. | A2 | 呃, 嗯 | a sound made when hesitating in speech
+w003740.1 | Poland | n. | A2 | 波兰 | a country in central Europe
+w003741.1 | abortion | n. | C1 | 堕胎, 人工流产 | the deliberate ending of a pregnancy
+w003742.1 | accuracy | n. | B2 | 准确, 精确, 准确性 | the quality of being correct or exact
+w003744.1 | artificial | adj. | B2 | 人造的, 人工的 | made by people, not natural
+w003744.2 | artificial | adj. | B2 | 虚假的, 不自然的, 做作的 | not sincere or genuine
+w003745.1 | beneath | prep. | B2 | 在下面, 在底下 | in or to a lower position than
+w003745.2 | beneath | prep. | B2 | 有失身份, 不值得 | not good enough for someone
+w003745.3 | beneath | adv. | B2 | 在下方, 在底下 | underneath
+w003746.1 | bullet | n. | B1 | 子弹, 枪弹 | a small metal object fired from a gun
+w003746.2 | bullet | n. | B1 | 项目符号, 着重号 | a dot marking an item in a list
+w003747.1 | celebrated | adj. | C1 | 著名的, 有名的, 驰名的 | famous and praised by many people
+w003748.1 | consistently | adv. | B2 | 一贯地, 始终如一地, 持续地 | always in the same way
+w003749.1 | conversion | n. | C1 | 转换, 转变, 改造 | the process of changing from one form to another
+w003749.2 | conversion | n. | C1 | 皈依, 改变信仰 | a change of religion or beliefs
+w003749.3 | conversion | n. | C1 | 换算, 兑换 | changing units or currencies
+w003750.1 | copyright | n. | B2 | 版权, 著作权 | the legal right to copy and sell a work
+w003750.2 | copyright | v. | B2 | 取得版权, 获版权保护 | get legal ownership of a creative work
+w003751.1 | democrat | n. | B2 | 民主党人 | a member or supporter of a Democratic party
+w003751.2 | democrat | n. | B2 | 民主主义者, 民主人士 | a person who supports democracy
+w003752.1 | deposit | n. | B2 | 押金, 订金, 首付 | money paid first as part payment or security
+w003752.2 | deposit | v. | B2 | 存款, 存放 | put money into a bank account
+w003752.3 | deposit | n. | B2 | 沉积物, 矿藏 | a layer of material left by natural processes
+w003753.1 | destination | n. | B1 | 目的地, 终点 | the place someone or something is going to
+w003754.1 | dirt | n. | B1 | 污垢, 灰尘, 脏物 | dust, mud, or other substance that makes things unclean
+w003754.2 | dirt | n. | B1 | 泥土, 土 | loose earth or soil
+w003754.3 | dirt | n. | B1 | 丑闻, 隐私 | damaging personal information about someone
+w003755.1 | diverse | adj. | B2 | 多样的, 多元的, 各种各样的 | including many different types
+w003756.1 | divine | adj. | C1 | 神的, 神圣的, 天赐的 | relating to or coming from God or a god
+w003756.2 | divine | adj. | C1 | 极好的, 美妙的 | extremely pleasant or good
+w003756.3 | divine | v. | C1 | 猜测, 预测 | guess or discover something by intuition
+w003758.1 | exclusively | adv. | C1 | 专门地, 唯一地, 仅仅 | only; not including anyone or anything else
+w003759.1 | export | v. | B1 | 出口, 输出 | sell goods to another country
+w003759.2 | export | n. | B1 | 出口, 出口商品 | goods sold to another country, or the selling
+w003759.3 | export | v. | B1 | 导出 | move data to another program or format
+w003760.1 | formerly | adv. | B2 | 以前, 从前, 原来 | in the past; before now
+w003761.1 | functional | adj. | C1 | 实用的, 功能性的 | designed to be useful rather than attractive
+w003761.2 | functional | adj. | C1 | 正常运转的, 起作用的 | working properly
+w003761.3 | functional | adj. | C1 | 功能的, 职能的 | relating to the purpose or role of something
+w003762.1 | gather | v. | B1 | 聚集, 集合 | come together in a group
+w003762.2 | gather | v. | B1 | 收集, 采集 | collect things from different places
+w003762.3 | gather | v. | B1 | 推断, 获悉 | understand something from what you hear
+w003763.1 | grandfather | n. | A1 | 祖父, 外祖父, 爷爷 | the father of your father or mother
+w003764.1 | habit | n. | A2 | 习惯, 习性 | something you do regularly, often without thinking
+w003764.2 | habit | n. | A2 | 瘾, 嗜好 | a dependence on a drug or substance
+w003764.3 | habit | n. | A2 | 修道服, 道袍 | a long robe worn by monks or nuns
+w003765.1 | high-powered | adj. | C1 | 大功率的, 强大的 | having great power or strength
+w003765.2 | high-powered | adj. | C1 | 有权势的, 重要的 | having an important and influential job
+w003766.1 | isolated | adj. | B2 | 偏僻的, 孤立的, 隔绝的 | far away from other places or people
+w003766.2 | isolated | adj. | B2 | 个别的, 单独的 | happening only once or rarely
+w003766.3 | isolated | adj. | B2 | 孤独的, 孤单的 | lonely and without friends
+w003767.1 | jealous | adj. | B1 | 嫉妒的, 妒忌的 | unhappy because someone has what you want
+w003767.2 | jealous | adj. | B1 | 猜忌的, 吃醋的 | worried a partner loves someone else
+w003769.1 | lazy | adj. | A2 | 懒惰的, 懒散的 | not willing to work or make an effort
+w003769.2 | lazy | adj. | A2 | 悠闲的, 慵懒的 | relaxed and not active
+w003770.1 | mama | n. | A2 | 妈妈, 妈 | a child's word for mother
+w003772.1 | municipal | adj. | C1 | 市的, 市政的, 地方自治的 | relating to a town or city government
+w003773.1 | naval | adj. | C1 | 海军的, 军舰的 | relating to a navy or warships
+w003775.1 | neutral | adj. | B2 | 中立的, 不偏不倚的 | not supporting either side
+w003775.2 | neutral | adj. | B2 | 中性的, 素淡的 | having no strong color or feeling
+w003775.3 | neutral | n. | B2 | 空挡 | the gear position where no power reaches wheels
+w003776.1 | noble | adj. | B2 | 高尚的, 崇高的 | having fine moral qualities
+w003776.2 | noble | adj. | B2 | 贵族的, 出身高贵的 | belonging to a high social class by birth
+w003776.3 | noble | n. | B2 | 贵族 | a person of high social rank
+w003777.1 | pat | v. | B2 | 轻拍, 轻打 | touch gently several times with a flat hand
+w003777.2 | pat | n. | B2 | 轻拍 | a light touch with a flat hand
+w003777.3 | pat | n. | B2 | 小块 | a small flat piece, especially of butter
+w003778.1 | popularity | n. | B1 | 流行, 受欢迎, 普及 | the state of being liked by many people
+w003779.1 | pussy | n. | C2 | 猫咪, 小猫 | a child's word for a cat
+w003779.2 | pussy | n. | C2 | 懦夫, 胆小鬼 | a weak or cowardly man
+w003779.3 | pussy | n. | C2 | 女性阴部 | a vulgar word for female genitals
+w003780.1 | relate | v. | B1 | 有关, 涉及, 联系 | be connected with something
+w003780.2 | relate | v. | B1 | 理解, 认同, 产生共鸣 | understand and feel sympathy with someone
+w003780.3 | relate | v. | B1 | 讲述, 叙述 | tell a story
+w003781.1 | robot | n. | A2 | 机器人, 自动机 | a machine that does tasks automatically
+w003782.1 | sacred | adj. | B2 | 神圣的, 宗教的 | connected with God or religion
+w003782.2 | sacred | adj. | B2 | 极重要的, 不可侵犯的 | too important to be changed or attacked
+w003783.1 | shoe | n. | A1 | 鞋, 鞋子 | a covering for the foot
+w003783.2 | shoe | n. | A1 | 马蹄铁 | a curved iron piece fixed to a horse's hoof
+w003783.3 | shoe | v. | A1 | 给马钉蹄铁 | fit a horse with horseshoes
+w003784.1 | spy | n. | B1 | 间谍, 密探 | a person who secretly gathers information
+w003784.2 | spy | v. | B1 | 侦察, 暗中监视 | secretly watch or gather information
+w003784.3 | spy | v. | B1 | 看见, 发现 | suddenly notice something
+w003787.1 | suspension | n. | C1 | 暂停, 中止 | stopping something for a period of time
+w003787.2 | suspension | n. | C1 | 停职, 停学, 禁赛 | being banned from work, school, or play for a time
+w003787.3 | suspension | n. | C1 | 悬架, 悬挂系统 | the system that supports a vehicle on its wheels
+w003788.1 | terrorism | n. | B2 | 恐怖主义, 恐怖活动 | violence used against civilians for political aims
+w003790.1 | toxic | adj. | B2 | 有毒的, 毒性的 | poisonous and harmful to living things
+w003790.2 | toxic | adj. | B2 | 有害的, 恶劣的 | very unpleasant and harmful to people
+w003791.1 | treasury | n. | C1 | 财政部, 国库 | the government department managing public money
+w003791.2 | treasury | n. | C1 | 宝库, 宝藏 | a place or collection of valuable things
+w003792.1 | tunnel | n. | B1 | 隧道, 地道 | a passage built under the ground
+w003792.2 | tunnel | v. | B1 | 挖隧道, 挖地道 | dig a passage under the ground
+w003793.1 | upgrade | v. | B2 | 升级, 提升, 改进 | improve something or change it to a better version
+w003793.2 | upgrade | n. | B2 | 升级, 升级版 | an improvement or newer version
+w003794.1 | warrant | n. | C1 | 令状, 授权令, 逮捕令 | a legal document allowing police to act
+w003794.2 | warrant | v. | C1 | 使有必要, 证明正当 | make something necessary or justified
+w003794.3 | warrant | n. | C1 | 理由, 根据 | a justification for an action
+w003795.1 | wound | n. | B2 | 伤口, 创伤, 伤 | an injury where the skin is cut or broken
+w003795.2 | wound | v. | B2 | 使受伤, 伤害 | injure someone with a weapon
+w003795.3 | wound | n. | B2 | 心灵创伤, 伤痛 | emotional pain caused by someone
+w003796.1 | AI | abbr. | B1 | 人工智能 | artificial intelligence; computers that imitate human thinking
+w003797.1 | Afghanistan | n. | B1 | 阿富汗 | a country in south-central Asia
+w003799.1 | Brazilian | adj. | A2 | 巴西的, 巴西人的 | from or relating to Brazil
+w003799.2 | Brazilian | n. | A2 | 巴西人 | a person from Brazil
+w003800.1 | DJ | n. | B1 | 唱片骑师, 流行音乐主持人 | a person who plays recorded music for an audience
+w003800.2 | DJ | v. | B1 | 担任DJ, 打碟 | play recorded music at a club or party
+w003803.1 | Pole | n. | B1 | 波兰人 | a person from Poland
+w003805.1 | Switzerland | n. | A2 | 瑞士 | a mountainous country in central Europe
+w003808.1 | actively | adv. | B2 | 积极地, 主动地, 活跃地 | in a way that involves taking action
+w003809.1 | asset | n. | B2 | 资产, 财产 | something valuable owned by a person or company
+w003809.2 | asset | n. | B2 | 有用的人, 优势, 宝贵财富 | a useful or valuable quality or person
+w003811.1 | backing | n. | C1 | 支持, 支援, 资助 | help or support, often with money
+w003811.2 | backing | n. | C1 | 衬背, 背衬 | material fixed to the back of something
+w003811.3 | backing | n. | C1 | 伴奏, 伴唱 | music played to accompany a singer
+w003812.1 | baker | n. | A2 | 面包师, 烘焙师 | a person who makes and sells bread and cakes
+w003813.1 | blessed | adj. | B2 | 神圣的, 受祝福的 | holy or favored by God
+w003813.2 | blessed | adj. | B2 | 幸运的, 有福的 | lucky to have something good
+w003813.3 | blessed | adj. | B2 | 令人愉快的, 带来安慰的 | bringing pleasure or relief
+w003814.1 | brush | n. | A2 | 刷子, 画笔 | a tool with bristles for cleaning or painting
+w003814.2 | brush | v. | A2 | 刷, 擦, 梳 | clean or tidy something with a brush
+w003814.3 | brush | v. | A2 | 轻触, 擦过 | touch something lightly while passing
+w003815.1 | burden | n. | B2 | 负担, 重担, 责任 | a difficult duty or responsibility
+w003815.2 | burden | v. | B2 | 使负担, 加重负担 | give someone a difficult problem or duty
+w003815.3 | burden | n. | B2 | 重物, 负荷 | a heavy load to carry
+w003817.1 | casual | adj. | B1 | 随便的, 漫不经心的 | relaxed and not worried
+w003817.2 | casual | adj. | B1 | 便装的, 休闲的 | suitable for informal situations, of clothes
+w003817.3 | casual | adj. | B1 | 临时的, 偶然的 | not regular or permanent
+w003818.1 | charter | n. | C1 | 宪章, 章程, 特许状 | a formal document stating rights or principles
+w003818.2 | charter | v. | C1 | 包租, 租用 | hire a plane, boat, or bus for private use
+w003818.3 | charter | adj. | C1 | 包机的, 包租的 | hired for a particular journey
+w003819.1 | chef | n. | A2 | 厨师, 主厨, 厨师长 | a skilled professional cook
+w003820.1 | civilian | n. | B2 | 平民, 百姓 | a person not in the armed forces or police
+w003820.2 | civilian | adj. | B2 | 平民的, 民用的 | not military
+w003821.1 | coalition | n. | C1 | 联合政府, 联盟, 同盟 | a union of parties or groups working together
+w003822.1 | cock | n. | C1 | 公鸡, 雄禽 | an adult male chicken or bird
+w003822.2 | cock | v. | C1 | 翘起, 竖起, 扳起 | tilt or raise something, or ready a gun
+w003822.3 | cock | n. | C1 | 阴茎 | a vulgar word for penis
+w003823.1 | complain | v. | A2 | 抱怨, 发牢骚 | say you are unhappy about something
+w003823.2 | complain | v. | A2 | 投诉, 控告 | formally report a problem to someone in charge
+w003824.1 | controversial | adj. | B2 | 有争议的, 引起争论的 | causing much public disagreement
+w003825.1 | differently | adv. | A2 | 不同地, 不一样地, 另外地 | in a way that is not the same
+w003826.1 | discipline | n. | B2 | 纪律, 风纪 | training people to obey rules
+w003826.2 | discipline | n. | B2 | 自制力, 自律 | the ability to control your behavior
+w003826.3 | discipline | n. | B2 | 学科, 科目 | a branch of knowledge studied at university
+w003826.4 | discipline | v. | B2 | 惩罚, 处分 | punish someone for breaking rules
+w003827.1 | disgusting | adj. | B1 | 令人恶心的, 令人作呕的, 讨厌的 | extremely unpleasant or unacceptable
+w003828.1 | dominant | adj. | C1 | 占主导地位的, 支配的, 首要的 | more important, powerful, or noticeable than others
+w003828.2 | dominant | adj. | C1 | 显性的 | of a gene, showing its effect when present
+w003830.1 | essay | n. | A2 | 文章, 短文, 论文 | a short piece of writing on a subject
+w003830.2 | essay | n. | A2 | 尝试, 努力 | an attempt to do something
+w003831.1 | expense | n. | B1 | 费用, 花费, 开支 | money spent on something
+w003831.2 | expense | n. | B1 | 代价, 牺牲 | the loss or harm caused for a gain
+w003832.1 | furthermore | adv. | B2 | 此外, 而且, 再者 | used to add more information
+w003833.1 | graphic | adj. | B2 | 生动的, 逼真的, 露骨的 | very clear and detailed, often unpleasantly
+w003833.2 | graphic | adj. | B2 | 图形的, 图像的, 绘画的 | relating to drawings, images, or design
+w003833.3 | graphic | n. | B2 | 图形, 图像 | a picture or design on a screen or page
+w003835.1 | instantly | adv. | B2 | 立即, 马上, 即刻 | immediately
+w003836.1 | invasion | n. | B2 | 入侵, 侵略, 侵犯 | an army entering another country by force
+w003836.2 | invasion | n. | B2 | 侵扰, 涌入 | the arrival of many unwanted people or things
+w003838.1 | laptop | n. | A2 | 笔记本电脑, 手提电脑 | a small portable computer
+w003839.1 | legendary | adj. | B2 | 著名的, 传奇般的 | very famous and admired
+w003839.2 | legendary | adj. | B2 | 传说中的, 传奇的 | described in old stories
+w003840.1 | maker | n. | B1 | 制造者, 制造商, 生产者 | a person or company that makes something
+w003843.1 | outdoor | adj. | A2 | 户外的, 室外的, 野外的 | happening or used outside rather than in a building
+w003844.1 | palm | n. | B1 | 手掌, 掌心 | the inside surface of the hand
+w003844.2 | palm | n. | B1 | 棕榈树, 棕榈 | a tall tropical tree with large leaves at the top
+w003844.3 | palm | v. | B1 | 藏于掌中 | hide something in your hand
+w003846.1 | photograph | n. | A2 | 照片, 相片 | a picture made with a camera
+w003846.2 | photograph | v. | A2 | 拍照, 拍摄 | take a picture with a camera
+w003847.1 | pub | n. | A2 | 酒吧, 酒馆 | a building where alcoholic drinks are sold and drunk
+w003848.1 | reception | n. | B1 | 接待处, 前台 | the place where visitors are welcomed in a building
+w003848.2 | reception | n. | B1 | 招待会, 宴会 | a formal party to welcome someone
+w003848.3 | reception | n. | B1 | 反应, 接受, 信号接收 | how people react, or quality of a signal
+w003849.1 | recipe | n. | A2 | 食谱, 菜谱, 烹饪法 | instructions for cooking a dish
+w003849.2 | recipe | n. | A2 | 秘诀, 诀窍 | a way of achieving a result
+w003850.1 | regulatory | adj. | C1 | 监管的, 管理的, 调节的 | having the power to control an activity by rules
+w003851.1 | rubber | n. | B1 | 橡胶 | a strong elastic material made from a tree sap
+w003851.2 | rubber | n. | B1 | 橡皮, 橡皮擦 | a small object for removing pencil marks
+w003851.3 | rubber | n. | B1 | 避孕套 | a condom
+w003852.1 | serial | adj. | B2 | 连续的, 一系列的, 连环的 | happening one after another in a series
+w003852.2 | serial | n. | B2 | 连续剧, 连载 | a story told in parts over time
+w003853.1 | shed | n. | B2 | 棚, 小屋, 车库 | a small simple building for storage
+w003853.2 | shed | v. | B2 | 摆脱, 去除, 裁减 | get rid of something unwanted
+w003853.3 | shed | v. | B2 | 脱落, 蜕, 流出 | lose leaves, skin, or hair naturally; let flow
+w003854.1 | snake | n. | A1 | 蛇 | a long legless reptile
+w003854.2 | snake | v. | A1 | 蜿蜒, 曲折前行 | move or extend in long curves
+w003854.3 | snake | n. | A1 | 阴险的人, 小人 | a person who cannot be trusted
+w003855.1 | sponsored | adj. | B2 | 赞助的, 资助的, 发起的 | paid for or supported by a company or organization
+w003856.1 | strict | adj. | B1 | 严格的, 严厉的 | demanding that rules are obeyed exactly
+w003856.2 | strict | adj. | B1 | 严谨的, 精确的, 确切的 | exact and precise in meaning
+w003857.1 | subsequently | adv. | B2 | 随后, 后来, 接着 | after something else happened
+w003858.1 | substance | n. | B2 | 物质, 东西 | a particular kind of solid, liquid or gas
+w003858.2 | substance | n. | B2 | 实质, 要点, 主旨 | the most important or basic part of something
+w003858.3 | substance | n. | B2 | 根据, 价值, 重要性 | real importance or truth
+w003859.1 | suggestion | n. | B1 | 建议, 提议, 意见 | an idea or plan put forward for consideration
+w003859.2 | suggestion | n. | B1 | 迹象, 暗示, 细微迹象 | a slight sign or hint of something
+w003860.1 | syndrome | n. | C1 | 综合征, 综合症 | a set of medical symptoms typical of a condition
+w003860.2 | syndrome | n. | C1 | 典型表现, 一套行为模式 | a typical set of opinions or behaviour
+w003861.1 | ultra | adj. | C1 | 极端的, 过激的 | holding extreme views, especially in politics
+w003861.2 | ultra | n. | C1 | 极端分子, 激进分子 | a person with extreme views
+w003862.1 | unexpected | adj. | B1 | 意外的, 出乎意料的, 突然的 | not expected or planned for
+w003863.1 | usage | n. | B2 | 用法, 惯用法 | the way words are used in a language
+w003863.2 | usage | n. | B2 | 使用, 用量, 使用率 | the act or amount of using something
+w003864.1 | Argentina | n. | A2 | 阿根廷 | a country in southern South America
+w003868.1 | Thailand | n. | A2 | 泰国 | a country in Southeast Asia
+w003869.1 | accidentally | adv. | B1 | 意外地, 偶然地, 不小心 | by chance or by mistake, without intending to
+w003870.1 | affordable | adj. | B2 | 负担得起的, 价格合理的, 买得起的 | cheap enough for most people to buy
+w003871.1 | amateur | n. | B2 | 业余爱好者, 业余选手 | a person who does something for pleasure, not pay
+w003871.2 | amateur | adj. | B2 | 业余的, 非职业的 | done for pleasure rather than as a job
+w003871.3 | amateur | n. | B2 | 外行, 生手 | someone who lacks skill at something
+w003873.1 | bearing | n. | C1 | 关系, 影响, 关联 | a connection with or influence on something
+w003873.2 | bearing | n. | C1 | 方位, 方向感 | a direction or sense of where you are
+w003873.3 | bearing | n. | C1 | 轴承 | a machine part that lets another part turn smoothly
+w003874.1 | bin | n. | A2 | 垃圾箱, 垃圾桶 | a container for rubbish
+w003874.2 | bin | n. | A2 | 箱子, 储物箱 | a large container for storing things
+w003874.3 | bin | v. | A2 | 扔掉, 丢弃 | to throw something away
+w003875.1 | biology | n. | A2 | 生物学, 生物 | the scientific study of living things
+w003877.1 | briefly | adv. | B1 | 短暂地, 暂时地 | for a short time
+w003877.2 | briefly | adv. | B1 | 简要地, 简单地, 简言之 | in a few words
+w003878.1 | canal | n. | B1 | 运河, 水渠 | an artificial waterway for boats or water
+w003878.2 | canal | n. | B1 | 管, 道 | a tube inside the body
+w003881.1 | climb | v. | A2 | 攀登, 爬, 攀爬 | to go up something using hands and feet
+w003881.2 | climb | v. | A2 | 上升, 攀升, 增长 | to rise or increase
+w003881.3 | climb | n. | A2 | 攀登, 爬坡, 上升 | an act of climbing or a rise
+w003882.1 | competing | adj. | B2 | 相互竞争的, 对立的, 相冲突的 | trying to win against others or in conflict
+w003883.1 | completion | n. | B2 | 完成, 结束, 竣工 | the act of finishing something
+w003884.1 | cruise | n. | B1 | 乘船游览, 航游 | a holiday on a large ship
+w003884.2 | cruise | v. | B1 | 乘船游览, 巡航 | to travel by ship for pleasure
+w003884.3 | cruise | v. | B1 | 匀速行驶, 缓慢行驶 | to move at a steady comfortable speed
+w003885.1 | custody | n. | C1 | 监护权, 抚养权 | the legal right to care for a child
+w003885.2 | custody | n. | C1 | 拘留, 羁押, 关押 | the state of being kept in prison by police
+w003885.3 | custody | n. | C1 | 保管, 看管 | responsibility for protecting something
+w003886.1 | delete | v. | B1 | 删除, 删去, 抹掉 | to remove text or data
+w003887.1 | departure | n. | B1 | 离开, 出发, 启程 | the act of leaving a place
+w003887.2 | departure | n. | B1 | 背离, 偏离, 新尝试 | a change from the usual way of doing something
+w003888.1 | dig | v. | B1 | 挖, 掘, 挖掘 | to make a hole by moving earth
+w003888.2 | dig | v. | B1 | 探究, 发掘, 搜寻 | to search for information
+w003888.3 | dig | n. | B1 | 挖苦, 讽刺 | a remark meant to annoy or criticize
+w003888.4 | dig | n. | B1 | 考古发掘 | an archaeological excavation
+w003889.1 | employer | n. | B1 | 雇主, 老板, 用人单位 | a person or company that pays people to work
+w003890.1 | explosion | n. | B1 | 爆炸, 爆破, 爆炸声 | a sudden violent bursting with a loud noise
+w003890.2 | explosion | n. | B1 | 激增, 剧增 | a sudden large increase
+w003890.3 | explosion | n. | B1 | 爆发, 突发 | a sudden outburst of emotion
+w003891.1 | fever | n. | A2 | 发烧, 发热, 热病 | a body temperature higher than normal
+w003891.2 | fever | n. | A2 | 狂热, 激动, 兴奋 | a state of great excitement
+w003892.1 | fluid | n. | B2 | 液体, 流体 | a liquid or gas that can flow
+w003892.2 | fluid | adj. | B2 | 流畅的, 优美的 | smooth and graceful
+w003892.3 | fluid | adj. | B2 | 易变的, 不稳定的 | likely to change
+w003893.1 | folk | n. | B1 | 人们, 大家 | people in general
+w003893.2 | folk | adj. | B1 | 民间的, 民俗的 | traditional and belonging to ordinary people
+w003893.3 | folk | n. | B1 | 民间音乐, 民谣 | traditional music of a country or region
+w003893.4 | folk | n. | B1 | 家人, 亲属, 父母 | your family, especially your parents
+w003894.1 | generate | v. | B2 | 产生, 引起, 造成 | to produce or cause something
+w003894.2 | generate | v. | B2 | 发电, 生成 | to produce energy such as electricity
+w003896.1 | handsome | adj. | A2 | 英俊的, 帅气的 | good-looking, usually of a man
+w003896.2 | handsome | adj. | A2 | 可观的, 丰厚的 | large in amount
+w003896.3 | handsome | adj. | A2 | 漂亮的, 美观的 | attractive in appearance
+w003897.1 | imagination | n. | B1 | 想象力, 想象 | the ability to form pictures or ideas in the mind
+w003897.2 | imagination | n. | B1 | 幻想, 空想 | something only existing in the mind
+w003898.1 | integration | n. | C1 | 整合, 结合, 一体化 | combining parts so they work together
+w003898.2 | integration | n. | C1 | 融入, 融合 | becoming accepted as part of a group or society
+w003899.1 | integrity | n. | C1 | 正直, 诚实, 诚信 | the quality of being honest and having strong principles
+w003899.2 | integrity | n. | C1 | 完整, 完好, 统一 | the state of being whole and undamaged
+w003900.1 | interpretation | n. | B2 | 解释, 理解, 诠释 | an explanation of the meaning of something
+w003900.2 | interpretation | n. | B2 | 演绎, 表演 | the way a performer expresses a work
+w003900.3 | interpretation | n. | B2 | 口译, 翻译 | translating speech from one language to another
+w003901.1 | leaf | n. | A2 | 叶子, 树叶 | a flat green part growing from a plant stem
+w003901.2 | leaf | n. | A2 | 页, 张 | a single sheet of paper in a book
+w003901.3 | leaf | v. | A2 | 翻阅, 浏览 | to turn pages quickly, usually with through
+w003902.1 | legitimate | adj. | C1 | 合法的, 正当的 | allowed by law or rules
+w003902.2 | legitimate | adj. | C1 | 合理的, 合情合理的 | fair and reasonable
+w003902.3 | legitimate | v. | C1 | 使合法, 使正当化 | to make something legal or acceptable
+w003903.1 | lightning | n. | B1 | 闪电, 雷电 | a flash of light in the sky during a storm
+w003903.2 | lightning | adj. | B1 | 闪电般的, 极快的 | very fast
+w003904.1 | magical | adj. | B1 | 有魔力的, 魔法的 | having or using magic powers
+w003904.2 | magical | adj. | B1 | 神奇的, 迷人的, 美妙的 | wonderful and exciting in a special way
+w003905.1 | motivation | n. | B2 | 动力, 积极性, 干劲 | enthusiasm or desire to do something
+w003905.2 | motivation | n. | B2 | 动机, 原因 | the reason why someone does something
+w003906.1 | nasty | adj. | B1 | 令人讨厌的, 恶心的, 糟糕的 | very unpleasant
+w003906.2 | nasty | adj. | B1 | 刻薄的, 恶毒的 | unkind and spiteful
+w003906.3 | nasty | adj. | B1 | 严重的, 危险的 | serious or harmful
+w003908.1 | outfit | n. | B1 | 全套服装, 装束 | a set of clothes worn together
+w003908.2 | outfit | n. | B1 | 团队, 组织, 公司 | a group of people working together
+w003908.3 | outfit | v. | B1 | 装备, 配备 | to provide with equipment or clothes
+w003909.1 | pension | n. | B2 | 养老金, 退休金, 抚恤金 | money paid regularly to someone after retirement
+w003909.2 | pension | v. | B2 | 发给养老金, 使退休 | to make someone retire with a pension, usually with off
+w003910.1 | permit | v. | B2 | 允许, 准许, 许可 | to allow something to happen
+w003910.2 | permit | n. | B2 | 许可证, 执照, 通行证 | an official document giving permission
+w003912.1 | pleasant | adj. | A2 | 令人愉快的, 宜人的, 舒适的 | enjoyable and pleasing
+w003912.2 | pleasant | adj. | A2 | 友好的, 和蔼的 | friendly and polite
+w003913.1 | portrait | n. | B1 | 肖像, 画像, 人像照 | a painting, drawing or photo of a person
+w003913.2 | portrait | n. | B1 | 描绘, 描写 | a detailed description of something
+w003913.3 | portrait | adj. | B1 | 纵向的, 竖版的 | printed with the long side vertical
+w003914.1 | productive | adj. | B2 | 多产的, 高效的, 富有成效的 | producing a lot or achieving good results
+w003914.2 | productive | adj. | B2 | 生产的, 生产性的 | relating to producing goods
+w003916.1 | safely | adv. | A2 | 安全地, 平安地, 稳妥地 | without danger or harm
+w003917.1 | slight | adj. | B2 | 轻微的, 少量的, 细小的 | small in degree or amount
+w003917.2 | slight | adj. | B2 | 纤细的, 瘦小的 | thin and delicate in build
+w003917.3 | slight | v. | B2 | 轻视, 怠慢 | to insult someone by ignoring them
+w003917.4 | slight | n. | B2 | 怠慢, 轻蔑 | an act that offends by showing disrespect

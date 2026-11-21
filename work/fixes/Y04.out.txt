@@ -1,0 +1,117 @@
+news flash | solid:newsflash
+no go | solid:no-go
+off white | solid:off-white
+off season | solid:off-season
+one night stand | fix:one-night stand
+open and shut | solid:open-and-shut
+part time | solid:part-time
+pay check | solid:paycheck
+pay day | solid:payday
+pick me up | solid:pick-me-up
+pitch black | solid:pitch-black
+pants suit | solid:pantsuit
+panty hose | solid:pantyhose
+play date | solid:playdate
+point blank | solid:point-blank
+policy maker | solid:policymaker
+red letter day | fix:red-letter day
+rest room | solid:restroom
+reverse engineer | solid:reverse-engineer
+right winger | solid:right-winger
+ring tone | solid:ringtone
+river bed | solid:riverbed
+road block | solid:roadblock
+road map | solid:roadmap
+road show | solid:roadshow
+rock solid | solid:rock-solid
+runner up | solid:runner-up
+sans serif | solid:sans-serif
+nut case | solid:nutcase
+pied piper | fix:Pied Piper
+scot free | solid:scot-free
+second class | solid:second-class
+serve one right | fix:serve sb right
+sheep dog | solid:sheepdog
+short cut | solid:shortcut
+short list | solid:shortlist
+short wave | solid:shortwave
+sister in law | solid:sister-in-law
+six pack | solid:six-pack
+slap bang | solid:slap-bang
+so so | solid:so-so
+space walk | solid:spacewalk
+spade work | solid:spadework
+spring clean | solid:spring-clean
+street smart | solid:street-smart
+sweat pants | solid:sweatpants
+sun room | solid:sunroom
+tag line | solid:tagline
+tail light | solid:taillight
+take aback | fix:take sb aback
+take to task | fix:take sb to task
+tie breaker | solid:tiebreaker
+top heavy | solid:top-heavy
+top notch | solid:top-notch
+touch screen | solid:touchscreen
+track suit | solid:tracksuit
+tumble dry | solid:tumble-dry
+uh huh | solid:uh-huh
+user friendly | solid:user-friendly
+vice chancellor | solid:vice-chancellor
+voice mail | solid:voicemail
+voice over | solid:voice-over
+water bed | solid:waterbed
+weight lifter | solid:weightlifter
+well connected | solid:well-connected
+well dressed | solid:well-dressed
+well established | solid:well-established
+well informed | solid:well-informed
+well intentioned | solid:well-intentioned
+well meaning | solid:well-meaning
+well paid | solid:well-paid
+well read | solid:well-read
+well rounded | solid:well-rounded
+well spoken | solid:well-spoken
+well worn | solid:well-worn
+wet suit | solid:wetsuit
+wheeler dealer | solid:wheeler-dealer
+word play | solid:wordplay
+work force | solid:workforce
+work week | solid:workweek
+world class | solid:world-class
+world view | solid:worldview
+would be | solid:would-be
+your honor | fix:Your Honor
+your honour | fix:Your Honour
+oh my god | fix:oh my God
+ball is in sb's court | fix:the ball is in sb's court
+grass is always greener on the other side | fix:the grass is always greener on the other side
+early bird catches the worm | fix:the early bird catches the worm
+bob's your uncle | fix:Bob's your uncle
+sight for sore eyes | fix:a sight for sore eyes
+shoulder to cry on | fix:a shoulder to cry on
+shot in the dark | fix:a shot in the dark
+sign of the times | fix:a sign of the times
+storm in a teacup | fix:a storm in a teacup
+tip of the iceberg | fix:the tip of the iceberg
+twist of fate | fix:a twist of fate
+wolf in sheep's clothing | fix:a wolf in sheep's clothing
+nail in the coffin | fix:a nail in the coffin
+lump in one's throat | fix:a lump in one's throat
+in leaps and bounds | fix:by leaps and bounds
+leaps and bounds | fix:by leaps and bounds
+not only but also | fix:not only ... but also
+cash back | solid:cashback
+labour of love | fix:a labour of love
+bull in a china shop | fix:a bull in a china shop
+bed of roses | fix:a bed of roses
+bag of tricks | fix:a bag of tricks
+match made in heaven | fix:a match made in heaven
+best of both worlds | fix:the best of both worlds
+point of no return | fix:the point of no return
+salt of the earth | fix:the salt of the earth
+talk of the town | fix:the talk of the town
+life of the party | fix:the life of the party
+luck of the draw | fix:the luck of the draw
+flash in the pan | fix:a flash in the pan
+drop in the ocean | fix:a drop in the ocean

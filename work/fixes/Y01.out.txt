@@ -1,0 +1,29 @@
+will power | solid:willpower
+back yard | solid:backyard
+new year | fix:New Year
+second hand | solid:second-hand
+first class | solid:first-class
+full time | solid:full-time
+world war | fix:World War
+key word | solid:keyword
+fast forward | solid:fast-forward
+value added tax | fix:value-added tax
+role play | solid:role-play
+duty free | solid:duty-free
+neither nor | fix:neither ... nor
+rain forest | solid:rainforest
+quarter final | solid:quarter-final
+heat wave | solid:heatwave
+bar code | solid:barcode
+user name | solid:username
+editor in chief | solid:editor-in-chief
+commander in chief | solid:commander-in-chief
+hide and seek | solid:hide-and-seek
+money back guarantee | fix:money-back guarantee
+first aid kit | fix:first-aid kit
+honey bee | solid:honeybee
+trap door | solid:trapdoor
+pin number | fix:PIN number
+April Fool's Day | fix:April Fools' Day
+heat stroke | solid:heatstroke
+no sooner than | fix:no sooner ... than

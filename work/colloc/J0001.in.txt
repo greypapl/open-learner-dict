@@ -1,0 +1,400 @@
+spend time | v+n | 花时间 | time,spend
+waste time | v+n | 浪费时间 | time,waste
+save time | v+n | 节省时间 | time,save
+a waste of time | n+n | 浪费时间 | time,waste
+get a job | v+n | 找到工作 | get
+take care of sb | v+prep | 照顾 | take,care
+look closely | v+adv | 仔细看 | look
+meet a need | v+n | 满足需求 | need
+urgent need | adj+n | 迫切需要 | need
+badly need | v+adv | 急需 | need,badly
+ask for help | v+prep | 求助 | help
+call for help | v+prep | 呼救 | help
+make use of sth | v+prep | 利用 | use
+widely used | adv+adj | 广泛使用的 | use
+deeply in love | adv+adj | 深爱着 | love
+play a part | v+n | 起作用 | part,play
+attend school | v+n | 上学 | school
+play a game | v+n | 玩游戏 | game
+win a game | v+n | 赢得比赛 | game
+lose a game | v+n | 输掉比赛 | game
+a game of chance | n+n | 碰运气的游戏 | game
+make things worse | v+n | 使事情更糟 | thing
+daily life | adj+n | 日常生活 | life
+lead a life | v+n | 过生活 | life
+save a life | v+n | 救命 | life
+a way of life | n+n | 生活方式 | life
+a state of emergency | n+n | 紧急状态 | state
+a state of mind | n+n | 心态 | state
+hard work | adj+n | 辛勤工作 | work
+work hard | v+adv | 努力工作 | work,hard
+a piece of work | n+n | 一件作品 | work
+a high price | adj+n | 高价 | high
+high hopes | adj+n | 厚望 | high
+highly recommended | adv+adj | 强烈推荐 | high,highly
+long for sth | v+prep | 渴望 | long
+long hours | adj+n | 长时间 | long
+good at sth | v+prep | 擅长 | good
+good for sb | v+prep | 对...有益 | good
+much better | adv+adj | 好得多 | better
+exactly the same | adv+adj | 完全一样 | same,exactly
+well known | adv+adj | 著名的 | well
+have a chat | v+n | 聊天 | have,chat
+have a baby | v+n | 生孩子 | have,baby
+have a rest | v+n | 休息一下 | have
+have an effect on sth | v+prep | 对...有影响 | have
+do research | v+n | 做研究 | do
+get the impression | v+n | 有...的印象 | get,impression
+get permission | v+n | 获得许可 | get
+get a chance | v+n | 得到机会 | get
+get a reply | v+n | 得到答复 | get
+young people | adj+n | 年轻人 | people
+ordinary people | adj+n | 普通人 | people,ordinary
+local people | adj+n | 当地人 | people
+completely new | adv+adj | 全新的 | new
+relatively new | adv+adj | 相对较新的 | new
+a good chance | adj+n | 很大可能 | good
+a good reason | adj+n | 充分的理由 | good
+first priority | adj+n | 首要任务 | first
+see clearly | v+adv | 看清楚 | see
+see the point | v+n | 明白要点 | see
+know full well | v+adv | 完全清楚 | know
+know the difference | v+n | 知道区别 | know
+know about sth | v+prep | 了解 | know
+think carefully | v+adv | 仔细考虑 | think
+think of sth | v+prep | 想到 | think
+think about sth | v+prep | 考虑 | think
+the only way | adj+n | 唯一的办法 | way
+find a way | v+n | 找到办法 | way
+show sb the way | v+n | 给某人指路 | way
+most likely | adv+adj | 最可能 | most,likely
+basic needs | adj+n | 基本需求 | need,basic
+special needs | adj+n | 特殊需求 | need
+desperately need | v+adv | 迫切需要 | need
+voluntary work | adj+n | 志愿工作 | work,voluntary
+work on sth | v+prep | 致力于 | work
+have the right to sth | v+prep | 有权做 | right
+busy day | adj+n | 忙碌的一天 | day
+spend the day | v+n | 度过一天 | day
+say sorry | v+n | 道歉 | say
+the outside world | adj+n | 外部世界 | world
+the developing world | adj+n | 发展中国家 | world
+the real world | adj+n | 现实世界 | world
+risk one's life | v+n | 冒生命危险 | life
+private life | adj+n | 私生活 | life,private
+social life | adj+n | 社交生活 | life
+great importance | adj+n | 极其重要 | great
+take great care | v+n | 格外小心 | great
+madly in love | adv+adj | 疯狂地爱着 | love
+put sth to use | v+n | 利用 | use
+use effectively | v+adv | 有效使用 | use
+have a look | v+n | 看一看 | look
+long history | adj+n | 悠久的历史 | long
+leave home | v+n | 离家 | home,leave
+return home | v+adv | 回家 | home
+be used to sth | v+prep | 习惯于 | used
+roughly the same | adv+adj | 大致相同 | same
+virtually the same | adv+adj | 几乎相同 | same
+a state of shock | n+n | 震惊状态 | state
+state clearly | v+adv | 明确陈述 | state
+an integral part | adj+n | 不可或缺的部分 | part
+form part of sth | v+prep | 构成一部分 | part
+a major part | adj+n | 主要部分 | part
+come to a conclusion | v+n | 得出结论 | come
+come to an agreement | v+n | 达成协议 | come
+find a solution | v+n | 找到解决办法 | find,solution
+find the time | v+n | 抽出时间 | find
+find fault with sb | v+prep | 挑剔 | find,fault
+find work | v+n | 找工作 | find
+little doubt | adj+n | 几乎没有疑问 | little
+little chance | adj+n | 几乎没有机会 | little
+high standards | adj+n | 高标准 | high,standard
+high expectations | adj+n | 高期望 | high,expectation
+seek help | v+n | 寻求帮助 | help,seek
+offer help | v+n | 提供帮助 | help
+professional help | adj+n | 专业帮助 | help
+the right thing | adj+n | 正确的事 | thing
+the rules of the game | n+n | 游戏规则 | game
+a close game | adj+n | 势均力敌的比赛 | game
+leave school | v+n | 离开学校 | school
+a school of thought | n+n | 学派 | school
+take the place of sb | v+prep | 取代 | place
+a public place | adj+n | 公共场所 | place
+place emphasis on sth | v+prep | 强调 | place,emphasis
+a detached house | adj+n | 独立式住宅 | house
+a haunted house | adj+n | 鬼屋 | house
+give a speech | v+n | 发表演讲 | give,speech
+show interest | v+n | 表现出兴趣 | show,interest
+show respect | v+n | 表示尊敬 | show
+feel sorry for sb | v+prep | 同情 | feel,sorry
+put pressure on sb | v+prep | 给某人施压 | put,pressure
+play an instrument | v+n | 演奏乐器 | play,instrument
+earn money | v+n | 赚钱 | money,earn
+save money | v+n | 省钱 | money,save
+spend money | v+n | 花钱 | money,spend
+borrow money | v+n | 借钱 | money,borrow
+waste money | v+n | 浪费钱 | money,waste
+a household name | adj+n | 家喻户晓的名字 | name
+run a company | v+n | 经营公司 | company
+set up a company | v+n | 创办公司 | company
+set a goal | v+n | 设定目标 | set,goal
+form a government | v+n | 组阁 | government
+a legal system | adj+n | 法律制度 | system
+start a business | v+n | 创业 | start
+run a business | v+n | 做生意 | business
+set up a business | v+n | 创业 | business
+medical care | adj+n | 医疗护理 | care,medical
+make a point | v+n | 提出论点 | point
+make a change | v+n | 做出改变 | change
+a significant change | adj+n | 重大变化 | change
+bring about change | v+n | 带来变化 | change,bring
+provide support | v+n | 提供支持 | support
+financial support | adj+n | 经济支持 | support,financial
+strongly support | v+adv | 大力支持 | support
+tell the truth | v+n | 说实话 | tell,truth
+tell a lie | v+n | 撒谎 | tell
+tell a story | v+n | 讲故事 | tell,story
+hard evidence | adj+n | 确凿证据 | hard
+hit hard | v+adv | 沉重打击 | hard
+bad weather | adj+n | 坏天气 | bad,weather
+a bad habit | adj+n | 坏习惯 | bad
+badly damaged | adv+adj | 严重受损 | bad,badly
+drinking water | n+n | 饮用水 | water
+fresh water | adj+n | 淡水 | water
+solar power | adj+n | 太阳能 | power
+political power | adj+n | 政治权力 | power
+play music | v+n | 播放音乐 | music
+loud music | adj+n | 大声的音乐 | music
+live music | adj+n | 现场音乐 | music
+nod one's head | v+n | 点头 | head
+call a meeting | v+n | 召集会议 | call,meeting
+make a phone call | v+n | 打电话 | call
+call for sth | v+prep | 要求 | call
+believe in sth | v+prep | 相信 | believe
+firmly believe | v+adv | 坚信 | believe,firm,firmly
+based on sth | v+prep | 基于 | based
+try one's best | v+n | 尽力 | try
+try hard | v+adv | 努力尝试 | try
+do a good job | v+n | 做得好 | job
+apply for a job | v+prep | 申请工作 | job,apply
+lose one's job | v+n | 失业 | job
+run out of sth | v+prep | 用完 | run
+hold a party | v+n | 举办聚会 | party
+a political party | adj+n | 政党 | party
+keep order | v+n | 维持秩序 | order
+give an order | v+n | 下命令 | order
+peak season | adj+n | 旺季 | season,peak
+open an account | v+n | 开户 | open,account
+an open mind | adj+n | 开放的心态 | open
+a developing country | adj+n | 发展中国家 | country
+win the war | v+n | 赢得战争 | war
+enforce the law | v+n | 执法 | law
+pass a law | v+n | 通过法律 | law,pass
+a cover story | n+n | 封面报道 | story
+a love story | n+n | 爱情故事 | story
+elect a president | v+n | 选举总统 | president,elect
+face the facts | v+n | 面对现实 | face
+a straight face | adj+n | 面无表情 | face
+park a car | v+n | 停车 | car,park
+drive a car | v+n | 开车 | car,drive
+a car crash | n+n | 车祸 | car
+a piece of news | n+n | 一条消息 | news,piece
+vitally important | adv+adj | 极其重要 | important
+extremely important | adv+adj | 极其重要 | important,extremely
+express hope | v+n | 表达希望 | hope
+lose hope | v+n | 失去希望 | hope
+raise hopes | v+n | 带来希望 | hope
+good health | adj+n | 健康 | health
+poor health | adj+n | 健康欠佳 | health,poor
+a health risk | n+n | 健康风险 | health
+take a course | v+n | 上课程 | course
+a training course | n+n | 培训课程 | course
+a golf course | n+n | 高尔夫球场 | course,golf
+a young couple | adj+n | 年轻夫妇 | young
+a local newspaper | adj+n | 地方报纸 | local,newspaper
+early morning | adj+n | 清晨 | early
+book a table | v+n | 订位 | book,table
+book a ticket | v+n | 订票 | book,ticket
+talk business | v+n | 谈生意 | talk
+talk nonsense | v+n | 胡说 | talk,nonsense
+a single mother | adj+n | 单身母亲 | single
+a single room | adj+n | 单人房 | single
+keep an open mind | v+n | 保持开放心态 | mind
+reach a level | v+n | 达到水平 | level
+a well-known fact | adj+n | 众所周知的事实 | fact
+a basic fact | adj+n | 基本事实 | fact
+a court case | n+n | 诉讼案件 | court
+a tennis court | n+n | 网球场 | court
+solve a problem | v+n | 解决问题 | problem,solution,solve
+cause a problem | v+n | 引起问题 | problem
+face a problem | v+n | 面对问题 | problem
+a serious problem | adj+n | 严重问题 | problem
+a major problem | adj+n | 主要问题 | problem
+pay a compliment | v+n | 赞美 | pay,compliment
+pay in cash | v+prep | 付现金 | pay
+pay for sth | v+prep | 付钱买 | pay
+a box office | n+n | 票房 | office
+the death penalty | n+n | 死刑 | death
+the human body | adj+n | 人体 | body
+dead wrong | adv+adj | 大错特错 | wrong
+win a prize | v+n | 赢得奖品 | win,prize
+win an election | v+n | 赢得选举 | win,election
+win a race | v+n | 赢得比赛 | win,race
+win a battle | v+n | 赢得战斗 | win,battle
+go to university | v+prep | 上大学 | university
+a university degree | n+n | 大学学位 | university
+conduct research | v+n | 开展研究 | research,conduct
+carry out research | v+n | 进行研究 | research
+scientific research | adj+n | 科学研究 | research,scientific
+a medical history | adj+n | 病史 | history
+almost certain | adv+adj | 几乎肯定 | almost
+almost impossible | adv+adj | 几乎不可能 | almost
+remember clearly | v+adv | 清楚记得 | remember
+vaguely remember | v+adv | 隐约记得 | remember
+pretty good | adv+adj | 相当好 | pretty
+fully understand | v+adv | 完全理解 | understand,fully
+hit the target | v+n | 击中目标 | hit
+a childhood friend | n+n | 儿时好友 | friend
+air traffic | n+n | 空中交通 | air
+quite possible | adv+adj | 很有可能 | possible
+international trade | adj+n | 国际贸易 | international
+a bright idea | adj+n | 好主意 | idea,bright
+get the idea | v+n | 明白 | idea
+come up with an idea | v+prep | 想出主意 | idea
+a rough idea | adj+n | 大概想法 | idea
+close to sth | v+prep | 接近 | close
+take a class | v+n | 上课 | class
+attend class | v+n | 上课 | class
+wait for sb | v+prep | 等待 | wait
+wait patiently | v+adv | 耐心等待 | wait
+keep sb waiting | v+n | 让某人久等 | wait
+ask a question | v+n | 提问 | question
+answer a question | v+n | 回答问题 | question,answer
+raise a question | v+n | 提出问题 | question,raise
+a key question | adj+n | 关键问题 | question
+a smart move | adj+n | 明智之举 | move
+perfectly happy | adv+adj | 非常满意 | happy
+happy with sth | v+prep | 对...满意 | happy
+long overdue | adv+adj | 早该发生的 | due
+cause damage | v+n | 造成损害 | cause,damage
+cause concern | v+n | 引起担忧 | cause
+the root cause | adj+n | 根本原因 | cause
+watch television | v+n | 看电视 | watch,television
+watch closely | v+adv | 密切关注 | watch
+a special occasion | adj+n | 特殊场合 | special
+special effects | adj+n | 特效 | special
+collect data | v+n | 收集数据 | data,collect
+analyze data | v+n | 分析数据 | data
+raw data | adj+n | 原始数据 | data,raw
+personal data | adj+n | 个人数据 | data
+ask a favor | v+n | 请求帮忙 | ask,favor
+ask for advice | v+prep | 征求意见 | ask
+stay in touch | v+prep | 保持联系 | stay
+short notice | adj+n | 仓促通知 | short
+short supply | adj+n | 供应不足 | short,supply
+call the police | v+n | 报警 | police
+low price | adj+n | 低价 | low
+low temperature | adj+n | 低温 | low
+light traffic | adj+n | 车流稀少 | light
+light rain | adj+n | 小雨 | light
+near future | adj+n | 不久的将来 | future
+bright future | adj+n | 光明的前景 | future
+secure the future | v+n | 保障未来 | future
+turn left | v+adv | 向左转 | turn
+turn into sth | v+prep | 变成 | turn
+report a crime | v+n | 报案 | report
+annual report | adj+n | 年度报告 | report
+file a report | v+n | 提交报告 | report
+reason for sth | v+prep | 某事的原因 | reason
+good reason | adj+n | 充分的理由 | reason
+make a deal | v+n | 达成交易 | deal
+deal with sth | v+prep | 处理 | deal
+buy a ticket | v+n | 买票 | buy
+further information | adj+n | 更多信息 | further
+further details | adj+n | 更多细节 | further,detail
+fill in a form | v+n | 填表 | form,fill
+economic development | adj+n | 经济发展 | development
+latest development | adj+n | 最新进展 | development
+double-check sth | v+n | 反复核对 | check
+answer the phone | v+n | 接电话 | phone,answer
+major problem | adj+n | 重大问题 | major
+major role | adj+n | 重要作用 | major
+great fun | adj+n | 非常有趣 | fun
+give birth to a child | v+n | 生孩子 | child
+act on sth | v+prep | 按…行动 | act
+act of kindness | n+n | 善举 | act
+west coast | adj+n | 西海岸 | west
+quite right | adv+adj | 完全正确 | quite
+political system | adj+n | 政治体制 | political
+make a plan | v+n | 制订计划 | plan
+detailed plan | adj+n | 详细计划 | plan
+easy task | adj+n | 轻松的任务 | easy
+easily accessible | adv+adj | 容易到达的 | easy,easily,accessible
+tall building | adj+n | 高楼 | building
+modern art | adj+n | 现代艺术 | art
+busy street | adj+n | 繁忙的街道 | street
+sometimes difficult | adv+adj | 有时很难 | sometimes
+ready for sth | v+prep | 为…做好准备 | ready
+make a list | v+n | 列清单 | list
+waiting list | n+n | 等候名单 | list
+former president | adj+n | 前总统 | former
+final exam | adj+n | 期末考试 | final
+final decision | adj+n | 最终决定 | final,decision
+primary education | adj+n | 初等教育 | education
+freely available | adv+adj | 可免费获得的 | available,freely
+available for sth | v+prep | 可用于 | available
+computer program | n+n | 计算机程序 | program
+run a program | v+n | 运行程序 | program
+meet a requirement | v+n | 满足要求 | meet,requirement
+meet the needs of | v+n | 满足需求 | meet
+gain experience | v+n | 获得经验 | experience,gain
+valuable experience | adj+n | 宝贵经验 | experience
+current situation | adj+n | 当前形势 | current
+go to college | v+n | 上大学 | college
+college student | n+n | 大学生 | college
+bring up a child | v+n | 抚养孩子 | bring
+word for sth | v+prep | …的说法 | word
+study abroad | v+adv | 出国留学 | study,abroad
+study for an exam | v+prep | 备考 | study
+carry out a study | v+n | 进行研究 | study
+pop song | n+n | 流行歌曲 | song
+sing a song | v+n | 唱歌 | song
+process information | v+n | 处理信息 | process
+biological father | adj+n | 生父 | father
+newborn baby | adj+n | 新生儿 | baby
+expect a baby | v+n | 怀孕 | baby,expect
+clear evidence | adj+n | 明显的证据 | clear,evidence
+legal action | adj+n | 法律诉讼 | action,legal
+spring into action | v+prep | 迅速行动 | action
+critical thinking | adj+n | 批判性思维 | thinking,critical
+main road | adj+n | 主干道 | road
+single mother | adj+n | 单身母亲 | mother
+main reason | adj+n | 主要原因 | main
+field of study | n+n | 研究领域 | field
+cut costs | v+n | 削减开支 | cut
+cover the cost | v+n | 支付费用 | cost
+terms and conditions | n+n | 条款与条件 | term
+waste space | v+n | 浪费空间 | space
+running costs | adj+n | 运营成本 | running
+take a rest | v+n | 休息 | rest
+the rest of | n+n | 其余的 | rest
+reasonable price | adj+n | 合理的价格 | price
+price rise | n+n | 涨价 | price
+raise an issue | v+n | 提出问题 | issue
+address an issue | v+n | 处理问题 | issue,address
+hear from sb | v+prep | 收到某人消息 | hear
+hear of sth | v+prep | 听说 | hear
+force sb to do sth | v+prep | 迫使某人做某事 | force
+fight for sth | v+prep | 为…而斗争 | fight
+fight a battle | v+n | 打仗 | fight,battle
+fight crime | v+n | 打击犯罪 | fight
+save energy | v+n | 节能 | energy,save
+nuclear energy | adj+n | 核能 | energy
+fire department | n+n | 消防部门 | department
+strong evidence | adj+n | 有力的证据 | strong,evidence
+strong wind | adj+n | 强风 | strong,wind
+building site | n+n | 工地 | site
+construction site | n+n | 施工现场 | site
+take a shot | v+n | 试一试, 开枪 | shot
+carry out a project | v+n | 实施项目 | project
+launch a project | v+n | 启动项目 | project

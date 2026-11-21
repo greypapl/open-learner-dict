@@ -1,0 +1,2500 @@
+w002018.2 | incredible | adj. | 極好的, 了不起的
+w002019.1 | meat | n. | 肉, 肉類
+w002020.1 | ministry | n. | 部, 部門
+w002020.2 | ministry | n. | 牧師職務, 神職
+w002021.1 | mode | n. | 方式, 模式
+w002021.2 | mode | n. | 模式, 狀態
+w002022.1 | neck | n. | 脖子, 頸
+w002022.2 | neck | n. | 頸狀部分, 領口
+w002023.1 | novel | n. | 小說, 長篇小說
+w002023.2 | novel | adj. | 新穎的, 新奇的
+w002024.1 | obvious | adj. | 明顯的, 顯然的
+w002025.1 | passing | adj. | 經過的, 路過的
+w002025.2 | passing | adj. | 短暫的, 一時的
+w002025.3 | passing | n. | 流逝, 逝世
+w002026.1 | remaining | adj. | 剩下的, 剩餘的
+w002027.1 | shirt | n. | 襯衫, 襯衣
+w002028.1 | slowly | adv. | 慢慢地, 緩慢地
+w002029.1 | stadium | n. | 體育場, 運動場
+w002030.1 | surgery | n. | 外科手術, 手術
+w002030.2 | surgery | n. | 診所, 門診
+w002031.1 | trading | n. | 貿易, 交易, 買賣
+w002032.1 | vision | n. | 視力, 視覺
+w002032.2 | vision | n. | 遠見, 願景
+w002032.3 | vision | n. | 幻象, 想象
+w002033.1 | whenever | conj. | 每當, 無論何時
+w002033.2 | whenever | adv. | 任何時候
+w002034.1 | worried | adj. | 擔心的, 發愁的
+w002035.1 | zero | num. | 零
+w002035.2 | zero | n. | 零度, 零點
+w002037.1 | EU | abbr. | 歐盟
+w002038.1 | Iran | n. | 伊朗
+w002039.1 | Thursday | n. | 星期四
+w002040.1 | UN | abbr. | 聯合國
+w002042.1 | champion | n. | 冠軍, 優勝者
+w002042.2 | champion | n. | 捍衛者, 擁護者
+w002042.3 | champion | v. | 捍衛, 支援
+w002043.1 | charged | adj. | 充滿感情的, 緊張的
+w002043.2 | charged | adj. | 帶電的
+w002044.1 | cream | n. | 奶油, 乳脂
+w002044.2 | cream | n. | 乳霜, 藥膏
+w002044.3 | cream | adj. | 奶油色的, 米色的
+w002045.1 | crisis | n. | 危機, 緊要關頭
+w002047.1 | editor | n. | 編輯, 編者
+w002047.2 | editor | n. | 主編, 總編
+w002047.3 | editor | n. | 編輯器
+w002048.1 | giant | adj. | 巨大的, 特大的
+w002048.2 | giant | n. | 巨人
+w002048.3 | giant | n. | 巨頭, 大公司
+w002049.1 | jail | n. | 監獄, 看守所, 牢房
+w002049.2 | jail | v. | 監禁, 關押, 把…投入監獄
+w002051.1 | kingdom | n. | 王國, 王朝
+w002051.2 | kingdom | n. | 領域, 界
+w002051.3 | kingdom | n. | 界
+w002052.1 | literature | n. | 文學, 文學作品
+w002052.2 | literature | n. | 文獻, 資料
+w002052.3 | literature | n. | 宣傳材料, 印刷品
+w002053.1 | mayor | n. | 市長, 鎮長
+w002054.1 | minor | adj. | 次要的, 較小的, 不重要的
+w002054.2 | minor | n. | 未成年人
+w002054.3 | minor | adj. | 小調的
+w002055.1 | opposite | adj. | 對面的, 相對的
+w002055.2 | opposite | adj. | 相反的, 截然不同的
+w002055.3 | opposite | prep. | 在…對面
+w002055.4 | opposite | n. | 對立面, 反面
+w002056.1 | orange | n. | 橙子, 柑橘
+w002056.2 | orange | adj. | 橙色的, 橘黃色的
+w002056.3 | orange | n. | 橙色, 橘黃色
+w002057.1 | ourselves | pron. | 我們自己
+w002057.2 | ourselves | pron. | 我們親自, 我們本身
+w002058.1 | profit-taking | n. | 獲利回吐, 獲利了結
+w002059.1 | selection | n. | 選擇, 挑選
+w002059.2 | selection | n. | 可供選擇的東西, 品種
+w002059.3 | selection | n. | 選出的人或物, 精選品
+w002060.1 | serving | n. | 一份, 一客
+w002060.2 | serving | adj. | 在職的, 現役的
+w002061.1 | signal | n. | 訊號, 暗號
+w002061.2 | signal | v. | 發訊號, 示意, 表明
+w002061.3 | signal | n. | 跡象, 標誌
+w002062.1 | stream | n. | 小河, 溪流
+w002062.2 | stream | n. | 一連串, 流
+w002062.3 | stream | v. | 流動, 湧出
+w002062.4 | stream | v. | 流媒體播放, 線上播放
+w002063.1 | struggle | v. | 奮鬥, 努力, 掙扎
+w002063.2 | struggle | n. | 鬥爭, 奮鬥, 難事
+w002063.3 | struggle | v. | 搏鬥, 扭打
+w002064.1 | suicide | n. | 自殺, 自殺行為
+w002064.2 | suicide | n. | 自取滅亡, 自毀
+w002065.1 | theme | n. | 主題, 題目, 主旨
+w002065.2 | theme | n. | 主題曲, 主旋律
+w002066.1 | tiny | adj. | 極小的, 微小的
+w002067.1 | typically | adv. | 通常, 一般
+w002067.2 | typically | adv. | 典型地, 有代表性地
+w002068.1 | unfortunately | adv. | 不幸地, 遺憾地, 可惜
+w002069.1 | usual | adj. | 通常的, 平常的, 慣常的
+w002070.1 | wave | n. | 波浪, 海浪
+w002070.2 | wave | v. | 揮手, 招手
+w002070.3 | wave | n. | 浪潮, 高潮
+w002070.4 | wave | n. | 波
+w002070.5 | wave | v. | 揮舞, 搖動
+w002072.1 | Jewish | adj. | 猶太人的, 猶太教的
+w002074.1 | alcohol | n. | 酒, 含酒精飲料
+w002074.2 | alcohol | n. | 酒精, 乙醇
+w002075.1 | assembly | n. | 集會, 會議
+w002075.2 | assembly | n. | 議會, 立法機構
+w002075.3 | assembly | n. | 裝配, 組裝
+w002076.1 | breakfast | n. | 早餐, 早飯
+w002077.1 | bright | adj. | 明亮的, 光亮的
+w002077.2 | bright | adj. | 鮮豔的
+w002077.3 | bright | adj. | 聰明的, 機靈的
+w002078.1 | capable | adj. | 有能力的, 能夠的
+w002078.2 | capable | adj. | 能幹的, 有才能的
+w002079.1 | combination | n. | 結合, 組合, 聯合
+w002079.2 | combination | n. | 密碼組合
+w002080.1 | customer | n. | 顧客, 客戶
+w002081.1 | cutting | adj. | 尖刻的, 傷人的
+w002081.2 | cutting | n. | 剪報
+w002081.3 | cutting | n. | 插條, 扦插枝
+w002082.1 | desire | n. | 渴望, 慾望, 願望
+w002082.2 | desire | v. | 渴望, 想要
+w002083.1 | draft | n. | 草稿, 草案, 初稿
+w002083.2 | draft | v. | 起草, 草擬
+w002083.3 | draft | n. | 徵兵
+w002083.4 | draft | n. | 選秀
+w002084.1 | drunk | adj. | 喝醉的, 醉酒的
+w002084.2 | drunk | n. | 醉漢, 酒鬼
+w002085.1 | essential | adj. | 必要的, 必不可少的
+w002085.2 | essential | adj. | 本質的, 基本的
+w002085.3 | essential | n. | 必需品, 要素
+w002086.1 | fail | v. | 失敗, 未能
+w002086.2 | fail | v. | 不及格, 考試失利
+w002086.3 | fail | v. | 出故障, 失靈
+w002087.1 | familiar | adj. | 熟悉的, 常見的
+w002087.2 | familiar | adj. | 通曉的, 熟悉的
+w002087.3 | familiar | adj. | 隨便的, 親近的
+w002088.1 | guilty | adj. | 內疚的, 有罪惡感的
+w002088.2 | guilty | adj. | 有罪的, 犯了罪的
+w002090.1 | ID | abbr. | 身份證, 身份證明
+w002090.2 | ID | n. | 本我
+w002091.1 | largely | adv. | 主要地, 大部分, 在很大程度上
+w002092.1 | medium | adj. | 中等的, 中號的
+w002092.2 | medium | n. | 媒介, 手段
+w002092.3 | medium | n. | 靈媒, 通靈者
+w002093.1 | perfectly | adv. | 完全, 十分
+w002093.2 | perfectly | adv. | 完美地, 無瑕地
+w002094.1 | quarter-final | n. | 四分之一決賽
+w002095.1 | recommend | v. | 推薦, 介紹
+w002095.2 | recommend | v. | 建議, 勸告
+w002096.1 | relevant | adj. | 相關的, 有關的, 切題的
+w002097.1 | seek | v. | 尋求, 尋找
+w002097.2 | seek | v. | 試圖, 設法
+w002097.3 | seek | v. | 請求, 徵求
+w002098.1 | solo | adj. | 單獨的, 獨自的
+w002098.2 | solo | n. | 獨奏, 獨唱
+w002098.3 | solo | adv. | 單獨地, 獨自
+w002099.1 | ticket | n. | 票, 入場券, 車票
+w002099.2 | ticket | n. | 罰單
+w002099.3 | ticket | n. | 候選人名單
+w002100.1 | unable | adj. | 不能的, 無法的
+w002101.1 | upset | adj. | 心煩的, 難過的, 不安的
+w002101.2 | upset | v. | 使心煩, 使難過
+w002101.3 | upset | v. | 打亂, 攪亂
+w002101.4 | upset | n. | 爆冷門, 意外失利
+w002102.1 | wing | n. | 翅膀, 翼
+w002102.2 | wing | n. | 機翼
+w002102.3 | wing | n. | 側樓, 廂房
+w002103.1 | bomb | n. | 炸彈
+w002103.2 | bomb | v. | 轟炸, 投彈
+w002103.3 | bomb | v. | 慘敗, 徹底失敗
+w002104.1 | creative | adj. | 有創造力的, 創造性的
+w002104.2 | creative | n. | 創意人員
+w002105.1 | cycle | n. | 迴圈, 週期
+w002105.2 | cycle | v. | 騎腳踏車
+w002105.3 | cycle | n. | 腳踏車
+w002106.1 | don | v. | 穿上, 戴上
+w002106.2 | don | n. | 大學教師, 導師
+w002106.3 | don | n. | 黑幫頭目
+w002107.1 | educational | adj. | 教育的, 有關教育的
+w002107.2 | educational | adj. | 有教育意義的
+w002108.1 | entertainment | n. | 娛樂, 消遣
+w002108.2 | entertainment | n. | 演出, 表演
+w002109.1 | extreme | adj. | 極端的, 極度的
+w002109.2 | extreme | adj. | 偏激的, 過激的
+w002109.3 | extreme | n. | 極端, 極限
+w002110.1 | facility | n. | 設施, 裝置
+w002110.2 | facility | n. | 功能
+w002110.3 | facility | n. | 天賦, 才能
+w002111.1 | goods | n. | 商品, 貨物
+w002111.2 | goods | n. | 財產, 動產
+w002112.1 | hang | v. | 懸掛, 掛
+w002112.2 | hang | v. | 絞死, 吊死
+w002112.3 | hang | v. | 閒逛, 逗留
+w002113.1 | info | n. | 資訊, 資料
+w002114.1 | mainly | adv. | 主要地, 大體上
+w002115.1 | maximum | adj. | 最大的, 最高的
+w002115.2 | maximum | n. | 最大值, 最大限度
+w002116.1 | newspaper | n. | 報紙, 報
+w002116.2 | newspaper | n. | 報社
+w002116.3 | newspaper | n. | 舊報紙
+w002117.1 | offering | n. | 供品, 祭品
+w002117.2 | offering | n. | 產品, 提供物
+w002117.3 | offering | n. | 獻金, 捐獻
+w002118.1 | painting | n. | 畫, 油畫, 繪畫作品
+w002118.2 | painting | n. | 繪畫, 作畫
+w002118.3 | painting | n. | 上漆, 刷油漆
+w002119.1 | power-sharing | n. | 權力分享, 分權
+w002120.1 | republic | n. | 共和國, 共和政體
+w002121.1 | reserve | v. | 預訂, 預約
+w002121.2 | reserve | v. | 保留, 留出
+w002121.3 | reserve | n. | 儲備, 儲備量
+w002121.4 | reserve | n. | 保護區
+w002121.5 | reserve | n. | 替補隊員
+w002122.1 | row | n. | 一排, 一行
+w002122.2 | row | v. | 划船
+w002122.3 | row | n. | 接連, 連續
+w002123.1 | salt | n. | 鹽, 食鹽
+w002123.2 | salt | v. | 加鹽, 用鹽醃
+w002123.3 | salt | n. | 鹽類
+w002124.1 | scared | adj. | 害怕的, 恐懼的
+w002125.1 | snow-white | adj. | 雪白的, 潔白的
+w002126.1 | statistics | n. | 統計資料, 統計資料
+w002126.2 | statistics | n. | 統計學
+w002127.1 | switch | n. | 開關, 電閘
+w002127.2 | switch | v. | 轉換, 改變, 切換
+w002127.3 | switch | v. | 調換, 交換
+w002127.4 | switch | n. | 轉變, 改變
+w002128.1 | territory | n. | 領土, 版圖
+w002128.2 | territory | n. | 領域, 範圍
+w002128.3 | territory | n. | 領地, 地盤
+w002129.1 | threat | n. | 威脅, 恐嚇
+w002129.2 | threat | n. | 威脅, 危險因素
+w002129.3 | threat | n. | 跡象, 徵兆
+w002130.1 | Spain | n. | 西班牙
+w002131.1 | Wednesday | n. | 星期三
+w002132.1 | affect | v. | 影響, 作用於
+w002132.2 | affect | v. | 感動, 打動
+w002132.3 | affect | v. | 侵襲, 使患病
+w002133.1 | armed | adj. | 武裝的, 持有武器的
+w002133.2 | armed | adj. | 有準備的, 裝備好的
+w002134.1 | aside | adv. | 到一邊, 在旁邊
+w002134.2 | aside | adv. | 留出, 儲存
+w002134.3 | aside | n. | 旁白, 題外話
+w002135.1 | assistance | n. | 幫助, 援助, 協助
+w002136.1 | bell | n. | 鍾, 鈴
+w002136.2 | bell | n. | 鈴聲, 門鈴
+w002137.1 | blow | v. | 吹, 刮
+w002137.2 | blow | v. | 吹氣, 吹奏
+w002137.3 | blow | n. | 打擊, 挫折
+w002137.4 | blow | n. | 重擊, 毆打
+w002137.5 | blow | v. | 爆炸, 炸燬
+w002138.1 | bond | n. | 紐帶, 聯絡, 情誼
+w002138.2 | bond | n. | 債券
+w002138.3 | bond | v. | 建立感情, 增進關係
+w002138.4 | bond | v. | 黏合, 粘接
+w002139.1 | boyfriend | n. | 男朋友, 男友
+w002140.1 | careful | adj. | 小心的, 謹慎的
+w002140.2 | careful | adj. | 仔細的, 細緻的
+w002141.1 | controlled | adj. | 受控制的, 受管制的
+w002141.2 | controlled | adj. | 剋制的, 鎮定的
+w002142.1 | corporation | n. | 公司, 企業, 集團
+w002143.1 | cry | v. | 哭, 哭泣
+w002143.2 | cry | v. | 叫喊, 大聲喊
+w002143.3 | cry | n. | 叫喊, 哭聲
+w002143.4 | cry | n. | 呼籲, 呼聲
+w002144.1 | danger | n. | 危險
+w002144.2 | danger | n. | 危險因素, 威脅
+w002145.1 | delivery | n. | 遞送, 交付, 送貨
+w002145.2 | delivery | n. | 分娩
+w002145.3 | delivery | n. | 講話方式, 表達
+w002146.1 | deserve | v. | 應得, 值得
+w002147.1 | dollar | n. | 美元, 元
+w002148.1 | empty | adj. | 空的, 空無一人的
+w002148.2 | empty | v. | 倒空, 使變空
+w002148.3 | empty | adj. | 空洞的, 無意義的
+w002149.1 | gender | n. | 性別
+w002149.2 | gender | n. | 性
+w002150.1 | hang-up | n. | 心理障礙, 顧慮
+w002151.1 | instance | n. | 例子, 例項
+w002151.2 | instance | n. | 情況, 場合
+w002153.1 | kinda | adv. | 有點, 有幾分
+w002154.1 | mile | n. | 英里
+w002154.2 | mile | n. | 很遠的距離, 很多
+w002155.1 | motion | n. | 運動, 移動
+w002155.2 | motion | n. | 動作, 手勢
+w002155.3 | motion | n. | 動議, 提議
+w002155.4 | motion | v. | 示意, 打手勢
+w002156.1 | nick | n. | 刻痕, 缺口
+w002156.2 | nick | v. | 劃破, 刻痕
+w002156.3 | nick | v. | 偷, 順手牽羊
+w002157.1 | pacific | adj. | 太平洋的, 太平洋沿岸的
+w002157.2 | pacific | n. | 太平洋
+w002157.3 | pacific | adj. | 和平的, 愛好和平的
+w002158.1 | prize | n. | 獎, 獎品, 獎金
+w002158.2 | prize | v. | 珍視, 重視
+w002158.3 | prize | adj. | 獲獎的, 一流的
+w002159.1 | reasonable | adj. | 合理的, 有道理的
+w002159.2 | reasonable | adj. | 公道的, 不貴的
+w002159.3 | reasonable | adj. | 還不錯的, 尚可的
+w002160.1 | register | v. | 登記, 註冊
+w002160.2 | register | n. | 登記簿, 名冊
+w002160.3 | register | v. | 顯示, 表現出
+w002160.4 | register | n. | 語域
+w002161.1 | resolution | n. | 決議, 正式決定
+w002161.2 | resolution | n. | 決心, 堅定
+w002161.3 | resolution | n. | 解析度, 清晰度
+w002162.1 | rural | adj. | 農村的, 鄉下的, 田園的
+w002164.1 | saving | n. | 節省, 節約
+w002164.2 | saving | n. | 積蓄, 存款
+w002165.1 | singing | n. | 唱歌, 歌唱
+w002166.1 | typical | adj. | 典型的, 有代表性的
+w002166.2 | typical | adj. | 一貫的, 特有的
+w002167.1 | universe | n. | 宇宙, 天地萬物
+w002167.2 | universe | n. | 領域, 天地
+w002168.1 | warning | n. | 警告, 告誡
+w002168.2 | warning | n. | 預兆, 預先通知
+w002169.1 | Brazil | n. | 巴西
+w002170.1 | admit | v. | 承認, 供認
+w002170.2 | admit | v. | 准許進入, 接納
+w002170.3 | admit | v. | 接收住院
+w002171.1 | attitude | n. | 態度, 看法
+w002171.2 | attitude | n. | 傲慢態度, 叛逆勁
+w002172.1 | branch | n. | 樹枝
+w002172.2 | branch | n. | 分支機構, 分店, 分行
+w002172.3 | branch | n. | 分支, 部門
+w002172.4 | branch | v. | 分岔, 分支
+w002173.1 | dedicated | adj. | 專心致志的, 獻身的
+w002173.2 | dedicated | adj. | 專用的
+w002174.1 | definition | n. | 定義, 釋義
+w002174.2 | definition | n. | 清晰度
+w002175.1 | drawing | n. | 圖畫, 素描
+w002175.2 | drawing | n. | 繪畫, 繪圖
+w002175.3 | drawing | n. | 抽籤, 抽獎
+w002176.1 | favor | n. | 幫忙, 恩惠
+w002176.2 | favor | n. | 贊同, 支援
+w002176.3 | favor | v. | 偏愛, 贊同
+w002176.4 | favor | v. | 偏袒
+w002177.1 | flag | n. | 旗, 旗幟
+w002177.2 | flag | v. | 標記, 標出
+w002177.3 | flag | v. | 減弱, 衰退
+w002178.1 | frame | n. | 框, 框架
+w002178.2 | frame | n. | 骨架, 結構
+w002178.3 | frame | v. | 給…裝框
+w002178.4 | frame | v. | 陷害, 誣陷
+w002179.1 | guest | n. | 客人, 賓客
+w002179.2 | guest | n. | 旅客, 房客
+w002179.3 | guest | n. | 特邀嘉賓
+w002180.1 | ha | int. | 哈, 哈哈
+w002181.1 | heaven | n. | 天堂, 天國
+w002181.2 | heaven | n. | 極樂, 美妙的地方
+w002181.3 | heaven | n. | 天空, 蒼天
+w002182.1 | independence | n. | 獨立, 自主
+w002184.1 | kiss | v. | 吻, 親吻
+w002184.2 | kiss | n. | 吻, 親吻
+w002185.1 | load | n. | 負載, 裝載物
+w002185.2 | load | v. | 裝, 裝載
+w002185.3 | load | n. | 大量, 許多
+w002185.4 | load | v. | 載入, 載入
+w002186.1 | plot | n. | 情節
+w002186.2 | plot | n. | 陰謀, 密謀
+w002186.3 | plot | v. | 密謀, 策劃
+w002186.4 | plot | n. | 小塊土地
+w002187.1 | possibility | n. | 可能, 可能性
+w002187.2 | possibility | n. | 可選的辦法, 機會
+w002188.1 | random | adj. | 隨機的, 任意的
+w002188.2 | random | adj. | 奇怪的, 莫名其妙的
+w002189.1 | recovery | n. | 康復, 痊癒
+w002189.2 | recovery | n. | 復甦, 恢復
+w002189.3 | recovery | n. | 找回, 收回
+w002190.1 | rent | n. | 租金, 房租
+w002190.2 | rent | v. | 租用, 租借
+w002190.3 | rent | v. | 出租
+w002191.1 | replace | v. | 替換, 代替
+w002191.2 | replace | v. | 更換, 換新
+w002191.3 | replace | v. | 放回原處
+w002192.1 | represent | v. | 代表, 代理
+w002192.2 | represent | v. | 象徵, 表示
+w002192.3 | represent | v. | 描繪, 描述
+w002193.1 | senator | n. | 參議員
+w002194.1 | sentence | n. | 句子
+w002194.2 | sentence | n. | 判決, 刑罰
+w002194.3 | sentence | v. | 判決, 判刑
+w002198.1 | academic | adj. | 學術的, 學業的
+w002198.2 | academic | n. | 學者, 大學教師
+w002198.3 | academic | adj. | 純理論的, 不切實際的
+w002199.1 | academy | n. | 學院, 專科院校
+w002199.2 | academy | n. | 研究院, 學會
+w002200.1 | accurate | adj. | 準確的, 精確的
+w002201.1 | achieve | v. | 實現, 達到, 完成
+w002202.1 | afford | v. | 買得起, 負擔得起
+w002202.2 | afford | v. | 承擔得起
+w002202.3 | afford | v. | 提供, 給予
+w002203.1 | assume | v. | 假定, 設想
+w002203.2 | assume | v. | 承擔, 擔任
+w002203.3 | assume | v. | 呈現, 具有
+w002204.1 | bottle | n. | 瓶子
+w002204.2 | bottle | v. | 把…裝瓶
+w002205.1 | bunch | n. | 束, 串
+w002205.2 | bunch | n. | 一群, 一夥
+w002205.3 | bunch | n. | 大量, 許多
+w002206.1 | category | n. | 類別, 種類, 範疇
+w002207.1 | chat | v. | 聊天, 閒談
+w002207.2 | chat | n. | 聊天, 閒談
+w002207.3 | chat | v. | 網上聊天
+w002208.1 | cheese | n. | 乳酪, 乾酪
+w002209.1 | chemical | n. | 化學品, 化學物質
+w002209.2 | chemical | adj. | 化學的
+w002211.1 | competitive | adj. | 競爭的, 競爭激烈的
+w002211.2 | competitive | adj. | 好勝的, 爭強的
+w002211.3 | competitive | adj. | 有競爭力的
+w002212.1 | detail | n. | 細節, 詳情
+w002212.2 | detail | v. | 詳細列舉, 詳述
+w002212.3 | detail | n. | 小分隊
+w002213.1 | diet | n. | 飲食, 日常食物
+w002213.2 | diet | n. | 節食, 規定飲食
+w002213.3 | diet | v. | 節食
+w002214.1 | favourite | adj. | 最喜歡的, 最喜愛的
+w002214.2 | favourite | n. | 最喜歡的人或物
+w002214.3 | favourite | n. | 最有希望獲勝者, 熱門
+w002215.1 | fruit | n. | 水果, 果實
+w002215.2 | fruit | n. | 成果, 結果
+w002216.1 | index | n. | 索引
+w002216.2 | index | n. | 指數, 指標
+w002216.3 | index | v. | 編索引
+w002217.1 | item | n. | 專案, 物品, 一件
+w002217.2 | item | n. | 一條, 一則
+w002218.1 | lane | n. | 小路, 小巷
+w002218.2 | lane | n. | 車道
+w002218.3 | lane | n. | 泳道, 跑道
+w002219.1 | left-wing | adj. | 左翼的, 左派的
+w002220.1 | mess | n. | 凌亂, 髒亂
+w002220.2 | mess | n. | 困境, 混亂局面
+w002220.3 | mess | v. | 弄亂, 弄髒
+w002221.1 | navy | n. | 海軍
+w002221.2 | navy | adj. | 藏青色的, 深藍色的
+w002222.1 | normally | adv. | 通常, 一般
+w002222.2 | normally | adv. | 正常地
+w002223.1 | opposition | n. | 反對, 反抗
+w002223.2 | opposition | n. | 反對黨
+w002223.3 | opposition | n. | 對手, 競爭者
+w002224.1 | parent | n. | 父親或母親, 雙親之一
+w002224.2 | parent | adj. | 母公司的
+w002225.1 | permanent | adj. | 永久的, 永恆的, 長期的
+w002226.1 | personally | adv. | 就個人而言
+w002226.2 | personally | adv. | 親自, 本人
+w002226.3 | personally | adv. | 針對個人地
+w002227.1 | pleasure | n. | 愉快, 快樂, 滿足
+w002227.2 | pleasure | n. | 樂事, 樂趣
+w002228.1 | prefer | v. | 更喜歡, 寧願
+w002229.1 | programme | n. | 節目
+w002229.2 | programme | n. | 計劃, 方案, 專案
+w002229.3 | programme | n. | 課程, 培養計劃
+w002230.1 | representative | n. | 代表, 代理人
+w002230.2 | representative | adj. | 有代表性的, 典型的
+w002230.3 | representative | n. | 眾議員
+w002231.1 | scheme | n. | 計劃, 方案
+w002231.2 | scheme | n. | 陰謀, 詭計
+w002231.3 | scheme | v. | 密謀, 策劃
+w002232.1 | shift | n. | 輪班, 班次
+w002232.2 | shift | n. | 轉變, 改變
+w002232.3 | shift | v. | 移動, 轉移
+w002232.4 | shift | v. | 改變, 轉變
+w002233.1 | storage | n. | 儲存, 存放
+w002233.2 | storage | n. | 儲存, 儲存量
+w002234.1 | tank | n. | 箱, 罐, 槽
+w002234.2 | tank | n. | 坦克
+w002234.3 | tank | n. | 水族箱
+w002235.1 | tend | v. | 往往, 傾向於
+w002235.2 | tend | v. | 照顧, 照料
+w002236.1 | tight | adj. | 緊的, 緊身的
+w002236.2 | tight | adj. | 牢固的, 緊固的
+w002236.3 | tight | adj. | 緊張的, 拮据的
+w002236.4 | tight | adv. | 緊緊地, 牢牢地
+w002237.1 | transportation | n. | 運輸, 交通
+w002237.2 | transportation | n. | 交通工具
+w002238.1 | ultimately | adv. | 最終, 終歸
+w002238.2 | ultimately | adv. | 根本上
+w002239.1 | unlike | prep. | 不像, 與…不同
+w002239.2 | unlike | prep. | 不符合…的特點
+w002240.1 | weekly | adj. | 每週的, 一週一次的
+w002240.2 | weekly | adv. | 每週, 一週一次
+w002240.3 | weekly | n. | 週刊, 週報
+w002241.1 | X-ray | n. | X光, X射線
+w002241.2 | X-ray | n. | X光片
+w002241.3 | X-ray | v. | 用X光檢查
+w002242.1 | yard | n. | 院子, 庭院
+w002242.2 | yard | n. | 碼
+w002242.3 | yard | n. | 場地, 工場
+w002244.1 | anybody | pron. | 任何人
+w002244.2 | anybody | pron. | 重要人物
+w002245.1 | basketball | n. | 籃球, 籃球運動
+w002246.1 | button | n. | 紐扣, 釦子
+w002246.2 | button | n. | 按鈕, 按鍵
+w002246.3 | button | v. | 扣上, 扣紐扣
+w002247.1 | combat | n. | 戰鬥, 搏鬥
+w002247.2 | combat | v. | 與…鬥爭, 打擊, 防止
+w002248.1 | constitution | n. | 憲法, 章程
+w002248.2 | constitution | n. | 體質, 體格
+w002248.3 | constitution | n. | 構成, 組成
+w002249.1 | consumer | n. | 消費者, 使用者
+w002250.1 | counter | n. | 櫃檯, 檯面
+w002250.2 | counter | v. | 反駁, 抵制
+w002250.3 | counter | n. | 計數器
+w002250.4 | counter | n. | 籌碼, 棋子
+w002250.5 | counter | adv. | 相反地, 背道而馳地
+w002251.1 | creation | n. | 創造, 建立
+w002251.2 | creation | n. | 創作, 作品
+w002251.3 | creation | n. | 天地萬物, 宇宙
+w002252.1 | crown | n. | 王冠, 皇冠
+w002252.2 | crown | n. | 王位, 王權
+w002252.3 | crown | v. | 為…加冕
+w002252.4 | crown | n. | 牙冠
+w002254.1 | depression | n. | 抑鬱, 抑鬱症, 沮喪
+w002254.2 | depression | n. | 經濟蕭條, 不景氣
+w002254.3 | depression | n. | 窪地, 凹陷
+w002255.1 | describe | v. | 描述, 形容, 描繪
+w002257.1 | employment | n. | 就業, 職業, 工作
+w002257.2 | employment | n. | 僱用
+w002257.3 | employment | n. | 使用, 利用
+w002258.1 | exclusive | adj. | 獨有的, 專用的
+w002258.2 | exclusive | adj. | 高階的, 高檔的
+w002258.3 | exclusive | n. | 獨家新聞
+w002258.4 | exclusive | adj. | 排他的, 不相容的
+w002259.1 | excuse | n. | 藉口, 理由
+w002259.2 | excuse | v. | 原諒, 寬恕
+w002259.3 | excuse | v. | 免除, 准許離開
+w002260.1 | expert | n. | 專家, 能手, 行家
+w002260.2 | expert | adj. | 熟練的, 內行的, 專家的
+w002261.1 | frequently | adv. | 經常, 頻繁地, 屢次
+w002262.1 | golf | n. | 高爾夫球, 高爾夫運動
+w002262.2 | golf | v. | 打高爾夫球
+w002263.1 | grace | n. | 優雅, 優美, 風度
+w002263.2 | grace | n. | 恩典, 恩惠, 天恩
+w002263.3 | grace | n. | 寬限期, 寬限
+w002263.4 | grace | v. | 使增色, 為…增光
+w002264.1 | hopefully | adv. | 但願, 希望, 有希望地
+w002265.1 | identify | v. | 識別, 認出, 確定
+w002265.2 | identify | v. | 認同, 同情
+w002266.1 | importance | n. | 重要性, 重要, 重大
+w002268.1 | latter | n. | 後者
+w002268.2 | latter | adj. | 後者的, 後期的, 後半的
+w002269.1 | manufacturing | n. | 製造業, 製造, 生產
+w002270.1 | mining | n. | 採礦, 礦業
+w002271.1 | object | n. | 物體, 東西
+w002271.2 | object | n. | 目標, 目的, 物件
+w002271.3 | object | v. | 反對, 不贊成
+w002271.4 | object | n. | 賓語
+w002272.1 | pattern | n. | 模式, 規律, 方式
+w002272.2 | pattern | n. | 圖案, 花樣
+w002272.3 | pattern | n. | 樣板, 紙樣
+w002273.1 | personnel | n. | 人員, 員工, 職員
+w002273.2 | personnel | n. | 人事部門
+w002274.1 | perspective | n. | 觀點, 視角, 看法
+w002274.2 | perspective | n. | 正確判斷, 全域性觀
+w002274.3 | perspective | n. | 透視法
+w002275.1 | pregnant | adj. | 懷孕的, 妊娠的
+w002275.2 | pregnant | adj. | 意味深長的, 富有含義的
+w002276.1 | premier | n. | 總理, 首相
+w002276.2 | premier | adj. | 首要的, 最好的, 一流的
+w002277.1 | promote | v. | 促進, 推動, 提倡
+w002277.2 | promote | v. | 推銷, 宣傳
+w002277.3 | promote | v. | 提升, 晉升
+w002278.1 | revolution | n. | 革命
+w002278.2 | revolution | n. | 鉅變, 變革
+w002278.3 | revolution | n. | 旋轉, 轉數
+w002279.1 | severe | adj. | 嚴重的, 劇烈的
+w002279.2 | severe | adj. | 嚴厲的, 嚴格的
+w002279.3 | severe | adj. | 樸素的, 簡樸的
+w002280.1 | suppose | v. | 猜想, 認為, 料想
+w002280.2 | suppose | v. | 假定, 假設
+w002281.1 | think-tank | n. | 智庫, 智囊團
+w002282.1 | tool | n. | 工具, 器具
+w002282.2 | tool | n. | 手段, 方法
+w002283.1 | tournament | n. | 錦標賽, 聯賽, 比賽
+w002284.1 | turkey | n. | 火雞, 火雞肉
+w002284.2 | turkey | n. | 失敗之作, 蹩腳貨
+w002286.1 | victim | n. | 受害者, 犧牲品, 遇難者
+w002287.1 | Pakistan | n. | 巴基斯坦
+w002289.1 | arrest | v. | 逮捕, 拘捕
+w002289.2 | arrest | n. | 逮捕, 拘留
+w002289.3 | arrest | v. | 阻止, 抑制
+w002290.1 | attend | v. | 參加, 出席
+w002290.2 | attend | v. | 上學, 就讀
+w002290.3 | attend | v. | 照料, 處理
+w002291.1 | ban | v. | 禁止, 取締
+w002291.2 | ban | n. | 禁令, 禁止
+w002292.1 | brilliant | adj. | 才華橫溢的, 傑出的, 聰明的
+w002292.2 | brilliant | adj. | 極好的, 棒極了
+w002292.3 | brilliant | adj. | 明亮的, 燦爛的, 鮮豔的
+w002293.1 | carbon | n. | 碳
+w002293.2 | carbon | n. | 碳排放, 二氧化碳
+w002294.1 | catholic | adj. | 天主教的
+w002294.2 | catholic | n. | 天主教徒
+w002294.3 | catholic | adj. | 廣泛的, 兼收幷蓄的
+w002295.1 | circle | n. | 圓, 圓圈, 環形
+w002295.2 | circle | n. | 圈子, 界
+w002295.3 | circle | v. | 環繞, 盤旋, 圈出
+w002296.1 | concert | n. | 音樂會, 演奏會
+w002296.2 | concert | n. | 一致, 協力
+w002297.1 | crash | n. | 撞車, 墜毀, 事故
+w002297.2 | crash | v. | 撞擊, 碰撞, 墜毀
+w002297.3 | crash | v. | 宕機, 崩潰
+w002297.4 | crash | n. | 暴跌, 崩盤
+w002298.1 | deliver | v. | 遞送, 交付, 投遞
+w002298.2 | deliver | v. | 發表, 講
+w002298.3 | deliver | v. | 兌現, 履行
+w002299.1 | depth | n. | 深度, 深
+w002299.2 | depth | n. | 深刻, 深入, 詳盡
+w002299.3 | depth | n. | 深處
+w002300.1 | deputy | n. | 副手, 代理人, 副職
+w002300.2 | deputy | adj. | 副的, 代理的
+w002301.1 | dirty | adj. | 髒的, 骯髒的
+w002301.2 | dirty | adj. | 下流的, 色情的
+w002301.3 | dirty | adj. | 卑鄙的, 不正當的
+w002301.4 | dirty | v. | 弄髒
+w002302.1 | electronic | adj. | 電子的, 電子裝置的
+w002303.1 | error | n. | 錯誤, 差錯, 過失
+w002304.1 | existence | n. | 存在, 實在
+w002304.2 | existence | n. | 生活, 生存方式
+w002305.1 | expression | n. | 表達, 表示
+w002305.2 | expression | n. | 表情, 神色
+w002305.3 | expression | n. | 措辭, 詞語, 說法
+w002306.1 | factory | n. | 工廠, 製造廠
+w002307.1 | interior | n. | 內部, 裡面, 室內
+w002307.2 | interior | adj. | 內部的, 室內的
+w002307.3 | interior | n. | 內地, 腹地
+w002308.1 | joy | n. | 快樂, 喜悅, 歡欣
+w002308.2 | joy | n. | 樂事, 樂趣
+w002309.1 | Jr | abbr. | 小, 二世
+w002310.1 | laid-back | adj. | 悠閒的, 隨和的, 放鬆的
+w002311.1 | legislation | n. | 法律, 法規
+w002311.2 | legislation | n. | 立法, 制定法律
+w002312.1 | maintenance | n. | 維護, 保養, 維修
+w002312.2 | maintenance | n. | 維持, 保持
+w002312.3 | maintenance | n. | 贍養費, 撫養費
+w002313.1 | manner | n. | 方式, 方法
+w002313.2 | manner | n. | 態度, 舉止
+w002313.3 | manner | n. | 禮貌, 禮節
+w002314.1 | mate | n. | 朋友, 夥伴, 哥們
+w002314.2 | mate | n. | 伴侶, 配偶
+w002314.3 | mate | v. | 交配
+w002315.1 | matt | adj. | 無光澤的, 亞光的
+w002316.1 | nearby | adj. | 附近的, 鄰近的
+w002316.2 | nearby | adv. | 在附近
+w002317.1 | noise | n. | 噪音, 聲音, 喧鬧聲
+w002317.2 | noise | n. | 干擾, 雜波
+w002318.1 | origin | n. | 起源, 來源, 由來
+w002318.2 | origin | n. | 出身, 血統
+w002319.1 | panel | n. | 專家小組, 評審團
+w002319.2 | panel | n. | 面板, 嵌板, 鑲板
+w002319.3 | panel | n. | 控制板, 儀表盤
+w002320.1 | personality | n. | 個性, 性格, 人格
+w002320.2 | personality | n. | 名人, 知名人士
+w002321.1 | plate | n. | 盤子, 碟子
+w002321.2 | plate | n. | 板, 金屬板
+w002321.3 | plate | n. | 車牌, 牌照
+w002322.1 | prepare | v. | 準備, 預備
+w002322.2 | prepare | v. | 做飯, 烹製
+w002323.1 | relief | n. | 寬慰, 輕鬆, 解脫
+w002323.2 | relief | n. | 減輕, 緩解
+w002323.3 | relief | n. | 救濟, 救援物資
+w002324.1 | resistance | n. | 反抗, 抵制, 抵抗
+w002324.2 | resistance | n. | 抵抗力
+w002324.3 | resistance | n. | 電阻, 阻力
+w002325.1 | retail | n. | 零售
+w002325.2 | retail | v. | 零售, 以…價格出售
+w002325.3 | retail | adj. | 零售的
+w002326.1 | rice | n. | 米飯, 大米, 稻
+w002327.1 | roof | n. | 屋頂, 房頂, 車頂
+w002327.2 | roof | v. | 給…蓋屋頂
+w002328.1 | shame | n. | 遺憾, 可惜
+w002328.2 | shame | n. | 羞愧, 羞恥
+w002328.3 | shame | v. | 使羞愧, 使蒙羞
+w002329.1 | somewhat | adv. | 有點, 稍微, 有幾分
+w002330.1 | surely | adv. | 肯定, 無疑, 想必
+w002330.2 | surely | adv. | 穩妥地, 穩步地
+w002331.1 | tip | n. | 小費
+w002331.2 | tip | n. | 提示, 竅門, 建議
+w002331.3 | tip | n. | 尖端, 頂端
+w002331.4 | tip | v. | 傾斜, 傾倒
+w002331.5 | tip | v. | 給小費
+w002332.1 | well-defined | adj. | 明確的, 清楚的, 輪廓分明的
+w002334.1 | Irish | adj. | 愛爾蘭的, 愛爾蘭人的
+w002334.2 | Irish | n. | 愛爾蘭語, 愛爾蘭人
+w002336.1 | Soviet | adj. | 蘇聯的
+w002336.2 | Soviet | n. | 蘇維埃
+w002337.1 | absolute | adj. | 完全的, 絕對的, 十足的
+w002337.2 | absolute | adj. | 絕對的, 無限的
+w002338.1 | advertising | n. | 廣告, 廣告業, 做廣告
+w002339.1 | baseball | n. | 棒球, 棒球運動
+w002340.1 | bathroom | n. | 浴室, 衛生間, 廁所
+w002341.1 | bible | n. | 聖經
+w002341.2 | bible | n. | 權威著作, 寶典
+w002342.1 | cable | n. | 電纜, 纜繩
+w002342.2 | cable | n. | 有線電視
+w002343.1 | calm | adj. | 平靜的, 鎮靜的, 冷靜的
+w002343.2 | calm | v. | 使平靜, 使鎮定
+w002343.3 | calm | adj. | 風平浪靜的, 無風的
+w002343.4 | calm | n. | 平靜, 寧靜
+w002344.1 | championship | n. | 錦標賽, 冠軍賽
+w002344.2 | championship | n. | 冠軍稱號
+w002345.1 | client | n. | 客戶, 委託人, 顧客
+w002345.2 | client | n. | 客戶端
+w002346.1 | constant | adj. | 不斷的, 連續的, 經常的
+w002346.2 | constant | adj. | 恆定的, 不變的
+w002346.3 | constant | n. | 常數, 常量
+w002347.1 | dumb | adj. | 愚蠢的, 笨的
+w002347.2 | dumb | adj. | 啞的, 不能說話的
+w002347.3 | dumb | adj. | 說不出話的, 沉默的
+w002348.1 | empire | n. | 帝國
+w002348.2 | empire | n. | 大企業, 企業集團
+w002349.1 | exciting | adj. | 令人興奮的, 激動人心的, 刺激的
+w002350.1 | expansion | n. | 擴張, 擴大, 發展
+w002350.2 | expansion | n. | 膨脹
+w002351.1 | heavily | adv. | 大量地, 嚴重地, 非常
+w002351.2 | heavily | adv. | 沉重地, 笨重地
+w002352.1 | hide | v. | 隱藏, 躲藏
+w002352.2 | hide | v. | 隱瞞, 掩蓋
+w002352.3 | hide | n. | 獸皮, 皮革
+w002353.1 | incident | n. | 事件, 事變, 衝突
+w002354.1 | latter-day | adj. | 現代的, 當代的, 今日的
+w002355.1 | manage | v. | 設法做到, 勉力完成
+w002355.2 | manage | v. | 管理, 經營
+w002355.3 | manage | v. | 應付, 對付
+w002358.1 | print | v. | 列印, 印刷
+w002358.2 | print | v. | 出版, 刊登
+w002358.3 | print | n. | 印刷字型, 印刷品
+w002358.4 | print | n. | 印記, 指紋
+w002358.5 | print | v. | 用印刷體寫
+w002359.1 | quit | v. | 辭職, 離開
+w002359.2 | quit | v. | 停止, 戒除
+w002359.3 | quit | v. | 退出, 關閉
+w002360.1 | reporting | n. | 報道, 新聞報道
+w002361.1 | sight | n. | 視力, 視覺
+w002361.2 | sight | n. | 景象, 情景
+w002361.3 | sight | n. | 景點, 名勝
+w002362.1 | significantly | adv. | 顯著地, 明顯地, 大大地
+w002362.2 | significantly | adv. | 意味深長地
+w002363.1 | sing | v. | 唱, 唱歌
+w002363.2 | sing | v. | 鳴, 啼
+w002364.1 | weapon | n. | 武器, 兵器
+w002364.2 | weapon | n. | 手段, 武器
+w002365.1 | wet | adj. | 溼的, 潮溼的
+w002365.2 | wet | adj. | 多雨的, 下雨的
+w002365.3 | wet | adj. | 未乾的
+w002365.4 | wet | v. | 弄溼, 浸溼
+w002366.1 | widely | adv. | 廣泛地, 普遍地
+w002366.2 | widely | adv. | 很大程度上, 差別大地
+w002367.1 | worldwide | adj. | 全世界的, 世界範圍的
+w002367.2 | worldwide | adv. | 在全世界
+w002369.1 | PC | abbr. | 個人電腦, 個人計算機
+w002369.2 | PC | abbr. | 政治正確的
+w002369.3 | PC | abbr. | 警員
+w002370.1 | anniversary | n. | 週年紀念日, 週年
+w002371.1 | attractive | adj. | 有吸引力的, 迷人的, 漂亮的
+w002371.2 | attractive | adj. | 誘人的, 有利的
+w002372.1 | bike | n. | 腳踏車, 摩托車
+w002372.2 | bike | v. | 騎腳踏車
+w002373.1 | broad | adj. | 寬的, 寬闊的
+w002373.2 | broad | adj. | 廣泛的, 廣大的
+w002373.3 | broad | adj. | 大致的, 概括的
+w002374.1 | burn | v. | 燃燒, 燒
+w002374.2 | burn | v. | 燒傷, 燙傷, 曬傷
+w002374.3 | burn | n. | 燒傷, 燙傷
+w002374.4 | burn | v. | 燒錄
+w002375.1 | cake | n. | 蛋糕, 糕點
+w002375.2 | cake | n. | 餅狀物, 塊
+w002375.3 | cake | v. | 結塊, 覆蓋
+w002376.1 | closely | adv. | 密切地, 緊密地
+w002376.2 | closely | adv. | 仔細地, 嚴密地
+w002377.1 | constantly | adv. | 不斷地, 經常地, 總是
+w002378.1 | contest | n. | 比賽, 競賽
+w002378.2 | contest | n. | 爭奪, 競爭
+w002378.3 | contest | v. | 爭奪, 競爭
+w002378.4 | contest | v. | 對…提出質疑, 反駁
+w002379.1 | drawn | adj. | 憔悴的, 疲憊的
+w002379.2 | drawn | adj. | 拉上的
+w002381.1 | haha | int. | 哈哈
+w002382.1 | hardly | adv. | 幾乎不, 幾乎沒有
+w002382.2 | hardly | adv. | 一…就
+w002382.3 | hardly | adv. | 絕不, 並不
+w002383.1 | hat | n. | 帽子
+w002384.1 | height | n. | 高度, 身高
+w002384.2 | height | n. | 高處, 高地
+w002384.3 | height | n. | 頂點, 鼎盛時期
+w002385.1 | hidden | adj. | 隱藏的, 隱秘的, 秘密的
+w002387.1 | loud | adj. | 大聲的, 響亮的
+w002387.2 | loud | adv. | 大聲地
+w002387.3 | loud | adj. | 花哨的, 豔麗的
+w002388.1 | marine | adj. | 海洋的, 海生的
+w002388.2 | marine | adj. | 海運的, 航海的
+w002388.3 | marine | n. | 海軍陸戰隊士兵
+w002389.1 | motor | n. | 發動機, 馬達
+w002389.2 | motor | adj. | 機動車的, 汽車的
+w002389.3 | motor | adj. | 運動神經的
+w002390.1 | officially | adv. | 正式地, 官方地
+w002390.2 | officially | adv. | 據官方說法
+w002391.1 | peak | n. | 頂峰, 高峰, 最高點
+w002391.2 | peak | n. | 山峰, 山頂
+w002391.3 | peak | v. | 達到高峰
+w002391.4 | peak | adj. | 高峰的, 最高的
+w002392.1 | portion | n. | 部分, 一份
+w002392.2 | portion | n. | 一份, 一客
+w002393.1 | princess | n. | 公主, 王妃
+w002394.1 | protein | n. | 蛋白質
+w002395.1 | raw | adj. | 生的, 未煮的
+w002395.2 | raw | adj. | 未加工的, 原始的
+w002395.3 | raw | adj. | 不加掩飾的, 強烈的
+w002396.1 | reform | n. | 改革, 改良
+w002396.2 | reform | v. | 改革, 改進
+w002396.3 | reform | v. | 改過自新
+w002397.1 | respond | v. | 回應, 回答, 答覆
+w002397.2 | respond | v. | 作出反應
+w002397.3 | respond | v. | 有效, 好轉
+w002398.1 | retirement | n. | 退休, 退職
+w002399.1 | sample | n. | 樣品, 樣本, 試用品
+w002399.2 | sample | v. | 品嚐, 嘗試
+w002399.3 | sample | n. | 取樣, 取樣
+w002400.1 | secondary | adj. | 次要的, 第二位的
+w002400.2 | secondary | adj. | 中等的, 中學的
+w002400.3 | secondary | adj. | 繼發的, 間接的
+w002401.1 | solar | adj. | 太陽的, 太陽能的
+w002402.1 | somehow | adv. | 以某種方式, 設法
+w002402.2 | somehow | adv. | 不知怎麼地, 不知為什麼
+w002403.1 | suffering | n. | 痛苦, 苦難, 折磨
+w002405.1 | tip-off | n. | 密報, 告密, 內部訊息
+w002405.2 | tip-off | n. | 跳球, 開球
+w002406.1 | ultimate | adj. | 最終的, 最後的
+w002406.2 | ultimate | adj. | 極致的, 最好的
+w002406.3 | ultimate | adj. | 根本的, 基本的
+w002407.1 | unknown | adj. | 未知的, 不知道的
+w002407.2 | unknown | adj. | 不出名的, 無名的
+w002407.3 | unknown | n. | 未知事物, 未知數
+w002412.1 | attached | adj. | 附加的, 附上的
+w002412.2 | attached | adj. | 依戀的, 喜愛的
+w002413.1 | automatically | adv. | 自動地
+w002413.2 | automatically | adv. | 不假思索地, 無意識地
+w002414.1 | battery | n. | 電池
+w002414.2 | battery | n. | 一系列, 一組
+w002414.3 | battery | n. | 毆打罪
+w002415.1 | blind | adj. | 瞎的, 失明的
+w002415.2 | blind | adj. | 盲目的, 視而不見的
+w002415.3 | blind | n. | 百葉窗, 窗簾
+w002415.4 | blind | v. | 使失明, 使看不見
+w002416.1 | breath | n. | 呼吸, 氣息
+w002416.2 | breath | n. | 一口氣, 一次呼吸
+w002417.1 | brief | adj. | 短暫的, 簡短的, 簡潔的
+w002417.2 | brief | v. | 向…簡要介紹
+w002417.3 | brief | n. | 任務, 指示
+w002418.1 | chest | n. | 胸部, 胸膛
+w002418.2 | chest | n. | 箱子, 櫃子
+w002419.1 | conduct | v. | 進行, 實施, 組織
+w002419.2 | conduct | n. | 行為, 舉止
+w002419.3 | conduct | v. | 指揮
+w002419.4 | conduct | v. | 傳導
+w002420.1 | cross-border | adj. | 跨境的, 跨國的
+w002421.1 | debut | n. | 首次亮相, 初次登臺
+w002421.2 | debut | v. | 首次推出, 首次亮相
+w002422.1 | decade | n. | 十年, 十年期
+w002423.1 | destroy | v. | 破壞, 摧毀, 毀滅
+w002423.2 | destroy | v. | 毀掉, 使破滅
+w002424.1 | drawn-out | adj. | 拖延的, 冗長的
+w002426.1 | engaged | adj. | 訂婚的
+w002426.2 | engaged | adj. | 忙於, 從事
+w002426.3 | engaged | adj. | 佔線的, 使用中的
+w002427.1 | external | adj. | 外部的, 外面的
+w002427.2 | external | adj. | 對外的, 外國的
+w002428.1 | fantasy | n. | 幻想, 空想
+w002428.2 | fantasy | n. | 奇幻作品, 奇幻小說
+w002429.1 | ft | abbr. | 英尺
+w002430.1 | grab | v. | 抓住, 攫取, 搶
+w002430.2 | grab | v. | 匆忙地吃, 抓緊時間做
+w002430.3 | grab | n. | 抓, 攫取
+w002431.1 | heavy-duty | adj. | 耐用的, 結實的, 重型的
+w002432.1 | immediate | adj. | 立即的, 即刻的
+w002432.2 | immediate | adj. | 目前的, 當前的
+w002432.3 | immediate | adj. | 最接近的, 直接的
+w002433.1 | introduction | n. | 介紹, 引見
+w002433.2 | introduction | n. | 引進, 採用
+w002433.3 | introduction | n. | 導言, 引言, 入門
+w002434.1 | license | n. | 執照, 許可證
+w002434.2 | license | v. | 許可, 發許可證給
+w002434.3 | license | n. | 放縱, 自由
+w002435.1 | mass-produce | v. | 大量生產, 批次生產
+w002436.1 | medium-term | adj. | 中期的
+w002437.1 | paint | n. | 油漆, 塗料, 顏料
+w002437.2 | paint | v. | 油漆, 粉刷
+w002437.3 | paint | v. | 畫, 繪畫
+w002437.4 | paint | v. | 描繪, 描述
+w002438.1 | pilot | n. | 飛行員, 機長
+w002438.2 | pilot | adj. | 試點的, 試驗性的
+w002438.3 | pilot | v. | 駕駛, 引航
+w002438.4 | pilot | v. | 試行, 試用
+w002439.1 | pink | adj. | 粉紅色的
+w002439.2 | pink | n. | 粉紅色
+w002440.1 | presidential | adj. | 總統的, 總統職位的
+w002441.1 | principal | adj. | 主要的, 首要的
+w002441.2 | principal | n. | 校長
+w002441.3 | principal | n. | 本金, 資本
+w002442.1 | recognize | v. | 認出, 識別
+w002442.2 | recognize | v. | 承認, 認可
+w002442.3 | recognize | v. | 表彰, 賞識
+w002443.1 | registered | adj. | 註冊的, 登記的
+w002443.2 | registered | adj. | 掛號的
+w002444.1 | regularly | adv. | 定期地, 經常地
+w002444.2 | regularly | adv. | 有規律地, 均勻地
+w002445.1 | shipping | n. | 運輸, 運送, 運費
+w002445.2 | shipping | n. | 船舶, 航運
+w002446.1 | singer | n. | 歌手, 歌唱家
+w002447.1 | smoking | n. | 吸菸, 抽菸
+w002447.2 | smoking | adj. | 冒煙的
+w002448.1 | steam | n. | 蒸汽, 水蒸氣
+w002448.2 | steam | v. | 蒸
+w002448.3 | steam | v. | 冒熱氣
+w002448.4 | steam | n. | 精力, 勁頭
+w002449.1 | survive | v. | 倖存, 存活
+w002449.2 | survive | v. | 挺過, 渡過
+w002449.3 | survive | v. | 比…活得長
+w002450.1 | tall | adj. | 高的, 高大的
+w002450.2 | tall | adj. | 有…高
+w002451.1 | team-mate | n. | 隊友
+w002452.1 | theatre | n. | 劇院, 戲院
+w002452.2 | theatre | n. | 戲劇, 戲劇工作
+w002452.3 | theatre | n. | 手術室
+w002453.1 | therapy | n. | 治療, 療法
+w002453.2 | therapy | n. | 心理治療
+w002454.1 | witness | n. | 目擊者, 見證人
+w002454.2 | witness | n. | 證人
+w002454.3 | witness | v. | 目擊, 親眼看見
+w002454.4 | witness | v. | 見證, 經歷
+w002455.1 | Jan | abbr. | 一月
+w002456.1 | aim | n. | 目標, 目的
+w002456.2 | aim | v. | 旨在, 力求
+w002456.3 | aim | v. | 瞄準, 針對
+w002456.4 | aim | n. | 瞄準
+w002457.1 | campus | n. | 校園, 校區
+w002458.1 | cap | n. | 帽子, 便帽
+w002458.2 | cap | n. | 蓋子, 罩
+w002458.3 | cap | n. | 上限, 限額
+w002458.4 | cap | v. | 限制, 封頂
+w002459.1 | childhood | n. | 童年, 幼年
+w002460.1 | clinical | adj. | 臨床的
+w002460.2 | clinical | adj. | 冷漠的, 冷靜客觀的
+w002461.1 | comedy | n. | 喜劇, 喜劇片
+w002461.2 | comedy | n. | 滑稽, 幽默
+w002462.1 | commander | n. | 指揮官, 司令
+w002462.2 | commander | n. | 海軍中校
+w002463.1 | comparison | n. | 比較, 對比
+w002463.2 | comparison | n. | 相似, 可比性
+w002465.1 | defeat | v. | 擊敗, 戰勝
+w002465.2 | defeat | n. | 失敗, 戰敗
+w002465.3 | defeat | v. | 挫敗, 使落空
+w002466.1 | defence | n. | 防禦, 保護
+w002466.2 | defence | n. | 國防, 防務
+w002466.3 | defence | n. | 辯護, 被告方
+w002467.1 | democracy | n. | 民主, 民主制度
+w002467.2 | democracy | n. | 民主國家
+w002468.1 | detailed | adj. | 詳細的, 細緻的
+w002469.1 | exact | adj. | 精確的, 確切的, 準確的
+w002469.2 | exact | v. | 強求, 索取
+w002470.1 | exposed | adj. | 暴露的, 無遮蔽的
+w002470.2 | exposed | adj. | 易受攻擊的, 易受傷害的
+w002471.1 | fee | n. | 費用, 酬金, 服務費
+w002471.2 | fee | n. | 入會費, 學費
+w002472.1 | injured | adj. | 受傷的
+w002472.2 | injured | adj. | 委屈的, 受傷害的
+w002473.1 | jordan | n. | 約旦
+w002474.1 | lock | v. | 鎖, 鎖上
+w002474.2 | lock | n. | 鎖
+w002474.3 | lock | n. | 船閘
+w002474.4 | lock | n. | 一綹頭髮
+w002475.1 | long-suffering | adj. | 忍耐的, 長期忍受的, 堅忍的
+w002476.1 | musical | adj. | 音樂的, 有音樂天賦的, 悅耳的
+w002476.2 | musical | n. | 音樂劇, 歌舞片
+w002477.1 | nose | n. | 鼻子, 嗅覺
+w002477.2 | nose | v. | 探查, 打探, 小心前行
+w002478.1 | opposed | adj. | 反對的, 對立的, 截然相反的
+w002479.1 | organized | adj. | 有條理的, 有組織的, 安排有序的
+w002480.1 | plastic | n. | 塑膠, 塑膠製品
+w002480.2 | plastic | adj. | 塑膠的, 可塑的, 虛假的
+w002480.3 | plastic | n. | 信用卡, 銀行卡
+w002481.1 | quote | v. | 引用, 引述, 報價
+w002481.2 | quote | n. | 引文, 引語, 報價
+w002482.1 | recording | n. | 錄音, 錄影, 錄製
+w002483.1 | semi | n. | 半掛貨車, 拖掛卡車
+w002483.2 | semi | n. | 半決賽, 準決賽
+w002483.3 | semi | n. | 半獨立式住宅, 聯排雙拼房
+w002484.1 | suspect | v. | 懷疑, 猜想, 不信任
+w002484.2 | suspect | n. | 嫌疑人, 嫌疑犯
+w002484.3 | suspect | adj. | 可疑的, 不可信的
+w002485.1 | swear | v. | 發誓, 宣誓, 鄭重保證
+w002485.2 | swear | v. | 咒罵, 說髒話, 罵人
+w002486.1 | tie | v. | 系, 捆, 打結
+w002486.2 | tie | n. | 領帶, 領結
+w002486.3 | tie | v. | 打成平局, 持平
+w002486.4 | tie | n. | 平局, 聯絡, 紐帶
+w002488.1 | trend | n. | 趨勢, 動向, 潮流
+w002488.2 | trend | v. | 成為熱門話題, 趨向
+w002489.1 | valuable | adj. | 貴重的, 值錢的, 寶貴的
+w002489.2 | valuable | n. | 貴重物品, 財物
+w002490.1 | wealth | n. | 財富, 財產, 富有
+w002490.2 | wealth | n. | 大量, 豐富, 眾多
+w002491.1 | wise | adj. | 明智的, 有智慧的, 英明的
+w002492.1 | Greek | adj. | 希臘的, 希臘人的, 希臘語的
+w002492.2 | Greek | n. | 希臘人, 希臘語
+w002494.1 | Roman | adj. | 羅馬的, 古羅馬的, 羅馬人的
+w002494.2 | Roman | n. | 羅馬人, 古羅馬人
+w002495.1 | aged | adj. | 年齡為, 時年
+w002495.2 | aged | adj. | 年老的, 年邁的, 高齡的
+w002496.1 | approval | n. | 批准, 認可, 同意
+w002496.2 | approval | n. | 贊成, 讚許, 好感
+w002497.1 | behind-the-scenes | adj. | 幕後的, 秘密的, 不公開的
+w002498.1 | bread | n. | 麵包, 食糧
+w002498.2 | bread | v. | 裹麵包屑, 沾麵包糠
+w002499.1 | burning | adj. | 燃燒的, 著火的, 灼熱的
+w002499.2 | burning | adj. | 強烈的, 迫切的, 緊要的
+w002499.3 | burning | n. | 燃燒, 焚燒, 灼痛
+w002500.1 | contain | v. | 包含, 含有, 容納
+w002500.2 | contain | v. | 控制, 遏制, 剋制
+w002501.1 | convention | n. | 大會, 會議, 集會
+w002501.2 | convention | n. | 慣例, 習俗, 常規
+w002501.3 | convention | n. | 公約, 協定
+w002502.1 | dancing | n. | 跳舞, 舞蹈
+w002503.1 | document | n. | 檔案, 文件, 公文
+w002503.2 | document | v. | 記錄, 記載, 用檔案證明
+w002504.1 | employee | n. | 僱員, 員工, 職員
+w002505.1 | en | n. | 半方, 半身空鉛
+w002506.1 | engineer | n. | 工程師, 技師, 機修工
+w002506.2 | engineer | v. | 設計, 建造, 策劃
+w002507.1 | equivalent | adj. | 相等的, 等同的, 等價的
+w002507.2 | equivalent | n. | 對等物, 等價物, 對應詞
+w002508.1 | fairly | adv. | 相當, 頗, 還算
+w002508.2 | fairly | adv. | 公平地, 公正地
+w002509.1 | ford | n. | 淺灘, 可涉水處
+w002509.2 | ford | v. | 涉水而過, 蹚過
+w002511.1 | gang | n. | 幫派, 團伙, 黑幫
+w002511.2 | gang | n. | 一夥人, 一幫朋友
+w002511.3 | gang | v. | 結夥, 聯合對付
+w002512.1 | graduate | v. | 畢業, 獲得學位
+w002512.2 | graduate | n. | 畢業生, 大學畢業生
+w002512.3 | graduate | adj. | 研究生的, 畢業後的
+w002513.1 | inner | adj. | 內部的, 裡面的, 內心的
+w002514.1 | lift | v. | 舉起, 抬起, 提起
+w002514.2 | lift | n. | 電梯, 升降機
+w002514.3 | lift | v. | 解除, 撤銷, 取消
+w002514.4 | lift | n. | 搭便車, 順風車
+w002515.1 | marked | adj. | 顯著的, 明顯的, 醒目的
+w002515.2 | marked | adj. | 有記號的, 被標記的
+w002516.1 | miller | n. | 磨坊主, 麵粉廠主
+w002517.1 | monthly | adj. | 每月的, 每月一次的, 按月的
+w002517.2 | monthly | adv. | 每月, 按月
+w002517.3 | monthly | n. | 月刊, 月刊雜誌
+w002518.1 | neighborhood | n. | 街區, 社群, 鄰里
+w002518.2 | neighborhood | n. | 附近, 鄰近地區
+w002519.1 | operate | v. | 操作, 操縱, 運轉
+w002519.2 | operate | v. | 經營, 運營, 運作
+w002519.3 | operate | v. | 動手術, 開刀
+w002520.1 | outstanding | adj. | 傑出的, 出色的, 優秀的
+w002520.2 | outstanding | adj. | 未解決的, 未償付的, 未完成的
+w002521.1 | permission | n. | 許可, 允許, 批准
+w002522.1 | porn | n. | 色情作品, 色情內容, 黃片
+w002523.1 | racing | n. | 賽馬, 賽車, 競速比賽
+w002523.2 | racing | adj. | 比賽用的, 競速的
+w002524.1 | reply | v. | 回答, 答覆, 回覆
+w002524.2 | reply | n. | 回答, 答覆, 回覆
+w002525.1 | rid | v. | 使擺脫, 清除, 去除
+w002526.1 | shoulder | n. | 肩膀, 肩部
+w002526.2 | shoulder | v. | 承擔, 擔負, 肩負
+w002526.3 | shoulder | n. | 路肩, 緊急停車帶
+w002527.1 | shower | n. | 淋浴, 淋浴間, 花灑
+w002527.2 | shower | n. | 陣雨, 驟雨
+w002527.3 | shower | v. | 洗淋浴, 沖澡
+w002527.4 | shower | v. | 大量給予, 傾注
+w002529.1 | tower | n. | 塔, 塔樓, 高樓
+w002529.2 | tower | v. | 高聳, 屹立, 遠高於
+w002530.1 | tradition | n. | 傳統, 慣例, 習俗
+w002531.1 | visual | adj. | 視覺的, 視力的, 看得見的
+w002531.2 | visual | n. | 視覺資料, 畫面, 影象
+w002532.1 | wheel | n. | 輪子, 車輪
+w002532.2 | wheel | n. | 方向盤, 舵輪
+w002532.3 | wheel | v. | 推動, 推著走
+w002532.4 | wheel | v. | 轉身, 盤旋
+w002534.1 | BC | abbr. | 公元前, 紀元前
+w002535.1 | DNA | n. | 脫氧核糖核酸, 遺傳物質
+w002536.1 | Korean | adj. | 韓國的, 朝鮮的, 朝鮮語的
+w002536.2 | Korean | n. | 韓國人, 朝鮮人, 韓語
+w002537.1 | Olympic | adj. | 奧運會的, 奧林匹克的
+w002538.1 | appointment | n. | 預約, 約會, 約定
+w002538.2 | appointment | n. | 任命, 委派, 職位
+w002539.1 | barely | adv. | 勉強, 幾乎不, 僅僅
+w002540.1 | bush | n. | 灌木, 灌木叢
+w002540.2 | bush | n. | 荒野, 叢林地帶
+w002541.1 | cabinet | n. | 櫥櫃, 櫃子, 儲藏櫃
+w002541.2 | cabinet | n. | 內閣, 內閣成員
+w002542.1 | celebrate | v. | 慶祝, 慶賀, 過節
+w002542.2 | celebrate | v. | 讚美, 頌揚, 歌頌
+w002543.1 | chocolate | n. | 巧克力, 巧克力糖
+w002543.2 | chocolate | n. | 巧克力飲料, 熱可可
+w002543.3 | chocolate | adj. | 巧克力色的, 深褐色的
+w002544.1 | coal | n. | 煤, 煤炭, 煤塊
+w002545.1 | colour | n. | 顏色, 色彩, 膚色
+w002545.2 | colour | v. | 著色, 上色, 影響
+w002546.1 | contemporary | adj. | 當代的, 現代的, 同時代的
+w002546.2 | contemporary | n. | 同代人, 同輩, 同時代的人
+w002547.1 | criticism | n. | 批評, 指責, 非議
+w002547.2 | criticism | n. | 評論, 評析, 文藝批評
+w002549.1 | effectively | adv. | 有效地, 有力地
+w002549.2 | effectively | adv. | 實際上, 事實上
+w002551.1 | extensive | adj. | 廣泛的, 大量的, 廣闊的
+w002552.1 | formation | n. | 形成, 組成, 構成
+w002552.2 | formation | n. | 隊形, 編隊, 陣型
+w002552.3 | formation | n. | 岩層, 地層
+w002553.1 | gallery | n. | 美術館, 畫廊, 展覽館
+w002553.2 | gallery | n. | 樓座, 廊臺, 旁聽席
+w002554.1 | highway | n. | 公路, 高速公路, 幹道
+w002555.1 | historic | adj. | 歷史性的, 有歷史意義的, 歷史上著名的
+w002556.1 | hunt | v. | 打獵, 獵殺, 捕獵
+w002556.2 | hunt | v. | 搜尋, 尋找, 追捕
+w002556.3 | hunt | n. | 狩獵, 搜尋, 追捕
+w002557.1 | improvement | n. | 改進, 改善, 進步
+w002558.1 | inch | n. | 英寸, 吋
+w002558.2 | inch | n. | 少量, 一點點
+w002558.3 | inch | v. | 緩慢移動, 慢慢挪動
+w002559.1 | initially | adv. | 最初, 起初, 開始時
+w002560.1 | junior | adj. | 初級的, 地位較低的, 資歷淺的
+w002560.2 | junior | adj. | 青少年的, 年少的
+w002560.3 | junior | n. | 下級, 晚輩, 年少者
+w002560.4 | junior | n. | 大三學生, 三年級學生
+w002561.1 | jury | n. | 陪審團, 陪審員
+w002561.2 | jury | n. | 評委會, 評審團
+w002563.1 | monster | n. | 怪物, 怪獸, 妖怪
+w002563.2 | monster | n. | 惡人, 惡魔, 殘忍的人
+w002563.3 | monster | adj. | 巨大的, 龐大的
+w002564.1 | philosophy | n. | 哲學, 哲學體系
+w002564.2 | philosophy | n. | 人生觀, 理念, 處世之道
+w002565.1 | pride | n. | 自豪, 驕傲, 得意
+w002565.2 | pride | n. | 自尊, 自尊心, 傲慢
+w002565.3 | pride | v. | 引以為豪, 自誇
+w002566.1 | repeat | v. | 重複, 重說, 重做
+w002566.2 | repeat | n. | 重複, 重演, 重播節目
+w002567.1 | riding | n. | 騎馬, 騎術, 騎行
+w002568.1 | rough | adj. | 粗糙的, 不平的, 崎嶇的
+w002568.2 | rough | adj. | 粗略的, 大致的, 初步的
+w002568.3 | rough | adj. | 粗暴的, 艱難的, 洶湧的
+w002570.1 | settlement | n. | 協議, 和解, 解決
+w002570.2 | settlement | n. | 定居點, 聚居地, 殖民地
+w002570.3 | settlement | n. | 結算, 清償, 支付
+w002571.1 | smell | n. | 氣味, 臭味, 嗅覺
+w002571.2 | smell | v. | 聞, 嗅, 聞到
+w002571.3 | smell | v. | 散發氣味, 發臭
+w002572.1 | speaker | n. | 演講者, 發言人, 講話者
+w002572.2 | speaker | n. | 揚聲器, 音箱, 喇叭
+w002572.3 | speaker | n. | 說某語言者, 母語者
+w002573.1 | surrounding | adj. | 周圍的, 附近的, 四周的
+w002574.1 | tone | n. | 語氣, 口吻, 腔調
+w002574.2 | tone | n. | 音調, 音色, 音質
+w002574.3 | tone | n. | 色調, 明暗, 風格
+w002574.4 | tone | v. | 使結實, 使健美
+w002575.1 | topic | n. | 話題, 主題, 題目
+w002577.1 | universal | adj. | 普遍的, 通用的, 全體的
+w002577.2 | universal | n. | 普遍特徵, 共性
+w002578.1 | vast | adj. | 巨大的, 廣闊的, 大量的
+w002579.1 | Latin | n. | 拉丁語, 拉丁文
+w002579.2 | Latin | adj. | 拉丁語的, 拉丁的, 拉丁美洲的
+w002581.1 | auto | n. | 汽車, 轎車
+w002581.2 | auto | adj. | 自動的, 自動模式的
+w002582.1 | consistent | adj. | 一貫的, 始終如一的, 穩定的
+w002582.2 | consistent | adj. | 一致的, 相符的, 吻合的
+w002583.1 | earn | v. | 掙錢, 賺得, 掙得
+w002583.2 | earn | v. | 贏得, 博得, 應得
+w002584.1 | finger | n. | 手指, 指頭
+w002584.2 | finger | v. | 用手指觸控, 撥弄
+w002585.1 | grey | adj. | 灰色的, 灰白的, 陰沉的
+w002585.2 | grey | n. | 灰色, 灰色衣物
+w002585.3 | grey | v. | 變灰白, 頭髮變白
+w002586.1 | guitar | n. | 吉他, 六絃琴
+w002587.1 | heading | n. | 標題, 題目, 小標題
+w002587.2 | heading | n. | 航向, 方向
+w002589.1 | ignore | v. | 忽視, 不理睬, 置之不理
+w002591.1 | lift-off | n. | 發射, 升空, 起飛
+w002592.1 | meal | n. | 一餐, 飯菜, 膳食
+w002592.2 | meal | n. | 粗粉, 穀物粗粉
+w002593.1 | meanwhile | adv. | 與此同時, 同時, 在此期間
+w002594.1 | naturally | adv. | 自然地, 天然地, 天生地
+w002594.2 | naturally | adv. | 當然, 自然, 不用說
+w002595.1 | necessarily | adv. | 必然地, 必定, 不可避免地
+w002596.1 | pants | n. | 褲子, 長褲
+w002596.2 | pants | n. | 內褲, 短褲
+w002597.1 | partnership | n. | 合作關係, 夥伴關係, 合作
+w002597.2 | partnership | n. | 合夥企業, 合夥公司
+w002598.1 | percentage | n. | 百分比, 百分率, 比例
+w002599.1 | pocket | n. | 口袋, 衣袋, 兜
+w002599.2 | pocket | n. | 小塊區域, 孤立地帶
+w002599.3 | pocket | v. | 放入口袋, 侵吞, 私吞
+w002599.4 | pocket | adj. | 袖珍的, 小型的
+w002600.1 | practical | adj. | 實際的, 實踐的, 切實可行的
+w002600.2 | practical | adj. | 實用的, 有用的
+w002600.3 | practical | n. | 實踐課, 實驗考試
+w002601.1 | primarily | adv. | 主要地, 首先, 根本上
+w002602.1 | rape | n. | 強姦, 強姦罪
+w002602.2 | rape | v. | 強姦, 強暴
+w002602.3 | rape | n. | 油菜, 蕓薹
+w002603.1 | regardless | adv. | 不管怎樣, 無論如何, 不顧一切地
+w002604.1 | relative | n. | 親戚, 親屬
+w002604.2 | relative | adj. | 相對的, 比較的
+w002604.3 | relative | adj. | 相關的, 有關的
+w002605.1 | rescue | v. | 營救, 救援, 解救
+w002605.2 | rescue | n. | 營救, 救援, 獲救
+w002606.1 | rush | v. | 衝, 奔, 趕緊
+w002606.2 | rush | v. | 倉促行事, 催促
+w002606.3 | rush | n. | 匆忙, 繁忙, 高峰期
+w002606.4 | rush | n. | 激增, 一陣衝動, 快感
+w002607.1 | sharp | adj. | 鋒利的, 尖的, 尖銳的
+w002607.2 | sharp | adj. | 急劇的, 突然的, 清晰的
+w002607.3 | sharp | adj. | 敏銳的, 機靈的, 精明的
+w002607.4 | sharp | adv. | 整, 準時地
+w002609.1 | soccer | n. | 足球, 英式足球
+w002610.1 | sought-after | adj. | 受歡迎的, 搶手的, 吃香的
+w002611.1 | stable | adj. | 穩定的, 牢固的, 平穩的
+w002611.2 | stable | n. | 馬廄, 馬棚
+w002612.1 | temporary | adj. | 臨時的, 暫時的, 短期的
+w002613.1 | trick | n. | 詭計, 花招, 騙局
+w002613.2 | trick | n. | 戲法, 把戲, 竅門
+w002613.3 | trick | v. | 欺騙, 哄騙, 誘騙
+w002614.1 | Ltd | abbr. | 有限公司, 有限責任公司
+w002616.1 | audio | adj. | 音訊的, 聲音的, 聽覺的
+w002616.2 | audio | n. | 音訊, 聲音訊號
+w002617.1 | bone | n. | 骨頭, 骨, 骨骼
+w002617.2 | bone | v. | 剔骨, 去骨
+w002619.1 | bullshit | n. | 胡說, 屁話, 鬼扯
+w002619.2 | bullshit | v. | 胡說, 糊弄, 忽悠
+w002619.3 | bullshit | int. | 胡扯, 放屁
+w002620.1 | chamber | n. | 議院, 會議廳, 議事廳
+w002620.2 | chamber | n. | 房間, 室, 寢室
+w002620.3 | chamber | n. | 腔, 室, 膛
+w002621.1 | chart | n. | 圖表, 曲線圖
+w002621.2 | chart | n. | 排行榜, 流行榜
+w002621.3 | chart | n. | 海圖, 航圖
+w002621.4 | chart | v. | 繪製圖表, 記錄, 規劃
+w002622.1 | circuit | n. | 電路, 迴路
+w002622.2 | circuit | n. | 環行, 一圈, 環形路線
+w002622.3 | circuit | n. | 巡迴賽, 巡迴
+w002623.1 | clothing | n. | 衣服, 服裝, 衣著
+w002624.1 | complicated | adj. | 複雜的, 難懂的, 難處理的
+w002625.1 | confused | adj. | 困惑的, 糊塗的, 迷惑的
+w002625.2 | confused | adj. | 混亂的, 不清楚的
+w002626.1 | defend | v. | 保衛, 防禦, 保護
+w002626.2 | defend | v. | 辯護, 辯解, 維護
+w002626.3 | defend | v. | 衛冕, 防守
+w002628.1 | everyday | adj. | 日常的, 每天的, 平常的
+w002629.1 | extent | n. | 程度, 限度
+w002629.2 | extent | n. | 範圍, 廣度, 面積
+w002630.1 | fishing | n. | 釣魚, 捕魚, 漁業
+w002631.1 | format | n. | 格式, 版式, 形式
+w002631.2 | format | v. | 格式化, 排版, 設定格式
+w002632.1 | gap | n. | 缺口, 間隙, 空隙
+w002632.2 | gap | n. | 差距, 分歧, 隔閡
+w002632.3 | gap | n. | 間斷, 空白期, 空缺
+w002633.1 | gate | n. | 大門, 柵欄門, 閘門
+w002633.2 | gate | n. | 登機口, 檢票口
+w002635.1 | harm | n. | 傷害, 損害, 危害
+w002635.2 | harm | v. | 傷害, 損害, 危害
+w002636.1 | healthcare | n. | 醫療保健, 醫療服務, 衛生保健
+w002637.1 | household | n. | 家庭, 一家人, 戶
+w002637.2 | household | adj. | 家用的, 家庭的, 家喻戶曉的
+w002638.1 | ice-cream | n. | 冰淇淋, 雪糕
+w002639.1 | immigration | n. | 移民, 移居入境
+w002639.2 | immigration | n. | 入境檢查, 入境檢查處
+w002640.1 | impressive | adj. | 令人印象深刻的, 令人欽佩的, 出色的
+w002641.1 | killer | n. | 殺手, 兇手, 致命之物
+w002641.2 | killer | adj. | 極棒的, 厲害的
+w002642.1 | lesson | n. | 課, 一節課, 課程
+w002642.2 | lesson | n. | 教訓, 經驗
+w002643.1 | loving | adj. | 充滿愛的, 慈愛的, 深情的
+w002644.1 | membership | n. | 會員資格, 會員身份, 成員資格
+w002644.2 | membership | n. | 全體會員, 會員人數
+w002645.1 | mirror | n. | 鏡子, 鏡面
+w002645.2 | mirror | v. | 反映, 映照, 酷似
+w002646.1 | mount | v. | 增加, 上升, 加劇
+w002646.2 | mount | v. | 組織, 發起, 籌辦
+w002646.3 | mount | v. | 騎上, 登上, 安裝
+w002646.4 | mount | n. | 山, 峰
+w002646.5 | mount | n. | 底座, 支架, 坐騎
+w002647.1 | occur | v. | 發生, 出現, 存在
+w002647.2 | occur | v. | 被想到, 浮現於腦海
+w002648.1 | parking | n. | 停車, 泊車, 停車位
+w002649.1 | proposal | n. | 提議, 建議, 提案
+w002649.2 | proposal | n. | 求婚, 提親
+w002650.1 | province | n. | 省, 省份
+w002650.2 | province | n. | 領域, 範圍, 職責範圍
+w002651.1 | recognition | n. | 認出, 識別, 辨認
+w002651.2 | recognition | n. | 承認, 認可
+w002651.3 | recognition | n. | 讚譽, 表彰, 賞識
+w002652.1 | reputation | n. | 名聲, 名譽, 聲望
+w002653.1 | rolling | adj. | 起伏的, 綿延的
+w002653.2 | rolling | adj. | 滾動的, 分階段的, 持續進行的
+w002654.1 | shortly | adv. | 不久, 很快, 立刻
+w002654.2 | shortly | adv. | 簡短地, 不耐煩地, 唐突地
+w002655.1 | strongly | adv. | 強烈地, 堅決地, 有力地
+w002655.2 | strongly | adv. | 堅固地, 牢固地
+w002656.1 | technique | n. | 技術, 技巧, 方法
+w002657.1 | thin | adj. | 薄的, 細的
+w002657.2 | thin | adj. | 瘦的, 消瘦的
+w002657.3 | thin | adj. | 稀薄的, 稀少的, 稀疏的
+w002657.4 | thin | v. | 變稀, 變薄, 使稀疏
+w002661.1 | accused | adj. | 被控告的, 被指控的
+w002661.2 | accused | n. | 被告, 被告人
+w002662.1 | adventure | n. | 冒險, 奇遇, 冒險經歷
+w002663.1 | argue | v. | 爭論, 爭吵, 爭辯
+w002663.2 | argue | v. | 主張, 論證, 認為
+w002664.1 | assessment | n. | 評估, 評價, 評定
+w002665.1 | atmosphere | n. | 大氣, 大氣層, 空氣
+w002665.2 | atmosphere | n. | 氣氛, 氛圍, 環境
+w002666.1 | awful | adj. | 糟糕的, 可怕的, 極壞的
+w002666.2 | awful | adj. | 非常的, 極大的
+w002667.1 | bedroom | n. | 臥室, 寢室, 睡房
+w002668.1 | belief | n. | 相信, 信心, 信任
+w002668.2 | belief | n. | 信仰, 信念, 看法
+w002669.1 | bound | adj. | 必定的, 一定會的
+w002669.2 | bound | adj. | 受約束的, 有義務的
+w002669.3 | bound | adj. | 前往的, 開往的
+w002669.4 | bound | v. | 跳躍, 蹦跳
+w002669.5 | bound | n. | 界限, 範圍, 限度
+w002670.1 | carefully | adv. | 仔細地, 小心地, 認真地
+w002671.1 | CEO | abbr. | 執行長, 總裁, 執行長
+w002672.1 | closing | adj. | 結尾的, 最後的, 結束的
+w002672.2 | closing | n. | 關閉, 停業, 結束
+w002673.1 | cloud | n. | 雲, 雲朵
+w002673.2 | cloud | n. | 一團, 煙塵團
+w002673.3 | cloud | n. | 雲端, 雲端儲存
+w002673.4 | cloud | v. | 使模糊, 矇蔽, 籠罩
+w002674.1 | contrast | n. | 對比, 反差, 差異
+w002674.2 | contrast | v. | 對比, 對照, 形成對比
+w002676.1 | egg | n. | 蛋, 雞蛋, 卵
+w002676.2 | egg | n. | 卵子, 卵細胞
+w002677.1 | element | n. | 要素, 成分, 組成部分
+w002677.2 | element | n. | 元素, 化學元素
+w002677.3 | element | n. | 少量, 一點
+w002678.1 | elsewhere | adv. | 在別處, 到別處, 其他地方
+w002679.1 | establish | v. | 建立, 創立, 設立
+w002679.2 | establish | v. | 確立, 確定, 證實
+w002680.1 | extension | n. | 延伸, 擴充套件, 擴建部分
+w002680.2 | extension | n. | 延期, 延長
+w002680.3 | extension | n. | 分機, 分機號碼
+w002681.1 | founder | n. | 創始人, 創辦者, 創立者
+w002681.2 | founder | v. | 失敗, 垮掉, 沉沒
+w002682.1 | gear | n. | 齒輪, 排擋, 擋位
+w002682.2 | gear | n. | 裝備, 器材, 用具
+w002682.3 | gear | v. | 使適合, 使適應, 調整
+w002683.1 | hip | n. | 臀部, 髖部, 胯
+w002683.2 | hip | adj. | 時髦的, 新潮的, 趕時髦的
+w002684.1 | infrastructure | n. | 基礎設施, 基礎建設
+w002686.1 | loose | adj. | 松的, 鬆動的, 寬鬆的
+w002686.2 | loose | adj. | 不受束縛的, 散開的, 散裝的
+w002686.3 | loose | adj. | 不嚴謹的, 不精確的, 散漫的
+w002686.4 | loose | v. | 釋放, 放開, 鬆開
+w002687.1 | moral | adj. | 道德的, 道義上的, 品行端正的
+w002687.2 | moral | n. | 寓意, 教訓
+w002687.3 | moral | n. | 品行, 道德規範
+w002688.1 | offensive | adj. | 冒犯的, 無禮的, 令人不快的
+w002688.2 | offensive | adj. | 進攻的, 攻擊性的
+w002688.3 | offensive | n. | 進攻, 攻勢
+w002689.1 | package | n. | 包裹, 包裝盒, 一包
+w002689.2 | package | n. | 一攬子計劃, 套餐, 軟體包
+w002689.3 | package | v. | 包裝, 打包
+w002690.1 | pointed | adj. | 尖的, 有尖頭的
+w002690.2 | pointed | adj. | 尖銳的, 有針對性的, 直截了當的
+w002691.1 | poverty | n. | 貧窮, 貧困
+w002691.2 | poverty | n. | 缺乏, 貧乏, 匱乏
+w002692.1 | qualified | adj. | 合格的, 有資格的, 勝任的
+w002692.2 | qualified | adj. | 有保留的, 有限制的, 有條件的
+w002693.1 | railway | n. | 鐵路, 鐵道, 鐵路系統
+w002694.1 | ridiculous | adj. | 荒謬的, 可笑的, 荒唐的
+w002695.1 | sensitive | adj. | 敏感的, 易受傷害的, 靈敏的
+w002695.2 | sensitive | adj. | 體貼的, 善解人意的
+w002695.3 | sensitive | adj. | 需謹慎處理的, 機密的
+w002696.1 | server | n. | 伺服器, 伺服器
+w002696.2 | server | n. | 服務員, 侍者
+w002697.1 | shock | n. | 震驚, 驚愕, 打擊
+w002697.2 | shock | v. | 使震驚, 使驚愕, 使震動
+w002697.3 | shock | n. | 電擊, 觸電
+w002697.4 | shock | n. | 休克
+w002698.1 | silence | n. | 寂靜, 沉默, 無聲
+w002698.2 | silence | v. | 使安靜, 使沉默, 壓制
+w002699.1 | soldier | n. | 士兵, 軍人, 戰士
+w002700.1 | superior | adj. | 更好的, 優越的, 上等的
+w002700.2 | superior | adj. | 上級的, 較高的
+w002700.3 | superior | adj. | 高傲的, 傲慢的, 自命不凡的
+w002700.4 | superior | n. | 上級, 上司, 長官
+w002701.1 | thick | adj. | 厚的, 粗的
+w002701.2 | thick | adj. | 濃的, 稠的, 茂密的
+w002701.3 | thick | adv. | 厚厚地, 濃密地
+w002702.1 | transition | n. | 過渡, 轉變, 變遷
+w002702.2 | transition | v. | 過渡, 轉變
+w002703.1 | violent | adj. | 暴力的, 兇暴的
+w002703.2 | violent | adj. | 猛烈的, 劇烈的, 強烈的
+w002704.1 | wash | v. | 洗, 清洗, 洗滌
+w002704.2 | wash | v. | 沖刷, 沖走
+w002704.3 | wash | n. | 洗滌, 清洗
+w002705.1 | Egypt | n. | 埃及, 埃及國
+w002707.1 | acid | n. | 酸, 酸性物質
+w002707.2 | acid | adj. | 酸的, 酸性的
+w002707.3 | acid | adj. | 尖刻的, 刻薄的
+w002708.1 | actress | n. | 女演員, 女藝人
+w002709.1 | administrative | adj. | 行政的, 管理的
+w002711.1 | alongside | prep. | 在…旁邊, 與…一起, 與…並排
+w002711.2 | alongside | adv. | 在旁邊, 並排地
+w002712.1 | angel | n. | 天使, 神的使者
+w002712.2 | angel | n. | 善良的人, 可愛的人
+w002713.1 | anxiety | n. | 焦慮, 憂慮, 擔心
+w002713.2 | anxiety | n. | 渴望, 急切
+w002714.1 | bonus | n. | 獎金, 紅利, 津貼
+w002714.2 | bonus | n. | 額外好處, 意外收穫
+w002715.1 | castle | n. | 城堡, 堡壘
+w002716.1 | charity | n. | 慈善機構, 慈善團體
+w002716.2 | charity | n. | 慈善, 施捨, 救濟
+w002716.3 | charity | n. | 仁愛, 寬容
+w002717.1 | compare | v. | 比較, 對比, 對照
+w002717.2 | compare | v. | 比作, 比喻
+w002717.3 | compare | v. | 比得上, 相比
+w002718.1 | cooking | n. | 烹飪, 烹調, 做飯
+w002718.2 | cooking | adj. | 烹飪用的, 烹調的
+w002719.1 | covering | n. | 覆蓋物, 遮蓋物, 覆蓋層
+w002720.1 | curious | adj. | 好奇的, 求知慾強的
+w002720.2 | curious | adj. | 奇怪的, 古怪的, 不尋常的
+w002721.1 | discovery | n. | 發現, 發覺
+w002721.2 | discovery | n. | 被發現的事物, 新發現
+w002722.1 | duke | n. | 公爵, 大公
+w002723.1 | encourage | v. | 鼓勵, 激勵, 鼓舞
+w002723.2 | encourage | v. | 促進, 助長, 慫恿
+w002724.1 | enforcement | n. | 執行, 實施, 強制執行
+w002725.1 | flash | v. | 閃光, 閃耀, 閃現
+w002725.2 | flash | n. | 閃光, 閃爍
+w002725.3 | flash | n. | 閃光燈
+w002725.4 | flash | v. | 飛馳, 掠過
+w002726.1 | formal | adj. | 正式的, 正規的
+w002726.2 | formal | adj. | 莊重的, 禮儀的, 拘謹的
+w002727.1 | formula | n. | 公式, 方程式
+w002727.2 | formula | n. | 配方, 處方
+w002727.3 | formula | n. | 方案, 準則, 慣例
+w002728.1 | fort | n. | 堡壘, 要塞, 城堡
+w002729.1 | gray | adj. | 灰色的, 灰白的
+w002729.2 | gray | n. | 灰色, 灰白色
+w002729.3 | gray | adj. | 陰沉的, 沉悶的
+w002729.4 | gray | v. | 變灰, 變白
+w002730.1 | gross | adj. | 總的, 毛的, 全部的
+w002730.2 | gross | adj. | 噁心的, 令人作嘔的
+w002730.3 | gross | adj. | 嚴重的, 惡劣的
+w002730.4 | gross | v. | 總收入為, 總共賺得
+w002730.5 | gross | n. | 總額, 總收入
+w002731.1 | hungry | adj. | 飢餓的, 餓的
+w002731.2 | hungry | adj. | 渴望的, 渴求的
+w002732.1 | informed | adj. | 有見識的, 訊息靈通的, 瞭解情況的
+w002732.2 | informed | adj. | 有根據的, 明智的
+w002733.1 | innocent | adj. | 無罪的, 清白的, 無辜的
+w002733.2 | innocent | adj. | 天真的, 單純的, 無惡意的
+w002733.3 | innocent | n. | 無辜者, 天真的人
+w002737.1 | math | n. | 數學, 算術
+w002738.1 | mystery | n. | 謎, 奧秘, 神秘的事物
+w002738.2 | mystery | n. | 神秘, 神秘感
+w002738.3 | mystery | n. | 推理小說, 懸疑作品
+w002739.1 | palace | n. | 宮殿, 皇宮, 王宮
+w002739.2 | palace | n. | 豪宅, 華麗建築
+w002740.1 | penalty | n. | 處罰, 懲罰, 刑罰
+w002740.2 | penalty | n. | 罰款, 罰金
+w002740.3 | penalty | n. | 罰球, 點球
+w002741.1 | pet | n. | 寵物, 玩賞動物
+w002741.2 | pet | v. | 撫摸, 愛撫
+w002741.3 | pet | adj. | 寵愛的, 特別喜歡的
+w002741.4 | pet | n. | 寵兒, 寶貝
+w002742.1 | photography | n. | 攝影, 攝影術, 照相
+w002743.1 | protest | n. | 抗議, 抗議活動, 反對
+w002743.2 | protest | v. | 抗議, 反對
+w002743.3 | protest | v. | 堅稱, 申辯
+w002744.1 | publication | n. | 出版, 發行, 刊登
+w002744.2 | publication | n. | 出版物, 刊物
+w002744.3 | publication | n. | 公佈, 發表
+w002745.1 | rating | n. | 評級, 等級, 評分
+w002745.2 | rating | n. | 收視率, 收聽率
+w002746.1 | refer | v. | 提到, 談及, 指的是
+w002746.2 | refer | v. | 參考, 查閱
+w002746.3 | refer | v. | 轉交, 轉介, 送交
+w002747.1 | respectively | adv. | 分別地, 各自地, 依次地
+w002748.1 | select | v. | 選擇, 挑選, 選拔
+w002748.2 | select | adj. | 精選的, 優等的, 高階的
+w002749.1 | silent | adj. | 沉默的, 不說話的
+w002749.2 | silent | adj. | 寂靜的, 無聲的, 安靜的
+w002749.3 | silent | adj. | 不發音的
+w002750.1 | spoken | adj. | 口頭的, 口語的, 說出的
+w002751.1 | successfully | adv. | 成功地, 順利地
+w002752.1 | suffer | v. | 遭受, 蒙受, 經歷
+w002752.2 | suffer | v. | 受苦, 受折磨
+w002752.3 | suffer | v. | 患病, 患有
+w002753.1 | temple | n. | 寺廟, 神殿, 廟宇
+w002753.2 | temple | n. | 太陽穴, 鬢角
+w002754.1 | trail | n. | 小路, 小徑
+w002754.2 | trail | n. | 痕跡, 蹤跡, 足跡
+w002754.3 | trail | v. | 跟蹤, 追蹤
+w002754.4 | trail | v. | 拖, 拖曳
+w002754.5 | trail | v. | 落後, 輸給
+w002755.1 | uncle | n. | 叔叔, 伯伯, 舅舅, 姑父
+w002756.1 | unusual | adj. | 不尋常的, 罕見的, 異常的
+w002756.2 | unusual | adj. | 獨特的, 與眾不同的
+w002757.1 | yo | int. | 喂, 嘿, 喲
+w002759.1 | Islamic | adj. | 伊斯蘭教的, 伊斯蘭的
+w002761.1 | arrival | n. | 到達, 抵達, 到來
+w002761.2 | arrival | n. | 到達者, 新來者
+w002762.1 | assault | n. | 襲擊, 攻擊, 突擊
+w002762.2 | assault | n. | 人身侵犯, 毆打
+w002762.3 | assault | v. | 襲擊, 攻擊, 毆打
+w002763.1 | awareness | n. | 意識, 認識, 覺察
+w002764.1 | badly | adv. | 糟糕地, 拙劣地, 差
+w002764.2 | badly | adv. | 嚴重地, 厲害地
+w002764.3 | badly | adv. | 非常, 極其, 迫切地
+w002765.1 | bath | n. | 洗澡, 沐浴
+w002765.2 | bath | n. | 浴缸, 浴盆
+w002765.3 | bath | v. | 給…洗澡, 洗澡
+w002766.1 | chase | v. | 追逐, 追趕, 追捕
+w002766.2 | chase | v. | 追求, 爭取
+w002766.3 | chase | n. | 追逐, 追趕, 追捕
+w002767.1 | concrete | n. | 混凝土, 水泥
+w002767.2 | concrete | adj. | 具體的, 實在的, 確實的
+w002767.3 | concrete | adj. | 混凝土製的, 水泥的
+w002767.4 | concrete | v. | 用混凝土澆築, 鋪混凝土
+w002769.1 | deeply | adv. | 深深地, 非常, 強烈地
+w002769.2 | deeply | adv. | 深入地, 深地
+w002770.1 | explanation | n. | 解釋, 說明, 講解
+w002770.2 | explanation | n. | 理由, 原因
+w002771.1 | exposure | n. | 暴露, 接觸, 遭受
+w002771.2 | exposure | n. | 揭露, 曝光
+w002771.3 | exposure | n. | 曝光, 曝光量
+w002772.1 | fiction | n. | 小說, 虛構作品
+w002772.2 | fiction | n. | 虛構, 杜撰, 捏造
+w002773.1 | guarantee | v. | 保證, 擔保, 確保
+w002773.2 | guarantee | n. | 保證, 擔保
+w002773.3 | guarantee | n. | 保修單, 保證書, 質量保證
+w002774.1 | happiness | n. | 幸福, 快樂, 高興
+w002776.1 | horrible | adj. | 糟糕的, 討厭的, 令人不快的
+w002776.2 | horrible | adj. | 可怕的, 恐怖的, 駭人的
+w002777.1 | ideal | adj. | 理想的, 完美的, 最合適的
+w002777.2 | ideal | n. | 理想, 典範, 完美典型
+w002779.1 | legend | n. | 傳說, 傳奇故事
+w002779.2 | legend | n. | 傳奇人物, 名人
+w002779.3 | legend | n. | 圖例, 說明文字
+w002780.1 | lieutenant | n. | 中尉, 尉官
+w002780.2 | lieutenant | n. | 副手, 助理, 副職
+w002781.1 | mini | adj. | 迷你的, 小型的, 微型的
+w002781.2 | mini | n. | 迷你裙, 超短裙
+w002782.1 | mood | n. | 心情, 情緒, 心境
+w002782.2 | mood | n. | 壞心情, 壞脾氣
+w002782.3 | mood | n. | 氣氛, 氛圍
+w002783.1 | muscle | n. | 肌肉, 肌
+w002783.2 | muscle | n. | 力量, 實力, 影響力
+w002783.3 | muscle | v. | 強行擠入, 硬擠
+w002784.1 | passion | n. | 激情, 熱情
+w002784.2 | passion | n. | 酷愛, 熱愛, 愛好
+w002784.3 | passion | n. | 盛怒, 強烈情感
+w002785.1 | pleased | adj. | 高興的, 滿意的, 樂意的
+w002786.1 | procedure | n. | 程式, 步驟, 手續
+w002786.2 | procedure | n. | 手術, 醫療操作
+w002787.1 | producer | n. | 製片人, 製作人
+w002787.2 | producer | n. | 生產者, 製造商, 產地
+w002788.1 | rank | n. | 等級, 軍銜, 職位
+w002788.2 | rank | v. | 排名, 排列, 把…分等級
+w002788.3 | rank | n. | 行列, 佇列
+w002788.4 | rank | adj. | 難聞的, 惡臭的
+w002789.1 | replacement | n. | 替換, 更換, 取代
+w002789.2 | replacement | n. | 替代品, 接替者
+w002790.1 | retired | adj. | 退休的, 退役的
+w002791.1 | sand | n. | 沙, 沙子
+w002791.2 | sand | n. | 沙灘, 沙地
+w002791.3 | sand | v. | 用砂紙打磨, 磨光
+w002792.1 | savings | n. | 儲蓄, 存款, 積蓄
+w002793.1 | self-defence | n. | 自衛, 正當防衛, 防身
+w002794.1 | semi-final | n. | 半決賽, 準決賽
+w002795.1 | settled | adj. | 安定的, 穩定的, 固定的
+w002795.2 | settled | adj. | 已解決的, 已決定的
+w002795.3 | settled | adj. | 安頓下來的, 習慣的
+w002796.1 | shadow | n. | 影子, 陰影
+w002796.2 | shadow | n. | 陰暗處, 暗處
+w002796.3 | shadow | v. | 跟蹤, 尾隨
+w002796.4 | shadow | v. | 遮蔽, 投下陰影
+w002797.1 | tag | n. | 標籤, 標牌
+w002797.2 | tag | v. | 貼標籤, 標記
+w002797.3 | tag | n. | 捉人遊戲
+w002797.4 | tag | v. | 跟隨, 尾隨
+w002798.1 | tape | n. | 膠帶, 膠布
+w002798.2 | tape | n. | 磁帶, 錄音帶, 錄影帶
+w002798.3 | tape | v. | 用膠帶粘, 用帶子捆
+w002798.4 | tape | v. | 錄音, 錄影
+w002799.1 | thread | n. | 線, 細線
+w002799.2 | thread | n. | 思路, 脈絡, 線索
+w002799.3 | thread | n. | 帖子串, 話題串
+w002799.4 | thread | v. | 穿線, 穿過
+w002801.1 | wage | n. | 工資, 薪水, 報酬
+w002801.2 | wage | v. | 發動, 進行, 開展
+w002802.1 | well-informed | adj. | 見多識廣的, 訊息靈通的, 知識淵博的
+w002805.1 | Iraq | n. | 伊拉克, 伊拉克國
+w002809.1 | avenue | n. | 大街, 大道, 林蔭道
+w002809.2 | avenue | n. | 途徑, 方法, 渠道
+w002810.1 | boring | adj. | 無聊的, 乏味的, 無趣的
+w002811.1 | clock | n. | 鍾, 時鐘
+w002811.2 | clock | v. | 計時, 測速, 記錄
+w002812.1 | commissioner | n. | 專員, 委員, 長官
+w002812.2 | commissioner | n. | 局長, 警察局長
+w002813.1 | commitment | n. | 承諾, 保證, 許諾
+w002813.2 | commitment | n. | 投入, 奉獻, 獻身
+w002813.3 | commitment | n. | 責任, 義務, 承擔的事
+w002814.1 | confident | adj. | 自信的, 有信心的
+w002814.2 | confident | adj. | 確信的, 有把握的
+w002815.1 | custom | n. | 習俗, 風俗, 慣例
+w002815.2 | custom | n. | 習慣, 個人習慣
+w002815.3 | custom | adj. | 定製的, 定做的
+w002815.4 | custom | n. | 光顧, 惠顧
+w002816.1 | desk | n. | 書桌, 辦公桌, 寫字檯
+w002816.2 | desk | n. | 服務檯, 問訊處, 櫃檯
+w002817.1 | ear | n. | 耳朵, 耳
+w002817.2 | ear | n. | 聽力, 聽覺, 辨音力
+w002817.3 | ear | n. | 穗, 穀穗
+w002818.1 | electricity | n. | 電, 電力, 電流
+w002819.1 | gym | n. | 健身房, 體育館
+w002819.2 | gym | n. | 體育課, 體操
+w002820.1 | helpful | adj. | 有幫助的, 有用的, 有益的
+w002820.2 | helpful | adj. | 樂於助人的, 肯幫忙的
+w002821.1 | horror | n. | 恐懼, 驚恐, 恐怖
+w002821.2 | horror | n. | 恐怖片, 恐怖作品
+w002821.3 | horror | n. | 可怕的事, 慘狀
+w002823.1 | label | n. | 標籤, 標記, 標牌
+w002823.2 | label | v. | 貼標籤, 標明
+w002823.3 | label | v. | 把…稱為, 把…歸類為
+w002823.4 | label | n. | 唱片公司, 品牌
+w002825.1 | naked | adj. | 裸體的, 赤裸的, 光著身子的
+w002825.2 | naked | adj. | 無遮蔽的, 裸露的
+w002825.3 | naked | adj. | 毫不掩飾的, 赤裸裸的
+w002826.1 | output | n. | 產量, 產出, 輸出量
+w002826.2 | output | n. | 輸出, 輸出資訊
+w002826.3 | output | v. | 輸出
+w002827.1 | pitch | v. | 投, 擲, 扔
+w002827.2 | pitch | n. | 球場, 場地
+w002827.3 | pitch | n. | 音高, 音調
+w002827.4 | pitch | n. | 推銷詞, 宣傳, 遊說
+w002827.5 | pitch | v. | 推銷, 提出, 遊說
+w002827.6 | pitch | v. | 搭, 架設
+w002828.1 | pizza | n. | 比薩餅, 披薩, 義大利餡餅
+w002829.1 | plain | adj. | 樸素的, 簡單的, 素的
+w002829.2 | plain | adj. | 清楚的, 明白的, 明顯的
+w002829.3 | plain | n. | 平原, 平地
+w002829.4 | plain | adj. | 相貌平平的, 不好看的
+w002829.5 | plain | adv. | 完全地, 簡直
+w002830.1 | rear | n. | 後部, 後面, 背後
+w002830.2 | rear | adj. | 後面的, 後部的
+w002830.3 | rear | v. | 撫養, 飼養, 養育
+w002830.4 | rear | v. | 用後腿直立, 抬起
+w002831.1 | reveal | v. | 揭露, 透露, 洩露
+w002831.2 | reveal | v. | 展示, 顯示, 露出
+w002832.1 | romantic | adj. | 浪漫的, 愛情的, 多情的
+w002832.2 | romantic | adj. | 不切實際的, 空想的
+w002832.3 | romantic | n. | 浪漫的人, 浪漫主義者
+w002833.1 | strategic | adj. | 戰略的, 策略的, 戰略性的
+w002834.1 | swimming | n. | 游泳, 游泳運動
+w002835.1 | welfare | n. | 福利, 幸福, 安康
+w002835.2 | welfare | n. | 社會福利, 福利救濟
+w002836.1 | wire | n. | 金屬絲, 鐵絲
+w002836.2 | wire | n. | 電線, 導線
+w002836.3 | wire | v. | 接線, 佈線
+w002836.4 | wire | v. | 電匯, 匯款
+w002837.1 | worker | n. | 工人, 勞動者, 工作者
+w002837.2 | worker | n. | 員工, 職員
+w002839.1 | Islam | n. | 伊斯蘭教, 回教
+w002845.1 | afterwards | adv. | 後來, 之後, 以後
+w002846.1 | alright | adj. | 還好的, 可以的, 沒問題的
+w002846.2 | alright | adv. | 還好, 不錯地
+w002846.3 | alright | int. | 好的, 行, 可以
+w002847.1 | android | n. | 人形機器人, 模擬機器人
+w002848.1 | anger | n. | 憤怒, 怒氣, 生氣
+w002848.2 | anger | v. | 激怒, 使生氣
+w002849.1 | architecture | n. | 建築學, 建築藝術
+w002849.2 | architecture | n. | 建築風格, 建築式樣
+w002849.3 | architecture | n. | 架構, 體系結構
+w002850.1 | assist | v. | 幫助, 協助, 援助
+w002850.2 | assist | n. | 助攻
+w002852.1 | behalf | n. | 代表, 利益, 方面
+w002853.1 | belt | n. | 腰帶, 皮帶
+w002853.2 | belt | n. | 地帶, 區域
+w002853.3 | belt | n. | 傳送帶, 傳動帶
+w002853.4 | belt | v. | 猛擊, 抽打
+w002854.1 | capture | v. | 俘獲, 捕獲, 逮捕
+w002854.2 | capture | v. | 奪取, 佔領
+w002854.3 | capture | v. | 捕捉, 記錄, 拍攝
+w002854.4 | capture | n. | 捕獲, 俘獲, 佔領
+w002855.1 | ceremony | n. | 典禮, 儀式
+w002855.2 | ceremony | n. | 禮節, 禮儀, 客套
+w002856.1 | comic | n. | 漫畫書, 連環畫
+w002856.2 | comic | adj. | 滑稽的, 好笑的, 喜劇的
+w002856.3 | comic | n. | 喜劇演員
+w002858.1 | designer | n. | 設計師, 設計者
+w002858.2 | designer | adj. | 名牌的, 名師設計的
+w002859.1 | diamond | n. | 鑽石, 金剛石
+w002859.2 | diamond | n. | 菱形
+w002859.3 | diamond | n. | 方塊牌, 方塊
+w002860.1 | disappointed | adj. | 失望的, 沮喪的, 掃興的
+w002861.1 | dressed | adj. | 穿好衣服的, 穿著衣服的
+w002861.2 | dressed | adj. | 穿著…的, 打扮的
+w002862.1 | economics | n. | 經濟學, 經濟原理
+w002862.2 | economics | n. | 經濟情況, 經濟因素
+w002863.1 | efficient | adj. | 高效的, 效率高的
+w002863.2 | efficient | adj. | 有能力的, 能幹的
+w002864.1 | electrical | adj. | 電的, 電氣的, 用電的
+w002865.1 | essentially | adv. | 本質上, 基本上, 實質上
+w002866.1 | establishment | n. | 機構, 企業, 場所
+w002866.2 | establishment | n. | 建立, 創立, 設立
+w002866.3 | establishment | n. | 當權派, 權勢集團
+w002867.1 | far-reaching | adj. | 深遠的, 影響廣泛的, 意義重大的
+w002868.1 | flower | n. | 花, 花朵, 花卉
+w002868.2 | flower | v. | 開花, 綻放
+w002868.3 | flower | v. | 繁榮, 成熟, 興旺
+w002869.1 | ghost | n. | 鬼, 幽靈, 鬼魂
+w002869.2 | ghost | v. | 突然斷聯, 不再回復
+w002869.3 | ghost | n. | 一絲, 一點
+w002870.1 | hard-hitting | adj. | 直言不諱的, 尖銳的, 措辭強硬的
+w002871.1 | hockey | n. | 冰球, 曲棍球
+w002872.1 | HTTPS | abbr. | 超文字傳輸安全協議, 安全超文字協議
+w002873.1 | hunting | n. | 打獵, 狩獵
+w002873.2 | hunting | n. | 尋找, 搜尋, 搜尋
+w002875.1 | kit | n. | 成套工具, 工具箱, 用品包
+w002875.2 | kit | n. | 套件, 組裝件
+w002875.3 | kit | n. | 運動服, 裝備
+w002876.1 | lab | n. | 實驗室, 化驗室, 研究室
+w002877.1 | middle-aged | adj. | 中年的, 人到中年的
+w002878.1 | min | abbr. | 分鐘, 分
+w002878.2 | min | abbr. | 最小值, 最低限度
+w002879.1 | nervous | adj. | 緊張的, 不安的, 焦慮的
+w002879.2 | nervous | adj. | 神經的, 神經系統的
+w002879.3 | nervous | adj. | 易緊張的, 神經質的
+w002880.1 | newly | adv. | 新近, 最近, 剛剛
+w002881.1 | odd | adj. | 奇怪的, 古怪的, 反常的
+w002881.2 | odd | adj. | 奇數的, 單數的
+w002881.3 | odd | adj. | 偶爾的, 零星的, 臨時的
+w002882.1 | ordinary | adj. | 普通的, 平常的, 一般的
+w002882.2 | ordinary | adj. | 平庸的, 平淡的
+w002883.1 | participate | v. | 參加, 參與, 加入
+w002884.1 | prayer | n. | 祈禱, 禱告
+w002884.2 | prayer | n. | 禱文, 禱詞
+w002884.3 | prayer | n. | 祈求, 心願
+w002885.1 | racist | adj. | 種族主義的, 種族歧視的
+w002885.2 | racist | n. | 種族主義者, 種族歧視者
+w002886.1 | rarely | adv. | 很少, 難得, 不常
+w002887.1 | sexy | adj. | 性感的, 有魅力的, 撩人的
+w002887.2 | sexy | adj. | 吸引人的, 時髦的
+w002888.1 | skill | n. | 技能, 技巧, 技藝
+w002888.2 | skill | n. | 本領, 才能, 熟練
+w002889.1 | soil | n. | 土壤, 泥土
+w002889.2 | soil | n. | 國土, 土地, 領土
+w002889.3 | soil | v. | 弄髒, 玷汙
+w002890.1 | solve | v. | 解決, 處理
+w002890.2 | solve | v. | 解答, 破解, 解開
+w002891.1 | stomach | n. | 胃, 胃部
+w002891.2 | stomach | n. | 腹部, 肚子
+w002891.3 | stomach | v. | 忍受, 容忍, 吃得下
+w002892.1 | suck | v. | 吸, 吮吸, 吸入
+w002892.2 | suck | v. | 含, 吮, 嘬
+w002892.3 | suck | v. | 糟透了, 很差勁
+w002893.1 | trash | n. | 垃圾, 廢物
+w002893.2 | trash | n. | 劣質品, 糟粕, 廢話
+w002893.3 | trash | v. | 搗毀, 破壞, 毀壞
+w002893.4 | trash | v. | 抨擊, 貶低
+w002894.1 | ugly | adj. | 醜陋的, 難看的
+w002894.2 | ugly | adj. | 險惡的, 兇險的, 令人不快的
+w002896.1 | virus | n. | 病毒, 病原體
+w002896.2 | virus | n. | 病毒性疾病, 病毒感染
+w002896.3 | virus | n. | 計算機病毒, 電腦病毒
+w002897.1 | walker | n. | 步行者, 散步者, 徒步者
+w002897.2 | walker | n. | 助行器, 學步車
+w002898.1 | whoever | pron. | 無論誰, 不管誰
+w002898.2 | whoever | pron. | 任何人, 凡是…的人
+w002898.3 | whoever | pron. | 究竟是誰, 到底是誰
+w002899.1 | Dutch | adj. | 荷蘭的, 荷蘭人的, 荷蘭語的
+w002899.2 | Dutch | n. | 荷蘭語, 荷蘭話
+w002899.3 | Dutch | n. | 荷蘭人, 荷蘭國民
+w002900.1 | Mexican | adj. | 墨西哥的, 墨西哥人的
+w002900.2 | Mexican | n. | 墨西哥人, 墨西哥國民
+w002901.1 | Saint | n. | 聖徒, 聖人, 聖者
+w002901.2 | Saint | n. | 大好人, 道德高尚的人
+w002905.1 | aspect | n. | 方面, 層面
+w002905.2 | aspect | n. | 外觀, 面貌, 樣子
+w002905.3 | aspect | n. | 朝向, 方位
+w002906.1 | boost | v. | 促進, 提高, 增強
+w002906.2 | boost | n. | 推動, 提升, 增長
+w002906.3 | boost | n. | 鼓舞, 激勵
+w002907.1 | bureau | n. | 局, 處, 辦事處
+w002907.2 | bureau | n. | 五斗櫥, 衣櫃
+w002907.3 | bureau | n. | 書桌, 寫字檯
+w002908.1 | colonel | n. | 上校, 陸軍上校
+w002909.1 | comfort | n. | 舒適, 安逸
+w002909.2 | comfort | n. | 安慰, 慰藉
+w002909.3 | comfort | v. | 安慰, 撫慰
+w002909.4 | comfort | n. | 舒適的設施, 生活享受
+w002910.1 | commander-in-chief | n. | 總司令, 最高統帥, 統帥
+w002911.1 | cousin | n. | 堂兄弟姐妹, 表兄弟姐妹, 堂表親
+w002911.2 | cousin | n. | 遠親, 同類
+w002912.1 | crack | n. | 裂縫, 裂紋, 縫隙
+w002912.2 | crack | v. | 破裂, 裂開, 使破裂
+w002912.3 | crack | v. | 破解, 解開
+w002912.4 | crack | n. | 爆裂聲, 噼啪聲
+w002913.1 | deck | n. | 甲板, 艙面
+w002913.2 | deck | n. | 一副紙牌
+w002913.3 | deck | n. | 露臺, 木平臺
+w002913.4 | deck | v. | 裝飾, 打扮
+w002914.1 | dragon | n. | 龍, 巨龍
+w002915.1 | dramatic | adj. | 巨大的, 急劇的, 突然的
+w002915.2 | dramatic | adj. | 激動人心的, 引人注目的
+w002915.3 | dramatic | adj. | 戲劇的, 戲劇性的
+w002916.1 | dust | n. | 灰塵, 塵土, 粉塵
+w002916.2 | dust | v. | 擦去灰塵, 撣灰
+w002916.3 | dust | v. | 撒, 撒粉於
+w002917.1 | evolution | n. | 進化, 演化
+w002917.2 | evolution | n. | 發展, 演變, 漸進
+w002918.1 | illness | n. | 疾病, 病, 患病
+w002919.1 | inspiration | n. | 靈感, 啟發
+w002919.2 | inspiration | n. | 鼓舞, 激勵, 榜樣
+w002920.1 | institution | n. | 機構, 團體, 院校
+w002920.2 | institution | n. | 制度, 習俗, 慣例
+w002920.3 | institution | n. | 收容機構, 福利院
+w002921.1 | knife | n. | 刀, 小刀, 餐刀
+w002921.2 | knife | v. | 用刀刺, 捅
+w002922.1 | lately | adv. | 最近, 近來, 不久前
+w002923.1 | memorial | n. | 紀念碑, 紀念館, 紀念物
+w002923.2 | memorial | adj. | 紀念的, 悼念的
+w002924.1 | minority | n. | 少數, 少數派
+w002924.2 | minority | n. | 少數民族, 少數群體
+w002924.3 | minority | adj. | 少數的, 少數民族的
+w002925.1 | mum | n. | 媽媽, 媽咪
+w002925.2 | mum | adj. | 沉默的, 不說話的
+w002926.1 | priority | n. | 優先事項, 首要任務, 重點
+w002926.2 | priority | n. | 優先, 優先權, 優先地位
+w002927.1 | promotion | n. | 升職, 晉升, 提升
+w002927.2 | promotion | n. | 促銷, 推廣, 宣傳
+w002927.3 | promotion | n. | 促進, 推動, 提倡
+w002928.1 | rail | n. | 鐵路, 鐵道
+w002928.2 | rail | n. | 欄杆, 扶手, 橫杆
+w002928.3 | rail | n. | 鐵軌, 鋼軌
+w002928.4 | rail | v. | 抱怨, 怒斥, 責罵
+w002929.1 | remote | adj. | 遙遠的, 偏遠的, 偏僻的
+w002929.2 | remote | adj. | 遠端的, 遙控的
+w002929.3 | remote | adj. | 微小的, 渺茫的
+w002929.4 | remote | n. | 遙控器
+w002930.1 | repair | v. | 修理, 修補, 修復
+w002930.2 | repair | n. | 修理, 維修, 修補
+w002930.3 | repair | v. | 彌補, 挽回
+w002931.1 | right-handed | adj. | 慣用右手的, 右撇子的
+w002931.2 | right-handed | adj. | 用右手的, 右手操作的
+w002932.1 | root | n. | 根, 根部
+w002932.2 | root | n. | 根源, 根本, 起因
+w002932.3 | root | n. | 祖籍, 根, 淵源
+w002932.4 | root | v. | 生根, 紮根
+w002932.5 | root | v. | 翻找, 搜尋
+w002933.1 | steal | v. | 偷, 偷竊, 盜取
+w002933.2 | steal | v. | 悄悄地走, 溜
+w002933.3 | steal | n. | 便宜貨, 超值品
+w002934.1 | telephone | n. | 電話, 電話機
+w002934.2 | telephone | v. | 打電話, 致電
+w002935.1 | tho | conj. | 雖然, 儘管
+w002935.2 | tho | adv. | 不過, 然而
+w002936.1 | well-dressed | adj. | 衣著講究的, 穿著考究的, 衣冠楚楚的
+w002937.1 | whereas | conj. | 然而, 而, 但是
+w002940.1 | Israeli | adj. | 以色列的, 以色列人的
+w002940.2 | Israeli | n. | 以色列人
+w002942.1 | Sweden | n. | 瑞典
+w002943.1 | Syria | n. | 敘利亞
+w002944.1 | abandoned | adj. | 被遺棄的, 被拋棄的, 廢棄的
+w002944.2 | abandoned | adj. | 放縱的, 放蕩不羈的
+w002946.1 | alliance | n. | 聯盟, 同盟, 聯合
+w002946.2 | alliance | n. | 聯盟組織, 同盟國
+w002947.1 | annoying | adj. | 惱人的, 討厭的, 令人煩惱的
+w002948.1 | bid | n. | 努力, 嘗試, 企圖
+w002948.2 | bid | n. | 出價, 投標, 報價
+w002948.3 | bid | v. | 出價, 投標, 競標
+w002948.4 | bid | v. | 道別, 致意
+w002949.1 | bro | n. | 兄弟, 哥們, 老兄
+w002950.1 | buddy | n. | 夥伴, 好朋友, 哥們
+w002950.2 | buddy | n. | 老兄, 夥計
+w002951.1 | butter | n. | 黃油, 奶油
+w002951.2 | butter | v. | 塗黃油, 抹黃油
+w002952.1 | conclusion | n. | 結論, 推論, 判斷
+w002952.2 | conclusion | n. | 結尾, 結束, 結局
+w002953.1 | confirm | v. | 確認, 證實, 證明
+w002953.2 | confirm | v. | 確定, 落實
+w002953.3 | confirm | v. | 堅定, 加強
+w002954.1 | congratulations | int. | 祝賀, 恭喜
+w002954.2 | congratulations | n. | 祝賀, 賀詞
+w002955.1 | crap | n. | 廢話, 胡說, 垃圾
+w002955.2 | crap | adj. | 糟糕的, 差勁的
+w002955.3 | crap | int. | 糟了, 該死
+w002956.1 | crystal | n. | 晶體, 結晶
+w002956.2 | crystal | n. | 水晶, 水晶玻璃
+w002956.3 | crystal | adj. | 清澈的, 透明的
+w002957.1 | dean | n. | 院長, 系主任
+w002957.2 | dean | n. | 教務長, 學監
+w002957.3 | dean | n. | 主任牧師, 教長
+w002958.1 | decent | adj. | 像樣的, 不錯的, 過得去的
+w002958.2 | decent | adj. | 正派的, 體面的, 得體的
+w002958.3 | decent | adj. | 穿好衣服的
+w002959.1 | decline | v. | 下降, 減少, 衰退
+w002959.2 | decline | n. | 下降, 衰退, 減少
+w002959.3 | decline | v. | 拒絕, 謝絕
+w002960.1 | delay | n. | 延誤, 耽擱, 延遲
+w002960.2 | delay | v. | 推遲, 延期, 延誤
+w002961.1 | desert | n. | 沙漠, 荒漠
+w002961.2 | desert | v. | 拋棄, 遺棄, 離棄
+w002961.3 | desert | v. | 擅離職守, 開小差
+w002962.1 | downtown | adv. | 在市中心, 往市區
+w002962.2 | downtown | adj. | 市中心的, 商業區的
+w002962.3 | downtown | n. | 市中心, 商業區
+w002963.1 | elite | n. | 精英, 上層人士
+w002963.2 | elite | adj. | 精英的, 傑出的, 精銳的
+w002964.1 | forth | adv. | 向前, 向外
+w002964.2 | forth | adv. | 以後, 從此
+w002965.1 | hire | v. | 僱用, 聘用, 招聘
+w002965.2 | hire | v. | 租用, 租借
+w002965.3 | hire | n. | 租用, 出租
+w002965.4 | hire | n. | 新僱員, 新員工
+w002966.1 | hop | v. | 單腳跳, 蹦跳, 跳躍
+w002966.2 | hop | v. | 跳上, 跳下, 匆匆去
+w002966.3 | hop | n. | 跳躍, 蹦跳
+w002966.4 | hop | n. | 啤酒花, 蛇麻草
+w002967.1 | insane | adj. | 瘋狂的, 荒唐的, 愚蠢的
+w002967.2 | insane | adj. | 精神錯亂的, 患精神病的
+w002968.1 | landing | n. | 著陸, 降落, 登陸
+w002968.2 | landing | n. | 樓梯平臺
+w002969.1 | layer | n. | 層, 層次, 表層
+w002969.2 | layer | n. | 層次, 層面
+w002969.3 | layer | v. | 分層堆放, 層層鋪
+w002970.1 | marry | v. | 結婚, 嫁, 娶
+w002970.2 | marry | v. | 為……主持婚禮
+w002970.3 | marry | v. | 結合, 融合
+w002971.1 | nah | int. | 不, 不是
+w002972.1 | non-violent | adj. | 非暴力的, 和平的
+w002973.1 | nowhere | adv. | 任何地方都不, 無處
+w002973.2 | nowhere | n. | 無名之地, 偏僻之處
+w002974.1 | nurse | n. | 護士, 護理人員
+w002974.2 | nurse | v. | 護理, 照料, 看護
+w002974.3 | nurse | v. | 懷有, 心懷
+w002975.1 | obtain | v. | 獲得, 得到, 取得
+w002976.1 | organic | adj. | 有機的, 不施化肥的
+w002976.2 | organic | adj. | 有機體的, 生物的
+w002976.3 | organic | adj. | 自然的, 漸進的, 有機的
+w002977.1 | ownership | n. | 所有權, 擁有, 物主身份
+w002978.1 | poetry | n. | 詩, 詩歌, 詩作
+w002978.2 | poetry | n. | 詩意, 詩情
+w002979.1 | pot | n. | 鍋, 罐, 壺
+w002979.2 | pot | n. | 花盆
+w002979.3 | pot | n. | 大麻
+w002979.4 | pot | v. | 把……栽入盆中
+w002980.1 | pray | v. | 祈禱, 禱告
+w002980.2 | pray | v. | 祈求, 盼望, 希望
+w002981.1 | recall | v. | 回想, 記起, 回憶
+w002981.2 | recall | v. | 召回, 收回
+w002981.3 | recall | n. | 召回, 收回
+w002981.4 | recall | n. | 記憶力, 回憶
+w002982.1 | rugby | n. | 橄欖球, 英式橄欖球
+w002983.1 | sake | n. | 緣故, 利益, 理由
+w002983.2 | sake | n. | 清酒, 日本米酒
+w002984.1 | sheet | n. | 床單, 被單
+w002984.2 | sheet | n. | 一張, 一頁, 紙張
+w002984.3 | sheet | n. | 薄片, 薄板
+w002985.1 | signing | n. | 簽署, 簽訂, 簽字
+w002985.2 | signing | n. | 簽約球員, 新籤人員
+w002985.3 | signing | n. | 手語
+w002986.1 | smooth | adj. | 光滑的, 平滑的, 平坦的
+w002986.2 | smooth | adj. | 順利的, 平穩的
+w002986.3 | smooth | adj. | 油滑的, 圓滑的
+w002986.4 | smooth | v. | 使平滑, 弄平, 撫平
+w002987.1 | spiritual | adj. | 精神的, 心靈的
+w002987.2 | spiritual | adj. | 宗教的, 神聖的
+w002987.3 | spiritual | n. | 靈歌, 聖歌
+w002988.1 | string | n. | 線, 細繩, 帶子
+w002988.2 | string | n. | 一串, 一系列
+w002988.3 | string | n. | 琴絃, 弦
+w002988.4 | string | v. | 串起, 懸掛
+w002989.1 | sudden | adj. | 突然的, 意外的, 忽然的
+w002990.1 | vacation | n. | 假期, 休假, 度假
+w002990.2 | vacation | v. | 度假, 休假
+w002991.1 | Arab | n. | 阿拉伯人
+w002991.2 | Arab | adj. | 阿拉伯的, 阿拉伯人的
+w002996.1 | abroad | adv. | 在國外, 到國外, 出國
+w002996.2 | abroad | adv. | 傳開, 流傳
+w002997.1 | associate | v. | 聯想, 把……聯絡起來
+w002997.2 | associate | v. | 交往, 結交
+w002997.3 | associate | n. | 同事, 合夥人, 夥伴
+w002997.4 | associate | adj. | 副的, 準的
+w002998.1 | bench | n. | 長凳, 長椅
+w002998.2 | bench | n. | 替補席, 替補隊員
+w002998.3 | bench | n. | 工作臺
+w002998.4 | bench | v. | 讓……坐冷板凳, 換下
+w002999.1 | bother | v. | 打擾, 煩擾, 麻煩
+w002999.2 | bother | v. | 費心, 費事, 操心
+w002999.3 | bother | v. | 使擔心, 使不安
+w002999.4 | bother | n. | 麻煩, 煩擾
+w003000.1 | broadcast | v. | 廣播, 播送, 播出
+w003000.2 | broadcast | n. | 廣播節目, 電視節目
+w003000.3 | broadcast | v. | 散佈, 傳播
+w003001.1 | bye | int. | 再見, 拜拜
+w003001.2 | bye | n. | 輪空
+w003002.1 | citizen | n. | 公民, 國民
+w003002.2 | citizen | n. | 市民, 居民
+w003003.1 | compete | v. | 競爭, 爭奪
+w003003.2 | compete | v. | 參加比賽, 參賽
+w003004.1 | cricket | n. | 板球
+w003004.2 | cricket | n. | 蟋蟀
+w003005.1 | disaster | n. | 災難, 災害, 禍患
+w003005.2 | disaster | n. | 徹底失敗, 慘敗
+w003006.1 | discover | v. | 發現, 發覺, 找到
+w003006.2 | discover | v. | 得知, 瞭解到
+w003007.1 | entrance | n. | 入口, 門口
+w003007.2 | entrance | n. | 進入, 入場, 登場
+w003007.3 | entrance | n. | 入學, 准入, 進入權
+w003007.4 | entrance | v. | 使著迷, 使陶醉
+w003008.1 | equally | adv. | 同樣地, 相等地
+w003008.2 | equally | adv. | 平均地, 均等地
+w003008.3 | equally | adv. | 同時, 同樣
+w003009.1 | fitness | n. | 健康, 健身, 體能
+w003009.2 | fitness | n. | 適合, 合格
+w003011.1 | friendship | n. | 友誼, 友情, 友好關係
+w003013.1 | idiot | n. | 白痴, 傻瓜, 笨蛋
+w003014.1 | intense | adj. | 強烈的, 劇烈的, 激烈的
+w003014.2 | intense | adj. | 熱切的, 認真的, 情感強烈的
+w003015.1 | left-handed | adj. | 慣用左手的, 左撇子的
+w003015.2 | left-handed | adj. | 左手用的, 左手操作的
+w003016.1 | lifetime | n. | 一生, 終身, 壽命
+w003017.1 | liquid | n. | 液體
+w003017.2 | liquid | adj. | 液體的, 液態的
+w003017.3 | liquid | adj. | 易變現的, 流動的
+w003018.1 | makeup | n. | 化妝品, 妝容
+w003018.2 | makeup | n. | 構成, 組成, 結構
+w003018.3 | makeup | n. | 性格, 氣質
+w003019.1 | medal | n. | 獎牌, 獎章, 勳章
+w003020.1 | mortgage | n. | 抵押貸款, 按揭
+w003020.2 | mortgage | v. | 抵押
+w003021.1 | narrative | n. | 敘述, 敘事, 故事
+w003021.2 | narrative | n. | 說法, 論述
+w003021.3 | narrative | adj. | 敘事的, 敘述的
+w003022.1 | narrow | adj. | 窄的, 狹窄的
+w003022.2 | narrow | adj. | 勉強的, 險勝的
+w003022.3 | narrow | adj. | 狹隘的, 有限的
+w003022.4 | narrow | v. | 變窄, 縮小, 收窄
+w003024.1 | occasionally | adv. | 偶爾, 有時, 間或
+w003025.1 | pan | n. | 平底鍋, 鍋
+w003025.2 | pan | v. | 嚴厲批評, 抨擊
+w003025.3 | pan | v. | 搖鏡頭, 平移拍攝
+w003026.1 | physics | n. | 物理, 物理學
+w003027.1 | posting | n. | 帖子, 發帖
+w003027.2 | posting | n. | 職位派遣, 委派
+w003027.3 | posting | n. | 招聘啟事, 公告
+w003028.1 | potentially | adv. | 潛在地, 可能地
+w003029.1 | reduction | n. | 減少, 降低, 縮減
+w003029.2 | reduction | n. | 減價, 降價
+w003030.1 | reflect | v. | 反映, 體現, 表明
+w003030.2 | reflect | v. | 反射, 映出
+w003030.3 | reflect | v. | 深思, 反思, 思考
+w003031.1 | refuse | v. | 拒絕, 回絕
+w003031.2 | refuse | n. | 垃圾, 廢物
+w003032.1 | resource | n. | 資源, 財力, 物力
+w003032.2 | resource | n. | 資料, 參考資源
+w003032.3 | resource | v. | 提供資金, 提供資源
+w003033.1 | roger | int. | 收到, 明白
+w003035.1 | self-contained | adj. | 獨立的, 自成一體的
+w003035.2 | self-contained | adj. | 帶獨立設施的
+w003035.3 | self-contained | adj. | 沉默寡言的, 自足的
+w003036.1 | shell | n. | 殼, 貝殼, 外殼
+w003036.2 | shell | n. | 炮彈
+w003036.3 | shell | n. | 框架, 骨架
+w003036.4 | shell | v. | 炮擊, 轟炸
+w003036.5 | shell | v. | 剝殼, 去殼
+w003037.1 | silly | adj. | 愚蠢的, 傻的, 糊塗的
+w003037.2 | silly | adj. | 可笑的, 荒唐的
+w003038.1 | subsequent | adj. | 隨後的, 後來的, 接下來的
+w003039.1 | translation | n. | 翻譯, 譯文, 譯本
+w003039.2 | translation | n. | 轉化, 轉變
+w003040.1 | visible | adj. | 看得見的, 可見的
+w003040.2 | visible | adj. | 明顯的, 顯而易見的
+w003041.1 | yep | int. | 是的, 對
+w003046.1 | amendment | n. | 修正案, 修訂條款
+w003046.2 | amendment | n. | 修改, 修正, 改動
+w003047.1 | angle | n. | 角, 角度
+w003047.2 | angle | n. | 角度, 觀點, 立場
+w003047.3 | angle | v. | 斜放, 使傾斜
+w003047.4 | angle | v. | 釣魚, 垂釣
+w003048.1 | arrive | v. | 到達, 抵達
+w003048.2 | arrive | v. | 到來, 出現
+w003048.3 | arrive | v. | 達成, 得出
+w003049.1 | belong | v. | 屬於, 歸……所有
+w003049.2 | belong | v. | 是……成員, 屬於
+w003049.3 | belong | v. | 應在, 適合
+w003050.1 | bishop | n. | 主教
+w003050.2 | bishop | n. | 象
+w003052.1 | commonly | adv. | 通常, 一般, 普遍地
+w003053.1 | connect | v. | 連線, 聯結, 接通
+w003053.2 | connect | v. | 聯絡, 關聯
+w003053.3 | connect | v. | 溝通, 產生共鳴
+w003054.1 | defensive | adj. | 防禦的, 防守的
+w003054.2 | defensive | adj. | 戒備的, 自我辯護的
+w003054.3 | defensive | n. | 守勢, 防禦
+w003055.1 | efficiency | n. | 效率, 效能, 功效
+w003056.1 | enterprise | n. | 企業, 公司
+w003056.2 | enterprise | n. | 事業, 專案, 計劃
+w003056.3 | enterprise | n. | 進取心, 創業精神
+w003057.1 | experiment | n. | 實驗, 試驗
+w003057.2 | experiment | n. | 嘗試, 試行
+w003057.3 | experiment | v. | 做實驗, 試驗, 嘗試
+w003058.1 | Feb | abbr. | 二月
+w003059.1 | forum | n. | 論壇, 討論會
+w003059.2 | forum | n. | 網路論壇, 討論區
+w003059.3 | forum | n. | 古羅馬廣場, 公共集會場所
+w003060.1 | grass | n. | 草, 青草
+w003060.2 | grass | n. | 草地, 草坪
+w003060.3 | grass | v. | 告密, 揭發
+w003061.1 | hence | adv. | 因此, 所以
+w003061.2 | hence | adv. | 從現在起, 今後
+w003062.1 | increasingly | adv. | 越來越多地, 日益, 愈加
+w003063.1 | incredibly | adv. | 極其, 非常, 難以置信地
+w003063.2 | incredibly | adv. | 令人難以置信地, 出人意料地
+w003065.1 | jay | n. | 松鴉, 冠藍鴉
+w003065.2 | jay | n. | 字母J
+w003066.1 | journalist | n. | 記者, 新聞工作者
+w003067.1 | mill | n. | 磨坊, 麵粉廠
+w003067.2 | mill | n. | 工廠, 製造廠
+w003067.3 | mill | n. | 磨, 研磨機
+w003067.4 | mill | v. | 磨碎, 碾磨
+w003069.1 | occasion | n. | 時刻, 場合, 時候
+w003069.2 | occasion | n. | 盛事, 慶典
+w003069.3 | occasion | n. | 時機, 機會
+w003069.4 | occasion | v. | 引起, 導致
+w003070.1 | pace | n. | 速度, 節奏, 步調
+w003070.2 | pace | n. | 一步, 步幅
+w003070.3 | pace | v. | 踱步, 來回走
+w003070.4 | pace | v. | 調整速度, 控制節奏
+w003071.1 | passenger | n. | 乘客, 旅客
+w003072.1 | pen | n. | 鋼筆, 筆
+w003072.2 | pen | n. | 圍欄, 圈
+w003072.3 | pen | v. | 寫, 撰寫
+w003072.4 | pen | v. | 關起來, 圈住
+w003073.1 | pope | n. | 教皇, 教宗
+w003074.1 | possession | n. | 擁有, 持有, 佔有
+w003074.2 | possession | n. | 財產, 所有物
+w003074.3 | possession | n. | 控球, 控球權
+w003075.1 | rapid | adj. | 迅速的, 快速的, 急速的
+w003075.2 | rapid | n. | 急流, 湍流
+w003076.1 | regulation | n. | 規章, 規則, 條例
+w003076.2 | regulation | n. | 管理, 控制, 監管
+w003076.3 | regulation | adj. | 規定的, 標準的
+w003077.1 | resident | n. | 居民, 住戶
+w003077.2 | resident | n. | 住院醫生
+w003077.3 | resident | adj. | 居住的, 常駐的
+w003079.1 | single-handed | adj. | 單槍匹馬的, 獨自的
+w003079.2 | single-handed | adv. | 獨自地, 單槍匹馬地
+w003080.1 | sixth | num. | 第六
+w003080.2 | sixth | n. | 六分之一
+w003081.1 | spin | v. | 旋轉, 轉動
+w003081.2 | spin | v. | 紡, 紡紗, 吐絲
+w003081.3 | spin | n. | 旋轉, 自轉
+w003081.4 | spin | n. | 兜風, 短途駕車
+w003081.5 | spin | n. | 傾向性解釋, 輿論導向
+w003082.1 | suitable | adj. | 合適的, 適合的, 適宜的
+w003083.1 | thirty | num. | 三十
+w003084.1 | valid | adj. | 有效的, 合法的
+w003084.2 | valid | adj. | 合理的, 有根據的, 正當的
+w003085.1 | vital | adj. | 至關重要的, 必不可少的
+w003085.2 | vital | adj. | 生命的, 維持生命所必需的
+w003085.3 | vital | adj. | 充滿活力的, 生機勃勃的
+w003086.1 | whilst | conj. | 當……時, 同時
+w003086.2 | whilst | conj. | 然而, 儘管
+w003090.1 | agriculture | n. | 農業, 農學, 農藝
+w003093.1 | collect | v. | 收集, 採集, 蒐集
+w003093.2 | collect | v. | 收藏
+w003093.3 | collect | v. | 接, 領取
+w003094.1 | commerce | n. | 商業, 貿易, 商務
+w003095.1 | cop | n. | 警察
+w003095.2 | cop | v. | 得到, 挨, 受到
+w003096.1 | creek | n. | 小溪, 小河
+w003096.2 | creek | n. | 小海灣, 河口
+w003097.1 | currency | n. | 貨幣, 通貨
+w003097.2 | currency | n. | 流行, 通用, 流通
+w003098.1 | exhibition | n. | 展覽, 展覽會, 展出
+w003098.2 | exhibition | n. | 表現, 展示
+w003099.1 | fraud | n. | 欺詐, 詐騙, 舞弊
+w003099.2 | fraud | n. | 騙子, 冒牌貨
+w003100.1 | funeral | n. | 葬禮, 喪禮
+w003101.1 | genuine | adj. | 真正的, 真實的, 非偽造的
+w003101.2 | genuine | adj. | 真誠的, 誠懇的
+w003102.1 | honey | n. | 蜂蜜
+w003102.2 | honey | n. | 親愛的, 寶貝
+w003103.1 | honour | n. | 榮譽, 光榮, 榮幸
+w003103.2 | honour | n. | 正直, 信譽, 名譽
+w003103.3 | honour | v. | 尊敬, 授予榮譽, 表彰
+w003103.4 | honour | v. | 履行, 信守, 兌現
+w003104.1 | hook | n. | 鉤, 掛鉤, 釣鉤
+w003104.2 | hook | v. | 鉤住, 掛住
+w003104.3 | hook | v. | 使著迷, 使上癮
+w003104.4 | hook | n. | 吸引人之處, 噱頭
+w003105.1 | hunter | n. | 獵人, 狩獵者
+w003105.2 | hunter | n. | 搜尋者, 追求者
+w003106.1 | introduce | v. | 介紹, 引見
+w003106.2 | introduce | v. | 引進, 推行, 採用
+w003106.3 | introduce | v. | 使初次接觸, 引導
+w003107.1 | km | abbr. | 千米, 公里
+w003108.1 | legacy | n. | 遺產, 遺留物, 影響
+w003108.2 | legacy | n. | 遺產, 遺贈
+w003108.3 | legacy | adj. | 遺留的, 舊版的
+w003109.1 | log | n. | 原木, 木頭
+w003109.2 | log | n. | 日誌, 記錄
+w003109.3 | log | v. | 記錄, 登記
+w003109.4 | log | v. | 伐木
+w003110.1 | merely | adv. | 僅僅, 只是, 不過
+w003111.1 | monitor | v. | 監視, 監測, 監控
+w003111.2 | monitor | n. | 顯示器, 螢幕
+w003111.3 | monitor | n. | 監測器, 監控儀
+w003111.4 | monitor | n. | 班長, 監督員
+w003112.1 | Nov | abbr. | 十一月
+w003115.1 | publishing | n. | 出版, 出版業
+w003116.1 | ratio | n. | 比率, 比例, 比
+w003117.1 | regret | v. | 後悔, 懊悔
+w003117.2 | regret | n. | 後悔, 遺憾, 懊悔
+w003117.3 | regret | v. | 遺憾, 抱歉
+w003118.1 | remind | v. | 提醒, 使想起
+w003118.2 | remind | v. | 使聯想到, 讓人想起
+w003119.1 | resort | n. | 度假勝地, 度假村
+w003119.2 | resort | v. | 訴諸, 求助於, 採取
+w003119.3 | resort | n. | 手段, 依靠
+w003120.1 | reverse | v. | 推翻, 撤銷, 扭轉
+w003120.2 | reverse | v. | 倒車, 倒退
+w003120.3 | reverse | n. | 相反, 反面
+w003120.4 | reverse | adj. | 相反的, 反向的
+w003121.1 | routine | n. | 慣例, 常規, 日常程式
+w003121.2 | routine | adj. | 常規的, 例行的
+w003121.3 | routine | n. | 一套動作, 固定節目
+w003122.1 | scary | adj. | 嚇人的, 可怕的, 恐怖的
+w003123.1 | seed | n. | 種子, 籽
+w003123.2 | seed | n. | 萌芽, 起源, 根源
+w003123.3 | seed | n. | 種子選手
+w003123.4 | seed | v. | 播種
+w003124.1 | settle | v. | 解決, 了結
+w003124.2 | settle | v. | 定居, 安頓
+w003124.3 | settle | v. | 支付, 結算
+w003125.1 | sin | n. | 罪, 罪孽, 罪惡
+w003125.2 | sin | n. | 過錯, 錯事
+w003125.3 | sin | v. | 犯罪, 犯戒
+w003126.1 | spell | v. | 拼寫, 拼讀
+w003126.2 | spell | n. | 咒語, 魔咒, 魔力
+w003126.3 | spell | n. | 一段時間, 一陣
+w003126.4 | spell | v. | 招致, 意味著
+w003127.1 | spin-off | n. | 衍生作品, 續作
+w003127.2 | spin-off | n. | 副產品, 附帶利益
+w003127.3 | spin-off | n. | 分拆公司, 子公司
+w003128.1 | summary | n. | 總結, 摘要, 概要
+w003128.2 | summary | adj. | 即決的, 草率的
+w003129.1 | survival | n. | 生存, 存活, 倖存
+w003130.1 | sword | n. | 劍, 刀
+w003131.1 | tongue | n. | 舌頭, 舌
+w003131.2 | tongue | n. | 語言
+w003131.3 | tongue | n. | 說話方式, 口氣
+w003132.1 | ward | n. | 病房
+w003132.2 | ward | n. | 選區, 行政區
+w003132.3 | ward | n. | 受監護人
+w003132.4 | ward | v. | 防止, 避開
+w003134.1 | CD | abbr. | 光碟, 鐳射唱片
+w003140.1 | achievement | n. | 成就, 成績, 功績
+w003140.2 | achievement | n. | 實現, 達成
+w003142.1 | asleep | adj. | 睡著的, 熟睡的
+w003142.2 | asleep | adj. | 麻木的, 發麻的
+w003144.1 | automatic | adj. | 自動的
+w003144.2 | automatic | adj. | 不假思索的, 無意識的
+w003144.3 | automatic | adj. | 必然的, 當然的
+w003144.4 | automatic | n. | 自動擋汽車, 自動武器
+w003145.1 | behaviour | n. | 行為, 舉止, 表現
+w003145.2 | behaviour | n. | 反應, 習性
+w003146.1 | coat | n. | 外套, 大衣
+w003146.2 | coat | n. | 皮毛, 毛皮
+w003146.3 | coat | n. | 塗層, 層
+w003146.4 | coat | v. | 給……塗上, 覆蓋
+w003147.1 | comprehensive | adj. | 全面的, 綜合的, 詳盡的
+w003147.2 | comprehensive | n. | 綜合中學
+w003148.1 | consent | n. | 同意, 准許, 許可
+w003148.2 | consent | v. | 同意, 准許, 答應
+w003149.1 | daddy | n. | 爸爸, 爹地
+w003150.1 | destruction | n. | 破壞, 毀滅, 摧毀
+w003152.1 | divorce | n. | 離婚
+w003152.2 | divorce | v. | 離婚, 與……離婚
+w003152.3 | divorce | v. | 分離, 脫離
+w003153.1 | engage | v. | 參與, 從事
+w003153.2 | engage | v. | 吸引, 佔用
+w003153.3 | engage | v. | 僱用, 聘請
+w003154.1 | extraordinary | adj. | 非凡的, 卓越的, 驚人的
+w003154.2 | extraordinary | adj. | 特別的, 臨時的
+w003155.1 | fate | n. | 命運, 天命
+w003155.2 | fate | n. | 結局, 下場, 遭遇
+w003156.1 | frequency | n. | 頻率, 頻繁, 次數
+w003156.2 | frequency | n. | 頻率, 頻段
+w003157.1 | gaming | n. | 玩電子遊戲, 遊戲
+w003157.2 | gaming | n. | 賭博
+w003158.1 | gene | n. | 基因
+w003159.1 | glory | n. | 榮譽, 光榮, 榮耀
+w003159.2 | glory | n. | 壯麗, 輝煌
+w003159.3 | glory | v. | 因……而自豪, 沾沾自喜
+w003160.1 | headquarters | n. | 總部, 總公司, 司令部
+w003161.1 | heritage | n. | 遺產, 傳統, 傳承
+w003162.1 | initiative | n. | 倡議, 新方案, 舉措
+w003162.2 | initiative | n. | 主動性, 進取心
+w003162.3 | initiative | n. | 主動權
+w003164.1 | juice | n. | 果汁, 汁液
+w003164.2 | juice | v. | 榨汁, 擠出汁
+w003165.1 | landscape | n. | 風景, 景觀, 地貌
+w003165.2 | landscape | n. | 局面, 形勢
+w003165.3 | landscape | n. | 風景畫
+w003165.4 | landscape | v. | 美化, 進行園林綠化
+w003166.1 | logic | n. | 邏輯, 道理, 推理
+w003166.2 | logic | n. | 邏輯學
+w003167.1 | objective | n. | 目標, 目的
+w003167.2 | objective | adj. | 客觀的, 公正的
+w003168.1 | organisation | n. | 組織, 機構, 團體
+w003168.2 | organisation | n. | 組織工作, 安排, 籌劃
+w003169.1 | privacy | n. | 隱私, 私密
+w003169.2 | privacy | n. | 獨處, 清靜
+w003170.1 | regard | v. | 把…看作, 認為, 視為
+w003170.2 | regard | n. | 尊重, 敬重
+w003170.3 | regard | n. | 關注, 考慮
+w003170.4 | regard | v. | 注視, 凝視
+w003171.1 | residence | n. | 住所, 住宅, 寓所
+w003171.2 | residence | n. | 居住, 居留
+w003172.1 | roughly | adv. | 大約, 大致
+w003172.2 | roughly | adv. | 粗暴地, 粗魯地
+w003173.1 | salary | n. | 薪水, 工資, 薪金
+w003174.1 | script | n. | 劇本, 指令碼, 講稿
+w003174.2 | script | n. | 文字, 字型, 筆跡
+w003174.3 | script | n. | 指令碼程式
+w003174.4 | script | v. | 編寫劇本, 編寫指令碼
+w003175.1 | self-employed | adj. | 個體經營的, 自僱的, 自由職業的
+w003176.1 | strip | n. | 條, 帶, 狹長地帶
+w003176.2 | strip | v. | 剝去, 除去
+w003176.3 | strip | v. | 脫衣服, 脫光
+w003176.4 | strip | v. | 剝奪
+w003177.1 | threatened | adj. | 受威脅的, 感到威脅的
+w003177.2 | threatened | adj. | 瀕危的
+w003178.1 | tube | n. | 管, 管子
+w003178.2 | tube | n. | 軟管, 筒
+w003178.3 | tube | n. | 倫敦地鐵
+w003179.1 | user-friendly | adj. | 易於使用的, 使用者友好的, 便於操作的
+w003181.1 | Singapore | n. | 新加坡
+w003182.1 | ambassador | n. | 大使
+w003182.2 | ambassador | n. | 代表, 使者
+w003184.1 | banking | n. | 銀行業, 金融業
+w003184.2 | banking | n. | 銀行業務
+w003185.1 | breast | n. | 乳房
+w003185.2 | breast | n. | 胸脯肉, 雞胸肉
+w003185.3 | breast | n. | 胸部, 胸膛
+w003186.1 | cant | n. | 空話, 偽善之言
+w003186.2 | cant | n. | 行話, 黑話
+w003186.3 | cant | v. | 傾斜
+w003189.1 | chemistry | n. | 化學
+w003189.2 | chemistry | n. | 化學成分, 化學性質
+w003189.3 | chemistry | n. | 默契, 來電
+w003190.1 | consumption | n. | 消耗, 消耗量
+w003190.2 | consumption | n. | 消費
+w003190.3 | consumption | n. | 食用, 飲用
+w003191.1 | corruption | n. | 腐敗, 貪汙, 賄賂
+w003191.2 | corruption | n. | 墮落, 腐化
+w003191.3 | corruption | n. | 損壞, 訛誤
+w003192.1 | cotton | n. | 棉花, 棉布
+w003192.2 | cotton | n. | 棉線
+w003193.1 | discount | n. | 折扣, 打折
+w003193.2 | discount | v. | 打折, 減價
+w003193.3 | discount | v. | 不考慮, 低估
+w003194.1 | dozen | n. | 一打, 十二個
+w003194.2 | dozen | n. | 許多, 幾十
+w003195.1 | epic | adj. | 宏大的, 壯觀的, 史詩般的
+w003195.2 | epic | n. | 史詩
+w003195.3 | epic | n. | 史詩般的作品, 鴻篇鉅製
+w003195.4 | epic | adj. | 極好的, 超棒的
+w003196.1 | exception | n. | 例外, 除外
+w003196.2 | exception | n. | 反對, 不滿
+w003197.1 | exit | n. | 出口, 通道
+w003197.2 | exit | n. | 離開, 退出
+w003197.3 | exit | v. | 離開, 退出
+w003198.1 | expand | v. | 擴大, 擴張, 發展
+w003198.2 | expand | v. | 詳述, 展開
+w003199.1 | fancy | adj. | 花哨的, 精緻的, 高檔的
+w003199.2 | fancy | v. | 想要, 喜歡
+w003199.3 | fancy | v. | 愛慕, 對…有好感
+w003199.4 | fancy | n. | 喜愛, 愛好
+w003200.1 | gorgeous | adj. | 極美的, 華麗的, 絢麗的
+w003200.2 | gorgeous | adj. | 令人愉快的, 極好的
+w003201.1 | grateful | adj. | 感激的, 感謝的
+w003202.1 | impression | n. | 印象, 感覺
+w003202.2 | impression | n. | 模仿, 學樣
+w003202.3 | impression | n. | 印記, 壓痕
+w003203.1 | indicate | v. | 表明, 顯示, 暗示
+w003203.2 | indicate | v. | 指出, 指示
+w003203.3 | indicate | v. | 打轉向燈
+w003204.1 | input | n. | 投入, 貢獻, 意見
+w003204.2 | input | n. | 輸入, 輸入資料
+w003204.3 | input | v. | 輸入
+w003206.1 | josh | v. | 開玩笑, 戲弄, 逗
+w003207.1 | knock | v. | 敲, 敲門
+w003207.2 | knock | v. | 撞, 碰
+w003207.3 | knock | v. | 批評, 貶低
+w003207.4 | knock | n. | 敲擊聲, 敲門聲
+w003207.5 | knock | n. | 打擊, 挫折
+w003208.1 | knock-on | adj. | 連鎖的, 間接的
+w003209.1 | leather | n. | 皮革, 皮
+w003210.1 | luxury | n. | 奢侈, 豪華
+w003210.2 | luxury | n. | 奢侈品
+w003210.3 | luxury | adj. | 豪華的, 高檔的
+w003211.1 | Oct | abbr. | 十月
+w003212.1 | ought | aux. | 應當, 應該
+w003212.2 | ought | aux. | 大概會, 應該會
+w003213.1 | outcome | n. | 結果, 後果, 成果
+w003214.1 | poll | n. | 民意調查, 民調
+w003214.2 | poll | n. | 投票, 選舉
+w003214.3 | poll | v. | 調查, 詢問意見
+w003214.4 | poll | v. | 獲得選票
+w003215.1 | removal | n. | 移除, 去除, 清除
+w003215.2 | removal | n. | 免職, 撤職
+w003215.3 | removal | n. | 搬家, 搬遷
+w003216.1 | rep | n. | 代表, 銷售代表
+w003216.2 | rep | n. | 重複動作, 一組次數
+w003216.3 | rep | n. | 名聲, 聲譽
+w003217.1 | reporter | n. | 記者, 通訊員
+w003219.1 | rob | v. | 搶劫, 搶奪, 盜竊
+w003219.2 | rob | v. | 剝奪, 使喪失
+w003220.1 | Sept | abbr. | 九月
+w003221.1 | sequence | n. | 順序, 次序
+w003221.2 | sequence | n. | 一系列, 連續
+w003221.3 | sequence | n. | 片段, 場景
+w003221.4 | sequence | v. | 測定序列, 排序
+w003222.1 | stretch | v. | 伸展, 舒展
+w003222.2 | stretch | v. | 拉長, 撐大
+w003222.3 | stretch | v. | 延伸, 綿延
+w003222.4 | stretch | n. | 一段, 一片
+w003222.5 | stretch | n. | 伸展運動
+w003223.1 | tear | n. | 眼淚, 淚水
+w003223.2 | tear | v. | 撕, 撕裂, 扯破
+w003223.3 | tear | n. | 破洞, 裂口
+w003223.4 | tear | v. | 飛奔, 狂奔
+w003224.1 | tennis | n. | 網球, 網球運動
+w003225.1 | terrorist | n. | 恐怖分子
+w003225.2 | terrorist | adj. | 恐怖主義的, 恐怖分子的
+w003226.1 | theater | n. | 劇院, 戲院
+w003226.2 | theater | n. | 電影院
+w003226.3 | theater | n. | 戲劇, 戲劇藝術
+w003227.1 | twelve | num. | 十二
+w003228.1 | virgin | n. | 處女, 童男
+w003228.2 | virgin | adj. | 原始的, 未開發的
+w003228.3 | virgin | adj. | 特級初榨的
+w003229.1 | wolf | n. | 狼
+w003229.2 | wolf | v. | 狼吞虎嚥
+w003232.1 | absence | n. | 缺席, 不在
+w003232.2 | absence | n. | 缺乏, 沒有
+w003233.1 | agricultural | adj. | 農業的, 農學的
+w003234.1 | asshole | n. | 混蛋, 王八蛋
+w003234.2 | asshole | n. | 肛門
+w003235.1 | bull | n. | 公牛
+w003235.2 | bull | n. | 雄性動物
+w003235.3 | bull | n. | 胡說, 廢話
+w003236.1 | commonwealth | n. | 英聯邦
+w003236.2 | commonwealth | n. | 聯邦, 共和政體
+w003236.3 | commonwealth | n. | 州
+w003237.1 | contribute | v. | 貢獻, 捐助, 捐獻
+w003237.2 | contribute | v. | 促成, 是…原因之一
+w003237.3 | contribute | v. | 投稿, 撰稿
+w003238.1 | contribution | n. | 貢獻, 作用
+w003238.2 | contribution | n. | 捐款, 捐贈
+w003238.3 | contribution | n. | 稿件, 投稿
+w003239.1 | delicious | adj. | 美味的, 可口的
+w003240.1 | deny | v. | 否認, 否定
+w003240.2 | deny | v. | 拒絕給予, 不準
+w003241.1 | ease | n. | 容易, 輕鬆
+w003241.2 | ease | n. | 安逸, 舒適, 自在
+w003241.3 | ease | v. | 減輕, 緩解
+w003241.4 | ease | v. | 緩慢移動, 小心移動
+w003242.1 | extend | v. | 延長, 延期
+w003242.2 | extend | v. | 擴大, 擴充套件
+w003242.3 | extend | v. | 延伸, 伸展
+w003243.1 | fame | n. | 名聲, 名望, 聲譽
+w003244.1 | flood | n. | 洪水, 水災
+w003244.2 | flood | n. | 大量, 湧現
+w003244.3 | flood | v. | 淹沒, 氾濫
+w003244.4 | flood | v. | 湧入, 充斥
+w003245.1 | genetic | adj. | 基因的, 遺傳的
+w003246.1 | glasses | n. | 眼鏡
+w003247.1 | impressed | adj. | 印象深刻的, 欽佩的
+w003248.1 | instant | adj. | 立即的, 即刻的
+w003248.2 | instant | adj. | 速溶的, 即食的
+w003248.3 | instant | n. | 瞬間, 片刻
+w003250.1 | liberty | n. | 自由
+w003250.2 | liberty | n. | 冒昧, 放肆
+w003251.1 | principle | n. | 原則, 準則, 信條
+w003251.2 | principle | n. | 原理, 法則
+w003251.3 | principle | n. | 道德, 節操
+w003252.1 | progressive | adj. | 進步的, 改革的
+w003252.2 | progressive | adj. | 逐步的, 漸進的
+w003252.3 | progressive | n. | 進步人士, 改革派
+w003252.4 | progressive | adj. | 進行時的
+w003253.1 | punishment | n. | 懲罰, 處罰

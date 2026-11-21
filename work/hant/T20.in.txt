@@ -1,0 +1,2500 @@
+ph_bring-back.2 | bring back | v. | 使回憶起
+ph_bring-in.1 | bring in | v. | 引進
+ph_bring-in.2 | bring in | v. | 賺
+ph_bring-out.1 | bring out | v. | 推出
+ph_bring-out.2 | bring out | v. | 使顯現
+ph_bring-down.1 | bring down | v. | 推翻
+ph_bring-down.2 | bring down | v. | 降低
+ph_bring-forward.1 | bring forward | v. | 提前
+ph_keep-one-s-word.1 | keep one's word | v. | 守信
+ph_have-a-word-with.1 | have a word with | v. | 和談一談
+ph_word-of-mouth.1 | word of mouth | n. | 口口相傳
+ph_in-a-word.1 | in a word | adv. | 總之
+ph_take-sb-s-word-for-it.1 | take sb's word for it | v. | 相信某人的話
+ph_song-and-dance.1 | song and dance | n. | 大驚小怪
+ph_in-the-process-of.1 | in the process of | prep. | 在過程中
+ph_march-on.1 | march on | v. | 向進軍
+ph_take-a-chance.1 | take a chance | v. | 冒險
+ph_no-chance.1 | no chance | int. | 不可能
+ph_stand-a-chance.1 | stand a chance | v. | 有可能
+ph_by-any-chance.1 | by any chance | adv. | 或許
+ph_outside-of.1 | outside of | prep. | 除了
+ph_make-clear.1 | make clear | v. | 表明
+ph_clear-up.1 | clear up | v. | 收拾
+ph_clear-up.2 | clear up | v. | 澄清
+ph_clear-up.3 | clear up | v. | 放晴
+ph_clear-out.1 | clear out | v. | 清理
+ph_clear-off.1 | clear off | int. | 走開
+ph_in-the-clear.1 | in the clear | adj. | 無嫌疑的
+ph_take-action.1 | take action | v. | 採取行動
+ph_out-of-action.1 | out of action | adj. | 失去作用的
+ph_go-to-town.1 | go to town | v. | 大肆鋪張
+ph_wishful-thinking.1 | wishful thinking | n. | 一廂情願
+ph_on-the-road.1 | on the road | adv. | 在路上, 巡迴
+ph_mother-tongue.1 | mother tongue | n. | 母語
+ph_for-the-moment.1 | for the moment | adv. | 暫時
+ph_in-a-moment.1 | in a moment | adv. | 馬上
+ph_at-any-moment.1 | at any moment | adv. | 隨時
+ph_the-main-thing.1 | the main thing | n. | 最重要的事
+ph_instead-of.1 | instead of | prep. | 代替, 而不是
+ph_field-trip.1 | field trip | n. | 實地考察
+ph_cut-down.1 | cut down | v. | 砍倒
+ph_cut-down.2 | cut down | v. | 削減
+ph_cut-off.1 | cut off | v. | 切斷
+ph_cut-off.2 | cut off | v. | 切掉
+ph_cut-out.1 | cut out | v. | 剪下
+ph_cut-out.2 | cut out | v. | 戒掉
+ph_cut-back.1 | cut back | v. | 削減
+ph_cut-in.1 | cut in | v. | 插嘴
+ph_cut-up.1 | cut up | v. | 切碎
+ph_cut-corners.1 | cut corners | v. | 偷工減料
+ph_cut-it-out.1 | cut it out | int. | 住手
+ph_at-all-costs.1 | at all costs | adv. | 不惜任何代價
+ph_at-the-cost-of.1 | at the cost of | prep. | 以為代價
+ph_cost-an-arm-and-a-leg.1 | cost an arm and a leg | v. | 非常昂貴
+ph_across-the-board.1 | across the board | adv. | 全面地
+ph_in-the-long-term.1 | in the long term | adv. | 長期來看
+ph_come-to-terms-with.1 | come to terms with | v. | 接受, 適應
+ph_on-good-terms.1 | on good terms | adj. | 關係良好
+ph_summer-holiday.1 | summer holiday | n. | 暑假
+ph_outer-space.1 | outer space | n. | 外層空間
+ph_in-the-running.1 | in the running | adj. | 有機會獲勝
+ph_out-of-the-running.1 | out of the running | adj. | 無獲勝希望
+ph_the-rest.1 | the rest | n. | 其餘
+ph_at-rest.1 | at rest | adj. | 靜止的
+ph_rest-assured.1 | rest assured | v. | 放心
+ph_at-any-price.1 | at any price | adv. | 不惜代價
+ph_hear-from.1 | hear from | v. | 收到來信
+ph_hear-of.1 | hear of | v. | 聽說
+ph_hear-out.1 | hear out | v. | 聽完
+ph_in-force.1 | in force | adj. | 有效的
+ph_join-forces.1 | join forces | v. | 聯合
+ph_labour-force.1 | labour force | n. | 勞動力
+ph_fine-arts.1 | fine arts | n. | 美術
+ph_fight-back.1 | fight back | v. | 反擊
+ph_fight-off.1 | fight off | v. | 擊退
+ph_going-strong.1 | going strong | adj. | 依然強健
+ph_on-site.1 | on site | adv. | 在現場
+ph_a-long-shot.1 | a long shot | n. | 希望渺茫的嘗試
+ph_give-it-a-shot.1 | give it a shot | v. | 試一試
+ph_big-shot.1 | big shot | n. | 大人物
+ph_have-sex.1 | have sex | v. | 發生性關係
+ph_miss-out.1 | miss out | v. | 錯過
+ph_miss-out.2 | miss out | v. | 遺漏
+ph_to-date.1 | to date | adv. | 迄今
+ph_in-total.1 | in total | adv. | 總共
+ph_on-record.1 | on record | adj. | 記錄在案的
+ph_off-the-record.1 | off the record | adv. | 非正式地
+ph_break-a-record.1 | break a record | v. | 打破紀錄
+ph_in-a-position-to.1 | in a position to | adj. | 能夠
+ph_on-account-of.1 | on account of | prep. | 由於
+ph_take-into-account.1 | take into account | v. | 考慮
+ph_account-for.1 | account for | v. | 解釋
+ph_account-for.2 | account for | v. | 佔比
+ph_bank-account.1 | bank account | n. | 銀行賬戶
+ph_share-out.1 | share out | v. | 分配
+ph_security-guard.1 | security guard | n. | 保安, 警衛
+ph_personal-computer.1 | personal computer | n. | 個人電腦
+ph_personal-pronoun.1 | personal pronoun | n. | 人稱代詞
+ph_nobody-s-perfect.1 | nobody's perfect | int. | 人無完人
+ph_practice-makes-perfect.1 | practice makes perfect | int. | 熟能生巧
+ph_perfect-tense.1 | perfect tense | n. | 完成時
+ph_military-service.1 | military service | n. | 兵役
+ph_not-likely.1 | not likely | int. | 不可能, 才不呢
+ph_lead-to.1 | lead to | v. | 導致, 引起
+ph_lead-sb-on.1 | lead sb on | v. | 誤導, 引誘
+ph_lead-the-way.1 | lead the way | v. | 帶路, 領先
+ph_take-the-lead.1 | take the lead | v. | 領先, 帶頭
+ph_film-star.1 | film star | n. | 電影明星
+ph_common-sense.1 | common sense | n. | 常識, 判斷力
+ph_common-ground.1 | common ground | n. | 共同點, 共識
+ph_common-knowledge.1 | common knowledge | n. | 眾所周知的事
+ph_join-the-club.1 | join the club | int. | 彼此彼此, 同病相憐
+ph_in-view-of.1 | in view of | prep. | 鑑於, 考慮到
+ph_with-a-view-to.1 | with a view to | prep. | 為了, 以便
+ph_on-view.1 | on view | adv. | 展出, 陳列
+ph_come-into-view.1 | come into view | v. | 進入視野, 出現
+ph_put-sth-to-the-test.1 | put sth to the test | v. | 檢驗, 考驗
+ph_stand-the-test-of-time.1 | stand the test of time | v. | 經得起時間考驗
+ph_blood-test.1 | blood test | n. | 驗血
+ph_test-tube.1 | test tube | n. | 試管
+ph_make-sense-of-sth.1 | make sense of sth | v. | 理解, 弄懂
+ph_in-a-sense.1 | in a sense | adv. | 在某種意義上
+ph_sense-of-humour.1 | sense of humour | n. | 幽默感
+ph_come-to-one-s-senses.1 | come to one's senses | v. | 醒悟, 恢復理智
+ph_in-return.1 | in return | adv. | 作為回報
+ph_return-ticket.1 | return ticket | n. | 往返票
+ph_many-happy-returns.1 | many happy returns | int. | 生日快樂
+ph_in-private.1 | in private | adv. | 私下, 秘密地
+ph_private-school.1 | private school | n. | 私立學校
+ph_private-sector.1 | private sector | n. | 私營部門
+ph_private-eye.1 | private eye | n. | 私家偵探
+ph_team-player.1 | team player | n. | 有團隊精神的人
+ph_record-player.1 | record player | n. | 唱機
+ph_inside-out.1 | inside out | adv. | 裡面朝外
+ph_inside-out.2 | inside out | adv. | 透徹, 徹底
+ph_on-the-inside.1 | on the inside | adv. | 內部, 內心
+ph_hold-on.1 | hold on | v. | 等一下, 稍等
+ph_hold-on.2 | hold on | v. | 抓緊
+ph_hold-up.1 | hold up | v. | 耽擱, 延誤
+ph_hold-up.2 | hold up | v. | 搶劫
+ph_hold-up.3 | hold up | v. | 舉起
+ph_hold-back.1 | hold back | v. | 抑制, 忍住
+ph_hold-back.2 | hold back | v. | 阻礙
+ph_hold-out.1 | hold out | v. | 伸出
+ph_hold-out.2 | hold out | v. | 堅持, 維持
+ph_hold-on-to.1 | hold on to | v. | 抓住, 保住
+ph_hold-off.1 | hold off | v. | 推遲, 延緩
+ph_hold-one-s-breath.1 | hold one's breath | v. | 屏住呼吸
+ph_on-hold.1 | on hold | adv. | 暫停, 擱置
+ph_on-hold.2 | on hold | adv. | 電話等待中
+ph_happen-to.1 | happen to | v. | 發生在…身上
+ph_happen-to.2 | happen to | v. | 碰巧, 恰好
+ph_as-it-happens.1 | as it happens | adv. | 碰巧, 恰好
+ph_dead-end.1 | dead end | n. | 死衚衕, 絕境
+ph_county-council.1 | county council | n. | 郡議會
+ph_shopping-center.1 | shopping center | n. | 購物中心
+ph_city-center.1 | city center | n. | 市中心
+ph_center-of-attention.1 | center of attention | n. | 注意的中心, 焦點
+ph_best-wishes.1 | best wishes | int. | 祝好, 致意
+ph_training-course.1 | training course | n. | 培訓課程
+ph_feel-sorry-for.1 | feel sorry for | v. | 同情, 可憐
+ph_result-in.1 | result in | v. | 導致, 造成
+ph_at-present.1 | at present | adv. | 目前, 現在
+ph_for-the-present.1 | for the present | adv. | 暫時
+ph_in-the-middle-of.1 | in the middle of | prep. | 在中間, 正忙於
+ph_middle-school.1 | middle school | n. | 初中
+ph_middle-age.1 | middle age | n. | 中年
+ph_rush-hour.1 | rush hour | n. | 高峰時段
+ph_happy-hour.1 | happy hour | n. | 酒吧優惠時段
+ph_in-the-event-of.1 | in the event of | prep. | 萬一, 如果
+ph_at-all-events.1 | at all events | adv. | 無論如何
+ph_break-up.1 | break up | v. | 分手
+ph_break-up.2 | break up | v. | 解散, 散開
+ph_break-up.3 | break up | v. | 放假
+ph_break-out.1 | break out | v. | 爆發
+ph_break-out.2 | break out | v. | 逃出
+ph_break-into.1 | break into | v. | 闖入
+ph_break-into.2 | break into | v. | 突然開始
+ph_break-in.1 | break in | v. | 闖入
+ph_break-in.2 | break in | v. | 打斷, 插嘴
+ph_break-off.1 | break off | v. | 中斷, 斷絕
+ph_break-through.1 | break through | v. | 突破
+ph_break-the-ice.1 | break the ice | v. | 打破沉默, 打破僵局
+ph_break-a-leg.1 | break a leg | int. | 祝你好運
+ph_lunch-break.1 | lunch break | n. | 午休
+ph_building-society.1 | building society | n. | 住房互助協會
+ph_insurance-policy.1 | insurance policy | n. | 保險單
+ph_foreign-policy.1 | foreign policy | n. | 外交政策
+ph_learn-by-heart.1 | learn by heart | v. | 背誦, 記住
+ph_learn-one-s-lesson.1 | learn one's lesson | v. | 吸取教訓
+ph_in-the-interest-of.1 | in the interest of | prep. | 為了, 符合利益
+ph_interest-rate.1 | interest rate | n. | 利率
+ph_take-an-interest-in.1 | take an interest in | v. | 對…感興趣
+ph_i-guess.1 | I guess | int. | 我想, 我猜
+ph_guess-what.1 | guess what | int. | 你猜怎麼著
+ph_your-guess-is-as-good-as-mine.1 | your guess is as good as mine | int. | 我也不知道
+ph_gold-medal.1 | gold medal | n. | 金牌
+ph_heart-of-gold.1 | heart of gold | n. | 善良的心
+ph_graphic-design.1 | graphic design | n. | 平面設計
+ph_by-design.1 | by design | adv. | 故意地
+ph_boy-scout.1 | boy scout | n. | 童子軍
+ph_answer-back.1 | answer back | v. | 頂嘴
+ph_answer-for.1 | answer for | v. | 對…負責, 承擔後果
+ph_worth-it.1 | worth it | adj. | 值得
+ph_for-what-it-s-worth.1 | for what it's worth | adv. | 不管有沒有用
+ph_by-themselves.1 | by themselves | adv. | 獨自, 靠自己
+ph_role-model.1 | role model | n. | 榜樣
+ph_press-conference.1 | press conference | n. | 記者招待會
+ph_press-release.1 | press release | n. | 新聞稿
+ph_press-on.1 | press on | v. | 繼續進行
+ph_theme-park.1 | theme park | n. | 主題公園
+ph_movie-star.1 | movie star | n. | 電影明星
+ph_movie-theater.1 | movie theater | n. | 電影院
+ph_medical-school.1 | medical school | n. | 醫學院
+ph_hot-dog.1 | hot dog | n. | 熱狗
+ph_hot-spot.1 | hot spot | n. | 熱點, 熱門地方
+ph_go-to-church.1 | go to church | v. | 做禮拜
+ph_for-certain.1 | for certain | adv. | 確定地
+ph_a-certain.1 | a certain | det. | 某個, 某種
+ph_make-certain.1 | make certain | v. | 確保, 弄清
+ph_bank-holiday.1 | bank holiday | n. | 公共假日
+ph_bank-on.1 | bank on | v. | 指望, 依賴
+ph_leave-sb-alone.1 | leave sb alone | v. | 別打擾
+ph_go-it-alone.1 | go it alone | v. | 單幹
+ph_value-added-tax.1 | value-added tax | n. | 增值稅
+ph_face-value.1 | face value | n. | 面值, 表面價值
+ph_sound-like.1 | sound like | v. | 聽起來像
+ph_safe-and-sound.1 | safe and sound | adj. | 安然無恙
+ph_sound-asleep.1 | sound asleep | adj. | 熟睡
+ph_provide-for.1 | provide for | v. | 供養, 贍養
+ph_meeting-room.1 | meeting room | n. | 會議室
+ph_ground-floor.1 | ground floor | n. | 一樓, 底層
+ph_gain-ground.1 | gain ground | v. | 取得進展, 流行
+ph_stand-one-s-ground.1 | stand one's ground | v. | 堅持立場
+ph_not-exactly.1 | not exactly | adv. | 並不完全, 不太
+ph_managing-director.1 | managing director | n. | 總經理
+ph_cool-down.1 | cool down | v. | 冷卻, 冷靜
+ph_keep-one-s-cool.1 | keep one's cool | v. | 保持冷靜
+ph_fit-the-bill.1 | fit the bill | v. | 符合要求
+ph_or-whatever.1 | or whatever | adv. | 諸如此類
+ph_income-tax.1 | income tax | n. | 所得稅
+ph_and-stuff.1 | and stuff | adv. | 之類的
+ph_stand-up.1 | stand up | v. | 站起來
+ph_stand-up.2 | stand up | v. | 放鴿子
+ph_stand-for.1 | stand for | v. | 代表, 象徵
+ph_stand-for.2 | stand for | v. | 容忍
+ph_stand-out.1 | stand out | v. | 突出, 顯眼
+ph_stand-by.1 | stand by | v. | 支援
+ph_stand-by.2 | stand by | v. | 袖手旁觀
+ph_stand-by.3 | stand by | v. | 待命
+ph_stand-up-for.1 | stand up for | v. | 支援, 維護
+ph_stand-back.1 | stand back | v. | 後退
+ph_save-up.1 | save up | v. | 存錢, 攢錢
+ph_save-face.1 | save face | v. | 保全面子
+ph_round-trip.1 | round trip | n. | 往返旅程
+ph_round-up.1 | round up | v. | 聚集, 圍捕
+ph_round-up.2 | round up | v. | 向上取整
+ph_birth-rate.1 | birth rate | n. | 出生率
+ph_exchange-rate.1 | exchange rate | n. | 匯率
+ph_follow-up.1 | follow up | v. | 跟進, 追查
+ph_follow-suit.1 | follow suit | v. | 效仿, 跟著做
+ph_as-follows.1 | as follows | adv. | 如下
+ph_take-sth-on-trust.1 | take sth on trust | v. | 輕信
+ph_step-by-step.1 | step by step | adv. | 逐步地
+ph_step-down.1 | step down | v. | 辭職, 下臺
+ph_step-in.1 | step in | v. | 介入, 干預
+ph_take-steps.1 | take steps | v. | 採取措施
+ph_cut-sb-down-to-size.1 | cut sb down to size | v. | 挫其銳氣
+ph_get-the-picture.1 | get the picture | v. | 明白, 理解
+ph_in-the-picture.1 | in the picture | adj. | 瞭解情況
+ph_mind-one-s-p-s-and-q-s.1 | mind one's p's and q's | v. | 注意言行
+ph_meet-one-s-match.1 | meet one's match | v. | 遇到對手
+ph_match-up.1 | match up | v. | 相符, 匹配
+ph_time-management.1 | time management | n. | 時間管理
+ph_out-of-one-s-league.1 | out of one's league | adj. | 高攀不上, 力不能及
+ph_green-light.1 | green light | n. | 許可, 准許
+ph_green-belt.1 | green belt | n. | 綠化帶
+ph_green-with-envy.1 | green with envy | adj. | 非常嫉妒
+ph_hard-feelings.1 | hard feelings | n. | 怨恨, 不滿
+ph_gut-feeling.1 | gut feeling | n. | 直覺
+ph_federal-government.1 | federal government | n. | 聯邦政府
+ph_fast-asleep.1 | fast asleep | adj. | 熟睡
+ph_stand-fast.1 | stand fast | v. | 堅定不移
+ph_fall-down.1 | fall down | v. | 摔倒, 倒塌
+ph_fall-apart.1 | fall apart | v. | 破碎, 崩潰
+ph_fall-out.1 | fall out | v. | 吵架, 鬧翻
+ph_fall-out.2 | fall out | v. | 脫落
+ph_fall-through.1 | fall through | v. | 落空, 失敗
+ph_fall-for.1 | fall for | v. | 愛上
+ph_fall-for.2 | fall for | v. | 上當
+ph_fall-asleep.1 | fall asleep | v. | 睡著
+ph_fall-over.1 | fall over | v. | 跌倒
+ph_fall-off.1 | fall off | v. | 跌落
+ph_fall-off.2 | fall off | v. | 減少
+ph_eat-out.1 | eat out | v. | 下館子
+ph_eat-up.1 | eat up | v. | 吃光
+ph_eat-up.2 | eat up | v. | 耗盡
+ph_eat-one-s-words.1 | eat one's words | v. | 收回前言
+ph_drive-sb-crazy.1 | drive sb crazy | v. | 把人逼瘋
+ph_drive-away.1 | drive away | v. | 趕走
+ph_test-drive.1 | test drive | n. | 試駕
+ph_hard-drive.1 | hard drive | n. | 硬碟
+ph_out-of-the-blue.1 | out of the blue | adv. | 突然, 出乎意料
+ph_once-in-a-blue-moon.1 | once in a blue moon | adv. | 千載難逢, 極少
+ph_feel-blue.1 | feel blue | v. | 情緒低落
+ph_amount-to.1 | amount to | v. | 總計
+ph_amount-to.2 | amount to | v. | 等於, 相當於
+ph_trade-in.1 | trade in | v. | 以舊換新
+ph_trade-union.1 | trade union | n. | 工會
+ph_trade-off.1 | trade off | v. | 權衡, 交換
+ph_science-fiction.1 | science fiction | n. | 科幻小說
+ph_computer-science.1 | computer science | n. | 電腦科學
+ph_under-review.1 | under review | adv. | 在審查中
+ph_within-range.1 | within range | adv. | 在範圍內
+ph_home-page.1 | home page | n. | 主頁
+ph_key-in.1 | key in | v. | 輸入
+ph_come-forward.1 | come forward | v. | 站出來, 自告奮勇
+ph_central-heating.1 | central heating | n. | 中央供暖
+ph_vote-for.1 | vote for | v. | 投票贊成
+ph_in-style.1 | in style | adv. | 氣派地, 時髦地
+ph_send-off.1 | send off | v. | 寄出
+ph_send-off.2 | send off | v. | 罰下場
+ph_send-for.1 | send for | v. | 召喚, 派人去請
+ph_send-back.1 | send back | v. | 退回
+ph_quality-time.1 | quality time | n. | 優質時光
+ph_natural-resources.1 | natural resources | n. | 自然資源
+ph_lower-case.1 | lower case | n. | 小寫字母
+ph_hate-crime.1 | hate crime | n. | 仇恨犯罪
+ph_not-one-s-cup-of-tea.1 | not one's cup of tea | adj. | 不合口味
+ph_chief-executive.1 | chief executive | n. | 執行長
+ph_in-character.1 | in character | adj. | 符合性格
+ph_out-of-character.1 | out of character | adj. | 不符合性格
+ph_big-brother.1 | big brother | n. | 哥哥
+ph_attention-span.1 | attention span | n. | 注意力持續時間
+ph_at-this-stage.1 | at this stage | adv. | 在這個階段
+ph_set-the-stage-for.1 | set the stage for | v. | 為…鋪平道路
+ph_burn-the-midnight-oil.1 | burn the midnight oil | v. | 開夜車
+ph_olive-oil.1 | olive oil | n. | 橄欖油
+ph_mind-one-s-language.1 | mind one's language | v. | 注意措辭
+ph_in-itself.1 | in itself | adv. | 本身
+ph_get-involved.1 | get involved | v. | 參與, 捲入
+ph_what-the-hell.1 | what the hell | int. | 到底, 管他呢
+ph_go-to-hell.1 | go to hell | int. | 見鬼去吧
+ph_a-hell-of-a.1 | a hell of a | det. | 極其, 非常
+ph_economic-growth.1 | economic growth | n. | 經濟增長
+ph_in-cold-blood.1 | in cold blood | adv. | 冷酷無情地
+ph_blood-pressure.1 | blood pressure | n. | 血壓
+ph_information-technology.1 | information technology | n. | 資訊科技
+ph_the-poor.1 | the poor | n. | 窮人
+ph_kill-off.1 | kill off | v. | 消滅
+ph_damn-it.1 | damn it | int. | 該死
+ph_not-give-a-damn.1 | not give a damn | v. | 毫不在乎
+ph_born-and-bred.1 | born and bred | adj. | 土生土長的
+ph_under-attack.1 | under attack | adv. | 受到攻擊
+ph_add-up.1 | add up | v. | 加起來
+ph_add-up.2 | add up | v. | 講得通
+ph_add-to.1 | add to | v. | 增加
+ph_walk-out.1 | walk out | v. | 憤然離開
+ph_walk-out.2 | walk out | v. | 罷工
+ph_walk-away.1 | walk away | v. | 走開, 逃避
+ph_walk-of-life.1 | walk of life | n. | 行業, 階層
+ph_staff-room.1 | staff room | n. | 教員休息室
+ph_sign-up.1 | sign up | v. | 報名, 註冊
+ph_sign-in.1 | sign in | v. | 登入, 簽到
+ph_sign-out.1 | sign out | v. | 登出, 簽退
+ph_sign-language.1 | sign language | n. | 手語
+ph_race-against-time.1 | race against time | n. | 爭分奪秒
+ph_human-race.1 | human race | n. | 人類
+ph_pick-up.1 | pick up | v. | 撿起
+ph_pick-up.2 | pick up | v. | 接人
+ph_pick-up.3 | pick up | v. | 學會
+ph_pick-out.1 | pick out | v. | 挑選, 辨認
+ph_pick-on.1 | pick on | v. | 欺負, 找茬
+ph_lose-weight.1 | lose weight | v. | 減肥
+ph_lose-one-s-temper.1 | lose one's temper | v. | 發脾氣
+ph_lose-touch.1 | lose touch | v. | 失去聯絡
+ph_on-the-increase.1 | on the increase | adv. | 在增加
+ph_let-one-s-hair-down.1 | let one's hair down | v. | 放鬆, 盡情玩
+ph_foreign-language.1 | foreign language | n. | 外語
+ph_financial-year.1 | financial year | n. | 財政年度
+ph_cover-up.1 | cover up | v. | 掩蓋
+ph_cover-up.2 | cover up | v. | 蓋住
+ph_cover-for.1 | cover for | v. | 代班, 替人掩飾
+ph_city-council.1 | city council | n. | 市議會
+ph_all-things-considered.1 | all things considered | adv. | 總的來看
+ph_dress-code.1 | dress code | n. | 著裝要求
+ph_by-choice.1 | by choice | adv. | 自願地
+ph_multiple-choice.1 | multiple choice | n. | 多項選擇
+ph_in-writing.1 | in writing | adv. | 以書面形式
+ph_at-the-top-of-one-s-voice.1 | at the top of one's voice | adv. | 大聲地
+ph_play-it-safe.1 | play it safe | v. | 謹慎行事
+ph_better-safe-than-sorry.1 | better safe than sorry | int. | 小心無大錯
+ph_paper-towel.1 | paper towel | n. | 紙巾
+ph_on-paper.1 | on paper | adv. | 理論上, 書面上
+ph_cut-one-s-losses.1 | cut one's losses | v. | 及時止損
+ph_at-a-loss.1 | at a loss | adj. | 不知所措
+ph_weight-loss.1 | weight loss | n. | 減肥, 體重減輕
+ph_figure-out.1 | figure out | v. | 弄明白, 想出
+ph_figure-of-speech.1 | figure of speech | n. | 修辭, 比喻
+ph_die-out.1 | die out | v. | 滅絕, 消失
+ph_die-down.1 | die down | v. | 逐漸平息
+ph_be-dying-for.1 | be dying for | v. | 渴望
+ph_go-crazy.1 | go crazy | v. | 發瘋, 狂熱
+ph_crazy-about.1 | crazy about | adj. | 狂熱喜歡
+ph_go-to-bed.1 | go to bed | v. | 上床睡覺
+ph_make-the-bed.1 | make the bed | v. | 鋪床
+ph_bed-and-breakfast.1 | bed and breakfast | n. | 家庭旅館
+ph_success-story.1 | success story | n. | 成功典範
+ph_at-sea.1 | at sea | adv. | 在海上
+ph_at-sea.2 | at sea | adj. | 茫然
+ph_in-practice.1 | in practice | adv. | 實際上
+ph_out-of-practice.1 | out of practice | adj. | 荒疏
+ph_listen-to.1 | listen to | v. | 聽
+ph_listen-out-for.1 | listen out for | v. | 留心聽
+ph_listen-in.1 | listen in | v. | 偷聽
+ph_internet-cafe.1 | internet cafe | n. | 網咖
+ph_forget-it.1 | forget it | int. | 算了, 沒關係
+ph_forgive-and-forget.1 | forgive and forget | v. | 既往不咎
+ph_cost-the-earth.1 | cost the earth | v. | 非常昂貴
+ph_what-on-earth.1 | what on earth | pron. | 究竟什麼
+ph_to-tell-the-truth.1 | to tell the truth | adv. | 說實話
+ph_moment-of-truth.1 | moment of truth | n. | 關鍵時刻
+ph_ten-to-one.1 | ten to one | adv. | 十有八九
+ph_turn-the-tables.1 | turn the tables | v. | 扭轉局面
+ph_on-the-table.1 | on the table | adj. | 在討論中
+ph_table-tennis.1 | table tennis | n. | 乒乓球
+ph_go-to-sleep.1 | go to sleep | v. | 入睡
+ph_sleep-in.1 | sleep in | v. | 睡懶覺
+ph_sleep-on-it.1 | sleep on it | v. | 考慮一晚
+ph_sleep-over.1 | sleep over | v. | 在別人家過夜
+ph_take-a-risk.1 | take a risk | v. | 冒險
+ph_pass-away.1 | pass away | v. | 去世
+ph_pass-out.1 | pass out | v. | 昏倒
+ph_pass-by.1 | pass by | v. | 經過
+ph_pass-on.1 | pass on | v. | 傳遞, 轉告
+ph_pass-through.1 | pass through | v. | 路過
+ph_on-offer.1 | on offer | adj. | 供應中, 特價
+ph_missing-person.1 | missing person | n. | 失蹤者
+ph_mark-down.1 | mark down | v. | 降價
+ph_on-your-marks.1 | on your marks | int. | 各就各位
+ph_question-mark.1 | question mark | n. | 問號
+ph_deep-down.1 | deep down | adv. | 內心深處
+ph_in-deep-water.1 | in deep water | adv. | 陷入困境
+ph_below-average.1 | below average | adj. | 低於平均
+ph_off-base.1 | off base | adj. | 完全錯誤
+ph_touch-base.1 | touch base | v. | 聯絡
+ph_have-access-to.1 | have access to | v. | 可以使用
+ph_off-the-wall.1 | off the wall | adj. | 古怪的
+ph_drive-sb-up-the-wall.1 | drive sb up the wall | v. | 使抓狂
+ph_straight-away.1 | straight away | adv. | 立刻
+ph_get-sth-straight.1 | get sth straight | v. | 弄清楚
+ph_straight-ahead.1 | straight ahead | adv. | 一直往前
+ph_a-piece-of-cake.1 | a piece of cake | n. | 小菜一碟
+ph_give-sb-a-piece-of-one-s-mind.1 | give sb a piece of one's mind | v. | 訓斥
+ph_take-note.1 | take note | v. | 注意
+ph_take-notes.1 | take notes | v. | 做筆記
+ph_prime-minister.1 | prime minister | n. | 首相, 總理
+ph_gold-mine.1 | gold mine | n. | 金礦, 寶庫
+ph_in-the-dark.1 | in the dark | adj. | 矇在鼓裡
+ph_after-dark.1 | after dark | adv. | 天黑後
+ph_credit-card.1 | credit card | n. | 信用卡
+ph_play-one-s-cards-right.1 | play one's cards right | v. | 處理得當
+ph_build-up.1 | build up | v. | 逐漸增加
+ph_build-up.2 | build up | v. | 增強
+ph_build-on.1 | build on | v. | 以…為基礎
+ph_think-outside-the-box.1 | think outside the box | v. | 跳出框框思考
+ph_have-a-ball.1 | have a ball | v. | 玩得開心
+ph_on-the-ball.1 | on the ball | adj. | 機靈, 反應快
+ph_write-off.1 | write off | v. | 登出
+ph_write-off.2 | write off | v. | 認為無用
+ph_up-to-standard.1 | up to standard | adj. | 達標
+ph_standard-of-living.1 | standard of living | n. | 生活水平
+ph_speak-up.1 | speak up | v. | 大聲說
+ph_speak-up.2 | speak up | v. | 直言
+ph_speak-for-itself.1 | speak for itself | v. | 不言而喻
+ph_generally-speaking.1 | generally speaking | adv. | 一般來說
+ph_rock-and-roll.1 | rock and roll | n. | 搖滾樂
+ph_on-the-rocks.1 | on the rocks | adj. | 瀕臨破裂
+ph_on-the-rocks.2 | on the rocks | adj. | 加冰的
+ph_rock-bottom.1 | rock bottom | n. | 最低點
+ph_in-response-to.1 | in response to | prep. | 作為回應
+ph_in-this-respect.1 | in this respect | adv. | 在這方面
+ph_pay-one-s-respects.1 | pay one's respects | v. | 致敬, 弔唁
+ph_a-pain-in-the-neck.1 | a pain in the neck | n. | 討厭的人或事
+ph_take-pains.1 | take pains | v. | 煞費苦心
+ph_put-on-weight.1 | put on weight | v. | 發胖
+ph_pull-one-s-weight.1 | pull one's weight | v. | 盡職盡責
+ph_keep-track-of.1 | keep track of | v. | 記錄, 瞭解動態
+ph_on-track.1 | on track | adj. | 步入正軌
+ph_lose-track-of.1 | lose track of | v. | 記不清, 不再瞭解
+ph_the-day-after-tomorrow.1 | the day after tomorrow | n. | 後天
+ph_student-loan.1 | student loan | n. | 助學貸款
+ph_in-store.1 | in store | adj. | 即將發生
+ph_department-store.1 | department store | n. | 百貨商店
+ph_set-store-by.1 | set store by | v. | 重視
+ph_provided-that.1 | provided that | conj. | 假如, 只要
+ph_at-peace.1 | at peace | adj. | 安寧
+ph_make-peace.1 | make peace | v. | 講和
+ph_social-network.1 | social network | n. | 社交網路
+ph_funny-bone.1 | funny bone | n. | 肘部麻筋
+ph_see-eye-to-eye.1 | see eye to eye | v. | 意見一致
+ph_catch-sb-s-eye.1 | catch sb's eye | v. | 吸引注意
+ph_turn-a-blind-eye.1 | turn a blind eye | v. | 視而不見
+ph_in-the-blink-of-an-eye.1 | in the blink of an eye | adv. | 轉眼間
+ph_except-for.1 | except for | prep. | 除了
+ph_in-effect.1 | in effect | adv. | 實際上
+ph_in-effect.2 | in effect | adj. | 生效
+ph_take-effect.1 | take effect | v. | 生效, 起作用
+ph_catch-a-cold.1 | catch a cold | v. | 感冒
+ph_in-the-cold.1 | in the cold | adv. | 被冷落
+ph_cold-feet.1 | cold feet | n. | 臨陣退縮
+ph_take-charge.1 | take charge | v. | 接管, 負責
+ph_the-west.1 | the West | n. | 西方
+ph_text-message.1 | text message | n. | 簡訊
+ph_bus-station.1 | bus station | n. | 公交總站, 汽車站
+ph_train-station.1 | train station | n. | 火車站
+ph_radio-station.1 | radio station | n. | 電臺
+ph_peer-pressure.1 | peer pressure | n. | 同伴壓力
+ph_gas-up.1 | gas up | v. | 加油
+ph_step-on-the-gas.1 | step on the gas | v. | 加速, 趕快
+ph_greenhouse-gas.1 | greenhouse gas | n. | 溫室氣體
+ph_desert-island.1 | desert island | n. | 荒島
+ph_as-expected.1 | as expected | adv. | 正如預料
+ph_double-standard.1 | double standard | n. | 雙重標準
+ph_tell-the-difference.1 | tell the difference | v. | 分辨, 區別
+ph_split-the-difference.1 | split the difference | v. | 折中, 各讓一步
+ph_capital-city.1 | capital city | n. | 首都
+ph_beat-it.1 | beat it | int. | 走開, 滾開
+ph_off-the-beaten-track.1 | off the beaten track | adj. | 偏僻的
+ph_in-association-with.1 | in association with | prep. | 與…合作
+ph_ahead-of-schedule.1 | ahead of schedule | adv. | 提前
+ph_travel-light.1 | travel light | v. | 輕裝旅行
+ph_at-full-speed.1 | at full speed | adv. | 全速
+ph_speed-bump.1 | speed bump | n. | 減速帶
+ph_all-sorts-of.1 | all sorts of | det. | 各種各樣的
+ph_out-of-sorts.1 | out of sorts | adj. | 不舒服, 心情不好
+ph_get-the-message.1 | get the message | v. | 明白, 領會
+ph_join-up.1 | join up | v. | 參軍
+ph_join-up.2 | join up | v. | 連線
+ph_on-thin-ice.1 | on thin ice | adj. | 如履薄冰
+ph_ice-skating.1 | ice skating | n. | 滑冰
+ph_in-focus.1 | in focus | adj. | 清晰的
+ph_cross-over.1 | cross over | v. | 越過, 轉入
+ph_cross-off.1 | cross off | v. | 從名單中劃去
+ph_take-credit-for.1 | take credit for | v. | 把功勞歸於自己
+ph_to-sb-s-credit.1 | to sb's credit | adv. | 值得稱讚的是
+ph_campaign-for.1 | campaign for | v. | 為…奔走
+ph_from-the-beginning.1 | from the beginning | adv. | 從一開始
+ph_in-the-beginning.1 | in the beginning | adv. | 起初
+ph_you-re-welcome.1 | you're welcome | int. | 不客氣
+ph_guided-tour.1 | guided tour | n. | 有導遊的遊覽
+ph_on-tour.1 | on tour | adj. | 在巡迴演出
+ph_garage-sale.1 | garage sale | n. | 舊物出售
+ph_link-up.1 | link up | v. | 連線, 聯合
+ph_fair-play.1 | fair play | n. | 公平競爭
+ph_sell-out.1 | sell out | v. | 賣光
+ph_sell-out.2 | sell out | v. | 背叛
+ph_sell-off.1 | sell off | v. | 廉價出售
+ph_second-nature.1 | second nature | n. | 第二天性, 習慣
+ph_any-minute.1 | any minute | adv. | 隨時
+ph_go-the-extra-mile.1 | go the extra mile | v. | 加倍努力
+ph_beyond-belief.1 | beyond belief | adv. | 難以置信
+ph_beyond-one-s-control.1 | beyond one's control | adj. | 無法控制
+ph_spend-on.1 | spend on | v. | 花費在
+ph_on-the-scene.1 | on the scene | adv. | 在現場
+ph_safety-pin.1 | safety pin | n. | 別針
+ph_do-justice-to.1 | do justice to | v. | 公正對待, 充分展示
+ph_clean-out.1 | clean out | v. | 清理
+ph_clean-out.2 | clean out | v. | 使身無分文, 掏空
+ph_come-clean.1 | come clean | v. | 坦白, 全盤招供
+ph_agree-to-disagree.1 | agree to disagree | v. | 求同存異
+ph_wide-awake.1 | wide awake | adj. | 完全清醒
+ph_change-the-subject.1 | change the subject | v. | 轉換話題
+ph_search-for.1 | search for | v. | 尋找, 搜尋
+ph_gun-down.1 | gun down | v. | 槍殺
+ph_stick-to-one-s-guns.1 | stick to one's guns | v. | 堅持立場
+ph_in-addition-to.1 | in addition to | prep. | 除…之外
+ph_gas-station.1 | gas station | n. | 加油站
+ph_double-up.1 | double up | v. | 彎腰, 笑彎腰
+ph_double-up.2 | double up | v. | 合用, 共用
+ph_double-room.1 | double room | n. | 雙人房
+ph_capital-letter.1 | capital letter | n. | 大寫字母
+ph_capital-punishment.1 | capital punishment | n. | 死刑
+ph_beat-up.1 | beat up | v. | 痛打, 毒打
+ph_beat-around-the-bush.1 | beat around the bush | v. | 拐彎抹角
+ph_allow-for.1 | allow for | v. | 考慮到, 顧及
+ph_ahead-of.1 | ahead of | prep. | 在…前面, 早於
+ph_ahead-of-time.1 | ahead of time | adv. | 提前
+ph_travel-agent.1 | travel agent | n. | 旅行代理人
+ph_speed-up.1 | speed up | v. | 加速
+ph_speed-limit.1 | speed limit | n. | 限速
+ph_sort-out.1 | sort out | v. | 解決, 處理
+ph_sort-out.2 | sort out | v. | 整理, 分類
+ph_sort-of.1 | sort of | adv. | 有點, 有幾分
+ph_leave-a-message.1 | leave a message | v. | 留言
+ph_join-in.1 | join in | v. | 參加, 加入
+ph_ice-cream.1 | ice cream | n. | 冰淇淋
+ph_ice-cube.1 | ice cube | n. | 冰塊
+ph_ice-hockey.1 | ice hockey | n. | 冰球
+ph_focus-on.1 | focus on | v. | 集中於, 專注於
+ph_cross-out.1 | cross out | v. | 劃掉, 刪去
+ph_keep-one-s-fingers-crossed.1 | keep one's fingers crossed | v. | 祈求好運
+ph_for-sale.1 | for sale | adj. | 待售
+ph_kid-around.1 | kid around | v. | 開玩笑
+ph_no-kidding.1 | no kidding | int. | 真的嗎, 不是開玩笑
+ph_drop-off.1 | drop off | v. | 送到, 放下
+ph_drop-off.2 | drop off | v. | 睡著
+ph_drop-off.3 | drop off | v. | 減少
+ph_drop-out.1 | drop out | v. | 退學, 退出
+ph_drop-by.1 | drop by | v. | 順便拜訪
+ph_drop-in.1 | drop in | v. | 順便拜訪
+ph_contact-lens.1 | contact lens | n. | 隱形眼鏡
+ph_by-nature.1 | by nature | adv. | 天生
+ph_in-a-minute.1 | in a minute | adv. | 馬上, 立刻
+ph_wait-a-minute.1 | wait a minute | int. | 等一下
+ph_at-the-last-minute.1 | at the last minute | adv. | 在最後一刻
+ph_beyond-doubt.1 | beyond doubt | adv. | 毫無疑問
+ph_behind-the-scenes.1 | behind the scenes | adv. | 在幕後, 暗中
+ph_safety-belt.1 | safety belt | n. | 安全帶
+ph_bring-to-justice.1 | bring to justice | v. | 將…繩之以法
+ph_under-construction.1 | under construction | adj. | 在建造中
+ph_computer-game.1 | computer game | n. | 電腦遊戲
+ph_clean-up.1 | clean up | v. | 打掃乾淨
+ph_agree-with.1 | agree with | v. | 同意, 贊成
+ph_agree-with.2 | agree with | v. | 適合
+ph_agree-to.1 | agree to | v. | 答應, 同意
+ph_agree-on.1 | agree on | v. | 就…達成一致
+ph_wide-open.1 | wide open | adj. | 大開的, 敞開的
+ph_far-and-wide.1 | far and wide | adv. | 到處, 廣泛地
+ph_subject-to.1 | subject to | adj. | 易受…影響的, 取決於
+ph_search-engine.1 | search engine | n. | 搜尋引擎
+ph_heavy-metal.1 | heavy metal | n. | 重金屬音樂
+ph_heavy-metal.2 | heavy metal | n. | 重金屬
+ph_jump-the-gun.1 | jump the gun | v. | 操之過急
+ph_calling-card.1 | calling card | n. | 名片, 電話卡
+ph_to-the-best-of-one-s-ability.1 | to the best of one's ability | adv. | 盡最大努力
+ph_take-the-opportunity.1 | take the opportunity | v. | 抓住機會
+ph_raw-material.1 | raw material | n. | 原材料
+ph_to-the-letter.1 | to the letter | adv. | 不折不扣地
+ph_cover-letter.1 | cover letter | n. | 求職信
+ph_ladies-and-gentlemen.1 | ladies and gentlemen | int. | 女士們先生們
+ph_judge-by.1 | judge by | v. | 根據…判斷
+ph_fit-into.1 | fit into | v. | 適合, 融入
+ph_claim-back.1 | claim back | v. | 要回
+ph_shopping-centre.1 | shopping centre | n. | 購物中心
+ph_centre-stage.1 | centre stage | n. | 中心位置
+ph_rule-of-thumb.1 | rule of thumb | n. | 經驗法則
+ph_reach-out.1 | reach out | v. | 伸出手
+ph_reach-out.2 | reach out | v. | 主動聯絡
+ph_physical-education.1 | physical education | n. | 體育
+ph_public-opinion.1 | public opinion | n. | 輿論
+ph_opening-hours.1 | opening hours | n. | 營業時間
+ph_health-insurance.1 | health insurance | n. | 健康保險
+ph_hurt-one-s-feelings.1 | hurt one's feelings | v. | 傷害感情
+ph_take-the-floor.1 | take the floor | v. | 起身發言
+ph_first-floor.1 | first floor | n. | 二樓
+ph_first-floor.2 | first floor | n. | 一樓
+ph_be-finished-with.1 | be finished with | v. | 用完, 結束
+ph_behind-bars.1 | behind bars | adv. | 坐牢
+ph_at-worst.1 | at worst | adv. | 在最壞的情況下
+ph_take-stock.1 | take stock | v. | 評估, 盤點
+ph_none-of-sb-s-business.1 | none of sb's business | n. | 與某人無關
+ph_none-other-than.1 | none other than | pron. | 正是
+ph_master-of-ceremonies.1 | master of ceremonies | n. | 司儀
+ph_in-the-direction-of.1 | in the direction of | prep. | 朝…方向
+ph_dance-floor.1 | dance floor | n. | 舞池
+ph_civil-servant.1 | civil servant | n. | 公務員
+ph_wear-and-tear.1 | wear and tear | n. | 磨損
+ph_spring-up.1 | spring up | v. | 湧現
+ph_spring-break.1 | spring break | n. | 春假
+ph_spring-roll.1 | spring roll | n. | 春捲
+ph_keep-a-secret.1 | keep a secret | v. | 保守秘密
+ph_for-lack-of.1 | for lack of | prep. | 因缺乏
+ph_cash-in-on.1 | cash in on | v. | 從…中獲利
+ph_band-together.1 | band together | v. | 聯合起來
+ph_touch-down.1 | touch down | v. | 著陸
+ph_sweet-tooth.1 | sweet tooth | n. | 愛吃甜食
+ph_sweet-potato.1 | sweet potato | n. | 紅薯
+ph_speaking-of.1 | speaking of | prep. | 說到
+ph_try-one-s-luck.1 | try one's luck | v. | 碰運氣
+ph_out-of-luck.1 | out of luck | adj. | 運氣不好
+ph_finish-up.1 | finish up | v. | 最終處於
+ph_finish-up.2 | finish up | v. | 吃光
+ph_secretary-of-state.1 | secretary of state | n. | 國務卿, 國務大臣
+ph_plus-sign.1 | plus sign | n. | 加號
+ph_be-interested-in.1 | be interested in | v. | 對…感興趣
+ph_fit-in.1 | fit in | v. | 融入, 合得來
+ph_fit-in.2 | fit in | v. | 擠出時間
+ph_keep-fit.1 | keep fit | v. | 保持健康
+ph_for-fear-of.1 | for fear of | prep. | 以免, 生怕
+ph_lay-claim-to.1 | lay claim to | v. | 聲稱擁有
+ph_rule-out.1 | rule out | v. | 排除
+ph_pros-and-cons.1 | pros and cons | n. | 利弊
+ph_in-my-opinion.1 | in my opinion | adv. | 依我看
+ph_floor-plan.1 | floor plan | n. | 平面圖
+ph_to-some-degree.1 | to some degree | adv. | 在某種程度上
+ph_in-stock.1 | in stock | adj. | 有現貨
+ph_master-s-degree.1 | master's degree | n. | 碩士學位
+ph_civil-war.1 | civil war | n. | 內戰
+ph_civil-rights.1 | civil rights | n. | 公民權利
+ph_wear-out.1 | wear out | v. | 磨損, 穿破
+ph_wear-out.2 | wear out | v. | 使筋疲力盡
+ph_wear-off.1 | wear off | v. | 逐漸消失
+ph_senior-citizen.1 | senior citizen | n. | 老年人
+ph_in-secret.1 | in secret | adv. | 秘密地
+ph_fan-club.1 | fan club | n. | 歌迷會, 粉絲俱樂部
+ph_cash-machine.1 | cash machine | n. | 自動取款機
+ph_get-in-touch.1 | get in touch | v. | 取得聯絡
+ph_touch-on.1 | touch on | v. | 簡單提到
+ph_be-supposed-to.1 | be supposed to | v. | 應該, 應當
+ph_strictly-speaking.1 | strictly speaking | adv. | 嚴格來說
+ph_by-the-skin-of-one-s-teeth.1 | by the skin of one's teeth | adv. | 僥倖, 勉強
+ph_bad-luck.1 | bad luck | n. | 倒黴, 運氣不好
+ph_grand-piano.1 | grand piano | n. | 三角鋼琴
+ph_finish-off.1 | finish off | v. | 完成, 吃完
+ph_finish-line.1 | finish line | n. | 終點線
+ph_dream-come-true.1 | dream come true | n. | 夢想成真
+ph_direct-speech.1 | direct speech | n. | 直接引語
+ph_sit-in-on.1 | sit in on | v. | 旁聽
+ph_sit-through.1 | sit through | v. | 耐著性子看完
+ph_sit-around.1 | sit around | v. | 閒坐
+ph_grow-out-of.1 | grow out of | v. | 長大穿不下, 擺脫
+ph_grow-on.1 | grow on | v. | 逐漸喜歡上
+ph_drink-to.1 | drink to | v. | 為…乾杯
+ph_in-doubt.1 | in doubt | adj. | 不確定的
+ph_crime-scene.1 | crime scene | n. | 犯罪現場
+ph_carry-over.1 | carry over | v. | 延續, 轉入
+ph_for-the-purpose-of.1 | for the purpose of | prep. | 為了
+ph_make-a-killing.1 | make a killing | v. | 發大財
+ph_rise-to-the-challenge.1 | rise to the challenge | v. | 迎接挑戰
+ph_broken-heart.1 | broken heart | n. | 心碎
+ph_block-of-flats.1 | block of flats | n. | 公寓樓
+ph_weather-the-storm.1 | weather the storm | v. | 渡過難關
+ph_status-quo.1 | status quo | n. | 現狀
+ph_pop-in.1 | pop in | v. | 順便拜訪
+ph_mass-production.1 | mass production | n. | 大規模生產
+ph_put-one-s-foot-in-it.1 | put one's foot in it | v. | 說錯話
+ph_foot-the-bill.1 | foot the bill | v. | 買單
+ph_catch-one-s-breath.1 | catch one's breath | v. | 喘口氣
+ph_travel-agency.1 | travel agency | n. | 旅行社
+ph_dream-of.1 | dream of | v. | 夢想
+ph_dream-up.1 | dream up | v. | 想出, 編造
+ph_direct-object.1 | direct object | n. | 直接賓語
+ph_email-address.1 | email address | n. | 電子郵件地址
+ph_sit-up.1 | sit up | v. | 坐起來
+ph_sit-up.2 | sit up | v. | 熬夜
+ph_sit-back.1 | sit back | v. | 放鬆, 袖手旁觀
+ph_take-notice.1 | take notice | v. | 注意
+ph_at-short-notice.1 | at short notice | adv. | 臨時通知
+ph_washing-machine.1 | washing machine | n. | 洗衣機
+ph_grow-up.1 | grow up | v. | 長大, 成熟
+ph_grow-into.1 | grow into | v. | 長大穿得下
+ph_driving-licence.1 | driving licence | n. | 駕照
+ph_drink-up.1 | drink up | v. | 喝完
+ph_spot-on.1 | spot on | adj. | 完全正確
+ph_on-the-spot.1 | on the spot | adv. | 當場, 立即
+ph_in-reality.1 | in reality | adv. | 實際上
+ph_carry-on.1 | carry on | v. | 繼續
+ph_carry-out.1 | carry out | v. | 執行, 實施
+ph_get-carried-away.1 | get carried away | v. | 失去控制, 過於激動
+ph_be-responsible-for.1 | be responsible for | v. | 對…負責
+ph_primary-school.1 | primary school | n. | 小學
+ph_holy-war.1 | holy war | n. | 聖戰
+ph_block-out.1 | block out | v. | 擋住, 遮住
+ph_block-out.2 | block out | v. | 忘掉
+ph_under-the-weather.1 | under the weather | adj. | 不舒服, 身體不適
+ph_weather-forecast.1 | weather forecast | n. | 天氣預報
+ph_trial-and-error.1 | trial and error | n. | 反覆試驗
+ph_on-trial.1 | on trial | adj. | 受審
+ph_pop-up.1 | pop up | v. | 突然出現
+ph_pop-music.1 | pop music | n. | 流行音樂
+ph_on-cloud-nine.1 | on cloud nine | adj. | 欣喜若狂
+ph_put-one-s-foot-down.1 | put one's foot down | v. | 堅決反對
+ph_drug-dealer.1 | drug dealer | n. | 毒販
+ph_the-coast-is-clear.1 | the coast is clear | int. | 沒有危險了
+ph_cell-phone.1 | cell phone | n. | 手機
+ph_catch-up.1 | catch up | v. | 趕上, 追上
+ph_catch-on.1 | catch on | v. | 流行起來
+ph_catch-on.2 | catch on | v. | 理解
+ph_walking-stick.1 | walking stick | n. | 手杖
+ph_standing-ovation.1 | standing ovation | n. | 起立鼓掌
+ph_job-interview.1 | job interview | n. | 求職面試
+ph_heat-up.1 | heat up | v. | 加熱
+ph_flight-of-stairs.1 | flight of stairs | n. | 一段樓梯
+ph_good-evening.1 | good evening | int. | 晚上好
+ph_inferiority-complex.1 | inferiority complex | n. | 自卑情結
+ph_make-a-speech.1 | make a speech | v. | 發表演講
+ph_endangered-species.1 | endangered species | n. | 瀕危物種
+ph_serve-as.1 | serve as | v. | 用作, 充當
+ph_royal-family.1 | royal family | n. | 王室
+ph_give-sb-a-ride.1 | give sb a ride | v. | 讓某人搭車
+ph_take-sb-for-a-ride.1 | take sb for a ride | v. | 欺騙
+ph_mental-health.1 | mental health | n. | 心理健康
+ph_fat-chance.1 | fat chance | int. | 不可能
+ph_not-to-worry.1 | not to worry | int. | 沒關係
+ph_get-wind-of.1 | get wind of | v. | 風聞
+ph_lie-ahead.1 | lie ahead | v. | 即將來臨
+ph_in-demand.1 | in demand | adj. | 需求大的
+ph_supply-and-demand.1 | supply and demand | n. | 供求
+ph_get-to-the-bottom-of.1 | get to the bottom of | v. | 查明真相
+ph_throw-out.1 | throw out | v. | 扔掉, 趕出
+ph_throw-in.1 | throw in | v. | 額外贈送
+ph_throw-a-party.1 | throw a party | v. | 舉辦聚會
+ph_fresh-air.1 | fresh air | n. | 新鮮空氣
+ph_count-me-out.1 | count me out | int. | 別算我
+ph_school-bus.1 | school bus | n. | 校車
+ph_on-target.1 | on target | adj. | 按計劃
+ph_target-audience.1 | target audience | n. | 目標受眾
+ph_push-for.1 | push for | v. | 力爭
+ph_push-around.1 | push around | v. | 擺佈
+ph_pull-down.1 | pull down | v. | 拆毀
+ph_pull-through.1 | pull through | v. | 渡過難關, 康復
+ph_pull-in.1 | pull in | v. | 進站, 靠邊停
+ph_pull-away.1 | pull away | v. | 駛離
+ph_jack-of-all-trades.1 | jack of all trades | n. | 萬事通
+ph_freedom-of-speech.1 | freedom of speech | n. | 言論自由
+ph_flight-attendant.1 | flight attendant | n. | 空乘人員, 空服員
+ph_in-good-condition.1 | in good condition | adj. | 狀況良好
+ph_on-condition-that.1 | on condition that | conj. | 只要, 條件是
+ph_coffee-table.1 | coffee table | n. | 茶几
+ph_coffee-shop.1 | coffee shop | n. | 咖啡店
+ph_application-form.1 | application form | n. | 申請表
+ph_traffic-jam.1 | traffic jam | n. | 交通堵塞
+ph_slow-motion.1 | slow motion | n. | 慢動作
+ph_serve-sb-right.1 | serve sb right | v. | 活該
+ph_ride-out.1 | ride out | v. | 安然度過
+ph_prior-to.1 | prior to | prep. | 在…之前
+ph_in-exchange-for.1 | in exchange for | prep. | 作為交換
+ph_in-the-distance.1 | in the distance | adv. | 在遠處
+ph_keep-one-s-distance.1 | keep one's distance | v. | 保持距離
+ph_worry-about.1 | worry about | v. | 擔心
+ph_wind-up.1 | wind up | v. | 最終落得
+ph_wind-up.2 | wind up | v. | 結束
+ph_wind-down.1 | wind down | v. | 放鬆
+ph_wind-down.2 | wind down | v. | 逐漸結束
+ph_twice-as.1 | twice as | adv. | 兩倍於
+ph_square-meter.1 | square meter | n. | 平方米
+ph_back-to-square-one.1 | back to square one | adv. | 回到原點
+ph_lie-down.1 | lie down | v. | 躺下
+ph_lie-in.1 | lie in | v. | 在於
+ph_lie-in.2 | lie in | v. | 睡懶覺
+ph_on-demand.1 | on demand | adv. | 按需, 一經要求
+ph_bottom-line.1 | bottom line | n. | 底線, 要點
+ph_bottom-line.2 | bottom line | n. | 淨利潤
+ph_from-the-bottom-of-one-s-heart.1 | from the bottom of one's heart | adv. | 衷心地
+ph_to-begin-with.1 | to begin with | adv. | 首先, 起初
+ph_throw-away.1 | throw away | v. | 扔掉
+ph_throw-up.1 | throw up | v. | 嘔吐
+ph_on-the-surface.1 | on the surface | adv. | 表面上
+ph_on-a-large-scale.1 | on a large scale | adv. | 大規模地
+ph_remain-to-be-seen.1 | remain to be seen | v. | 尚待分曉
+ph_count-on.1 | count on | v. | 依靠, 指望
+ph_count-down.1 | count down | v. | 倒計時
+ph_bus-stop.1 | bus stop | n. | 公交車站
+ph_take-a-seat.1 | take a seat | v. | 坐下
+ph_push-ahead.1 | push ahead | v. | 推進
+ph_pull-out.1 | pull out | v. | 退出, 撤出
+ph_pull-over.1 | pull over | v. | 靠邊停車
+ph_pull-up.1 | pull up | v. | 停車
+ph_pull-off.1 | pull off | v. | 成功完成
+ph_pull-oneself-together.1 | pull oneself together | v. | 振作起來
+ph_pull-sb-s-leg.1 | pull sb's leg | v. | 開玩笑, 捉弄
+ph_keep-a-low-profile.1 | keep a low profile | v. | 保持低調
+ph_jack-up.1 | jack up | v. | 抬高, 提價
+ph_hearing-aid.1 | hearing aid | n. | 助聽器
+ph_generation-gap.1 | generation gap | n. | 代溝
+ph_fashion-show.1 | fashion show | n. | 時裝秀
+ph_click-on.1 | click on | v. | 點選
+ph_on-a-budget.1 | on a budget | adv. | 預算有限
+ph_arms-race.1 | arms race | n. | 軍備競賽
+ph_spread-the-word.1 | spread the word | v. | 傳播訊息
+ph_silver-medal.1 | silver medal | n. | 銀牌
+ph_on-the-rise.1 | on the rise | adj. | 在上升
+ph_draw-back.1 | draw back | v. | 後退
+ph_draw-attention-to.1 | draw attention to | v. | 引起對…的注意
+ph_on-the-basis-of.1 | on the basis of | prep. | 根據
+ph_the-authorities.1 | the authorities | n. | 當局
+ph_secret-agent.1 | secret agent | n. | 特工
+ph_wild-card.1 | wild card | n. | 外卡, 未知因素
+ph_leave-no-stone-unturned.1 | leave no stone unturned | v. | 千方百計
+ph_software-engineering.1 | software engineering | n. | 軟體工程
+ph_adult-education.1 | adult education | n. | 成人教育
+ph_ask-for-trouble.1 | ask for trouble | v. | 自找麻煩
+ph_in-high-spirits.1 | in high spirits | adj. | 興高采烈
+ph_stand-firm.1 | stand firm | v. | 立場堅定
+ph_camp-out.1 | camp out | v. | 露宿
+ph_shut-off.1 | shut off | v. | 關掉
+ph_shooting-star.1 | shooting star | n. | 流星
+ph_proud-of.1 | proud of | adj. | 為…自豪
+ph_neither-nor.1 | neither ... nor | conj. | 既不…也不
+ph_gift-card.1 | gift card | n. | 禮品卡
+ph_dinner-party.1 | dinner party | n. | 晚宴
+ph_apart-from.1 | apart from | prep. | 除了
+ph_take-apart.1 | take apart | v. | 拆開
+ph_tough-luck.1 | tough luck | int. | 真倒黴
+ph_feature-film.1 | feature film | n. | 故事片, 正片
+ph_in-fashion.1 | in fashion | adj. | 流行的, 時髦的
+ph_out-of-fashion.1 | out of fashion | adj. | 過時的
+ph_in-good-faith.1 | in good faith | adv. | 真誠地, 善意地
+ph_benefit-from.1 | benefit from | v. | 受益於
+ph_give-sb-the-benefit-of-the-doubt.1 | give sb the benefit of the doubt | v. | 姑且相信
+ph_up-in-arms.1 | up in arms | adj. | 強烈反對, 憤怒
+ph_waste-of-time.1 | waste of time | n. | 浪費時間
+ph_in-short-supply.1 | in short supply | adj. | 供不應求, 短缺
+ph_spread-out.1 | spread out | v. | 散開, 鋪開
+ph_give-rise-to.1 | give rise to | v. | 引起, 導致
+ph_rise-to-the-occasion.1 | rise to the occasion | v. | 臨危不亂, 應付自如
+ph_ring-up.1 | ring up | v. | 打電話
+ph_ring-a-bell.1 | ring a bell | v. | 聽起來耳熟
+ph_prime-time.1 | prime time | n. | 黃金時段
+ph_in-memory-of.1 | in memory of | prep. | 為紀念
+ph_gain-weight.1 | gain weight | v. | 增加體重, 長胖
+ph_enter-into.1 | enter into | v. | 開始, 締結
+ph_draw-up.1 | draw up | v. | 起草, 擬定
+ph_draw-up.2 | draw up | v. | 停下
+ph_draw-on.1 | draw on | v. | 利用, 借鑑
+ph_on-a-daily-basis.1 | on a daily basis | adv. | 每天
+ph_apply-for.1 | apply for | v. | 申請
+ph_apply-to.1 | apply to | v. | 適用於
+ph_real-estate-agent.1 | real estate agent | n. | 房地產經紀人
+ph_window-shopping.1 | window shopping | n. | 逛街, 只看不買
+ph_go-wild.1 | go wild | v. | 狂熱, 失控
+ph_in-the-wild.1 | in the wild | adv. | 在野外
+ph_a-stone-s-throw.1 | a stone's throw | n. | 很近的距離
+ph_kill-two-birds-with-one-stone.1 | kill two birds with one stone | v. | 一舉兩得
+ph_make-the-grade.1 | make the grade | v. | 達到標準
+ph_in-trouble.1 | in trouble | adj. | 陷入困境
+ph_get-into-trouble.1 | get into trouble | v. | 惹麻煩
+ph_take-the-trouble.1 | take the trouble | v. | 不怕麻煩
+ph_in-the-spirit-of.1 | in the spirit of | prep. | 本著…精神
+ph_get-a-handle-on.1 | get a handle on | v. | 理解, 掌控
+ph_fly-off-the-handle.1 | fly off the handle | v. | 勃然大怒
+ph_cast-doubt-on.1 | cast doubt on | v. | 使人懷疑
+ph_i-bet.1 | I bet | int. | 我敢肯定, 肯定
+ph_let-the-cat-out-of-the-bag.1 | let the cat out of the bag | v. | 洩露秘密
+ph_shut-up.1 | shut up | v. | 閉嘴
+ph_shut-down.1 | shut down | v. | 關閉, 停業
+ph_take-pride-in.1 | take pride in | v. | 以…為自豪
+ph_in-progress.1 | in progress | adj. | 進行中
+ph_under-the-influence.1 | under the influence | adj. | 醉酒的
+ph_decide-on.1 | decide on | v. | 決定, 選定
+ph_stick-around.1 | stick around | v. | 逗留, 待著
+ph_stick-with.1 | stick with | v. | 堅持, 繼續使用
+ph_stick-together.1 | stick together | v. | 團結一致
+ph_balance-sheet.1 | balance sheet | n. | 資產負債表
+ph_copy-and-paste.1 | copy and paste | v. | 複製貼上
+ph_birth-control.1 | birth control | n. | 節育, 避孕
+ph_birthday-party.1 | birthday party | n. | 生日聚會
+ph_raise-a-family.1 | raise a family | v. | 養家, 撫養孩子
+ph_roll-out.1 | roll out | v. | 推出
+ph_roll-over.1 | roll over | v. | 翻身
+ph_roll-in.1 | roll in | v. | 大量湧來
+ph_come-alive.1 | come alive | v. | 活躍起來
+ph_time-flies.1 | time flies | int. | 光陰似箭
+ph_farm-animal.1 | farm animal | n. | 家畜
+ph_criminal-record.1 | criminal record | n. | 犯罪記錄
+ph_dry-cleaning.1 | dry cleaning | n. | 乾洗
+ph_shoot-down.1 | shoot down | v. | 擊落
+ph_shoot-down.2 | shoot down | v. | 駁倒
+ph_wake-up-call.1 | wake-up call | n. | 警鐘
+ph_horse-racing.1 | horse racing | n. | 賽馬
+ph_background-music.1 | background music | n. | 背景音樂
+ph_mountain-bike.1 | mountain bike | n. | 山地腳踏車
+ph_housing-estate.1 | housing estate | n. | 住宅區
+ph_patient-with.1 | patient with | adj. | 對…有耐心
+ph_at-length.1 | at length | adv. | 詳細地
+ph_treat-yourself.1 | treat yourself | v. | 犒勞自己
+ph_take-sb-by-surprise.1 | take sb by surprise | v. | 使吃驚
+ph_guide-dog.1 | guide dog | n. | 導盲犬
+ph_labor-union.1 | labor union | n. | 工會
+ph_host-country.1 | host country | n. | 東道國, 主辦國
+ph_oh-dear.1 | oh dear | int. | 哎呀, 天哪
+ph_burn-one-s-bridges.1 | burn one's bridges | v. | 斷絕後路
+ph_date-of-birth.1 | date of birth | n. | 出生日期
+ph_wake-up.1 | wake up | v. | 醒來, 叫醒
+ph_stick-to.1 | stick to | v. | 堅持, 遵守
+ph_stick-out.1 | stick out | v. | 伸出, 突出
+ph_stick-out.2 | stick out | v. | 顯眼
+ph_stick-up-for.1 | stick up for | v. | 支援, 維護
+ph_dress-up.1 | dress up | v. | 盛裝打扮
+ph_in-connection-with.1 | in connection with | prep. | 與…有關
+ph_on-balance.1 | on balance | adv. | 總的來說
+ph_lose-one-s-balance.1 | lose one's balance | v. | 失去平衡
+ph_the-apple-of-one-s-eye.1 | the apple of one's eye | n. | 掌上明珠
+ph_alive-and-kicking.1 | alive and kicking | adj. | 活蹦亂跳, 依然活躍
+ph_a-variety-of.1 | a variety of | det. | 各種各樣的
+ph_treat-sb-to-sth.1 | treat sb to sth | v. | 請客, 款待
+ph_take-responsibility-for.1 | take responsibility for | v. | 承擔責任
+ph_roll-up.1 | roll up | v. | 捲起
+ph_raise-money.1 | raise money | v. | 籌款
+ph_under-investigation.1 | under investigation | adj. | 在調查中
+ph_tour-guide.1 | tour guide | n. | 導遊
+ph_fly-away.1 | fly away | v. | 飛走
+ph_fix-up.1 | fix up | v. | 修理, 佈置
+ph_fix-up.2 | fix up | v. | 安排
+ph_file-a-complaint.1 | file a complaint | v. | 提出投訴
+ph_in-single-file.1 | in single file | adv. | 排成一行
+ph_driver-s-license.1 | driver's license | n. | 駕駛執照
+ph_as-far-as-sb-is-concerned.1 | as far as sb is concerned | adv. | 就某人而言
+ph_beauty-salon.1 | beauty salon | n. | 美容院
+ph_web-page.1 | web page | n. | 網頁
+ph_for-reference.1 | for reference | adv. | 供參考
+ph_go-mad.1 | go mad | v. | 發瘋
+ph_iron-out.1 | iron out | v. | 消除, 解決
+ph_on-edge.1 | on edge | adj. | 緊張不安
+ph_dry-up.1 | dry up | v. | 乾涸, 枯竭
+ph_cup-of-tea.1 | cup of tea | n. | 喜愛的事物
+ph_under-stress.1 | under stress | adj. | 承受壓力
+ph_shoot-up.1 | shoot up | v. | 猛增, 迅速長高
+ph_nuclear-power.1 | nuclear power | n. | 核能
+ph_make-a-mountain-out-of-a-molehill.1 | make a mountain out of a molehill | v. | 小題大做
+ph_don-t-mention-it.1 | don't mention it | int. | 不客氣, 不用謝
+ph_honourable-mention.1 | honourable mention | n. | 榮譽獎, 表揚
+ph_take-one-s-medicine.1 | take one's medicine | v. | 接受懲罰, 自食其果
+ph_a-taste-of-one-s-own-medicine.1 | a taste of one's own medicine | n. | 以其人之道還治其人之身
+ph_medicine-cabinet.1 | medicine cabinet | n. | 藥櫃
+ph_to-be-honest.1 | to be honest | adv. | 說實話, 老實說
+ph_on-guard.1 | on guard | adj. | 警惕, 提防
+ph_off-guard.1 | off guard | adj. | 措手不及, 不防備
+ph_catch-sb-off-guard.1 | catch sb off guard | v. | 使措手不及
+ph_guard-against.1 | guard against | v. | 防止, 提防
+ph_guard-dog.1 | guard dog | n. | 看門狗
+ph_let-one-s-guard-down.1 | let one's guard down | v. | 放鬆警惕
+ph_exist-on.1 | exist on | v. | 靠…維持生活
+ph_blog-post.1 | blog post | n. | 部落格文章
+ph_keep-sth-at-bay.1 | keep sth at bay | v. | 阻止, 控制住
+ph_bay-window.1 | bay window | n. | 凸窗
+ph_arm-in-arm.1 | arm in arm | adv. | 臂挽著臂
+ph_twist-sb-s-arm.1 | twist sb's arm | v. | 強迫, 說服
+ph_at-arm-s-length.1 | at arm's length | adv. | 保持距離
+ph_with-open-arms.1 | with open arms | adv. | 熱情地
+ph_comfort-zone.1 | comfort zone | n. | 舒適區
+ph_war-zone.1 | war zone | n. | 戰區
+ph_zone-out.1 | zone out | v. | 走神, 發呆
+ph_willing-to.1 | willing to | adj. | 願意
+ph_come-in-useful.1 | come in useful | v. | 派上用場
+ph_upper-class.1 | upper class | n. | 上層社會
+ph_get-the-upper-hand.1 | get the upper hand | v. | 佔上風, 取得優勢
+ph_stiff-upper-lip.1 | stiff upper lip | n. | 沉著, 不動聲色
+ph_take-shape.1 | take shape | v. | 成形, 初具規模
+ph_in-shape.1 | in shape | adj. | 身體好, 狀態好
+ph_out-of-shape.1 | out of shape | adj. | 身體不好, 走樣
+ph_out-of-shape.2 | out of shape | adj. | 變形
+ph_shape-up.1 | shape up | v. | 進展, 發展
+ph_shape-up.2 | shape up | v. | 改進表現
+ph_in-any-shape-or-form.1 | in any shape or form | adv. | 以任何形式
+ph_in-session.1 | in session | adj. | 開會中, 開庭中
+ph_quarter-past.1 | quarter past | n. | 過一刻
+ph_quarter-to.1 | quarter to | n. | 差一刻
+ph_at-close-quarters.1 | at close quarters | adv. | 近距離
+ph_prince-charming.1 | Prince Charming | n. | 白馬王子
+ph_plenty-of.1 | plenty of | det. | 大量, 很多
+ph_a-pair-of.1 | a pair of | det. | 一雙, 一對
+ph_pair-up.1 | pair up | v. | 結成對
+ph_pair-off.1 | pair off | v. | 配對, 成雙
+ph_junk-mail.1 | junk mail | n. | 垃圾郵件
+ph_mail-order.1 | mail order | n. | 郵購
+ph_kick-off.1 | kick off | v. | 開球
+ph_kick-off.2 | kick off | v. | 開始
+ph_kick-out.1 | kick out | v. | 趕走, 開除
+ph_kick-in.1 | kick in | v. | 開始生效
+ph_kick-the-habit.1 | kick the habit | v. | 戒掉惡習
+ph_kick-the-bucket.1 | kick the bucket | v. | 翹辮子, 死
+ph_kick-back.1 | kick back | v. | 放鬆
+ph_for-kicks.1 | for kicks | adv. | 為了尋求刺激
+ph_speak-ill-of.1 | speak ill of | v. | 說壞話
+ph_ill-at-ease.1 | ill at ease | adj. | 侷促不安
+ph_fall-ill.1 | fall ill | v. | 生病
+ph_say-hello.1 | say hello | v. | 打招呼, 問候
+ph_add-fuel-to-the-fire.1 | add fuel to the fire | v. | 火上澆油
+ph_fossil-fuel.1 | fossil fuel | n. | 化石燃料
+ph_fall-flat.1 | fall flat | v. | 完全失敗, 沒有效果
+ph_flat-out.1 | flat out | adv. | 全力地
+ph_flat-tyre.1 | flat tyre | n. | 癟了的輪胎
+ph_film-festival.1 | film festival | n. | 電影節
+ph_heart-failure.1 | heart failure | n. | 心力衰竭
+ph_emergency-room.1 | emergency room | n. | 急診室
+ph_state-of-emergency.1 | state of emergency | n. | 緊急狀態
+ph_emergency-exit.1 | emergency exit | n. | 緊急出口
+ph_electric-guitar.1 | electric guitar | n. | 電吉他
+ph_electric-shock.1 | electric shock | n. | 電擊, 觸電
+ph_electric-chair.1 | electric chair | n. | 電椅
+ph_electric-car.1 | electric car | n. | 電動汽車
+ph_classic-car.1 | classic car | n. | 老爺車
+ph_shop-assistant.1 | shop assistant | n. | 店員
+ph_teaching-assistant.1 | teaching assistant | n. | 助教
+ph_warm-up.1 | warm up | v. | 熱身
+ph_warm-up.2 | warm up | v. | 加熱, 變暖
+ph_warm-to.1 | warm to | v. | 開始喜歡
+ph_vice-versa.1 | vice versa | adv. | 反之亦然
+ph_vice-president.1 | vice president | n. | 副總統, 副總裁
+ph_turning-point.1 | turning point | n. | 轉折點
+ph_tired-of.1 | tired of | adj. | 厭倦
+ph_sick-and-tired.1 | sick and tired | adj. | 厭煩透了
+ph_tired-out.1 | tired out | adj. | 筋疲力盡
+ph_nerves-of-steel.1 | nerves of steel | n. | 鋼鐵般的意志
+ph_rain-cats-and-dogs.1 | rain cats and dogs | v. | 下傾盆大雨
+ph_rain-or-shine.1 | rain or shine | adv. | 無論晴雨
+ph_rain-check.1 | rain check | n. | 改天再約
+ph_rained-out.1 | rained out | adj. | 因雨取消
+ph_make-a-promise.1 | make a promise | v. | 許諾
+ph_keep-a-promise.1 | keep a promise | v. | 遵守諾言
+ph_break-a-promise.1 | break a promise | v. | 違背諾言
+ph_cross-sb-s-path.1 | cross sb's path | v. | 偶然碰到
+ph_mix-up.1 | mix up | v. | 混淆, 弄錯
+ph_mix-up.2 | mix up | v. | 攪勻
+ph_mixed-up.1 | mixed up | adj. | 糊塗的
+ph_mixed-up.2 | mixed up | adj. | 捲入, 牽涉
+ph_joint-venture.1 | joint venture | n. | 合資企業
+ph_out-of-joint.1 | out of joint | adj. | 脫臼
+ph_industrial-revolution.1 | industrial revolution | n. | 工業革命
+ph_industrial-estate.1 | industrial estate | n. | 工業區
+ph_a-hundred-percent.1 | a hundred percent | adv. | 完全地
+ph_hundreds-of.1 | hundreds of | det. | 數以百計的
+ph_flying-colours.1 | flying colours | n. | 成功, 出色
+ph_flying-saucer.1 | flying saucer | n. | 飛碟
+ph_flying-visit.1 | flying visit | n. | 短暫訪問
+ph_off-duty.1 | off duty | adj. | 下班的
+ph_on-duty.1 | on duty | adj. | 值班的
+ph_under-discussion.1 | under discussion | adj. | 在討論中
+ph_on-the-cheap.1 | on the cheap | adv. | 便宜地
+ph_cheap-shot.1 | cheap shot | n. | 卑鄙的攻擊
+ph_filled-to-capacity.1 | filled to capacity | adj. | 滿座, 滿載
+ph_in-one-s-capacity-as.1 | in one's capacity as | prep. | 以…身份
+ph_in-the-same-boat.1 | in the same boat | adj. | 處境相同
+ph_rock-the-boat.1 | rock the boat | v. | 搗亂, 惹麻煩
+ph_miss-the-boat.1 | miss the boat | v. | 錯失良機
+ph_bear-with.1 | bear with | v. | 耐心等待
+ph_bear-out.1 | bear out | v. | 證實
+ph_bear-up.1 | bear up | v. | 挺住
+ph_can-t-bear.1 | can't bear | v. | 無法忍受
+ph_bear-market.1 | bear market | n. | 熊市
+ph_bear-hug.1 | bear hug | n. | 緊緊的擁抱
+ph_not-anywhere-near.1 | not anywhere near | adv. | 遠遠不
+ph_get-anywhere.1 | get anywhere | v. | 取得進展
+ph_alternative-medicine.1 | alternative medicine | n. | 替代療法
+ph_car-accident.1 | car accident | n. | 車禍
+ph_accidents-will-happen.1 | accidents will happen | int. | 意外難免
+ph_suit-yourself.1 | suit yourself | int. | 隨你便
+ph_suit-sb-down-to-the-ground.1 | suit sb down to the ground | v. | 非常適合
+ph_burden-of-proof.1 | burden of proof | n. | 舉證責任
+ph_proof-of-purchase.1 | proof of purchase | n. | 購物憑證
+ph_the-proof-of-the-pudding.1 | the proof of the pudding | n. | 實踐出真知
+ph_make-a-profit.1 | make a profit | v. | 獲利, 賺錢
+ph_a-drop-in-the-ocean.1 | a drop in the ocean | n. | 滄海一粟
+ph_over-the-moon.1 | over the moon | adj. | 欣喜若狂
+ph_ask-for-the-moon.1 | ask for the moon | v. | 異想天開
+ph_off-limits.1 | off limits | adj. | 禁止入內
+ph_the-sky-s-the-limit.1 | the sky's the limit | int. | 無可限量
+ph_within-limits.1 | within limits | adv. | 在一定範圍內
+ph_labour-market.1 | labour market | n. | 勞動力市場
+ph_artificial-intelligence.1 | artificial intelligence | n. | 人工智慧
+ph_intelligence-service.1 | intelligence service | n. | 情報機構
+ph_can-t-see-the-forest-for-the-trees.1 | can't see the forest for the trees | v. | 見樹不見林
+ph_fixed-price.1 | fixed price | n. | 固定價格
+ph_mortal-enemy.1 | mortal enemy | n. | 死敵
+ph_public-enemy.1 | public enemy | n. | 公敵
+ph_crowd-out.1 | crowd out | v. | 擠走, 排擠
+ph_cabin-crew.1 | cabin crew | n. | 機組服務人員
+ph_crew-cut.1 | crew cut | n. | 平頭
+ph_at-one-s-command.1 | at one's command | adj. | 可以使用
+ph_in-command.1 | in command | adj. | 指揮, 控制
+ph_command-of.1 | command of | n. | 掌握
+ph_border-on.1 | border on | v. | 近乎
+ph_beer-belly.1 | beer belly | n. | 啤酒肚
+ph_afraid-of.1 | afraid of | adj. | 害怕
+ph_i-m-afraid.1 | I'm afraid | int. | 恐怕, 抱歉地說
+ph_yellow-card.1 | yellow card | n. | 黃牌
+ph_yellow-pages.1 | yellow pages | n. | 黃頁
+ph_writer-s-block.1 | writer's block | n. | 寫作障礙
+ph_user-interface.1 | user interface | n. | 使用者介面
+ph_tech-support.1 | tech support | n. | 技術支援
+ph_supreme-court.1 | Supreme Court | n. | 最高法院
+ph_a-ray-of-hope.1 | a ray of hope | n. | 一線希望
+ph_ray-of-sunshine.1 | ray of sunshine | n. | 開心果
+ph_native-speaker.1 | native speaker | n. | 母語使用者
+ph_native-language.1 | native language | n. | 母語
+ph_minimum-wage.1 | minimum wage | n. | 最低工資
+ph_launch-into.1 | launch into | v. | 開始, 投入
+ph_jump-at.1 | jump at | v. | 欣然接受
+ph_jump-to-conclusions.1 | jump to conclusions | v. | 妄下結論
+ph_jump-the-queue.1 | jump the queue | v. | 插隊
+ph_jump-in.1 | jump in | v. | 插嘴, 參與
+ph_in-honor-of.1 | in honor of | prep. | 為紀念, 為向…致敬
+ph_honor-roll.1 | honor roll | n. | 優秀學生名單
+ph_expensive-taste.1 | expensive taste | n. | 講究的品味
+ph_domestic-violence.1 | domestic violence | n. | 家庭暴力
+ph_in-debt.1 | in debt | adj. | 負債
+ph_in-sb-s-debt.1 | in sb's debt | adj. | 欠人情
+ph_on-one-s-best-behavior.1 | on one's best behavior | adj. | 規規矩矩
+ph_district-attorney.1 | district attorney | n. | 地方檢察官
+ph_power-of-attorney.1 | power of attorney | n. | 授權書
+ph_keep-up-appearances.1 | keep up appearances | v. | 維持體面
+ph_put-in-an-appearance.1 | put in an appearance | v. | 露面
+ph_sugar-daddy.1 | sugar daddy | n. | 乾爹
+ph_sugar-cane.1 | sugar cane | n. | 甘蔗
+ph_stuck-with.1 | stuck with | adj. | 被迫接受
+ph_stuck-up.1 | stuck up | adj. | 傲慢的
+ph_soft-drink.1 | soft drink | n. | 軟飲料
+ph_soft-spot.1 | soft spot | n. | 偏愛
+ph_soft-skills.1 | soft skills | n. | 軟技能
+ph_shopping-mall.1 | shopping mall | n. | 購物商場
+ph_shopping-list.1 | shopping list | n. | 購物清單
+ph_loan-shark.1 | loan shark | n. | 放高利貸者
+ph_on-loan.1 | on loan | adj. | 借出的
+ph_crack-a-joke.1 | crack a joke | v. | 開玩笑
+ph_no-joke.1 | no joke | adj. | 不是開玩笑的, 很困難
+ph_the-joke-s-on-sb.1 | the joke's on sb | int. | 反被嘲笑
+ph_play-a-joke-on.1 | play a joke on | v. | 捉弄
+ph_go-with-the-flow.1 | go with the flow | v. | 隨大流
+ph_express-train.1 | express train | n. | 特快列車
+ph_exercise-book.1 | exercise book | n. | 練習本
+ph_happy-ending.1 | happy ending | n. | 圓滿結局
+ph_communication-skills.1 | communication skills | n. | 溝通能力
+ph_ancient-history.1 | ancient history | n. | 陳年舊事
+ph_teach-sb-a-lesson.1 | teach sb a lesson | v. | 給某人教訓
+ph_smoke-detector.1 | smoke detector | n. | 煙霧探測器
+ph_go-up-in-smoke.1 | go up in smoke | v. | 化為泡影
+ph_no-smoke-without-fire.1 | no smoke without fire | int. | 無風不起浪
+ph_on-schedule.1 | on schedule | adv. | 按時
+ph_swimming-pool.1 | swimming pool | n. | 游泳池
+ph_pool-table.1 | pool table | n. | 檯球桌
+ph_make-no-mistake.1 | make no mistake | int. | 毫無疑問
+ph_grown-man.1 | grown man | n. | 成年人
+ph_take-sb-for-granted.1 | take sb for granted | v. | 不珍惜某人
+ph_golden-rule.1 | golden rule | n. | 金科玉律
+ph_golden-age.1 | golden age | n. | 黃金時代
+ph_golden-opportunity.1 | golden opportunity | n. | 絕佳機會
+ph_feed-on.1 | feed on | v. | 以…為食
+ph_fed-up.1 | fed up | adj. | 厭倦的, 受夠了
+ph_feed-back.1 | feed back | v. | 反饋
+ph_no-entry.1 | no entry | int. | 禁止入內
+ph_drama-queen.1 | drama queen | n. | 小題大做的人
+ph_appeal-to.1 | appeal to | v. | 吸引
+ph_appeal-to.2 | appeal to | v. | 呼籲
+ph_weak-point.1 | weak point | n. | 弱點
+ph_strike-up.1 | strike up | v. | 開始交談
+ph_strike-a-balance.1 | strike a balance | v. | 取得平衡
+ph_on-strike.1 | on strike | adj. | 罷工
+ph_strike-out.1 | strike out | v. | 失敗
+ph_strike-out.2 | strike out | v. | 刪去
+ph_take-sb-by-storm.1 | take sb by storm | v. | 風靡
+ph_storm-out.1 | storm out | v. | 憤然離去
+ph_a-storm-in-a-teacup.1 | a storm in a teacup | n. | 小題大做
+ph_snowed-under.1 | snowed under | adj. | 忙得不可開交
+ph_public-sector.1 | public sector | n. | 公共部門
+ph_relatively-speaking.1 | relatively speaking | adv. | 相對而言
+ph_down-payment.1 | down payment | n. | 首付
+ph_pack-up.1 | pack up | v. | 收拾行李
+ph_pack-up.2 | pack up | v. | 停止工作
+ph_pack-in.1 | pack in | v. | 放棄
+ph_cry-over-spilt-milk.1 | cry over spilt milk | v. | 作無益的後悔
+ph_packed-lunch.1 | packed lunch | n. | 自帶午餐, 便當
+ph_not-have-a-leg-to-stand-on.1 | not have a leg to stand on | v. | 站不住腳
+ph_laugh-at.1 | laugh at | v. | 嘲笑
+ph_laugh-off.1 | laugh off | v. | 一笑置之
+ph_have-the-last-laugh.1 | have the last laugh | v. | 笑到最後
+ph_in-a-hole.1 | in a hole | adj. | 陷入困境
+ph_black-hole.1 | black hole | n. | 黑洞
+ph_black-hole.2 | black hole | n. | 無底洞
+ph_developing-country.1 | developing country | n. | 發展中國家
+ph_to-whom-it-may-concern.1 | to whom it may concern | int. | 敬啟者
+ph_abuse-of-power.1 | abuse of power | n. | 濫用職權
+ph_urban-legend.1 | urban legend | n. | 都市傳說
+ph_take-sb-to-task.1 | take sb to task | v. | 責備
+ph_task-force.1 | task force | n. | 特別工作組
+ph_split-up.1 | split up | v. | 分手
+ph_split-up.2 | split up | v. | 分開
+ph_split-hairs.1 | split hairs | v. | 吹毛求疵
+ph_split-second.1 | split second | n. | 一瞬間
+ph_keep-quiet.1 | keep quiet | v. | 保持安靜, 保密
+ph_on-the-quiet.1 | on the quiet | adv. | 秘密地
+ph_measure-up.1 | measure up | v. | 達到標準
+ph_for-good-measure.1 | for good measure | adv. | 額外地
+ph_tape-measure.1 | tape measure | n. | 捲尺
+ph_kitchen-sink.1 | kitchen sink | n. | 廚房水槽
+ph_identity-card.1 | identity card | n. | 身份證
+ph_identity-theft.1 | identity theft | n. | 身份盜用
+ph_fake-news.1 | fake news | n. | 假新聞
+ph_equal-to.1 | equal to | adj. | 等於
+ph_equal-to.2 | equal to | adj. | 勝任
+ph_cook-up.1 | cook up | v. | 編造
+ph_in-confidence.1 | in confidence | adv. | 秘密地
+ph_vote-of-confidence.1 | vote of confidence | n. | 信任投票
+ph_chapter-and-verse.1 | chapter and verse | n. | 詳細出處
+ph_chain-reaction.1 | chain reaction | n. | 連鎖反應
+ph_chain-store.1 | chain store | n. | 連鎖店
+ph_apartment-building.1 | apartment building | n. | 公寓樓
+ph_advance-on.1 | advance on | v. | 向…推進
+ph_truck-driver.1 | truck driver | n. | 卡車司機
+ph_thousands-of.1 | thousands of | det. | 成千上萬
+ph_talent-show.1 | talent show | n. | 才藝表演
+ph_smile-on.1 | smile on | v. | 眷顧
+ph_lay-off.1 | lay off | v. | 解僱
+ph_lay-off.2 | lay off | v. | 停止
+ph_lay-down.1 | lay down | v. | 制定
+ph_lay-out.1 | lay out | v. | 擺開, 佈置
+ph_lay-the-table.1 | lay the table | v. | 擺餐桌
+ph_fill-in.1 | fill in | v. | 填寫
+ph_fill-in.2 | fill in | v. | 代替
+ph_fill-out.1 | fill out | v. | 填寫
+ph_fill-up.1 | fill up | v. | 裝滿
+ph_at-fault.1 | at fault | adj. | 有錯
+ph_extended-family.1 | extended family | n. | 大家庭
+ph_escape-from.1 | escape from | v. | 逃離
+ph_narrow-escape.1 | narrow escape | n. | 九死一生
+ph_open-to-debate.1 | open to debate | adj. | 有爭議
+ph_conflict-of-interest.1 | conflict of interest | n. | 利益衝突
+ph_zero-tolerance.1 | zero tolerance | n. | 零容忍
+ph_zero-in-on.1 | zero in on | v. | 瞄準, 集中注意
+ph_trading-partner.1 | trading partner | n. | 貿易伙伴
+ph_plastic-surgery.1 | plastic surgery | n. | 整形手術
+ph_keep-one-s-shirt-on.1 | keep one's shirt on | v. | 保持冷靜
+ph_in-passing.1 | in passing | adv. | 順便
+ph_pain-in-the-neck.1 | pain in the neck | n. | 討厭的人
+ph_up-to-one-s-neck.1 | up to one's neck | adj. | 深陷
+ph_neck-and-neck.1 | neck and neck | adj. | 不相上下
+ph_one-man-s-meat-is-another-man-s-poison.1 | one man's meat is another man's poison | int. | 蘿蔔青菜各有所愛
+ph_false-alarm.1 | false alarm | n. | 虛驚
+ph_false-teeth.1 | false teeth | n. | 假牙
+ph_dying-to.1 | dying to | adj. | 渴望
+ph_on-display.1 | on display | adj. | 展出
+ph_out-of-context.1 | out of context | adv. | 斷章取義
+ph_chicken-out.1 | chicken out | v. | 臨陣退縮
+ph_count-one-s-chickens.1 | count one's chickens | v. | 過早樂觀
+ph_bowl-over.1 | bowl over | v. | 使驚喜
+ph_blame-sth-on-sb.1 | blame sth on sb | v. | 歸咎於
+ph_take-the-blame.1 | take the blame | v. | 承擔責任
+ph_birds-of-a-feather.1 | birds of a feather | n. | 物以類聚
+ph_wave-goodbye.1 | wave goodbye | v. | 揮手告別
+ph_business-as-usual.1 | business as usual | n. | 一切照常
+ph_struggle-with.1 | struggle with | v. | 努力應付
+ph_stream-of-consciousness.1 | stream of consciousness | n. | 意識流
+ph_serving-dish.1 | serving dish | n. | 上菜盤
+ph_orange-juice.1 | orange juice | n. | 橙汁
+ph_the-opposite-sex.1 | the opposite sex | n. | 異性
+ph_opposite-number.1 | opposite number | n. | 對等人物, 對應職位者
+ph_minor-league.1 | minor league | n. | 小聯盟
+ph_minor-league.2 | minor league | adj. | 次要的, 小規模的
+ph_kingdom-come.1 | kingdom come | n. | 來世, 天國
+ph_until-kingdom-come.1 | until kingdom come | adv. | 永遠, 很久
+ph_jail-sentence.1 | jail sentence | n. | 監禁判決
+ph_giant-panda.1 | giant panda | n. | 大熊貓
+ph_midlife-crisis.1 | midlife crisis | n. | 中年危機
+ph_identity-crisis.1 | identity crisis | n. | 身份危機, 認同危機
+ph_sour-cream.1 | sour cream | n. | 酸奶油
+ph_the-cream-of-the-crop.1 | the cream of the crop | n. | 精英, 精華
+ph_whipped-cream.1 | whipped cream | n. | 攪打奶油
+ph_wing-it.1 | wing it | v. | 即興發揮, 臨場應付
+ph_take-sb-under-one-s-wing.1 | take sb under one's wing | v. | 庇護, 關照
+ph_left-wing.1 | left wing | n. | 左翼, 左派
+ph_left-wing.2 | left wing | n. | 左邊鋒
+ph_right-wing.1 | right wing | n. | 右翼, 右派
+ph_right-wing.2 | right wing | n. | 右邊鋒
+ph_upset-the-apple-cart.1 | upset the apple cart | v. | 打亂計劃
+ph_upset-stomach.1 | upset stomach | n. | 腸胃不適
+ph_round-trip-ticket.1 | round-trip ticket | n. | 往返票
+ph_just-the-ticket.1 | just the ticket | n. | 正合適的東西
+ph_parking-ticket.1 | parking ticket | n. | 違章停車罰單
+ph_ticket-office.1 | ticket office | n. | 售票處
+ph_go-solo.1 | go solo | v. | 單飛, 單幹
+ph_seek-out.1 | seek out | v. | 找出, 尋找
+ph_happy-medium.1 | happy medium | n. | 折中, 適中
+ph_id-card.1 | ID card | n. | 身份證
+ph_guilty-conscience.1 | guilty conscience | n. | 內疚, 良心不安
+ph_plead-guilty.1 | plead guilty | v. | 認罪
+ph_guilty-pleasure.1 | guilty pleasure | n. | 罪惡的快樂
+ph_be-familiar-with.1 | be familiar with | v. | 熟悉, 通曉
+ph_without-fail.1 | without fail | adv. | 必定, 總是
+ph_never-fail-to.1 | never fail to | v. | 總是, 從不忘
+ph_drunk-driving.1 | drunk driving | n. | 酒駕
+ph_draft-beer.1 | draft beer | n. | 生啤, 扎啤
+ph_first-draft.1 | first draft | n. | 初稿
+ph_cutting-edge.1 | cutting edge | n. | 最前沿, 尖端
+ph_cutting-board.1 | cutting board | n. | 砧板, 切菜板
+ph_customer-service.1 | customer service | n. | 客戶服務
+ph_combination-lock.1 | combination lock | n. | 密碼鎖
+ph_capable-of.1 | capable of | adj. | 能夠, 有能力
+ph_look-on-the-bright-side.1 | look on the bright side | v. | 往好處想
+ph_bright-and-early.1 | bright and early | adv. | 一大早
+ph_assembly-line.1 | assembly line | n. | 裝配線, 流水線
+ph_general-assembly.1 | general assembly | n. | 全體大會
+ph_under-threat.1 | under threat | adj. | 受到威脅
+ph_come-with-the-territory.1 | come with the territory | v. | 是分內之事, 難以避免
+ph_switch-off.1 | switch off | v. | 關掉
+ph_switch-off.2 | switch off | v. | 走神, 不再注意
+ph_switch-on.1 | switch on | v. | 開啟
+ph_switch-over.1 | switch over | v. | 轉換, 換頻道
+ph_light-switch.1 | light switch | n. | 電燈開關
+ph_scared-stiff.1 | scared stiff | adj. | 嚇呆了
+ph_scared-to-death.1 | scared to death | adj. | 嚇得要死
+ph_take-sth-with-a-pinch-of-salt.1 | take sth with a pinch of salt | v. | 對某事半信半疑
+ph_the-salt-of-the-earth.1 | the salt of the earth | n. | 社會中堅, 好人
+ph_worth-one-s-salt.1 | worth one's salt | adj. | 稱職的
+ph_rub-salt-into-the-wound.1 | rub salt into the wound | v. | 雪上加霜, 往傷口撒鹽
+ph_in-a-row.1 | in a row | adv. | 連續, 接連
+ph_in-a-row.2 | in a row | adv. | 成一排
+ph_row-house.1 | row house | n. | 聯排房屋
+ph_in-reserve.1 | in reserve | adv. | 備用, 儲備
+ph_nature-reserve.1 | nature reserve | n. | 自然保護區
+ph_oil-painting.1 | oil painting | n. | 油畫
+ph_newspaper-stand.1 | newspaper stand | n. | 報攤
+ph_hang-on.1 | hang on | v. | 稍等
+ph_hang-on.2 | hang on | v. | 緊握
+ph_hang-out.1 | hang out | v. | 閒逛, 消磨時間
+ph_hang-out.2 | hang out | v. | 晾曬
+ph_hang-up.1 | hang up | v. | 結束通話電話
+ph_hang-up.2 | hang up | v. | 掛起
+ph_hang-around.1 | hang around | v. | 閒蕩, 逗留
+ph_hang-on-to.1 | hang on to | v. | 保留, 抓住不放
+ph_get-the-hang-of.1 | get the hang of | v. | 掌握竅門
+ph_hang-in-there.1 | hang in there | int. | 堅持住
+ph_hang-back.1 | hang back | v. | 猶豫不前
+ph_deliver-the-goods.1 | deliver the goods | v. | 不負所望
+ph_in-the-extreme.1 | in the extreme | adv. | 極其, 非常
+ph_go-to-extremes.1 | go to extremes | v. | 走極端
+ph_life-cycle.1 | life cycle | n. | 生命週期
+ph_creative-writing.1 | creative writing | n. | 創意寫作
+ph_atomic-bomb.1 | atomic bomb | n. | 原子彈
+ph_go-down-a-bomb.1 | go down a bomb | v. | 大受歡迎
+ph_cost-a-bomb.1 | cost a bomb | v. | 花大價錢
+ph_without-warning.1 | without warning | adv. | 毫無預兆
+ph_warning-sign.1 | warning sign | n. | 警示標誌, 預兆
+ph_savings-account.1 | savings account | n. | 儲蓄賬戶
+ph_saving-grace.1 | saving grace | n. | 可取之處
+ph_new-year-s-resolution.1 | New Year's resolution | n. | 新年決心
+ph_cash-register.1 | cash register | n. | 收銀機
+ph_prize-money.1 | prize money | n. | 獎金
+ph_in-the-nick-of-time.1 | in the nick of time | adv. | 正好及時
+ph_in-good-nick.1 | in good nick | adj. | 狀況良好
+ph_set-sth-in-motion.1 | set sth in motion | v. | 啟動, 使開始
+ph_go-through-the-motions.1 | go through the motions | v. | 敷衍了事
+ph_miles-away.1 | miles away | adj. | 走神, 心不在焉
+ph_in-the-first-instance.1 | in the first instance | adv. | 首先
+ph_gender-equality.1 | gender equality | n. | 性別平等
+ph_bet-one-s-bottom-dollar.1 | bet one's bottom dollar | v. | 確信, 敢打包票
+ph_in-danger.1 | in danger | adj. | 處於危險中
+ph_out-of-danger.1 | out of danger | adj. | 脫離危險
+ph_cry-out.1 | cry out | v. | 大叫, 呼喊
+ph_cry-out-for.1 | cry out for | v. | 迫切需要
+ph_a-far-cry-from.1 | a far cry from | n. | 相差甚遠
+ph_cry-wolf.1 | cry wolf | v. | 謊報警報, 狼來了
+ph_for-crying-out-loud.1 | for crying out loud | int. | 天哪, 看在上帝份上
+ph_bond-with.1 | bond with | v. | 建立感情
+ph_blow-up.1 | blow up | v. | 爆炸, 炸燬
+ph_blow-up.2 | blow up | v. | 充氣
+ph_blow-up.3 | blow up | v. | 發脾氣
+ph_blow-out.1 | blow out | v. | 吹滅
+ph_blow-away.1 | blow away | v. | 吹走
+ph_blow-away.2 | blow away | v. | 使驚歎
+ph_blow-over.1 | blow over | v. | 平息, 過去
+ph_blow-one-s-nose.1 | blow one's nose | v. | 擤鼻涕
+ph_blow-one-s-mind.1 | blow one's mind | v. | 使震驚
+ph_saved-by-the-bell.1 | saved by the bell | int. | 及時得救
+ph_aside-from.1 | aside from | prep. | 除了
+ph_aside-from.2 | aside from | prep. | 除…之外還
+ph_put-aside.1 | put aside | v. | 儲存, 留出
+ph_put-aside.2 | put aside | v. | 暫不考慮
+ph_armed-forces.1 | armed forces | n. | 武裝部隊
+ph_armed-robbery.1 | armed robbery | n. | 持械搶劫
+ph_armed-to-the-teeth.1 | armed to the teeth | adj. | 全副武裝
+ph_death-sentence.1 | death sentence | n. | 死刑判決
+ph_life-sentence.1 | life sentence | n. | 無期徒刑
+ph_for-rent.1 | for rent | adj. | 出租的
+ph_rent-out.1 | rent out | v. | 出租
+ph_at-random.1 | at random | adv. | 隨機地, 任意地
+ph_lose-the-plot.1 | lose the plot | v. | 失去理智, 不知所措
+ph_the-plot-thickens.1 | the plot thickens | int. | 情況更復雜了
+ph_a-load-of.1 | a load of | det. | 許多
+ph_loads-of.1 | loads of | det. | 大量
+ph_load-up.1 | load up | v. | 裝滿, 裝載
+ph_a-load-off-one-s-mind.1 | a load off one's mind | n. | 如釋重負
+ph_kiss-goodbye-to.1 | kiss goodbye to | v. | 告別, 失去
+ph_kiss-of-life.1 | kiss of life | n. | 口對口人工呼吸
+ph_kiss-of-death.1 | kiss of death | n. | 致命一擊
+ph_independence-day.1 | Independence Day | n. | 獨立日
+ph_for-heaven-s-sake.1 | for heaven's sake | int. | 看在老天份上
+ph_heaven-knows.1 | heaven knows | int. | 天知道
+ph_in-seventh-heaven.1 | in seventh heaven | adj. | 極其快樂
+ph_thank-heavens.1 | thank heavens | int. | 謝天謝地
+ph_be-my-guest.1 | be my guest | int. | 請便, 別客氣
+ph_guest-house.1 | guest house | n. | 家庭旅館
+ph_frame-of-mind.1 | frame of mind | n. | 心境, 心情
+ph_time-frame.1 | time frame | n. | 時間框架
+ph_picture-frame.1 | picture frame | n. | 相框, 畫框
+ph_flag-down.1 | flag down | v. | 揮手攔車
+ph_red-flag.1 | red flag | n. | 危險訊號
+ph_in-favor-of.1 | in favor of | prep. | 支援, 贊成
+ph_do-sb-a-favor.1 | do sb a favor | v. | 幫某人忙
+ph_in-sb-s-favor.1 | in sb's favor | adv. | 對某人有利
+ph_back-to-the-drawing-board.1 | back to the drawing board | adv. | 從頭再來
+ph_drawing-pin.1 | drawing pin | n. | 圖釘
+ph_by-definition.1 | by definition | adv. | 按定義, 當然
+ph_branch-out.1 | branch out | v. | 擴充套件業務, 拓展
+ph_olive-branch.1 | olive branch | n. | 和平提議, 橄欖枝
+ph_admit-to.1 | admit to | v. | 承認
+ph_yard-sale.1 | yard sale | n. | 庭院舊貨出售
+ph_the-whole-nine-yards.1 | the whole nine yards | n. | 全部, 一切
+ph_tight-spot.1 | tight spot | n. | 困境
+ph_sit-tight.1 | sit tight | v. | 耐心等待, 靜觀
+ph_tend-to.1 | tend to | v. | 往往, 傾向於
+ph_tend-to.2 | tend to | v. | 照料
+ph_think-tank.1 | think tank | n. | 智囊團, 智庫
+ph_fish-tank.1 | fish tank | n. | 魚缸
+ph_in-storage.1 | in storage | adj. | 存放著
+ph_night-shift.1 | night shift | n. | 夜班
+ph_shift-key.1 | shift key | n. | 上檔鍵
+ph_pension-scheme.1 | pension scheme | n. | 養老金計劃
+ph_the-scheme-of-things.1 | the scheme of things | n. | 全域性, 大局
+ph_take-pleasure-in.1 | take pleasure in | v. | 以…為樂
+ph_my-pleasure.1 | my pleasure | int. | 不客氣, 樂意效勞
+ph_with-pleasure.1 | with pleasure | adv. | 樂意地
+ph_take-sth-personally.1 | take sth personally | v. | 認為針對自己
+ph_personally-speaking.1 | personally speaking | adv. | 就我個人而言
+ph_make-a-mess-of.1 | make a mess of | v. | 把…搞砸
+ph_mess-up.1 | mess up | v. | 弄亂, 搞砸
+ph_mess-around.1 | mess around | v. | 胡鬧, 瞎搞
+ph_mess-with.1 | mess with | v. | 招惹, 亂動
+ph_fast-lane.1 | fast lane | n. | 快車道, 快節奏生活
+ph_memory-lane.1 | memory lane | n. | 往事回憶
+ph_bear-fruit.1 | bear fruit | v. | 取得成果
+ph_on-a-diet.1 | on a diet | adj. | 在節食
+ph_in-detail.1 | in detail | adv. | 詳細地
+ph_go-into-detail.1 | go into detail | v. | 詳細敘述
+ph_chemical-reaction.1 | chemical reaction | n. | 化學反應
+ph_big-cheese.1 | big cheese | n. | 大人物
+ph_chat-up.1 | chat up | v. | 搭訕
+ph_chat-show.1 | chat show | n. | 訪談節目
+ph_chat-room.1 | chat room | n. | 聊天室
+ph_a-bunch-of.1 | a bunch of | det. | 一群, 一串
+ph_bottle-up.1 | bottle up | v. | 壓抑感情
+ph_bottle-opener.1 | bottle opener | n. | 開瓶器
+ph_academic-year.1 | academic year | n. | 學年
+ph_cold-turkey.1 | cold turkey | adv. | 突然戒斷
+ph_power-tool.1 | power tool | n. | 電動工具
+ph_i-suppose-so.1 | I suppose so | int. | 我想是吧
+ph_in-perspective.1 | in perspective | adv. | 正確地, 客觀地
+ph_object-to.1 | object to | v. | 反對
+ph_identify-with.1 | identify with | v. | 認同, 同情
+ph_say-grace.1 | say grace | v. | 做飯前禱告
+ph_grace-period.1 | grace period | n. | 寬限期
+ph_golf-course.1 | golf course | n. | 高爾夫球場
+ph_golf-club.1 | golf club | n. | 高爾夫球杆
+ph_golf-club.2 | golf club | n. | 高爾夫俱樂部
+ph_frequently-asked-questions.1 | frequently asked questions | n. | 常見問題
+ph_excuse-me.1 | excuse me | int. | 對不起, 勞駕
+ph_make-an-excuse.1 | make an excuse | v. | 找藉口
+ph_the-crown.1 | the Crown | n. | 王室, 國王
+ph_over-the-counter.1 | over the counter | adv. | 無需處方
+ph_counter-to.1 | counter to | adv. | 與…相反
+ph_consumer-goods.1 | consumer goods | n. | 消費品
+ph_combat-zone.1 | combat zone | n. | 戰區
+ph_belly-button.1 | belly button | n. | 肚臍
+ph_on-the-button.1 | on the button | adv. | 準時, 恰好
+ph_tip-off.1 | tip off | v. | 暗中通知, 告密
+ph_tip-over.1 | tip over | v. | 翻倒
+ph_the-tip-of-the-iceberg.1 | the tip of the iceberg | n. | 冰山一角
+ph_on-the-tip-of-one-s-tongue.1 | on the tip of one's tongue | adj. | 話到嘴邊
+ph_what-a-shame.1 | what a shame | int. | 真可惜
+ph_put-sb-to-shame.1 | put sb to shame | v. | 使相形見絀
+ph_shame-on-you.1 | shame on you | int. | 真丟臉
+ph_hit-the-roof.1 | hit the roof | v. | 暴跳如雷
+ph_under-one-roof.1 | under one roof | adv. | 在同一屋簷下
+ph_fried-rice.1 | fried rice | n. | 炒飯
+ph_retail-price.1 | retail price | n. | 零售價
+ph_retail-therapy.1 | retail therapy | n. | 購物療法
+ph_the-path-of-least-resistance.1 | the path of least resistance | n. | 最省力的辦法
+ph_to-sb-s-relief.1 | to sb's relief | adv. | 令人寬慰的是
+ph_have-a-lot-on-one-s-plate.1 | have a lot on one's plate | v. | 有很多事要做
+ph_solar-panel.1 | solar panel | n. | 太陽能電池板
+ph_in-a-manner-of-speaking.1 | in a manner of speaking | adv. | 可以說
+ph_jump-for-joy.1 | jump for joy | v. | 歡欣雀躍
+ph_interior-design.1 | interior design | n. | 室內設計
+ph_factory-floor.1 | factory floor | n. | 車間
+ph_facial-expression.1 | facial expression | n. | 面部表情
+ph_freedom-of-expression.1 | freedom of expression | n. | 言論自由
+ph_come-into-existence.1 | come into existence | v. | 開始存在, 產生
+ph_in-error.1 | in error | adv. | 錯誤地
+ph_dirty-work.1 | dirty work | n. | 髒活, 苦差事
+ph_do-the-dirty-on.1 | do the dirty on | v. | 對…耍卑鄙手段
+ph_in-depth.1 | in depth | adv. | 深入地
+ph_out-of-one-s-depth.1 | out of one's depth | adj. | 力不勝任
+ph_crash-course.1 | crash course | n. | 速成課程
+ph_crash-out.1 | crash out | v. | 倒頭大睡
+ph_come-full-circle.1 | come full circle | v. | 回到原點
+ph_vicious-circle.1 | vicious circle | n. | 惡性迴圈
+ph_carbon-dioxide.1 | carbon dioxide | n. | 二氧化碳
+ph_carbon-footprint.1 | carbon footprint | n. | 碳足跡
+ph_attend-to.1 | attend to | v. | 處理, 照料
+ph_under-arrest.1 | under arrest | adj. | 被捕
+ph_weapon-of-mass-destruction.1 | weapon of mass destruction | n. | 大規模殺傷性武器
+ph_sing-along.1 | sing along | v. | 跟著唱
+ph_catch-sight-of.1 | catch sight of | v. | 瞥見
+ph_in-sight.1 | in sight | adj. | 看得見, 在望
+ph_in-sight.2 | in sight | adj. | 即將到來
+ph_lose-sight-of.1 | lose sight of | v. | 忘記, 看不見
+ph_call-it-quits.1 | call it quits | v. | 停止, 作罷
+ph_print-out.1 | print out | v. | 列印出
+ph_the-small-print.1 | the small print | n. | 細則
+ph_the-calm-before-the-storm.1 | the calm before the storm | n. | 暴風雨前的寧靜
+ph_cable-car.1 | cable car | n. | 纜車
+ph_cable-tv.1 | cable TV | n. | 有線電視
+ph_baseball-cap.1 | baseball cap | n. | 棒球帽
+ph_solar-energy.1 | solar energy | n. | 太陽能
+ph_secondary-school.1 | secondary school | n. | 中學
+ph_respond-to.1 | respond to | v. | 回應, 對…作出反應
+ph_in-the-raw.1 | in the raw | adj. | 未經修飾的
+ph_in-the-raw.2 | in the raw | adj. | 赤裸的
+ph_a-raw-deal.1 | a raw deal | n. | 不公待遇
+ph_peak-hours.1 | peak hours | n. | 高峰時間
+ph_marine-life.1 | marine life | n. | 海洋生物
+ph_loud-and-clear.1 | loud and clear | adv. | 清清楚楚
+ph_out-loud.1 | out loud | adv. | 出聲地
+ph_hats-off-to.1 | hats off to | int. | 向…致敬
+ph_keep-sth-under-one-s-hat.1 | keep sth under one's hat | v. | 保守秘密
+ph_at-the-drop-of-a-hat.1 | at the drop of a hat | adv. | 立即, 毫不猶豫
+ph_hardly-ever.1 | hardly ever | adv. | 幾乎從不
+ph_beauty-contest.1 | beauty contest | n. | 選美比賽
+ph_beauty-contest.2 | beauty contest | n. | 人氣比拼
+ph_have-one-s-cake-and-eat-it.1 | have one's cake and eat it | v. | 兩全其美, 魚與熊掌兼得
+ph_burn-down.1 | burn down | v. | 燒燬, 焚燬
+ph_burn-out.1 | burn out | v. | 精疲力竭
+ph_burn-out.2 | burn out | v. | 燒盡, 熄滅
+ph_burn-up.1 | burn up | v. | 燒光, 燒燬
+ph_in-broad-daylight.1 | in broad daylight | adv. | 光天化日之下
+ph_broad-bean.1 | broad bean | n. | 蠶豆
+ph_bear-witness.1 | bear witness | v. | 作證, 證明
+ph_witness-stand.1 | witness stand | n. | 證人席
+ph_let-off-steam.1 | let off steam | v. | 發洩情緒
+ph_run-out-of-steam.1 | run out of steam | v. | 精疲力盡, 失去動力
+ph_steam-engine.1 | steam engine | n. | 蒸汽機
+ph_no-smoking.1 | no smoking | int. | 禁止吸菸
+ph_smoking-gun.1 | smoking gun | n. | 確鑿證據
+ph_passive-smoking.1 | passive smoking | n. | 被動吸菸, 吸二手菸
+ph_shipping-container.1 | shipping container | n. | 集裝箱
+ph_registered-mail.1 | registered mail | n. | 掛號信
+ph_principal-investigator.1 | principal investigator | n. | 首席研究員
+ph_in-the-pink.1 | in the pink | adj. | 身體健康
+ph_paint-the-town-red.1 | paint the town red | v. | 狂歡作樂
+ph_wet-paint.1 | wet paint | n. | 油漆未乾
+ph_driving-license.1 | driving license | n. | 駕駛執照
+ph_grab-a-bite.1 | grab a bite | v. | 隨便吃點東西
+ph_up-for-grabs.1 | up for grabs | adj. | 可供爭奪的
+ph_engaged-in.1 | engaged in | adj. | 從事, 忙於
+ph_code-of-conduct.1 | code of conduct | n. | 行為準則
+ph_get-sth-off-one-s-chest.1 | get sth off one's chest | v. | 傾訴心事, 一吐為快
+ph_chest-of-drawers.1 | chest of drawers | n. | 五斗櫃, 抽屜櫃
+ph_in-brief.1 | in brief | adv. | 簡言之
+ph_take-sb-s-breath-away.1 | take sb's breath away | v. | 令人驚歎
+ph_under-one-s-breath.1 | under one's breath | adv. | 低聲地
+ph_a-breath-of-fresh-air.1 | a breath of fresh air | n. | 令人耳目一新的人或事
+ph_blind-date.1 | blind date | n. | 相親
+ph_blind-spot.1 | blind spot | n. | 盲點, 死角
+ph_blind-spot.2 | blind spot | n. | 認識盲區
+ph_attached-to.1 | attached to | adj. | 依戀, 喜愛
+ph_no-strings-attached.1 | no strings attached | adv. | 無附加條件
+ph_tie-up.1 | tie up | v. | 捆綁, 繫牢
+ph_tie-up.2 | tie up | v. | 使忙碌
+ph_tie-in.1 | tie in | v. | 相符, 一致
+ph_tie-the-knot.1 | tie the knot | v. | 結婚
+ph_swear-by.1 | swear by | v. | 極力推崇
+ph_swear-in.1 | swear in | v. | 使宣誓就職
+ph_swear-word.1 | swear word | n. | 髒話, 罵人的話
+ph_the-usual-suspects.1 | the usual suspects | n. | 老面孔, 常見人物
+ph_plastic-bag.1 | plastic bag | n. | 塑膠袋
+ph_organized-crime.1 | organized crime | n. | 有組織犯罪
+ph_as-opposed-to.1 | as opposed to | prep. | 而不是, 與之相對
+ph_under-sb-s-nose.1 | under sb's nose | adv. | 就在眼皮底下
+ph_turn-one-s-nose-up-at.1 | turn one's nose up at | v. | 瞧不起, 嗤之以鼻
+ph_keep-one-s-nose-clean.1 | keep one's nose clean | v. | 安分守己
+ph_musical-instrument.1 | musical instrument | n. | 樂器
+ph_musical-chairs.1 | musical chairs | n. | 搶椅子游戲
+ph_lock-up.1 | lock up | v. | 鎖好門窗
+ph_lock-up.2 | lock up | v. | 把某人關起來
+ph_lock-out.1 | lock out | v. | 把某人鎖在門外
+ph_lock-in.1 | lock in | v. | 把某人鎖在裡面
+ph_exposed-to.1 | exposed to | adj. | 暴露於, 接觸
+ph_to-be-exact.1 | to be exact | adv. | 確切地說
+ph_in-comparison.1 | in comparison | adv. | 相比之下
+ph_stand-up-comedy.1 | stand-up comedy | n. | 單口喜劇
+ph_clinical-trial.1 | clinical trial | n. | 臨床試驗
+ph_aim-at.1 | aim at | v. | 瞄準
+ph_aim-at.2 | aim at | v. | 旨在, 針對
+ph_take-aim.1 | take aim | v. | 瞄準
+ph_at-the-wheel.1 | at the wheel | adv. | 駕駛, 掌控
+ph_steering-wheel.1 | steering wheel | n. | 方向盤
+ph_reinvent-the-wheel.1 | reinvent the wheel | v. | 重複勞動, 多此一舉
+ph_visual-aid.1 | visual aid | n. | 直觀教具
+ph_ivory-tower.1 | ivory tower | n. | 象牙塔
+ph_tower-block.1 | tower block | n. | 高層住宅樓
+ph_take-a-shower.1 | take a shower | v. | 洗淋浴
+ph_shoulder-to-shoulder.1 | shoulder to shoulder | adv. | 肩並肩, 齊心協力
+ph_a-shoulder-to-cry-on.1 | a shoulder to cry on | n. | 可傾訴的人
+ph_give-sb-the-cold-shoulder.1 | give sb the cold shoulder | v. | 冷落某人
+ph_be-rid-of.1 | be rid of | v. | 擺脫
+ph_in-reply.1 | in reply | adv. | 作為答覆
+ph_racing-car.1 | racing car | n. | 賽車
+ph_give-sb-a-lift.1 | give sb a lift | v. | 讓某人搭便車
+ph_inner-city.1 | inner city | n. | 市中心貧民區
+ph_graduate-school.1 | graduate school | n. | 研究生院
+ph_gang-up-on.1 | gang up on | v. | 聯合起來對付
+ph_fair-and-square.1 | fair and square | adv. | 光明正大地
+ph_civil-engineer.1 | civil engineer | n. | 土木工程師
+ph_en-route.1 | en route | adv. | 在途中
+ph_bread-and-butter.1 | bread and butter | n. | 謀生之道, 主要收入來源
+ph_the-best-thing-since-sliced-bread.1 | the best thing since sliced bread | n. | 了不起的新事物
+ph_white-bread.1 | white bread | n. | 白麵包
+ph_the-vast-majority.1 | the vast majority | n. | 絕大多數
+ph_off-topic.1 | off topic | adj. | 離題的
+ph_tone-down.1 | tone down | v. | 使緩和, 降低調子
+ph_tone-of-voice.1 | tone of voice | n. | 語氣, 口吻
+ph_smell-a-rat.1 | smell a rat | v. | 覺得可疑
+ph_sense-of-smell.1 | sense of smell | n. | 嗅覺
+ph_rough-it.1 | rough it | v. | 過簡陋的生活
+ph_rough-and-ready.1 | rough and ready | adj. | 簡陋的, 將就的
+ph_rough-draft.1 | rough draft | n. | 草稿
+ph_pride-and-joy.1 | pride and joy | n. | 掌上明珠, 心肝寶貝
+ph_swallow-one-s-pride.1 | swallow one's pride | v. | 放下自尊
+ph_jury-duty.1 | jury duty | n. | 陪審義務
+ph_the-jury-is-out.1 | the jury is out | int. | 尚無定論
+ph_junior-high-school.1 | junior high school | n. | 初中
+ph_inch-by-inch.1 | inch by inch | adv. | 一點一點地
+ph_give-sb-an-inch-and-they-ll-take-a-mile.1 | give sb an inch and they'll take a mile | int. | 得寸進尺
+ph_hunt-down.1 | hunt down | v. | 追捕, 搜尋到
+ph_hunt-for.1 | hunt for | v. | 搜尋, 尋找
+ph_job-hunt.1 | job hunt | n. | 找工作
+ph_highway-code.1 | highway code | n. | 交通規則
+ph_art-gallery.1 | art gallery | n. | 美術館, 畫廊
+ph_play-to-the-gallery.1 | play to the gallery | v. | 譁眾取寵
+ph_in-colour.1 | in colour | adv. | 彩色的
+ph_with-flying-colours.1 | with flying colours | adv. | 出色地
+ph_show-one-s-true-colours.1 | show one's true colours | v. | 暴露本性
+ph_hot-chocolate.1 | hot chocolate | n. | 熱巧克力
+ph_make-an-appointment.1 | make an appointment | v. | 預約
+ph_by-appointment.1 | by appointment | adv. | 按預約
+ph_trick-or-treat.1 | trick or treat | int. | 不給糖就搗蛋
+ph_do-the-trick.1 | do the trick | v. | 奏效, 起作用
+ph_play-a-trick-on.1 | play a trick on | v. | 捉弄, 戲弄
+ph_in-a-rush.1 | in a rush | adv. | 匆忙地
+ph_rush-into.1 | rush into | v. | 倉促行事
+ph_come-to-the-rescue.1 | come to the rescue | v. | 前來救援, 解圍
+ph_regardless-of.1 | regardless of | prep. | 不管, 不顧
+ph_practical-joke.1 | practical joke | n. | 惡作劇
+ph_for-all-practical-purposes.1 | for all practical purposes | adv. | 實際上
+ph_out-of-pocket.1 | out of pocket | adj. | 賠錢的
+ph_pick-sb-s-pocket.1 | pick sb's pocket | v. | 扒竊
+ph_in-partnership-with.1 | in partnership with | prep. | 與…合作
+ph_scare-the-pants-off.1 | scare the pants off | v. | 嚇得要死
+ph_not-necessarily.1 | not necessarily | adv. | 未必, 不一定
+ph_come-naturally.1 | come naturally | v. | 天生就會
+ph_make-a-meal-of.1 | make a meal of | v. | 小題大做
+ph_heading-for.1 | heading for | v. | 朝…前進, 走向
+ph_grey-area.1 | grey area | n. | 灰色地帶
+ph_point-the-finger-at.1 | point the finger at | v. | 指責
+ph_not-lift-a-finger.1 | not lift a finger | v. | 袖手旁觀
+ph_earn-a-living.1 | earn a living | v. | 謀生
+ph_thin-out.1 | thin out | v. | 變稀疏, 疏減
+ph_through-thick-and-thin.1 | through thick and thin | adv. | 不論順境逆境
+ph_vanish-into-thin-air.1 | vanish into thin air | v. | 消失得無影無蹤
+ph_rolling-pin.1 | rolling pin | n. | 擀麵杖
+ph_rolling-stone.1 | rolling stone | n. | 居無定所的人
+ph_in-recognition-of.1 | in recognition of | prep. | 以表彰
+ph_parking-lot.1 | parking lot | n. | 停車場
+ph_occur-to.1 | occur to | v. | 想到, 想起
+ph_mount-up.1 | mount up | v. | 逐漸增加
+ph_rear-view-mirror.1 | rear-view mirror | n. | 後視鏡
+ph_serial-killer.1 | serial killer | n. | 連環殺手
+ph_household-name.1 | household name | n. | 家喻戶曉的人
+ph_come-to-harm.1 | come to harm | v. | 受到傷害
+ph_out-of-harm-s-way.1 | out of harm's way | adv. | 在安全的地方
+ph_no-harm-done.1 | no harm done | int. | 沒關係
+ph_mind-the-gap.1 | mind the gap | int. | 小心空隙
+ph_fishing-rod.1 | fishing rod | n. | 釣魚竿
+ph_to-some-extent.1 | to some extent | adv. | 在某種程度上
+ph_to-what-extent.1 | to what extent | adv. | 在多大程度上
+ph_short-circuit.1 | short circuit | n. | 短路
+ph_top-of-the-charts.1 | top of the charts | n. | 排行榜榜首
+ph_chamber-music.1 | chamber music | n. | 室內樂
+ph_chamber-of-commerce.1 | chamber of commerce | n. | 商會
+ph_bone-up-on.1 | bone up on | v. | 突擊學習
+ph_have-a-bone-to-pick-with.1 | have a bone to pick with | v. | 與某人有賬要算
+ph_bone-dry.1 | bone dry | adj. | 乾透的
+ph_wash-up.1 | wash up | v. | 洗碗
+ph_wash-up.2 | wash up | v. | 洗手洗臉
+ph_wash-away.1 | wash away | v. | 沖走
+ph_wash-one-s-hands-of.1 | wash one's hands of | v. | 洗手不幹, 撒手不管
+ph_thick-and-fast.1 | thick and fast | adv. | 又快又多
+ph_a-thick-skin.1 | a thick skin | n. | 臉皮厚, 不怕批評
+ph_in-silence.1 | in silence | adv. | 沉默地
+ph_culture-shock.1 | culture shock | n. | 文化衝擊
+ph_in-shock.1 | in shock | adj. | 處於震驚中
+ph_qualified-for.1 | qualified for | adj. | 有資格的
+ph_below-the-poverty-line.1 | below the poverty line | adv. | 在貧困線以下
+ph_package-holiday.1 | package holiday | n. | 包價旅遊
+ph_take-offence.1 | take offence | v. | 生氣, 被冒犯
+ph_on-the-offensive.1 | on the offensive | adj. | 採取攻勢
+ph_moral-support.1 | moral support | n. | 精神支援
+ph_on-the-loose.1 | on the loose | adj. | 逍遙法外, 在逃
+ph_a-loose-end.1 | a loose end | n. | 未了結的事
+ph_at-a-loose-end.1 | at a loose end | adj. | 無所事事
+ph_shoot-from-the-hip.1 | shoot from the hip | v. | 貿然行事
+ph_gear-up.1 | gear up | v. | 做好準備
+ph_in-gear.1 | in gear | adj. | 掛上擋
+ph_in-one-s-element.1 | in one's element | adj. | 如魚得水
+ph_the-element-of-surprise.1 | the element of surprise | n. | 出其不意
+ph_walk-on-eggshells.1 | walk on eggshells | v. | 小心翼翼
+ph_put-all-one-s-eggs-in-one-basket.1 | put all one's eggs in one basket | v. | 孤注一擲
+ph_in-contrast.1 | in contrast | adv. | 相比之下
+ph_by-contrast.1 | by contrast | adv. | 相比之下
+ph_under-a-cloud.1 | under a cloud | adv. | 受到懷疑
+ph_every-cloud-has-a-silver-lining.1 | every cloud has a silver lining | int. | 黑暗中總有一線光明
+ph_cloud-computing.1 | cloud computing | n. | 雲端計算
+ph_closing-time.1 | closing time | n. | 打烊時間
+ph_bound-to.1 | bound to | adj. | 必定, 一定會
+ph_bound-for.1 | bound for | adj. | 開往, 前往
+ph_by-leaps-and-bounds.1 | by leaps and bounds | adv. | 飛躍地
+ph_out-of-bounds.1 | out of bounds | adj. | 禁止入內的
+ph_argue-with.1 | argue with | v. | 與…爭吵
+ph_argue-for.1 | argue for | v. | 主張, 支援
+ph_accused-of.1 | accused of | adj. | 被指控
+ph_the-accused.1 | the accused | n. | 被告
+ph_suffer-from.1 | suffer from | v. | 患有, 受…之苦
+ph_spoken-language.1 | spoken language | n. | 口語
+ph_the-silent-treatment.1 | the silent treatment | n. | 故意不理睬
+ph_silent-majority.1 | silent majority | n. | 沉默的大多數
+ph_refer-to.1 | refer to | v. | 提到, 指的是
+ph_refer-to.2 | refer to | v. | 查閱, 參考
+ph_pet-name.1 | pet name | n. | 暱稱
+ph_pet-peeve.1 | pet peeve | n. | 最討厭的事
+ph_penalty-kick.1 | penalty kick | n. | 點球
+ph_murder-mystery.1 | murder mystery | n. | 謀殺推理小說
+ph_hungry-for.1 | hungry for | adj. | 渴望
+ph_gross-domestic-product.1 | gross domestic product | n. | 國內生產總值
+ph_gray-area.1 | gray area | n. | 灰色地帶
+ph_hold-the-fort.1 | hold the fort | v. | 暫時代管
+ph_formal-education.1 | formal education | n. | 正規教育
+ph_in-a-flash.1 | in a flash | adv. | 瞬間, 一眨眼
+ph_flash-drive.1 | flash drive | n. | 快閃記憶體盤, 優盤
+ph_flash-flood.1 | flash flood | n. | 山洪暴發
+ph_law-enforcement.1 | law enforcement | n. | 執法
+ph_curiosity-killed-the-cat.1 | curiosity killed the cat | int. | 好奇害死貓
+ph_compared-to.1 | compared to | prep. | 與…相比
+ph_compared-with.1 | compared with | prep. | 與…相比
+ph_charity-begins-at-home.1 | charity begins at home | int. | 施惠先及親
+ph_castles-in-the-air.1 | castles in the air | n. | 空中樓閣
+ph_anxiety-attack.1 | anxiety attack | n. | 焦慮發作
+ph_guardian-angel.1 | guardian angel | n. | 守護天使, 保護者
+ph_acid-rain.1 | acid rain | n. | 酸雨
+ph_acid-test.1 | acid test | n. | 嚴峻考驗, 試金石
+ph_hang-by-a-thread.1 | hang by a thread | v. | 岌岌可危, 千鈞一髮
+ph_lose-the-thread.1 | lose the thread | v. | 思路中斷, 跟不上
+ph_price-tag.1 | price tag | n. | 價格標籤, 價碼
+ph_tag-along.1 | tag along | v. | 跟隨, 尾隨
+ph_name-tag.1 | name tag | n. | 名牌, 姓名牌
+ph_beyond-a-shadow-of-a-doubt.1 | beyond a shadow of a doubt | adv. | 毫無疑問
+ph_shadow-of-one-s-former-self.1 | shadow of one's former self | n. | 今非昔比, 大不如前
+ph_life-savings.1 | life savings | n. | 畢生積蓄
+ph_bury-one-s-head-in-the-sand.1 | bury one's head in the sand | v. | 逃避現實, 鴕鳥心態
+ph_sand-castle.1 | sand castle | n. | 沙堡
+ph_pull-rank.1 | pull rank | v. | 以權壓人, 擺架子
+ph_rank-and-file.1 | rank and file | n. | 普通成員, 基層
+ph_close-ranks.1 | close ranks | v. | 團結一致, 抱團
+ph_standard-procedure.1 | standard procedure | n. | 標準程式, 常規做法
+ph_pleased-with-oneself.1 | pleased with oneself | adj. | 自鳴得意, 沾沾自喜
+ph_pleased-to-meet-you.1 | pleased to meet you | int. | 很高興見到你
+ph_pull-a-muscle.1 | pull a muscle | v. | 拉傷肌肉
+ph_in-the-mood.1 | in the mood | adj. | 有心情, 想要
+ph_in-a-good-mood.1 | in a good mood | adj. | 心情好
+ph_in-a-bad-mood.1 | in a bad mood | adj. | 心情不好
+ph_mood-swing.1 | mood swing | n. | 情緒波動
+ph_living-legend.1 | living legend | n. | 活著的傳奇
+ph_deeply-rooted.1 | deeply rooted | adj. | 根深蒂固
+ph_chase-after.1 | chase after | v. | 追趕, 追求
+ph_chase-up.1 | chase up | v. | 催促, 追查
+ph_cut-to-the-chase.1 | cut to the chase | v. | 直奔主題
+ph_take-a-bath.1 | take a bath | v. | 洗澡, 泡澡
+ph_bubble-bath.1 | bubble bath | n. | 泡泡浴
+ph_badly-off.1 | badly off | adj. | 窮困, 拮据
+ph_sexual-assault.1 | sexual assault | n. | 性侵犯
+ph_live-wire.1 | live wire | n. | 精力充沛的人
+ph_down-to-the-wire.1 | down to the wire | adv. | 直到最後一刻
+ph_welfare-state.1 | welfare state | n. | 福利國家
+ph_on-welfare.1 | on welfare | adj. | 領救濟金
+ph_swimming-costume.1 | swimming costume | n. | 泳衣
+ph_bring-up-the-rear.1 | bring up the rear | v. | 殿後, 走在最後
+ph_plain-sailing.1 | plain sailing | n. | 一帆風順
+ph_in-plain-english.1 | in plain English | adv. | 用淺白的話
+ph_pitch-in.1 | pitch in | v. | 出力, 幫忙
+ph_sales-pitch.1 | sales pitch | n. | 推銷說辭
+ph_the-naked-eye.1 | the naked eye | n. | 肉眼
+ph_horror-film.1 | horror film | n. | 恐怖片
+ph_horror-story.1 | horror story | n. | 恐怖故事
+ph_horror-story.2 | horror story | n. | 可怕的經歷
+ph_all-ears.1 | all ears | adj. | 洗耳恭聽
+ph_play-it-by-ear.1 | play it by ear | v. | 隨機應變
+ph_by-ear.1 | by ear | adv. | 憑聽覺, 不看譜
+ph_fall-on-deaf-ears.1 | fall on deaf ears | v. | 被置若罔聞
+ph_have-an-ear-for.1 | have an ear for | v. | 有音樂天賦, 善於辨音
+ph_front-desk.1 | front desk | n. | 前臺, 接待處
+ph_help-desk.1 | help desk | n. | 服務檯, 諮詢臺
+ph_customs-officer.1 | customs officer | n. | 海關官員
+ph_alarm-clock.1 | alarm clock | n. | 鬧鐘
+ph_around-the-clock.1 | around the clock | adv. | 晝夜不停
+ph_against-the-clock.1 | against the clock | adv. | 爭分奪秒
+ph_turn-back-the-clock.1 | turn back the clock | v. | 時光倒流, 回到過去
+ph_clock-in.1 | clock in | v. | 打卡上班
+ph_clock-out.1 | clock out | v. | 打卡下班
+ph_computer-virus.1 | computer virus | n. | 電腦病毒
+ph_trash-can.1 | trash can | n. | 垃圾桶
+ph_talk-trash.1 | talk trash | v. | 說狠話, 貶損
+ph_suck-up-to.1 | suck up to | v. | 拍馬屁, 巴結
+ph_suck-in.1 | suck in | v. | 吸入, 捲入
+ph_suck-in.2 | suck in | v. | 收腹
+ph_have-the-stomach-for.1 | have the stomach for | v. | 有膽量做
+ph_on-an-empty-stomach.1 | on an empty stomach | adv. | 空腹
+ph_odd-jobs.1 | odd jobs | n. | 零工, 雜活
+ph_odd-one-out.1 | odd one out | n. | 與眾不同者
+ph_against-all-odds.1 | against all odds | adv. | 儘管困難重重
+ph_nervous-breakdown.1 | nervous breakdown | n. | 精神崩潰
+ph_nervous-system.1 | nervous system | n. | 神經系統
+ph_first-aid-kit.1 | first-aid kit | n. | 急救箱
+ph_kit-out.1 | kit out | v. | 裝備, 配備
+ph_job-hunting.1 | job hunting | n. | 求職, 找工作
+ph_ghost-town.1 | ghost town | n. | 鬼城, 廢棄城鎮
+ph_give-up-the-ghost.1 | give up the ghost | v. | 停止運轉, 報廢
+ph_ghost-story.1 | ghost story | n. | 鬼故事
+ph_flower-bed.1 | flower bed | n. | 花壇, 花圃
+ph_in-full-flower.1 | in full flower | adj. | 盛開, 鼎盛
+ph_the-establishment.1 | the establishment | n. | 權勢集團, 當權派
+ph_a-diamond-in-the-rough.1 | a diamond in the rough | n. | 璞玉, 未經雕琢的人才
+ph_comic-book.1 | comic book | n. | 漫畫書
+ph_comic-strip.1 | comic strip | n. | 連環漫畫
+ph_stand-on-ceremony.1 | stand on ceremony | v. | 拘泥禮節, 講客套
+ph_capture-the-imagination.1 | capture the imagination | v. | 引人入勝
+ph_seat-belt.1 | seat belt | n. | 安全帶
+ph_under-one-s-belt.1 | under one's belt | adv. | 已經獲得
+ph_tighten-one-s-belt.1 | tighten one's belt | v. | 勒緊褲腰帶, 節省開支
+ph_below-the-belt.1 | below the belt | adj. | 不公正, 卑鄙
+ph_belt-out.1 | belt out | v. | 大聲唱
+ph_in-anger.1 | in anger | adv. | 憤怒地
+ph_anger-management.1 | anger management | n. | 情緒管理, 憤怒控制
+ph_steal-the-show.1 | steal the show | v. | 搶風頭
+ph_steal-a-glance.1 | steal a glance | v. | 偷看一眼
+ph_root-for.1 | root for | v. | 支援, 為…加油
+ph_root-out.1 | root out | v. | 根除, 剷除
+ph_take-root.1 | take root | v. | 紮根, 生根
+ph_square-root.1 | square root | n. | 平方根
+ph_beyond-repair.1 | beyond repair | adj. | 無法修復
+ph_in-good-repair.1 | in good repair | adj. | 維修良好
+ph_off-the-rails.1 | off the rails | adj. | 失控, 出軌
+ph_top-priority.1 | top priority | n. | 當務之急, 首要任務
+ph_under-the-knife.1 | under the knife | adv. | 接受手術
+ph_knife-edge.1 | knife edge | n. | 危急關頭
+ph_bite-the-dust.1 | bite the dust | v. | 失敗, 完蛋
+ph_dust-off.1 | dust off | v. | 重新啟用
+ph_the-dust-settles.1 | the dust settles | v. | 塵埃落定
+ph_on-deck.1 | on deck | adv. | 在甲板上
+ph_crack-down.1 | crack down | v. | 嚴厲打擊, 鎮壓
+ph_crack-up.1 | crack up | v. | 大笑
+ph_crack-up.2 | crack up | v. | 精神崩潰
+ph_at-the-crack-of-dawn.1 | at the crack of dawn | adv. | 天一亮, 黎明時
+ph_crack-on.1 | crack on | v. | 繼續幹
+ph_too-close-for-comfort.1 | too close for comfort | adj. | 近得讓人不安
+ph_on-vacation.1 | on vacation | adj. | 在度假
+ph_pull-strings.1 | pull strings | v. | 走後門, 託關係
+ph_string-along.1 | string along | v. | 欺騙, 敷衍
+ph_a-clean-sheet.1 | a clean sheet | n. | 清白記錄
+ph_for-the-sake-of.1 | for the sake of | prep. | 為了
+ph_for-goodness-sake.1 | for goodness' sake | int. | 看在老天爺份上
+ph_go-to-pot.1 | go to pot | v. | 變糟, 荒廢
+ph_pot-luck.1 | pot luck | n. | 碰運氣
+ph_pot-plant.1 | pot plant | n. | 盆栽植物
+ph_nowhere-near.1 | nowhere near | adv. | 遠遠不, 差得遠
+ph_get-nowhere.1 | get nowhere | v. | 毫無進展
+ph_out-of-nowhere.1 | out of nowhere | adv. | 突然出現
+ph_in-the-middle-of-nowhere.1 | in the middle of nowhere | adv. | 在偏遠地方
+ph_marry-into.1 | marry into | v. | 透過婚姻成為一員
+ph_landing-gear.1 | landing gear | n. | 起落架
+ph_hop-on.1 | hop on | v. | 跳上, 搭乘
+ph_hire-out.1 | hire out | v. | 出租
+ph_hire-purchase.1 | hire purchase | n. | 分期付款
+ph_set-forth.1 | set forth | v. | 闡述, 提出
+ph_set-forth.2 | set forth | v. | 出發
+ph_without-delay.1 | without delay | adv. | 立即
+ph_crystal-clear.1 | crystal clear | adj. | 清澈透明, 非常清楚
+ph_crystal-ball.1 | crystal ball | n. | 水晶球
+ph_butter-up.1 | butter up | v. | 討好, 奉承
+ph_butter-wouldn-t-melt.1 | butter wouldn't melt | adj. | 裝老實, 假正經
+ph_bid-farewell.1 | bid farewell | v. | 告別
+ph_visible-light.1 | visible light | n. | 可見光
+ph_lost-in-translation.1 | lost in translation | adj. | 翻譯中失真
+ph_come-out-of-one-s-shell.1 | come out of one's shell | v. | 變得開朗
+ph_shell-out.1 | shell out | v. | 付錢, 掏腰包
+ph_reflect-on.1 | reflect on | v. | 反思, 思考
+ph_frying-pan.1 | frying pan | n. | 煎鍋
+ph_pan-out.1 | pan out | v. | 結果是, 進展
+ph_out-of-the-frying-pan-into-the-fire.1 | out of the frying pan into the fire | adv. | 每況愈下
+ph_narrow-down.1 | narrow down | v. | 縮小範圍
+ph_liquid-crystal.1 | liquid crystal | n. | 液晶
+ph_once-in-a-lifetime.1 | once in a lifetime | adj. | 千載難逢
+ph_entrance-exam.1 | entrance exam | n. | 入學考試
+ph_disaster-area.1 | disaster area | n. | 災區
+ph_not-cricket.1 | not cricket | adj. | 不公平, 不光明
+ph_bother-with.1 | bother with | v. | 費心於
+ph_can-t-be-bothered.1 | can't be bothered | v. | 懶得
+ph_associate-with.1 | associate with | v. | 聯想
+ph_associate-with.2 | associate with | v. | 與…交往
+ph_spin-off.1 | spin off | v. | 衍生出
+ph_spin-out.1 | spin out | v. | 拖長
+ph_take-for-a-spin.1 | take for a spin | v. | 試駕, 兜風
+ph_sixth-sense.1 | sixth sense | n. | 第六感, 直覺
+ph_in-possession-of.1 | in possession of | prep. | 擁有
+ph_pen-pal.1 | pen pal | n. | 筆友
+ph_keep-pace-with.1 | keep pace with | v. | 跟上
+ph_on-occasion.1 | on occasion | adv. | 有時
+ph_go-through-the-mill.1 | go through the mill | v. | 歷經磨難
+ph_grass-roots.1 | grass roots | n. | 基層, 草根
+ph_the-grass-is-always-greener.1 | the grass is always greener | int. | 這山望著那山高
+ph_connect-with.1 | connect with | v. | 與…溝通, 產生共鳴
+ph_belong-to.1 | belong to | v. | 屬於
+ph_belong-to.2 | belong to | v. | 是成員
+ph_arrive-at.1 | arrive at | v. | 達成, 得出
+ph_hold-one-s-tongue.1 | hold one's tongue | v. | 保持沉默
+ph_tongue-in-cheek.1 | tongue in cheek | adj. | 開玩笑地
+ph_slip-of-the-tongue.1 | slip of the tongue | n. | 口誤
+ph_cross-swords.1 | cross swords | v. | 爭論, 交鋒
+ph_in-summary.1 | in summary | adv. | 總之
+ph_spell-out.1 | spell out | v. | 詳細說明
+ph_spell-out.2 | spell out | v. | 拼寫
+ph_spell-check.1 | spell check | n. | 拼寫檢查
+ph_settle-down.1 | settle down | v. | 安定下來
+ph_settle-down.2 | settle down | v. | 平靜下來
+ph_settle-in.1 | settle in | v. | 適應新環境
+ph_settle-for.1 | settle for | v. | 勉強接受
+ph_settle-up.1 | settle up | v. | 結賬
+ph_settle-on.1 | settle on | v. | 選定
+ph_reverse-gear.1 | reverse gear | n. | 倒擋
+ph_in-reverse.1 | in reverse | adv. | 相反, 倒著
+ph_last-resort.1 | last resort | n. | 最後手段
+ph_as-a-last-resort.1 | as a last resort | adv. | 作為最後手段
+ph_remind-sb-of-sth.1 | remind sb of sth | v. | 使想起
+ph_log-in.1 | log in | v. | 登入
+ph_log-out.1 | log out | v. | 登出, 退出
+ph_log-on.1 | log on | v. | 登入
+ph_off-the-hook.1 | off the hook | adj. | 擺脫困境
+ph_hook-up.1 | hook up | v. | 連線
+ph_hook-up.2 | hook up | v. | 勾搭
+ph_by-hook-or-by-crook.1 | by hook or by crook | adv. | 不擇手段
+ph_in-honour-of.1 | in honour of | prep. | 為紀念, 向…致敬
+ph_collect-call.1 | collect call | n. | 對方付費電話
+ph_tube-station.1 | tube station | n. | 地鐵站
+ph_strip-off.1 | strip off | v. | 脫光衣服
+ph_strip-off.2 | strip off | v. | 剝去, 撕下
+ph_strip-away.1 | strip away | v. | 剝去, 去除
+ph_strip-club.1 | strip club | n. | 脫衣舞俱樂部
+ph_regard-as.1 | regard as | v. | 把…視為, 認為
+ph_in-this-regard.1 | in this regard | adv. | 在這方面
+ph_give-one-s-regards-to.1 | give one's regards to | v. | 代某人問好
+ph_landscape-gardening.1 | landscape gardening | n. | 園林設計
+ph_take-the-initiative.1 | take the initiative | v. | 採取主動, 帶頭
+ph_on-one-s-own-initiative.1 | on one's own initiative | adv. | 主動地, 自發地
+ph_glory-days.1 | glory days | n. | 輝煌時期
+ph_engage-in.1 | engage in | v. | 從事, 參與
+ph_engage-with.1 | engage with | v. | 接觸, 交流
+ph_age-of-consent.1 | age of consent | n. | 法定性同意年齡
+ph_coat-hanger.1 | coat hanger | n. | 衣架
+ph_automatic-pilot.1 | automatic pilot | n. | 自動駕駛儀
+ph_automatic-pilot.2 | automatic pilot | n. | 下意識狀態
+ph_a-wolf-in-sheep-s-clothing.1 | a wolf in sheep's clothing | n. | 披著羊皮的狼
+ph_lone-wolf.1 | lone wolf | n. | 獨來獨往的人
+ph_tear-up.1 | tear up | v. | 撕碎
+ph_tear-up.2 | tear up | v. | 熱淚盈眶
+ph_tear-down.1 | tear down | v. | 拆毀, 拆除
+ph_tear-apart.1 | tear apart | v. | 撕裂, 使分裂
+ph_burst-into-tears.1 | burst into tears | v. | 突然大哭
+ph_in-tears.1 | in tears | adj. | 流著淚
+ph_stretch-out.1 | stretch out | v. | 伸展, 躺平
+ph_at-a-stretch.1 | at a stretch | adv. | 連續地, 不間斷
+ph_by-no-stretch-of-the-imagination.1 | by no stretch of the imagination | adv. | 無論如何也不
+ph_rob-sb-of-sth.1 | rob sb of sth | v. | 搶劫, 剝奪
+ph_opinion-poll.1 | opinion poll | n. | 民意調查
+ph_ought-to.1 | ought to | v. | 應該
+ph_knock-down.1 | knock down | v. | 拆除
+ph_knock-down.2 | knock down | v. | 撞倒, 擊倒
+ph_knock-out.1 | knock out | v. | 擊昏
+ph_knock-out.2 | knock out | v. | 淘汰
+ph_knock-over.1 | knock over | v. | 撞倒, 碰翻
+ph_knock-off.1 | knock off | v. | 下班
+ph_knock-off.2 | knock off | v. | 減價
+ph_knock-on-wood.1 | knock on wood | int. | 但願好運
+ph_make-an-impression.1 | make an impression | v. | 給人留下印象
+ph_under-the-impression.1 | under the impression | adj. | 誤以為
+ph_fancy-dress.1 | fancy dress | n. | 化裝服
+ph_take-a-fancy-to.1 | take a fancy to | v. | 喜歡上
+ph_with-the-exception-of.1 | with the exception of | prep. | 除…之外
+ph_make-an-exception.1 | make an exception | v. | 破例
+ph_the-exception-proves-the-rule.1 | the exception proves the rule | int. | 例外恰好證明規律
+ph_dozens-of.1 | dozens of | det. | 許多, 幾十個
+ph_at-a-discount.1 | at a discount | adv. | 打折
+ph_cotton-wool.1 | cotton wool | n. | 藥棉, 脫脂棉
+ph_cotton-candy.1 | cotton candy | n. | 棉花糖
+ph_online-banking.1 | online banking | n. | 網上銀行
+ph_identical-twin.1 | identical twin | n. | 同卵雙胞胎
+ph_twin-bed.1 | twin bed | n. | 單人床
+ph_twin-town.1 | twin town | n. | 姐妹城市
+ph_tail-off.1 | tail off | v. | 逐漸減少, 變弱
+ph_heads-or-tails.1 | heads or tails | int. | 正面還是反面
+ph_swing-by.1 | swing by | v. | 順便拜訪
+ph_in-full-swing.1 | in full swing | adj. | 正在全力進行
+ph_get-into-the-swing-of-things.1 | get into the swing of things | v. | 進入狀態
+ph_sum-up.1 | sum up | v. | 總結, 概括
+ph_lump-sum.1 | lump sum | n. | 一次總付款
+ph_in-sum.1 | in sum | adv. | 總之
+ph_rally-around.1 | rally around | v. | 團結起來支援
+ph_in-principle.1 | in principle | adv. | 原則上
+ph_on-principle.1 | on principle | adv. | 根據原則
+ph_take-the-liberty-of.1 | take the liberty of | v. | 冒昧地
+ph_at-liberty.1 | at liberty | adj. | 自由的, 獲准的
+ph_instant-coffee.1 | instant coffee | n. | 速溶咖啡
+ph_in-an-instant.1 | in an instant | adv. | 立即, 瞬間
+ph_genetic-engineering.1 | genetic engineering | n. | 基因工程
+ph_flood-in.1 | flood in | v. | 大量湧入
+ph_claim-to-fame.1 | claim to fame | n. | 出名的原因
+ph_hall-of-fame.1 | hall of fame | n. | 名人堂
+ph_at-ease.1 | at ease | adj. | 自在, 放鬆
+ph_with-ease.1 | with ease | adv. | 輕而易舉地
+ph_ease-off.1 | ease off | v. | 減輕, 緩和
+ph_contribute-to.1 | contribute to | v. | 促成, 有助於
+ph_contribute-to.2 | contribute to | v. | 捐獻
+ph_take-the-bull-by-the-horns.1 | take the bull by the horns | v. | 果斷處理
+ph_like-a-bull-in-a-china-shop.1 | like a bull in a china shop | adv. | 魯莽笨拙地
+ph_absence-makes-the-heart-grow-fonder.1 | absence makes the heart grow fonder | int. | 小別勝新婚
+ph_in-the-absence-of.1 | in the absence of | prep. | 缺乏…時
+ph_speed-trap.1 | speed trap | n. | 測速區
+ph_shake-up.1 | shake up | v. | 重組, 大改
+ph_shake-up.2 | shake up | v. | 使震驚
+ph_shake-off.1 | shake off | v. | 擺脫
+ph_shake-hands.1 | shake hands | v. | 握手
+ph_shake-one-s-head.1 | shake one's head | v. | 搖頭
+ph_satellite-dish.1 | satellite dish | n. | 衛星天線
+ph_satellite-television.1 | satellite television | n. | 衛星電視
+ph_precious-metal.1 | precious metal | n. | 貴金屬
+ph_bring-sb-to-their-knees.1 | bring sb to their knees | v. | 使屈服
+ph_with-the-intention-of.1 | with the intention of | prep. | 打算, 意圖
+ph_gen-up.1 | gen up | v. | 瞭解, 熟悉
+ph_foster-parent.1 | foster parent | n. | 養父母
+ph_foster-care.1 | foster care | n. | 寄養
+ph_ethnic-minority.1 | ethnic minority | n. | 少數民族
+ph_ethnic-cleansing.1 | ethnic cleansing | n. | 種族清洗
+ph_elementary-school.1 | elementary school | n. | 小學
+ph_have-difficulty.1 | have difficulty | v. | 有困難
+ph_with-difficulty.1 | with difficulty | adv. | 艱難地
+ph_pedestrian-crossing.1 | pedestrian crossing | n. | 人行橫道
+ph_level-crossing.1 | level crossing | n. | 鐵路道口
+ph_commit-to.1 | commit to | v. | 致力於, 承諾
+ph_commit-suicide.1 | commit suicide | v. | 自殺
+ph_fifth-column.1 | fifth column | n. | 第五縱隊, 內奸
+ph_baby-boom.1 | baby boom | n. | 生育高峰
+ph_red-alert.1 | red alert | n. | 緊急警報
+ph_on-the-alert.1 | on the alert | adj. | 警惕的
+ph_virtual-reality.1 | virtual reality | n. | 虛擬現實
+ph_go-underground.1 | go underground | v. | 轉入地下
+ph_tissue-paper.1 | tissue paper | n. | 薄紙, 棉紙
+ph_registration-number.1 | registration number | n. | 車牌號
+ph_pound-sterling.1 | pound sterling | n. | 英鎊
+ph_pound-away.1 | pound away | v. | 連續敲打
+ph_tour-operator.1 | tour operator | n. | 旅行社
+ph_in-hiding.1 | in hiding | adj. | 躲藏著
+ph_fighter-jet.1 | fighter jet | n. | 戰鬥機
+ph_freedom-fighter.1 | freedom fighter | n. | 自由戰士
+ph_christmas-eve.1 | Christmas Eve | n. | 平安夜
+ph_new-year-s-eve.1 | New Year's Eve | n. | 除夕
+ph_on-the-eve-of.1 | on the eve of | prep. | 在…前夕
+ph_pluck-up-the-courage.1 | pluck up the courage | v. | 鼓起勇氣
+ph_blast-off.1 | blast off | v. | 發射升空
+ph_have-a-blast.1 | have a blast | v. | 玩得很開心
+ph_big-bang.1 | big bang | n. | 宇宙大爆炸
+ph_bang-on.1 | bang on | v. | 喋喋不休
+ph_bang-for-one-s-buck.1 | bang for one's buck | n. | 物有所值
+ph_triple-jump.1 | triple jump | n. | 三級跳遠
+ph_air-terminal.1 | air terminal | n. | 航站樓
+ph_status-symbol.1 | status symbol | n. | 身份象徵
+ph_go-steady.1 | go steady | v. | 確定戀愛關係
+ph_in-ruins.1 | in ruins | adj. | 成為廢墟
+ph_rocket-science.1 | rocket science | n. | 高深的學問
+ph_in-relation-to.1 | in relation to | prep. | 關於, 與…相比
+ph_public-relations.1 | public relations | n. | 公共關係
+ph_mouse-pad.1 | mouse pad | n. | 滑鼠墊
+ph_gas-mask.1 | gas mask | n. | 防毒面具
+ph_a-foot-in-the-grave.1 | a foot in the grave | n. | 行將就木
+ph_turn-in-one-s-grave.1 | turn in one's grave | v. | 死不瞑目
+ph_ask-a-favour.1 | ask a favour | v. | 請求幫忙
+ph_domain-name.1 | domain name | n. | 域名
+ph_eating-disorder.1 | eating disorder | n. | 飲食失調
+ph_how-dare-you.1 | how dare you | int. | 你竟敢
+ph_i-dare-say.1 | I dare say | adv. | 我想, 很可能
+ph_a-chip-on-one-s-shoulder.1 | a chip on one's shoulder | n. | 心懷不滿
+ph_chip-in.1 | chip in | v. | 湊錢
+ph_chip-in.2 | chip in | v. | 插嘴, 插話
+ph_blue-chip.1 | blue chip | n. | 藍籌股
+ph_when-the-chips-are-down.1 | when the chips are down | adv. | 在關鍵時刻
+ph_bite-one-s-tongue.1 | bite one's tongue | v. | 忍住不說
+ph_bite-off-more-than-one-can-chew.1 | bite off more than one can chew | v. | 貪多嚼不爛
+ph_biological-clock.1 | biological clock | n. | 生物鐘
+ph_in-one-s-wisdom.1 | in one's wisdom | adv. | 自以為聰明
+ph_wisdom-tooth.1 | wisdom tooth | n. | 智齒
+ph_toy-with.1 | toy with | v. | 隨便想想, 不認真考慮
+ph_toy-with.2 | toy with | v. | 擺弄
+ph_paper-tiger.1 | paper tiger | n. | 紙老虎
+ph_clear-one-s-throat.1 | clear one's throat | v. | 清嗓子
+ph_at-each-other-s-throats.1 | at each other's throats | adj. | 激烈爭吵
+ph_stem-from.1 | stem from | v. | 源於, 起因於
+ph_let-sth-slide.1 | let sth slide | v. | 放任不管
+ph_seal-off.1 | seal off | v. | 封鎖
+ph_seal-one-s-fate.1 | seal one's fate | v. | 註定命運
+ph_soy-sauce.1 | soy sauce | n. | 醬油
+ph_racial-discrimination.1 | racial discrimination | n. | 種族歧視
+ph_turn-of-phrase.1 | turn of phrase | n. | 措辭
+ph_invite-sb-over.1 | invite sb over | v. | 邀請某人來家
+ph_intellectual-property.1 | intellectual property | n. | 智慧財產權
+ph_say-goodbye.1 | say goodbye | v. | 道別
+ph_make-a-fortune.1 | make a fortune | v. | 發財
+ph_fortune-teller.1 | fortune teller | n. | 算命先生
+ph_cost-a-fortune.1 | cost a fortune | v. | 花大價錢
+ph_private-equity.1 | private equity | n. | 私募股權
+ph_talk-of-the-devil.1 | talk of the devil | int. | 說曹操曹操就到
+ph_devil-s-advocate.1 | devil's advocate | n. | 故意唱反調者
+ph_arts-and-crafts.1 | arts and crafts | n. | 手工藝
+ph_bow-out.1 | bow out | v. | 退出
+ph_bow-to.1 | bow to | v. | 屈從
+ph_bow-tie.1 | bow tie | n. | 領結
+ph_off-one-s-own-bat.1 | off one's own bat | adv. | 主動地
+ph_not-bat-an-eyelid.1 | not bat an eyelid | v. | 不動聲色
+ph_right-off-the-bat.1 | right off the bat | adv. | 立刻
+ph_hidden-agenda.1 | hidden agenda | n. | 隱藏的目的
+ph_love-affair.1 | love affair | n. | 風流韻事
+ph_place-of-worship.1 | place of worship | n. | 禮拜場所
+ph_tons-of.1 | tons of | det. | 大量
+ph_like-a-ton-of-bricks.1 | like a ton of bricks | adv. | 狠狠地
+ph_fairy-tale.1 | fairy tale | n. | 童話
+ph_succeed-in.1 | succeed in | v. | 成功做成
+ph_rely-on.1 | rely on | v. | 依靠, 信賴
+ph_recover-from.1 | recover from | v. | 從…中恢復
+ph_drag-out.1 | drag out | v. | 拖延
+ph_fool-sb-into.1 | fool sb into | v. | 騙某人做
+ph_spare-no-effort.1 | spare no effort | v. | 不遺餘力
+ph_spare-room.1 | spare room | n. | 客房
+ph_pump-out.1 | pump out | v. | 大量生產
+ph_tune-up.1 | tune up | v. | 調音, 除錯
+ph_submit-to.1 | submit to | v. | 屈服, 服從
+ph_pin-number.1 | PIN number | n. | 個人密碼
+ph_pass-judgment.1 | pass judgment | v. | 評判
+ph_against-one-s-better-judgment.1 | against one's better judgment | adv. | 明知不該
+ph_breathing-space.1 | breathing space | n. | 喘息時間
+ph_default-on.1 | default on | v. | 拖欠
+ph_stroke-of-genius.1 | stroke of genius | n. | 絕妙主意
+ph_weed-out.1 | weed out | v. | 剔除, 淘汰
+ph_blood-vessel.1 | blood vessel | n. | 血管
+ph_intent-on.1 | intent on | adj. | 決意要
+ph_to-all-intents-and-purposes.1 | to all intents and purposes | adv. | 實際上
+ph_fire-alarm.1 | fire alarm | n. | 火警警報
+ph_raise-the-alarm.1 | raise the alarm | v. | 發出警報
+ph_jet-set.1 | jet set | n. | 富豪階層
+ph_in-the-loop.1 | in the loop | adj. | 知情, 瞭解內情
+ph_out-of-the-loop.1 | out of the loop | adj. | 不知情, 被排除在外
+ph_throw-sb-for-a-loop.1 | throw sb for a loop | v. | 使震驚, 使困惑
+ph_jet-lag.1 | jet lag | n. | 時差反應
+ph_jet-ski.1 | jet ski | n. | 水上摩托
+ph_fool-around.1 | fool around | v. | 閒蕩, 胡鬧
+ph_fool-around.2 | fool around | v. | 亂搞男女關係
+ph_make-a-fool-of-oneself.1 | make a fool of oneself | v. | 出醜, 出洋相
+ph_make-a-fool-of-sb.1 | make a fool of sb | v. | 愚弄, 使出醜
+ph_april-fools-day.1 | April Fools' Day | n. | 愚人節
+ph_drag-on.1 | drag on | v. | 拖延, 拖拉
+ph_drag-sb-into-sth.1 | drag sb into sth | v. | 把某人捲入
+ph_drag-one-s-feet.1 | drag one's feet | v. | 拖拖拉拉, 故意拖延
+ph_by-default.1 | by default | adv. | 預設, 自動地
+ph_certificate-of-deposit.1 | certificate of deposit | n. | 定期存單
+ph_aircraft-carrier.1 | aircraft carrier | n. | 航空母艦
+ph_candy-bar.1 | candy bar | n. | 巧克力棒, 糖果條
+ph_beef-up.1 | beef up | v. | 加強, 充實
+ph_illegal-alien.1 | illegal alien | n. | 非法移民
+ph_tap-water.1 | tap water | n. | 自來水
+ph_tap-into.1 | tap into | v. | 利用, 開發
+ph_on-tap.1 | on tap | adj. | 隨時可用
+ph_slip-up.1 | slip up | v. | 出錯, 疏忽
+ph_slip-away.1 | slip away | v. | 溜走, 悄悄離開
+ph_slip-away.2 | slip away | v. | 消逝
+ph_slip-one-s-mind.1 | slip one's mind | v. | 被忘記
+ph_let-sth-slip.1 | let sth slip | v. | 無意中說出
+ph_let-sth-slip.2 | let sth slip | v. | 錯失
+ph_spare-time.1 | spare time | n. | 空閒時間, 業餘時間
+ph_spare-part.1 | spare part | n. | 備件, 零件
+ph_to-spare.1 | to spare | adj. | 剩餘的, 多餘的
+ph_pump-up.1 | pump up | v. | 給…充氣
+ph_pump-up.2 | pump up | v. | 使興奮
+ph_take-revenge.1 | take revenge | v. | 報仇, 報復
+ph_pin-down.1 | pin down | v. | 確定, 明確
+ph_pin-down.2 | pin down | v. | 壓住, 使動彈不得
+ph_pin-up.1 | pin up | v. | 釘住, 張貼
+ph_against-the-odds.1 | against the odds | adv. | 儘管困難重重
+ph_at-odds.1 | at odds | adj. | 意見不合, 不一致
+ph_odds-and-ends.1 | odds and ends | n. | 零碎東西, 雜物
+ph_involved-in.1 | involved in | adj. | 參與, 捲入
+ph_filter-out.1 | filter out | v. | 過濾掉, 濾除
+ph_take-into-consideration.1 | take into consideration | v. | 考慮到
+ph_con-artist.1 | con artist | n. | 騙子
+ph_bloody-hell.1 | bloody hell | int. | 該死, 天哪
+ph_utility-room.1 | utility room | n. | 雜物間
+ph_tune-in.1 | tune in | v. | 收聽, 收看
+ph_in-tune.1 | in tune | adj. | 音調準確
+ph_in-tune.2 | in tune | adj. | 協調一致
+ph_out-of-tune.1 | out of tune | adj. | 走調
+ph_change-one-s-tune.1 | change one's tune | v. | 改變態度
+ph_stay-tuned.1 | stay tuned | int. | 請繼續收看
+ph_a-stroke-of-luck.1 | a stroke of luck | n. | 運氣好, 好運
+ph_at-a-stroke.1 | at a stroke | adv. | 一下子, 一舉
+ph_pit-stop.1 | pit stop | n. | 進站加油, 中途停留
+ph_rite-of-passage.1 | rite of passage | n. | 成人禮, 人生儀式
+ph_soap-opera.1 | soap opera | n. | 肥皂劇
+ph_profit-margin.1 | profit margin | n. | 利潤率
+ph_by-a-wide-margin.1 | by a wide margin | adv. | 以大幅優勢
+ph_in-dispute.1 | in dispute | adj. | 有爭議的, 在爭論中
+ph_beyond-dispute.1 | beyond dispute | adj. | 無可爭辯的
+ph_dawn-on-sb.1 | dawn on sb | v. | 使開始明白, 使意識到
+ph_at-dawn.1 | at dawn | adv. | 黎明時, 拂曉
+ph_from-dawn-to-dusk.1 | from dawn to dusk | adv. | 從早到晚
+ph_the-crack-of-dawn.1 | the crack of dawn | n. | 破曉, 天剛亮
+ph_marine-corps.1 | marine corps | n. | 海軍陸戰隊
+ph_press-corps.1 | press corps | n. | 記者團
+ph_diplomatic-corps.1 | diplomatic corps | n. | 外交使團
+ph_concentration-camp.1 | concentration camp | n. | 集中營
+ph_worn-out.1 | worn out | adj. | 筋疲力盡的
+ph_worn-out.2 | worn out | adj. | 用舊的, 磨損的
+ph_panic-attack.1 | panic attack | n. | 驚恐發作
+ph_panic-buying.1 | panic buying | n. | 搶購
+ph_oral-exam.1 | oral exam | n. | 口試
+ph_oral-sex.1 | oral sex | n. | 口交
+ph_take-offense.1 | take offense | v. | 生氣, 見怪
+ph_no-offense.1 | no offense | int. | 無意冒犯
+ph_mutual-fund.1 | mutual fund | n. | 共同基金
+ph_mutual-friend.1 | mutual friend | n. | 共同的朋友
+ph_homeless-shelter.1 | homeless shelter | n. | 流浪者收容所
+ph_fiscal-year.1 | fiscal year | n. | 財政年度
+ph_fiscal-policy.1 | fiscal policy | n. | 財政政策
+ph_medical-examination.1 | medical examination | n. | 體格檢查
+ph_under-examination.1 | under examination | adj. | 在審查中
+ph_convince-sb-of-sth.1 | convince sb of sth | v. | 使某人相信
+ph_conspiracy-theory.1 | conspiracy theory | n. | 陰謀論
+ph_clip-art.1 | clip art | n. | 剪貼畫
+ph_classified-ad.1 | classified ad | n. | 分類廣告
+ph_classical-music.1 | classical music | n. | 古典音樂
+ph_breathe-in.1 | breathe in | v. | 吸氣
+ph_breathe-out.1 | breathe out | v. | 呼氣
+ph_breathe-a-sigh-of-relief.1 | breathe a sigh of relief | v. | 鬆一口氣
+ph_not-breathe-a-word.1 | not breathe a word | v. | 守口如瓶
+ph_breathe-down-sb-s-neck.1 | breathe down sb's neck | v. | 緊盯著, 監視
+ph_bold-type.1 | bold type | n. | 粗體字
+ph_mercy-killing.1 | mercy killing | n. | 安樂死
+ph_at-the-mercy-of.1 | at the mercy of | prep. | 任由…擺佈
+ph_pull-the-trigger.1 | pull the trigger | v. | 扣動扳機
+ph_pull-the-trigger.2 | pull the trigger | v. | 採取行動
+ph_trigger-off.1 | trigger off | v. | 引發, 觸發
+ph_pay-tribute-to.1 | pay tribute to | v. | 向某人致敬, 讚揚
+ph_spider-web.1 | spider web | n. | 蜘蛛網
+ph_no-sooner-than.1 | no sooner ... than | conj. | 一…就, 剛…就
+ph_the-sooner-the-better.1 | the sooner the better | adv. | 越快越好
+ph_would-sooner.1 | would sooner | v. | 寧願
+ph_signature-dish.1 | signature dish | n. | 招牌菜
+ph_take-shelter.1 | take shelter | v. | 躲避, 避難
+ph_screw-up.1 | screw up | v. | 搞砸
+ph_screw-up.2 | screw up | v. | 皺起
+ph_screw-sb-over.1 | screw sb over | v. | 欺騙, 坑害
+ph_have-a-screw-loose.1 | have a screw loose | v. | 腦子有毛病
+ph_baking-powder.1 | baking powder | n. | 發酵粉
+ph_pissed-off.1 | pissed off | adj. | 惱火的, 很生氣
+ph_pipe-down.1 | pipe down | v. | 安靜下來
+ph_pipe-dream.1 | pipe dream | n. | 白日夢, 空想
+ph_loaded-question.1 | loaded question | n. | 誘導性問題
+ph_the-lion-s-share.1 | the lion's share | n. | 最大份額
+ph_public-inquiry.1 | public inquiry | n. | 公開調查
+ph_brick-wall.1 | brick wall | n. | 磚牆
+ph_brick-wall.2 | brick wall | n. | 障礙, 難以逾越的阻礙
+ph_alpha-male.1 | alpha male | n. | 首領雄性, 強勢男人
+ph_warrant-officer.1 | warrant officer | n. | 准尉
+ph_search-warrant.1 | search warrant | n. | 搜查令
+ph_tunnel-vision.1 | tunnel vision | n. | 目光狹隘
+ph_light-at-the-end-of-the-tunnel.1 | light at the end of the tunnel | n. | 曙光, 希望
+ph_treasury-bill.1 | treasury bill | n. | 國庫券
+ph_in-sb-s-shoes.1 | in sb's shoes | adv. | 處於某人的境地
+ph_on-a-shoestring.1 | on a shoestring | adv. | 以極少的錢
+ph_sacred-cow.1 | sacred cow | n. | 神聖不可侵犯的事物
+ph_relate-to.1 | relate to | v. | 與…有關
+ph_relate-to.2 | relate to | v. | 理解, 認同
+ph_pat-sb-on-the-back.1 | pat sb on the back | v. | 稱讚, 表揚
+ph_noble-gas.1 | noble gas | n. | 惰性氣體
+ph_in-the-habit-of.1 | in the habit of | prep. | 有…的習慣
+ph_break-the-habit.1 | break the habit | v. | 改掉習慣
+ph_gather-up.1 | gather up | v. | 收拾, 收集起
+ph_gather-round.1 | gather round | v. | 圍攏
+ph_divine-right.1 | divine right | n. | 神權
+ph_dirt-cheap.1 | dirt cheap | adj. | 非常便宜
+ph_bullet-point.1 | bullet point | n. | 專案符號
+ph_bite-the-bullet.1 | bite the bullet | v. | 咬緊牙關, 硬著頭皮
+ph_artificial-respiration.1 | artificial respiration | n. | 人工呼吸
+ph_substance-abuse.1 | substance abuse | n. | 藥物濫用
+ph_snake-oil.1 | snake oil | n. | 騙人的萬靈藥
+ph_serial-number.1 | serial number | n. | 序列號
+ph_rubber-band.1 | rubber band | n. | 橡皮筋
+ph_rubber-stamp.1 | rubber stamp | n. | 橡皮圖章
+ph_rubber-stamp.2 | rubber stamp | n. | 例行批准
+ph_a-recipe-for-disaster.1 | a recipe for disaster | n. | 必然導致災難
+ph_reception-desk.1 | reception desk | n. | 前臺, 接待處
+ph_palm-tree.1 | palm tree | n. | 棕櫚樹
+ph_grease-sb-s-palm.1 | grease sb's palm | v. | 賄賂
+ph_at-the-expense-of.1 | at the expense of | prep. | 以…為代價
+ph_at-sb-s-expense.1 | at sb's expense | adv. | 由某人付費
+ph_at-sb-s-expense.2 | at sb's expense | adv. | 拿某人開玩笑
+ph_complain-about.1 | complain about | v. | 抱怨
+ph_complain-of.1 | complain of | v. | 訴說病痛
+ph_cock-up.1 | cock up | v. | 搞砸
+ph_charter-flight.1 | charter flight | n. | 包機
+ph_casual-wear.1 | casual wear | n. | 便裝
+ph_brush-up-on.1 | brush up on | v. | 溫習, 重溫
+ph_brush-off.1 | brush off | v. | 不理睬, 漠視
+ph_brush-aside.1 | brush aside | v. | 置之不理
+ph_blessed-with.1 | blessed with | adj. | 有幸擁有
+ph_twist-and-turn.1 | twist and turn | v. | 蜿蜒曲折
+ph_not-in-the-slightest.1 | not in the slightest | adv. | 一點也不
+ph_work-permit.1 | work permit | n. | 工作許可證
+ph_weather-permitting.1 | weather permitting | adv. | 如果天氣允許
+ph_pension-fund.1 | pension fund | n. | 養老基金
+ph_lightning-rod.1 | lightning rod | n. | 避雷針
+ph_lightning-rod.2 | lightning rod | n. | 眾矢之的
+ph_lightning-bolt.1 | lightning bolt | n. | 閃電
+ph_turn-over-a-new-leaf.1 | turn over a new leaf | v. | 重新開始, 改過自新
+ph_leaf-through.1 | leaf through | v. | 快速翻閱
+ph_folk-music.1 | folk music | n. | 民間音樂
+ph_folk-tale.1 | folk tale | n. | 民間故事
+ph_dig-up.1 | dig up | v. | 挖出
+ph_dig-up.2 | dig up | v. | 發現, 揭露
+ph_dig-in.1 | dig in | v. | 開始吃
+ph_dig-in.2 | dig in | v. | 堅守
+ph_dig-into.1 | dig into | v. | 調查, 深究
+ph_departure-lounge.1 | departure lounge | n. | 候機室
+ph_in-custody.1 | in custody | adj. | 被拘押
+ph_cruise-ship.1 | cruise ship | n. | 郵輪
+ph_cruise-control.1 | cruise control | n. | 定速巡航
+ph_climb-down.1 | climb down | v. | 讓步, 認錯
+ph_rock-climbing.1 | rock climbing | n. | 攀巖
+ph_lose-one-s-bearings.1 | lose one's bearings | v. | 迷失方向
+ph_snap-out-of-it.1 | snap out of it | v. | 振作起來
+ph_snap-up.1 | snap up | v. | 搶購
+ph_snap-at.1 | snap at | v. | 厲聲說
+ph_skip-class.1 | skip class | v. | 逃課
+ph_sink-in.1 | sink in | v. | 被完全理解
+ph_sink-or-swim.1 | sink or swim | v. | 自生自滅
+ph_nail-polish.1 | nail polish | n. | 指甲油
+ph_nail-down.1 | nail down | v. | 敲定, 確定
+ph_identical-twins.1 | identical twins | n. | 同卵雙胞胎
+ph_sit-on-the-fence.1 | sit on the fence | v. | 保持中立, 騎牆
+ph_sitting-duck.1 | sitting duck | n. | 易受攻擊的目標
+ph_like-water-off-a-duck-s-back.1 | like water off a duck's back | adv. | 毫無影響
+ph_dish-out.1 | dish out | v. | 分發
+ph_dish-up.1 | dish up | v. | 上菜
+ph_side-dish.1 | side dish | n. | 配菜
+ph_bitter-end.1 | bitter end | n. | 最後關頭
+ph_wrap-up.1 | wrap up | v. | 包裹
+ph_wrap-up.2 | wrap up | v. | 結束
+ph_wrap-up.3 | wrap up | v. | 穿暖
+ph_under-wraps.1 | under wraps | adj. | 保密的
+ph_wrapping-paper.1 | wrapping paper | n. | 包裝紙
+ph_tourist-attraction.1 | tourist attraction | n. | 旅遊景點
+ph_tourist-trap.1 | tourist trap | n. | 宰客的旅遊點
+ph_under-the-radar.1 | under the radar | adv. | 不引人注意地
+ph_prisoner-of-war.1 | prisoner of war | n. | 戰俘
+ph_air-pollution.1 | air pollution | n. | 空氣汙染
+ph_lose-patience.1 | lose patience | v. | 失去耐心
+ph_try-sb-s-patience.1 | try sb's patience | v. | 考驗某人的耐心
+ph_patch-up.1 | patch up | v. | 修補
+ph_patch-up.2 | patch up | v. | 和解, 重歸於好
+ph_patch-through.1 | patch through | v. | 接通電話
+ph_a-bad-patch.1 | a bad patch | n. | 困難時期, 低谷
+ph_not-a-patch-on.1 | not a patch on | adj. | 遠不如
+ph_mental-illness.1 | mental illness | n. | 精神疾病
+ph_laser-beam.1 | laser beam | n. | 鐳射束
+ph_laser-printer.1 | laser printer | n. | 鐳射印表機
+ph_flip-over.1 | flip over | v. | 翻轉, 翻過來
+ph_flip-through.1 | flip through | v. | 快速翻閱
+ph_flip-out.1 | flip out | v. | 勃然大怒, 發狂
+ph_flip-a-coin.1 | flip a coin | v. | 擲硬幣
+ph_flip-side.1 | flip side | n. | 另一面, 反面
+ph_flip-phone.1 | flip phone | n. | 翻蓋手機
+ph_in-the-flesh.1 | in the flesh | adv. | 親自, 本人
+ph_flesh-and-blood.1 | flesh and blood | n. | 親骨肉, 血肉之軀
+ph_flesh-out.1 | flesh out | v. | 充實, 使具體化
+ph_make-sb-s-flesh-crawl.1 | make sb's flesh crawl | v. | 令人毛骨悚然
+ph_depend-on.1 | depend on | v. | 依靠, 依賴
+ph_depend-on.2 | depend on | v. | 取決於
+ph_depend-on.3 | depend on | v. | 信賴

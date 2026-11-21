@@ -1,0 +1,149 @@
+pay a premium | v+n | 支付溢价, 多付钱 | premium
+insurance premium | delete:phrase
+teenage pregnancy | delete:free
+knee injury | delete:free
+have no intention of | v+prep | 无意做, 不打算 | intention
+viral infection | delete:free
+ethnic group | delete:phrase
+constitutional right | delete:free
+constitutional reform | delete:free
+wildlife conservation | delete:phrase
+energy conservation | delete:phrase
+chemical composition | delete:free
+financial compensation | delete:free
+brave decision | delete:free
+brave face | delete:phrase
+sports arena | delete:phrase
+alert to sth | v+prep | 对…保持警觉 | alert
+wounded soldier | delete:free
+film trailer | delete:phrase
+soft tissue | delete:phrase
+romance novel | delete:phrase
+registration fee | delete:phrase
+railroad track | delete:phrase
+preparation for sth | v+prep | 为某事做准备 | preparation
+painful experience | delete:free
+painful memory | delete:free
+ongoing process | delete:free
+occupied territory | delete:phrase
+instruction manual | delete:phrase
+job listing | delete:phrase
+legislative body | delete:phrase
+legislative process | delete:free
+leather jacket | delete:free
+technological innovation | delete:free
+go into hiding | delete:phrase
+frozen food | delete:phrase
+fire fighter | delete:phrase
+receive feedback | delete:free
+teaching faculty | delete:rare
+on the eve of sth | delete:phrase
+cultural diversity | delete:free
+promote diversity | delete:free
+desperate for sth | v+prep | 极想得到某物 | desperate
+cure for sth | v+prep | 治疗某病的方法 | cure
+great courage | delete:free
+essential component | delete:free
+complaint about sth | v+prep | 对某事的投诉 | complaint
+communist party | delete:phrase
+bomb blast | delete:phrase
+aggressive behaviour | delete:free
+peace treaty | delete:phrase
+public toilet | delete:phrase
+airport terminal | delete:phrase
+political stability | delete:free
+financial stability | delete:free
+slave to sth | v+prep | 某事的奴隶 | slave
+relation to sth | delete:phrase
+close relation | adj+n | 近亲 | relation
+child psychology | delete:phrase
+sing sb's praises | delete:phrase
+computer mouse | delete:phrase
+at midnight | delete:phrase
+literary work | delete:free
+literary criticism | delete:phrase
+research laboratory | delete:free
+jazz band | delete:free
+investigate a case | delete:free
+investigate a crime | delete:free
+implementation of sth | delete:free
+news footage | delete:free
+in favour of sth | delete:phrase
+explore an idea | delete:free
+dynamic range | delete:phrase
+documentary film | delete:phrase
+discrimination against sb | v+prep | 对某人的歧视 | discrimination
+sex discrimination | delete:phrase
+define a term | delete:free
+database management | delete:phrase
+mosquito bite | delete:phrase
+biological weapon | delete:phrase
+public announcement | delete:free
+words of wisdom | delete:phrase
+military regime | delete:free
+physically impossible | adv+adj | 实际上不可能的 | physically
+partly because | delete:free
+edit a document | delete:free
+collective bargaining | delete:phrase
+lunar calendar | delete:phrase
+political agenda | delete:free
+foreign affairs | delete:phrase
+ancestor worship | delete:phrase
+ruling party | delete:phrase
+reliable information | delete:free
+overseas market | delete:free
+social interaction | delete:free
+legal framework | delete:free
+conceptual framework | delete:phrase
+open dialogue | delete:free
+default setting | delete:phrase
+birth certificate | delete:phrase
+medical certificate | delete:phrase
+celebrity status | delete:free
+volunteer for sth | v+prep | 自愿参加某事 | volunteer
+surprising result | delete:free
+fully satisfied | delete:free
+crime prevention | delete:phrase
+company logo | delete:free
+firm intent | delete:rare
+filter out sth | delete:phrase
+water filter | delete:phrase
+experimental design | delete:phrase
+tune in to sth | delete:phrase
+sing in tune | delete:phrase
+brush stroke | delete:phrase
+stroke of luck | n+n | 运气好, 意外的好运 | stroke
+radiation exposure | delete:free
+radiation therapy | delete:phrase
+psychological pressure | delete:free
+psychological impact | delete:free
+secret passage | delete:free
+parallel universe | delete:phrase
+coping mechanism | delete:phrase
+corporate earnings | delete:free
+earnings per share | delete:phrase
+copper wire | delete:free
+lose concentration | v+n | 分心, 注意力分散 | concentration
+challenging task | delete:free
+challenging environment | delete:free
+auction house | delete:phrase
+acceptable level | delete:free
+terror attack | delete:phrase
+wide spectrum | adj+n | 广泛的范围 | spectrum
+market segment | delete:phrase
+broad scope | delete:free
+entry requirement | delete:phrase
+in a panic | delete:phrase
+drop-down menu | delete:phrase
+mainstream media | delete:phrase
+mainstream culture | delete:free
+music lover | delete:free
+military intervention | delete:free
+homeless people | delete:free
+legal guardian | delete:phrase
+racial equality | delete:free
+classical education | delete:free
+late autumn | delete:free
+announce a decision | delete:free
+language acquisition | delete:phrase
+extremely rude | delete:free

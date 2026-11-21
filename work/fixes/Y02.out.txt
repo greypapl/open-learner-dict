@@ -1,0 +1,26 @@
+cave man | solid:caveman
+front runner | solid:front-runner
+skinny dip | solid:skinny-dip
+white collar | solid:white-collar
+stir fry | solid:stir-fry
+whistle blower | solid:whistleblower
+stunt man | solid:stuntman
+choir boy | solid:choirboy
+chess board | solid:chessboard
+usb stick | fix:USB stick
+merry christmas | fix:Merry Christmas
+french fries | fix:French fries
+your majesty | fix:Your Majesty
+cyber security | solid:cybersecurity
+turtle neck | solid:turtleneck
+pony tail | solid:ponytail
+barber shop | solid:barbershop
+sim card | fix:SIM card
+pardon my french | fix:pardon my French
+mortar board | solid:mortarboard
+thigh bone | solid:thighbone
+soft pedal | solid:soft-pedal
+Rubik's cube | fix:Rubik's Cube
+pancake day | fix:Pancake Day
+mad as a march hare | fix:mad as a March hare
+know which side one's bread is buttered | fix:know which side one's bread is buttered on

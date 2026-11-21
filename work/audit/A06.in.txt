@@ -1,0 +1,150 @@
+ph_control-freak | control freak | compound | n.控制狂 = someone who wants to control everything [informal] | C1
+ph_lose-one-s-touch | lose one's touch | idiom | v.技艺退步 = to lose an ability one used to have | C1
+ph_get-one-s-act-together | get one's act together | idiom | v.振作起来 = to organize yourself better [informal] | C1
+ph_sticky-wicket | sticky wicket | idiom | n.棘手的处境 = a difficult situation [uk] | C2
+ph_hot-flush | hot flush | compound | n.潮热 = a sudden hot feeling during menopause [uk] | C1
+ph_zoom-off | zoom off | phrv | v.飞驰而去 = to leave very quickly | B2
+ph_on-second-thought | on second thought | phrase | adv.转念一想 = after thinking again [us] | B2
+ph_a-call-to-arms | a call to arms | idiom | n.号召行动 = an urgent request to act | C1
+ph_social-worker | social worker | compound | n.社会工作者 = someone employed to help people with problems | B2
+ph_shopping-centre | shopping centre | compound | n.购物中心 = a building with many shops [uk] | A2
+ph_worse-off | worse off | phrase | adj.境况更糟 = in a worse situation than before | B2
+ph_charge-card | charge card | compound | n.签账卡, 赊账卡 = a card used to buy goods paid for each month | B2
+ph_petrol-bomb | petrol bomb | compound | n.汽油弹 = a bottle filled with petrol and set on fire [uk] | C1
+ph_corn-dog | corn dog | compound | n.玉米热狗 = a sausage coated in cornmeal batter and fried [us] | C2
+ph_match-against | match against | phrv | v.使与…较量 = to make someone compete with another | C1
+ph_human-being | human being | compound | n.人, 人类 = a person | B1
+ph_tune-up | tune up | phrv | v.调音, 调试 = to adjust an instrument or engine | C1
+ph_raise-an-eyebrow | raise an eyebrow | idiom | v.表示惊讶, 引起非议 = to show surprise or disapproval | C1
+ph_sexual-harassment | sexual harassment | compound | n.性骚扰 = unwanted sexual comments or actions | B2
+ph_stage-whisper | stage whisper | compound | n.舞台低语 = a loud whisper meant to be heard by others | C2
+ph_make-light-of-sth | make light of sth | idiom | v.轻视, 淡化 = to treat something as unimportant | C1
+ph_cut-a-dash | cut a dash | idiom | v.风度翩翩, 引人注目 = to look very smart and attract attention [uk] | C2
+ph_set-against | set against | phrv | v.使对立 = to make people oppose each other ; v.权衡 = to compare | C1
+ph_no-such-luck | no such luck | idiom | int.可惜没那么好运 = unfortunately not | B2
+ph_inch-by-inch | inch by inch | idiom | adv.一点一点地 = very slowly and gradually | B2
+ph_secretary-of-state | secretary of state | compound | n.国务卿, 国务大臣 = a senior government minister [domain:政治] | C1
+ph_on-the-up | on the up | idiom | adj.好转, 上升 = improving [uk,informal] | C2
+ph_ring-fence | ring fence | compound | v.专款专用, 圈定 = to protect money so it is used only for one purpose | C2
+ph_assist-with | assist with | phrv | v.协助 = to help someone do something | B2
+ph_sob-story | sob story | compound | n.悲惨身世, 博同情的故事 = a sad story told to get sympathy [informal] | C1
+ph_that-is-to-say | that is to say | phrase | adv.也就是说 = used to explain more clearly | B2
+ph_go-on-safari | go on safari | phrase | v.去游猎 = to travel to see wild animals in Africa | B1
+ph_eight-ball | eight ball | compound | n.黑八球 = the black ball in pool [us] | C1
+ph_reach-for | reach for | phrv | v.伸手去拿 = to stretch out your arm to take something | B1
+ph_pull-the-wool-over-sb-s-eyes | pull the wool over sb's eyes | idiom | v.蒙骗 = to deceive someone | C2
+ph_narrow-escape | narrow escape | compound | n.九死一生 = a lucky avoidance of danger | C1
+ph_fall-flat | fall flat | idiom | v.完全失败, 没有效果 = to fail to have the intended effect | C1
+ph_fond-of | fond of | phrase | adj.喜欢, 爱好 = liking someone or something | B1
+ph_thumbnail-sketch | thumbnail sketch | compound | n.简短描述, 小略图 = a short description of something | C2
+ph_a-fool-and-his-money-are-soon-parted | a fool and his money are soon parted | idiom | int.傻瓜存不住钱 = foolish people spend money unwisely | C1
+ph_silent-movie | silent movie | compound | n.无声电影 = a film without spoken sound | B2
+ph_take-up-on | take up on | phrv | v.接受提议 = to accept an offer | C1
+ph_cuckoo-clock | cuckoo clock | compound | n.布谷鸟钟 = a clock with a toy bird that appears each hour | B2
+ph_free-ride | free ride | compound | n.不劳而获, 免费搭乘 = something you get without paying or working | C1
+ph_not-enough-room-to-swing-a-cat | not enough room to swing a cat | idiom | n.地方狭小 = a very small space [informal] | C1
+ph_tennis-shoe | tennis shoe | compound | n.网球鞋 = a soft shoe for sport [us] | B1
+ph_intrude-on | intrude on | phrv | v.打扰, 侵扰 = to disturb someone's privacy | C1
+ph_laze-around | laze around | phrv | v.懒散度日 = to relax and do nothing | B2
+ph_fit-like-a-glove | fit like a glove | idiom | v.非常合身 = to fit perfectly | B2
+ph_trade-wind | trade wind | compound | n.信风 = a steady wind blowing towards the equator | C1
+c_close-supervision | close supervision | adj+n | 严密监督
+c_drop-to-sth | drop to sth | v+prep | 降至某物
+c_claim-responsibility-for-sth | claim responsibility for sth | v+prep | 声称对某事负责
+c_fully-compatible | fully compatible | adv+adj | 完全兼容
+c_apply-for-a-passport | apply for a passport | v+prep | 申请护照
+c_associated-with-sth | associated with sth | v+prep | 与…有关
+c_submit-to-sth | submit to sth | v+prep | 屈服于某事
+c_busy-street | busy street | adj+n | 繁忙的街道
+c_donate-to-charity | donate to charity | v+prep | 向慈善机构捐款
+c_fix-a-bug | fix a bug | v+n | 修复漏洞
+c_universal-truth | universal truth | adj+n | 普遍真理
+c_pronounced-improvement | pronounced improvement | adj+n | 显著改善
+c_deny-an-allegation | deny an allegation | v+n | 否认指控
+c_provide-an-incentive | provide an incentive | v+n | 提供动力
+c_tragic-accident | tragic accident | adj+n | 悲惨事故
+c_a-personnel-department | a personnel department | n+n | 人事部门
+c_temporarily-closed | temporarily closed | adv+adj | 暂时关闭
+c_a-pattern-emerges | a pattern emerges | n+n | 出现规律
+c_a-league-table | a league table | n+n | 排行榜
+c_persistent-rumour | persistent rumour | adj+n | 不断流传的谣言
+c_film-adaptation | film adaptation | n+n | 电影改编
+c_increasingly-popular | increasingly popular | adv+adj | 越来越受欢迎
+c_dig-a-hole | dig a hole | v+n | 挖洞
+c_pet-hate | pet hate | n+n | 最讨厌的事
+c_factually-incorrect | factually incorrect | adv+adj | 与事实不符
+c_a-logical-explanation | a logical explanation | adj+n | 合理的解释
+c_mow-the-lawn | mow the lawn | v+n | 修剪草坪
+c_retire-from-sth | retire from sth | v+prep | 从某处退休
+c_raise-a-question | raise a question | v+n | 提出问题
+c_inappropriate-behaviour | inappropriate behaviour | adj+n | 不当行为
+c_spread-propaganda | spread propaganda | v+n | 散布宣传
+c_hold-a-patent | hold a patent | v+n | 拥有专利
+c_die-of-hunger | die of hunger | v+prep | 饿死
+c_sit-an-examination | sit an examination | v+n | 参加考试
+c_a-credit-card | a credit card | n+n | 信用卡
+c_a-blank-look | a blank look | adj+n | 茫然的表情
+c_nomination-for-sth | nomination for sth | n+n | 提名
+c_a-breach-of-contract | a breach of contract | n+n | 违约
+c_raise-consciousness | raise consciousness | v+n | 提高意识
+c_close-relationship | close relationship | adj+n | 亲密关系
+c_sign-a-lease | sign a lease | v+n | 签租约
+c_return-journey | return journey | n+n | 回程
+c_electricity-supply | electricity supply | n+n | 电力供应
+c_pronounced-accent | pronounced accent | adj+n | 明显的口音
+c_academic-excellence | academic excellence | adj+n | 学术卓越
+c_project-an-image | project an image | v+n | 展现形象, 树立形象
+c_a-dinner-plate | a dinner plate | n+n | 餐盘
+c_vast-range | vast range | adj+n | 广泛范围
+c_price-reduction | price reduction | n+n | 降价
+c_emotional-state | emotional state | adj+n | 情绪状态
+c_give-a-smile | give a smile | v+n | 微微一笑
+c_fiercely-protect | fiercely protect | v+adv | 极力保护
+c_observe-a-rule | observe a rule | v+n | 遵守规则
+c_generate-revenue | generate revenue | v+n | 创造收入
+c_the-right-direction | the right direction | adj+n | 正确的方向
+c_feed-on-sth | feed on sth | v+prep | 以…为食
+c_yield-results | yield results | v+n | 产生结果
+c_social-norm | social norm | adj+n | 社会规范
+c_highly-recommended | highly recommended | adv+adj | 强烈推荐
+c_burning-sensation | burning sensation | adj+n | 灼热感
+c_resistant-to-sth | resistant to sth | v+prep | 耐…, 对…有抵抗力
+c_legally-binding | legally binding | adv+adj | 具有法律约束力
+c_torn-between-sth-and-sth | torn between sth and sth | v+prep | 在两者间犹豫不决
+c_keep-a-pet | keep a pet | v+n | 养宠物
+c_highly-ambitious | highly ambitious | adv+adj | 雄心勃勃
+c_sadly-lacking | sadly lacking | adv+adj | 令人遗憾地缺乏
+c_follow-the-rules | follow the rules | v+n | 遵守规则
+c_state-clearly | state clearly | v+adv | 明确陈述
+c_a-public-apology | a public apology | adj+n | 公开道歉
+c_take-great-care | take great care | v+n | 格外小心
+c_the-whole-truth | the whole truth | adj+n | 全部真相
+c_fond-memories | fond memories | adj+n | 美好的回忆
+c_deeply-embarrassed | deeply embarrassed | adv+adj | 非常尴尬
+c_take-ownership-of-sth | take ownership of sth | v+prep | 对某事负责
+c_an-observation-about-sth | an observation about sth | n+n | 关于某事的评论
+c_a-long-term-goal | a long-term goal | adj+n | 长期目标
+c_a-wide-variety-of-sth | a wide variety of sth | adj+n | 种类繁多
+c_a-lasting-effect | a lasting effect | adj+n | 持久影响
+c_local-resident | local resident | adj+n | 当地居民
+c_occur-naturally | occur naturally | v+adv | 自然发生
+c_exact-same | exact same | adj+n | 完全相同
+c_rely-on-sb | rely on sb | v+prep | 依赖某人
+c_profoundly-affect | profoundly affect | v+adv | 深刻影响
+c_make-a-discovery | make a discovery | v+n | 有所发现
+c_stroke-of-luck | stroke of luck | n+n | 运气好, 意外的好运
+c_dedication-to-sth | dedication to sth | v+prep | 对…的奉献
+c_a-leading-role | a leading role | adj+n | 主角
+c_pass-a-resolution | pass a resolution | v+n | 通过决议
+c_deeply-religious | deeply religious | adv+adj | 虔诚的
+c_curb-inflation | curb inflation | v+n | 抑制通胀
+c_a-bestselling-author | a bestselling author | adj+n | 畅销书作家
+c_protect-sb-from-sth | protect sb from sth | v+prep | 保护某人免受某事
+c_master-a-technique | master a technique | v+n | 掌握技巧
+c_trial-period | trial period | n+n | 试用期
+c_military-capability | military capability | adj+n | 军事能力
+c_a-string-of-pearls | a string of pearls | n+n | 一串珍珠
+c_provincial-government | provincial government | adj+n | 省政府
+c_a-threatening-letter | a threatening letter | adj+n | 恐吓信
+c_isolation-from-sth | isolation from sth | v+prep | 与某物隔绝
+c_struggle-for-sth | struggle for sth | v+prep | 为某事奋斗

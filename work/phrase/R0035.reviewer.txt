@@ -1,0 +1,36 @@
+speech day | delete:rare
+speed freak | delete:rare
+spike heel | delete:variant=stiletto heel
+spinal tap | delete:rare
+splurge on | delete:free
+spontaneous combustion | compound | n.自燃 = burning that starts without heat from outside | C2 | -
+spot cash | delete:rare
+spread betting | delete:rare
+spread eagle | delete:rare
+spree killer | delete:rare
+spring balance | delete:rare
+springer spaniel | delete:rare
+squeeze box | delete:rare
+squeeze into | delete:free
+staff nurse | delete:rare
+starter motor | delete:rare
+statute book | delete:rare
+statutory rape | compound | n.法定强奸罪 = sex with a person below the legal age [domain:法律] | C2 | nokid
+steam shovel | delete:rare
+steering column | delete:rare
+storage heater | delete:rare
+storm cellar | delete:rare
+storm window | delete:rare
+sudden death | compound | n.骤死赛, 突然死亡法 = an extra period in sport to decide a winner | C1 | -
+sun lounge | delete:variant=sun room
+swipe card | compound | n.磁卡, 刷卡卡 = a plastic card that is passed through a reader | B2 | -
+take a dive | idiom | v.假摔, 故意输掉 = to fall and pretend you are hurt ; v.暴跌 = to suddenly fall in value | C2 | -
+take part | phrase | v.参加, 参与 = to join in an activity | A2 | -
+take the veil | delete:rare
+tape deck | delete:rare
+thin air | idiom | n.无影无踪, 凭空 = a place where something disappears completely | C1 | -
+thread a needle | delete:free
+tin whistle | delete:rare
+toe the mark | delete:rare
+tucker out | delete:rare
+turn nasty | delete:free

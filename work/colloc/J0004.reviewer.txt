@@ -1,0 +1,213 @@
+spend wisely | delete:free
+a crime scene | delete:phrase
+food safety | delete:free
+a safety net | delete:phrase
+safety regulations | delete:free
+a passport photo | delete:phrase
+a photo finish | delete:phrase
+a peace movement | delete:free
+the labour movement | delete:phrase
+a sudden movement | delete:free
+the free movement of sth | adj+n | …的自由流动 | movement
+a general manager | delete:phrase
+a project manager | delete:phrase
+a line manager | delete:phrase
+do justice to sth | delete:phrase
+social justice | delete:free
+a miscarriage of justice | delete:phrase
+an annual income | delete:free
+a firm favourite | adj+n | 大家的最爱 | favorite,favourite
+the latest episode | delete:free
+the construction industry | delete:free
+a construction site | delete:phrase
+a computer virus | delete:phrase
+a computer program | delete:free
+a computer screen | delete:free
+a wide range | adj+n | 各种各样, 范围广泛 | wide
+miss a train | delete:free
+a train of thought | delete:phrase
+a sensitive subject | delete:free
+be subject to sth | delete:phrase
+a search engine | delete:phrase
+a search warrant | delete:phrase
+a search party | delete:phrase
+particularly interested | delete:free
+particularly difficult | delete:free
+a good knowledge of sth | adj+n | 对…很了解 | knowledge
+to the best of my knowledge | delete:phrase
+prior knowledge | adj+n | 预备知识, 已有知识 | knowledge,prior
+a working knowledge of sth | adj+n | 对…有基本的了解 | knowledge
+carry a gun | delete:free
+a machine gun | delete:phrase
+more than expected | delete:free
+definitely not | delete:free
+definitely worth it | delete:free
+a collection of sth | delete:free
+an art collection | delete:free
+data collection | delete:free
+a head coach | delete:phrase
+a coach trip | delete:free
+a life coach | delete:phrase
+an exceptional ability | delete:free
+a unit of measurement | delete:phrase
+a military unit | delete:free
+a unit price | delete:phrase
+a personal secretary | delete:free
+on a regular basis | delete:phrase
+a dairy product | delete:phrase
+a by-product | delete:phrase
+building materials | delete:free
+a covering letter | delete:phrase
+a team leader | delete:free
+a leading lady | delete:phrase
+the first lady | delete:phrase
+appoint a judge | delete:free
+an interested party | delete:phrase
+check into a hotel | delete:phrase
+check out of a hotel | delete:phrase
+global warming | delete:phrase
+a global recession | delete:free
+fit in with sb | delete:phrase
+fit for purpose | delete:phrase
+for fear of sth | delete:phrase
+a deep fear | delete:free
+a shopping centre | delete:phrase
+a leisure centre | delete:phrase
+a call centre | delete:phrase
+a research centre | delete:free
+the author of sth | delete:free
+a successful attempt | delete:free
+incredibly stupid | delete:free
+a stupid mistake | delete:free
+a golden rule | delete:phrase
+the rule of law | delete:phrase
+reach out to sb | delete:phrase
+a pro athlete | delete:free
+physical exercise | delete:free
+a physical disability | delete:free
+an opinion poll | delete:phrase
+a matter of opinion | delete:phrase
+an opening ceremony | delete:phrase
+an opening night | delete:phrase
+a majority of sth | delete:free
+a majority vote | delete:phrase
+an insurance policy | delete:phrase
+car insurance | delete:free
+a positive image | delete:free
+project an image | v+n | 展现形象, 树立形象 | image
+a mirror image | delete:phrase
+the top floor | delete:free
+a dance floor | delete:phrase
+the shop floor | delete:phrase
+the sea floor | delete:free
+a wooden floor | delete:free
+finished with sth | v+prep | 用完了, 不再需要 | finished
+a degree course | delete:free
+a fixed-term contract | delete:phrase
+a contract of employment | delete:free
+a brain tumour | delete:phrase
+brain damage | delete:phrase
+a brain drain | delete:phrase
+lose a battle | v+n | 打败仗, 战败 | battle
+a legal battle | adj+n | 官司, 法律纠纷 | battle
+a battle of wits | delete:phrase
+a wine bar | delete:phrase
+an annual report | delete:free
+an annual event | delete:free
+the worst case | delete:phrase
+at its worst | delete:phrase
+the worst affected | adv+adj | 受影响最严重的 | worst
+wonder aloud | v+adv | 自言自语地问 | wonder
+at the weekend | delete:phrase
+a weekend break | n+n | 周末短假 | weekend
+a stock market | delete:phrase
+stock up on sth | delete:phrase
+a cruise ship | delete:phrase
+a cargo ship | delete:phrase
+ship sth to sb | delete:free
+a sinking ship | delete:free
+a master plan | delete:phrase
+a master key | delete:phrase
+a master of sth | delete:free
+change direction | delete:free
+in defence of sth | delete:phrase
+a defence lawyer | delete:phrase
+the defence minister | delete:phrase
+a strong defence | delete:free
+a dance class | delete:free
+a dance partner | delete:free
+a folk dance | delete:phrase
+dance the night away | delete:phrase
+a civil war | delete:phrase
+a civil servant | delete:phrase
+civil society | delete:phrase
+breast cancer | delete:phrase
+lung cancer | delete:phrase
+cancer cells | delete:free
+a cancer patient | delete:free
+a different approach | delete:free
+an administration fee | delete:free
+the administration of justice | delete:phrase
+an active volcano | delete:phrase
+an active lifestyle | delete:free
+politically active | adv+adj | 积极参与政治 | active
+a hot spring | delete:phrase
+a senior citizen | delete:phrase
+a senior manager | delete:free
+a secret agent | delete:phrase
+a secret ballot | delete:phrase
+a trade secret | delete:phrase
+protect the environment | delete:free
+protect one's interests | delete:free
+a charitable organization | delete:free
+a non-profit organization | delete:free
+an international organization | delete:free
+a military operation | delete:free
+the latest news | delete:free
+the latest trend | delete:free
+for lack of sth | delete:phrase
+a major impact | delete:free
+an environmental impact | delete:free
+can't imagine | delete:free
+a football fan | delete:free
+a fan club | delete:phrase
+a fan base | delete:phrase
+an electric fan | delete:phrase
+a wasted effort | delete:free
+a commercial break | delete:phrase
+commercial value | delete:free
+a commercial bank | delete:phrase
+clearly state | delete:free
+a cash machine | delete:phrase
+a cash prize | delete:free
+a beach holiday | delete:free
+a beach towel | delete:phrase
+a private beach | delete:free
+a rock band | delete:free
+a jazz band | delete:free
+a boy band | delete:phrase
+a rubber band | delete:phrase
+a wedding band | delete:phrase
+simply awesome | delete:free
+yesterday evening | delete:free
+a sweet smile | delete:free
+a sweet tooth | delete:phrase
+sweet dreams | delete:phrase
+be supposed to do sth | delete:phrase
+speaking of sb | delete:phrase
+skin cancer | delete:phrase
+soaked to the skin | delete:phrase
+a rich diet | adj+n | 油腻的饮食, 高脂饮食 | rich
+a necessary evil | delete:phrase
+a happy marriage | delete:free
+an arranged marriage | delete:phrase
+a marriage proposal | delete:free
+a marriage certificate | delete:phrase
+a marriage of convenience | delete:phrase
+literally nothing | delete:free
+a grand piano | delete:phrase
+finish school | v+n | 完成学业, 毕业 | finish
+finish off sth | delete:phrase
+finish one's drink | delete:free
+win easily | delete:free
+a pipe dream | delete:phrase

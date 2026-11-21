@@ -1,0 +1,135 @@
+ph_outer-space.1 | 外太空
+ph_bank-account.1 | 銀行帳戶
+ph_security-guard.1 | 保全, 警衛
+ph_personal-pronoun.1 | 人稱代名詞
+ph_perfect-tense.1 | 完成式
+ph_private-sector.1 | 私部門
+ph_dead-end.1 | 死胡同, 絕境
+ph_middle-school.1 | 國中
+ph_rush-hour.1 | 尖峰時段
+ph_press-conference.1 | 記者會
+ph_theme-park.1 | 主題樂園
+ph_value-added-tax.1 | 加值稅
+ph_stand-by.1 | 支持
+ph_stand-up-for.1 | 支持, 維護
+ph_round-up.2 | 無條件進位
+ph_home-page.1 | 首頁
+ph_central-heating.1 | 中央暖氣
+ph_economic-growth.1 | 經濟成長
+ph_dress-code.1 | 服裝規定
+ph_cut-one-s-losses.1 | 及時停損
+ph_table-tennis.1 | 桌球
+ph_write-off.1 | 註銷
+ph_standard-of-living.1 | 生活水準
+ph_department-store.1 | 百貨公司
+ph_social-network.1 | 社群網路
+ph_bus-station.1 | 公車總站, 客運站
+ph_speed-bump.1 | 減速丘
+ph_ice-hockey.1 | 冰上曲棍球
+ph_raw-material.1 | 原料
+ph_sweet-potato.1 | 地瓜
+ph_cash-machine.1 | 自動提款機
+ph_block-of-flats.1 | 公寓大樓
+ph_mass-production.1 | 大量生產
+ph_direct-object.1 | 直接受詞
+ph_email-address.1 | 電子郵件位址
+ph_good-evening.1 | 晚安
+ph_on-target.1 | 按計畫
+ph_flight-attendant.1 | 空服人員, 空服員
+ph_traffic-jam.1 | 塞車
+ph_square-meter.1 | 平方公尺
+ph_count-down.1 | 倒數計時
+ph_bus-stop.1 | 公車站
+ph_spread-the-word.1 | 傳播消息
+ph_secret-agent.1 | 特務
+ph_feature-film.1 | 劇情片, 正片
+ph_criminal-record.1 | 犯罪紀錄
+ph_mountain-bike.1 | 登山車
+ph_host-country.1 | 接待國, 主辦國
+ph_stick-up-for.1 | 支持, 維護
+ph_raise-money.1 | 募款
+ph_comfort-zone.1 | 舒適圈
+ph_electric-car.1 | 電動車
+ph_in-one-s-capacity-as.1 | 以…身分
+ph_labour-market.1 | 勞動市場
+ph_minimum-wage.1 | 基本工資
+ph_smoke-detector.1 | 煙霧偵測器
+ph_pool-table.1 | 撞球桌
+ph_feed-back.1 | 回饋
+ph_down-payment.1 | 頭期款
+ph_developing-country.1 | 開發中國家
+ph_identity-card.1 | 身分證
+ph_identity-theft.1 | 身分盜用
+ph_apartment-building.1 | 公寓大樓
+ph_truck-driver.1 | 貨車司機
+ph_trading-partner.1 | 貿易夥伴
+ph_identity-crisis.1 | 身分危機, 認同危機
+ph_giant-panda.1 | 大貓熊
+ph_upset-the-apple-cart.1 | 打亂計畫
+ph_id-card.1 | 身分證
+ph_draft-beer.1 | 生啤酒, 桶裝啤酒
+ph_assembly-line.1 | 組裝線, 生產線
+ph_nature-reserve.1 | 自然保留區
+ph_hang-up.1 | 掛斷電話
+ph_savings-account.1 | 儲蓄帳戶
+ph_blow-up.1 | 爆炸, 炸毀
+ph_the-plot-thickens.1 | 情況更複雜了
+ph_in-favor-of.1 | 支持, 贊成
+ph_branch-out.1 | 擴展業務, 拓展
+ph_shift-key.1 | 換檔鍵
+ph_pension-scheme.1 | 退休金計畫
+ph_the-scheme-of-things.1 | 全局, 大局
+ph_golf-club.1 | 高爾夫球桿
+ph_solar-panel.1 | 太陽能板
+ph_factory-floor.1 | 廠房
+ph_facial-expression.1 | 臉部表情
+ph_vicious-circle.1 | 惡性循環
+ph_weapon-of-mass-destruction.1 | 大規模毀滅性武器
+ph_peak-hours.1 | 尖峰時間
+ph_shipping-container.1 | 貨櫃
+ph_organized-crime.1 | 組織犯罪
+ph_musical-chairs.1 | 搶椅子遊戲
+ph_tower-block.1 | 高層住宅大樓
+ph_graduate-school.1 | 研究所
+ph_orange-juice.1 | 柳橙汁
+ph_parking-ticket.1 | 違規停車罰單
+ph_burn-down.1 | 燒毀, 焚毀
+ph_burn-up.1 | 燒光, 燒毀
+ph_junior-high-school.1 | 國中
+ph_have-a-bone-to-pick-with.1 | 與某人有帳要算
+ph_package-holiday.1 | 套裝旅遊
+ph_moral-support.1 | 精神支持
+ph_in-gear.1 | 掛上檔
+ph_cloud-computing.1 | 雲端運算
+ph_argue-for.1 | 主張, 支持
+ph_penalty-kick.1 | 十二碼
+ph_gross-domestic-product.1 | 國內生產毛額
+ph_flash-drive.1 | 快閃碟, 隨身碟
+ph_standard-procedure.1 | 標準程序, 常規做法
+ph_front-desk.1 | 櫃檯, 接待處
+ph_root-for.1 | 支持, 為…加油
+ph_a-clean-sheet.1 | 清白紀錄
+ph_reverse-gear.1 | 倒檔
+ph_settle-up.1 | 結帳
+ph_online-banking.1 | 網路銀行
+ph_rally-around.1 | 團結起來支持
+ph_instant-coffee.1 | 即溶咖啡
+ph_ethnic-minority.1 | 少數族群
+ph_pedestrian-crossing.1 | 斑馬線
+ph_level-crossing.1 | 平交道
+ph_baby-boom.1 | 嬰兒潮
+ph_virtual-reality.1 | 虛擬實境
+ph_air-terminal.1 | 航廈
+ph_status-symbol.1 | 身分象徵
+ph_domain-name.1 | 網域名稱
+ph_biological-clock.1 | 生理時鐘
+ph_tune-up.1 | 調音, 調校
+ph_baking-powder.1 | 泡打粉
+ph_bullet-point.1 | 項目符號
+ph_serial-number.1 | 序號
+ph_reception-desk.1 | 櫃檯, 接待處
+ph_pension-fund.1 | 退休基金
+ph_rock-climbing.1 | 攀岩
+ph_laser-beam.1 | 雷射束
+ph_laser-printer.1 | 雷射印表機
+ph_elementary-school.1 | 國小

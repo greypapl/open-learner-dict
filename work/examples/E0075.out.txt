@@ -1,0 +1,301 @@
+w013217.1 | There's something fishy about his story. | 他的说法有些可疑。
+w013217.2 | The fridge has a fishy smell. | 冰箱里有一股鱼腥味。
+w013218.1 | We chose wooden flooring for the kitchen. | 我们为厨房选了木地板。
+w013219.1 | He has a tattoo on his forearm. | 他的前臂上有个文身。
+w013220.1 | My grandfather is now very frail. | 我爷爷现在身体很虚弱。
+w013220.2 | The economy is still frail. | 经济仍然很脆弱。
+w013222.1 | There are big generational differences in music taste. | 不同代人的音乐品味差别很大。
+w013223.1 | The bowl has a blue glaze. | 这只碗上了一层蓝釉。
+w013223.2 | Glaze the cake with melted chocolate. | 在蛋糕上淋一层融化的巧克力。
+w013223.3 | His eyes glazed over as she talked about tax. | 她谈起税务时，他的眼神变得呆滞。
+w013224.1 | We have two goldfish in a bowl. | 我们在鱼缸里养了两条金鱼。
+w013226.1 | A grizzly was seen near the camp. | 有人在营地附近看到一头灰熊。
+w013226.2 | He had a grizzly beard. | 他留着灰白的胡子。
+w013227.1 | The mask had a grotesque face. | 那个面具的脸怪诞丑陋。
+w013227.2 | The church walls are covered with carved grotesques. | 教堂墙上刻满了怪诞的人像。
+w013228.1 | She was harassed by phone calls at night. | 她夜里不断受到电话骚扰。
+w013228.2 | Small groups harassed the enemy army. | 小股部队不断袭扰敌军。
+w013229.1 | A hooded man walked into the shop. | 一个戴兜帽的男人走进了商店。
+w013229.2 | He looked at me with hooded eyes. | 他用那双眼皮厚重的眼睛看着我。
+w013230.1 | Don't be so horrid to your sister! | 别对你妹妹那么刻薄！
+w013234.1 | White carpets are impractical with small children. | 有小孩的家里铺白地毯不实用。
+w013235.1 | The parts are interchangeable. | 这些零件可以互换。
+w013236.1 | The damage to the forest is irreversible. | 对森林的破坏是不可逆转的。
+w013238.1 | The border area was wild and lawless. | 边境地区荒凉而无法无天。
+w013239.1 | She wore leggings and a long jumper. | 她穿着紧身裤和一件长毛衣。
+w013239.2 | The soldiers wore leather leggings. | 士兵们戴着皮护腿。
+w013244.1 | The band played a medley of old songs. | 乐队演奏了一组老歌串烧。
+w013244.2 | The soup is a medley of vegetables. | 这道汤是各种蔬菜的大杂烩。
+w013244.3 | She won gold in the 200 metres medley. | 她赢得了200米混合泳金牌。
+w013247.1 | The flat has a minimalist design. | 这套公寓采用极简设计。
+w013247.2 | As a minimalist, he owns very few things. | 作为一个极简主义者，他拥有的东西很少。
+w013249.1 | Try to look at the problem objectively. | 试着客观地看待这个问题。
+w013252.1 | You need to install a plugin to play the video. | 你需要安装一个插件才能播放这个视频。
+w013253.1 | Sweat comes out through the pores in your skin. | 汗水从皮肤的毛孔中排出。
+w013253.2 | She pored over the map for hours. | 她仔细研究地图好几个小时。
+w013254.1 | The course is open to postgraduates only. | 这门课程只对研究生开放。
+w013254.2 | He is doing postgraduate research in physics. | 他在做物理学的研究生课题。
+w013255.1 | I'm in a bit of a predicament. | 我现在有点进退两难。
+w013256.1 | Red is the predominant colour in the painting. | 红色是这幅画的主色调。
+w013258.1 | The baby puked all over my shirt. | 宝宝吐了我一衬衫。
+w013258.2 | There was puke on the floor of the bus. | 公共汽车地板上有呕吐物。
+w013261.1 | She gave a piano recital at the school. | 她在学校举办了钢琴独奏会。
+w013261.2 | He gave a long recital of his problems. | 他把自己的问题一一细数了一遍。
+w013262.1 | The children recited a poem in class. | 孩子们在课堂上背诵了一首诗。
+w013262.2 | She recited a list of complaints. | 她列举了一连串抱怨。
+w013264.1 | I have no recollection of meeting him. | 我不记得见过他。
+w013265.1 | We need to refine our plan a little. | 我们需要稍微完善一下计划。
+w013265.2 | Oil is refined before it is used. | 石油在使用前要经过提炼。
+w013266.1 | The car has a good resale value. | 这辆车的转售价值很高。
+w013267.1 | He has to retake his driving test. | 他得重考驾照。
+w013267.2 | The army retook the city after a week. | 军队一周后收复了这座城市。
+w013267.3 | The director asked for a retake of the scene. | 导演要求重拍这个镜头。
+w013269.1 | The future looks rosy for the company. | 公司前景看起来很乐观。
+w013269.2 | The baby had rosy cheeks. | 宝宝的脸颊红扑扑的。
+w013270.1 | A water pipe ruptured in the cold. | 一根水管在寒冷中爆裂了。
+w013270.2 | He died from the rupture of a blood vessel. | 他死于血管破裂。
+w013270.3 | The argument caused a rupture between the brothers. | 这次争吵导致兄弟俩决裂。
+w013271.1 | The prices they charge are scandalous. | 他们的收费高得离谱。
+w013271.2 | She wrote a scandalous book about her former friends. | 她写了一本揭露昔日朋友丑闻的书。
+w013272.1 | He's a Scot who lives in London. | 他是一个住在伦敦的苏格兰人。
+w013273.1 | Add seasoning to the soup. | 往汤里加点调料。
+w013274.1 | Make sure the door is securely locked. | 确保门锁牢了。
+w013274.2 | Your data is stored securely. | 你的数据被安全地存储。
+w013275.1 | He wore a shabby old coat. | 他穿着一件破旧的旧外套。
+w013275.2 | That was a shabby way to treat a friend. | 那样对待朋友太不厚道了。
+w013276.1 | I have a cold and my sinuses are blocked. | 我感冒了，鼻窦堵塞。
+w013278.1 | The car skidded on the ice. | 汽车在冰上打滑。
+w013278.2 | The bus went into a skid on the wet road. | 公共汽车在湿滑的路上打滑了。
+w013280.1 | She wants to specialize in children's law. | 她想专攻儿童法。
+w013281.1 | I've got a splinter in my finger. | 我手指上扎了一根刺。
+w013281.2 | The glass splintered on the floor. | 玻璃在地板上摔得粉碎。
+w013281.3 | The party splintered into small groups. | 这个党分裂成了几个小派别。
+w013283.1 | She was the standout of the team this season. | 她是本赛季队里最出色的球员。
+w013283.2 | The standout track on the album is the first one. | 专辑中最出彩的是第一首歌。
+w013285.1 | Don't forget your swimsuit. | 别忘了带泳衣。
+w013286.1 | A butterfly's wings are symmetrical. | 蝴蝶的翅膀是对称的。
+w013290.1 | He spent the weekend tinkering with his bike. | 他整个周末都在摆弄他的自行车。
+w013290.2 | In the old days a tinker came round to fix pots. | 过去有补锅匠走街串巷修锅。
+w013292.1 | He died of unexplained causes. | 他死因不明。
+w013293.1 | The new law had unintended effects. | 新法律产生了意想不到的后果。
+w013294.1 | The murder remains unsolved. | 这起谋杀案仍未侦破。
+w013295.1 | She tried unsuccessfully to open the window. | 她试着打开窗户，但没打开。
+w013296.1 | The uptake of the new app has been slow. | 这款新应用的使用率增长缓慢。
+w013296.2 | Exercise increases the uptake of oxygen. | 运动会增加氧气的吸收。
+w013300.1 | We went to the beach on a whim. | 我们一时兴起去了海边。
+w013301.1 | Stop whining and eat your dinner. | 别再发牢骚了，快吃饭吧。
+w013301.2 | The dog whined at the door. | 狗在门口哀叫。
+w013301.3 | I could hear the whine of a drill. | 我能听到电钻的尖啸声。
+w013302.1 | The police withheld the man's name. | 警方没有公开这名男子的姓名。
+w013302.2 | Tax is withheld from your monthly pay. | 税款会从你的月薪中预扣。
+w013305.1 | She worked with great zeal for the charity. | 她满腔热情地为这家慈善机构工作。
+w013306.1 | The mission was aborted because of bad weather. | 由于天气恶劣，任务中止了。
+w013306.2 | Doctors advised her to abort the pregnancy. | 医生建议她终止妊娠。
+w013308.1 | The drought adversely affected the harvest. | 干旱对收成产生了不利影响。
+w013310.1 | I was astonished at how much he had changed. | 他的变化之大让我惊讶不已。
+w013312.1 | He played the banjo by the fire. | 他在火边弹班卓琴。
+w013313.1 | The punishment was barbaric. | 这种惩罚很野蛮。
+w013314.1 | The field is surrounded by barbed wire. | 田地四周围着带刺铁丝网。
+w013314.2 | She made a barbed comment about his weight. | 她对他的体重说了句挖苦的话。
+w013317.1 | The boys wore school blazers. | 男孩们穿着校服上衣。
+w013319.1 | The photo is a bit blurry. | 这张照片有点模糊。
+w013320.1 | She bravely fought her illness. | 她勇敢地与病魔抗争。
+w013327.1 | Put a comma after "however". | 在“however”后面加个逗号。
+w013328.1 | The job requires a high level of competency. | 这份工作要求很高的能力。
+w013329.1 | They made a concerted effort to save the park. | 他们齐心协力挽救这座公园。
+w013329.2 | There has been a concerted attempt to cut costs. | 人们一直在下大力气削减成本。
+w013332.1 | My jeans have split at the crotch. | 我的牛仔裤裆部裂开了。
+w013332.2 | The bird built its nest in the crotch of a tree. | 鸟在树杈上筑了巢。
+w013333.1 | You can customize the settings on your phone. | 你可以根据需要自定义手机的设置。
+w013335.1 | He looked very dashing in his new suit. | 他穿着新西装，显得英俊潇洒。
+w013336.1 | There is a departmental meeting on Monday. | 周一有一个部门会议。
+w013344.1 | After his wife died he felt a great emptiness. | 妻子去世后，他感到极度空虚。
+w013344.2 | The emptiness of the house surprised us. | 房子空荡荡的，让我们很吃惊。
+w013345.1 | The course encompasses history and art. | 这门课程包括历史和艺术。
+w013345.2 | The park encompasses the whole valley. | 公园覆盖了整个山谷。
+w013347.1 | The smell evoked memories of my childhood. | 这股气味唤起了我童年的回忆。
+w013348.1 | He served the family faithfully for thirty years. | 他忠心耿耿地为这家人服务了三十年。
+w013349.1 | Ferns grow well in shady places. | 蕨类植物在阴凉处长得好。
+w013353.1 | Don't fret, everything will be fine. | 别着急，一切都会好的。
+w013353.2 | Press the string down behind the fifth fret. | 在第五品后面按住琴弦。
+w013356.1 | My son is a fifth grader. | 我儿子是五年级学生。
+w013356.2 | The grader gave my essay a B. | 阅卷老师给我的作文打了B。
+w013356.3 | A grader was levelling the new road. | 一台平地机正在平整新路。
+w013359.1 | Police found a gruesome scene in the house. | 警方在屋里发现了可怕的场面。
+w013361.1 | He was harshly criticized in the press. | 他在媒体上受到严厉批评。
+w013365.1 | They sell every kind of cake imaginable. | 他们卖你能想到的各种蛋糕。
+w013366.1 | The new law gave fresh impetus to the reforms. | 新法律为改革注入了新的动力。
+w013366.2 | The ball lost its impetus and stopped. | 球失去了冲力，停了下来。
+w013367.1 | He's impulsive and often regrets it later. | 他很冲动，事后常常后悔。
+w013368.1 | The temple smelled of incense. | 寺庙里弥漫着香火的气味。
+w013368.2 | The decision incensed local people. | 这个决定激怒了当地人。
+w013369.1 | The prisoners suffered inhuman treatment. | 囚犯们受到了非人的待遇。
+w013369.2 | The robot's voice sounded cold and inhuman. | 机器人的声音听起来冰冷，不像人声。
+w013370.1 | He injured his knee playing football. | 他踢足球时伤了膝盖。
+w013371.1 | Please pay the invoice within 30 days. | 请在30天内支付这张发票。
+w013371.2 | We will invoice you at the end of the month. | 我们会在月底给您开账单。
+w013374.1 | The film is about a junkie trying to get clean. | 这部电影讲的是一个瘾君子努力戒毒的故事。
+w013374.2 | My brother is a real news junkie. | 我哥哥是个十足的新闻迷。
+w013379.1 | She has a latent talent for music. | 她有潜在的音乐天赋。
+w013385.1 | Children seem to have limitless energy. | 孩子们似乎有无穷无尽的精力。
+w013386.1 | Over 90% of adults here are literate. | 这里超过90%的成年人识字。
+w013386.2 | You need to be computer literate for this job. | 这份工作需要你懂电脑。
+w013388.1 | Localization of the game took six months. | 这款游戏的本地化花了六个月。
+w013388.2 | The test helps with the localization of the pain. | 这项检查有助于确定疼痛的部位。
+w013390.1 | He started as a lowly clerk. | 他从一个小职员做起。
+w013391.1 | She gave a lucid explanation of the plan. | 她对这个计划作了清晰的解释。
+w013391.2 | The patient was lucid for a few hours. | 病人有几个小时神志清醒。
+w013393.1 | He ordered a dry martini. | 他点了一杯干马提尼。
+w013394.1 | The king was merciful and let him go. | 国王很仁慈，放了他。
+w013394.2 | Her death was a merciful release from pain. | 她的去世使她从痛苦中解脱了。
+w013397.1 | The midwife helped deliver the baby. | 助产士帮忙接生了这个婴儿。
+w013399.1 | There is a lot of misinformation online. | 网上有很多错误信息。
+w013401.1 | The mobilization of volunteers was very fast. | 志愿者的动员非常迅速。
+w013401.2 | The government ordered the mobilization of troops. | 政府下令动员军队。
+w013402.1 | The play opens with a long monologue. | 这出戏以一段长长的独白开场。
+w013402.2 | I had to listen to his monologue about his car. | 我只好听他滔滔不绝地讲他的车。
+w013403.1 | Carbon monoxide is a dangerous gas. | 一氧化碳是一种危险的气体。
+w013404.1 | She is very musically gifted. | 她很有音乐天赋。
+w013404.2 | The water flowed musically over the stones. | 溪水在石头上潺潺流过，如同音乐。
+w013406.1 | He laughed nervously at the joke. | 他听了笑话紧张地笑了笑。
+w013407.1 | The streets are quiet at nighttime. | 夜里街上很安静。
+w013408.1 | The graph shows a nonlinear relationship. | 这张图显示的是一种非线性关系。
+w013408.2 | The film tells its story in a nonlinear way. | 这部电影采用非线性的方式讲故事。
+w013411.1 | The benefits outweigh the risks. | 好处大于风险。
+w013412.1 | Malaria is a parasitic disease. | 疟疾是一种寄生虫病。
+w013412.2 | He lived a parasitic life, never working. | 他过着寄生虫般的生活，从不工作。
+w013413.1 | Sprinkle some chopped parsley on the fish. | 在鱼上撒些切碎的欧芹。
+w013414.1 | The old clock has a brass pendulum. | 这座老钟有一个黄铜钟摆。
+w013414.2 | The pendulum of public opinion has swung back. | 舆论的风向又摆回来了。
+w013416.1 | Workers formed a picket outside the factory. | 工人们在工厂外组成了纠察队。
+w013416.2 | Nurses picketed the hospital for higher pay. | 护士们在医院外抗议，要求加薪。
+w013416.3 | The garden has a white picket fence. | 花园有一道白色尖桩篱笆。
+w013417.1 | It was a poignant moment when they said goodbye. | 他们告别的那一刻令人心酸。
+w013418.1 | Children are given vaccines against polio. | 孩子们接种了小儿麻痹症疫苗。
+w013419.1 | The drug loses its potency over time. | 这种药的效力会随时间减弱。
+w013419.2 | Some medicines can affect a man's potency. | 有些药物会影响男性的性功能。
+w013420.1 | He has a precarious job with low pay. | 他的工作不稳定，工资又低。
+w013422.1 | He called on the pretext of returning a book. | 他借口还书来拜访。
+w013423.1 | The privatization of the railways was unpopular. | 铁路私有化不得人心。
+w013424.1 | The country proclaimed its independence. | 该国宣布独立。
+w013424.2 | His accent proclaimed that he was from the north. | 他的口音表明他是北方人。
+w013425.1 | We stayed in a quaint little village. | 我们住在一个古色古香的小村庄。
+w013426.1 | A raccoon knocked over our rubbish bin. | 一只浣熊撞翻了我们的垃圾桶。
+w013427.1 | She needed reassurance that she had done well. | 她需要别人安慰她，说她做得很好。
+w013428.1 | The party wants a redistribution of wealth. | 该党主张重新分配财富。
+w013429.1 | Two men restrained him from hitting the driver. | 两个男人拦住他，不让他打司机。
+w013429.2 | She could hardly restrain her anger. | 她几乎抑制不住怒火。
+w013430.1 | The room was richly decorated. | 房间装饰得富丽堂皇。
+w013430.2 | Her success was richly deserved. | 她的成功是当之无愧的。
+w013431.1 | He has always been a careful saver. | 他一直很会存钱。
+w013431.2 | This dishwasher is a real time saver. | 这台洗碗机真能节省时间。
+w013435.1 | She looked calm and serene. | 她看起来平静安详。
+w013436.1 | My parents met in the seventies. | 我父母是在七十年代认识的。
+w013436.2 | My grandmother is in her seventies. | 我奶奶七十多岁了。
+w013436.3 | Temperatures will be in the seventies tomorrow. | 明天气温将在华氏七十多度。
+w013438.1 | He worked at the shipyard for forty years. | 他在造船厂工作了四十年。
+w013441.1 | Let the soup simmer for twenty minutes. | 让汤用文火炖二十分钟。
+w013441.2 | Anger was simmering among the workers. | 工人们中间怒气在酝酿。
+w013441.3 | Bring the sauce to a simmer. | 把酱汁煮到微沸。
+w013443.1 | The only snag is that it's expensive. | 唯一的问题是太贵了。
+w013443.2 | I snagged my sweater on a nail. | 我的毛衣被钉子钩破了。
+w013443.3 | I managed to snag two tickets for the show. | 我设法抢到了两张演出票。
+w013444.1 | She sat on the bed and sobbed. | 她坐在床上抽泣。
+w013444.2 | I heard a sob from the next room. | 我听到隔壁房间传来一声啜泣。
+w013445.1 | She has an air of sophistication. | 她有一种成熟老练的气质。
+w013445.2 | The sophistication of modern phones is amazing. | 现代手机的精密程度令人惊叹。
+w013446.1 | He straightened his tie. | 他把领带弄直。
+w013446.2 | Please straighten your room before you go out. | 出门前请把房间收拾整齐。
+w013447.1 | The train has a streamlined shape. | 这列火车是流线型的。
+w013447.2 | The company has a more streamlined system now. | 公司现在的系统更加精简高效。
+w013448.1 | The nurse filled the syringe. | 护士把注射器灌满了药。
+w013448.2 | The doctor syringed my ears. | 医生用注射器冲洗了我的耳朵。
+w013450.1 | Slice the cucumber thinly. | 把黄瓜切成薄片。
+w013450.2 | The region is thinly populated. | 这个地区人口稀少。
+w013450.3 | It was a thinly disguised attack on his boss. | 那是对他老板几乎不加掩饰的攻击。
+w013451.1 | I toted my bags all the way to the station. | 我一路扛着包到了车站。
+w013451.2 | She carries her books in a canvas tote. | 她用一个帆布手提袋装书。
+w013453.1 | I tweaked the recipe a little. | 我稍微调整了一下食谱。
+w013453.2 | The plan just needs a few tweaks. | 这个计划只需要稍加调整。
+w013453.3 | He tweaked her nose playfully. | 他调皮地捏了一下她的鼻子。
+w013456.1 | The children answered in unison. | 孩子们齐声回答。
+w013456.2 | The choir sang the first verse in unison. | 合唱团齐唱了第一段。
+w013457.1 | We were unprepared for the heavy snow. | 我们对这场大雪毫无准备。
+w013458.1 | Members have unrestricted access to the gym. | 会员可以无限制地使用健身房。
+w013459.1 | This film is unsuitable for children. | 这部电影不适合儿童观看。
+w013460.1 | War between the two countries seemed unthinkable. | 两国之间开战似乎是不可想象的。
+w013461.1 | The music uplifted everyone in the room. | 音乐让屋里每个人都振奋起来。
+w013461.2 | The good news gave us all an uplift. | 这个好消息让我们都精神一振。
+w013461.3 | There was an uplift in sales last month. | 上个月销售额有所增长。
+w013464.1 | Try to visualize yourself winning the race. | 试着想象自己赢得比赛的样子。
+w013464.2 | The software helps you visualize your data. | 这个软件帮你把数据可视化。
+w013466.1 | Throwing away good food is wasteful. | 扔掉好好的食物太浪费了。
+w013467.1 | The club organizes activities for youngsters. | 这个俱乐部为年轻人组织活动。
+w013468.1 | It is advisable to book early. | 最好提早预订。
+w013470.1 | There is widespread apathy among voters. | 选民普遍漠不关心。
+w013471.1 | Local artisans sell their pottery at the market. | 当地工匠在集市上出售他们的陶器。
+w013471.2 | The shop sells artisan bread and cheese. | 这家店出售手工面包和奶酪。
+w013472.1 | There was an assortment of cakes on the table. | 桌上摆着各式各样的蛋糕。
+w013473.1 | Many companies have jumped on the bandwagon. | 许多公司都跟风赶时髦。
+w013475.1 | Look at the little birdie in the tree! | 看树上那只小鸟儿！
+w013475.2 | She made a birdie on the last hole. | 她在最后一洞打出了小鸟球。
+w013475.3 | He hit the birdie over the net. | 他把羽毛球打过了网。
+w013476.1 | Herds of bison once lived on the plains. | 平原上曾经生活着成群的野牛。
+w013477.1 | The blacksmith made new shoes for the horse. | 铁匠为马打了新马掌。
+w013480.1 | I'll have a chicken burrito, please. | 请给我一份鸡肉卷饼。
+w013481.1 | The campers put up their tents by the lake. | 露营者在湖边搭起了帐篷。
+w013481.2 | We travelled around the country in a camper. | 我们开着房车周游全国。
+w013484.1 | The casket was carried into the church. | 棺材被抬进了教堂。
+w013484.2 | She kept her rings in a small silver casket. | 她把戒指放在一个小银匣里。
+w013487.1 | The hotel is known for its cleanliness. | 这家酒店以干净著称。
+w013489.1 | Please don't complicate things any further. | 别把事情弄复杂了。
+w013490.1 | The orchestra played a violin concerto. | 管弦乐团演奏了一首小提琴协奏曲。
+w013491.1 | The two courses run concurrently. | 这两门课程同时进行。
+w013492.1 | The clinic gives advice on contraception. | 这家诊所提供避孕咨询。
+w013493.1 | A convex mirror makes things look smaller. | 凸面镜会使物体看起来变小。
+w013494.1 | She crouched down to talk to the child. | 她蹲下来和孩子说话。
+w013494.2 | He dropped into a crouch behind the wall. | 他在墙后蹲了下来。
+w013495.1 | The concert was the culmination of a year's work. | 这场音乐会是一年辛勤工作的成果。
+w013498.1 | The heat sped up the decomposition of the body. | 炎热加快了尸体的腐烂。
+w013498.2 | The decomposition of water gives hydrogen and oxygen. | 水分解后得到氢和氧。
+w013503.1 | It was a dismal, rainy day. | 那是个阴沉的雨天。
+w013503.2 | The team's performance was dismal. | 这支队伍的表现糟透了。
+w013504.1 | To my dismay, the shop was closed. | 令我失望的是，商店关门了。
+w013504.2 | The news dismayed her parents. | 这个消息让她父母很沮丧。
+w013507.1 | The government is trying to catch tax dodgers. | 政府正设法抓逃税者。
+w013508.1 | Most of the cars are sold domestically. | 大部分汽车在国内销售。
+w013508.2 | He has never been very helpful domestically. | 他在家里从来不怎么帮忙做家务。
+w013509.1 | We called an electrician to fix the lights. | 我们叫了个电工来修灯。
+w013511.1 | Singapore is close to the equator. | 新加坡靠近赤道。
+w013512.1 | Many birds feed in the estuary. | 许多鸟在河口觅食。
+w013513.1 | I'll be eternally grateful to you. | 我将永远感激你。
+w013513.2 | He is eternally complaining about something. | 他总是在抱怨这抱怨那。
+w013516.1 | He was expelled from school for fighting. | 他因打架被学校开除了。
+w013516.2 | Breathe in, then slowly expel the air. | 吸气，然后慢慢把气呼出来。
+w013517.1 | The diet was just a passing fad. | 这种节食法只是一时的风尚。
+w013520.1 | She argued her case forcefully. | 她有力地陈述了自己的理由。
+w013520.2 | The police forcefully removed the protesters. | 警方强行驱散了抗议者。
+w013521.1 | There is a tree in the foreground of the photo. | 照片的前景中有一棵树。
+w013521.2 | The report foregrounds the needs of patients. | 这份报告突出强调了病人的需求。
+w013522.1 | He frowned when he read the letter. | 他读信时皱起了眉头。
+w013522.2 | She looked at me with a frown. | 她皱着眉头看着我。
+w013522.3 | The school frowns on students using phones in class. | 学校不赞成学生在课堂上用手机。
+w013523.1 | This wine has a fruity taste. | 这种葡萄酒有果香味。
+w013523.2 | He has a deep, fruity voice. | 他的嗓音低沉圆润。
+w013527.1 | He pulled a muscle in his groin. | 他拉伤了腹股沟的肌肉。
+w013528.1 | The course gives you a good grounding in maths. | 这门课程让你打下扎实的数学基础。
+w013528.2 | She got a week's grounding for coming home late. | 她因为晚归被罚一周禁足。
+w013528.3 | Proper grounding protects you from electric shocks. | 正确接地可以防止触电。
+w013530.1 | The fireworks were made with gunpowder. | 这些烟花是用火药做的。
+w013531.1 | Bad weather hampered the rescue. | 恶劣的天气妨碍了救援。
+w013531.2 | We took a picnic hamper to the park. | 我们带着野餐篮去了公园。
+w013531.3 | Put your dirty clothes in the hamper. | 把脏衣服放进洗衣篮。
+w013534.1 | He received a medal for his heroism. | 他因英勇行为获得了一枚奖章。
+w013535.1 | The company has a very hierarchical structure. | 这家公司的结构等级森严。
+w013537.1 | A helicopter hovered over the building. | 一架直升机在大楼上空盘旋。
+w013537.2 | The waiter hovered near our table. | 服务员在我们桌旁转来转去。
+w013537.3 | Hover over the icon to see more details. | 将鼠标悬停在图标上查看更多详情。
+w013539.1 | She is a very inventive cook. | 她是个很有创意的厨师。
+w013539.2 | The film has an inventive story. | 这部电影的故事很有新意。
+w013544.1 | He has a knack for making people laugh. | 他很会逗人发笑。
+w013544.2 | She has a knack of saying the wrong thing. | 她总爱说错话。
