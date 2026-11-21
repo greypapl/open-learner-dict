@@ -160,7 +160,7 @@ for i, r in enumerate(core, 1):
     r['layer'] = 'core'
     r['reviewed'] = True
     r.pop('freq_rank_raw', None)
-# 例句（scripts/examples.py 生成：work/merged/examples.jsonl {sense_id, en, zh, reviewed, revised}）；繁体用安全转换
+# 例句（scripts/examples.py 生成：work/merged/examples.jsonl {sense_id, en, zh, reviewed, revised}）；繁体：hant.py X 块校对过要改的用覆盖，其余安全转换
 EX = {}
 if (M / 'examples.jsonl').exists():
     EX = {e['sense_id']: e for e in load('examples.jsonl')}
@@ -169,7 +169,7 @@ for r in core:
     for s in r['senses']:
         if s['sense_id'] in EX:
             e = EX[s['sense_id']]
-            s['examples'] = [{'en': e['en'], 'zh': e['zh'], 'zh_hant': hant('', e['zh'])}]
+            s['examples'] = [{'en': e['en'], 'zh': e['zh'], 'zh_hant': hant('ex:' + s['sense_id'], e['zh'])}]
             n_ex += 1
 if len(EX) != n_ex:
     die(f'例句里有 {len(EX) - n_ex} 条 sense_id 不在主词典里')

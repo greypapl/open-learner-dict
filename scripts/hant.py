@@ -9,6 +9,10 @@ T 块（释义）：`key | 英文 | 词性 | OpenCC 转出的繁体`      模型
 N 块（专名）：`key | Display | 类型 | OpenCC 转出的中文名`   模型只输出要改的行：`key | 台湾通行译名`
    key = <专名 id>#<第几个名字>
 没进 T 块的（主词典 3 万名以后、简释层）只有 OpenCC 结果。prompt: prompts/hant.md
+
+  python -X utf8 -I scripts/hant.py make-ex [--size 2500]   # work/merged/examples.jsonl → work/hant/X*.in.txt（只切新的例句）
+X 块（例句译文）：`ex:<sense_id> | 简体原句 | 发布时的繁体（s2tw + 用词表）`  模型只输出要改的行：`key | 改后的繁体`
+   没改的不写覆盖（发布时本来就是这个结果）。prompt: prompts/hant-examples.md
 """
 import json, re, sys
 from pathlib import Path
@@ -46,8 +50,8 @@ def read(prefix):
         src = {}
         for l in open(p, encoding='utf-8'):
             f = l.rstrip('\n').split(' | ')
-            if len(f) == 4:
-                src[f[0]] = f[3]
+            if len(f) == 4 or (prefix == 'X' and len(f) == 3):
+                src[f[0]] = f[-1]
         o = p.with_name(p.name.replace('.in.', '.out.'))
         if not o.exists():
             pend.append(p.name[:3]); continue
@@ -56,10 +60,16 @@ def read(prefix):
             if not l:
                 continue
             f = [x.strip() for x in l.split(' | ')]
-            if len(f) == 4 and f[0] in src:
-                f = [f[0], f[3]]  # 有的 agent 把整行都抄回来了：取最后一栏
+            if len(f) in (3, 4) and f[0] in src:
+                f = [f[0], f[-1]]  # 有的 agent 把整行都抄回来了：取最后一栏
             if len(f) != 2 or f[0] not in src:
                 errs.append(f'{o.name} 第 {i} 行格式错或 key 不在输入中：{l[:50]}'); continue
+            if prefix == 'X':
+                if not re.search(r'[㐀-鿿]', f[1]) or abs(len(f[1]) - len(src[f[0]])) > 4:
+                    errs.append(f'{o.name} 第 {i} 行和原句长度差太多或没有汉字：{l[:50]}'); continue
+                if f[1] != src[f[0]]:
+                    res[f[0]] = f[1]
+                continue
             if not CJK.match(f[1]):
                 errs.append(f'{o.name} 第 {i} 行含非中文字符：{l[:50]}'); continue
             if prefix == 'T' and f[1].count(',') != src[f[0]].count(','):
@@ -68,7 +78,8 @@ def read(prefix):
                 continue  # 原文带字母（CT、PDF、γ）：校验不许输出字母，模型只能改写，这种改写不要
             if f[1] != src[f[0]]:
                 res[f[0]] = f[1]
-        base.update(src)
+        if prefix != 'X':
+            base.update(src)
     return res, errs, pend
 
 
@@ -89,15 +100,35 @@ if cmd == 'make':
          for r in load('proper.jsonl') for i, n in enumerate(r['names'], 1)]
     size = arg('--size', 2500)
     print('T', len(T), '→', chunks('T', T, size), '块；N', len(N), '→', chunks('N', N, size), '块')
+elif cmd == 'make-ex':
+    sys.path.insert(0, str(ROOT / 'scripts'))
+    cc = OpenCC('s2tw')
+    TERMS = sorted((l.rstrip('\n').split('\t') for l in open(ROOT / 'data/hant-terms.tsv', encoding='utf-8') if l.strip() and not l.startswith('#')),
+                   key=lambda t: -len(t[0]))
+
+    def safe(z):  # 和 release.py 的 hant() 一致
+        t = cc.convert(z)
+        for a, b in TERMS:
+            t = t.replace(a, b)
+        return t
+    done = set()
+    for p in X.glob('X*.in.txt'):
+        done |= {l.split(' | ')[0] for l in open(p, encoding='utf-8')}
+    L = [f"ex:{e['sense_id']} | {e['zh']} | {safe(e['zh'])}" for e in (json.loads(l) for l in open(ROOT / 'work/merged/examples.jsonl', encoding='utf-8'))
+         if 'ex:' + e['sense_id'] not in done]
+    size, start = arg('--size', 2500), len(list(X.glob('X*.in.txt')))
+    for i in range(0, len(L), size):
+        (X / f'X{start + i // size + 1:02d}.in.txt').write_text('\n'.join(L[i:i + size]) + '\n', encoding='utf-8')
+    print(f'新例句 {len(L)} 条 → {(len(L) - 1) // size + 1 if L else 0} 块，从 X{start + 1:02d} 起')
 elif cmd == 'check':
-    for k in 'TN':
+    for k in 'TNX':
         res, errs, pend = read(k)
         for e in errs[:15]:
             print('✗', e)
         print(f'{k}: 改 {len(res)} 行，格式问题 {len(errs)}，未完成 {" ".join(pend) or "无"}')
 elif cmd == 'apply':
     out = {}
-    for k in 'TN':
+    for k in 'TNX':
         res, errs, pend = read(k)
         if pend:
             sys.exit(f'{k} 未完成：{" ".join(pend)}')

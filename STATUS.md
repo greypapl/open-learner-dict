@@ -20,7 +20,7 @@
 | 扩展层（例句、同反义） | ⏳ 未开始 |
 | 发布脚本 | ✅ `scripts/release.py --version 0.10.0` → `release/0.10.0/`（JSONL、CSV、SQLite、词表、MANIFEST）；`docs/DATA.md`、`schema/`、README 已写。MDX、Anki 未做 |
 | 例句 | ✅ 前 1 万词 + 全部 A1–C1 词，每个义项 1 句（29,034 条，Opus 写 + Opus 审），见 §0「例句层 v1 完成」。短语层例句未做 |
-| 质量抽检 | ✅ v0.10.0：Fable 按更严口径（audit-v2）抽 2,100 条，含例句和繁体，报告 `reports/quality-0.10.0.md`；v0.9.0 的旧报告保留。下一步：例句繁体模型校对（major 3%）、简释层冷僻术语审核（major 4%） |
+| 质量抽检 | ✅ v0.10.0：Fable 按更严口径（audit-v2）抽 2,100 条，含例句和繁体，报告 `reports/quality-0.10.0.md`；v0.9.0 的旧报告保留。例句繁体已在抽检后由 Sonnet 逐句校对（改 1,604 句，X01–X12，`hant.py make-ex`）。下一步候选：简释层冷僻术语审核（major 4%） |
 | git | ✅ 2026-11-18 首次提交（work/raw、sources、headwords*.jsonl、selected.jsonl 不入库，见 .gitignore） |
 
 批次顺序 = 选词顺序：B0001–B0306 ≈ 前 1000 + 主池（常用到中频），B0307 起为尾部罕见/专业词（几乎全是 K2）。
