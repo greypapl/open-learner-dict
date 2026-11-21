@@ -21,6 +21,7 @@
 | 发布脚本 | ✅ `scripts/release.py --version 0.10.0` → `release/0.10.0/`（JSONL、CSV、SQLite、词表、MANIFEST）；`docs/DATA.md`、`schema/`、README 已写。MDX、Anki 未做 |
 | 例句 | ✅ 前 1 万词 + 全部 A1–C1 词，每个义项 1 句（29,034 条，Opus 写 + Opus 审），见 §0「例句层 v1 完成」。短语层例句未做 |
 | 质量抽检 | ✅ v0.10.0：Fable 按更严口径（audit-v2）抽 2,100 条，含例句和繁体，报告 `reports/quality-0.10.0.md`；v0.9.0 的旧报告保留。例句繁体已在抽检后由 Sonnet 逐句校对（改 1,604 句，X01–X12，`hant.py make-ex`）。 |
+| 同义 / 反义词 | ✅ 完成（2026-11-21）：`scripts/thesaurus.py`（make/check/review-make/review-check/apply，增量），prompts `thesaurus-writer.md` / `thesaurus-reviewer.md`。范围同例句（前 1 万 + A1–C1，28,912 个义项），每项必须是词典已有词条或短语。Opus low 写 73 块 × 400（约 24% 窗口），Opus 审 12 块 × 2,500，改 361 条；apply 时按规则去掉代词/限定词的人称、物主、指示词反义（he→she 这类，15 条）。结果：同义 46,954 条、反义 9,421 条。发布：`senses[].synonyms/antonyms`、`csv/relations.csv`、SQLite `sense_relations` |
 | 简释层审核 | ✅ 完成（2026-11-21）：`scripts/gloss_review.py` + `prompts/gloss-review.md`，Opus 逐条审 51,159 个义项（G001–G026，每块 2,000），只输出要改/要删的行。试点 G002 改 29 条（1.5%）。**复数等变形不删**（试点删了 7 个拉丁复数，已撤回并改了规则）。26 块全部审完：改 423 条、删 14 个拼写错误词头（glossapharyngeal、irridentism 等），每块约 0.7% 的 5 小时窗口。**召回率低**：抽检查出的 12 条错误里，审核只改到 7 条，而且恰好都是 prompt 里举过的例子；另外 5 条（intertill、mezerein、packless、parapsis、torfaceous）是我按抽检结论手工追加到 reviewer.txt 的。所以 gloss 标 reviewed=true，confidence 仍为 low。想再提高只能换模型（Fable）再审一轮，或不给「不确定就别改」的限制。 |
 | git | ✅ 2026-11-18 首次提交（work/raw、sources、headwords*.jsonl、selected.jsonl 不入库，见 .gitignore） |
 

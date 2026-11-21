@@ -16,6 +16,7 @@ Open English–Chinese learner's dictionary: 86,851 fully written headwords plus
 | 短语 phrases | 13,153 | 短语动词、习语、固定短语、分写复合词 |
 | 搭配 collocations | 5,016 | make a decision、heavy rain 这类强搭配 |
 | 变形索引 inflections | 43,919 | went → go、children → child |
+| 同义 / 反义词 | 28,912 个义项 | 前 1 万常用词和全部 A1–C1 词，按义项给出（同义 4.7 万条、反义 0.9 万条），都链接到本词典已有的词条 |
 | 例句 examples | 29,034 | 前 1 万常用词和全部 A1–C1 词，每个义项 1 句英文例句 + 简繁译文 |
 
 ## 怎么用
@@ -39,7 +40,7 @@ SELECT layer, id FROM lookup WHERE key = 'went';   -- → inflection, go 的 id
 
 ## 还没有的
 
-罕见词（排名 1 万以后的 C2 词）和短语的例句、同义词和反义词、发音音频。已知问题见质量报告。
+罕见词（排名 1 万以后的 C2 词）和短语的例句与同反义词、发音音频。已知问题见质量报告。
 
 ## 许可
 
