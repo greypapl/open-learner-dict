@@ -20,7 +20,8 @@
 | 扩展层（例句、同反义） | ⏳ 未开始 |
 | 发布脚本 | ✅ `scripts/release.py --version 0.10.0` → `release/0.10.0/`（JSONL、CSV、SQLite、词表、MANIFEST）；`docs/DATA.md`、`schema/`、README 已写。MDX、Anki 未做 |
 | 例句 | ✅ 前 1 万词 + 全部 A1–C1 词，每个义项 1 句（29,034 条，Opus 写 + Opus 审），见 §0「例句层 v1 完成」。短语层例句未做 |
-| 质量抽检 | ✅ v0.10.0：Fable 按更严口径（audit-v2）抽 2,100 条，含例句和繁体，报告 `reports/quality-0.10.0.md`；v0.9.0 的旧报告保留。例句繁体已在抽检后由 Sonnet 逐句校对（改 1,604 句，X01–X12，`hant.py make-ex`）。下一步候选：简释层冷僻术语审核（major 4%） |
+| 质量抽检 | ✅ v0.10.0：Fable 按更严口径（audit-v2）抽 2,100 条，含例句和繁体，报告 `reports/quality-0.10.0.md`；v0.9.0 的旧报告保留。例句繁体已在抽检后由 Sonnet 逐句校对（改 1,604 句，X01–X12，`hant.py make-ex`）。 |
+| 简释层审核 | ✅ 完成（2026-11-21）：`scripts/gloss_review.py` + `prompts/gloss-review.md`，Opus 逐条审 51,159 个义项（G001–G026，每块 2,000），只输出要改/要删的行。试点 G002 改 29 条（1.5%）。**复数等变形不删**（试点删了 7 个拉丁复数，已撤回并改了规则）。26 块全部审完：改 423 条、删 14 个拼写错误词头（glossapharyngeal、irridentism 等），每块约 0.7% 的 5 小时窗口。**召回率低**：抽检查出的 12 条错误里，审核只改到 7 条，而且恰好都是 prompt 里举过的例子；另外 5 条（intertill、mezerein、packless、parapsis、torfaceous）是我按抽检结论手工追加到 reviewer.txt 的。所以 gloss 标 reviewed=true，confidence 仍为 low。想再提高只能换模型（Fable）再审一轮，或不给「不确定就别改」的限制。 |
 | git | ✅ 2026-11-18 首次提交（work/raw、sources、headwords*.jsonl、selected.jsonl 不入库，见 .gitignore） |
 
 批次顺序 = 选词顺序：B0001–B0306 ≈ 前 1000 + 主池（常用到中频），B0307 起为尾部罕见/专业词（几乎全是 K2）。

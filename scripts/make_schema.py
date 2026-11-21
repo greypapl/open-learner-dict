@@ -41,7 +41,7 @@ SCHEMAS = {
     'gloss': obj({
         'id': S, 'word': S, 'layer': {'enum': ['gloss']}, 'zipf': N, 'zipf_source': {'enum': ['wordfreq', 'level-estimate', 'coca-estimate']},
         'senses': {'type': 'array', 'items': obj({'sense_id': S, 'pos': {'enum': POS}, 'zh': S, 'zh_hant': S, 'register': REG})},
-        'kid_safe': B, 'confidence': {'enum': ['low']}, 'reviewed': B, 'meta': META}),
+        'kid_safe': B, 'confidence': {'enum': ['low', 'medium']}, 'reviewed': B, 'meta': META}),
     'proper': obj({
         'id': {'type': 'string', 'pattern': r'^p_'}, 'word': S, 'display': S, 'layer': {'enum': ['proper']}, 'zipf': N,
         'names': {'type': 'array', 'items': obj({

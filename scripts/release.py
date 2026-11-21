@@ -185,13 +185,25 @@ for r in load('proper-common.jsonl'):
 if (M / 'phrase-solid.jsonl').exists():  # 短语层里其实应连写或加连字符的词（double-check）：主词典没有的转进简释层
     for r in load('phrase-solid.jsonl'):
         gloss.append({'id': 'x_' + slug(r['solid_form']), 'word': r['solid_form'], 'source': 'phrase-solid', 'flags': r['flags'], 'senses': r['senses']})
+# 简释层审核（scripts/gloss_review.py → work/merged/gloss-review.jsonl）：改义项、删词条、记录审过的词条
+GFIX, GDEL, GREV = {}, set(), set()
+if (M / 'gloss-review.jsonl').exists():
+    for g in load('gloss-review.jsonl'):
+        if 'sense_id' in g:
+            GFIX[g['sense_id']] = g
+        elif 'delete' in g:
+            GDEL.add(g['delete'])
+        else:
+            GREV = set(g['reviewed_ids'])
 out_gloss, seen = [], set()
 for r in gloss:
-    if r['word'].lower() in core_lower or r['word'].lower() in seen:
-        continue  # 主词典已有的不重复收
+    if r['word'].lower() in core_lower or r['word'].lower() in seen or r['id'] in GDEL:
+        continue  # 主词典已有的不重复收；审核判定不是真词的删掉
     seen.add(r['word'].lower())
     senses = []
     for i, s in enumerate(r['senses'], 1):
+        if f'{r["id"]}.{i}' in GFIX:
+            s = dict(s, pos=GFIX[f'{r["id"]}.{i}']['pos'], zh=GFIX[f'{r["id"]}.{i}']['zh'])
         if s['pos'] not in POS:
             die(f'gloss {r["word"]} 词性非法')
         z = zh_str(s['zh'])
@@ -200,8 +212,9 @@ for r in gloss:
     est = multi_tok(r['word'])
     out_gloss.append({'id': r['id'], 'word': r['word'], 'layer': 'gloss', 'zipf': min(gz, LEVEL_ZIPF['C2']) if est else gz,
                       'zipf_source': 'level-estimate' if est else 'wordfreq',
-                      'senses': senses, 'kid_safe': 'nokid' not in r['flags'], 'confidence': 'low', 'reviewed': False,
-                      'meta': {'source': r['source']}})
+                      'senses': senses, 'kid_safe': 'nokid' not in r['flags'],
+                      'confidence': 'low', 'reviewed': r['id'] in GREV,  # 审过但召回率低（独立抽检的错只改到一半），可信度仍标 low
+                      'meta': {'source': r['source'], **({'review': 'gloss-review-v1'} if r['id'] in GREV else {})}})
 gloss_lower = {r['word'].lower() for r in out_gloss}
 
 # ---------- 专名层 ----------

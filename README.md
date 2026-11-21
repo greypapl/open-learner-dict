@@ -11,7 +11,7 @@ Open English–Chinese learner's dictionary: 86,851 fully written headwords plus
 | 层 | 条数 | 说明 |
 |---|---|---|
 | 主词典 core | 86,851 词，105,257 个义项 | 中文释义、英文简释、美英音标、音节、词族、CEFR 级别、考试标签、是否适合儿童和游戏 |
-| 简释 gloss | 50,983 | 冷僻词的一行中文简释（未审核） |
+| 简释 gloss | 50,969 | 冷僻词的一行中文简释（审核过一轮，仍仅供参考） |
 | 专名 proper | 12,954 | 地名、人名、品牌、机构缩写的中文名（未审核） |
 | 短语 phrases | 13,153 | 短语动词、习语、固定短语、分写复合词 |
 | 搭配 collocations | 5,016 | make a decision、heavy rain 这类强搭配 |

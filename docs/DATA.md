@@ -120,7 +120,7 @@ SELECT c.collocation, c.zh FROM collocation_headwords h JOIN collocations c ON c
 - 没有人工校对；级别、冒犯程度都是模型判断。
 - 发现的错误记在 `data/errata.jsonl`，每次发布时自动应用。
 - 例句覆盖前 1 万名和全部 A1–C1 的词，排名 1 万以后的 C2 词没有；短语层还没有例句。同义词、反义词、发音音频都还没有。
-- gloss 和 proper 两层未经审核，建议在界面上标明「仅供参考」。
+- gloss 层经过一轮 Opus 审核（`reviewed=true`，改 423 条、删 14 个拼写错误的词头），但审核偏保守：独立抽检查出的 12 条错误里它只主动改到 7 条（其余 5 条是人工按抽检结果补改的），所以估计仍有约 2–3% 的冷僻术语译名不准，`confidence` 仍为 low。proper 层未经审核。两层都建议在界面上标明「仅供参考」。
 - `zh` 是大陆用语和译名（软件、奥巴马）；台湾用语见 `zh_hant`。
 - 主词典 86,851 条里约 7.2 万条是 C2 级的罕见词，学习类应用通常只需要 `rank` 靠前或 `level` ≤ C1 的部分。
 

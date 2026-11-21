@@ -78,7 +78,8 @@
     },
     "confidence": {
       "enum": [
-        "low"
+        "low",
+        "medium"
       ]
     },
     "reviewed": {

@@ -1,0 +1,1159 @@
+x_photoshoots.1 | photoshoots | n. | 写真拍摄, 摄影拍摄 | -
+x_pincers.1 | pincers | n. | 钳子, 螯 | -
+x_prepper.1 | prepper | n. | 末日生存准备者 | informal
+x_protozoa.1 | protozoa | n. | 原生动物 | domain:生物
+x_prunus.1 | prunus | n. | 李属 | domain:生物
+x_shapeshifting.1 | shapeshifting | n. | 变形, 变身 | -
+x_shawarma.1 | shawarma | n. | 沙威玛, 中东烤肉卷 | -
+x_signups.1 | signups | n. | 注册, 报名 | -
+x_subsp.1 | subsp | abbr. | 亚种 | domain:生物
+x_warmups.1 | warmups | n. | 热身 | -
+x_bachata.1 | bachata | n. | 巴恰塔舞曲 | domain:音乐
+x_bookmaking.1 | bookmaking | n. | 赌注登记 | -
+x_chanson.1 | chanson | n. | 香颂 | -
+x_chatrooms.1 | chatrooms | n. | 聊天室 | -
+x_churros.1 | churros | n. | 西班牙油条 | -
+x_compositing.1 | compositing | n. | 合成 | domain:计算机
+x_crossbody.1 | crossbody | adj. | 斜挎的 | -
+x_daiquiri.1 | daiquiri | n. | 代基里鸡尾酒 | -
+x_dropship.1 | dropship | v. | 代发货 | domain:商业
+x_fanclub.1 | fanclub | n. | 粉丝俱乐部, 球迷会 | -
+x_fanfics.1 | fanfics | n. | 同人小说 | informal
+x_fanservice.1 | fanservice | n. | 粉丝福利 | informal
+x_fixings.1 | fixings | n. | 配料, 配菜 | us
+x_flatters.1 | flatters | v. | 奉承, 讨好 | -
+x_hiragana.1 | hiragana | n. | 平假名 | -
+x_homos.1 | homos | n. | 同性恋者 | offensive-strong
+x_layups.1 | layups | n. | 上篮 | domain:体育
+x_mafioso.1 | mafioso | n. | 黑手党成员 | -
+x_mahalo.1 | mahalo | int. | 谢谢 | informal
+x_mycenaean.1 | mycenaean | adj. | 迈锡尼的 | -
+x_newfangled.1 | newfangled | adj. | 新式的, 新奇的 | -
+x_nutjob.1 | nutjob | n. | 疯子 | informal
+x_ohana.1 | ohana | n. | 家人 | informal
+x_pitstop.1 | pitstop | n. | 进站检修 | domain:体育
+x_quesadillas.1 | quesadillas | n. | 墨西哥奶酪馅饼 | -
+x_quranic.1 | quranic | adj. | 古兰经的 | -
+x_reveled.1 | reveled | v. | 狂欢, 陶醉于 | us
+x_shhhhh.1 | shhhhh | int. | 嘘 | informal
+x_shitstorm.1 | shitstorm | n. | 一片混乱, 轩然大波 | slang
+x_superfan.1 | superfan | n. | 铁杆粉丝 | -
+x_thinners.1 | thinners | n. | 稀释剂 | -
+x_tonite.1 | tonite | adv. | 今晚 | informal
+x_whinging.1 | whinging | v. | 发牢骚, 抱怨 | uk, informal
+x_aftereffects.1 | aftereffects | n. | 后效, 后遗症 | -
+x_aggregators.1 | aggregators | n. | 聚合器 | -
+x_beanies.1 | beanies | n. | 无檐便帽 | -
+x_canuck.1 | canuck | n. | 加拿大人 | informal
+x_carolingian.1 | carolingian | adj. | 加洛林王朝的 | -
+x_changelog.1 | changelog | n. | 更新日志 | domain:计算机
+x_comorbid.1 | comorbid | adj. | 共病的 | domain:医学
+x_convos.1 | convos | n. | 对话 | informal
+x_crowdfunded.1 | crowdfunded | adj. | 众筹的 | -
+x_ewww.1 | ewww | int. | 呃 | informal
+x_fricken.1 | fricken | adj. | 该死的 | informal, offensive-mild
+x_homecare.1 | homecare | n. | 居家护理 | -
+x_hyperlinks.1 | hyperlinks | n. | 超链接 | -
+x_incan.1 | incan | adj. | 印加的 | -
+x_incentivized.1 | incentivized | v. | 激励 | us
+x_judean.1 | judean | adj. | 犹地亚的 | -
+x_jumbotron.1 | jumbotron | n. | 大屏幕 | -
+x_lightsabers.1 | lightsabers | n. | 光剑 | -
+x_mashups.1 | mashups | n. | 混搭作品 | -
+x_nanowires.1 | nanowires | n. | 纳米线 | -
+x_onboarding.1 | onboarding | n. | 入职培训, 新人引导 | -
+x_plexiglas.1 | plexiglas | n. | 有机玻璃 | -
+x_psionic.1 | psionic | adj. | 超能力的 | -
+x_refactoring.1 | refactoring | n. | 重构 | domain:计算机
+x_reimagine.1 | reimagine | v. | 重新构想 | -
+x_remainers.1 | remainers | n. | 留欧派 | uk
+x_spectrometers.1 | spectrometers | n. | 光谱仪 | -
+x_superyacht.1 | superyacht | n. | 超级游艇 | -
+x_synching.1 | synching | v. | 使同步 | informal
+x_trimmers.1 | trimmers | n. | 修剪器 | -
+x_uninstalling.1 | uninstalling | v. | 卸载 | domain:计算机
+x_ableist.1 | ableist | adj. | 歧视残障人士的 | -
+x_aircon.1 | aircon | n. | 空调 | uk, informal
+x_burpees.1 | burpees | n. | 波比跳 | -
+x_chatbots.1 | chatbots | n. | 聊天机器人 | -
+x_chilies.1 | chilies | n. | 辣椒 | -
+x_crosswalks.1 | crosswalks | n. | 人行横道 | -
+x_darknet.1 | darknet | n. | 暗网 | -
+x_empanadas.1 | empanadas | n. | 馅饼 | -
+x_inboxes.1 | inboxes | n. | 收件箱 | -
+x_interwebs.1 | interwebs | n. | 互联网 | informal
+x_judaic.1 | judaic | adj. | 犹太教的, 犹太人的 | -
+x_kayakers.1 | kayakers | n. | 皮划艇运动员 | -
+x_malbec.1 | malbec | n. | 马尔贝克葡萄酒 | domain:烹饪
+x_photobook.1 | photobook | n. | 相册, 写真集 | -
+x_pols.1 | pols | n. | 政客 | informal, us
+x_polyphenols.1 | polyphenols | n. | 多酚 | domain:化学
+x_qty.1 | qty | abbr. | 数量 | -
+x_ridesharing.1 | ridesharing | n. | 拼车服务, 网约车 | -
+x_shitshow.1 | shitshow | n. | 烂摊子 | slang, offensive-strong
+x_shoji.1 | shoji | n. | 障子, 日式拉门 | -
+x_urself.1 | urself | pron. | 你自己 | informal
+x_backdoors.1 | backdoors | n. | 后门 | domain:计算机
+x_biofilms.1 | biofilms | n. | 生物膜 | domain:生物
+x_campervan.1 | campervan | n. | 露营车 | uk
+x_christology.1 | christology | n. | 基督论 | domain:宗教
+x_cornerbacks.1 | cornerbacks | n. | 角卫 | domain:体育
+x_friendzoned.1 | friendzoned | adj. | 被发好人卡的 | slang
+x_geocaching.1 | geocaching | n. | 地理藏宝 | -
+x_iou.1 | iou | n. | 借据 | informal
+x_islamization.1 | islamization | n. | 伊斯兰化 | -
+x_lawmaking.1 | lawmaking | n. | 立法 | -
+x_microservices.1 | microservices | n. | 微服务 | domain:计算机
+x_oxfords.1 | oxfords | n. | 牛津鞋 | -
+x_reposts.1 | reposts | v. | 转发 | informal
+x_shoujo.1 | shoujo | n. | 少女漫画 | -
+x_wagyu.1 | wagyu | n. | 和牛 | domain:烹饪
+x_yuppies.1 | yuppies | n. | 雅皮士 | -
+x_ahhhhhh.1 | ahhhhhh | int. | 啊 | informal
+x_carmelite.1 | carmelite | n. | 加尔默罗会修士 | domain:宗教
+x_halfpipe.1 | halfpipe | n. | 半管道, 半管 | domain:体育
+x_helices.1 | helices | n. | 螺旋, 螺旋线 | -
+x_hijabs.1 | hijabs | n. | 希贾布, 穆斯林头巾 | -
+x_minibuses.1 | minibuses | n. | 小巴 | -
+x_mohammedan.1 | mohammedan | n. | 穆斯林 | dated, offensive-mild
+x_overqualified.1 | overqualified | adj. | 资历过高的 | -
+x_perspex.1 | perspex | n. | 有机玻璃 | uk
+x_revelers.1 | revelers | n. | 狂欢者 | -
+x_servicemembers.1 | servicemembers | n. | 军人 | -
+x_tokamak.1 | tokamak | n. | 托卡马克 | domain:物理
+x_transgenders.1 | transgenders | n. | 跨性别者 | -
+x_underwire.1 | underwire | n. | 钢圈 | -
+x_vcrs.1 | vcrs | abbr. | 录像机 | -
+x_zipline.1 | zipline | n. | 滑索 | -
+x_afaik.1 | afaik | abbr. | 据我所知 | informal
+x_angriest.1 | angriest | adj. | 最愤怒的 | -
+x_armbar.1 | armbar | n. | 锁臂 | domain:体育
+x_atvs.1 | atvs | abbr. | 全地形车 | -
+x_augustan.1 | augustan | adj. | 奥古斯都时代的 | -
+x_blacksmithing.1 | blacksmithing | n. | 铁匠活, 锻造 | -
+x_bootloader.1 | bootloader | n. | 引导加载程序 | domain:计算机
+x_brassica.1 | brassica | n. | 芸薹属 | domain:生物
+x_cisgender.1 | cisgender | adj. | 顺性别的 | -
+x_customizations.1 | customizations | n. | 定制, 自定义设置 | -
+x_doggystyle.1 | doggystyle | n. | 后背式 | slang, offensive-strong
+x_dwarven.1 | dwarven | adj. | 矮人的 | -
+x_gentlest.1 | gentlest | adj. | 最温柔的 | -
+x_halfling.1 | halfling | n. | 半身人 | -
+x_hegelian.1 | hegelian | adj. | 黑格尔的 | -
+x_holdouts.1 | holdouts | n. | 拒不让步者 | -
+x_humvees.1 | humvees | n. | 悍马军车 | -
+x_italianate.1 | italianate | adj. | 意大利风格的 | -
+x_keyring.1 | keyring | n. | 钥匙圈 | -
+x_luddite.1 | luddite | n. | 勒德分子 | -
+x_mesolithic.1 | mesolithic | adj. | 中石器时代的 | -
+x_micrornas.1 | micrornas | n. | 微小核糖核酸 | domain:生物
+x_qubits.1 | qubits | n. | 量子比特 | domain:物理
+x_racoon.1 | racoon | n. | 浣熊 | -
+x_repellant.1 | repellant | n. | 驱虫剂, 驱避剂 | -
+x_scaredy.1 | scaredy | n. | 胆小鬼 | informal
+x_shitbag.1 | shitbag | n. | 混蛋 | slang, offensive-strong
+x_tatami.1 | tatami | n. | 榻榻米 | -
+x_utopias.1 | utopias | n. | 乌托邦 | -
+x_yugoslavian.1 | yugoslavian | adj. | 南斯拉夫的 | -
+x_yugoslavian.2 | yugoslavian | n. | 南斯拉夫人 | -
+x_aaaaah.1 | aaaaah | int. | 啊 | informal
+x_abies.1 | abies | n. | 冷杉属 | domain:生物
+x_afterparty.1 | afterparty | n. | 派对后续摊 | informal
+x_allium.1 | allium | n. | 葱属植物 | domain:生物
+x_anyhoo.1 | anyhoo | adv. | 反正, 不管怎样 | informal
+x_bernese.1 | bernese | adj. | 伯尔尼的 | -
+x_bokeh.1 | bokeh | n. | 焦外成像, 背景虚化 | domain:计算机
+x_bolivarian.1 | bolivarian | adj. | 玻利瓦尔的 | -
+x_burgundian.1 | burgundian | adj. | 勃艮第的 | -
+x_burgundian.2 | burgundian | n. | 勃艮第人 | -
+x_carburetors.1 | carburetors | n. | 化油器 | -
+x_cartoony.1 | cartoony | adj. | 卡通风格的 | informal
+x_declutter.1 | declutter | v. | 整理, 清理杂物 | -
+x_disproven.1 | disproven | adj. | 已被证伪的 | -
+x_extracurriculars.1 | extracurriculars | n. | 课外活动 | -
+x_forwarder.1 | forwarder | n. | 货运代理, 转发者 | -
+x_mislabeled.1 | mislabeled | adj. | 标签错误的 | -
+x_neckties.1 | neckties | n. | 领带 | -
+x_omelets.1 | omelets | n. | 煎蛋卷 | -
+x_ooops.1 | ooops | int. | 哎呀 | informal
+x_parthian.1 | parthian | adj. | 帕提亚的 | -
+x_parthian.2 | parthian | n. | 帕提亚人 | -
+x_pervs.1 | pervs | n. | 变态 | slang, offensive-mild
+x_rajasthani.1 | rajasthani | adj. | 拉贾斯坦邦的 | -
+x_rajasthani.2 | rajasthani | n. | 拉贾斯坦人 | -
+x_rawr.1 | rawr | int. | 嗷呜 | informal
+x_rideshare.1 | rideshare | n. | 拼车, 顺风车 | -
+x_satyagraha.1 | satyagraha | n. | 非暴力不合作运动 | -
+x_setae.1 | setae | n. | 刚毛 | domain:生物
+x_shitfaced.1 | shitfaced | adj. | 烂醉的 | slang, offensive-strong
+x_steelmaking.1 | steelmaking | n. | 炼钢 | -
+x_taiko.1 | taiko | n. | 太鼓 | domain:音乐
+x_tased.1 | tased | v. | 用电击枪击倒 | -
+x_timezones.1 | timezones | n. | 时区 | -
+x_unitarians.1 | unitarians | n. | 一位论者 | -
+x_vibrio.1 | vibrio | n. | 弧菌 | domain:生物
+x_whooo.1 | whooo | int. | 哇哦 | informal
+x_amharic.1 | amharic | n. | 阿姆哈拉语 | domain:语言
+x_arthouse.1 | arthouse | adj. | 艺术电影的 | -
+x_autocomplete.1 | autocomplete | n. | 自动补全 | domain:计算机
+x_beeb.1 | beeb | n. | 英国广播公司 | informal, uk
+x_bluer.1 | bluer | adj. | 更蓝的 | -
+x_cucks.1 | cucks | n. | 戴绿帽者 | slang, offensive-strong
+x_customisable.1 | customisable | adj. | 可定制的 | uk
+x_damnedest.1 | damnedest | n. | 最大努力 | informal
+x_dixieland.1 | dixieland | n. | 迪克西兰爵士乐 | domain:音乐
+x_englishwoman.1 | englishwoman | n. | 英国女人 | -
+x_floodwater.1 | floodwater | n. | 洪水 | -
+x_freekick.1 | freekick | n. | 任意球 | domain:体育
+x_gorgonzola.1 | gorgonzola | n. | 戈贡佐拉奶酪 | domain:烹饪
+x_grenache.1 | grenache | n. | 歌海娜葡萄 | domain:烹饪
+x_kindhearted.1 | kindhearted | adj. | 好心的 | -
+x_ladybugs.1 | ladybugs | n. | 瓢虫 | -
+x_mesoamerican.1 | mesoamerican | adj. | 中美洲的 | -
+x_mesoamerican.2 | mesoamerican | n. | 中美洲人 | -
+x_misspellings.1 | misspellings | n. | 拼写错误 | -
+x_mmmmmm.1 | mmmmmm | int. | 嗯 | informal
+x_naoh.1 | naoh | n. | 氢氧化钠 | domain:化学
+x_nooooooo.1 | nooooooo | int. | 不 | informal
+x_officinalis.1 | officinalis | adj. | 药用的 | domain:生物
+x_phthalates.1 | phthalates | n. | 邻苯二甲酸盐 | domain:化学
+x_plushie.1 | plushie | n. | 毛绒玩具 | informal
+x_recreationally.1 | recreationally | adv. | 作为消遣地 | -
+x_riemannian.1 | riemannian | adj. | 黎曼的 | domain:数学
+x_rubes.1 | rubes | n. | 乡巴佬 | informal
+x_safehouse.1 | safehouse | n. | 安全屋 | -
+x_schlong.1 | schlong | n. | 阴茎 | slang, offensive-strong
+x_shoegaze.1 | shoegaze | n. | 盯鞋摇滚 | domain:音乐
+x_showboating.1 | showboating | n. | 出风头, 炫耀 | -
+x_spammy.1 | spammy | adj. | 垃圾信息的 | informal
+x_strategizing.1 | strategizing | n. | 策略制定 | -
+x_telecasts.1 | telecasts | n. | 电视转播 | -
+x_telemarketers.1 | telemarketers | n. | 电话推销员 | -
+x_timestamps.1 | timestamps | n. | 时间戳 | domain:计算机
+x_ughhh.1 | ughhh | int. | 呃 | informal
+x_vloggers.1 | vloggers | n. | 视频博主 | -
+x_voiceovers.1 | voiceovers | n. | 画外音 | -
+x_wayyyyy.1 | wayyyyy | adv. | 非常 | informal
+x_yeesh.1 | yeesh | int. | 哎呀 | informal
+x_yokai.1 | yokai | n. | 妖怪=日本传说 | -
+x_zamboni.1 | zamboni | n. | 冰场整冰车 | -
+x_afrobeat.1 | afrobeat | n. | 非洲节拍 | domain:音乐
+x_alveoli.1 | alveoli | n. | 肺泡 | domain:医学
+x_awardees.1 | awardees | n. | 获奖者 | -
+x_basmati.1 | basmati | n. | 印度香米 | domain:烹饪
+x_bbqs.1 | bbqs | n. | 烧烤 | informal
+x_choreo.1 | choreo | n. | 编舞 | informal
+x_cornhole.1 | cornhole | n. | 沙包投掷游戏 | us
+x_effin.1 | effin | adj. | 他妈的 | slang, offensive-mild
+x_emphases.1 | emphases | n. | 强调, 重点 | -
+x_focusses.1 | focusses | v. | 聚焦 | uk
+x_genies.1 | genies | n. | 灯神, 精灵 | -
+x_goaltenders.1 | goaltenders | n. | 守门员 | domain:体育
+x_gules.1 | gules | n. | 纹章红色 | domain:历史
+x_hanoverian.1 | hanoverian | adj. | 汉诺威的 | -
+x_hanoverian.2 | hanoverian | n. | 汉诺威人 | -
+x_hattrick.1 | hattrick | n. | 帽子戏法 | domain:体育
+x_isosceles.1 | isosceles | adj. | 等腰的 | domain:数学
+x_kickstarted.1 | kickstarted | v. | 启动, 推动 | -
+x_laggy.1 | laggy | adj. | 卡顿的 | informal
+x_percents.1 | percents | n. | 百分比 | -
+x_popups.1 | popups | n. | 弹窗 | domain:计算机
+x_pssst.1 | pssst | int. | 嘘 | informal
+x_supercomputing.1 | supercomputing | n. | 超级计算 | domain:计算机
+x_typeset.1 | typeset | v. | 排版, 排字 | -
+x_uid.1 | uid | abbr. | 用户标识, 唯一标识符 | domain:计算机
+x_unfollowed.1 | unfollowed | v. | 取消关注 | informal
+x_vapes.1 | vapes | n. | 电子烟 | -
+x_vapes.2 | vapes | v. | 吸电子烟 | informal
+x_anesthesiologists.1 | anesthesiologists | n. | 麻醉师, 麻醉医师 | -
+x_bball.1 | bball | n. | 篮球 | informal
+x_bolded.1 | bolded | v. | 加粗, 用粗体显示 | -
+x_byelection.1 | byelection | n. | 补缺选举, 补选 | uk, domain:政治
+x_comorbidities.1 | comorbidities | n. | 合并症, 共病 | domain:医学
+x_costumers.1 | costumers | n. | 服装师, 服装出租商 | -
+x_eugh.1 | eugh | int. | 呃, 咦 | informal
+x_fanbases.1 | fanbases | n. | 粉丝群体, 粉丝群 | -
+x_fluoro.1 | fluoro | adj. | 荧光的 | informal
+x_foodbank.1 | foodbank | n. | 食物银行, 食品救济站 | -
+x_freewill.1 | freewill | n. | 自由意志 | -
+x_gryphon.1 | gryphon | n. | 狮鹫 | -
+x_helpings.1 | helpings | n. | 一份食物, 一客 | -
+x_inhouse.1 | inhouse | adj. | 内部的, 公司内部的 | -
+x_instated.1 | instated | v. | 任命, 使就职 | -
+x_ious.1 | ious | n. | 借据 | -
+x_knoweth.1 | knoweth | v. | 知道 | literary
+x_lmk.1 | lmk | abbr. | 告诉我一声 | informal
+x_maybes.1 | maybes | n. | 可能性, 不确定的事 | -
+x_meltwater.1 | meltwater | n. | 融水 | -
+x_northmen.1 | northmen | n. | 北欧人, 维京人 | -
+x_papillae.1 | papillae | n. | 乳头, 乳突 | domain:医学
+x_pummeling.1 | pummeling | n. | 猛击, 痛打 | -
+x_refried.1 | refried | adj. | 再炸的, 反复煎炸的 | -
+x_sarees.1 | sarees | n. | 纱丽 | -
+x_telecommuting.1 | telecommuting | n. | 远程办公 | -
+x_terroir.1 | terroir | n. | 风土条件 | domain:烹饪
+x_waterslide.1 | waterslide | n. | 水滑梯 | -
+x_adulting.1 | adulting | n. | 履行成年人责任 | informal
+x_args.1 | args | abbr. | 参数 | domain:计算机
+x_b-tech.1 | b.tech | abbr. | 技术学士 | -
+x_babysat.1 | babysat | v. | 照看孩子, 当临时保姆 | -
+x_badder.1 | badder | adj. | 更坏的 | informal
+x_byob.1 | byob | abbr. | 自带酒水 | -
+x_coauthored.1 | coauthored | v. | 合著 | -
+x_collies.1 | collies | n. | 柯利犬 | -
+x_confectionary.1 | confectionary | n. | 糖果, 糖果店 | -
+x_crevasses.1 | crevasses | n. | 冰隙, 裂缝 | -
+x_czechoslovakian.1 | czechoslovakian | adj. | 捷克斯洛伐克的 | -
+x_czechoslovakian.2 | czechoslovakian | n. | 捷克斯洛伐克人 | -
+x_e-coli.1 | e.coli | abbr. | 大肠杆菌 | domain:生物
+x_fanciest.1 | fanciest | adj. | 最华丽的, 最高档的 | -
+x_gaijin.1 | gaijin | n. | 外国人 | informal
+x_gameshow.1 | gameshow | n. | 电视游戏节目 | -
+x_habibi.1 | habibi | n. | 亲爱的 | informal
+x_hardstyle.1 | hardstyle | n. | 硬风格电子舞曲 | domain:音乐
+x_indic.1 | indic | adj. | 印度语族的 | domain:语言
+x_menses.1 | menses | n. | 月经 | domain:医学
+x_monseigneur.1 | monseigneur | n. | 蒙席, 阁下 | formal
+x_paracord.1 | paracord | n. | 伞绳 | -
+x_patagonian.1 | patagonian | adj. | 巴塔哥尼亚的 | -
+x_podcasters.1 | podcasters | n. | 播客制作者 | -
+x_powerup.1 | powerup | n. | 强化道具 | domain:计算机
+x_reevaluated.1 | reevaluated | v. | 重新评估 | -
+x_rehabbing.1 | rehabbing | v. | 翻修, 康复治疗 | informal
+x_retroviruses.1 | retroviruses | n. | 逆转录病毒 | domain:生物
+x_shittier.1 | shittier | adj. | 更糟糕的 | offensive-strong
+x_thrifting.1 | thrifting | n. | 逛二手店淘货 | -
+x_timpani.1 | timpani | n. | 定音鼓 | domain:音乐
+x_touchscreens.1 | touchscreens | n. | 触摸屏 | -
+x_underreported.1 | underreported | adj. | 漏报的, 报道不足的 | -
+x_unfriended.1 | unfriended | v. | 取消好友 | -
+x_beatboxing.1 | beatboxing | n. | 口技打击乐 | -
+x_bettors.1 | bettors | n. | 赌客, 下注者 | -
+x_billeted.1 | billeted | v. | 使驻扎, 安排住宿 | -
+x_blairite.1 | blairite | n. | 布莱尔派人士 | domain:政治
+x_bluest.1 | bluest | adj. | 最蓝的 | -
+x_cloven.1 | cloven | adj. | 裂开的, 分趾的 | -
+x_cosplays.1 | cosplays | n. | 角色扮演, 变装 | -
+x_deadlifts.1 | deadlifts | n. | 硬拉 | domain:体育
+x_dickensian.1 | dickensian | adj. | 狄更斯式的 | -
+x_dollies.1 | dollies | n. | 玩具娃娃, 小推车 | -
+x_felted.1 | felted | v. | 毡化, 制成毡 | -
+x_inspo.1 | inspo | n. | 灵感 | informal
+x_jetlag.1 | jetlag | n. | 时差反应 | -
+x_jewelery.1 | jewelery | n. | 珠宝 | -
+x_lmaoooo.1 | lmaoooo | int. | 笑死 | slang
+x_milliliters.1 | milliliters | n. | 毫升 | -
+x_nanites.1 | nanites | n. | 纳米机器人 | -
+x_nonbelievers.1 | nonbelievers | n. | 不信者, 无信仰者 | -
+x_pdas.1 | pdas | abbr. | 个人数字助理 | -
+x_personalisation.1 | personalisation | n. | 个性化 | uk
+x_recordkeeping.1 | recordkeeping | n. | 记录保存 | -
+x_runneth.1 | runneth | v. | 流动 | literary
+x_sportsbook.1 | sportsbook | n. | 体育博彩公司 | -
+x_stoopid.1 | stoopid | adj. | 愚蠢的 | slang
+x_tapings.1 | tapings | n. | 录制 | -
+x_tgif.1 | tgif | abbr. | 感谢上帝周五到了 | informal
+x_tiddies.1 | tiddies | n. | 胸部 | slang, offensive-mild
+x_tollywood.1 | tollywood | n. | 托莱坞 | informal
+x_tranches.1 | tranches | n. | 份额, 档次 | domain:金融
+x_transexual.1 | transexual | n. | 变性人 | -
+x_ughh.1 | ughh | int. | 呃 | informal
+x_underclassmen.1 | underclassmen | n. | 低年级学生 | -
+x_vlogging.1 | vlogging | n. | 拍视频日志 | -
+x_walruses.1 | walruses | n. | 海象 | -
+x_americanization.1 | americanization | n. | 美国化 | -
+x_amerindian.1 | amerindian | n. | 美洲印第安人 | -
+x_amerindian.2 | amerindian | adj. | 美洲印第安人的 | -
+x_aneurism.1 | aneurism | n. | 动脉瘤 | domain:医学
+x_bostonian.1 | bostonian | n. | 波士顿人 | -
+x_bostonian.2 | bostonian | adj. | 波士顿的 | -
+x_catenin.1 | catenin | n. | 连环蛋白 | domain:生物
+x_colorways.1 | colorways | n. | 配色方案 | -
+x_dingoes.1 | dingoes | n. | 澳洲野犬 | -
+x_forewing.1 | forewing | n. | 前翅 | domain:生物
+x_glitched.1 | glitched | v. | 出故障, 出小毛病 | informal
+x_homescreen.1 | homescreen | n. | 主屏幕 | -
+x_jalapenos.1 | jalapenos | n. | 墨西哥辣椒 | -
+x_leis.1 | leis | n. | 花环 | -
+x_livestreams.1 | livestreams | n. | 直播 | -
+x_livestreams.2 | livestreams | v. | 直播 | -
+x_lockscreen.1 | lockscreen | n. | 锁屏 | -
+x_lounger.1 | lounger | n. | 躺椅 | -
+x_marihuana.1 | marihuana | n. | 大麻 | -
+x_mojitos.1 | mojitos | n. | 莫吉托鸡尾酒 | -
+x_oopsie.1 | oopsie | int. | 哎呀 | informal
+x_parolees.1 | parolees | n. | 假释犯 | -
+x_plushies.1 | plushies | n. | 毛绒玩具 | informal
+x_renminbi.1 | renminbi | n. | 人民币 | -
+x_stenciled.1 | stenciled | v. | 用模板印刷 | -
+x_tipi.1 | tipi | n. | 圆锥形帐篷 | -
+x_unelectable.1 | unelectable | adj. | 不可能当选的 | -
+x_upvote.1 | upvote | n. | 点赞 | -
+x_upvote.2 | upvote | v. | 点赞, 赞同 | informal
+x_watchmaking.1 | watchmaking | n. | 制表业 | -
+x_yearnings.1 | yearnings | n. | 渴望, 向往 | -
+x_accumbens.1 | accumbens | n. | 伏隔核 | domain:医学
+x_blest.1 | blest | adj. | 受祝福的 | literary
+x_bullcrap.1 | bullcrap | n. | 废话, 胡扯 | slang, offensive-mild
+x_calmest.1 | calmest | adj. | 最平静的 | -
+x_calvinistic.1 | calvinistic | adj. | 加尔文主义的 | domain:宗教
+x_cyclocross.1 | cyclocross | n. | 越野自行车赛 | domain:体育
+x_deers.1 | deers | n. | 鹿 | -
+x_defencemen.1 | defencemen | n. | 后卫 | uk, domain:体育
+x_diasporic.1 | diasporic | adj. | 离散的, 散居的 | -
+x_haplogroup.1 | haplogroup | n. | 单倍群 | domain:生物
+x_likeminded.1 | likeminded | adj. | 志同道合的 | -
+x_mendelian.1 | mendelian | adj. | 孟德尔的 | domain:生物
+x_montenegrin.1 | montenegrin | adj. | 黑山的 | -
+x_montenegrin.2 | montenegrin | n. | 黑山人 | -
+x_multimeter.1 | multimeter | n. | 万用表 | domain:电子
+x_pentameter.1 | pentameter | n. | 五音步诗句 | domain:文学
+x_pilings.1 | pilings | n. | 桩, 桩基 | -
+x_portcullis.1 | portcullis | n. | 吊闸 | -
+x_reinvesting.1 | reinvesting | v. | 再投资 | -
+x_shitpost.1 | shitpost | n. | 垃圾帖 | slang, offensive-strong
+x_sportspeople.1 | sportspeople | n. | 运动员 | -
+x_straighteners.1 | straighteners | n. | 直发器 | -
+x_superbugs.1 | superbugs | n. | 超级细菌 | -
+x_transylvanian.1 | transylvanian | adj. | 特兰西瓦尼亚的 | -
+x_transylvanian.2 | transylvanian | n. | 特兰西瓦尼亚人 | -
+x_vapers.1 | vapers | n. | 电子烟使用者 | -
+x_armrests.1 | armrests | n. | 扶手 | -
+x_crewmember.1 | crewmember | n. | 机组人员, 船员 | -
+x_dialogs.1 | dialogs | n. | 对话, 对话框 | -
+x_diggings.1 | diggings | n. | 矿区, 挖掘地 | -
+x_fluidized.1 | fluidized | adj. | 流化的 | domain:化学
+x_fuckwit.1 | fuckwit | n. | 蠢货 | slang, offensive-strong
+x_fusilier.1 | fusilier | n. | 燧发枪兵 | domain:军事
+x_gauchos.1 | gauchos | n. | 高乔牧民 | -
+x_hijackings.1 | hijackings | n. | 劫持 | -
+x_homeware.1 | homeware | n. | 家居用品 | -
+x_housecleaning.1 | housecleaning | n. | 大扫除 | -
+x_hypervisor.1 | hypervisor | n. | 虚拟机监控器 | domain:计算机
+x_kindergartners.1 | kindergartners | n. | 幼儿园小朋友 | -
+x_levantine.1 | levantine | adj. | 黎凡特的 | -
+x_levantine.2 | levantine | n. | 黎凡特人 | -
+x_nestlings.1 | nestlings | n. | 雏鸟 | -
+x_nightlight.1 | nightlight | n. | 小夜灯 | -
+x_phytophthora.1 | phytophthora | n. | 疫霉 | domain:生物
+x_pili.1 | pili | n. | 菌毛 | domain:生物
+x_placeholders.1 | placeholders | n. | 占位符 | -
+x_plateaued.1 | plateaued | v. | 趋于平稳 | -
+x_roomies.1 | roomies | n. | 室友 | informal
+x_trialling.1 | trialling | v. | 试验, 试用 | uk
+x_trumpeters.1 | trumpeters | n. | 小号手, 吹喇叭者 | -
+x_tsundere.1 | tsundere | n. | 傲娇 | informal
+x_tunneled.1 | tunneled | v. | 挖隧道, 开凿隧道 | -
+x_tweeps.1 | tweeps | n. | 推特用户 | informal
+x_wheelies.1 | wheelies | n. | 后轮着地特技 | -
+x_whiney.1 | whiney | adj. | 爱发牢骚的, 哭哭啼啼的 | informal
+x_yodeling.1 | yodeling | n. | 约德尔唱法 | -
+x_ziplock.1 | ziplock | adj. | 自封的, 拉链式封口的 | -
+x_aaahhh.1 | aaahhh | int. | 啊 | informal
+x_armories.1 | armories | n. | 军械库, 兵工厂 | -
+x_backstories.1 | backstories | n. | 背景故事 | -
+x_ballplayers.1 | ballplayers | n. | 球员 | -
+x_basemen.1 | basemen | n. | 垒手 | domain:体育
+x_botnets.1 | botnets | n. | 僵尸网络 | domain:计算机
+x_branchlets.1 | branchlets | n. | 小枝 | -
+x_breakdancing.1 | breakdancing | n. | 霹雳舞 | -
+x_catchup.1 | catchup | n. | 番茄酱 | us
+x_choicest.1 | choicest | adj. | 最精选的, 最上等的 | -
+x_cleantech.1 | cleantech | n. | 清洁技术 | domain:商业
+x_congratz.1 | congratz | int. | 恭喜 | slang
+x_copernican.1 | copernican | adj. | 哥白尼的 | -
+x_dgaf.1 | dgaf | abbr. | 才不在乎 | slang, offensive-strong
+x_douchey.1 | douchey | adj. | 讨厌的, 可恶的 | slang, offensive-mild
+x_drownings.1 | drownings | n. | 溺水事件 | -
+x_echinacea.1 | echinacea | n. | 紫锥菊 | domain:生物
+x_egyptology.1 | egyptology | n. | 埃及学 | -
+x_eying.1 | eying | v. | 注视, 打量 | -
+x_fangirls.1 | fangirls | n. | 女粉丝 | informal
+x_giardia.1 | giardia | n. | 贾第虫 | domain:医学
+x_groveling.1 | groveling | v. | 卑躬屈膝, 谄媚 | -
+x_headcanon.1 | headcanon | n. | 个人设定 | informal
+x_hoardings.1 | hoardings | n. | 广告牌, 临时围板 | uk
+x_hunny.1 | hunny | n. | 亲爱的, 宝贝 | informal
+x_infosec.1 | infosec | n. | 信息安全 | informal, domain:计算机
+x_judgy.1 | judgy | adj. | 爱评判人的 | informal
+x_killswitch.1 | killswitch | n. | 紧急切断开关 | domain:计算机
+x_lockdowns.1 | lockdowns | n. | 封锁, 封城 | -
+x_longlist.1 | longlist | n. | 初选名单 | -
+x_mansplaining.1 | mansplaining | n. | 男式说教 | informal
+x_monounsaturated.1 | monounsaturated | adj. | 单不饱和的 | domain:化学
+x_natter.1 | natter | v. | 闲聊 | uk, informal
+x_ohhhhhh.1 | ohhhhhh | int. | 哦 | informal
+x_raku.1 | raku | n. | 乐烧陶器 | -
+x_shorebirds.1 | shorebirds | n. | 滨鸟 | -
+x_showtimes.1 | showtimes | n. | 放映时间, 演出时间 | -
+x_softwares.1 | softwares | n. | 软件 | -
+x_striae.1 | striae | n. | 条纹, 纹理 | -
+x_sucka.1 | sucka | n. | 笨蛋, 傻瓜 | slang
+x_teehee.1 | teehee | int. | 嘻嘻 | informal
+x_tunings.1 | tunings | n. | 调音, 调谐 | -
+x_whaaat.1 | whaaat | int. | 什么 | informal
+x_asswipe.1 | asswipe | n. | 蠢货 | slang, offensive-strong
+x_badasses.1 | badasses | n. | 狠角色, 硬汉 | slang
+x_ballparks.1 | ballparks | n. | 棒球场 | -
+x_brome.1 | brome | n. | 雀麦 | domain:生物
+x_chainmail.1 | chainmail | n. | 锁子甲 | -
+x_chateaux.1 | chateaux | n. | 城堡, 酒庄 | -
+x_crowdfund.1 | crowdfund | v. | 众筹 | -
+x_cybercriminals.1 | cybercriminals | n. | 网络罪犯 | -
+x_dressmaking.1 | dressmaking | n. | 女装裁剪 | -
+x_earnt.1 | earnt | v. | 赚得 | uk
+x_epiphanies.1 | epiphanies | n. | 顿悟, 领悟 | -
+x_framerate.1 | framerate | n. | 帧率 | -
+x_frenchwoman.1 | frenchwoman | n. | 法国女人 | -
+x_gametime.1 | gametime | n. | 比赛时间 | -
+x_gpas.1 | gpas | abbr. | 平均绩点 | -
+x_homewares.1 | homewares | n. | 家居用品 | -
+x_maoism.1 | maoism | n. | 毛泽东思想, 毛主义 | -
+x_mfer.1 | mfer | abbr. | 混蛋 | slang, offensive-strong
+x_mres.1 | mres | abbr. | 即食军粮 | domain:军事
+x_multiplexes.1 | multiplexes | n. | 多厅影院 | -
+x_neoconservatives.1 | neoconservatives | n. | 新保守主义者 | -
+x_nerfed.1 | nerfed | adj. | 被削弱的 | slang
+x_persimmons.1 | persimmons | n. | 柿子 | -
+x_phablet.1 | phablet | n. | 平板手机 | -
+x_rhenish.1 | rhenish | adj. | 莱茵河的 | -
+x_sniveling.1 | sniveling | adj. | 哭哭啼啼的, 抽鼻涕的 | -
+x_subletting.1 | subletting | n. | 转租 | -
+x_sulfides.1 | sulfides | n. | 硫化物 | domain:化学
+x_thnx.1 | thnx | int. | 谢谢 | informal
+x_upcycled.1 | upcycled | adj. | 升级再造的 | -
+x_virtualized.1 | virtualized | adj. | 虚拟化的 | domain:计算机
+x_webtoon.1 | webtoon | n. | 网络漫画 | -
+x_whacky.1 | whacky | adj. | 古怪的, 疯狂的 | informal
+x_amiright.1 | amiright | int. | 对吧 | slang
+x_b-c-e.1 | b.c.e | abbr. | 公元前 | formal
+x_boardgame.1 | boardgame | n. | 桌游 | -
+x_creepypasta.1 | creepypasta | n. | 恐怖网络故事 | informal
+x_daoist.1 | daoist | n. | 道教徒 | -
+x_daoist.2 | daoist | adj. | 道教的 | -
+x_endorsers.1 | endorsers | n. | 代言人, 支持者 | -
+x_glowy.1 | glowy | adj. | 发光的 | informal
+x_heteronormative.1 | heteronormative | adj. | 异性恋常规的 | -
+x_kungfu.1 | kungfu | n. | 功夫 | -
+x_likelier.1 | likelier | adj. | 更可能的 | -
+x_linnean.1 | linnean | adj. | 林奈的 | -
+x_lipgloss.1 | lipgloss | n. | 唇彩 | -
+x_newsgroups.1 | newsgroups | n. | 新闻组 | domain:计算机
+x_obgyn.1 | obgyn | abbr. | 妇产科医生 | informal
+x_ooooooh.1 | ooooooh | int. | 哦, 哇 | informal
+x_papermaking.1 | papermaking | n. | 造纸 | -
+x_pentecostals.1 | pentecostals | n. | 五旬节派信徒 | domain:宗教
+x_pickpocketing.1 | pickpocketing | n. | 扒窃 | -
+x_potheads.1 | potheads | n. | 吸大麻者 | slang
+x_rapey.1 | rapey | adj. | 有性侵意味的 | slang
+x_shutup.1 | shutup | int. | 闭嘴 | informal
+x_sitewide.1 | sitewide | adj. | 全站的 | -
+x_sodomized.1 | sodomized | v. | 鸡奸, 肛交 | -
+x_supervillains.1 | supervillains | n. | 超级反派 | -
+x_wagnerian.1 | wagnerian | adj. | 瓦格纳的, 瓦格纳风格的 | domain:音乐
+x_weee.1 | weee | int. | 哇 | informal
+x_yeahs.1 | yeahs | int. | 是的, 好啊 | informal
+x_armagnac.1 | armagnac | n. | 雅文邑白兰地 | domain:烹饪
+x_asanas.1 | asanas | n. | 瑜伽体式 | -
+x_backbreaking.1 | backbreaking | adj. | 极其繁重的, 累断腰的 | -
+x_boardgames.1 | boardgames | n. | 桌游 | -
+x_bods.1 | bods | n. | 人, 家伙 | informal, uk
+x_burros.1 | burros | n. | 驴 | -
+x_bused.1 | bused | v. | 用巴士运送 | -
+x_catfishing.1 | catfishing | n. | 冒充身份网恋 | informal
+x_chavs.1 | chavs | n. | 小混混 | uk, slang, offensive-mild
+x_chowing.1 | chowing | v. | 大吃 | informal
+x_clipart.1 | clipart | n. | 剪贴画 | -
+x_commonwealths.1 | commonwealths | n. | 联邦 | -
+x_decisionmaking.1 | decisionmaking | n. | 决策 | -
+x_decluttering.1 | decluttering | n. | 整理, 断舍离 | -
+x_foraminifera.1 | foraminifera | n. | 有孔虫 | domain:生物
+x_froyo.1 | froyo | n. | 冷冻酸奶 | informal
+x_glaswegian.1 | glaswegian | n. | 格拉斯哥人 | -
+x_hardboiled.1 | hardboiled | adj. | 硬汉派的, 煮老的 | -
+x_hoorah.1 | hoorah | int. | 万岁 | -
+x_hotwire.1 | hotwire | v. | 用短接法发动 | -
+x_lancastrian.1 | lancastrian | adj. | 兰开斯特家族的 | -
+x_lothario.1 | lothario | n. | 登徒子, 花花公子 | -
+x_macaron.1 | macaron | n. | 马卡龙 | -
+x_matsuri.1 | matsuri | n. | 日本祭典 | -
+x_metamaterials.1 | metamaterials | n. | 超材料 | -
+x_mhmm.1 | mhmm | int. | 嗯哼, 嗯 | informal
+x_mockups.1 | mockups | n. | 样机, 模型 | -
+x_multigenerational.1 | multigenerational | adj. | 多代的 | -
+x_nietzschean.1 | nietzschean | adj. | 尼采的, 尼采哲学的 | -
+x_oregonians.1 | oregonians | n. | 俄勒冈人 | -
+x_pfff.1 | pfff | int. | 呸, 切 | informal
+x_religionists.1 | religionists | n. | 宗教信徒 | -
+x_sarcophagi.1 | sarcophagi | n. | 石棺 | -
+x_satori.1 | satori | n. | 顿悟 | domain:宗教
+x_screamo.1 | screamo | n. | 嘶吼摇滚 | domain:音乐
+x_sellouts.1 | sellouts | n. | 背叛者, 爆满的演出 | -
+x_shearling.1 | shearling | n. | 羊羔皮 | -
+x_spectrums.1 | spectrums | n. | 光谱 | -
+x_taters.1 | taters | n. | 土豆 | informal
+x_trumpism.1 | trumpism | n. | 特朗普主义 | -
+x_tumbleweeds.1 | tumbleweeds | n. | 风滚草 | -
+x_ube.1 | ube | n. | 紫山药 | domain:烹饪
+x_aahh.1 | aahh | int. | 啊 | informal
+x_arminian.1 | arminian | adj. | 阿民念主义的 | domain:宗教
+x_burnouts.1 | burnouts | n. | 精疲力竭的人 | informal
+x_creds.1 | creds | n. | 凭据, 信誉 | informal
+x_crybabies.1 | crybabies | n. | 爱哭鬼 | -
+x_frenchies.1 | frenchies | n. | 法国人 | informal
+x_functionalized.1 | functionalized | adj. | 功能化的 | domain:化学
+x_gatekeeping.1 | gatekeeping | n. | 把关, 设卡阻拦 | -
+x_gazans.1 | gazans | n. | 加沙居民 | -
+x_genderqueer.1 | genderqueer | n. | 非常规性别者 | -
+x_hahahahah.1 | hahahahah | int. | 哈哈哈 | informal
+x_hahahahahahaha.1 | hahahahahahaha | int. | 哈哈哈 | informal
+x_heheh.1 | heheh | int. | 嘿嘿 | informal
+x_holdovers.1 | holdovers | n. | 留任者, 遗留物 | -
+x_homemaking.1 | homemaking | n. | 持家, 家政 | -
+x_jerkoff.1 | jerkoff | n. | 混蛋 | slang, offensive-strong
+x_jetski.1 | jetski | n. | 水上摩托 | -
+x_lool.1 | lool | int. | 哈哈 | informal
+x_micromanaging.1 | micromanaging | v. | 事无巨细地管理 | -
+x_minifigures.1 | minifigures | n. | 迷你人偶 | -
+x_mofos.1 | mofos | n. | 混蛋 | slang, offensive-strong
+x_muggings.1 | muggings | n. | 抢劫 | -
+x_nays.1 | nays | n. | 反对票 | -
+x_parkinsons.1 | parkinsons | n. | 帕金森病 | domain:医学
+x_pavlovian.1 | pavlovian | adj. | 巴甫洛夫的 | -
+x_platonism.1 | platonism | n. | 柏拉图主义 | -
+x_pocketbooks.1 | pocketbooks | n. | 钱包, 袖珍书 | -
+x_preinstalled.1 | preinstalled | adj. | 预装的 | -
+x_rantings.1 | rantings | n. | 咆哮, 胡言乱语 | -
+x_roguelike.1 | roguelike | n. | 肉鸽游戏 | informal
+x_romanized.1 | romanized | adj. | 罗马化的 | -
+x_seedings.1 | seedings | n. | 种子排位 | -
+x_shuriken.1 | shuriken | n. | 手里剑 | -
+x_somebodies.1 | somebodies | n. | 大人物 | -
+x_speedrun.1 | speedrun | n. | 速通 | informal
+x_synched.1 | synched | v. | 同步 | informal
+x_tradeable.1 | tradeable | adj. | 可交易的 | -
+x_trotskyist.1 | trotskyist | n. | 托洛茨基主义者 | -
+x_tunisians.1 | tunisians | n. | 突尼斯人 | -
+x_tyrian.1 | tyrian | adj. | 提尔的 | literary
+x_wainscoting.1 | wainscoting | n. | 护墙板 | -
+x_walkies.1 | walkies | n. | 遛狗 | uk, informal
+x_weblogs.1 | weblogs | n. | 博客 | -
+x_wingsuit.1 | wingsuit | n. | 飞鼠装 | -
+x_aping.1 | aping | v. | 模仿 | -
+x_ascites.1 | ascites | n. | 腹水 | domain:医学
+x_britishness.1 | britishness | n. | 英国特性 | -
+x_bronies.1 | bronies | n. | 成年小马迷 | informal
+x_downtempo.1 | downtempo | n. | 舒缓电子乐 | domain:音乐
+x_ereader.1 | ereader | n. | 电子阅读器 | -
+x_feckin.1 | feckin | adj. | 该死的 | informal, offensive-mild
+x_gimmie.1 | gimmie | v. | 给我 | informal
+x_hangry.1 | hangry | adj. | 饿得发火的 | informal
+x_headbutting.1 | headbutting | n. | 头撞 | -
+x_headbutting.2 | headbutting | v. | 用头撞 | -
+x_healings.1 | healings | n. | 治愈, 痊愈 | -
+x_hermitian.1 | hermitian | adj. | 埃尔米特的 | domain:数学
+x_idolaters.1 | idolaters | n. | 偶像崇拜者 | -
+x_klansmen.1 | klansmen | n. | 白人至上团体成员 | -
+x_lederhosen.1 | lederhosen | n. | 皮短裤=巴伐利亚传统服装 | -
+x_livestreaming.1 | livestreaming | n. | 直播 | -
+x_lydian.1 | lydian | adj. | 吕底亚的 | -
+x_lydian.2 | lydian | adj. | 利底亚调式的 | domain:音乐
+x_marshaling.1 | marshaling | v. | 整理, 调集 | -
+x_modelers.1 | modelers | n. | 建模者, 模型制作者 | -
+x_nanobots.1 | nanobots | n. | 纳米机器人 | -
+x_nonreligious.1 | nonreligious | adj. | 无宗教信仰的 | -
+x_normies.1 | normies | n. | 普通人 | slang
+x_obvi.1 | obvi | adv. | 显然 | informal
+x_outran.1 | outran | v. | 跑得比...快, 超过 | -
+x_overconsumption.1 | overconsumption | n. | 过度消费 | -
+x_panniers.1 | panniers | n. | 驮篮, 侧挂包 | -
+x_phonecall.1 | phonecall | n. | 电话 | -
+x_promethean.1 | promethean | adj. | 普罗米修斯式的, 有创造力的 | literary
+x_radiometer.1 | radiometer | n. | 辐射计 | -
+x_reupload.1 | reupload | v. | 重新上传 | -
+x_shitposting.1 | shitposting | n. | 发垃圾帖 | slang
+x_thousandths.1 | thousandths | n. | 千分之一 | -
+x_unblinking.1 | unblinking | adj. | 不眨眼的, 毫不动摇的 | -
+x_vetiver.1 | vetiver | n. | 岩兰草 | -
+x_waggon.1 | waggon | n. | 货车 | dated, uk
+x_womenfolk.1 | womenfolk | n. | 妇女们 | -
+x_yeehaw.1 | yeehaw | int. | 耶哈 | informal
+x_biopharma.1 | biopharma | n. | 生物制药 | -
+x_blighty.1 | blighty | n. | 英国 | informal, uk
+x_bushrangers.1 | bushrangers | n. | 澳洲丛林强盗 | domain:历史
+x_crosscountry.1 | crosscountry | adj. | 越野的 | -
+x_crosscountry.2 | crosscountry | n. | 越野赛 | -
+x_felts.1 | felts | n. | 毡, 毛毡 | -
+x_fuckboy.1 | fuckboy | n. | 渣男 | slang, offensive-strong
+x_fugazi.1 | fugazi | adj. | 假的, 伪造的 | slang
+x_hayfever.1 | hayfever | n. | 花粉热 | -
+x_hitmaker.1 | hitmaker | n. | 金曲制作人 | -
+x_homebuilders.1 | homebuilders | n. | 房屋建筑商 | -
+x_instate.1 | instate | adj. | 本州的 | us
+x_instore.1 | instore | adj. | 店内的 | -
+x_kindergarteners.1 | kindergarteners | n. | 幼儿园小朋友 | -
+x_maam.1 | maam | n. | 女士 | informal
+x_neurocognitive.1 | neurocognitive | adj. | 神经认知的 | domain:医学
+x_pageviews.1 | pageviews | n. | 页面浏览量 | -
+x_pinay.1 | pinay | n. | 菲律宾女子 | informal
+x_preggo.1 | preggo | adj. | 怀孕的 | informal
+x_prestressed.1 | prestressed | adj. | 预应力的 | domain:物理
+x_prolife.1 | prolife | adj. | 反堕胎的 | -
+x_reais.1 | reais | n. | 雷亚尔=巴西货币 | -
+x_riveter.1 | riveter | n. | 铆工 | -
+x_robocalls.1 | robocalls | n. | 自动语音电话 | -
+x_satcom.1 | satcom | n. | 卫星通信 | -
+x_screencaps.1 | screencaps | n. | 截屏图 | -
+x_semifinalists.1 | semifinalists | n. | 半决赛选手 | -
+x_shapeshifters.1 | shapeshifters | n. | 变形者 | -
+x_slugfest.1 | slugfest | n. | 激烈争斗, 混战 | informal
+x_smelted.1 | smelted | v. | 冶炼 | -
+x_spirulina.1 | spirulina | n. | 螺旋藻 | -
+x_steamrolled.1 | steamrolled | v. | 碾压, 强行推进 | -
+x_supercup.1 | supercup | n. | 超级杯 | domain:体育
+x_superstorm.1 | superstorm | n. | 超级风暴 | -
+x_thingie.1 | thingie | n. | 玩意儿 | informal
+x_tuitions.1 | tuitions | n. | 学费 | -
+x_ultrabook.1 | ultrabook | n. | 超极本 | -
+x_upregulation.1 | upregulation | n. | 上调 | domain:生物
+x_upvotes.1 | upvotes | n. | 点赞数 | informal
+x_westphalian.1 | westphalian | adj. | 威斯特伐利亚的 | -
+x_widebody.1 | widebody | n. | 宽体客机 | -
+x_airconditioning.1 | airconditioning | n. | 空调 | -
+x_bitterest.1 | bitterest | adj. | 最苦的, 最痛苦的 | -
+x_burqas.1 | burqas | n. | 布卡罩袍 | -
+x_bytecode.1 | bytecode | n. | 字节码 | domain:计算机
+x_cleanings.1 | cleanings | n. | 清洁, 清扫 | -
+x_coffeeshop.1 | coffeeshop | n. | 咖啡店 | -
+x_cojones.1 | cojones | n. | 睾丸 | -
+x_cojones.2 | cojones | n. | 胆量 | slang
+x_delphic.1 | delphic | adj. | 德尔斐的, 神谕般的 | -
+x_faustian.1 | faustian | adj. | 浮士德式的 | literary
+x_injun.1 | injun | n. | 印第安人 | dated, offensive-mild
+x_lassies.1 | lassies | n. | 姑娘们 | dated, uk
+x_loadout.1 | loadout | n. | 装备配置 | domain:计算机
+x_makerspace.1 | makerspace | n. | 创客空间 | -
+x_mangas.1 | mangas | n. | 日本漫画 | -
+x_mehndi.1 | mehndi | n. | 指甲花彩绘 | -
+x_microarrays.1 | microarrays | n. | 微阵列 | domain:生物
+x_miscast.1 | miscast | v. | 选错角色 | -
+x_mmhmm.1 | mmhmm | int. | 嗯哼 | informal
+x_nahh.1 | nahh | int. | 不 | informal
+x_pullup.1 | pullup | n. | 引体向上 | -
+x_reauthorize.1 | reauthorize | v. | 重新授权 | -
+x_redditor.1 | redditor | n. | 红迪网用户 | informal
+x_refueled.1 | refueled | v. | 重新加油 | -
+x_rewound.1 | rewound | v. | 倒带 | -
+x_ricocheting.1 | ricocheting | v. | 弹飞, 跳弹 | -
+x_shapeshift.1 | shapeshift | v. | 变形 | -
+x_shoutouts.1 | shoutouts | n. | 致敬, 点名感谢 | informal
+x_slayings.1 | slayings | n. | 谋杀案 | -
+x_sq-ft.1 | sq.ft | abbr. | 平方英尺 | -
+x_subspaces.1 | subspaces | n. | 子空间 | domain:数学
+x_talkshow.1 | talkshow | n. | 脱口秀 | -
+x_transhumanism.1 | transhumanism | n. | 超人类主义 | -
+x_trie.1 | trie | n. | 字典树 | domain:计算机
+x_unboxed.1 | unboxed | v. | 开箱 | informal
+x_unsparing.1 | unsparing | adj. | 毫不留情的, 严厉的 | -
+x_unsparing.2 | unsparing | adj. | 不吝惜的, 慷慨的 | -
+x_vaguest.1 | vaguest | adj. | 最模糊的 | -
+x_vaporizers.1 | vaporizers | n. | 蒸发器, 电子烟雾化器 | -
+x_wellingtons.1 | wellingtons | n. | 惠灵顿长筒靴 | uk
+x_wooooo.1 | wooooo | int. | 哇哦 | informal
+x_zingers.1 | zingers | n. | 妙语, 俏皮话 | informal
+x_anglicized.1 | anglicized | adj. | 英国化的, 英语化的 | -
+x_anthocyanins.1 | anthocyanins | n. | 花青素 | domain:化学
+x_artform.1 | artform | n. | 艺术形式 | -
+x_bahaha.1 | bahaha | int. | 哈哈哈 | informal
+x_barenaked.1 | barenaked | adj. | 赤身裸体的 | informal
+x_basslines.1 | basslines | n. | 低音声部 | domain:音乐
+x_bleedin.1 | bleedin | adj. | 该死的, 讨厌的 | uk, slang, offensive-mild
+x_capris.1 | capris | n. | 七分裤 | -
+x_chillout.1 | chillout | n. | 放松, 休闲 | informal
+x_crowdsource.1 | crowdsource | v. | 众包 | -
+x_cumshots.1 | cumshots | n. | 射精镜头 | slang, offensive-strong
+x_cupids.1 | cupids | n. | 丘比特, 小爱神 | -
+x_darks.1 | darks | n. | 深色衣物 | -
+x_demoed.1 | demoed | v. | 演示, 试演 | informal
+x_dipshits.1 | dipshits | n. | 蠢货 | slang, offensive-strong
+x_dirtbags.1 | dirtbags | n. | 卑鄙小人 | slang, offensive-mild
+x_dvrs.1 | dvrs | n. | 数字录像机 | informal
+x_fcking.1 | fcking | adj. | 他妈的 | slang, offensive-strong
+x_flakey.1 | flakey | adj. | 古怪的, 易剥落的 | informal
+x_frenemies.1 | frenemies | n. | 亦敌亦友者 | informal
+x_fukin.1 | fukin | adj. | 他妈的 | slang, offensive-strong
+x_fuuuuck.1 | fuuuuck | int. | 他妈的 | slang, offensive-strong
+x_goddamit.1 | goddamit | int. | 该死 | offensive-mild
+x_govts.1 | govts | n. | 政府 | informal
+x_hugest.1 | hugest | adj. | 最巨大的 | -
+x_incentivizing.1 | incentivizing | v. | 激励 | -
+x_jacobian.1 | jacobian | n. | 雅可比行列式 | domain:数学
+x_jailor.1 | jailor | n. | 狱卒 | -
+x_jihadism.1 | jihadism | n. | 圣战主义 | -
+x_loungers.1 | loungers | n. | 躺椅 | -
+x_malthusian.1 | malthusian | adj. | 马尔萨斯主义的 | -
+x_menfolk.1 | menfolk | n. | 男人们, 男性亲属 | -
+x_microalgae.1 | microalgae | n. | 微藻 | domain:生物
+x_monied.1 | monied | adj. | 有钱的 | -
+x_naptime.1 | naptime | n. | 午睡时间 | -
+x_networth.1 | networth | n. | 净资产 | -
+x_nugs.1 | nugs | n. | 大麻花蕾 | slang
+x_omnichannel.1 | omnichannel | adj. | 全渠道的 | domain:商业
+x_pantaloons.1 | pantaloons | n. | 长裤, 灯笼裤 | dated
+x_peanutbutter.1 | peanutbutter | n. | 花生酱 | -
+x_polyhedra.1 | polyhedra | n. | 多面体 | domain:数学
+x_pushup.1 | pushup | n. | 俯卧撑 | -
+x_reconquest.1 | reconquest | n. | 收复, 重新征服 | -
+x_salafism.1 | salafism | n. | 萨拉菲主义 | domain:宗教
+x_skanks.1 | skanks | n. | 下流女人 | slang, offensive-strong
+x_smdh.1 | smdh | abbr. | 无语, 摇头叹息 | slang
+x_spanglish.1 | spanglish | n. | 西式英语, 西英混合语 | -
+x_spankings.1 | spankings | n. | 打屁股 | informal
+x_sqrt.1 | sqrt | abbr. | 平方根 | domain:计算机
+x_sukuk.1 | sukuk | n. | 伊斯兰债券 | domain:金融
+x_synthpop.1 | synthpop | n. | 合成器流行乐 | domain:音乐
+x_thinktank.1 | thinktank | n. | 智库 | -
+x_vaporwave.1 | vaporwave | n. | 蒸汽波 | domain:音乐
+x_warfighter.1 | warfighter | n. | 作战人员 | domain:军事
+x_webcasts.1 | webcasts | n. | 网络直播 | -
+x_whaaaat.1 | whaaaat | int. | 什么 | informal
+x_ahahah.1 | ahahah | int. | 哈哈哈 | informal
+x_albumen.1 | albumen | n. | 蛋白, 卵白蛋白 | -
+x_backburner.1 | backburner | n. | 次要位置 | -
+x_christianized.1 | christianized | adj. | 基督教化的 | -
+x_crossdresser.1 | crossdresser | n. | 异装者 | -
+x_curveballs.1 | curveballs | n. | 曲线球 | domain:体育
+x_defunded.1 | defunded | v. | 停止资助 | -
+x_diasporas.1 | diasporas | n. | 离散群体 | -
+x_disses.1 | disses | v. | 贬低, 看不起 | slang
+x_distros.1 | distros | n. | 发行版 | informal, domain:计算机
+x_doujin.1 | doujin | n. | 同人作品 | -
+x_esport.1 | esport | n. | 电子竞技 | -
+x_flavourings.1 | flavourings | n. | 调味料 | uk
+x_foreach.1 | foreach | n. | 遍历 | domain:计算机
+x_fursuit.1 | fursuit | n. | 兽装 | -
+x_groundout.1 | groundout | n. | 滚地出局 | domain:体育
+x_hammerheads.1 | hammerheads | n. | 锤头鲨 | -
+x_handsy.1 | handsy | adj. | 爱动手动脚的 | informal
+x_hardcopy.1 | hardcopy | n. | 硬拷贝, 打印件 | -
+x_hemiptera.1 | hemiptera | n. | 半翅目 | domain:生物
+x_hols.1 | hols | n. | 假期 | uk, informal
+x_hominin.1 | hominin | n. | 人族 | domain:生物
+x_klebsiella.1 | klebsiella | n. | 克雷伯菌属 | domain:生物
+x_lovecraftian.1 | lovecraftian | adj. | 洛夫克拉夫特式的 | -
+x_microplastics.1 | microplastics | n. | 微塑料 | -
+x_neogene.1 | neogene | n. | 新近纪 | domain:地理
+x_noncombatants.1 | noncombatants | n. | 非战斗人员 | -
+x_oaky.1 | oaky | adj. | 有橡木味的 | -
+x_preteens.1 | preteens | n. | 青春期前儿童 | -
+x_purty.1 | purty | adj. | 漂亮的 | informal
+x_redactions.1 | redactions | n. | 编辑删节 | -
+x_roids.1 | roids | n. | 类固醇 | slang
+x_screenshotted.1 | screenshotted | v. | 截屏 | -
+x_semiconducting.1 | semiconducting | adj. | 半导体的 | -
+x_slickers.1 | slickers | n. | 雨衣, 老滑头 | -
+x_slingshots.1 | slingshots | n. | 弹弓 | -
+x_sunbed.1 | sunbed | n. | 日光浴床 | uk
+x_surveilled.1 | surveilled | v. | 监视 | -
+x_surveilling.1 | surveilling | v. | 监视 | -
+x_svengali.1 | svengali | n. | 操纵者 | -
+x_tanuki.1 | tanuki | n. | 貉, 狸 | -
+x_timebomb.1 | timebomb | n. | 定时炸弹 | -
+x_titers.1 | titers | n. | 滴度 | domain:医学
+x_truther.1 | truther | n. | 阴谋论者 | informal
+x_twitterverse.1 | twitterverse | n. | 推特圈 | informal
+x_utis.1 | utis | abbr. | 尿路感染 | domain:医学
+x_videographers.1 | videographers | n. | 摄像师 | -
+x_yersinia.1 | yersinia | n. | 耶尔森菌属 | domain:生物
+x_aaahh.1 | aaahh | int. | 啊 | informal
+x_amazeballs.1 | amazeballs | adj. | 太棒的 | slang
+x_backlink.1 | backlink | n. | 反向链接 | -
+x_blankie.1 | blankie | n. | 安抚毯 | informal
+x_bogans.1 | bogans | n. | 没品位的人 | slang
+x_chinamen.1 | chinamen | n. | 中国人 | dated, offensive-mild
+x_denarii.1 | denarii | n. | 第纳里乌斯银币 | domain:历史
+x_divs.1 | divs | n. | 分区标签 | informal, domain:计算机
+x_ecig.1 | ecig | n. | 电子烟 | informal
+x_eked.1 | eked | v. | 勉强维持 | -
+x_entendres.1 | entendres | n. | 双关语 | -
+x_epos.1 | epos | n. | 史诗 | -
+x_ethnics.1 | ethnics | n. | 少数族裔成员 | -
+x_fanged.1 | fanged | adj. | 有尖牙的 | -
+x_favorited.1 | favorited | v. | 收藏 | informal
+x_fearmongering.1 | fearmongering | n. | 散布恐慌 | -
+x_flatlining.1 | flatlining | v. | 心跳停止 | -
+x_ghostwriters.1 | ghostwriters | n. | 代笔者 | -
+x_grindcore.1 | grindcore | n. | 碾核音乐 | domain:音乐
+x_guis.1 | guis | abbr. | 图形用户界面 | domain:计算机
+x_handpainted.1 | handpainted | adj. | 手绘的 | -
+x_harleys.1 | harleys | n. | 哈雷摩托车 | -
+x_hdds.1 | hdds | abbr. | 硬盘 | domain:计算机
+x_infielders.1 | infielders | n. | 内野手 | domain:体育
+x_ladyboys.1 | ladyboys | n. | 泰国跨性别女性 | informal
+x_lookups.1 | lookups | n. | 查找, 查询 | domain:计算机
+x_louvers.1 | louvers | n. | 百叶窗, 通风板 | -
+x_makeups.1 | makeups | n. | 化妆品, 补考 | -
+x_mitzvahs.1 | mitzvahs | n. | 犹太教诫命, 善行 | -
+x_mommas.1 | mommas | n. | 妈妈 | informal, us
+x_namespaces.1 | namespaces | n. | 命名空间 | domain:计算机
+x_neuroprotective.1 | neuroprotective | adj. | 神经保护的 | domain:医学
+x_nunchucks.1 | nunchucks | n. | 双节棍 | -
+x_otw.1 | otw | abbr. | 在路上 | informal
+x_phyla.1 | phyla | n. | 门 | domain:生物
+x_preordering.1 | preordering | v. | 预购, 预订 | -
+x_programmatically.1 | programmatically | adv. | 以编程方式 | domain:计算机
+x_reshoots.1 | reshoots | n. | 补拍 | -
+x_retellings.1 | retellings | n. | 复述, 改编 | -
+x_setlists.1 | setlists | n. | 演出曲目单 | -
+x_specters.1 | specters | n. | 幽灵, 隐忧 | -
+x_stygian.1 | stygian | adj. | 冥河的, 阴森的 | literary
+x_syphon.1 | syphon | v. | 吸出 | -
+x_syphon.2 | syphon | n. | 虹吸管 | -
+x_torta.1 | torta | n. | 墨西哥三明治 | -
+x_upliftment.1 | upliftment | n. | 提升, 振奋 | -
+x_vlans.1 | vlans | abbr. | 虚拟局域网 | domain:计算机
+x_webseries.1 | webseries | n. | 网络剧 | -
+x_webstore.1 | webstore | n. | 网店 | -
+x_wideout.1 | wideout | n. | 外接手 | domain:体育
+x_abbr.1 | abbr | abbr. | 缩写 | -
+x_abodes.1 | abodes | n. | 住所 | -
+x_antisemite.1 | antisemite | n. | 反犹主义者 | -
+x_appetising.1 | appetising | adj. | 开胃的, 诱人的 | uk
+x_artbook.1 | artbook | n. | 画集, 设定集 | -
+x_bloodier.1 | bloodier | adj. | 更血腥的 | -
+x_countdowns.1 | countdowns | n. | 倒计时 | -
+x_deforested.1 | deforested | adj. | 被砍伐森林的 | -
+x_doubler.1 | doubler | n. | 倍增器 | -
+x_doujinshi.1 | doujinshi | n. | 同人志 | -
+x_dropoff.1 | dropoff | n. | 下车点, 下降 | -
+x_egyptologist.1 | egyptologist | n. | 埃及学家 | -
+x_englishness.1 | englishness | n. | 英国特性 | -
+x_faery.1 | faery | n. | 仙女 | literary
+x_farro.1 | farro | n. | 二粒小麦 | domain:烹饪
+x_finessed.1 | finessed | v. | 巧妙处理 | -
+x_fishies.1 | fishies | n. | 小鱼 | informal
+x_flatlined.1 | flatlined | v. | 心跳停止, 停滞 | -
+x_floorplan.1 | floorplan | n. | 平面图 | -
+x_forwarders.1 | forwarders | n. | 转运公司, 转发器 | -
+x_friended.1 | friended | v. | 加为好友 | -
+x_frisbees.1 | frisbees | n. | 飞盘 | -
+x_fulness.1 | fulness | n. | 充满 | dated
+x_gamechanger.1 | gamechanger | n. | 改变局面者 | -
+x_gayporn.1 | gayporn | n. | 男同色情片 | -
+x_glamourous.1 | glamourous | adj. | 迷人的 | -
+x_grottoes.1 | grottoes | n. | 洞窟 | -
+x_headbutted.1 | headbutted | v. | 用头撞 | -
+x_klansman.1 | klansman | n. | 种族主义团伙成员 | -
+x_lacunae.1 | lacunae | n. | 空白, 缺口 | -
+x_ligurian.1 | ligurian | adj. | 利古里亚的 | -
+x_makeout.1 | makeout | n. | 亲热 | informal
+x_merovingian.1 | merovingian | adj. | 墨洛温王朝的 | -
+x_mmorpgs.1 | mmorpgs | abbr. | 大型多人在线角色扮演游戏 | domain:计算机
+x_modeller.1 | modeller | n. | 建模者, 模型制作者 | uk
+x_monikers.1 | monikers | n. | 绰号, 名字 | -
+x_neisseria.1 | neisseria | n. | 奈瑟菌属 | domain:生物
+x_novae.1 | novae | n. | 新星 | domain:物理
+x_otoh.1 | otoh | abbr. | 另一方面 | informal
+x_overclocked.1 | overclocked | adj. | 超频的 | domain:计算机
+x_phonons.1 | phonons | n. | 声子 | domain:物理
+x_pictographs.1 | pictographs | n. | 象形图 | -
+x_podunk.1 | podunk | n. | 穷乡僻壤 | informal, us
+x_programed.1 | programed | v. | 编程 | us
+x_rerelease.1 | rerelease | n. | 重新发行 | -
+x_ruleset.1 | ruleset | n. | 规则集 | -
+x_sabbat.1 | sabbat | n. | 巫魔会 | -
+x_satb.1 | satb | abbr. | 混声四部合唱 | domain:音乐
+x_shearwater.1 | shearwater | n. | 鹱 | domain:生物
+x_sunbeds.1 | sunbeds | n. | 日光浴床 | uk
+x_townhomes.1 | townhomes | n. | 联排住宅 | us
+x_transmedia.1 | transmedia | adj. | 跨媒体的 | -
+x_umps.1 | umps | n. | 裁判 | informal
+x_unmistakeable.1 | unmistakeable | adj. | 明显的 | -
+x_villi.1 | villi | n. | 绒毛 | domain:生物
+x_waterboarded.1 | waterboarded | v. | 水刑逼供 | -
+x_ahahahaha.1 | ahahahaha | int. | 哈哈哈 | informal
+x_airedale.1 | airedale | n. | 万能梗 | -
+x_archean.1 | archean | adj. | 太古宙的 | domain:地理
+x_banns.1 | banns | n. | 结婚预告 | -
+x_caroling.1 | caroling | n. | 唱颂歌 | us
+x_cinematics.1 | cinematics | n. | 过场动画 | domain:计算机
+x_cohost.1 | cohost | n. | 共同主持人 | -
+x_cyberwarfare.1 | cyberwarfare | n. | 网络战 | -
+x_divestitures.1 | divestitures | n. | 资产剥离 | domain:商业
+x_freestyles.1 | freestyles | n. | 自由式, 自由泳 | -
+x_guildies.1 | guildies | n. | 公会成员 | informal
+x_insignias.1 | insignias | n. | 徽章 | -
+x_longform.1 | longform | adj. | 长篇的 | -
+x_maundy.1 | maundy | n. | 濯足节 | domain:宗教
+x_minifigure.1 | minifigure | n. | 迷你人偶 | -
+x_nmol.1 | nmol | abbr. | 纳摩尔 | domain:化学
+x_nonwhites.1 | nonwhites | n. | 非白人 | -
+x_ocelli.1 | ocelli | n. | 单眼 | domain:生物
+x_ovas.1 | ovas | abbr. | 原创动画录影 | informal
+x_permalink.1 | permalink | n. | 永久链接 | domain:计算机
+x_phytochemicals.1 | phytochemicals | n. | 植物化学物质 | -
+x_plutonic.1 | plutonic | adj. | 深成的 | domain:地理
+x_raki.1 | raki | n. | 拉克酒 | -
+x_rollerblades.1 | rollerblades | n. | 直排轮滑鞋 | -
+x_seabass.1 | seabass | n. | 鲈鱼, 海鲈 | -
+x_sequelae.1 | sequelae | n. | 后遗症 | domain:医学
+x_shakespearian.1 | shakespearian | adj. | 莎士比亚的, 莎士比亚风格的 | -
+x_shounen.1 | shounen | n. | 少年漫画 | -
+x_speaketh.1 | speaketh | v. | 说 | dated, literary
+x_underlain.1 | underlain | v. | 位于下面, 构成基础 | -
+x_unfulfilling.1 | unfulfilling | adj. | 不能令人满足的 | -
+x_unsubscribed.1 | unsubscribed | v. | 取消订阅 | -
+x_warfighting.1 | warfighting | n. | 作战 | domain:军事
+x_waterskiing.1 | waterskiing | n. | 滑水 | -
+x_worldbuilding.1 | worldbuilding | n. | 世界观构建 | -
+x_wowza.1 | wowza | int. | 哇 | informal
+x_yorkshireman.1 | yorkshireman | n. | 约克郡人 | -
+x_biped.1 | biped | n. | 两足动物 | -
+x_bloodwork.1 | bloodwork | n. | 血液检查 | us
+x_bookselling.1 | bookselling | n. | 图书销售 | -
+x_citrusy.1 | citrusy | adj. | 柑橘味的 | -
+x_colorings.1 | colorings | n. | 着色剂 | -
+x_cortices.1 | cortices | n. | 皮质 | domain:生物
+x_costars.1 | costars | n. | 联合主演 | -
+x_dangit.1 | dangit | int. | 该死 | informal
+x_datacenters.1 | datacenters | n. | 数据中心 | -
+x_downswing.1 | downswing | n. | 下滑, 衰退 | -
+x_excreta.1 | excreta | n. | 排泄物 | -
+x_fastenings.1 | fastenings | n. | 紧固件, 扣件 | -
+x_halloumi.1 | halloumi | n. | 哈罗米奶酪 | -
+x_headwater.1 | headwater | n. | 源头, 上游 | -
+x_humbucker.1 | humbucker | n. | 双线圈拾音器 | domain:音乐
+x_jailbreaking.1 | jailbreaking | n. | 越狱, 破解 | informal
+x_kilobytes.1 | kilobytes | n. | 千字节 | domain:计算机
+x_kitesurfing.1 | kitesurfing | n. | 风筝冲浪 | -
+x_laplacian.1 | laplacian | n. | 拉普拉斯算子 | domain:数学
+x_lipsync.1 | lipsync | n. | 对口型 | -
+x_lipsync.2 | lipsync | v. | 对口型 | -
+x_luddites.1 | luddites | n. | 卢德分子, 反技术者 | -
+x_marshaled.1 | marshaled | v. | 集结, 整理 | -
+x_microtransactions.1 | microtransactions | n. | 微交易 | -
+x_muthafucka.1 | muthafucka | n. | 混蛋 | slang, offensive-strong
+x_outcroppings.1 | outcroppings | n. | 露头, 突出部 | domain:地理
+x_outrunning.1 | outrunning | v. | 跑得比快, 超越 | -
+x_pandan.1 | pandan | n. | 班兰叶, 香兰叶 | -
+x_pillared.1 | pillared | adj. | 有柱的 | -
+x_provencal.1 | provencal | adj. | 普罗旺斯的 | -
+x_quadruped.1 | quadruped | n. | 四足动物 | -
+x_redrew.1 | redrew | v. | 重画 | -
+x_retinoids.1 | retinoids | n. | 类视黄醇 | domain:医学
+x_serverless.1 | serverless | adj. | 无服务器的 | domain:计算机
+x_snowbirds.1 | snowbirds | n. | 避寒者 | informal
+x_tastemakers.1 | tastemakers | n. | 引领潮流者 | -
+x_toxoplasma.1 | toxoplasma | n. | 弓形虫 | domain:生物
+x_tyrolean.1 | tyrolean | adj. | 蒂罗尔的 | -
+x_tyrolean.2 | tyrolean | n. | 蒂罗尔人 | -
+x_voltmeter.1 | voltmeter | n. | 电压表 | domain:物理
+x_voxels.1 | voxels | n. | 体素 | domain:计算机
+x_webmasters.1 | webmasters | n. | 网站管理员 | -
+x_adjuvants.1 | adjuvants | n. | 佐剂 | domain:医学
+x_asshats.1 | asshats | n. | 蠢货 | slang, offensive-strong
+x_austronesian.1 | austronesian | adj. | 南岛语系的 | -
+x_ballsack.1 | ballsack | n. | 阴囊 | slang, offensive-strong
+x_banksters.1 | banksters | n. | 银行骗子 | slang
+x_bermudian.1 | bermudian | adj. | 百慕大的 | -
+x_bermudian.2 | bermudian | n. | 百慕大人 | -
+x_bobbleheads.1 | bobbleheads | n. | 摇头娃娃 | -
+x_brexiters.1 | brexiters | n. | 主张脱欧者 | -
+x_bronchi.1 | bronchi | n. | 支气管 | domain:医学
+x_caesarian.1 | caesarian | n. | 剖腹产 | domain:医学
+x_christenings.1 | christenings | n. | 洗礼, 命名礼 | -
+x_crewneck.1 | crewneck | n. | 圆领 | -
+x_crocuses.1 | crocuses | n. | 番红花 | -
+x_crossdressers.1 | crossdressers | n. | 异装者 | -
+x_dhoti.1 | dhoti | n. | 印度缠腰布 | -
+x_dionysian.1 | dionysian | adj. | 酒神的 | -
+x_donno.1 | donno | v. | 不知道 | informal
+x_edtech.1 | edtech | n. | 教育科技 | domain:教育
+x_fapping.1 | fapping | v. | 打飞机 | slang, offensive-strong
+x_funner.1 | funner | adj. | 更有趣的 | informal
+x_geeze.1 | geeze | int. | 天哪 | informal
+x_golems.1 | golems | n. | 魔像, 泥人 | -
+x_humbler.1 | humbler | adj. | 更谦逊的 | -
+x_instal.1 | instal | v. | 安装 | uk
+x_islamisation.1 | islamisation | n. | 伊斯兰化 | uk
+x_jeeze.1 | jeeze | int. | 天哪 | informal
+x_jetstream.1 | jetstream | n. | 急流, 喷射气流 | -
+x_lassi.1 | lassi | n. | 拉西酸奶饮料 | -
+x_lynchpin.1 | lynchpin | n. | 关键人物, 关键部分 | -
+x_medtech.1 | medtech | n. | 医疗技术 | -
+x_modder.1 | modder | n. | 游戏模组制作者 | -
+x_overexpressed.1 | overexpressed | adj. | 过度表达的 | domain:生物
+x_pannier.1 | pannier | n. | 驮篮, 自行车侧挂包 | -
+x_porcini.1 | porcini | n. | 牛肝菌 | domain:烹饪
+x_powerlifters.1 | powerlifters | n. | 力量举运动员 | -
+x_sangiovese.1 | sangiovese | n. | 桑娇维塞葡萄 | domain:烹饪
+x_shibboleth.1 | shibboleth | n. | 暗语, 陈规旧习 | -
+x_skillsets.1 | skillsets | n. | 技能组合 | -
+x_soundbar.1 | soundbar | n. | 条形音箱 | -
+x_stamen.1 | stamen | n. | 雄蕊 | domain:生物
+x_stripey.1 | stripey | adj. | 有条纹的 | informal
+x_telesales.1 | telesales | n. | 电话销售 | -
+x_thespians.1 | thespians | n. | 演员 | formal
+x_trumpian.1 | trumpian | adj. | 特朗普式的 | -
+x_unappetizing.1 | unappetizing | adj. | 不开胃的 | -
+x_vinyasa.1 | vinyasa | n. | 串联瑜伽 | -
+x_wackos.1 | wackos | n. | 疯子 | slang
+x_role-play.1 | role-play | n. | 角色扮演 | -
+x_fast-forward.1 | fast-forward | n. | 快进 | -
+x_editor-in-chief.1 | editor-in-chief | n. | 总编辑, 主编 | -
+x_hide-and-seek.1 | hide-and-seek | n. | 捉迷藏 | -
+x_skinny-dip.1 | skinny-dip | n. | 裸泳 | informal
+x_soft-pedal.1 | soft-pedal | v. | 淡化, 低调处理 | -
+x_brain-dead.1 | brain-dead | adj. | 脑死亡的 | -
+x_brain-dead.2 | brain-dead | adj. | 愚蠢的 | informal
+x_bullring.1 | bullring | n. | 斗牛场 | -
+x_common-or-garden.1 | common-or-garden | adj. | 极普通的 | uk, informal
+x_deep-fry.1 | deep-fry | v. | 油炸 | -
+x_dirt-poor.1 | dirt-poor | adj. | 一贫如洗 | informal
+x_dog-tired.1 | dog-tired | adj. | 累极了 | informal
+x_double-check.1 | double-check | v. | 复查, 再核对 | -
+x_double-click.1 | double-click | v. | 双击 | domain:计算机
+x_double-cross.1 | double-cross | v. | 背叛, 出卖 | informal
+x_dry-clean.1 | dry-clean | v. | 干洗 | -
+x_either-or.1 | either-or | adj. | 二者择一的 | -
+x_fine-tune.1 | fine-tune | v. | 微调 | -
+x_flip-flop.1 | flip-flop | n. | 人字拖 | -
+x_flip-flop.2 | flip-flop | n. | 出尔反尔 | informal
+x_force-feed.1 | force-feed | v. | 强行喂食 | -
+x_fortune-telling.1 | fortune-telling | n. | 算命 | -
+x_good-for-nothing.1 | good-for-nothing | adj. | 没用的, 不中用的 | -
+x_hand-me-down.1 | hand-me-down | n. | 旧衣, 别人穿剩的衣服 | -
+x_head-to-head.1 | head-to-head | adv. | 面对面竞争 | -
+x_high-tech.1 | high-tech | adj. | 高科技的 | -
+x_in-house.1 | in-house | adj. | 内部的 | -
+x_jet-black.1 | jet-black | adj. | 乌黑的 | -
+x_light-year.1 | light-year | n. | 光年 | -
+x_no-go.1 | no-go | adj. | 行不通, 不可能 | informal
+x_off-season.1 | off-season | n. | 淡季 | -
+x_off-white.1 | off-white | n. | 灰白色, 米白色 | -
+x_open-and-shut.1 | open-and-shut | adj. | 一目了然, 明确的 | -
+x_pick-me-up.1 | pick-me-up | n. | 提神饮料, 提振精神的东西 | informal
+x_pitch-black.1 | pitch-black | adj. | 漆黑的 | -
+x_reverse-engineer.1 | reverse-engineer | v. | 逆向工程 | -
+x_right-winger.1 | right-winger | n. | 右翼人士 | -
+x_rock-solid.1 | rock-solid | adj. | 坚如磐石 | -
+x_sans-serif.1 | sans-serif | n. | 无衬线字体 | -
+x_scot-free.1 | scot-free | adv. | 逍遥法外 | -
+x_six-pack.1 | six-pack | n. | 六罐装 | -
+x_six-pack.2 | six-pack | n. | 腹肌 | informal
+x_slap-bang.1 | slap-bang | adv. | 正好, 径直 | informal
+x_spring-clean.1 | spring-clean | n. | 春季大扫除 | -
+x_street-smart.1 | street-smart | adj. | 精明, 有街头经验的 | -
+x_top-heavy.1 | top-heavy | adj. | 头重脚轻 | -
+x_top-notch.1 | top-notch | adj. | 一流的, 顶尖的 | informal
+x_tumble-dry.1 | tumble-dry | v. | 滚筒烘干 | -
+x_uh-huh.1 | uh-huh | int. | 嗯哼 | informal
+x_voice-over.1 | voice-over | n. | 画外音 | -
+x_waterbed.1 | waterbed | n. | 水床 | -
+x_well-connected.1 | well-connected | adj. | 有门路的, 人脉广 | -
+x_well-intentioned.1 | well-intentioned | adj. | 出于善意的 | -
+x_well-read.1 | well-read | adj. | 博览群书的 | -
+x_well-rounded.1 | well-rounded | adj. | 全面发展的 | -
+x_well-spoken.1 | well-spoken | adj. | 谈吐文雅的 | -
+x_well-worn.1 | well-worn | adj. | 陈旧的, 用得太多的 | -
+x_wheeler-dealer.1 | wheeler-dealer | n. | 手腕灵活的生意人 | informal
