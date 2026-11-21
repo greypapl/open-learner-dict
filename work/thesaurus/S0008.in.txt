@@ -1,0 +1,402 @@
+w001144.1 | administration | n. | B2 | 管理, 行政 | the work of running an organization
+w001144.2 | administration | n. | B2 | 政府, 行政当局 | the government of a country at a given time
+w001145.1 | approach | n. | B1 | 方法, 方式, 途径 | a way of dealing with something
+w001145.2 | approach | v. | B1 | 接近, 靠近 | to come near
+w001145.3 | approach | v. | B1 | 处理, 对付 | to start dealing with a problem
+w001145.4 | approach | n. | B1 | 接近, 临近 | the act of coming closer
+w001146.1 | cancer | n. | B1 | 癌, 癌症 | a serious disease of uncontrolled cell growth
+w001146.2 | cancer | n. | B1 | 弊端, 毒瘤 | something evil that spreads quickly
+w001147.1 | civil | adj. | B2 | 公民的, 市民的 | relating to the people of a country
+w001147.2 | civil | adj. | B2 | 民用的, 民事的 | not military, religious or criminal
+w001147.3 | civil | adj. | B2 | 有礼貌的, 文明的 | polite in a formal way
+w001149.1 | dance | v. | A1 | 跳舞, 舞蹈 | to move your body to music
+w001149.2 | dance | n. | A1 | 舞蹈, 舞 | a set of steps done to music
+w001149.3 | dance | n. | A1 | 舞会, 交谊舞会 | a social event where people move to music
+w001150.1 | defense | n. | B1 | 防御, 保卫, 防护 | protection against attack
+w001150.2 | defense | n. | B1 | 辩护, 辩方 | the side in a trial that argues for the accused
+w001150.3 | defense | n. | B1 | 防守, 防守队员 | the players who try to stop the other team scoring
+w001151.1 | direction | n. | A2 | 方向, 方位 | the way towards a place
+w001151.2 | direction | n. | A2 | 指示, 说明 | instructions on how to go or do something
+w001151.3 | direction | n. | A2 | 指导, 管理 | control and guidance
+w001153.1 | independent | adj. | B1 | 独立的, 自主的 | not controlled by another country or group
+w001153.2 | independent | adj. | B1 | 自立的, 不依赖他人的 | not needing help or money from others
+w001153.3 | independent | adj. | B1 | 无关的, 单独的 | not connected with each other
+w001153.4 | independent | n. | B1 | 无党派人士 | a politician who belongs to no party
+w001154.1 | master | v. | B1 | 掌握, 精通 | to learn a skill completely
+w001154.2 | master | n. | B1 | 大师, 能手 | a person very skilled at something
+w001154.3 | master | n. | B1 | 主人, 雇主 | a man in control of servants or animals
+w001154.4 | master | n. | B1 | 硕士, 硕士学位 | a university degree above a bachelor's
+w001154.5 | master | adj. | B1 | 主要的, 总的 | main; controlling others
+w001155.1 | none | pron. | A2 | 没有一个, 一点也没有, 无人 | not any of a group or amount
+w001159.1 | ship | n. | A2 | 船, 舰 | a large boat that carries people or goods
+w001159.2 | ship | v. | A2 | 运送, 运输, 发货 | to send goods to a place
+w001160.1 | stock | n. | B1 | 库存, 存货 | goods a shop has available to sell
+w001160.2 | stock | n. | B1 | 股票, 股份 | shares in a company
+w001160.3 | stock | n. | B1 | 储备, 供应量 | a supply of something kept for use
+w001160.4 | stock | v. | B1 | 储备, 备货, 供应 | to keep goods available for sale
+w001162.1 | weekend | n. | A1 | 周末 | Saturday and Sunday
+w001162.2 | weekend | v. | A1 | 度周末, 过周末 | to spend Saturday and Sunday somewhere
+w001163.1 | wonder | v. | A2 | 想知道, 纳闷 | to want to know about something
+w001163.2 | wonder | v. | A2 | 惊叹, 感到惊奇 | to feel great surprise and admiration
+w001163.3 | wonder | n. | A2 | 惊奇, 惊叹 | a feeling of surprise and admiration
+w001163.4 | wonder | n. | A2 | 奇迹, 奇观 | something that causes amazement
+w001164.1 | worst | adj. | A2 | 最坏的, 最差的, 最糟的 | most bad
+w001164.2 | worst | adv. | A2 | 最坏地, 最严重地 | most badly
+w001164.3 | worst | n. | A2 | 最坏的情况, 最糟的事 | the most bad thing or situation
+w001165.1 | Africa | n. | A1 | 非洲 | the continent south of Europe
+w001166.1 | Sunday | n. | A1 | 星期日, 星期天 | the day after Saturday
+w001167.1 | awesome | adj. | B1 | 极好的, 了不起的 | very good or enjoyable
+w001167.2 | awesome | adj. | B1 | 令人敬畏的, 惊人的 | very impressive and a little frightening
+w001168.1 | band | n. | A2 | 乐队, 乐团 | a group of musicians who play together
+w001168.2 | band | n. | A2 | 带, 箍, 条 | a thin strip of material
+w001168.3 | band | n. | A2 | 一伙, 一群 | a group of people doing something together
+w001169.1 | beach | n. | A1 | 海滩, 沙滩 | an area of sand or stones beside the sea
+w001169.2 | beach | v. | A1 | 使搁浅, 拖上岸 | to pull a boat or whale onto land
+w001170.1 | cash | n. | A2 | 现金, 现钞 | money in coins or notes
+w001170.2 | cash | n. | A2 | 钱, 资金 | money in any form
+w001170.3 | cash | v. | A2 | 兑现, 兑换成现金 | to exchange a cheque for money
+w001171.1 | clearly | adv. | A2 | 清楚地, 清晰地 | in a way that is easy to see or understand
+w001171.2 | clearly | adv. | A2 | 显然, 明显地 | without any doubt; obviously
+w001172.1 | commercial | adj. | B1 | 商业的, 商务的 | relating to buying and selling
+w001172.2 | commercial | adj. | B1 | 以盈利为目的的, 商业化的 | intended mainly to make money
+w001172.3 | commercial | n. | B1 | 广告, 商业广告 | an advertisement on TV or radio
+w001174.1 | effort | n. | A2 | 努力, 力气 | physical or mental energy used to do something
+w001174.2 | effort | n. | A2 | 尝试, 努力 | an attempt to do something
+w001175.1 | fan | n. | A2 | 迷, 爱好者, 粉丝 | a keen supporter of a person, team or hobby
+w001175.2 | fan | n. | A2 | 扇子, 风扇 | a device that moves air to cool you
+w001175.3 | fan | v. | A2 | 扇, 扇动 | to move air towards something
+w001176.1 | fighting | n. | B1 | 战斗, 打斗, 争斗 | violent action between people or armies
+w001177.1 | imagine | v. | A2 | 想象, 设想 | to form a picture of something in your mind
+w001177.2 | imagine | v. | A2 | 猜想, 认为 | to think that something is probably true
+w001178.1 | impact | n. | B1 | 影响, 作用 | a strong effect on something
+w001178.2 | impact | n. | B1 | 冲击, 撞击 | the force of one object hitting another
+w001178.3 | impact | v. | B1 | 影响, 冲击 | to have a strong effect on
+w001179.1 | lack | n. | B1 | 缺乏, 不足 | the state of not having enough
+w001179.2 | lack | v. | B1 | 缺乏, 缺少 | to not have enough of something
+w001180.1 | latest | adj. | A2 | 最新的, 最近的 | most recent or newest
+w001181.1 | multiple | adj. | B2 | 多个的, 多重的, 多样的 | many, or involving many parts
+w001181.2 | multiple | n. | B2 | 倍数 | a number that another number divides into exactly
+w001182.1 | operation | n. | B1 | 运作, 运转, 操作 | the way something works or is used
+w001182.2 | operation | n. | B1 | 手术 | cutting into the body to repair it
+w001182.3 | operation | n. | B1 | 行动, 军事行动 | a planned activity involving many people
+w001183.1 | organization | n. | A2 | 组织, 机构, 团体 | a group of people working together for a purpose
+w001183.2 | organization | n. | A2 | 组织, 安排, 筹备 | the act of planning or arranging
+w001184.1 | protect | v. | A2 | 保护, 防护, 保卫 | to keep someone or something safe from harm
+w001185.1 | secret | n. | A2 | 秘密 | something kept hidden from others
+w001185.2 | secret | adj. | A2 | 秘密的, 机密的 | known by only a few people
+w001185.3 | secret | n. | A2 | 秘诀, 诀窍 | the best way to achieve something
+w001186.1 | senior | adj. | B1 | 级别高的, 资深的 | higher in rank or position
+w001186.2 | senior | adj. | B1 | 年长的, 老年人的 | older
+w001186.3 | senior | n. | B1 | 毕业班学生, 高年级学生 | a student in the final year of school
+w001186.4 | senior | n. | B1 | 老年人, 长者 | an older person, often retired
+w001187.1 | spring | n. | A1 | 春天, 春季 | the season between winter and summer
+w001187.2 | spring | n. | A1 | 弹簧, 发条 | a coil of wire that returns to shape
+w001187.3 | spring | n. | A1 | 泉, 泉水 | a place where water comes up from the ground
+w001187.4 | spring | v. | A1 | 跳, 跃, 突然出现 | to jump or move suddenly
+w001189.1 | wear | v. | A1 | 穿, 戴 | to have clothes or jewellery on your body
+w001189.2 | wear | v. | A1 | 磨损, 用旧 | to become thinner or damaged from use
+w001189.3 | wear | n. | A1 | 服装, 衣服 | clothes of a particular type
+w001189.4 | wear | n. | A1 | 磨损, 损耗 | damage from long use
+w001190.1 | Christmas | n. | A1 | 圣诞节, 圣诞节期间 | the Christian festival on 25 December
+w001191.1 | Indian | adj. | A2 | 印度的, 印度人的 | relating to India or its people
+w001191.2 | Indian | n. | A2 | 印度人 | a person from India
+w001191.3 | Indian | n. | A2 | 印第安人, 美洲原住民 | a Native American
+w001192.1 | address | n. | A1 | 地址, 住址 | the details of where someone lives or works
+w001192.2 | address | v. | A1 | 处理, 解决, 对付 | to deal with a problem
+w001192.3 | address | v. | A1 | 向…讲话, 致辞 | to speak to a person or group
+w001192.4 | address | n. | A1 | 演说, 讲话 | a formal speech
+w001193.1 | analysis | n. | B1 | 分析, 解析 | a detailed examination of something
+w001194.1 | anyway | adv. | A2 | 无论如何, 不管怎样 | despite something; in any case
+w001194.2 | anyway | adv. | A2 | 总之, 反正 | used to change the subject or finish talking
+w001195.1 | choose | v. | A1 | 选择, 挑选 | to decide which one you want
+w001195.2 | choose | v. | A1 | 决定, 宁愿 | to decide to do something
+w001196.1 | color | n. | A1 | 颜色, 色彩 | red, blue, green and similar visual qualities
+w001196.2 | color | n. | A1 | 肤色 | the colour of a person's skin
+w001196.3 | color | v. | A1 | 给…着色, 涂色 | to put paint or crayon on something
+w001196.4 | color | v. | A1 | 影响, 左右 | to affect someone's opinion
+w001197.1 | commission | n. | B2 | 委员会 | an official group with a special task
+w001197.2 | commission | n. | B2 | 佣金, 提成 | money paid based on the value of sales
+w001197.3 | commission | v. | B2 | 委托, 委托制作 | to formally order a piece of work
+w001198.1 | competition | n. | A2 | 比赛, 竞赛 | an event to find the best at something
+w001198.2 | competition | n. | A2 | 竞争 | trying to be more successful than others
+w001198.3 | competition | n. | A2 | 竞争对手, 对手 | the people or firms you are against
+w001199.1 | direct | adj. | B1 | 直接的, 直达的 | going straight without stopping or turning
+w001199.2 | direct | adj. | B1 | 直率的, 坦率的 | saying exactly what you think
+w001199.3 | direct | v. | B1 | 指导, 管理, 指挥 | to control or be in charge of
+w001199.4 | direct | v. | B1 | 导演, 执导 | to be in charge of making a film or play
+w001199.5 | direct | adv. | B1 | 直接地, 径直 | without stopping or going through others
+w001200.1 | dream | n. | A1 | 梦, 梦境 | images and events in your mind while sleeping
+w001200.2 | dream | n. | A1 | 梦想, 理想 | something you very much want to achieve
+w001200.3 | dream | v. | A1 | 做梦, 梦见 | to experience images while asleep
+w001200.4 | dream | v. | A1 | 梦想, 向往 | to imagine something you want to happen
+w001201.1 | easily | adv. | A2 | 容易地, 轻易地 | without difficulty
+w001201.2 | easily | adv. | A2 | 无疑, 显然 | without doubt
+w001202.1 | finish | v. | A1 | 完成, 结束 | to complete or come to an end
+w001202.2 | finish | v. | A1 | 吃光, 用完 | to eat, drink or use the rest
+w001202.3 | finish | n. | A1 | 结尾, 终点 | the last part or end
+w001202.4 | finish | n. | A1 | 表面处理, 抛光 | the surface appearance of a material
+w001203.1 | grand | adj. | B1 | 宏伟的, 壮丽的 | large and impressive
+w001203.2 | grand | adj. | B1 | 重大的, 宏大的 | important or ambitious
+w001203.3 | grand | n. | B1 | 一千美元, 一千英镑 | a thousand dollars or pounds
+w001204.1 | literally | adv. | B2 | 字面上, 照字面意思 | in the exact, basic sense of the words
+w001204.2 | literally | adv. | B2 | 真正地, 确实地, 简直 | used to emphasize something, often not exactly true
+w001207.1 | luck | n. | A2 | 运气, 幸运, 好运 | success or good things happening by chance
+w001207.2 | luck | v. | A2 | 碰巧成功, 走运 | to succeed by chance
+w001208.1 | marriage | n. | B1 | 婚姻, 结婚 | the legal relationship between two married people
+w001208.2 | marriage | n. | B1 | 婚礼, 结婚仪式 | a ceremony where people become married
+w001209.1 | necessary | adj. | A2 | 必要的, 必需的, 必不可少的 | needed in order to achieve something
+w001209.2 | necessary | adj. | A2 | 必然的, 不可避免的 | certain to happen as a result
+w001210.1 | rich | adj. | A2 | 富有的, 有钱的 | having a lot of money or property
+w001210.2 | rich | adj. | A2 | 丰富的, 富含的 | containing a large amount of something
+w001210.3 | rich | adj. | A2 | 油腻的, 浓郁的 | containing a lot of fat, butter, or sugar
+w001213.1 | skin | n. | A2 | 皮肤, 皮 | the natural outer layer of a body
+w001213.2 | skin | n. | A2 | 果皮, 外皮 | the outer layer of a fruit or vegetable
+w001213.3 | skin | v. | A2 | 剥皮, 擦破皮 | to remove the outer layer from something
+w001214.1 | speaking | n. | A2 | 说话, 演讲, 口语 | the act of talking or giving speeches
+w001214.2 | speaking | adj. | A2 | 说话的, 口语的 | involving talking
+w001215.1 | supposed | adj. | B1 | 应该的, 被期望的 | expected or required to do something
+w001215.2 | supposed | adj. | B1 | 所谓的, 假定的, 据称的 | believed to be true but doubtful
+w001216.1 | sweet | adj. | A1 | 甜的, 甜味的 | tasting of sugar
+w001216.2 | sweet | adj. | A1 | 可爱的, 温柔的, 亲切的 | kind, gentle, or attractive
+w001216.3 | sweet | n. | A1 | 糖果 | a small piece of sugary food
+w001216.4 | sweet | n. | A1 | 甜点 | a dessert
+w001217.1 | thus | adv. | B2 | 因此, 所以, 从而 | as a result of this
+w001217.2 | thus | adv. | B2 | 如此, 这样 | in this way
+w001218.1 | touch | v. | A2 | 触摸, 碰, 接触 | to put your hand or body on something
+w001218.2 | touch | v. | A2 | 感动, 打动 | to make someone feel emotion
+w001218.3 | touch | n. | A2 | 触摸, 触觉 | the act or sense of touching
+w001218.4 | touch | n. | A2 | 联系, 接触 | communication with someone
+w001218.5 | touch | n. | A2 | 少许, 一点 | a small amount
+w001220.1 | yesterday | adv. | A1 | 昨天, 在昨天 | on the day before today
+w001220.2 | yesterday | n. | A1 | 昨天, 昨日 | the day before today
+w001220.3 | yesterday | n. | A1 | 往昔, 过去 | the recent past
+w001221.1 | Germany | n. | A1 | 德国 | a country in central Europe
+w001222.1 | closed | adj. | A2 | 关闭的, 关着的 | not open
+w001222.2 | closed | adj. | A2 | 停止营业的, 不开放的 | not open to the public for business
+w001222.3 | closed | adj. | A2 | 封闭的, 不公开的 | not willing to accept new ideas or people
+w001224.1 | congress | n. | B2 | 国会, 议会 | the group of people that makes laws in some countries
+w001224.2 | congress | n. | B2 | 代表大会, 大会 | a large formal meeting of representatives
+w001225.1 | damage | n. | B1 | 损坏, 损害, 破坏 | physical harm that makes something less useful
+w001225.2 | damage | v. | B1 | 损坏, 损害, 伤害 | to harm or spoil something
+w001225.3 | damage | n. | B1 | 赔偿金, 损害赔偿 | money paid for harm or loss
+w001226.1 | directly | adv. | B1 | 直接地, 径直地 | without anyone or anything in between
+w001226.2 | directly | adv. | B1 | 正好, 恰好 | exactly in a particular position
+w001226.3 | directly | adv. | B1 | 立即, 马上 | very soon or immediately
+w001227.1 | disease | n. | B1 | 疾病, 病 | an illness affecting people, animals, or plants
+w001228.1 | doctor | n. | A1 | 医生, 大夫 | a person trained to treat sick people
+w001228.2 | doctor | n. | A1 | 博士 | a person with the highest university degree
+w001228.3 | doctor | v. | A1 | 篡改, 伪造 | to change something dishonestly
+w001229.1 | doubt | n. | B1 | 怀疑, 疑问, 不确定 | a feeling of not being sure
+w001229.2 | doubt | v. | B1 | 怀疑, 不相信 | to think something is probably not true
+w001230.1 | drink | v. | A1 | 喝, 饮 | to take liquid into your mouth and swallow
+w001230.2 | drink | v. | A1 | 喝酒, 饮酒 | to drink alcohol
+w001230.3 | drink | n. | A1 | 饮料, 饮品 | a liquid for drinking
+w001230.4 | drink | n. | A1 | 酒, 一杯酒 | an alcoholic drink
+w001231.1 | driving | n. | A2 | 驾驶, 开车 | the activity of controlling a vehicle
+w001231.2 | driving | adj. | A2 | 推动的, 起推动作用的 | strongly influencing or causing something
+w001231.3 | driving | adj. | A2 | 猛烈的 | falling or blowing hard
+w001232.1 | established | adj. | B2 | 已确立的, 既定的, 公认的 | accepted or existing for a long time
+w001232.2 | established | adj. | B2 | 国教的 | officially recognized as a national church
+w001234.1 | fish | n. | A1 | 鱼 | an animal that lives and swims in water
+w001234.2 | fish | n. | A1 | 鱼肉 | the flesh of fish eaten as food
+w001234.3 | fish | v. | A1 | 钓鱼, 捕鱼 | to try to catch fish
+w001234.4 | fish | v. | A1 | 摸找, 搜寻 | to search for something with your hand
+w001235.1 | gay | adj. | B2 | 同性恋的 | sexually attracted to people of the same sex
+w001235.2 | gay | n. | B2 | 同性恋者 | a person attracted to the same sex
+w001235.3 | gay | adj. | B2 | 快乐的, 欢快的 | happy and full of fun
+w001236.1 | glad | adj. | A2 | 高兴的, 乐意的 | happy and pleased about something
+w001236.2 | glad | adj. | A2 | 感激的 | grateful for something
+w001238.1 | grow | v. | A2 | 生长, 长大, 增长 | to become bigger over time
+w001238.2 | grow | v. | A2 | 种植, 栽培 | to plant and look after crops or plants
+w001238.3 | grow | v. | A2 | 变得, 逐渐变成 | to gradually become
+w001239.1 | machine | n. | A2 | 机器, 机械 | a piece of equipment that uses power to work
+w001239.2 | machine | n. | A2 | 机构, 组织 | an organized group that controls something
+w001239.3 | machine | v. | A2 | 机器加工 | to shape or make with a machine
+w001240.1 | notice | v. | A2 | 注意到, 察觉, 发现 | to see or become aware of something
+w001240.2 | notice | n. | A2 | 通知, 布告, 告示 | written information shown publicly
+w001240.3 | notice | n. | A2 | 注意, 关注 | attention given to something
+w001240.4 | notice | n. | A2 | 预先通知, 提前通知 | a warning given before something happens
+w001241.1 | overall | adj. | B2 | 全部的, 总体的, 全面的 | including everything
+w001241.2 | overall | adv. | B2 | 总的来说, 总体上 | in general; when everything is considered
+w001241.3 | overall | n. | B2 | 工作服, 罩衫 | a loose garment worn over clothes for work
+w001242.1 | planning | n. | B1 | 规划, 计划, 策划 | the process of making plans
+w001242.2 | planning | n. | B1 | 城市规划 | control of building and land use in an area
+w001243.1 | professor | n. | A2 | 教授 | a senior teacher at a university
+w001245.1 | sit | v. | A1 | 坐, 坐下 | to rest your weight on your bottom
+w001245.2 | sit | v. | A1 | 位于, 处在 | to be in a particular place
+w001245.3 | sit | v. | A1 | 参加考试 | to take an exam
+w001247.1 | trip | n. | A1 | 旅行, 出行, 短途旅行 | a journey to a place and back
+w001247.2 | trip | v. | A1 | 绊倒, 绊 | to hit your foot on something and fall
+w001247.3 | trip | n. | A1 | 幻觉体验 | an experience caused by taking a drug
+w001248.1 | Japan | n. | A1 | 日本 | a country of islands in East Asia
+w001249.1 | Mrs | abbr. | A1 | 太太, 夫人 | a title used before a married woman's name
+w001251.1 | associated | adj. | B2 | 有关的, 相关的, 关联的 | connected with something
+w001251.2 | associated | adj. | B2 | 联合的, 合伙的 | joined together as an organization
+w001252.1 | basic | adj. | A2 | 基本的, 基础的, 根本的 | forming the main or simplest part
+w001252.2 | basic | adj. | A2 | 简单的, 初级的 | simple and without extras
+w001252.3 | basic | n. | A2 | 基础, 基本要素 | the simplest and most important facts
+w001253.1 | captain | n. | A2 | 船长, 机长 | the person in charge of a ship or plane
+w001253.2 | captain | n. | A2 | 队长 | the leader of a sports team
+w001253.3 | captain | n. | A2 | 上尉, 上校 | an officer of middle rank
+w001253.4 | captain | v. | A2 | 担任队长, 率领 | to lead a team or ship
+w001254.1 | carry | v. | A2 | 携带, 搬运, 拿 | to hold something and take it somewhere
+w001254.2 | carry | v. | A2 | 运载, 输送 | to move people or things from place to place
+w001254.3 | carry | v. | A2 | 带有, 具有 | to have something as a feature or result
+w001255.1 | crime | n. | B1 | 犯罪, 罪行 | an illegal act that can be punished
+w001255.2 | crime | n. | B1 | 罪过, 可耻的事 | a wrong or foolish act
+w001256.1 | effective | adj. | B1 | 有效的, 起作用的 | producing the result that is wanted
+w001256.2 | effective | adj. | B1 | 生效的, 实施的 | officially in use from a certain time
+w001256.3 | effective | adj. | B1 | 实际的, 事实上的 | real in practice though not officially
+w001257.1 | explain | v. | A2 | 解释, 说明, 讲解 | to make something clear or easy to understand
+w001257.2 | explain | v. | A2 | 说明理由, 辩解 | to give reasons for something
+w001258.1 | fully | adv. | B1 | 完全地, 充分地, 彻底地 | completely
+w001258.2 | fully | adv. | B1 | 足足, 整整 | at least; as much as
+w001259.1 | highly | adv. | B1 | 非常, 高度地, 极其 | to a high degree; very
+w001259.2 | highly | adv. | B1 | 高度评价地, 赞许地 | with great approval or respect
+w001260.1 | holding | n. | C1 | 持有股份, 所持财产 | shares or property that someone owns
+w001260.2 | holding | n. | C1 | 馆藏, 收藏品 | items kept by a library or museum
+w001260.3 | holding | adj. | C1 | 暂时的, 拖延的 | intended to delay or keep things as they are
+w001262.1 | male | adj. | B1 | 男性的, 雄性的, 公的 | belonging to the sex that cannot have babies
+w001262.2 | male | n. | B1 | 男性, 雄性动物 | a male person or animal
+w001263.1 | plant | n. | A1 | 植物, 作物 | a living thing that grows in soil
+w001263.2 | plant | v. | A1 | 种植, 栽种, 播种 | to put plants or seeds in the ground
+w001263.3 | plant | n. | A1 | 工厂, 发电厂 | a factory or place where power is produced
+w001263.4 | plant | v. | A1 | 放置, 安插 | to put something firmly or secretly somewhere
+w001265.1 | reality | n. | B1 | 现实, 实际情况 | the way things actually are
+w001265.2 | reality | n. | B1 | 真实, 真实性 | the state of really existing
+w001267.1 | spot | n. | B1 | 地点, 场所 | a particular place
+w001267.2 | spot | n. | B1 | 斑点, 污点 | a small round mark
+w001267.3 | spot | v. | B1 | 发现, 认出, 注意到 | to see or notice someone or something
+w001267.4 | spot | n. | B1 | 粉刺, 丘疹 | a small red lump on the skin
+w001269.1 | winter | n. | A1 | 冬天, 冬季 | the coldest season of the year
+w001269.2 | winter | v. | A1 | 过冬, 越冬 | to spend the winter somewhere
+w001270.1 | worse | adj. | A2 | 更坏的, 更差的, 更糟的 | of lower quality or more unpleasant
+w001270.2 | worse | adj. | A2 | 病情更重的 | more ill than before
+w001270.3 | worse | adv. | A2 | 更坏地, 更糟地 | in a less good way
+w001271.1 | Christian | adj. | B1 | 基督教的, 基督徒的 | relating to the religion based on Jesus Christ
+w001271.2 | Christian | n. | B1 | 基督徒, 基督教徒 | a person who believes in Jesus Christ
+w001272.1 | advice | n. | A2 | 建议, 劝告, 忠告 | an opinion about what someone should do
+w001273.1 | agreement | n. | B1 | 协议, 协定, 合同 | an arrangement or contract made between people
+w001273.2 | agreement | n. | B1 | 同意, 赞同, 一致 | the state of sharing the same opinion
+w001274.1 | award | n. | B1 | 奖, 奖品, 奖项 | a prize given for an achievement
+w001274.2 | award | v. | B1 | 授予, 颁发, 判给 | to officially give a prize or payment
+w001274.3 | award | n. | B1 | 赔偿金, 裁定额 | money given by a court decision
+w001275.1 | block | n. | A2 | 块, 大块 | a solid piece of hard material
+w001275.2 | block | n. | A2 | 街区, 大楼 | an area of buildings between streets
+w001275.3 | block | v. | A2 | 阻挡, 堵塞, 阻止 | to stop something from moving or happening
+w001275.4 | block | v. | A2 | 屏蔽, 拉黑 | to prevent someone from contacting you online
+w001276.1 | broken | adj. | A2 | 破碎的, 坏了的, 损坏的 | damaged or not working
+w001276.2 | broken | adj. | A2 | 破裂的, 中断的 | ended or interrupted
+w001276.3 | broken | adj. | A2 | 不流利的, 蹩脚的 | spoken badly by a foreign speaker
+w001277.1 | challenge | n. | B1 | 挑战, 难题 | something difficult that tests your ability
+w001277.2 | challenge | v. | B1 | 质疑, 对⋯提出异议 | to question whether something is right
+w001277.3 | challenge | v. | B1 | 向⋯挑战, 激励 | to invite someone to compete or try hard
+w001278.1 | comment | n. | B1 | 评论, 意见, 评语 | something you say or write giving an opinion
+w001278.2 | comment | v. | B1 | 评论, 发表意见 | to give an opinion about something
+w001280.1 | equipment | n. | A2 | 设备, 器材, 装备 | the tools and machines needed for an activity
+w001281.1 | eventually | adv. | B1 | 最后, 终于, 最终 | in the end, after a long time
+w001282.1 | holy | adj. | B2 | 神圣的, 圣洁的 | connected with God or religion
+w001282.2 | holy | adj. | B2 | 虔诚的 | living a very religious life
+w001283.1 | killing | n. | B2 | 谋杀, 杀害, 杀戮 | an act of causing someone's death on purpose
+w001283.2 | killing | n. | B2 | 发大财, 大赚一笔 | a large profit made quickly
+w001283.3 | killing | adj. | B2 | 累死人的, 极累人的 | extremely tiring
+w001284.1 | nation | n. | B1 | 国家, 国度 | a country with its own government
+w001284.2 | nation | n. | B1 | 民族, 国民 | a large group of people sharing culture or history
+w001285.1 | otherwise | adv. | B2 | 否则, 要不然 | if not; or else
+w001285.2 | otherwise | adv. | B2 | 除此之外, 在其他方面 | apart from what has been mentioned
+w001285.3 | otherwise | adv. | B2 | 不同地, 用别的方法 | in a different way
+w001287.1 | primary | adj. | B1 | 主要的, 首要的 | most important; main
+w001287.2 | primary | adj. | B1 | 初级的, 小学的 | relating to education for young children
+w001287.3 | primary | n. | B1 | 初选 | an election to choose a party's candidate
+w001288.1 | purpose | n. | B1 | 目的, 用途, 意图 | the reason why something is done
+w001288.2 | purpose | n. | B1 | 决心, 意志 | determination to achieve something
+w001289.1 | responsible | adj. | B1 | 负责的, 有责任的 | having a duty to take care of something
+w001289.2 | responsible | adj. | B1 | 应负责任的, 作为原因的 | being the cause of something
+w001289.3 | responsible | adj. | B1 | 可靠的, 尽责的 | sensible and able to be trusted
+w001290.1 | shop | n. | A1 | 商店, 店铺 | a building or room where things are sold
+w001290.2 | shop | v. | A1 | 购物, 买东西 | to go to shops to buy things
+w001290.3 | shop | n. | A1 | 车间, 工场 | a place where things are made or repaired
+w001291.1 | sick | adj. | A1 | 生病的, 有病的 | ill; not well
+w001291.2 | sick | adj. | A1 | 恶心的, 想吐的 | feeling that you are going to vomit
+w001291.3 | sick | adj. | A1 | 厌倦的, 厌烦的 | bored or annoyed by something
+w001292.1 | teacher | n. | A1 | 教师, 老师 | a person whose job is to teach
+w001293.1 | theory | n. | B1 | 理论, 学说 | a formal set of ideas explaining something
+w001293.2 | theory | n. | B1 | 看法, 推测, 见解 | an idea someone thinks is true
+w001293.3 | theory | n. | B1 | 原理, 理论知识 | the general principles of a subject
+w001296.1 | Saturday | n. | A1 | 星期六, 周六 | the day of the week after Friday
+w001297.1 | agency | n. | B2 | 代理机构, 代理处, 中介 | a business that provides a service for others
+w001297.2 | agency | n. | B2 | 政府机构, 局 | a government department with a special job
+w001298.1 | avoid | v. | A2 | 避免, 防止 | to stop something from happening
+w001298.2 | avoid | v. | A2 | 躲开, 回避, 避开 | to stay away from someone or something
+w001299.1 | camera | n. | A1 | 照相机, 摄像机, 相机 | a device for taking photographs or recording video
+w001300.1 | catch | v. | A2 | 抓住, 接住, 捕获 | to take hold of something moving
+w001300.2 | catch | v. | A2 | 赶上, 搭乘 | to get on a bus, train, or plane
+w001300.3 | catch | v. | A2 | 染上, 感染 | to get an illness
+w001300.4 | catch | n. | A2 | 隐藏的问题, 圈套 | a hidden problem or difficulty
+w001300.5 | catch | n. | A2 | 接球, 捕获量 | an act of catching or the amount caught
+w001301.1 | cell | n. | B1 | 细胞 | the smallest living unit of a living thing
+w001301.2 | cell | n. | B1 | 牢房, 单人房间 | a small room in a prison
+w001301.3 | cell | n. | B1 | 手机 | a mobile phone
+w001302.1 | coast | n. | A2 | 海岸, 海滨, 沿海地区 | the land next to the sea
+w001302.2 | coast | v. | A2 | 滑行, 惯性行驶 | to move without using power
+w001302.3 | coast | v. | A2 | 轻松取得, 不费力地进展 | to succeed easily with little effort
+w001303.1 | drug | n. | B1 | 毒品 | an illegal substance that affects the mind
+w001303.2 | drug | n. | B1 | 药, 药物 | a medicine
+w001303.3 | drug | v. | B1 | 使服麻醉药, 下药 | to give someone a drug to make them unconscious
+w001304.1 | economy | n. | B1 | 经济, 经济体 | the system of trade and money of a country
+w001304.2 | economy | n. | B1 | 节约, 节省 | careful use of money or resources
+w001304.3 | economy | adj. | B1 | 经济型的, 经济舱的 | cheap and basic
+w001305.1 | environment | n. | B1 | 环境, 自然环境 | the natural world of land, air, and water
+w001305.2 | environment | n. | B1 | 周围状况, 氛围 | the conditions around a person or thing
+w001305.3 | environment | n. | B1 | 运行环境 | the system in which software runs
+w001306.1 | executive | n. | B2 | 主管, 经理, 高管 | a senior manager in a company
+w001306.2 | executive | adj. | B2 | 执行的, 行政的 | having power to put plans or laws into action
+w001306.3 | executive | adj. | B2 | 高级的, 豪华的 | expensive and suitable for important people
+w001307.1 | foot | n. | A1 | 脚, 足 | the part of the leg you stand on
+w001307.2 | foot | n. | A1 | 英尺 | a unit for measuring length, about 30 centimetres
+w001307.3 | foot | n. | A1 | 底部, 末端 | the lowest part or end of something
+w001307.4 | foot | v. | A1 | 支付 | to pay a bill, used with 'the bill'
+w001308.1 | hall | n. | A2 | 大厅, 会堂, 礼堂 | a large room or building for public events
+w001308.2 | hall | n. | A2 | 门厅, 走廊 | the area just inside a front door
+w001308.3 | hall | n. | A2 | 学生宿舍 | a building where university students live
+w001310.1 | mass | n. | B2 | 大量, 大批, 一大堆 | a large amount or number of something
+w001310.2 | mass | adj. | B2 | 大规模的, 大众的 | involving a large number of people
+w001310.3 | mass | n. | B2 | 质量 | the amount of matter in an object
+w001310.4 | mass | n. | B2 | 弥撒 | the main Catholic church ceremony
+w001310.5 | mass | v. | B2 | 聚集, 集结 | to gather together in large numbers
+w001311.1 | meaning | n. | A2 | 意思, 含义, 意义 | what a word or sign represents
+w001311.2 | meaning | n. | A2 | 意义, 价值 | purpose or importance
+w001312.1 | mission | n. | B2 | 任务, 使命 | an important job, especially one involving travel
+w001312.2 | mission | n. | B2 | 代表团, 使团 | a group sent to another country officially
+w001312.3 | mission | n. | B2 | 传教, 传教团 | religious work done in another place
+w001313.1 | nine | num. | A1 | 九, 九个 | the number 9
+w001314.1 | politics | n. | B1 | 政治, 政治活动 | activities related to government and power
+w001314.2 | politics | n. | B1 | 政治观点, 政见 | a person's political beliefs
+w001314.3 | politics | n. | B1 | 政治学 | the study of government
+w001315.1 | pop | n. | A2 | 流行音乐 | modern popular music
+w001315.2 | pop | v. | A2 | 砰地爆开, 发出砰声 | to burst with a short loud sound
+w001315.3 | pop | v. | A2 | 迅速去, 突然出现 | to go somewhere quickly or briefly
+w001315.4 | pop | n. | A2 | 汽水 | a sweet fizzy drink
+w001315.5 | pop | n. | A2 | 爸爸 | father
+w001316.1 | status | n. | B2 | 地位, 身份 | a person's social or professional position
+w001316.2 | status | n. | B2 | 状态, 状况 | the situation at a particular time
+w001316.3 | status | n. | B2 | 法律地位, 身份 | official legal position
+w001317.1 | therefore | adv. | B1 | 因此, 所以 | for that reason
+w001318.1 | trial | n. | B2 | 审判, 审讯 | a legal process to decide guilt in court
+w001318.2 | trial | n. | B2 | 试验, 试用 | a test of how good or safe something is
+w001318.3 | trial | n. | B2 | 磨难, 讨厌的人或事 | an annoying or difficult person or thing
+w001318.4 | trial | v. | B2 | 试验, 试用 | to test something
+w001319.1 | truly | adv. | B1 | 真正地, 确实, 真诚地 | really; sincerely
+w001319.2 | truly | adv. | B1 | 准确地, 如实地 | in an accurate way
+w001320.1 | weather | n. | A1 | 天气, 气象 | the conditions of air, rain, wind, and temperature
+w001320.2 | weather | v. | A1 | 经受住, 平安渡过 | to come safely through a difficult time
+w001320.3 | weather | v. | A1 | 风化, 侵蚀 | to change in appearance from exposure to weather
+w001322.1 | APP | n. | A2 | 应用程序, 应用, 手机软件 | a program for a phone or computer
+w001323.1 | activity | n. | A1 | 活动 | something done for interest or pleasure
+w001323.2 | activity | n. | A1 | 活跃, 繁忙, 活动状态 | a situation where a lot is happening
+w001324.1 | application | n. | B1 | 申请, 申请书 | a formal request for a job or place
+w001324.2 | application | n. | B1 | 应用, 运用 | the practical use of something
+w001324.3 | application | n. | B1 | 应用程序, 软件 | a computer program for a particular task
+w001325.1 | coffee | n. | A1 | 咖啡 | a hot drink made from roasted beans
+w001325.2 | coffee | n. | A1 | 咖啡豆, 咖啡粉 | the beans or powder used to make this drink
+w001325.3 | coffee | n. | A1 | 咖啡色 | a light brown colour

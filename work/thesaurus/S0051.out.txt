@@ -1,0 +1,400 @@
+w011719.1 | little finger | -
+w011719.2 | pinkish | -
+w011720.1 | dramatist, writer | -
+w011721.1 | exploitative, greedy | -
+w011721.2 | carnivorous | -
+w011722.1 | introduction, foreword, prologue | epilogue
+w011722.2 | introduce, open, begin | -
+w011723.1 | - | -
+w011723.2 | stipulate, specify, lay down, dictate | -
+w011724.1 | disciplinary, penal | -
+w011724.2 | harsh, severe, crippling | -
+w011725.1 | jungle | -
+w011727.1 | - | -
+w011728.1 | rosy, ruddy | -
+w011729.1 | republish | -
+w011729.2 | - | -
+w011730.1 | toilet, bathroom, washroom, lavatory | -
+w011731.1 | regular, steady, rhythmical | irregular
+w011732.1 | thief, burglar, bandit | -
+w011734.1 | - | -
+w011735.1 | - | -
+w011736.1 | supposed | confirmed
+w011737.1 | - | -
+w011739.1 | - | -
+w011739.2 | silky, glossy, smooth | -
+w011740.1 | spread, sprinkle | gather
+w011740.2 | disperse, break up, dispel | gather, assemble
+w011741.1 | clamber, climb, crawl | -
+w011741.2 | rush, hurry, scurry, compete | -
+w011741.3 | jumble, mix up | -
+w011742.1 | separated | -
+w011743.1 | - | -
+w011743.2 | meaning, wording | -
+w011744.1 | brazen, unashamed, barefaced | ashamed
+w011745.1 | - | -
+w011745.2 | - | -
+w011746.1 | wrongdoer, offender | saint
+w011747.1 | - | -
+w011747.2 | skinny, gaunt, thin | fat, plump
+w011747.3 | basic, minimal, sketchy | -
+w011748.1 | photo, snap, photograph | -
+w011748.2 | glimpse, picture, overview | -
+w011749.1 | rocket, shoot up, rise, surge | plummet, plunge
+w011749.2 | fly, rise, glide | -
+w011750.1 | round, globular | -
+w011751.1 | scatter, dust, shower | -
+w011751.2 | scattering, dash | -
+w011752.1 | - | -
+w011752.2 | neat, smart, trim, tidy | scruffy
+w011752.3 | smarten up, tidy, do up | -
+w011754.1 | endurance, energy | weakness
+w011755.1 | independent, self-contained | -
+w011756.1 | unconscious, subliminal | conscious
+w011756.2 | unconscious | -
+w011757.1 | philosopher, intellectual | -
+w011758.1 | tonic water | -
+w011758.2 | restorative | -
+w011758.3 | boost, lift, pick-me-up | -
+w011759.1 | annoying, irritating, difficult, problematic | -
+w011760.1 | growth, lump, cancer | -
+w011761.1 | two | -
+w011762.1 | disappear, fade, die out | appear
+w011763.1 | energetically, forcefully, strongly | feebly, weakly
+w011764.1 | noticeably, clearly, obviously | -
+w011769.1 | sudden, unexpected, hasty | gradual
+w011769.2 | curt, brusque, rude, short | polite
+w011770.1 | abbreviation | -
+w011771.1 | hardship, misfortune, difficulty, trouble | prosperity
+w011772.1 | - | -
+w011773.1 | statement | -
+w011775.1 | - | -
+w011776.1 | - | -
+w011777.1 | approve, permit, allow, sanction | forbid, ban
+w011778.1 | - | baron
+w011779.1 | wheelbarrow, cart | -
+w011779.2 | mound | -
+w011781.1 | - | -
+w011782.1 | - | -
+w011784.1 | shirt | -
+w011785.1 | guard, minder | -
+w011786.1 | - | -
+w011787.1 | - | -
+w011788.1 | - | -
+w011788.2 | - | -
+w011789.1 | chat, babble, prattle, gossip | -
+w011789.2 | rattle, clatter | -
+w011789.3 | chat, babble | silence
+w011790.1 | priest, clergyman, minister | layman
+w011791.1 | comic, comical, funny | tragic
+w011792.1 | collect, assemble, gather, put together | -
+w011792.2 | - | -
+w011793.1 | - | -
+w011797.1 | puma, mountain lion | -
+w011797.2 | - | -
+w011799.1 | trick, fool, mislead, cheat | -
+w011800.1 | slander, libel | -
+w011802.1 | - | -
+w011802.2 | - | omnidirectional
+w011803.1 | follower, devotee, pupil | leader
+w011803.2 | apostle | -
+w011804.1 | likewise | -
+w011804.2 | - | -
+w011805.1 | different | convergent
+w011806.1 | PhD | -
+w011808.1 | utterly, completely, totally, positively | -
+w011808.2 | complete, utter, total, absolute | -
+w011809.1 | - | -
+w011810.1 | basic, fundamental, primitive | -
+w011810.2 | natural | -
+w011811.1 | raise, promote, lift, upgrade | demote, lower
+w011811.2 | raise, lift, hoist | lower
+w011812.1 | model, ideal, excellent, perfect | -
+w011812.2 | cautionary, deterrent | -
+w011813.1 | extensive, broad, wide, vast | narrow
+w011813.2 | talkative, outgoing, sociable | reserved
+w011814.1 | - | -
+w011815.1 | gosh, wow | -
+w011816.1 | - | -
+w011817.1 | - | -
+w011817.2 | - | -
+w011819.1 | rebel, partisan | -
+w011819.2 | - | -
+w011820.1 | drain, ditch, channel | -
+w011820.2 | - | -
+w011821.1 | substantial, filling, big | light
+w011821.2 | warm, enthusiastic, cordial, wholehearted | cold
+w011823.1 | slope, hill | -
+w011825.1 | panic, frenzy, madness | calm
+w011826.1 | fair, neutral, unbiased, objective | biased, partial
+w011827.1 | colonialism | -
+w011828.1 | mark, impression, print | -
+w011828.2 | stamp, print, engrave | -
+w011828.3 | - | -
+w011829.1 | gradual | sudden
+w011830.1 | babyhood | -
+w011830.2 | - | maturity
+w011831.1 | - | -
+w011832.1 | ask, query, enquire | answer
+w011832.2 | investigate, look into, probe | -
+w011834.1 | huge, giant, enormous | tiny
+w011834.2 | jumbo jet | -
+w011835.1 | - | -
+w011837.1 | eyelash | -
+w011837.2 | stroke, whip | -
+w011837.3 | beat, batter, pound | -
+w011837.4 | tie, bind, fasten, strap | untie
+w011837.5 | criticize, attack, lash out | praise
+w011838.1 | - | -
+w011843.1 | controllable, achievable | unmanageable
+w011844.1 | - | -
+w011846.1 | longitude | -
+w011846.2 | - | -
+w011847.1 | - | -
+w011847.2 | - | -
+w011849.1 | offence, crime | felony
+w011850.1 | bad luck, adversity, hardship, disaster | fortune, luck
+w011851.1 | hilly | flat
+w011851.2 | huge, enormous, massive | tiny
+w011852.1 | unpleasant, offensive, nasty, horrible | pleasant, delightful
+w011854.1 | - | -
+w011855.1 | - | -
+w011855.2 | traveller, visitor | -
+w011856.1 | clearly, obviously, evidently | -
+w011856.2 | frankly, bluntly, honestly | -
+w011856.3 | simply | elaborately
+w011858.1 | - | -
+w011858.2 | gather | -
+w011858.3 | search, comb, scour | -
+w011859.1 | begrudge, dislike | appreciate
+w011860.1 | punishment, revenge, vengeance | forgiveness
+w011861.1 | - | -
+w011861.2 | grandiose, pompous | sincere
+w011862.1 | legitimate, lawful, legal, proper | -
+w011864.1 | gossip, hearsay, story | fact
+w011864.2 | - | -
+w011866.1 | sperm | -
+w011869.1 | cut, reduce, trim, abbreviate | lengthen, extend
+w011870.1 | - | -
+w011870.2 | - | -
+w011871.1 | goo, sludge, mud | -
+w011871.2 | - | -
+w011872.1 | plant, seed | harvest, reap
+w011872.2 | spread, cause, plant | -
+w011872.3 | - | boar
+w011873.1 | glitter, twinkle, shine, glisten | -
+w011873.2 | glitter, twinkle, flash | -
+w011873.3 | vitality, energy, liveliness, life | dullness
+w011874.1 | produce, generate, create, cause | -
+w011874.2 | - | -
+w011874.3 | roe | -
+w011875.1 | vote | -
+w011876.1 | substitute, replacement, proxy | -
+w011876.2 | substitute, replacement, proxy | -
+w011876.3 | - | -
+w011877.1 | summary, outline, abstract, plot | -
+w011879.1 | - | -
+w011880.1 | dissertation, thesis, essay | -
+w011882.1 | upward | downhill
+w011882.2 | upward | downhill
+w011882.3 | difficult, hard, tough, arduous | easy
+w011884.1 | variation, inconsistency | consistency, stability
+w011885.1 | - | -
+w011885.2 | - | -
+w011885.3 | breeze, stroll, sail | -
+w011886.1 | leafy | -
+w011892.1 | glue, gum, paste | -
+w011892.2 | sticky, gummy | -
+w011893.1 | wealthy, rich, prosperous, well-off | poor
+w011894.1 | vagueness, uncertainty, obscurity | clarity
+w011895.1 | agony, torment, suffering, distress | -
+w011895.2 | agonize, suffer | -
+w011896.1 | - | -
+w011897.1 | dry, desert | wet, humid
+w011897.2 | dull, boring, dry | interesting
+w011898.1 | robber, outlaw, thief | -
+w011899.1 | lawyer, counsel | -
+w011900.1 | market, marketplace | -
+w011900.2 | fair, sale | -
+w011901.1 | recipient | benefactor
+w011901.2 | heir, recipient | -
+w011902.1 | motorcyclist | -
+w011902.2 | cyclist | -
+w011903.1 | - | partisan
+w011904.1 | home, hometown, cradle | -
+w011907.1 | booklet, leaflet, pamphlet | -
+w011908.1 | - | -
+w011908.2 | commission, fee | -
+w011909.1 | accumulation, increase, growth | decrease, reduction
+w011909.2 | hype, publicity, promotion | -
+w011910.1 | masculine, macho | feminine
+w011914.1 | civilization, culture, society | barbarism
+w011914.2 | civilization | wilderness
+w011915.1 | - | -
+w011915.2 | - | -
+w011916.1 | miner | -
+w011916.2 | - | -
+w011917.1 | huge, enormous, gigantic, massive | tiny
+w011919.1 | - | -
+w011919.2 | - | -
+w011920.1 | - | -
+w011920.2 | editor | -
+w011921.1 | save, preserve, economize | waste
+w011921.2 | protect, preserve, save | destroy
+w011921.3 | jam, preserve | -
+w011922.1 | - | -
+w011922.2 | group, cluster, collection | -
+w011923.1 | outline, shape, profile | -
+w011923.2 | - | -
+w011923.3 | shape, mould | -
+w011924.1 | crisp, crunchy | soft, soggy
+w011925.1 | short, clipped | long
+w011925.2 | - | -
+w011926.1 | - | -
+w011927.1 | - | -
+w011927.2 | - | -
+w011928.1 | definitely, distinctly, clearly | -
+w011929.1 | illusion, misconception, fantasy | -
+w011930.1 | devaluation, fall | appreciation
+w011931.1 | appoint, assign, nominate, choose | -
+w011931.2 | name, label, classify | -
+w011931.3 | - | -
+w011932.1 | throw away, get rid of, dump, scrap | keep, retain
+w011932.2 | - | -
+w011932.3 | reject | -
+w011933.1 | dissatisfaction, unhappiness, displeasure | contentment, satisfaction
+w011933.2 | dissatisfied | content, satisfied
+w011936.1 | - | -
+w011937.1 | jerk, idiot | -
+w011937.2 | rinse | -
+w011937.3 | rinse, wash | -
+w011938.1 | dam, embankment, levee | -
+w011938.2 | ditch, channel, drain | -
+w011938.3 | - | -
+w011939.1 | diverse, varied, wide-ranging | narrow
+w011940.1 | elated, thrilled, delighted | miserable, depressed
+w011941.1 | widespread, prevalent, common | -
+w011941.2 | native, indigenous, local | foreign
+w011942.1 | recruit, obtain, secure | -
+w011942.2 | join up, sign up, recruit | -
+w011943.1 | brow | -
+w011944.1 | fireman | -
+w011945.1 | - | -
+w011945.2 | neon, bright, vivid | dull
+w011946.1 | ultramodern, advanced | -
+w011947.1 | feature, characteristic, trademark, sign | -
+w011947.2 | - | -
+w011947.3 | - | -
+w011949.1 | hurry, rush, speed | -
+w011951.1 | recognizable, distinguishable | unidentifiable
+w011952.1 | uneducated | literate
+w011952.2 | ignorant, uninformed | literate
+w011952.3 | - | -
+w011953.1 | spotless, clean, pristine | dirty, filthy
+w011953.2 | flawless, perfect, faultless | -
+w011954.1 | tendency, desire, preference, wish | disinclination
+w011954.2 | slope, gradient, incline, tilt | -
+w011955.1 | - | -
+w011956.1 | mixed | -
+w011957.1 | trespasser, invader, burglar | -
+w011958.1 | inner, internal, private | outward
+w011958.2 | incoming, internal | outward
+w011958.3 | inwards, inside | outward
+w011959.1 | flotation | -
+w011964.1 | - | -
+w011964.2 | curly, frizzy | straight
+w011965.1 | - | -
+w011965.2 | - | -
+w011966.1 | lawfulness, legitimacy | illegality
+w011966.2 | technicality | -
+w011967.1 | reduce, decrease, diminish, ease | increase, heighten
+w011968.1 | life, lifetime | -
+w011969.1 | - | -
+w011969.2 | - | -
+w011970.1 | slacken, undo, unfasten, relax | tighten
+w011970.2 | relax, ease | tighten
+w011973.1 | manliness, virility | femininity
+w011975.1 | tiny, minute, minuscule | huge, enormous
+w011975.2 | - | -
+w011976.1 | noon | midnight
+w011977.1 | complain, grumble, whine, whinge | -
+w011977.2 | groan, sigh, wail | -
+w011977.3 | groan, complaint, grumble | -
+w011978.1 | - | -
+w011979.1 | maternity | fatherhood
+w011981.1 | homicidal, violent, savage | -
+w011982.1 | enlightenment | -
+w011982.2 | paradise, heaven, bliss | hell
+w011983.1 | - | smoker
+w011984.1 | direct, through | -
+w011984.2 | continuously, constantly | -
+w011985.1 | famously, infamously | -
+w011987.1 | porridge | -
+w011987.2 | oats | -
+w011988.1 | cloudy, murky | transparent, clear
+w011988.2 | obscure, unclear, impenetrable | clear
+w011989.1 | arms, munitions | -
+w011990.1 | begin, start, arise, stem | -
+w011990.2 | create, invent, launch, initiate | -
+w011991.1 | - | -
+w011992.1 | farewell, departure, separation | meeting
+w011992.2 | farewell, final, last | -
+w011992.3 | part | -
+w011993.1 | - | -
+w011994.1 | - | -
+w011994.2 | impact, collision | -
+w011995.1 | colour, dye, paint | -
+w011995.2 | colouring | -
+w011996.1 | permeable, spongy | waterproof
+w011996.2 | leaky | secure
+w011997.1 | - | -
+w011998.1 | - | -
+w011999.1 | - | -
+w011999.2 | - | -
+w012000.1 | bridle | -
+w012000.2 | control, power | -
+w012000.3 | curb, restrain, check, limit | -
+w012001.1 | artefact, remnant, remains, antique | -
+w012001.2 | - | -
+w012001.3 | throwback, dinosaur | -
+w012002.1 | slow down, delay, hinder, impede | accelerate, speed up
+w012002.2 | - | -
+w012003.1 | bring together | separate
+w012003.2 | reunify, rejoin | divide
+w012004.1 | recycle | discard
+w012004.2 | - | -
+w012006.1 | road, carriageway | -
+w012007.1 | rural, country, simple | urban
+w012007.2 | peasant, countryman | -
+w012009.1 | hygienic | unsanitary
+w012009.2 | hygienic, clean | unsanitary, dirty
+w012011.1 | - | -
+w012011.2 | - | -
+w012011.3 | - | -
+w012012.1 | shortage, lack, scarceness | abundance, plenty
+w012013.1 | - | -
+w012014.1 | problem, hitch, blow, reversal | breakthrough
+w012015.1 | considerable, substantial, large | small
+w012016.1 | - | non-smoker
+w012016.2 | - | -
+w012018.1 | shock, astonish, amaze, stagger | -
+w012018.2 | knock out, daze | -
+w012019.1 | quiet, low, downcast | lively, cheerful
+w012019.2 | soft, dim | bright, loud
+w012020.1 | exceed, outdo, beat, outshine | -
+w012021.1 | approach, tactic, course | -
+w012021.2 | drawing pin, pin | -
+w012021.3 | pin | -
+w012021.4 | add | -
+w012022.1 | pie, flan | -
+w012022.2 | sour, sharp, acid | sweet
+w012022.3 | sharp, sarcastic, cutting | kind
+w012024.1 | tiresome | refreshing, relaxing
+w012025.1 | - | -
+w012026.1 | - | -
+w012026.2 | - | -
+w012027.1 | temporary, fleeting, brief, short-lived | permanent, lasting
+w012027.2 | temporary, migrant | permanent
+w012027.3 | migrant, drifter | -
+w012028.1 | victorious, winning, successful | -
+w012028.2 | jubilant, exultant, elated | -

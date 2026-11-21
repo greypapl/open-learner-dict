@@ -1,0 +1,400 @@
+w008211.1 | spool, roll | -
+w008211.2 | stagger, totter, sway, lurch | -
+w008211.3 | spin | -
+w008211.4 | - | -
+w008212.1 | practice, dress rehearsal | performance
+w008212.2 | practice, preparation, drill | -
+w008213.1 | strengthen, consolidate, support, bolster | weaken, undermine
+w008213.2 | strengthen, fortify, support | weaken
+w008214.1 | resume, reboot | stop
+w008214.2 | resumption, reboot | -
+w008215.1 | revitalize, restore, regenerate | kill
+w008215.2 | resuscitate, refresh | -
+w008216.1 | thorough, strict, meticulous, careful | careless, sloppy
+w008216.2 | harsh, severe, demanding | mild
+w008217.1 | ring, chime | -
+w008217.2 | loud, resounding, resonant | -
+w008217.3 | strong, emphatic, firm | -
+w008218.1 | shawl, muffler | -
+w008218.2 | gobble, wolf | -
+w008219.1 | landscape, view, scene | -
+w008219.2 | set | -
+w008220.1 | - | -
+w008221.1 | pavement, footpath | -
+w008222.1 | doubtful, sceptical, suspicious | -
+w008224.1 | drowsy, tired | awake, alert
+w008224.2 | quiet, peaceful | busy, lively
+w008225.1 | easily, well | -
+w008225.2 | evenly, steadily | roughly
+w008226.1 | - | -
+w008226.2 | basic, essential | luxury
+w008226.3 | main, basic, principal, standard | -
+w008226.4 | fasten, pin | -
+w008228.1 | moving | dull
+w008228.2 | beginning, sign | -
+w008229.1 | thread, string, fibre | -
+w008229.2 | element, aspect, part | -
+w008229.3 | maroon, leave | -
+w008230.1 | repression | -
+w008230.2 | concealment, restraint | expression
+w008231.1 | halt, postpone, interrupt | resume
+w008231.2 | - | reinstate
+w008231.3 | hang | -
+w008232.1 | lump, bump, inflammation | -
+w008232.2 | increase, growth, expansion | decrease
+w008233.1 | vocabulary, jargon, language | -
+w008234.1 | dramatic | -
+w008234.2 | exaggerated, dramatic, showy | natural
+w008235.1 | clock | -
+w008236.1 | guardian, custodian | -
+w008236.2 | director, governor | -
+w008237.1 | attendance, crowd | -
+w008237.2 | - | -
+w008238.1 | united | -
+w008239.1 | erratic, changeable, unstable | predictable
+w008240.1 | confirmation, verification | -
+w008240.2 | approval, recognition | rejection
+w008241.1 | revenge, retribution | forgiveness
+w008243.1 | - | -
+w008254.1 | - | -
+w008255.1 | arrival, coming, appearance | departure
+w008255.2 | - | -
+w008256.1 | - | -
+w008256.2 | flying, aloft | -
+w008256.3 | - | -
+w008257.1 | - | -
+w008257.2 | unfortunately, sadly, regrettably | fortunately
+w008258.1 | amazing, astounding, surprising | ordinary
+w008259.1 | - | -
+w008260.1 | - | -
+w008262.1 | follower, disciple | unbeliever, atheist
+w008262.2 | supporter, advocate | sceptic
+w008263.1 | shelter, dugout | -
+w008263.2 | sand trap | -
+w008263.3 | - | -
+w008264.1 | - | -
+w008266.1 | disorderly, messy, confused | orderly, organized
+w008267.1 | quote, refer to, mention | -
+w008267.2 | mention, name, list | -
+w008267.3 | summon | -
+w008268.1 | announcer, reporter | -
+w008268.2 | critic, analyst, pundit | -
+w008269.1 | - | -
+w008269.2 | - | -
+w008270.1 | puzzle, bewilder, baffle | clarify
+w008270.2 | mix up, muddle | distinguish
+w008271.1 | chicken | hero
+w008272.1 | damn | -
+w008273.1 | valley, hollow | -
+w008274.1 | dip, hollow | bump
+w008274.2 | - | -
+w008274.3 | damage, weaken, harm | boost
+w008275.1 | leave, go, set off | arrive
+w008275.2 | deviate, diverge | -
+w008276.1 | let down, dissatisfy | satisfy, please
+w008276.2 | frustrate, thwart | fulfil
+w008277.1 | - | -
+w008278.1 | pigeon | -
+w008278.2 | pacifist | hawk
+w008279.1 | dirty | clean
+w008279.2 | grey, dull | bright
+w008280.1 | illumination, education, insight | ignorance
+w008280.2 | - | -
+w008281.1 | thread, strand | -
+w008281.2 | roughage | -
+w008281.3 | character, backbone, strength | -
+w008282.1 | fitting | -
+w008282.2 | match, game, event | -
+w008282.3 | regular | -
+w008283.1 | central, main | peripheral
+w008283.2 | - | -
+w008284.1 | scary, alarming | reassuring
+w008285.1 | bastard | -
+w008286.1 | festival, celebration, party | -
+w008286.2 | - | -
+w008289.1 | willingly, happily, readily | reluctantly
+w008290.1 | kindness, friendliness, benevolence | hostility, ill will
+w008290.2 | - | -
+w008291.1 | rule, run, manage, control | -
+w008291.2 | control, determine, influence | -
+w008292.1 | slow, steady, progressive | sudden, abrupt
+w008292.2 | gentle, slight | steep
+w008293.1 | food | -
+w008294.1 | - | -
+w008294.2 | geek | -
+w008296.1 | use, exploit, utilize | waste
+w008296.2 | tack | -
+w008296.3 | strap, safety belt | -
+w008296.4 | yoke | -
+w008297.1 | - | -
+w008298.1 | pulse | -
+w008298.2 | heart, core, centre | -
+w008299.1 | - | -
+w008301.1 | respectable, worthy, noble | dishonourable, shameful
+w008301.2 | honest, upright, principled | dishonest
+w008301.3 | - | -
+w008302.1 | impending, forthcoming | remote
+w008303.1 | - | -
+w008303.2 | first, opening, initial | final
+w008304.1 | - | -
+w008304.2 | isolation, separation | -
+w008305.1 | trainee, apprentice | -
+w008305.2 | train | -
+w008305.3 | detain, imprison, confine | release
+w008306.1 | reckless, careless | responsible
+w008310.1 | fall behind, trail | lead
+w008310.2 | delay, gap, interval | -
+w008310.3 | delay | -
+w008312.1 | area, neighbourhood, district, vicinity | -
+w008313.1 | tempt, entice, attract | repel, deter
+w008313.2 | attraction, appeal, temptation | -
+w008313.3 | bait | -
+w008314.1 | spiteful, vicious, malevolent | kind, benevolent
+w008315.1 | - | -
+w008316.1 | haze, fog, vapour | -
+w008316.2 | fog up | clear
+w008316.3 | spray | -
+w008317.1 | - | -
+w008317.2 | - | -
+w008317.3 | spy, informer, double agent | -
+w008318.1 | - | -
+w008319.1 | - | republic
+w008319.2 | kingdom, crown, royalty | republic
+w008320.1 | strong, brawny, athletic | weak, puny
+w008320.2 | - | -
+w008321.1 | impartiality, objectivity | partiality
+w008323.1 | loud, rowdy, raucous | quiet, silent
+w008325.1 | climax | -
+w008325.2 | climax, come | -
+w008327.1 | package, packet | -
+w008327.2 | plot, tract, lot | -
+w008327.3 | wrap, package | unwrap
+w008328.1 | divider, screen, wall | -
+w008328.2 | division, separation, split | unification
+w008328.3 | divide, separate, split | unite
+w008328.4 | - | -
+w008329.1 | strange, odd, weird, bizarre | normal, ordinary
+w008329.2 | characteristic, unique, distinctive | common
+w008330.1 | exclusive | generic
+w008330.2 | - | -
+w008331.1 | - | -
+w008332.1 | hero, lead | antagonist
+w008332.2 | champion, advocate, supporter | opponent
+w008335.1 | rave, shout, complain | -
+w008335.2 | tirade, diatribe, outburst | -
+w008336.1 | reckless, hasty, impulsive | careful, cautious
+w008336.2 | eruption | -
+w008336.3 | spate, series, wave | -
+w008337.1 | copy, reproduction, model | original
+w008338.1 | live, dwell, stay | -
+w008338.2 | lie, rest, belong | -
+w008339.1 | mature, ready | unripe, green
+w008339.2 | ready, right | -
+w008340.1 | riverbank, bank | -
+w008342.1 | rational, lucid, normal | insane, mad
+w008342.2 | sensible, reasonable, wise | foolish
+w008343.1 | rescuer, saviour, deliverer | -
+w008343.2 | Messiah | -
+w008344.1 | picturesque, beautiful | ugly
+w008344.2 | - | -
+w008345.1 | drink | gulp
+w008345.2 | taste, drop | gulp
+w008346.1 | - | -
+w008347.1 | - | -
+w008348.1 | encourage, promote, boost, spur | discourage
+w008348.2 | excite, arouse, inspire | bore
+w008349.1 | oddly, curiously, weirdly | normally
+w008350.1 | vulnerable, prone, liable | resistant, immune
+w008350.2 | capable, open | -
+w008352.1 | interpreter | -
+w008352.2 | - | -
+w008353.1 | broadcast, send, transfer | receive
+w008353.2 | spread, pass on, communicate | -
+w008353.3 | conduct, convey, pass on | -
+w008354.1 | teacher, coach | pupil
+w008354.2 | supervisor, mentor | student
+w008354.3 | teach, coach, instruct | -
+w008355.1 | dangerous, hazardous, risky | safe
+w008355.2 | unreliable | safe
+w008356.1 | brink, edge, threshold | -
+w008356.2 | roadside, shoulder | -
+w008356.3 | border on, approach | -
+w008357.1 | lively, dynamic, energetic | dull, lifeless
+w008357.2 | bright, vivid, brilliant | dull, pale
+w008358.1 | stroll, roam | -
+w008358.2 | stray, drift, digress | -
+w008358.3 | stroll, ramble, walk | -
+w008361.1 | - | -
+w008363.1 | text | -
+w008366.1 | intake, uptake | emission
+w008366.2 | concentration, engrossment, immersion | distraction
+w008366.3 | assimilation, integration, incorporation | -
+w008367.1 | speed up, quicken, hasten | slow down, decelerate
+w008368.1 | - | -
+w008369.1 | promote, publicize, market | -
+w008369.2 | announce, publicize | -
+w008370.1 | apologize | -
+w008371.1 | killer, murderer, hitman | -
+w008372.1 | allocate, allot, give | -
+w008372.2 | appoint, designate, post | -
+w008372.3 | attribute, ascribe | -
+w008375.1 | reaction, opposition | support
+w008376.1 | barbecue, cookout | -
+w008376.2 | barbecue, grill | -
+w008378.1 | - | -
+w008379.1 | light bulb | -
+w008379.2 | corm | -
+w008380.1 | - | -
+w008380.2 | wooden, flat | -
+w008381.1 | carelessly, nonchalantly | carefully
+w008381.2 | informally | formally
+w008382.1 | licensed | -
+w008382.2 | - | -
+w008383.1 | munch, masticate | -
+w008383.2 | gnaw, bite | -
+w008383.3 | - | -
+w008384.1 | situation, condition | -
+w008384.2 | means, situation | -
+w008385.1 | security, guarantee, pledge | -
+w008385.2 | secondary, indirect, incidental | -
+w008386.1 | overcrowding, jam | -
+w008386.2 | - | -
+w008387.1 | fusion, mix | -
+w008387.2 | - | -
+w008387.3 | hybrid | -
+w008388.1 | munch, crush, grind | -
+w008388.2 | crack, snap | -
+w008388.3 | crisis, emergency, shortage | -
+w008389.1 | day | night-time
+w008391.1 | end, collapse, downfall | rise
+w008391.2 | death, passing | birth
+w008392.1 | reliance | independence
+w008392.2 | addiction, dependency | -
+w008394.1 | tyrant, despot, autocrat | -
+w008394.2 | tyrant, bully | -
+w008395.1 | - | -
+w008396.1 | terrible, dreadful, awful | -
+w008396.2 | urgent, desperate, extreme | -
+w008397.1 | argument, dispute, difference | agreement
+w008397.2 | discrepancy, difference, inconsistency | agreement
+w008398.1 | ignore, neglect, overlook | heed, respect
+w008398.2 | indifference, neglect | regard, respect
+w008399.1 | supplier, wholesaler, dealer | -
+w008399.2 | - | -
+w008400.1 | rule, control, authority, power | -
+w008400.2 | territory, domain, realm | -
+w008400.3 | - | -
+w008401.1 | down | uphill
+w008401.2 | - | uphill
+w008401.3 | - | -
+w008402.1 | awful, terrible, horrible | wonderful
+w008402.2 | frightful, terrible, horrific | -
+w008402.3 | terrible, awful, utter | -
+w008403.1 | drunk | sober
+w008403.2 | - | sober
+w008404.1 | serious, sincere, solemn | frivolous
+w008404.2 | seriousness, sincerity | -
+w008405.1 | delete, rub out, wipe out | -
+w008405.2 | wipe out, remove, eliminate | -
+w008407.1 | dead | living, extant
+w008407.2 | inactive, dead | active
+w008407.3 | obsolete, defunct | -
+w008408.1 | ban, prohibit, outlaw | allow, permit
+w008409.1 | - | -
+w008410.1 | - | -
+w008411.1 | - | -
+w008411.2 | dash, race, rush | -
+w008412.1 | here | -
+w008413.1 | - | -
+w008413.2 | unpaid, voluntary | paid
+w008414.1 | childish, juvenile, infantile | mature
+w008414.2 | young, undeveloped | mature
+w008415.1 | essential, vital, crucial, urgent | unimportant
+w008415.2 | necessity, requirement, must | -
+w008415.3 | - | -
+w008416.1 | useless, futile, inefficient | effective
+w008420.1 | weave | -
+w008420.2 | join, unite, bind | -
+w008420.3 | knitwear | -
+w008422.1 | masculine, virile | effeminate
+w008424.1 | - | -
+w008424.2 | motherhood, pregnancy | paternity
+w008425.1 | wrongdoing, malpractice | -
+w008426.1 | spirit, confidence | -
+w008427.1 | silent, speechless, dumb | vocal
+w008427.2 | muffle, silence, soften | amplify
+w008427.3 | - | -
+w008428.1 | unnecessary, pointless, unneeded | necessary
+w008429.1 | geek, swot | -
+w008429.2 | geek, enthusiast, buff | -
+w008431.1 | newness, originality, freshness | familiarity
+w008431.2 | innovation, curiosity | -
+w008431.3 | trinket, gimmick | -
+w008432.1 | hope, hopefulness, positivity | pessimism
+w008433.1 | improvement | -
+w008434.1 | obsolete, out of date | modern, up-to-date
+w008435.1 | - | -
+w008436.1 | - | -
+w008439.1 | marginal, minor, secondary | central, core
+w008439.2 | outer, surrounding | central
+w008439.3 | - | -
+w008440.1 | - | -
+w008440.2 | - | -
+w008441.1 | poo, excrement | -
+w008441.2 | poo | -
+w008442.1 | porn, erotica | -
+w008444.1 | frequency, commonness, extent | rarity
+w008444.2 | incidence, rate | -
+w008445.1 | lawsuit, case, action | -
+w008445.2 | process | -
+w008445.3 | - | -
+w008446.1 | say, articulate, enunciate | mispronounce
+w008446.2 | declare, announce, proclaim | -
+w008447.1 | temporary, interim, tentative | permanent, final
+w008449.1 | comment, statement, observation | -
+w008449.2 | comment, mention, observe | -
+w008449.3 | notice, observe, note | -
+w008450.1 | pay back, refund, return | borrow
+w008450.2 | reward, return | -
+w008453.1 | wet | dry
+w008453.2 | full | -
+w008453.3 | - | unsaturated
+w008454.1 | push, thrust, jostle | pull
+w008454.2 | stick, put, stuff | -
+w008454.3 | push, thrust | pull
+w008455.1 | - | -
+w008456.1 | - | northwestern
+w008457.1 | encourage, motivate, prompt, stimulate | discourage
+w008457.2 | incentive, stimulus, motivation | deterrent
+w008457.3 | - | -
+w008458.1 | narration, narrative | -
+w008459.1 | foolishness, idiocy, silliness | intelligence, wisdom
+w008460.1 | crush, quell, put down | -
+w008460.2 | restrain, hold back, stifle | express
+w008460.3 | conceal, hide, cover up | reveal, disclose
+w008461.1 | real, concrete, actual | abstract, intangible
+w008461.2 | touchable, physical | intangible
+w008464.1 | lean, slant, tip | -
+w008464.2 | slant, slope, lean | -
+w008465.1 | minor, petty, insignificant | important, significant
+w008466.1 | informal, unauthorized | official
+w008467.1 | - | -
+w008467.2 | cover, screen, mask | -
+w008467.3 | disguise, hide, conceal | reveal
+w008468.1 | gifted | -
+w008468.2 | adaptable, flexible | -
+w008470.1 | marry | divorce
+w008470.2 | unite, combine, join | separate
+w008475.1 | - | -
+w008477.1 | - | -
+w008482.1 | - | -
+w008483.1 | - | vein
+w008483.2 | highway | -
+w008484.1 | - | -
+w008485.1 | - | -
+w008486.1 | - | -
+w008488.1 | alcohol, drink, liquor | -
+w008488.2 | drink | -
+w008490.1 | quality, ability, standard | -
+w008490.2 | bore | -
+w008492.1 | mobile phone, mobile | -

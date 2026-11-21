@@ -1,0 +1,401 @@
+w007387.1 | gay | straight
+w007387.2 | strange, odd, peculiar, weird | normal
+w007387.3 | - | -
+w007388.1 | think, suppose, believe, guess | -
+w007388.2 | calculate, estimate, work out | -
+w007388.3 | consider, regard | -
+w007389.1 | limit, limitation, restraint, constraint | -
+w007389.2 | limitation, control | -
+w007390.1 | revival, comeback | -
+w007390.2 | - | -
+w007391.1 | - | -
+w007391.2 | wanderer, traveller | -
+w007392.1 | load, consignment, cargo | -
+w007392.2 | delivery, transport | -
+w007393.1 | - | -
+w007394.1 | - | -
+w007395.1 | - | -
+w007395.2 | spotless, pure, clean | -
+w007396.1 | legal, official | voluntary
+w007397.1 | outstanding, excellent, brilliant | poor
+w007397.2 | - | -
+w007398.1 | obstinate, determined, inflexible | flexible
+w007398.2 | persistent | -
+w007400.1 | - | -
+w007400.2 | - | -
+w007401.1 | firmly, closely, securely | loosely
+w007401.2 | strictly | loosely
+w007403.1 | - | -
+w007403.2 | move, transfer | -
+w007403.3 | move, relocate | -
+w007404.1 | grass, lawn | -
+w007404.2 | territory, patch | -
+w007404.3 | kick out, throw out | -
+w007405.1 | jerk, jump | -
+w007405.2 | jerk, spasm | -
+w007406.1 | exceptionally, remarkably, extremely | -
+w007406.2 | strangely | usually
+w007407.1 | - | -
+w007408.1 | - | -
+w007412.1 | - | -
+w007413.1 | - | -
+w007414.1 | - | -
+w007414.2 | - | -
+w007415.1 | - | -
+w007415.2 | - | -
+w007415.3 | protect | -
+w007416.1 | fasten, fix, join, connect | detach, remove
+w007416.2 | add | -
+w007416.3 | give, ascribe | -
+w007417.1 | tie, fasten | untie
+w007417.2 | oblige, commit | release
+w007417.3 | unite, join, link | divide
+w007417.4 | difficulty, fix, problem | -
+w007419.1 | - | freezing
+w007419.2 | hot, scorching | freezing
+w007421.1 | bottom, backside | -
+w007421.2 | tramp | -
+w007421.3 | cadge, scrounge | -
+w007422.1 | - | -
+w007422.2 | slaughter, massacre | -
+w007422.3 | slaughter | -
+w007425.1 | idea, concept, notion, understanding | -
+w007425.2 | creation, design | -
+w007425.3 | - | -
+w007426.1 | signal, sign, hint | -
+w007426.2 | - | -
+w007426.3 | signal, prompt | -
+w007427.1 | act, action, feat | -
+w007427.2 | - | -
+w007428.1 | - | -
+w007428.2 | - | -
+w007429.1 | - | giant
+w007429.2 | overshadow | -
+w007429.3 | miniature | giant
+w007430.1 | - | -
+w007432.1 | - | -
+w007433.1 | support, approval, backing | criticism
+w007433.2 | - | -
+w007433.3 | signature | -
+w007434.1 | limited | infinite
+w007434.2 | - | -
+w007435.1 | - | -
+w007435.2 | - | -
+w007435.3 | leading, main, chief | -
+w007436.1 | - | -
+w007436.2 | detailed, thorough | -
+w007437.1 | coming, upcoming | past
+w007437.2 | available | -
+w007437.3 | open, frank, communicative | reserved
+w007438.1 | - | -
+w007439.1 | enthusiastic, complimentary | critical
+w007439.2 | bright, shining | -
+w007439.3 | radiant, healthy | pale
+w007440.1 | - | -
+w007441.1 | blood | -
+w007441.2 | - | -
+w007442.1 | government | -
+w007443.1 | dress | -
+w007443.2 | robe | -
+w007443.3 | - | -
+w007444.1 | selfish | generous
+w007444.2 | - | -
+w007445.1 | - | -
+w007445.2 | ring | -
+w007447.1 | preferably | -
+w007447.2 | perfectly | -
+w007448.1 | notorious | -
+w007449.1 | encouraging | -
+w007450.1 | inside | externally
+w007450.2 | - | externally
+w007452.1 | sideways | -
+w007452.2 | sideways | -
+w007454.1 | - | -
+w007454.2 | liberal | -
+w007454.3 | library | -
+w007455.1 | lifetime, permanent | -
+w007456.1 | - | -
+w007457.1 | ship | -
+w007457.2 | lining | -
+w007457.3 | eyeliner | -
+w007458.1 | mathematics, math | -
+w007459.1 | combine, join, unite, blend | separate, divide
+w007459.2 | join | split
+w007460.1 | net | -
+w007460.2 | fit, match, go together | clash
+w007460.3 | engage | -
+w007461.1 | immigrant, emigrant | -
+w007461.2 | - | -
+w007461.3 | - | -
+w007462.1 | idiot, fool | genius
+w007463.1 | cement | -
+w007463.2 | - | -
+w007463.3 | - | -
+w007464.1 | innocent, gullible, trusting | experienced
+w007467.1 | obvious, clear, evident, visible | unnoticeable
+w007472.1 | scent | -
+w007472.2 | scent, fragrance, aroma | smell
+w007472.3 | scent | -
+w007473.1 | pleasant, satisfying, enjoyable | unpleasant
+w007474.1 | status, reputation, standing | -
+w007474.2 | prestigious | -
+w007475.1 | - | -
+w007475.2 | - | -
+w007475.3 | hierarchy | -
+w007476.1 | connection, relation | irrelevance
+w007476.2 | importance, significance | -
+w007477.1 | - | -
+w007477.2 | slightly, at all | -
+w007478.1 | seller, shopkeeper | wholesaler
+w007480.1 | strict, inflexible, fixed | flexible
+w007480.2 | stiff, hard, firm | flexible
+w007483.1 | - | -
+w007483.2 | - | -
+w007484.1 | - | -
+w007485.1 | devastated, heartbroken | -
+w007485.2 | worn out | -
+w007485.3 | broken | -
+w007486.1 | spaceship | -
+w007487.1 | description, requirement | -
+w007487.2 | statement | -
+w007488.1 | excellent, wonderful, great | awful
+w007488.2 | magnificent, grand, impressive, gorgeous | -
+w007489.1 | - | -
+w007489.2 | shorten, compress | extend
+w007490.1 | - | -
+w007490.2 | - | -
+w007490.3 | temperature | -
+w007491.1 | fabric, cloth, material | -
+w007491.2 | - | -
+w007492.1 | width, depth | thinness
+w007492.2 | layer | -
+w007493.1 | - | -
+w007493.2 | - | -
+w007495.1 | unfair, irrational | reasonable
+w007495.2 | excessive | reasonable
+w007496.1 | uncertain, doubtful | sure, certain
+w007496.2 | insecure | confident
+w007497.1 | up, upward | downwards
+w007497.2 | more | -
+w007498.1 | use, employ, make use of | -
+w007499.1 | assessment, estimate, appraisal | -
+w007500.1 | - | -
+w007501.1 | break, breach, infringe | obey, observe
+w007501.2 | invade, disturb | respect
+w007501.3 | desecrate | -
+w007502.1 | clear, striking, graphic | dull
+w007502.2 | bright, brilliant, rich | dull, pale
+w007503.1 | Scottish | -
+w007503.2 | - | -
+w007505.1 | distribution, allotment | -
+w007505.2 | share, quota, allowance | -
+w007506.1 | enjoyment, laughter, fun | boredom
+w007506.2 | entertainment, pastime, recreation | -
+w007507.1 | expectation, excitement | -
+w007507.2 | expectation, prediction | -
+w007508.1 | suitably, properly | inappropriately
+w007509.1 | proud, conceited, superior | modest, humble
+w007510.1 | permission, approval | prohibition
+w007510.2 | permit, licence | -
+w007511.1 | additional, supplementary, backup | main
+w007511.2 | - | -
+w007511.3 | assistant, helper | -
+w007512.1 | luggage | -
+w007512.2 | - | -
+w007513.1 | signal, light | -
+w007513.2 | inspiration, example | -
+w007515.1 | reward | -
+w007515.2 | abundance, plenty | -
+w007515.3 | generosity | -
+w007516.1 | fighter | -
+w007516.2 | - | -
+w007517.1 | meeting | -
+w007517.2 | - | -
+w007518.1 | stream, creek | -
+w007518.2 | tolerate, allow, accept | -
+w007520.1 | pottery | -
+w007520.2 | pottery | -
+w007521.1 | - | -
+w007521.2 | grain | -
+w007522.1 | competitor, contender, rival | champion
+w007523.1 | - | laity
+w007524.1 | - | -
+w007525.1 | - | -
+w007526.1 | cosily | uncomfortably
+w007526.2 | easily | -
+w007527.1 | - | -
+w007527.2 | - | -
+w007527.3 | range, scope | -
+w007528.1 | scorn, disdain, disrespect | respect, admiration
+w007528.2 | - | -
+w007529.1 | background | -
+w007529.2 | - | -
+w007529.3 | - | -
+w007531.1 | loss | appearance
+w007533.1 | home, house, residence | -
+w007535.1 | - | -
+w007535.2 | ecosystem | -
+w007536.1 | appearance, rise | disappearance
+w007537.1 | stamina | -
+w007537.2 | tolerance, patience | -
+w007538.1 | sexual, sexy | -
+w007539.1 | removal | -
+w007539.2 | - | -
+w007540.1 | extremely, unusually, remarkably | -
+w007540.2 | - | -
+w007541.1 | expense | income
+w007541.2 | use, consumption | -
+w007542.1 | - | -
+w007543.1 | directory | -
+w007543.2 | file | -
+w007544.1 | afraid, scared | brave
+w007546.1 | channel | -
+w007546.2 | rhythm, beat | -
+w007546.3 | dance | -
+w007548.1 | - | -
+w007548.2 | protection, safeguard | -
+w007548.3 | dodge, evade | -
+w007548.4 | protect | -
+w007549.1 | - | heterosexuality
+w007550.1 | component, element | -
+w007550.2 | element, factor, component | -
+w007551.1 | begin, start, launch | end, finish
+w007551.2 | introduce | -
+w007551.3 | admit, induct | -
+w007551.4 | newcomer, beginner, novice | veteran
+w007552.1 | - | -
+w007552.2 | sarcastically | sincerely
+w007554.1 | envy | -
+w007555.1 | jewelry | -
+w007556.1 | comedian, comic, clown | -
+w007556.2 | - | -
+w007556.3 | idiot, clown, fool | -
+w007558.1 | loaded, full | empty
+w007558.2 | full | -
+w007563.1 | - | -
+w007564.1 | million | -
+w007564.2 | - | -
+w007567.1 | - | -
+w007567.2 | - | -
+w007567.3 | doze, nod off | -
+w007568.1 | notepad | -
+w007568.2 | laptop | -
+w007569.1 | - | online
+w007569.2 | - | online
+w007569.3 | privately | -
+w007571.1 | fat, heavy, plump | underweight, thin
+w007571.2 | - | -
+w007572.1 | - | -
+w007572.2 | range | -
+w007574.1 | - | -
+w007575.1 | police officer, officer, cop | -
+w007576.1 | powerful, strong, effective | weak
+w007576.2 | strong | weak
+w007577.1 | maniac, lunatic | -
+w007577.2 | crazy, mad | sane
+w007578.1 | wet | dry
+w007579.1 | restoration, repair, refurbishment | -
+w007580.1 | priest, minister | -
+w007580.2 | - | -
+w007581.1 | satisfying, worthwhile | unrewarding
+w007582.1 | - | -
+w007582.2 | corrode | -
+w007582.3 | - | -
+w007583.1 | - | -
+w007583.2 | bitter, annoyed | -
+w007584.1 | examination, inspection, investigation | -
+w007585.1 | confiscation | -
+w007585.2 | capture, takeover | -
+w007585.3 | fit, attack | -
+w007586.1 | - | -
+w007586.2 | - | -
+w007587.1 | - | plural
+w007587.2 | - | plural
+w007587.3 | remarkable, exceptional, extraordinary | ordinary
+w007588.1 | - | -
+w007588.2 | - | -
+w007588.3 | - | -
+w007590.1 | plot | -
+w007591.1 | lost, homeless | -
+w007591.2 | wander, drift | -
+w007591.3 | - | -
+w007591.4 | random, isolated, occasional | -
+w007592.1 | earring | -
+w007592.2 | - | -
+w007592.3 | - | -
+w007592.4 | dot, scatter | -
+w007593.1 | dinner | -
+w007593.2 | snack | -
+w007594.1 | darling, dear, honey, love | -
+w007594.2 | lover, boyfriend, girlfriend | -
+w007595.1 | general, widespread | -
+w007595.2 | - | local
+w007596.1 | pace, speed, rate | -
+w007596.2 | speed, beat, rhythm | -
+w007597.1 | - | -
+w007598.1 | dry | -
+w007598.2 | eager, hungry | -
+w007599.1 | flashlight | -
+w007599.2 | - | -
+w007599.3 | burn, set fire to | -
+w007600.1 | turbocharger | -
+w007600.2 | - | -
+w007601.1 | same, unaltered | -
+w007602.1 | reasonable, natural | -
+w007602.2 | clear, comprehensible | incomprehensible
+w007603.1 | vertically, straight | -
+w007603.2 | vertical, erect, straight | horizontal
+w007603.3 | honest, decent, moral | dishonest
+w007603.4 | post, pole | -
+w007604.1 | rebellion, revolt, revolution | -
+w007605.1 | useless, futile, unsuccessful | successful
+w007605.2 | conceited, proud, arrogant | modest
+w007606.1 | pride, conceit | modesty
+w007606.2 | emptiness, futility | -
+w007606.3 | dressing table | -
+w007607.1 | fiddle | -
+w007609.1 | - | -
+w007610.1 | murmur, mutter | shout
+w007610.2 | murmur | shout
+w007610.3 | rumour, hint | -
+w007611.1 | rewarding, valuable, useful | pointless
+w007615.1 | headquarters | -
+w007616.1 | knockout | -
+w007620.1 | increase | deceleration
+w007620.2 | - | deceleration
+w007620.3 | pickup | -
+w007621.1 | - | -
+w007622.1 | aluminum | -
+w007623.1 | analogue | digital
+w007623.2 | analogue | digital
+w007623.3 | equivalent, counterpart, parallel | -
+w007624.1 | logical | -
+w007625.1 | expect, foresee, predict | -
+w007625.2 | foresee | -
+w007625.3 | look forward to | dread
+w007626.1 | - | -
+w007626.2 | mall | -
+w007626.3 | colonnade | -
+w007628.1 | - | -
+w007629.1 | - | -
+w007630.1 | - | -
+w007631.1 | broke, insolvent, ruined | solvent
+w007631.2 | ruin | -
+w007631.3 | lacking, devoid | -
+w007632.1 | wink | -
+w007632.2 | flash, flicker | -
+w007632.3 | wink | -
+w007635.1 | immature, babyish, silly | mature
+w007635.2 | - | -
+w007636.1 | chilli | -
+w007636.2 | - | -
+w007638.1 | loop, spiral, roll | -
+w007638.2 | wind, curl, twist, loop | uncoil
+w007638.3 | - | -
+w007640.1 | dispute, disagreement, argument, conflict | agreement
+w007640.2 | argument, claim, view, opinion | -
+w007640.3 | competition | -
+w007641.1 | agreement, contract, promise | -
+w007642.1 | love, loyalty, dedication | -
+w007642.2 | dedication, commitment | -
+w007642.3 | worship, prayer | -

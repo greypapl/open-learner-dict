@@ -1,0 +1,401 @@
+w004608.1 | change, transform, turn, adapt | -
+w004608.2 | - | -
+w004608.3 | change, exchange | -
+w004608.4 | - | -
+w004609.1 | - | attacker, forward
+w004609.2 | protector, supporter, champion, guardian | attacker
+w004610.1 | - | -
+w004611.1 | - | -
+w004611.2 | tactful, polite, careful, sensitive | tactless, rude
+w004612.1 | - | -
+w004612.2 | barrel, container | -
+w004612.3 | tap, beat | -
+w004613.1 | - | -
+w004613.2 | - | -
+w004614.1 | amusing, enjoyable, fun, funny | boring, dull
+w004615.1 | everlasting, endless, permanent, infinite | temporary
+w004615.2 | endless, constant, perpetual | -
+w004616.1 | - | melt, thaw
+w004616.2 | stop | -
+w004616.3 | fix, hold | -
+w004616.4 | - | -
+w004617.1 | general, common, universal | specific
+w004617.2 | unbranded | -
+w004617.3 | - | -
+w004618.1 | grandmother, granny, nan | grandpa
+w004619.1 | grasp, hold, clutch, grab | release
+w004619.2 | fascinate, absorb, captivate | bore
+w004619.3 | grasp, hold, grab | -
+w004619.4 | control, power, hold | -
+w004619.5 | handle | -
+w004620.1 | few, several | -
+w004620.2 | - | -
+w004620.3 | - | -
+w004621.1 | cheerfully, joyfully | sadly, unhappily
+w004621.2 | gladly, willingly | reluctantly
+w004621.3 | fortunately, luckily | unfortunately, sadly
+w004622.1 | peace, agreement, accord, unity | conflict, discord
+w004622.2 | - | -
+w004622.3 | balance, consistency | -
+w004623.1 | um, er | -
+w004624.1 | modest, meek, unassuming | proud, arrogant
+w004624.2 | simple, lowly, modest | grand
+w004624.3 | humiliate, shame | -
+w004625.1 | mixture, cross, combination, blend | -
+w004625.2 | - | -
+w004625.3 | cross | -
+w004625.4 | mixed, combined | -
+w004626.1 | - | -
+w004626.2 | - | -
+w004627.1 | permanent | temporary, brief
+w004628.1 | nearby | -
+w004629.1 | medium | -
+w004630.1 | warm, pleasant, gentle, temperate | harsh, severe
+w004630.2 | slight, light, gentle | severe, serious
+w004630.3 | bland | hot, spicy
+w004631.1 | slight, small, minimum, negligible | maximum
+w004632.1 | - | -
+w004633.1 | - | -
+w004633.2 | - | -
+w004633.3 | border, adjoin | -
+w004634.1 | midday | midnight
+w004635.1 | today, these days, now | -
+w004636.1 | frankly, honestly, publicly | secretly
+w004637.1 | summary, outline, survey, review | -
+w004638.1 | - | -
+w004638.2 | - | -
+w004639.1 | useless, hopeless, feeble, poor | -
+w004639.2 | pitiful, sad, moving | -
+w004640.1 | - | -
+w004642.1 | choice, liking, favourite | -
+w004642.2 | priority, favour | -
+w004643.1 | encouraging, hopeful, bright | -
+w004644.1 | part, share, percentage, fraction | -
+w004644.2 | ratio, relationship | -
+w004644.3 | balance, symmetry | -
+w004645.1 | fury, anger, wrath | calm
+w004645.2 | fashion, craze, trend | -
+w004645.3 | rampage | -
+w004645.4 | rant, fume | -
+w004646.1 | - | -
+w004647.1 | repair, renovation, reconstruction | -
+w004647.2 | return, recovery, reinstatement | removal
+w004648.1 | greedy, egoistic | unselfish, selfless
+w004649.1 | - | -
+w004649.2 | - | -
+w004650.1 | - | -
+w004651.1 | postage stamp | -
+w004651.2 | seal, mark, print | -
+w004651.3 | stomp, tread, trample | -
+w004651.4 | mark, print, imprint | -
+w004652.1 | - | -
+w004652.2 | crown | -
+w004653.1 | - | -
+w004654.1 | encourage, press, push, advise | discourage
+w004654.2 | drive, push, spur | -
+w004654.3 | desire, impulse, longing, itch | -
+w004655.1 | elector | -
+w004657.1 | sorceress | wizard
+w004657.2 | hag | -
+w004658.1 | - | -
+w004659.1 | - | -
+w004662.1 | partner | enemy
+w004662.2 | supporter, friend, partner | enemy, opponent
+w004662.3 | unite, join, side | -
+w004663.1 | range, collection, variety, selection | -
+w004663.2 | - | -
+w004663.3 | arrange, display, lay out | -
+w004664.1 | stomach, tummy, abdomen | -
+w004664.2 | underside, bottom | -
+w004665.1 | stand, stall | -
+w004665.2 | cubicle, box | -
+w004665.3 | - | -
+w004666.1 | failure, malfunction | -
+w004666.2 | collapse, failure, break-up | -
+w004666.3 | collapse, nervous breakdown | -
+w004667.1 | cruel, savage, vicious, violent | gentle
+w004667.2 | blunt, harsh, frank | -
+w004667.3 | harsh, severe, tough | mild
+w004668.1 | deliberate, intentional | unintentional, accidental
+w004668.2 | - | -
+w004669.1 | nationality | -
+w004669.2 | - | -
+w004670.1 | - | -
+w004671.1 | agreement, accord | disagreement
+w004672.1 | - | -
+w004673.1 | statement, announcement, proclamation | -
+w004673.2 | - | -
+w004675.1 | - | -
+w004675.2 | - | -
+w004675.3 | bowler | -
+w004676.1 | difference, contrast | similarity
+w004676.2 | excellence, merit, quality | -
+w004676.3 | honour, award | -
+w004677.1 | - | -
+w004677.2 | - | -
+w004678.1 | loyal, devoted, reliable, true | unfaithful, disloyal
+w004678.2 | true, loyal | unfaithful
+w004678.3 | accurate, true, exact | inaccurate
+w004678.4 | - | -
+w004679.1 | deadly, lethal, mortal | -
+w004679.2 | disastrous, catastrophic, ruinous | -
+w004680.1 | - | -
+w004681.1 | suitable, appropriate, right, proper | inappropriate, unsuitable
+w004681.2 | - | -
+w004681.3 | fixture, attachment | -
+w004682.1 | truly, sincerely, really, honestly | -
+w004684.1 | starvation, famine, appetite | -
+w004684.2 | desire, longing, thirst | -
+w004684.3 | long, crave, yearn, thirst | -
+w004685.1 | storm, typhoon, cyclone | -
+w004686.1 | importation | export
+w004686.2 | - | export
+w004686.3 | bring in | export
+w004686.4 | load | export
+w004687.1 | creative, original, inventive, new | traditional, conventional
+w004689.1 | authority, power, control | -
+w004689.2 | territory, district | -
+w004690.1 | amusement | -
+w004691.1 | - | -
+w004691.2 | dud | -
+w004691.3 | - | -
+w004693.1 | - | -
+w004694.1 | - | -
+w004694.2 | - | -
+w004695.1 | powerful, strong, great, huge | weak
+w004695.2 | very, extremely, really | -
+w004696.1 | financial, economic | -
+w004697.1 | nourishment, food, diet | malnutrition
+w004698.1 | - | -
+w004700.1 | - | -
+w004701.1 | - | -
+w004701.2 | - | -
+w004701.3 | long, yearn, ache | -
+w004702.1 | badly, inadequately | well
+w004702.2 | ill, sick, unwell | well, healthy
+w004703.1 | present, cause, create | -
+w004703.2 | ask, raise, put | -
+w004703.3 | model, sit | -
+w004703.4 | position, posture, stance | -
+w004704.1 | tip, spill, pour out | -
+w004704.2 | pelt | -
+w004704.3 | stream, flood, crowd | trickle
+w004705.1 | supplier, source | -
+w004705.2 | breadwinner | -
+w004706.1 | print, issue, produce, release | -
+w004706.2 | print | -
+w004706.3 | announce, release, publicize, disclose | conceal
+w004707.1 | only, simply, solely, entirely | partly
+w004708.1 | rent, hire | -
+w004708.2 | hire | -
+w004708.3 | - | -
+w004710.1 | apparently, outwardly | -
+w004711.1 | badly, seriously, gravely | slightly, mildly
+w004711.2 | harshly, strictly, sternly | gently, leniently
+w004712.1 | - | -
+w004712.2 | crook, swindler, cheat | -
+w004713.1 | appalling, disturbing, outrageous, upsetting | -
+w004713.2 | terrible, awful, dreadful | -
+w004714.1 | - | northeast
+w004714.2 | - | northeast
+w004714.3 | - | northeast
+w004715.1 | strictly, officially, formally | -
+w004715.2 | - | -
+w004716.1 | - | -
+w004716.2 | noble, aristocratic | -
+w004717.1 | limitless, infinite, unrestricted, endless | limited
+w004718.1 | - | -
+w004720.1 | recommend, suggest, counsel, urge | -
+w004720.2 | inform, notify, tell | -
+w004721.1 | worried, nervous, uneasy, concerned | calm, relaxed
+w004721.2 | eager, keen, desperate | -
+w004722.1 | - | -
+w004722.2 | - | -
+w004723.1 | coffee shop | -
+w004726.1 | sect | -
+w004726.2 | - | -
+w004726.3 | - | -
+w004727.1 | - | -
+w004727.2 | - | -
+w004727.3 | - | -
+w004729.1 | dear, honey, sweetheart, love | -
+w004729.2 | favourite, pet | -
+w004729.3 | adorable, sweet, charming, lovely | -
+w004730.1 | pleased, glad, thrilled, happy | disappointed
+w004731.1 | journal | -
+w004731.2 | planner, calendar | -
+w004732.1 | differ, object | agree
+w004732.2 | differ, conflict | agree, match
+w004733.1 | vanish, fade | appear
+w004733.2 | vanish, go missing | -
+w004733.3 | vanish, die out | appear
+w004734.1 | - | -
+w004734.2 | practice, exercise, training | -
+w004734.3 | bore | -
+w004734.4 | train, teach, coach | -
+w004736.1 | - | -
+w004738.1 | prediction, projection, outlook | -
+w004738.2 | predict, foresee, project | -
+w004739.1 | management, administration, control | -
+w004740.1 | angry, fierce, intense, passionate | calm
+w004740.2 | - | unheated
+w004741.1 | embrace, cuddle, hold | -
+w004741.2 | follow | -
+w004741.3 | embrace, cuddle | -
+w004742.1 | significantly | -
+w004743.1 | inside, interior | outdoor
+w004744.1 | powerful, important, leading, significant | -
+w004745.1 | plan, mean, aim | -
+w004745.2 | mean, design | -
+w004746.1 | unseen, hidden | visible
+w004746.2 | unnoticed | -
+w004747.1 | - | -
+w004750.1 | case, action, suit, claim | -
+w004751.1 | seep, escape, drip | -
+w004751.2 | disclose, reveal | -
+w004751.3 | hole, crack, gap | -
+w004751.4 | disclosure | -
+w004752.1 | - | -
+w004752.2 | barge | -
+w004754.1 | gauge | -
+w004754.2 | metre | -
+w004754.3 | measure | -
+w004755.1 | - | -
+w004755.2 | - | -
+w004755.3 | - | -
+w004756.1 | enthusiastic, keen, fervent, intense | indifferent
+w004756.2 | romantic, loving, ardent | cold
+w004757.1 | handset | -
+w004757.2 | - | transmitter
+w004757.3 | recipient | sender
+w004758.1 | advice, suggestion, proposal, counsel | -
+w004758.2 | reference, endorsement | -
+w004759.1 | disturbance, uprising, unrest | -
+w004759.2 | scream, laugh | -
+w004759.3 | rebel, revolt | -
+w004761.1 | list, register, roll | -
+w004761.2 | rota, schedule, timetable | -
+w004763.1 | maid, domestic | master
+w004763.2 | employee, official | -
+w004764.1 | arrangement, organization, structure, system | -
+w004764.2 | installation, configuration | -
+w004764.3 | trap, trick | -
+w004765.1 | - | -
+w004766.1 | opening, gap, hole, slit | -
+w004766.2 | space, place, spot, time | -
+w004766.3 | fit, insert, put | -
+w004767.1 | shatter, break, crush | -
+w004767.2 | crash, bang, slam | -
+w004767.3 | destroy, crush, defeat, beat | -
+w004767.4 | - | -
+w004767.5 | hit, success | flop
+w004768.1 | sculpture, figure | -
+w004769.1 | amazingly, unexpectedly, remarkably | predictably
+w004770.1 | give in, give up, yield, submit | resist
+w004770.2 | hand over, give up, yield | keep
+w004770.3 | submission, capitulation | resistance
+w004771.1 | doubtful, distrustful, wary | trusting
+w004771.2 | suspect, dubious, fishy, questionable | -
+w004772.1 | adolescent, teen, youth | adult
+w004773.1 | gentle, loving, caring, soft | harsh, rough
+w004773.2 | soft | tough
+w004773.3 | sore, painful, sensitive | -
+w004773.4 | bid, offer, quote | -
+w004773.5 | offer, bid, submit | -
+w004774.1 | completely, totally, entirely, utterly | partly
+w004774.2 | carefully, meticulously | carelessly
+w004776.1 | void, emptiness | -
+w004776.2 | vacuum cleaner, hoover | -
+w004776.3 | hoover | -
+w004778.1 | accustomed, used | -
+w004778.2 | habit, custom, practice | -
+w004782.1 | agree with, accept, favour, support | disapprove
+w004782.2 | accept, pass, authorize, endorse | reject, refuse
+w004783.1 | designer | -
+w004783.2 | creator, author, designer, founder | -
+w004784.1 | bowl, sink | -
+w004784.2 | valley | -
+w004785.1 | helpful, useful, good, advantageous | harmful
+w004786.1 | type, variety, kind, sort | -
+w004786.2 | reproduce, multiply | -
+w004786.3 | raise, rear | -
+w004787.1 | - | groom, bridegroom
+w004789.1 | shoot | -
+w004789.2 | sprout | -
+w004789.3 | buddy, mate, pal | -
+w004790.1 | servant | -
+w004791.1 | animation | -
+w004791.2 | caricature, comic | -
+w004792.1 | - | -
+w004792.2 | girl | -
+w004793.1 | cola | -
+w004793.2 | - | -
+w004793.3 | cocaine | -
+w004794.1 | similar, equivalent, equal | different
+w004795.1 | proof, verification, evidence | denial
+w004795.2 | - | -
+w004796.1 | - | -
+w004796.2 | panel | -
+w004796.3 | comfort, soothe, cheer up | upset
+w004797.1 | builder, supplier | -
+w004798.1 | - | -
+w004800.1 | dispose of, throw away, discard, ditch | keep
+w004800.2 | leave, drop, ditch | -
+w004800.3 | tip, landfill | -
+w004800.4 | hole, hovel, pigsty | -
+w004801.1 | pair, couple, partnership | -
+w004801.2 | duet | -
+w004802.1 | - | -
+w004802.2 | - | -
+w004803.1 | - | -
+w004804.1 | cloth, material, textile | -
+w004804.2 | structure, framework, foundation | -
+w004805.1 | wonderful, fantastic, marvellous, superb | terrible, awful
+w004805.2 | enormous, huge, incredible | -
+w004806.1 | elf, pixie | -
+w004807.1 | bend, double | unfold
+w004807.2 | cross | -
+w004807.3 | close, collapse, fail, close down | -
+w004807.4 | crease, pleat | -
+w004808.1 | oddity, abnormality | -
+w004808.2 | fanatic, enthusiast, fan, addict | -
+w004808.3 | unusual, abnormal, freakish | normal
+w004808.4 | panic, freak out | calm down
+w004809.1 | betting, gaming | -
+w004810.1 | softly, carefully, tenderly, kindly | roughly
+w004810.2 | gradually, slightly | steeply, sharply
+w004811.1 | magnificent, splendid, illustrious, triumphant | shameful
+w004811.2 | beautiful, wonderful, delightful, splendid | dreadful
+w004812.1 | sorrow, sadness, mourning, misery | joy
+w004813.1 | - | -
+w004813.2 | traditionally | -
+w004814.1 | centre, core, heart, focus | -
+w004814.2 | centre | -
+w004815.1 | unavoidable, certain, inescapable, sure | avoidable
+w004816.1 | - | -
+w004817.1 | missing, absent, deficient, short | -
+w004818.1 | arrangement, plan, design, structure | -
+w004818.2 | design, format | -
+w004819.1 | cabin, cottage, hut | -
+w004819.2 | file, submit, register, make | withdraw
+w004819.3 | stick, wedge | -
+w004819.4 | board, stay | -
+w004820.1 | trader, dealer | -
+w004820.2 | commercial, trading | -
+w004821.1 | value, worth, virtue, quality | fault
+w004821.2 | deserve, earn, warrant | -
+w004822.1 | tiny, minute, small | macro
+w004822.2 | microcomputer | -
+w004823.1 | legend, fable, story | -
+w004823.2 | misconception, fallacy, fiction | fact, truth
+w004824.1 | huge, enormous, massive | -
+w004824.2 | overpowering, irresistible | -
+w004825.1 | pallid, white, ashen, colourless | -
+w004825.2 | light, soft, pastel | dark, bright
+w004825.3 | whiten, fade | darken
+w004825.4 | fade | -
+w004826.1 | minister, priest, vicar, clergyman | -
+w004827.1 | forever, for good, indefinitely | temporarily
+w004828.1 | toxin, venom | antidote
+w004828.2 | - | -
+w004828.3 | spoil, corrupt, contaminate, ruin | -

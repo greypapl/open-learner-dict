@@ -1,0 +1,400 @@
+w001399.1 | well-intentioned | -
+w001423.1 | self-esteem, dignity, pride | -
+w001429.1 | - | -
+w001434.1 | conclusion, end, finish | beginning, start
+w001434.2 | joke, trick, prank | -
+w001434.3 | clockwork | -
+w001478.1 | established, old | new, recent
+w001480.1 | unlimited, open | closed
+w001502.1 | rest, nap | -
+w001576.1 | prominent, well-known | -
+w001590.1 | self-esteem | -
+w001603.1 | hand-me-down | -
+w001603.2 | unwanted | -
+w001604.1 | collaborator | -
+w001604.2 | - | -
+w001636.1 | all-out, total, complete, comprehensive | limited, partial
+w001636.2 | - | -
+w001642.1 | brief, temporary, fleeting | lasting
+w001661.1 | investigative | -
+w001684.1 | striker | -
+w001698.1 | unsteady, unstable | steady, stable
+w001698.2 | surprised, unprepared | -
+w001700.1 | gross | net
+w001743.1 | gunfight | -
+w001743.2 | - | -
+w001790.1 | section, profile | -
+w001790.2 | sample, range | -
+w001798.1 | complete, uncut, unabridged | -
+w001798.2 | - | -
+w001920.1 | boost, revive, stimulate | -
+w001930.1 | - | -
+w001983.1 | local, homemade | -
+w001983.2 | local, domestic, native | foreign
+w002150.1 | problem, worry, complex, inhibition | -
+w002281.1 | - | -
+w002332.1 | clear, distinct, precise | vague, unclear
+w002405.1 | warning, hint, tip | -
+w002405.2 | - | -
+w002420.1 | international | -
+w002424.1 | long, lengthy, prolonged, protracted | brief, short
+w002431.1 | strong, tough, durable, sturdy | flimsy
+w002435.1 | manufacture | -
+w002436.1 | - | -
+w002475.1 | patient, tolerant | impatient
+w002497.1 | secret, private, hidden | public
+w002591.1 | launch | landing
+w002610.1 | popular, in demand, desirable | -
+w002802.1 | knowledgeable, informed, well-read | ignorant, uninformed
+w002867.1 | extensive, wide-ranging, sweeping | limited
+w002870.1 | tough, blunt, direct | -
+w002910.1 | - | -
+w003033.1 | OK | -
+w003035.1 | independent, self-sufficient | dependent
+w003035.2 | - | -
+w003035.3 | reserved, independent | -
+w003079.1 | solo, unaided | -
+w003079.2 | alone, unaided | -
+w003127.1 | - | -
+w003127.2 | by-product, benefit | -
+w003127.3 | subsidiary | -
+w003208.1 | indirect | direct
+w003310.1 | reorganization, overhaul | -
+w003398.1 | harsh, oppressive, strict | gentle
+w003398.2 | clumsy, awkward | -
+w003618.1 | independent | dependent
+w003765.1 | powerful, strong | weak
+w003765.2 | important, influential, powerful | -
+w003942.1 | battered, shabby, worn | new
+w003972.1 | practical, businesslike, down-to-earth | -
+w004017.1 | - | -
+w004082.1 | complete, full, total | -
+w004162.1 | senior, top | junior
+w004165.1 | fatal, deadly | -
+w004348.1 | favourite, leader | -
+w004437.1 | crash, collision | -
+w004437.2 | backlog, build-up, accumulation | -
+w004440.1 | review, reconsider, reassess | -
+w004443.1 | embarrassed, shy, awkward | confident
+w004551.1 | question, interrogate | -
+w004551.2 | question, interrogate, grill | -
+w004576.1 | close | -
+w004576.2 | bluntly, directly, flatly | -
+w004576.3 | - | -
+w004588.1 | broad, extensive, wide, comprehensive | narrow, limited
+w004683.1 | - | -
+w004683.2 | - | -
+w004762.1 | autonomous, independent | -
+w005145.1 | worn out | -
+w005145.2 | - | -
+w005343.1 | - | -
+w005433.1 | - | -
+w005652.1 | obvious, clear, plain | -
+w005727.1 | - | -
+w005866.1 | biased, unfair, partial | balanced, fair
+w005866.2 | uneven, unequal | even
+w006050.1 | - | -
+w006050.2 | naive, innocent | -
+w006184.1 | desperate, final | -
+w006193.1 | - | -
+w006351.1 | long-distance | -
+w007359.1 | unenthusiastic, lukewarm, feeble | wholehearted, enthusiastic
+w007366.1 | cheerful, carefree, lighthearted | serious
+w008295.1 | - | -
+w008295.2 | tough, hard, unsentimental | -
+w008627.1 | outbreak, outburst, recurrence | -
+w009021.1 | ideal | -
+w009111.1 | - | -
+w009316.1 | achiever | -
+w009466.1 | - | -
+w010332.1 | absent, imaginary | existent
+w010688.1 | microbe, germ | -
+w010934.1 | honest | criminal
+w012445.1 | - | -
+w012445.2 | weak | -
+w012882.1 | - | specialist
+w013635.1 | collection, accumulation, combination | -
+w013636.1 | - | -
+w013637.1 | - | -
+w013637.2 | - | -
+w013638.1 | basic | acidic
+w013640.1 | antitoxin | poison
+w013640.2 | remedy, cure | -
+w013642.1 | - | -
+w013644.1 | - | -
+w013645.1 | confirm, prove, demonstrate | -
+w013646.1 | appeal, charm, beauty | ugliness
+w013647.1 | - | -
+w013648.1 | revenge | -
+w013649.1 | dislike, hatred, distaste | liking, fondness
+w013650.1 | clumsily, uncomfortably | gracefully
+w013651.1 | ointment, cream, lotion | -
+w013651.2 | comfort, consolation | -
+w013653.1 | - | -
+w013655.1 | skinny, thin, lean | plump, fat
+w013655.2 | - | -
+w013656.1 | debtor | lender
+w013657.1 | light up, illuminate, lighten | darken, dim
+w013657.2 | cheer up | -
+w013658.1 | worry, mope, dwell | -
+w013658.2 | clutch, litter | -
+w013658.3 | sit, incubate | -
+w013659.1 | - | -
+w013659.2 | foolproof, watertight | -
+w013660.1 | - | -
+w013660.2 | - | -
+w013663.1 | delighted, pleased | -
+w013663.2 | lucky, blessed | unlucky
+w013664.1 | chemotherapy | -
+w013668.1 | praise, compliment | criticize, condemn
+w013668.2 | recommend | -
+w013669.1 | - | -
+w013671.1 | - | -
+w013671.2 | - | -
+w013672.1 | personalization | -
+w013676.1 | reliable, trustworthy | unreliable
+w013679.1 | - | -
+w013681.1 | - | immigration
+w013682.1 | give off, release, send out | absorb
+w013683.1 | eagerly, keenly | -
+w013686.1 | understand, grasp, comprehend | -
+w013686.2 | - | -
+w013687.1 | - | -
+w013688.1 | imaginary, fictional | real, genuine
+w013689.1 | direct, personal | secondhand
+w013689.2 | directly, personally | secondhand
+w013690.1 | showy, flamboyant, gaudy | modest, understated
+w013691.1 | limp, droopy, loose | stiff, firm
+w013691.2 | - | -
+w013693.1 | fraternity | -
+w013694.1 | full, qualified, mature | -
+w013696.1 | - | -
+w013698.1 | rule, guide, principle | -
+w013701.1 | head teacher, principal | -
+w013702.1 | centre, core, heart | -
+w013703.1 | - | -
+w013704.1 | - | -
+w013706.1 | - | -
+w013706.2 | weed | -
+w013706.3 | - | -
+w013708.1 | trance | -
+w013710.1 | - | -
+w013711.1 | perfect, flawless, faultless | -
+w013712.1 | incoming | outbound, outgoing
+w013713.1 | conclusion, deduction | -
+w013714.1 | penetrate | -
+w013714.2 | permeate, seep | -
+w013715.1 | - | -
+w013715.2 | - | -
+w013716.1 | breathe in | exhale
+w013717.1 | intuitively, automatically | -
+w013718.1 | bigoted | tolerant
+w013718.2 | allergic | tolerant
+w013719.1 | - | -
+w013720.1 | - | -
+w013721.1 | mourn, grieve, regret | celebrate
+w013721.2 | elegy | -
+w013723.1 | - | -
+w013723.2 | - | -
+w013726.1 | calculating, cunning | -
+w013727.1 | slightly | considerably
+w013734.1 | - | -
+w013734.2 | juice | -
+w013734.3 | - | -
+w013738.1 | pale, soft, light | bright, vivid
+w013738.2 | crayon | -
+w013738.3 | - | -
+w013739.1 | - | plain
+w013740.1 | reward, benefit, return | -
+w013740.2 | bribe | -
+w013741.1 | negative, gloomy | optimistic
+w013742.1 | insecticide | -
+w013744.1 | plate, dish | -
+w013745.1 | poke, jab, nudge | -
+w013745.2 | urge, push, spur | discourage
+w013745.3 | poke, nudge, reminder | -
+w013746.1 | genius | -
+w013748.1 | duvet, comforter | -
+w013748.2 | - | -
+w013750.1 | estate agent | -
+w013752.1 | - | -
+w013754.1 | droop, sink, hang | -
+w013754.2 | decline, drop, fall | rise
+w013754.3 | dip, droop | -
+w013756.1 | - | -
+w013758.1 | - | -
+w013762.1 | slow, inactive | brisk
+w013762.2 | lethargic, listless, tired | energetic, lively
+w013763.1 | ghetto | -
+w013764.1 | - | -
+w013765.1 | trap | -
+w013765.2 | trap, catch | -
+w013765.3 | - | -
+w013766.1 | - | -
+w013766.2 | - | -
+w013769.1 | buck | doe
+w013769.2 | - | -
+w013770.1 | stamp, tramp, trample | tiptoe
+w013770.2 | stamp | -
+w013771.1 | dotted, covered | -
+w013772.1 | obedient, meek, docile | dominant, assertive
+w013773.1 | section, clause | -
+w013774.1 | - | -
+w013775.1 | summer | wintertime
+w013776.1 | - | broadsheet
+w013776.2 | sensational | -
+w013778.1 | - | -
+w013778.2 | - | -
+w013779.1 | - | -
+w013780.1 | storm | -
+w013781.1 | shy, fearful, nervous | bold, brave
+w013782.1 | tall, lofty | -
+w013782.2 | outstanding, great, eminent | -
+w013783.1 | - | -
+w013784.1 | drip, dribble, seep | gush, pour
+w013784.2 | drip, dribble | flood, torrent
+w013784.3 | - | flood
+w013785.1 | company | -
+w013786.1 | teaspoon | -
+w013788.1 | - | -
+w013789.1 | unabridged, complete, full | -
+w013789.2 | - | -
+w013790.1 | continuous, unbroken | -
+w013792.1 | broaden, expand, extend | narrow
+w013794.1 | squeal, yap, cry | -
+w013794.2 | squeal, cry | -
+w013799.1 | confirmation, assertion | denial
+w013799.2 | - | -
+w013802.1 | each | -
+w013803.1 | grateful, thankful | ungrateful
+w013803.2 | - | -
+w013804.1 | curved | straight
+w013806.1 | climb, rise, go up | descend
+w013806.2 | rise | descend
+w013807.1 | dressing | -
+w013807.2 | dress, bind | -
+w013809.1 | - | -
+w013809.2 | - | -
+w013812.1 | plait | -
+w013812.2 | plait, weave | -
+w013812.3 | - | -
+w013814.1 | swell, protrude, stick out | -
+w013814.2 | lump, swelling, bump | dent
+w013814.3 | surge, increase | -
+w013817.1 | - | -
+w013819.1 | by chance | -
+w013821.1 | helpful, favourable, beneficial | -
+w013823.1 | careful, diligent, thorough | careless
+w013828.1 | deception, dishonesty | honesty
+w013829.1 | condemn, criticize, attack | praise
+w013829.2 | inform on, report | -
+w013830.1 | insulting, offensive | complimentary
+w013831.1 | take apart, disassemble | assemble
+w013831.2 | abolish, end | establish
+w013835.1 | east | westward
+w013835.2 | - | westward
+w013837.1 | needlework | -
+w013839.1 | mystery, puzzle, riddle | -
+w013840.1 | separated | -
+w013841.1 | elation, ecstasy, joy | depression, despair
+w013843.1 | - | -
+w013843.2 | - | -
+w013844.1 | - | -
+w013844.2 | - | -
+w013845.1 | pleased | -
+w013847.1 | strong, powerful, assertive | weak
+w013847.2 | violent | gentle
+w013848.1 | strength, speciality | weakness
+w013848.2 | loudly | piano
+w013855.1 | - | -
+w013857.1 | coat hanger | -
+w013858.1 | border, edge | -
+w013858.2 | - | -
+w013858.3 | surround, confine, restrict | -
+w013859.1 | assassin, killer | -
+w013860.1 | - | -
+w013860.2 | administration | -
+w013863.1 | penetration | -
+w013863.2 | seepage | -
+w013865.1 | closely | -
+w013865.2 | thoroughly | -
+w013865.3 | - | -
+w013866.1 | terminology, slang | -
+w013867.1 | canoe | -
+w013867.2 | - | -
+w013868.1 | - | stand
+w013871.1 | leak | -
+w013872.1 | free, release | imprison, enslave
+w013873.1 | organizational | -
+w013874.1 | - | -
+w013875.1 | glowing, bright, shining | dark, dull
+w013877.1 | undernourishment | -
+w013879.1 | - | -
+w013880.1 | - | -
+w013882.1 | tuneful, melodious, musical | -
+w013884.1 | careful, thorough, painstaking | careless, sloppy
+w013886.1 | humility | arrogance, vanity
+w013886.2 | decency | -
+w013886.3 | - | -
+w013888.1 | - | -
+w013889.1 | no | yeah
+w013890.1 | - | -
+w013893.1 | - | diurnal
+w013893.2 | night | daytime
+w013894.1 | spout | -
+w013895.1 | - | onside
+w013895.2 | - | onside
+w013897.1 | layer, coating | -
+w013897.2 | cover, coat | -
+w013899.1 | fatherhood | maternity
+w013900.1 | - | matriarchal
+w013901.1 | pathetic, sad, piteous | -
+w013901.2 | pathetic, poor, inadequate | -
+w013905.1 | requirement, condition, precondition | -
+w013907.1 | measure, calculate | -
+w013908.1 | - | -
+w013911.1 | tell, narrate, describe, relate | -
+w013911.2 | - | -
+w013911.3 | - | -
+w013912.1 | oblong | -
+w013913.1 | repeated, persistent | -
+w013914.1 | top up, refuel | -
+w013914.2 | - | -
+w013915.1 | regularly, faithfully | -
+w013915.2 | - | -
+w013916.1 | - | -
+w013918.1 | sensibly, reliably | irresponsibly
+w013919.1 | centre | -
+w013919.2 | rotate, turn, spin | -
+w013920.1 | - | fast-forward
+w013920.2 | - | -
+w013921.1 | justly, legitimately | wrongfully
+w013924.1 | isolated, private, remote | -
+w013925.1 | - | -
+w013925.2 | tempt, lure, entice | -
+w013926.1 | - | -
+w013927.1 | mysterious, secret, obscure | -
+w013927.2 | dark, dim, shady | -
+w013928.1 | avoid, reject, shy away from | embrace, welcome
+w013929.1 | assistant, helper | -
+w013932.1 | - | mare
+w013933.1 | - | stepmother
+w013937.1 | - | -
+w013937.2 | mixture, web | -
+w013938.1 | gentleness, affection, warmth | harshness
+w013938.2 | soreness, pain | -
+w013939.1 | - | -
+w013940.1 | - | -
+w013940.2 | sample | -
+w013941.1 | - | -
+w013943.1 | - | -
+w013943.2 | - | -
+w013943.3 | brief, concise, short | detailed
+w013944.1 | - | -
+w013944.2 | amuse, delight, please | -
+w013944.3 | itch | -
+w013948.1 | bottom, underneath | top
+w013949.1 | ignorant, illiterate | educated
+w013950.1 | unpack, discharge | load
+w013950.2 | get rid of, dump, sell off | -
+w013950.3 | confide, unburden | -

@@ -1,0 +1,402 @@
+w000458.1 | type, kind, sort | -
+w000458.2 | - | -
+w000458.3 | shape, structure | -
+w000458.4 | create, make, build | -
+w000459.1 | more | -
+w000459.2 | farther | -
+w000459.3 | additional, extra, more | -
+w000459.4 | advance, promote | -
+w000460.1 | - | -
+w000460.2 | soul | -
+w000460.3 | centre, core | -
+w000461.1 | - | -
+w000462.1 | - | -
+w000463.1 | behave, do | -
+w000463.2 | perform, play | -
+w000463.3 | action, deed | -
+w000463.4 | law | -
+w000463.5 | - | -
+w000464.1 | though, even though | -
+w000465.1 | kid, youngster | adult
+w000465.2 | son, daughter | parent
+w000466.1 | flame | -
+w000466.2 | blaze | -
+w000466.3 | shoot | -
+w000466.4 | dismiss, sack | hire, employ
+w000467.1 | enjoyment, pleasure | -
+w000467.2 | enjoyable | boring
+w000469.1 | income | -
+w000469.2 | lifestyle | -
+w000469.3 | alive | dead
+w000470.1 | important, significant, main | minor
+w000470.2 | - | minor
+w000470.3 | - | -
+w000470.4 | - | -
+w000471.1 | press | -
+w000472.1 | telephone | -
+w000472.2 | call, ring | -
+w000475.1 | - | -
+w000475.2 | - | -
+w000475.3 | skill, craft | -
+w000476.1 | - | in front of
+w000476.2 | - | ahead of
+w000476.3 | - | ahead
+w000477.1 | structure | -
+w000477.2 | construction | -
+w000478.1 | simple | difficult, hard
+w000478.2 | relaxed, comfortable | -
+w000480.1 | - | -
+w000481.1 | - | -
+w000481.2 | trade, demand | -
+w000481.3 | sell, promote | -
+w000482.1 | close to, by | -
+w000482.2 | close | far, distant
+w000482.3 | close | far
+w000482.4 | approach | -
+w000485.1 | scheme, arrangement, programme | -
+w000485.2 | arrange, organize, prepare | -
+w000485.3 | map, drawing | -
+w000486.1 | - | -
+w000486.2 | - | -
+w000487.1 | fairly, rather, pretty | -
+w000487.2 | completely, totally | -
+w000488.1 | - | -
+w000489.1 | - | east
+w000489.2 | western | east
+w000489.3 | - | east
+w000490.1 | - | unavailable
+w000490.2 | free | busy
+w000491.1 | teaching, schooling | -
+w000491.2 | knowledge | -
+w000492.1 | last | first
+w000492.2 | - | -
+w000492.3 | exam | -
+w000493.1 | previous, past | current
+w000493.2 | - | latter
+w000494.1 | - | back
+w000494.2 | - | back
+w000494.3 | face | -
+w000495.1 | - | -
+w000495.2 | - | -
+w000496.1 | prepared, set | unprepared
+w000496.2 | willing, eager | unwilling
+w000496.3 | prepare | -
+w000497.1 | occasionally | always, never
+w000498.1 | - | daughter
+w000499.1 | road | -
+w000501.1 | carry | take
+w000501.2 | cause, create | -
+w000501.3 | - | -
+w000503.1 | university | -
+w000503.2 | school | -
+w000504.1 | present, existing | former, past
+w000504.2 | flow, stream | -
+w000504.3 | - | -
+w000505.1 | instance, sample | -
+w000505.2 | model | -
+w000506.1 | knowledge, skill | -
+w000506.2 | event, incident | -
+w000506.3 | undergo, go through | -
+w000507.1 | come across, run into | -
+w000507.2 | gather | -
+w000507.3 | satisfy, reach | fail
+w000508.1 | programme, show | -
+w000508.2 | software | -
+w000508.3 | programme, plan, schedule | -
+w000508.4 | code | -
+w000509.1 | kind, sort, form | -
+w000509.2 | key | -
+w000509.3 | print | -
+w000510.1 | infant | adult
+w000510.2 | darling, dear, honey | -
+w000511.1 | opportunity | -
+w000511.2 | possibility, likelihood | -
+w000511.3 | luck, fate | -
+w000512.1 | dad | mother
+w000512.2 | priest | -
+w000512.3 | - | -
+w000513.1 | - | -
+w000513.2 | demonstration, protest | -
+w000513.3 | walk | -
+w000514.1 | procedure | -
+w000514.2 | method, technique | -
+w000514.3 | handle, treat | -
+w000515.1 | tune | -
+w000515.2 | - | -
+w000516.1 | learn | -
+w000516.2 | examine, investigate | -
+w000516.3 | research | -
+w000516.4 | - | -
+w000517.1 | term | -
+w000517.2 | remark, comment | -
+w000517.3 | news, message | -
+w000517.4 | phrase, express | -
+w000518.1 | over, through | -
+w000518.2 | opposite | -
+w000518.3 | over | -
+w000519.1 | activity, act | inaction
+w000519.2 | effect | -
+w000519.3 | case, lawsuit | -
+w000520.1 | obvious, plain, simple | unclear, confusing
+w000520.2 | transparent | -
+w000520.3 | cloudless, bright | cloudy
+w000520.4 | empty, remove | fill
+w000520.5 | brighten | -
+w000521.1 | - | -
+w000522.1 | - | -
+w000523.1 | outdoors | inside
+w000523.2 | beyond | inside, within
+w000523.3 | exterior, surface | inside
+w000523.4 | outer, external | inside
+w000524.1 | identity, character | -
+w000526.1 | - | -
+w000527.1 | plank, panel | -
+w000527.2 | committee, council | -
+w000527.3 | - | -
+w000527.4 | get on | get off
+w000528.1 | price, charge, expense | -
+w000528.2 | - | -
+w000528.3 | - | -
+w000529.1 | slice, chop | -
+w000529.2 | reduce, lower | increase, raise
+w000529.3 | wound | -
+w000529.4 | reduction, decrease | increase, rise
+w000530.1 | meadow | -
+w000530.2 | area, subject | -
+w000530.3 | pitch, ground | -
+w000530.4 | catch | -
+w000531.1 | rather | -
+w000532.1 | chief, principal, major | minor
+w000532.2 | pipe | -
+w000533.1 | instant, second | -
+w000533.2 | point, time | -
+w000534.1 | mum | father
+w000534.2 | look after | -
+w000535.1 | street | -
+w000535.2 | path, way, route | -
+w000536.1 | thought, reasoning | -
+w000536.2 | view, opinion | -
+w000536.3 | intelligent | -
+w000537.1 | - | country
+w000537.2 | centre | -
+w000539.1 | section, division | -
+w000539.2 | faculty | -
+w000540.1 | strength, vigour | -
+w000540.2 | power | -
+w000541.1 | hit, attack | -
+w000541.2 | battle | -
+w000541.3 | struggle, campaign | -
+w000541.4 | struggle, battle | -
+w000541.5 | struggle, battle, campaign | -
+w000542.1 | well, okay, all right | ill
+w000542.2 | sunny, clear, bright | cloudy
+w000542.3 | thin | thick, coarse
+w000542.4 | penalty | -
+w000542.5 | - | -
+w000543.1 | strength, power | weakness
+w000543.2 | violence | -
+w000543.3 | - | -
+w000543.4 | compel, make, oblige | -
+w000544.1 | - | -
+w000544.2 | learn | -
+w000544.3 | try | -
+w000545.1 | matter, subject, topic | -
+w000545.2 | edition | -
+w000545.3 | release, announce | -
+w000546.1 | cost, charge | -
+w000546.2 | cost | -
+w000546.3 | - | -
+w000547.1 | regarding, concerning | -
+w000548.1 | break, relaxation | work
+w000548.2 | relax | work
+w000548.3 | remainder | -
+w000548.4 | lean, place | -
+w000549.1 | - | -
+w000549.2 | management, operation | -
+w000549.3 | continuous | -
+w000550.1 | room | -
+w000550.2 | - | -
+w000550.3 | gap | -
+w000550.4 | - | -
+w000551.1 | - | winter
+w000552.1 | word, expression | -
+w000552.2 | period | -
+w000552.3 | condition | -
+w000552.4 | call, name | -
+w000553.1 | - | husband
+w000554.1 | - | -
+w000554.2 | - | -
+w000555.1 | lovely, pretty, attractive | ugly
+w000555.2 | wonderful, lovely | -
+w000557.1 | day | -
+w000557.2 | - | -
+w000557.3 | - | -
+w000557.4 | see, go out with | -
+w000557.5 | - | -
+w000558.1 | ground, earth | sea
+w000558.2 | ground, property | -
+w000558.3 | country, region, nation | -
+w000558.4 | - | take off
+w000559.1 | - | -
+w000559.2 | - | catch
+w000559.3 | - | hit
+w000559.4 | - | -
+w000560.1 | plan, scheme | -
+w000560.2 | assignment | -
+w000560.3 | predict, estimate, forecast | -
+w000560.4 | show, display | -
+w000561.1 | gender | -
+w000561.2 | - | -
+w000562.1 | - | -
+w000562.2 | attempt | -
+w000562.3 | photo, photograph | -
+w000563.1 | place, location | -
+w000563.2 | website | -
+w000563.3 | - | -
+w000563.4 | locate, place | -
+w000564.1 | powerful, tough | weak
+w000564.2 | solid, tough | weak, fragile
+w000564.3 | intense, powerful | weak, mild
+w000565.1 | - | -
+w000566.1 | - | -
+w000567.1 | - | -
+w000567.2 | report, description, story | -
+w000567.3 | - | -
+w000567.4 | explain | -
+w000567.5 | make up | -
+w000568.1 | particularly, specially | -
+w000571.1 | contain, involve | exclude
+w000571.2 | - | exclude
+w000573.1 | time, era | -
+w000573.2 | lesson, class | -
+w000573.3 | - | -
+w000574.1 | location, place, spot | -
+w000574.2 | post, job | -
+w000574.3 | view, opinion, attitude | -
+w000574.4 | place, put | -
+w000575.1 | file, document | -
+w000575.2 | - | -
+w000575.3 | album, disc | -
+w000575.4 | note, write down | -
+w000575.5 | tape, film | -
+w000576.1 | alike, like | different
+w000577.1 | entire, whole, full | partial
+w000577.2 | complete, absolute | partial
+w000577.3 | sum, amount | -
+w000577.4 | amount to, add up to | -
+w000578.1 | - | -
+w000578.2 | - | -
+w000579.1 | television | -
+w000580.1 | over | below, under
+w000580.2 | over | below, under
+w000580.3 | overhead | below
+w000580.4 | - | -
+w000581.1 | society, association | -
+w000581.2 | nightclub | -
+w000581.3 | - | -
+w000582.1 | usual, ordinary, frequent | rare, unusual
+w000582.2 | joint | -
+w000582.3 | - | -
+w000584.1 | movie | -
+w000584.2 | - | -
+w000584.3 | layer, coating | -
+w000584.4 | record, shoot | -
+w000585.1 | guide | follow
+w000585.2 | head, direct, manage | follow
+w000585.3 | result in, cause | -
+w000585.4 | - | -
+w000585.5 | - | -
+w000587.1 | probable | unlikely
+w000587.2 | probably | -
+w000588.1 | - | civilian
+w000588.2 | army, armed forces | -
+w000589.1 | flawless, ideal | imperfect
+w000589.2 | complete, total, absolute | -
+w000589.3 | improve | -
+w000590.1 | private, individual | public
+w000590.2 | - | -
+w000592.1 | safety, protection | danger
+w000592.2 | - | -
+w000592.3 | - | -
+w000593.1 | - | -
+w000593.2 | divide, split | -
+w000593.3 | part, portion | -
+w000593.4 | stock | -
+w000594.1 | cross | -
+w000594.2 | - | -
+w000595.1 | - | -
+w000596.1 | - | -
+w000596.2 | - | -
+w000596.3 | - | -
+w000597.1 | middle, centre | edge
+w000597.2 | centre | -
+w000597.3 | focus | -
+w000598.1 | - | -
+w000599.1 | pair, a few | -
+w000599.2 | pair | -
+w000599.3 | connect, link, join | separate
+w000600.1 | - | alive, living
+w000600.2 | - | -
+w000600.3 | completely, absolutely | -
+w000601.1 | occur, take place | -
+w000601.2 | - | -
+w000602.1 | grip, carry | drop
+w000602.2 | organize, host | cancel
+w000602.3 | contain, take | -
+w000602.4 | grip, grasp | -
+w000603.1 | manufacturing, production | -
+w000603.2 | business, trade | -
+w000603.3 | - | laziness
+w000604.1 | within, in | outside
+w000604.2 | indoors | outside
+w000604.3 | interior | outside
+w000604.4 | interior, internal | outside
+w000605.1 | - | offline
+w000605.2 | - | offline
+w000607.1 | - | -
+w000607.2 | musician | -
+w000607.3 | - | -
+w000608.1 | personal | public
+w000608.2 | secret, confidential | public
+w000608.3 | - | public
+w000608.4 | - | -
+w000610.1 | come back, go back | leave
+w000610.2 | give back, send back | keep
+w000610.3 | - | departure
+w000610.4 | profit | loss
+w000611.1 | feeling | -
+w000611.2 | meaning | -
+w000611.3 | judgment, wisdom | -
+w000611.4 | feel, detect | -
+w000612.1 | - | -
+w000612.2 | celebrity | -
+w000612.3 | - | -
+w000613.1 | exam, examination, quiz | -
+w000613.2 | trial, check | -
+w000613.3 | check, examine, try | -
+w000615.1 | opinion, belief | -
+w000615.2 | scene, scenery | -
+w000615.3 | sight | -
+w000615.4 | regard, see, consider | -
+w000615.5 | watch, look at | -
+w000616.1 | - | -
+w000616.2 | - | -
+w000618.1 | smash | fix, repair
+w000618.2 | - | keep
+w000618.3 | interrupt, pause | -
+w000618.4 | rest, pause | -
+w000618.5 | chance, opportunity | -
+w000620.1 | occasion, incident | -
+w000620.2 | occasion, function | -
+w000620.3 | race, competition | -
+w000621.1 | - | -
+w000621.2 | time | -
+w000622.1 | - | -
+w000623.1 | centre, heart | edge
+w000623.2 | central | -
+w000624.1 | gift | -
+w000624.2 | now, today | past, future
+w000624.3 | - | absent
+w000624.4 | current, existing | past
+w000624.5 | show, offer | -
+w000624.6 | award, give | -

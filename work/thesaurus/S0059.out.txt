@@ -1,0 +1,401 @@
+w015028.1 | correct, fix, put right, remedy | -
+w015028.2 | - | -
+w015030.1 | basic, elementary, simple, primitive | advanced, sophisticated
+w015033.1 | scriptwriter | -
+w015035.1 | switch | -
+w015035.2 | - | -
+w015036.1 | wrap | -
+w015038.1 | - | -
+w015039.1 | cover, hide, veil, cloak | reveal
+w015039.2 | - | -
+w015039.3 | cover, veil, cloak, blanket | -
+w015041.1 | scan, browse, flick through | -
+w015041.2 | - | -
+w015041.3 | glide, brush, graze | -
+w015045.1 | conventional, typical | -
+w015049.1 | sparkle, glitter, glimmer, flicker | -
+w015049.2 | sparkle, gleam, shine | -
+w015049.3 | sparkle, glitter, glimmer, flicker | -
+w015050.1 | unexplored, unknown, unfamiliar | familiar
+w015050.2 | unmapped, unexplored | -
+w015051.1 | unexpected, unpredicted, unanticipated | expected
+w015052.1 | - | -
+w015052.2 | - | -
+w015052.3 | - | -
+w015053.1 | unstated, implicit, tacit | explicit, spoken
+w015054.1 | - | -
+w015054.2 | manservant, servant | -
+w015054.3 | - | -
+w015055.1 | strongly, fiercely, passionately, forcefully | mildly
+w015057.1 | feebly, faintly, limply | strongly
+w015060.1 | - | -
+w015060.2 | unknown | -
+w015060.3 | - | -
+w015061.1 | - | -
+w015064.1 | isolation, estrangement, separation | -
+w015064.2 | estrangement | -
+w015066.1 | boost | -
+w015066.2 | increase, intensify, heighten, strengthen | reduce, weaken
+w015066.3 | expand, elaborate, develop | -
+w015067.1 | - | -
+w015068.1 | - | -
+w015069.1 | - | -
+w015072.1 | aunt, auntie | -
+w015073.1 | - | -
+w015073.2 | - | -
+w015074.1 | loose, roomy | tight
+w015075.1 | rescue | -
+w015078.1 | biotechnology | -
+w015079.1 | pontoon | -
+w015079.2 | cosh, club, truncheon | -
+w015080.1 | - | -
+w015082.1 | financial, fiscal | -
+w015087.1 | - | -
+w015087.2 | - | criticism
+w015088.1 | platitude, commonplace | -
+w015089.1 | roach | -
+w015090.1 | partner, colleague, associate | -
+w015090.2 | traitor | -
+w015092.1 | bulky, heavy, unwieldy, awkward | light, handy
+w015092.2 | complicated, slow, inefficient, unwieldy | simple, efficient
+w015095.1 | periodic, regular | -
+w015099.1 | vary, broaden, widen | -
+w015099.2 | branch out, expand | specialize
+w015100.1 | - | -
+w015102.1 | repetition, reproduction | -
+w015108.1 | - | -
+w015109.1 | parable, allegory, tale | -
+w015109.2 | myth, legend, tale, fiction | fact
+w015110.1 | death, casualty | -
+w015111.1 | - | -
+w015112.1 | - | -
+w015113.1 | foresightedness, vision, forethought, prudence | hindsight
+w015114.1 | - | -
+w015114.2 | - | -
+w015121.1 | - | -
+w015121.2 | hinder, hamper, restrict, cripple | help
+w015123.1 | - | -
+w015123.2 | - | -
+w015125.1 | identical, alike | distinguishable, different
+w015126.1 | deduce, conclude, gather, work out | -
+w015126.2 | imply, suggest | -
+w015127.1 | - | outpatient
+w015127.2 | - | outpatient
+w015128.1 | increase, strengthen, heighten, escalate | weaken, reduce
+w015131.1 | doghouse | -
+w015131.2 | - | -
+w015131.3 | - | -
+w015134.1 | knit | -
+w015135.1 | beer | -
+w015139.1 | adulthood | childhood, boyhood
+w015139.2 | masculinity, virility | womanhood, femininity
+w015141.1 | - | -
+w015144.1 | - | -
+w015145.1 | serviette | -
+w015146.1 | nerve cell | -
+w015147.1 | piece, chunk, bite | -
+w015147.2 | lump | -
+w015147.3 | gem, titbit | -
+w015151.1 | openly, publicly, obviously, blatantly | covertly, secretly
+w015152.1 | - | painful
+w015152.2 | easy, effortless, simple | difficult, hard
+w015153.1 | constantly, continually, always, forever | -
+w015156.1 | autopsy | -
+w015156.2 | review, analysis | -
+w015156.3 | - | -
+w015159.1 | obtain, acquire, get, secure | -
+w015160.1 | push, drive, thrust, move | -
+w015160.2 | drive, push, thrust, catapult | -
+w015166.1 | plan, blueprint, strategy | -
+w015166.2 | - | -
+w015170.1 | summary, briefing, outline, overview | -
+w015170.2 | reduction, cutback, decline | expansion
+w015174.1 | - | -
+w015174.2 | rank, superiority, precedence | juniority
+w015177.1 | - | -
+w015177.2 | abbreviation | -
+w015179.1 | - | -
+w015180.1 | mix, mingle, associate, hang out | -
+w015180.2 | - | -
+w015182.1 | - | -
+w015182.2 | by-product, side effect | -
+w015182.3 | - | -
+w015183.1 | athlete, sportsperson | -
+w015183.2 | - | -
+w015184.1 | directly, fully, completely, firmly | -
+w015184.2 | directly, firmly, straight | -
+w015185.1 | - | -
+w015186.1 | swagger, parade, swank | shuffle
+w015186.2 | support, brace, prop | -
+w015186.3 | swagger | -
+w015187.1 | strut, parade | -
+w015187.2 | arrogance, confidence, bravado | modesty
+w015188.1 | whirl, spin, twirl, churn | -
+w015188.2 | whirl, eddy, spiral | -
+w015189.1 | telecommunications | -
+w015190.1 | theoretician | practitioner
+w015192.1 | - | -
+w015192.2 | flip-flop | -
+w015192.3 | strap, strip | -
+w015194.1 | time frame, period, timescale, deadline | -
+w015198.1 | - | -
+w015199.1 | czar, emperor | -
+w015199.2 | czar | -
+w015200.1 | magnate, mogul, baron, entrepreneur | -
+w015201.1 | completely, absolutely, fully, wholeheartedly | conditionally
+w015202.1 | unmanageable, wild, irrepressible, ungovernable | controllable
+w015203.1 | undoubtedly, unquestionably, certainly, indisputably | -
+w015204.1 | unconventional, unusual, radical, nonconformist | orthodox, conventional
+w015205.1 | outcry, commotion, furore | calm
+w015206.1 | dizziness, giddiness | -
+w015207.1 | watchfulness, alertness, caution, attention | carelessness
+w015209.1 | path, pathway, footpath, passage | -
+w015211.1 | - | -
+w015211.2 | pinwheel | -
+w015212.1 | process, procedure | -
+w015213.1 | packaging, wrapping, cover | -
+w015213.2 | - | -
+w015216.1 | vlogger | -
+w015217.1 | zed | -
+w015218.1 | idealistic, ideal, perfect, visionary | dystopian, realistic
+w015218.2 | idealist, dreamer, visionary | realist
+w015220.1 | attraction, appeal, charm, fascination | -
+w015220.2 | attract, tempt, entice, lure | repel
+w015222.1 | - | -
+w015225.1 | achievement, accomplishment, realization | failure
+w015226.1 | - | -
+w015227.1 | - | -
+w015230.1 | warship | -
+w015234.1 | shock, surprise, revelation | -
+w015234.2 | beauty, stunner | -
+w015235.1 | exhaustion, fatigue | -
+w015236.1 | takeover, acquisition, purchase | -
+w015237.1 | - | -
+w015238.1 | malignant | benign
+w015239.1 | - | -
+w015239.2 | karat | -
+w015241.1 | warning, proviso, condition, qualification | -
+w015242.1 | - | -
+w015243.1 | chair, chairman, chairwoman | -
+w015245.1 | task, job, duty | -
+w015247.1 | set, circle, gang, faction | -
+w015249.1 | reflection, thought, meditation, consideration | -
+w015249.2 | observation, scrutiny, examination | -
+w015250.1 | artificial, unnatural, strained | natural, spontaneous
+w015253.1 | because, cos, since | -
+w015254.1 | grumpy, irritable, crabby | good-natured, cheerful
+w015254.2 | eccentric, odd, strange, peculiar | normal
+w015255.1 | curvaceous, shapely | skinny
+w015255.2 | bendy | straight
+w015257.1 | worsen, decline, degenerate, go downhill | improve
+w015259.1 | untidy, messy, chaotic, disorganized | orderly, tidy
+w015259.2 | unruly, rowdy, wild, riotous | orderly
+w015260.1 | upset, frantic | calm
+w015262.1 | mizzle, shower | downpour
+w015262.2 | mizzle, spit | pour
+w015262.3 | trickle, sprinkle, pour | -
+w015264.1 | bank, dyke, levee | -
+w015265.1 | developing, budding | -
+w015266.1 | charming, delightful, magical | -
+w015267.1 | tempt, lure, attract, persuade | deter, discourage
+w015273.1 | football, soccer | -
+w015274.1 | procedure, technicality | -
+w015274.2 | stiffness, ceremony, correctness | informality
+w015277.1 | better, punter, speculator | -
+w015279.1 | gentleman | lady
+w015279.2 | - | -
+w015280.1 | - | -
+w015282.1 | complaint, grudge, grouse | -
+w015283.1 | snort, groan, mumble | -
+w015283.2 | snort, groan | -
+w015283.3 | foot soldier, drudge, private | -
+w015285.1 | - | -
+w015286.1 | friendly, peaceful, amicable, cordial | quarrelsome, hostile
+w015286.2 | melodious, tuneful, balanced | discordant
+w015289.1 | headscarf, veil | -
+w015291.1 | wasp | -
+w015294.1 | tend, lean, dispose | -
+w015294.2 | lean, bend, tilt, bow | -
+w015294.3 | slope, gradient, rise, ramp | decline
+w015295.1 | - | -
+w015295.2 | - | -
+w015295.3 | development, cultivation | -
+w015297.1 | - | -
+w015298.1 | interaction, interrelationship | -
+w015300.1 | jigsaw puzzle, puzzle | -
+w015300.2 | fretsaw | -
+w015308.1 | lolly | -
+w015312.1 | - | -
+w015315.1 | marketing, promotion | -
+w015315.2 | merchandise, merch | -
+w015318.1 | naughty, playful, impish, cheeky | good
+w015318.2 | malicious, harmful, spiteful | -
+w015319.1 | misinterpret, misread, misconstrue | understand
+w015321.1 | low | -
+w015321.2 | - | -
+w015323.1 | mobile, portable, adjustable | fixed, immovable
+w015323.2 | - | -
+w015324.1 | phlegm, slime | -
+w015326.1 | anonymous, unnamed, unknown | -
+w015326.2 | indescribable, unspeakable, inexpressible | -
+w015327.1 | - | -
+w015327.2 | - | -
+w015328.1 | - | -
+w015329.1 | - | -
+w015332.1 | ouch, ugh | -
+w015334.1 | eruption, explosion, outbreak, fit | -
+w015335.1 | overcome, overpower, swamp, devastate | -
+w015335.2 | overpower, crush, defeat, swamp | -
+w015337.1 | - | -
+w015338.1 | - | -
+w015338.2 | - | -
+w015341.1 | elf, sprite, fairy | -
+w015343.1 | - | -
+w015344.1 | avoidable | unavoidable, inevitable
+w015346.1 | supporter, advocate, champion, backer | opponent, critic
+w015349.1 | - | -
+w015349.2 | - | -
+w015350.1 | - | quarter
+w015350.2 | fourfold | -
+w015354.1 | gorge, canyon, gully | -
+w015357.1 | revive, revitalize, renew, rejuvenate | -
+w015357.2 | regrow, renew | degenerate
+w015358.1 | rebirth, transmigration | -
+w015358.2 | reinvention, revival, embodiment | -
+w015360.1 | roller coaster | -
+w015360.2 | roller coaster, ups and downs | -
+w015362.1 | saxophone | -
+w015363.1 | sax | -
+w015365.1 | colonist, immigrant, pioneer | native
+w015366.1 | cut off, cut, break off, end | join, connect
+w015367.1 | hone, whet, grind | blunt
+w015367.2 | improve, hone, intensify, heighten | weaken, dull
+w015368.1 | seafood | -
+w015373.1 | sketch, parody, spoof | -
+w015375.1 | firmly, strongly, sturdily, securely | flimsily
+w015375.2 | unanimously, firmly, wholeheartedly | -
+w015375.3 | continuously, nonstop | -
+w015377.1 | staircase, stairs | -
+w015378.1 | starlit | starless
+w015378.2 | shining, sparkling, bright | -
+w015379.1 | - | subsonic
+w015381.1 | - | -
+w015382.1 | stun gun | -
+w015382.2 | stun | -
+w015383.1 | technically | -
+w015385.1 | rough, coarse, grainy | smooth
+w015386.1 | beat, whip, flog, hit | -
+w015386.2 | toss, writhe, flail, jerk | -
+w015386.3 | trounce, crush, beat, hammer | -
+w015388.1 | gravestone, headstone | -
+w015390.1 | branch, feeder | -
+w015390.2 | - | -
+w015393.1 | uncontrolled, unrestrained, rampant | controlled, restrained
+w015393.2 | unverified, unexamined | -
+w015394.1 | sadness, misery, sorrow, depression | happiness, joy
+w015395.1 | inconceivable, unthinkable, incredible, unbelievable | imaginable
+w015397.1 | - | sustainable
+w015398.1 | battleship | -
+w015399.1 | fully, completely, enthusiastically, unreservedly | -
+w015400.1 | - | married
+w015408.1 | acronym, contraction | -
+w015410.1 | attacker, tormentor | -
+w015410.2 | addict, user | -
+w015414.1 | enliven, energize, invigorate | -
+w015414.2 | - | -
+w015414.3 | living, alive, live | inanimate
+w015418.1 | - | -
+w015419.1 | prevent, avoid, stop, head off | -
+w015419.2 | turn away, avoid | -
+w015421.1 | background, history | -
+w015423.1 | weightlifting | -
+w015428.1 | ring, peal, toll | -
+w015428.2 | ring, peal, toll, sound | -
+w015431.1 | applicant, plaintiff, petitioner | defendant
+w015432.1 | intimacy, affection, friendship | distance
+w015432.2 | nearness, proximity | distance
+w015434.1 | - | -
+w015434.2 | - | -
+w015436.1 | - | -
+w015439.1 | stuff, pack, squeeze, jam | -
+w015439.2 | revise, swot, study | -
+w015441.1 | - | -
+w015442.1 | - | -
+w015442.2 | crazy, mad, loony | sane
+w015443.1 | huggable, cute, adorable | -
+w015445.1 | decode, decrypt, interpret, make out | encode
+w015446.1 | dig, probe, explore, investigate | -
+w015446.2 | rummage, dig, root around | -
+w015449.1 | annoyance, dissatisfaction, irritation, disapproval | pleasure, satisfaction
+w015452.1 | easy, painless, simple | laborious, difficult
+w015454.1 | - | -
+w015456.1 | favourite, favorite | -
+w015456.2 | favourite, favorite | -
+w015457.1 | - | -
+w015458.1 | chance, accident | -
+w015458.2 | - | -
+w015459.1 | liking, affection, love, fancy | dislike
+w015460.1 | equip, fit out, decorate | -
+w015460.2 | provide, supply, give, equip | -
+w015461.1 | ordeal, trial, challenge | -
+w015461.2 | glove | -
+w015463.1 | spectral, eerie, pale, ghostlike | -
+w015467.1 | snarl, rumble, grumble | -
+w015467.2 | snarl, rumble | -
+w015468.1 | regular, usual, customary, chronic | occasional
+w015469.1 | - | -
+w015470.1 | critic | fan, admirer
+w015471.1 | misty, foggy, smoky | clear
+w015471.2 | vague, unclear, fuzzy, dim | clear
+w015473.1 | - | -
+w015474.1 | hasty, quick | leisurely, unhurried
+w015475.1 | utopian, romantic, visionary | realistic, pragmatic
+w015476.1 | hinder, hamper, obstruct, slow down | help, facilitate
+w015477.1 | - | -
+w015477.2 | - | -
+w015478.1 | cruel, inhuman, brutal, barbaric | humane
+w015479.1 | immediate, instant | -
+w015481.1 | - | -
+w015483.1 | curse, hoodoo | charm
+w015483.2 | curse | -
+w015484.1 | unemployed, out of work | -
+w015488.1 | justified, reasonable, legitimate, defensible | unjustifiable
+w015491.1 | skylark | -
+w015491.2 | prank, joke, game, fun | -
+w015492.1 | link, connection, relationship, association | -
+w015494.1 | affectionately, tenderly, fondly, carefully | coldly
+w015501.1 | nothing, zilch, zero | everything
+w015503.1 | new, fresh, recent | -
+w015504.1 | - | -
+w015504.2 | - | -
+w015505.1 | - | -
+w015508.1 | - | -
+w015509.1 | salon, shop | -
+w015509.2 | living room, lounge | -
+w015512.1 | magazine, journal | -
+w015512.2 | periodic, regular, recurrent | -
+w015513.1 | whew | -
+w015516.1 | strongly, forcefully, mightily | weakly
+w015518.1 | - | -
+w015518.2 | archbishop | -
+w015519.1 | saying, adage | -
+w015520.1 | approval, confirmation, endorsement | rejection
+w015522.1 | disprove, rebut, deny, contradict | confirm, prove
+w015523.1 | relocation | -
+w015525.1 | inactive | active
+w015525.2 | settled, nonmigratory | nomadic, migratory
+w015527.1 | shock, surprise, bombshell | -
+w015528.1 | - | -
+w015529.1 | - | -
+w015530.1 | tourism | -
+w015531.1 | contextual | -
+w015532.1 | sodden, wet | dry, crisp
+w015533.1 | somewhere | -
+w015534.1 | witchcraft, black magic, magic, wizardry | -
+w015535.1 | specialty | -
+w015535.2 | specialty, field, expertise, forte | -
+w015537.1 | - | -
+w015538.1 | firm, loyal, resolute, unwavering | fickle
+w015539.1 | bend, bow, crouch, hunch | straighten
+w015539.2 | descend, sink, resort | -
+w015539.3 | porch, step | -

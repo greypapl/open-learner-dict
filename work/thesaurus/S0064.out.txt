@@ -1,0 +1,400 @@
+w018010.1 | peace | wartime
+w018011.1 | - | -
+w018013.1 | - | -
+w018014.1 | pitta | -
+w018015.1 | break, recess | -
+w018018.1 | - | -
+w018019.1 | zip code, postal code | -
+w018020.1 | unsurprisingly, as expected, naturally | surprisingly
+w018022.1 | aggressive, forceful, assertive, bossy | -
+w018025.1 | racetrack | -
+w018026.1 | - | -
+w018027.1 | - | -
+w018027.2 | - | -
+w018029.1 | restore, heal | -
+w018029.2 | reform | -
+w018029.3 | restore, renovate, redeem | -
+w018030.1 | thoroughly, carefully, strictly, meticulously | carelessly
+w018033.1 | salty, spicy | sweet
+w018033.2 | - | -
+w018033.3 | - | -
+w018036.1 | strainer, sifter | -
+w018036.2 | sift, strain | -
+w018037.1 | ledge | -
+w018038.1 | silver | -
+w018038.2 | clear, melodious | -
+w018040.1 | - | -
+w018041.1 | pain, ache, tenderness | -
+w018044.1 | - | -
+w018045.1 | suppress, restrain, curb, smother | encourage
+w018045.2 | suppress, hold back, swallow | -
+w018045.3 | suffocate, smother, choke | -
+w018046.1 | juicy, tender, moist | dry
+w018046.2 | - | -
+w018047.1 | brilliantly, excellently, wonderfully | badly
+w018048.1 | - | -
+w018052.1 | elegant, stylish, refined, classy | tasteless, tacky
+w018062.1 | awkwardly, uneasily | comfortably
+w018062.2 | worryingly, alarmingly | -
+w018063.1 | unknown, unexplored, unseen | -
+w018064.1 | - | -
+w018065.1 | blade | -
+w018065.2 | weathervane | -
+w018066.1 | vindictive, spiteful, revengeful | -
+w018068.1 | - | -
+w018069.1 | paleness | blackness
+w018069.2 | - | -
+w018070.1 | - | -
+w018070.2 | - | -
+w018072.1 | jerk, tug, pull, wrench | push
+w018072.2 | jerk, tug, pull | -
+w018076.1 | - | -
+w018077.1 | - | accused
+w018079.1 | excruciating, painful, unbearable, torturous | -
+w018083.1 | sorry, regretful, remorseful | unrepentant
+w018088.1 | noble, nobleman, aristocratic | commoner
+w018092.1 | barber | -
+w018092.2 | - | -
+w018093.1 | - | -
+w018097.1 | - | -
+w018098.1 | accounting, accountancy | -
+w018106.1 | runway | -
+w018106.2 | walkway, gangway | -
+w018107.1 | traditionally, typically | -
+w018108.1 | block, jam, obstruct, choke | clear, unblock
+w018108.2 | - | -
+w018109.1 | seizure | -
+w018110.1 | draft, call-up, national service | -
+w018115.1 | internet | -
+w018119.1 | separate, remove, disconnect, unfasten | attach
+w018119.2 | distance, disengage | engage
+w018120.1 | prevention | -
+w018127.1 | quilt, comforter | -
+w018128.1 | expel, throw out, evict, remove | admit
+w018128.2 | expel, emit, discharge | -
+w018128.3 | bail out | -
+w018131.1 | - | -
+w018131.2 | heavy | -
+w018135.1 | - | -
+w018136.1 | distant, remote | nearby
+w018136.2 | dreamy, absent, distracted | -
+w018139.1 | vary, change, swing, shift | stabilize
+w018140.1 | path, walkway, trail | -
+w018140.2 | pavement, sidewalk | -
+w018144.1 | annoy, irritate, exasperate | satisfy
+w018144.2 | thwart, foil, block, defeat | help
+w018145.1 | - | -
+w018145.2 | - | -
+w018150.1 | grandpa, grandfather | grandma
+w018158.1 | laugh, jeer | -
+w018158.2 | honk, sound | -
+w018158.3 | honk | -
+w018158.4 | scream, laugh | -
+w018162.1 | informant, grass, snitch | -
+w018163.1 | rare, occasional, uncommon, sporadic | frequent
+w018173.1 | grub, maggot | -
+w018181.1 | - | upland, highland
+w018181.2 | - | upland, highland
+w018185.1 | - | -
+w018187.1 | - | -
+w018187.2 | trim | -
+w018188.1 | acquisitive, greedy | -
+w018189.1 | happen, occur, come about | -
+w018189.2 | appear, emerge, turn up | vanish, disappear
+w018195.1 | - | -
+w018201.1 | - | -
+w018203.1 | snuggle, cuddle, settle | -
+w018203.2 | - | -
+w018204.1 | - | -
+w018204.2 | standardization | -
+w018212.1 | outward | inwards
+w018215.1 | observant, insightful, sharp | -
+w018218.1 | - | -
+w018218.2 | - | -
+w018219.1 | preventive, protective | -
+w018220.1 | chair, head, lead, oversee | -
+w018226.1 | carelessly, rashly, wildly | carefully, cautiously
+w018228.1 | locally | nationally
+w018230.1 | - | -
+w018232.1 | - | -
+w018239.1 | jeez | -
+w018241.1 | sledge, sled | -
+w018241.2 | sledge | -
+w018244.1 | gentleness, tenderness | hardness, harshness
+w018245.1 | harden, set, freeze | melt, liquefy
+w018245.2 | strengthen, consolidate, reinforce | weaken
+w018248.1 | lounge, slump, stretch out | -
+w018248.2 | spread, extend | -
+w018248.3 | spread, expansion | -
+w018256.1 | weepy, emotional | -
+w018257.1 | toolkit | -
+w018257.2 | toolkit | -
+w018260.1 | developing, backward | -
+w018260.2 | immature, undeveloped | -
+w018261.1 | untouched, peaceful, uninterrupted | disturbed
+w018262.1 | useless, uncooperative | helpful
+w018263.1 | ignorant, unaware | informed
+w018264.1 | cruel, mean, nasty, harsh | kind
+w018265.1 | unconscious, silent | responsive
+w018267.1 | unproven, unfounded, groundless | -
+w018267.2 | - | -
+w018274.1 | roadside, verge | -
+w018274.2 | roadside | -
+w018275.1 | vortex, eddy, whirl | -
+w018275.2 | hot tub | -
+w018275.3 | vortex, maelstrom | -
+w018276.1 | pale, off-white | -
+w018277.1 | - | -
+w018281.1 | illness, sickness, complaint, disorder | -
+w018282.1 | air raid | -
+w018283.1 | - | -
+w018285.1 | - | -
+w018285.2 | - | -
+w018305.1 | thick, shaggy | -
+w018305.2 | - | -
+w018306.1 | rush, hurry, scurry | -
+w018306.2 | activity, commotion, hustle, flurry | calm
+w018317.1 | happily, gladly, willingly, merrily | gloomily
+w018323.1 | - | -
+w018324.1 | decisively, definitively, convincingly | -
+w018325.1 | - | insulation
+w018326.1 | materialism | -
+w018326.2 | - | -
+w018329.1 | reduce, limit, restrict, cut back | extend, expand
+w018331.1 | fantasy, reverie, dream | -
+w018331.2 | dream, fantasize | -
+w018332.1 | thunderous, loud | quiet, silent
+w018333.1 | explode, blow up, set off | defuse
+w018336.1 | delight, charm, pleasure, fascination | -
+w018336.2 | spell, magic | disenchantment
+w018339.1 | anonymous, nameless | -
+w018341.1 | attach, fix, secure, tie | unfasten, undo
+w018341.2 | fix, focus, concentrate | -
+w018342.1 | motherland, homeland | -
+w018345.1 | metaphorically, symbolically | literally
+w018346.1 | bubble, fizzle, sparkle | -
+w018346.2 | effervescence | -
+w018346.3 | sparkle, liveliness, zest | -
+w018347.1 | level, smooth, even out | -
+w018347.2 | demolish, raze, knock down, floor | -
+w018350.1 | delicacy, weakness, frailty | strength, durability
+w018353.1 | gem, jewel | -
+w018356.1 | bloody, gruesome, violent | -
+w018357.1 | muesli | -
+w018358.1 | vividly, clearly, explicitly | -
+w018358.2 | visually | -
+w018362.1 | - | -
+w018363.1 | - | -
+w018367.1 | - | hyperthermia
+w018369.1 | restlessness, eagerness, irritation | patience
+w018370.1 | randomly, at random, wildly | selectively
+w018371.1 | curious, nosy | -
+w018372.1 | informative, educational | -
+w018374.1 | aggressor, attacker | defender
+w018385.1 | throw, toss, chuck | -
+w018385.2 | - | -
+w018390.1 | - | womenswear
+w018396.1 | distortion, falsification | -
+w018397.1 | abuse, maltreatment, cruelty | -
+w018399.1 | - | -
+w018399.2 | - | -
+w018402.1 | cancel, nullify, neutralize, invalidate | -
+w018402.2 | deny, contradict | affirm
+w018404.1 | absurd, ridiculous, senseless, meaningless | sensible
+w018406.1 | branch, spin-off, offspring | -
+w018406.2 | shoot, sprout | -
+w018407.1 | cream, salve, lotion | -
+w018408.1 | - | offscreen
+w018408.2 | - | offscreen
+w018412.1 | - | -
+w018413.1 | excess | -
+w018414.1 | overwhelming, irresistible, intense | -
+w018420.1 | - | -
+w018427.1 | - | -
+w018427.2 | mover | -
+w018434.1 | relish, enjoy, appreciate | -
+w018434.2 | flavour, taste, tang | -
+w018435.1 | teacher | -
+w018439.1 | glimmer, glisten, glow, twinkle | -
+w018439.2 | glimmer, glow, gleam | -
+w018441.1 | - | complication
+w018443.1 | doze, nap | -
+w018443.2 | nap, doze, rest | -
+w018443.3 | - | -
+w018445.1 | calm, quiet, silence, peace | movement, noise
+w018446.1 | foolishly, idiotically, unwisely | wisely, cleverly
+w018447.1 | - | -
+w018457.1 | unsightliness, hideousness | beauty
+w018458.1 | alone, unescorted, solo | -
+w018458.2 | - | -
+w018459.1 | wildly, helplessly | -
+w018460.1 | underscore | -
+w018460.2 | emphasize, stress, highlight, underscore | -
+w018460.3 | underscore | -
+w018463.1 | dissatisfied, unfulfilled | satisfied
+w018468.1 | - | -
+w018469.1 | unfairly, unjustly, illegally | rightfully
+w018473.1 | permissible, acceptable, legal | forbidden
+w018483.1 | preventable | inevitable, unavoidable
+w018488.1 | - | -
+w018488.2 | - | -
+w018491.1 | pushy | -
+w018492.1 | obstacle, hold-up, holdup | -
+w018492.2 | jam, congestion | -
+w018503.1 | woodwork, woodworking | -
+w018514.1 | morsel, fragment | -
+w018514.2 | scrap, bit, shred | -
+w018517.1 | ominously, gloomily, menacingly | -
+w018517.2 | - | brightly
+w018518.1 | disable, switch off, turn off | activate
+w018519.1 | stalemate, impasse, standstill | breakthrough
+w018519.2 | - | -
+w018523.1 | conclude, infer, work out, reason | -
+w018529.1 | uproot, expel, drive out | -
+w018529.2 | replace, supplant, supersede | -
+w018529.3 | dislodge, shift, move | -
+w018533.1 | delighted, thrilled, ecstatic | depressed
+w018534.1 | gracefully, stylishly, neatly | clumsily
+w018540.1 | break out, explode, flare up | -
+w018540.2 | - | -
+w018540.3 | break out | -
+w018542.1 | expel, throw out, remove | -
+w018551.1 | - | -
+w018551.2 | bone | -
+w018555.1 | satisfaction, contentment | frustration
+w018555.2 | achievement, realization, completion | -
+w018561.1 | shine, glint, glimmer, glow | -
+w018561.2 | glint, glimmer, glow | -
+w018561.3 | glint, flicker, spark | -
+w018568.1 | mouth organ | -
+w018570.1 | headlamp | -
+w018571.1 | flatmate, roommate | -
+w018574.1 | expression, phrase | -
+w018574.2 | style, language | -
+w018575.1 | incredibly, unbelievably, extremely | -
+w018575.2 | - | -
+w018576.1 | remarkably, strikingly, admirably | unimpressively
+w018577.1 | immaturity, naivety | experience
+w018578.1 | - | superiority
+w018580.1 | attentively, closely, carefully | -
+w018590.1 | - | heaviness
+w018590.2 | brightness, paleness | darkness
+w018597.1 | modernization | -
+w018599.1 | still, stationary, immobile, frozen | moving
+w018603.1 | passable | -
+w018603.2 | - | -
+w018605.1 | emptiness, void | -
+w018606.1 | rudely, insultingly | -
+w018606.2 | - | defensively
+w018608.1 | - | -
+w018608.2 | pacesetter | -
+w018609.1 | knickers | -
+w018612.1 | gloom, negativity, cynicism | optimism
+w018615.1 | dog, mutt | -
+w018618.1 | leap, spring, jump | -
+w018618.2 | seize, jump on | -
+w018618.3 | leap, spring | -
+w018622.1 | identifiable, distinctive | unrecognizable
+w018625.1 | bitter, aggrieved, indignant | -
+w018626.1 | - | -
+w018626.2 | - | -
+w018628.1 | - | -
+w018630.1 | - | classicism
+w018630.2 | idealism | realism
+w018636.1 | - | -
+w018641.1 | - | -
+w018641.2 | - | -
+w018644.1 | friendly, outgoing, gregarious, social | unsociable, shy
+w018645.1 | deeply | -
+w018645.2 | thoroughly, decisively | -
+w018645.3 | sensibly, solidly, reliably | -
+w018646.1 | - | -
+w018646.2 | - | -
+w018646.3 | - | -
+w018647.1 | oppressive, airless | -
+w018647.2 | oppressive, restrictive, repressive | -
+w018650.1 | - | literally
+w018651.1 | chatty, garrulous, communicative | quiet, reserved
+w018653.1 | - | -
+w018653.2 | - | -
+w018655.1 | pensively, reflectively | thoughtlessly
+w018655.2 | considerately, kindly | thoughtlessly
+w018656.1 | punch, hit, whack, bash | -
+w018656.2 | pound, thud, throb | -
+w018656.3 | thud, bang, blow | -
+w018657.1 | - | -
+w018659.1 | despotic, oppressive, dictatorial, autocratic | -
+w018661.1 | emphasize, stress, highlight, underline | -
+w018661.2 | - | -
+w018661.3 | underline | -
+w018663.1 | useless, broken | usable
+w018664.1 | respirator | -
+w018664.2 | fan, vent | -
+w018665.1 | - | invertebrate
+w018665.2 | - | invertebrate
+w018667.1 | - | -
+w018667.2 | - | -
+w018667.3 | - | -
+w018669.1 | - | -
+w018669.2 | stream | -
+w018672.1 | long, crave, ache, pine | -
+w018676.1 | - | -
+w018676.2 | - | -
+w018688.1 | - | -
+w018695.1 | - | -
+w018697.1 | fathomless | -
+w018697.2 | unlimited, endless, infinite, boundless | limited
+w018708.1 | chimp | -
+w018709.1 | - | -
+w018709.2 | carve, sculpt | -
+w018713.1 | - | -
+w018714.1 | - | -
+w018715.1 | thoroughly, completely, fully, extensively | -
+w018718.1 | content, satisfied, happy | dissatisfied
+w018728.1 | misinformation, propaganda | -
+w018732.1 | articulately, fluently, expressively | -
+w018734.1 | fanciful, fantastic, imaginary | realistic
+w018737.1 | - | -
+w018738.1 | - | -
+w018738.2 | - | -
+w018740.1 | praise | criticism
+w018742.1 | stupidly, unwisely, recklessly | wisely
+w018749.1 | transfer, handoff | -
+w018753.1 | friendly, generous | inhospitable
+w018753.2 | favourable | inhospitable, hostile
+w018754.1 | - | -
+w018756.1 | powerful, effective, influential | -
+w018759.1 | increase, rise, addition | decrement
+w018759.2 | rise, raise, increase | -
+w018759.3 | increase | decrement
+w018760.1 | unavoidable, inevitable | avoidable
+w018766.1 | - | -
+w018766.2 | - | -
+w018766.3 | - | -
+w018769.1 | likeable, pleasant, nice, friendly | unlikeable
+w018780.1 | figuratively, symbolically | literally
+w018782.1 | - | -
+w018782.2 | - | -
+w018787.1 | smell, stink, scent | -
+w018793.1 | flyover | underpass
+w018794.1 | - | -
+w018796.1 | persist, keep going, carry on, hang in | give up, quit
+w018797.1 | - | -
+w018799.1 | jokingly, teasingly | seriously
+w018801.1 | usefulness, feasibility, workability | impracticality
+w018801.2 | - | -
+w018802.1 | delay | -
+w018804.1 | trim, cut back, clip | -
+w018804.2 | cut, trim, reduce, pare | -
+w018804.3 | - | -
+w018807.1 | pajamas | -
+w018809.1 | exude, glow with, beam | -
+w018809.2 | emit, give off, give out | absorb
+w018809.3 | spread out, branch out | converge
+w018813.1 | unfortunate, sad, deplorable | -
+w018817.1 | rumble, roar, thunder | -
+w018817.2 | - | -
+w018817.3 | - | -
+w018824.1 | solidarity | brotherhood
+w018824.2 | - | brotherhood
+w018826.1 | - | -

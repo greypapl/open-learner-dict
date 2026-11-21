@@ -1,0 +1,400 @@
+w000301.1 | nation, state | -
+w000301.2 | countryside | town, city
+w000301.3 | - | -
+w000302.1 | - | closed, shut
+w000302.2 | available | closed
+w000302.3 | honest, frank | secretive
+w000302.4 | - | close, shut
+w000302.5 | start, begin, launch | close
+w000304.1 | - | -
+w000304.2 | period, time | -
+w000304.3 | flavour | -
+w000306.1 | - | -
+w000306.2 | blame | -
+w000307.1 | everybody | no one
+w000309.1 | common, widespread | specific
+w000309.2 | overall, broad, rough | detailed, specific
+w000309.3 | - | -
+w000311.1 | combined | -
+w000311.2 | - | -
+w000312.1 | region, district, zone | -
+w000312.2 | field, subject | -
+w000312.3 | size | -
+w000313.1 | dark | white
+w000313.2 | - | white
+w000313.3 | - | white
+w000313.4 | - | white
+w000313.5 | - | -
+w000315.1 | next, subsequent | previous
+w000315.2 | - | -
+w000315.3 | after | before
+w000315.4 | supporter, fan | -
+w000317.1 | rule, regulation | -
+w000317.2 | - | -
+w000317.3 | principle, rule | -
+w000318.1 | - | apart, alone
+w000318.2 | at once | -
+w000318.3 | - | apart
+w000319.1 | conflict, fighting | peace
+w000319.2 | battle, campaign, fight | -
+w000319.3 | fight | -
+w000320.1 | entire, complete, full | partial
+w000320.2 | complete, intact | broken
+w000320.3 | total, unit | part
+w000321.1 | automobile, vehicle | -
+w000321.2 | carriage, coach | -
+w000322.1 | - | -
+w000322.2 | expression, look | -
+w000322.3 | surface, side | -
+w000322.4 | - | -
+w000322.5 | confront, meet, deal with | avoid
+w000323.1 | - | -
+w000324.1 | type, sort, variety | -
+w000324.2 | caring, friendly, nice | unkind, cruel
+w000325.1 | perhaps, possibly | -
+w000326.1 | each, a | -
+w000326.2 | - | -
+w000327.1 | - | -
+w000327.2 | head, chairman | -
+w000329.1 | tale, account | -
+w000329.2 | report, article | -
+w000329.3 | floor, level | -
+w000330.1 | - | -
+w000330.2 | - | broken
+w000330.3 | - | -
+w000331.1 | - | -
+w000331.2 | direction, path | -
+w000331.3 | dish | -
+w000331.4 | flow, pour | -
+w000332.1 | fitness | illness
+w000332.2 | - | -
+w000333.1 | wish, expect | -
+w000333.2 | expectation, optimism | despair
+w000333.3 | - | -
+w000334.1 | significant, major, vital | unimportant, minor
+w000334.2 | powerful, influential | -
+w000335.1 | - | most
+w000335.2 | - | most
+w000335.3 | - | most
+w000337.1 | method, way | -
+w000337.2 | money, wealth | -
+w000338.1 | information | -
+w000338.2 | - | -
+w000341.1 | inside | beyond
+w000341.2 | inside | outside
+w000341.3 | inside | outside
+w000342.1 | capable | unable
+w000342.2 | clever, skilful, capable | -
+w000343.1 | - | -
+w000343.2 | notebook | -
+w000343.3 | reserve | -
+w000343.4 | - | -
+w000344.1 | - | late
+w000344.2 | - | late
+w000344.3 | - | late
+w000344.4 | - | late
+w000345.1 | data, knowledge | -
+w000346.1 | nearby | national
+w000346.2 | - | general
+w000346.3 | resident | stranger
+w000347.1 | ah | -
+w000347.2 | zero | -
+w000348.1 | - | -
+w000348.2 | pole, stake | -
+w000348.3 | job, position | -
+w000348.4 | publish | -
+w000348.5 | send, mail | -
+w000348.6 | send | -
+w000349.1 | thank you | -
+w000349.2 | gratitude | -
+w000350.1 | - | -
+w000350.2 | - | -
+w000350.3 | film, record | -
+w000351.1 | youthful | old
+w000351.2 | new | old
+w000351.3 | - | -
+w000352.1 | - | -
+w000353.1 | - | -
+w000353.2 | - | -
+w000353.3 | - | -
+w000354.1 | speak, chat | -
+w000354.2 | discuss | -
+w000354.3 | conversation, chat | -
+w000354.4 | speech, lecture | -
+w000354.5 | negotiation, discussion | -
+w000355.1 | - | -
+w000355.2 | - | -
+w000355.3 | - | -
+w000355.4 | - | -
+w000356.1 | truth | -
+w000356.2 | reality, truth | fiction
+w000357.1 | fixed, set | -
+w000357.2 | considering | -
+w000357.3 | - | -
+w000358.1 | - | -
+w000358.2 | - | -
+w000358.3 | - | -
+w000358.4 | partly | fully
+w000359.1 | - | -
+w000359.2 | help | -
+w000359.3 | - | -
+w000359.4 | give, pass | -
+w000360.1 | amount, standard, degree | -
+w000360.2 | floor, storey | -
+w000360.3 | flat, even | uneven
+w000360.4 | equal, even | -
+w000360.5 | flatten, destroy | -
+w000361.1 | brain, head | body
+w000361.2 | opinion, intention | -
+w000361.3 | object | -
+w000361.4 | look after, watch | -
+w000362.1 | frequently, regularly | rarely, seldom
+w000363.1 | one, sole, only | -
+w000363.2 | unmarried | married
+w000363.3 | - | double
+w000363.4 | - | -
+w000363.5 | - | return
+w000363.6 | pick, select | -
+w000364.1 | get, grow, turn | -
+w000364.2 | suit | -
+w000365.1 | - | mind
+w000365.2 | corpse | -
+w000365.3 | organization | -
+w000366.1 | upcoming, next | past
+w000366.2 | arrival | departure
+w000367.1 | power, authority | -
+w000367.2 | switch, button | -
+w000367.3 | rule, manage, run | -
+w000367.4 | limit, restrict | -
+w000368.1 | - | life, birth
+w000368.2 | end | birth
+w000369.1 | - | -
+w000370.1 | man, fellow | -
+w000370.2 | - | -
+w000370.3 | - | -
+w000372.1 | - | -
+w000372.2 | position, post | -
+w000372.3 | department | -
+w000373.1 | - | -
+w000373.2 | - | -
+w000373.3 | - | -
+w000373.4 | salary, income | -
+w000374.1 | difficulty, trouble, issue | solution
+w000374.2 | question | -
+w000375.1 | - | north
+w000375.2 | southern | north
+w000375.3 | - | north
+w000376.1 | correct, right, accurate | false, untrue
+w000376.2 | real, genuine | false
+w000376.3 | loyal, faithful | false
+w000377.1 | nearly | -
+w000378.1 | - | -
+w000378.2 | - | -
+w000378.3 | - | -
+w000379.1 | past | -
+w000379.2 | background, record | -
+w000380.1 | big, huge | small
+w000380.2 | big, great | small
+w000381.1 | - | -
+w000381.2 | missing | found
+w000381.3 | confused | -
+w000382.1 | study, investigation | -
+w000382.2 | study, investigate | -
+w000383.1 | - | -
+w000383.2 | space | -
+w000383.3 | scope, chance | -
+w000384.1 | a few, some | -
+w000384.2 | a few, some | -
+w000385.1 | - | -
+w000386.1 | triumph | lose
+w000386.2 | gain, earn, get | lose
+w000386.3 | victory | defeat, loss
+w000387.1 | incorrect, mistaken, false | right, correct
+w000387.2 | - | -
+w000387.3 | immoral, bad | right
+w000387.4 | incorrectly | right
+w000387.5 | evil, sin | right
+w000387.6 | - | -
+w000388.1 | - | -
+w000388.2 | forward | -
+w000389.1 | anybody | -
+w000389.2 | anybody | -
+w000390.1 | - | -
+w000390.2 | otherwise | -
+w000391.1 | - | boy
+w000391.2 | daughter | son
+w000391.3 | - | -
+w000393.1 | issue, subject, affair | -
+w000393.2 | problem, trouble | -
+w000393.3 | substance, material | -
+w000393.4 | count | -
+w000394.1 | fairly, quite, rather | -
+w000394.2 | attractive, lovely, beautiful | ugly, plain
+w000395.1 | recall, recollect | forget
+w000395.2 | - | forget
+w000395.3 | honour | -
+w000396.1 | - | -
+w000396.2 | sky | -
+w000396.3 | - | -
+w000396.4 | broadcast, show | -
+w000396.5 | - | -
+w000396.6 | express, voice | -
+w000397.1 | piece, little | -
+w000397.2 | moment, while | -
+w000397.3 | - | -
+w000398.1 | mate, pal | enemy
+w000398.2 | supporter | enemy
+w000398.3 | - | unfriend
+w000399.1 | strike, beat, knock | miss
+w000399.2 | affect, damage | -
+w000399.3 | reach | -
+w000399.4 | success | failure, flop
+w000399.5 | blow, strike | miss
+w000399.6 | visit | -
+w000400.1 | pleasant, lovely, enjoyable | nasty, unpleasant
+w000400.2 | kind, friendly | nasty, unkind
+w000400.3 | fine, subtle | -
+w000401.1 | likely | -
+w000402.1 | proverb | -
+w000403.1 | grasp, see, follow | misunderstand
+w000403.2 | gather, hear | -
+w000404.1 | yes | no
+w000406.1 | group, form | -
+w000406.2 | lesson | -
+w000406.3 | - | -
+w000406.4 | classify, group | -
+w000407.1 | shut | open
+w000407.2 | end, finish | open
+w000407.3 | near | far, distant
+w000407.4 | intimate | distant
+w000407.5 | near | far
+w000409.1 | plan, suggestion, thought | -
+w000409.2 | notion, concept, picture | -
+w000410.1 | global, worldwide | national, domestic
+w000410.2 | - | -
+w000411.1 | former, previous | future
+w000411.2 | history | future, present
+w000411.3 | beyond | -
+w000411.4 | after | before
+w000411.5 | by | -
+w000412.1 | likely, feasible | impossible
+w000413.1 | create, produce, lead to | prevent
+w000413.2 | reason, source, origin | effect, result
+w000413.3 | aim | -
+w000414.1 | expected | -
+w000414.2 | payable | -
+w000414.3 | proper, appropriate | -
+w000415.1 | glad, pleased, cheerful | sad, unhappy
+w000415.2 | glad, willing, content | unwilling
+w000416.1 | - | -
+w000416.2 | person, human being | animal
+w000417.1 | shift, stir | stay
+w000417.2 | relocate | stay
+w000417.3 | touch, affect | -
+w000417.4 | step, action | -
+w000417.5 | movement, shift | -
+w000418.1 | query, inquiry | answer, reply
+w000418.2 | issue, matter, problem | -
+w000418.3 | interview, interrogate | -
+w000418.4 | doubt, challenge | accept
+w000419.1 | sequence, succession | -
+w000419.2 | - | -
+w000421.1 | stay, remain | leave
+w000421.2 | delay | -
+w000422.1 | lady | man
+w000424.1 | inquire, question | answer, reply
+w000424.2 | request | -
+w000424.3 | invite | -
+w000425.1 | neighbourhood, population | -
+w000425.2 | - | -
+w000426.1 | information | -
+w000427.1 | overdue | early
+w000427.2 | - | early
+w000427.3 | dead | -
+w000427.4 | - | early
+w000428.1 | depart, go | arrive, enter
+w000428.2 | - | take
+w000428.3 | - | -
+w000428.4 | holiday, vacation | -
+w000429.1 | - | -
+w000429.2 | cut | -
+w000430.1 | unusual, particular, exceptional | ordinary, usual
+w000430.2 | - | -
+w000430.3 | - | -
+w000431.1 | observe, view, look at | -
+w000431.2 | mind | -
+w000431.3 | - | -
+w000432.1 | - | -
+w000432.2 | each, both | -
+w000432.3 | too, also | -
+w000432.4 | - | -
+w000432.5 | - | -
+w000433.1 | - | past
+w000433.2 | - | -
+w000433.3 | later, coming | past
+w000434.1 | brightness | dark, darkness
+w000434.2 | lamp | -
+w000434.3 | - | heavy
+w000434.4 | pale, bright | dark
+w000434.5 | ignite, burn | -
+w000434.6 | brighten | -
+w000435.1 | short | high, tall
+w000435.2 | small, little | high
+w000435.3 | sad, depressed, down | -
+w000435.4 | - | high
+w000435.5 | bottom | high, peak
+w000436.1 | - | -
+w000436.2 | - | -
+w000437.1 | - | evening
+w000438.1 | - | -
+w000438.2 | patrol, control | -
+w000439.1 | brief | long
+w000439.2 | small | tall
+w000439.3 | lacking | -
+w000439.4 | - | -
+w000440.1 | remain | leave, go
+w000440.2 | live | -
+w000440.3 | remain, keep | -
+w000440.4 | visit | -
+w000442.1 | - | -
+w000442.2 | era, period | -
+w000442.3 | - | -
+w000443.1 | purchase | sell
+w000443.2 | bargain, purchase | -
+w000445.1 | agreement, contract | -
+w000445.2 | - | -
+w000445.3 | handle, manage, tackle | -
+w000445.4 | trade | -
+w000445.5 | - | -
+w000446.1 | fairly, quite, pretty | -
+w000446.2 | - | -
+w000446.3 | - | -
+w000447.1 | cause, explanation | -
+w000447.2 | sense, logic | -
+w000447.3 | think | -
+w000448.1 | - | -
+w000448.2 | - | -
+w000449.1 | account, story | -
+w000449.2 | describe, announce | -
+w000449.3 | - | -
+w000450.1 | shortly, quickly | -
+w000451.1 | - | -
+w000451.2 | - | -
+w000452.1 | rotate, spin | -
+w000452.2 | - | -
+w000452.3 | become, get, grow | -
+w000452.4 | go, chance | -
+w000452.5 | bend, curve | -
+w000453.1 | if | -
+w000453.2 | - | -
+w000454.1 | amid | -
+w000454.2 | - | -
+w000454.3 | between | -
+w000455.1 | examine, test, inspect | -
+w000455.2 | control, stop | -
+w000455.3 | examination, test, inspection | -
+w000455.4 | - | -
+w000455.5 | bill | -
+w000457.1 | growth, progress | -
+w000457.2 | - | -
+w000457.3 | event, change | -

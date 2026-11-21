@@ -1,0 +1,402 @@
+w003298.1 | - | -
+w003299.1 | - | -
+w003299.2 | surcharge, extra | discount
+w003299.3 | quality, superior, top | cheap
+w003300.1 | fake, act, make believe | -
+w003300.2 | imagine, play | -
+w003300.3 | imaginary | real
+w003301.1 | clergyman, minister | -
+w003302.1 | famous, important, leading, well-known | unknown, obscure
+w003302.2 | noticeable, conspicuous, obvious | inconspicuous
+w003302.3 | - | -
+w003303.1 | fundamental, thorough, complete, drastic | minor
+w003303.2 | extreme, revolutionary, militant | moderate, conservative
+w003303.3 | extremist, revolutionary | conservative
+w003303.4 | - | -
+w003304.1 | - | commercial, industrial
+w003304.2 | - | -
+w003305.1 | prize, award, payment | punishment
+w003305.2 | bounty | -
+w003305.3 | repay, pay | punish
+w003306.1 | - | -
+w003308.1 | - | -
+w003308.2 | moon | -
+w003308.3 | - | -
+w003309.1 | rock, wave, shake up | -
+w003309.2 | tremble, shiver, quiver | -
+w003309.3 | upset, shock, disturb | -
+w003309.4 | - | -
+w003309.5 | milkshake | -
+w003311.1 | coast, beach, bank | -
+w003311.2 | support, prop up | -
+w003312.1 | large, considerable, significant | small, slight
+w003312.2 | solid, sturdy, strong | flimsy
+w003312.3 | real, important, significant | -
+w003313.1 | teenager, adolescent | -
+w003313.2 | teenage | -
+w003314.1 | spread, transfer | -
+w003314.2 | broadcast | -
+w003314.3 | gearbox | -
+w003315.1 | snare | -
+w003315.2 | trick, ambush | -
+w003315.3 | catch, corner | free, release
+w003315.4 | catch, snare | release
+w003315.5 | mouth | -
+w003316.1 | - | -
+w003316.2 | consistent, even, identical | varied
+w003317.1 | - | -
+w003318.1 | - | -
+w003318.2 | stiff, awkward | natural
+w003321.1 | hostile, violent | peaceful
+w003321.2 | assertive, forceful | -
+w003321.3 | - | -
+w003323.1 | obvious, clear, evident | unclear, hidden
+w003323.2 | outward | real, actual
+w003324.1 | boom, crash, blast | -
+w003324.2 | hit, strike, bash | -
+w003324.3 | slam | -
+w003324.4 | - | -
+w003324.5 | right, exactly, just | -
+w003325.1 | explosion, bang | -
+w003325.2 | gust, rush | -
+w003325.3 | - | -
+w003325.4 | blow up, explode | -
+w003325.5 | - | -
+w003326.1 | - | capitalist
+w003326.2 | - | capitalist
+w003327.1 | grievance, objection, protest | praise
+w003327.2 | illness, disease | -
+w003328.1 | part, element, piece | whole
+w003328.2 | constituent | -
+w003329.1 | bravery, nerve, boldness | cowardice, fear
+w003330.1 | heal, treat | -
+w003330.2 | solve, fix, remedy | -
+w003330.3 | remedy, treatment | -
+w003330.4 | solution, remedy, answer | -
+w003330.5 | preserve, smoke | -
+w003331.1 | hopeless | -
+w003331.2 | eager, longing | -
+w003331.3 | serious, dire, grave | -
+w003332.1 | variety, range | uniformity
+w003333.1 | - | -
+w003333.2 | verge, threshold | -
+w003334.1 | staff | -
+w003334.2 | school, department | -
+w003334.3 | ability, power, sense | -
+w003335.1 | response, reaction | -
+w003335.2 | - | -
+w003336.1 | warrior, soldier | -
+w003336.2 | - | -
+w003336.3 | boxer | -
+w003337.1 | - | fresh
+w003337.2 | iced | -
+w003337.3 | freezing, cold | warm
+w003338.1 | - | -
+w003338.2 | - | -
+w003339.1 | mankind, humankind, people | -
+w003339.2 | kindness, compassion | cruelty
+w003339.3 | humanities | -
+w003341.1 | invention, change | -
+w003341.2 | invention, novelty | -
+w003342.1 | - | -
+w003342.2 | put in, devote | -
+w003342.3 | grant | -
+w003343.1 | - | -
+w003343.2 | cover | -
+w003343.3 | cover | -
+w003345.1 | lawmaking | -
+w003346.1 | list, entry | -
+w003346.2 | - | -
+w003346.3 | guide | -
+w003347.1 | physical | -
+w003347.2 | - | automatic
+w003347.3 | handbook, guide | -
+w003348.1 | in use, engaged | free, vacant
+w003348.2 | busy, engaged | free, idle
+w003348.3 | - | -
+w003349.1 | current, continuous | -
+w003350.1 | - | -
+w003350.2 | - | -
+w003350.3 | company, provider | -
+w003351.1 | sore | painless
+w003351.2 | upsetting, hard | -
+w003351.3 | embarrassing, awful | -
+w003352.1 | - | -
+w003352.2 | - | -
+w003352.3 | beat, hammer, batter | -
+w003352.4 | beat, throb, thump | -
+w003352.5 | - | -
+w003353.1 | planning, arrangement | -
+w003353.2 | mixture | -
+w003354.1 | hit, strike, thump | -
+w003354.2 | hit, blow, jab | -
+w003354.3 | press, key in | -
+w003354.4 | - | -
+w003354.5 | force, impact, power | -
+w003355.1 | violet | -
+w003355.2 | violet | -
+w003356.1 | railway | -
+w003356.2 | force, push, pressure | -
+w003357.1 | enrolment, recording | -
+w003357.2 | - | -
+w003359.1 | love affair, relationship, affair | -
+w003359.2 | excitement, mystery, glamour | -
+w003359.3 | - | -
+w003360.1 | enough, adequate | insufficient, inadequate
+w003361.1 | - | -
+w003361.2 | - | -
+w003361.3 | - | -
+w003362.1 | preview | -
+w003362.2 | - | -
+w003362.3 | caravan, mobile home | -
+w003363.1 | - | -
+w003364.1 | subterranean | overground
+w003364.2 | - | -
+w003364.3 | subway, metro, tube | -
+w003364.4 | secret, illegal, hidden | -
+w003364.5 | resistance | -
+w003365.1 | against | -
+w003365.2 | compared with | -
+w003366.1 | online, digital | real, physical
+w003366.2 | effective, practical | -
+w003367.1 | injured, hurt | unhurt
+w003367.2 | hurt, injured, upset | -
+w003367.3 | injured | -
+w003374.1 | - | -
+w003375.1 | among | -
+w003376.1 | statement, declaration, notice | -
+w003377.1 | stockpile | -
+w003377.2 | - | -
+w003377.3 | range, collection, store | -
+w003378.1 | - | -
+w003378.2 | natural, birth | adoptive
+w003378.3 | - | -
+w003379.1 | nip, sting, chew | -
+w003379.2 | take effect | -
+w003379.3 | mouthful | -
+w003379.4 | sting, wound | -
+w003380.1 | French fries | -
+w003380.2 | crisp | -
+w003380.3 | microchip | -
+w003380.4 | crack | -
+w003381.1 | about, regarding | -
+w003381.2 | worrying, disturbing | reassuring
+w003382.1 | venture | -
+w003382.2 | challenge | -
+w003382.3 | challenge | -
+w003383.1 | - | -
+w003384.1 | explain | -
+w003384.2 | describe, determine, specify | -
+w003384.3 | outline | -
+w003385.1 | prejudice, bias, racism | equality
+w003385.2 | judgment, taste | -
+w003386.1 | illness, disease, condition | -
+w003386.2 | confusion, mess, chaos | order
+w003386.3 | unrest, violence, riot | order
+w003388.1 | - | -
+w003388.2 | written | -
+w003389.1 | field, area, sphere | -
+w003389.2 | - | -
+w003390.1 | energetic, lively, active | static
+w003390.2 | active | static
+w003390.3 | force, interaction | -
+w003391.1 | involvement, participation | -
+w003391.2 | - | -
+w003391.3 | appointment, arrangement | -
+w003392.1 | investigate, examine, study | -
+w003392.2 | tour, travel | -
+w003393.1 | kindness, good turn | -
+w003393.2 | approval, support, preference | disapproval
+w003393.3 | prefer, support | oppose
+w003394.1 | less | more
+w003394.2 | - | more
+w003395.1 | film, video, recording | -
+w003396.1 | tomb | -
+w003396.2 | serious, severe, critical | minor
+w003396.3 | serious, solemn | cheerful
+w003399.1 | execution, application | -
+w003399.2 | - | -
+w003400.1 | look into, examine, probe | -
+w003400.2 | study, explore, examine | -
+w003401.1 | - | -
+w003401.2 | brighten | -
+w003404.1 | lab | -
+w003406.1 | - | -
+w003406.2 | formal | colloquial
+w003407.1 | - | -
+w003407.2 | hide, conceal, disguise, cover | reveal
+w003408.1 | - | noon, midday
+w003409.1 | - | -
+w003409.2 | - | -
+w003410.1 | crowded, full | empty
+w003410.2 | - | -
+w003411.1 | - | -
+w003412.1 | compliment, admire, applaud | criticize, blame
+w003412.2 | approval, admiration, compliment | criticism
+w003413.1 | talk, speech, lecture | -
+w003413.2 | appearance, display, layout | -
+w003413.3 | award | -
+w003414.1 | - | -
+w003414.2 | mind, mentality | -
+w003415.1 | relationship, connection, link | -
+w003415.2 | relationship, dealings | -
+w003415.3 | relative | -
+w003416.1 | - | -
+w003416.2 | soar, shoot up, rise | plunge, fall
+w003417.1 | spoil, destroy, wreck | -
+w003417.2 | remains | -
+w003417.3 | destruction, collapse | -
+w003418.1 | - | -
+w003418.2 | - | -
+w003420.1 | - | master
+w003420.2 | - | -
+w003420.3 | labour, toil | -
+w003421.1 | steadiness, security, balance | instability
+w003422.1 | constant, regular, stable | unsteady, irregular
+w003422.2 | stable, firm, secure | unsteady, shaky
+w003422.3 | stabilize, balance | -
+w003423.1 | sign, emblem | -
+w003423.2 | sign, mark, character | -
+w003424.1 | station | -
+w003424.2 | fatal, incurable | curable
+w003424.3 | - | -
+w003425.1 | bathroom, lavatory, restroom | -
+w003425.2 | - | -
+w003426.1 | agreement, pact | -
+w003427.1 | threefold | -
+w003427.2 | - | -
+w003428.1 | improbable, doubtful | likely, probable
+w003428.2 | unexpected, surprising | -
+w003435.1 | matter, business, issue, event | -
+w003435.2 | romance, relationship | -
+w003436.1 | programme, schedule | -
+w003436.2 | plan, aim | -
+w003437.1 | racket | -
+w003437.2 | - | -
+w003437.3 | hit | -
+w003438.1 | bend, stoop | -
+w003438.2 | - | -
+w003438.3 | knot | -
+w003439.1 | - | -
+w003439.2 | schedule, programme | -
+w003440.1 | cloak | -
+w003440.2 | headland, point | -
+w003441.1 | joint, common | individual
+w003441.2 | cooperative | -
+w003442.1 | collaboration, teamwork, partnership | competition, conflict
+w003443.1 | skill, art, trade | -
+w003443.2 | make, create, shape | -
+w003443.3 | vessel, boat, aircraft | -
+w003444.1 | dark, blackness | light, brightness
+w003445.1 | demon | angel
+w003445.2 | rascal | -
+w003446.1 | revise, correct, amend | -
+w003446.2 | cut | -
+w003446.3 | change, revision | -
+w003447.1 | allow, permit, empower | prevent
+w003447.2 | activate, turn on | disable
+w003448.1 | fairness, justice | inequality
+w003448.2 | stock | debt
+w003449.1 | weakness, fault, flaw | strength
+w003449.2 | - | -
+w003449.3 | without | -
+w003450.1 | wealth, riches, treasure | poverty
+w003450.2 | luck, chance, fate | -
+w003451.1 | bye, farewell | hello
+w003451.2 | farewell | greeting
+w003453.1 | - | software
+w003453.2 | - | -
+w003453.3 | - | -
+w003454.1 | mental, academic | physical
+w003454.2 | thinker, scholar | -
+w003455.1 | ask, request | -
+w003455.2 | provoke, attract, encourage | -
+w003455.3 | invitation | -
+w003456.1 | participation, engagement | -
+w003456.2 | commitment, interest | indifference
+w003457.1 | partially, somewhat | fully, completely
+w003458.1 | appeal, request | -
+w003458.2 | appeal, ask, request | -
+w003458.3 | application, appeal | -
+w003459.1 | expression | -
+w003459.2 | expression, saying, idiom | -
+w003459.3 | express, word, put | -
+w003460.1 | bodily | mentally
+w003460.2 | - | -
+w003461.1 | ethnic | -
+w003462.1 | government, administration | -
+w003462.2 | system, programme | -
+w003463.1 | - | -
+w003464.1 | close, shut, secure | open
+w003464.2 | - | -
+w003464.3 | stamp, mark | -
+w003465.1 | - | -
+w003465.2 | apart, isolated | together
+w003466.1 | - | -
+w003466.2 | protection, guard, barrier | -
+w003466.3 | protect, guard, defend, cover | expose
+w003467.1 | likewise, equally | differently
+w003468.1 | slip, glide | -
+w003468.2 | - | -
+w003468.3 | - | -
+w003468.4 | fall, decline, drop | rise
+w003469.1 | stalk | -
+w003469.2 | arise, come from, result | -
+w003469.3 | stop, check, halt | -
+w003470.1 | conference, meeting | -
+w003470.2 | top, peak | base, bottom
+w003471.1 | gifted, able, skilled | untalented
+w003472.1 | - | -
+w003472.2 | neck | -
+w003473.1 | - | -
+w003474.1 | - | -
+w003474.2 | play with | -
+w003475.1 | sense, judgment, insight | foolishness
+w003475.2 | sense | -
+w003476.1 | December | -
+w003477.1 | - | -
+w003477.2 | - | -
+w003478.1 | - | -
+w003479.1 | - | -
+w003479.2 | - | -
+w003481.1 | accountancy, bookkeeping | -
+w003481.2 | calculation | -
+w003482.1 | extraterrestrial | -
+w003482.2 | strange, foreign, unfamiliar | familiar
+w003482.3 | foreigner | citizen
+w003483.1 | embarrassing, uncomfortable | comfortable
+w003483.2 | clumsy | graceful
+w003483.3 | difficult, tricky | easy
+w003484.1 | animal, creature | -
+w003484.2 | brute, monster | -
+w003485.1 | - | -
+w003485.2 | complaint, grievance, grudge | -
+w003485.3 | strengthen, boost | weaken
+w003486.1 | sweet | -
+w003487.1 | - | -
+w003487.2 | - | -
+w003487.3 | - | -
+w003488.1 | party, festival, festivity | -
+w003489.1 | star | nobody
+w003489.2 | fame | obscurity
+w003490.1 | document, diploma, licence | -
+w003491.1 | - | -
+w003492.1 | - | -
+w003492.2 | - | -
+w003492.3 | - | pay
+w003493.1 | conversation, dialog | monologue
+w003493.2 | discussion | -
+w003494.1 | handicapped | -
+w003494.2 | off, inactive | -
+w003495.1 | different, separate | similar
+w003495.2 | clear, definite, noticeable | unclear, vague
+w003496.1 | pull, haul, tug | push
+w003496.2 | drag on | -
+w003496.3 | bore, pain, nuisance | -
+w003497.1 | learned, cultured | uneducated, ignorant
+w003497.2 | informed | -
+w003498.1 | qualified | ineligible
+w003498.2 | suitable, desirable | -
+w003499.1 | calculate, guess, judge | -
+w003499.2 | guess, calculation | -
+w003499.3 | quote, quotation | -

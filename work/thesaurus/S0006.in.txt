@@ -1,0 +1,401 @@
+w000788.1 | perhaps | adv. | A2 | 也许, 或许, 可能 | used to show something is possible but uncertain
+w000789.1 | poor | adj. | A1 | 贫穷的, 穷的, 贫困的 | having very little money
+w000789.2 | poor | adj. | A1 | 差的, 不好的, 劣质的 | of a low standard or quality
+w000789.3 | poor | adj. | A1 | 可怜的, 不幸的 | deserving pity
+w000790.1 | release | v. | B1 | 释放, 放出 | to let someone or something go free
+w000790.2 | release | v. | B1 | 发布, 发行, 公开 | to make something available to the public
+w000790.3 | release | v. | B1 | 松开, 放开 | to stop holding something
+w000790.4 | release | n. | B1 | 释放, 解脱 | the act of setting someone free
+w000790.5 | release | n. | B1 | 发行, 发布, 新产品 | a new film, record or product made available
+w000791.1 | situation | n. | A2 | 情况, 形势, 处境 | the conditions existing at a particular time
+w000791.2 | situation | n. | A2 | 位置, 地点 | the position of a building or town
+w000792.1 | technology | n. | A2 | 技术, 科技, 工艺 | scientific knowledge used for practical purposes
+w000793.1 | website | n. | A1 | 网站 | a set of related pages on the internet
+w000794.1 | written | adj. | A2 | 书面的, 笔头的, 笔试的 | expressed in writing rather than speech
+w000794.2 | written | adj. | A2 | 成文的, 写成的 | recorded in a document
+w000795.1 | European | adj. | A2 | 欧洲的, 欧洲人的 | from or relating to Europe
+w000795.2 | European | n. | A2 | 欧洲人 | a person from Europe
+w000797.1 | choice | n. | A2 | 选择, 抉择 | an act of choosing between possibilities
+w000797.2 | choice | n. | A2 | 选择权, 选择机会 | the right or chance to choose
+w000797.3 | choice | n. | A2 | 可选之物, 种类 | a range of things you can choose from
+w000797.4 | choice | adj. | A2 | 优质的, 精选的 | of very high quality
+w000798.1 | code | n. | B1 | 代码, 程序代码 | instructions for a computer program
+w000798.2 | code | n. | B1 | 密码, 暗号, 编码 | a system of secret words, letters or numbers
+w000798.3 | code | n. | B1 | 准则, 规范, 法规 | a set of rules for behavior
+w000798.4 | code | v. | B1 | 编码, 编程 | to write instructions for a computer
+w000800.1 | continue | v. | A2 | 继续, 持续 | to keep happening or doing something
+w000800.2 | continue | v. | A2 | 接着说, 继续说 | to start speaking again after a pause
+w000800.3 | continue | v. | A2 | 延续, 延伸 | to go further in the same direction
+w000801.1 | council | n. | B1 | 委员会, 理事会, 议会 | a group chosen to advise or make decisions
+w000801.2 | council | n. | B1 | 地方议会, 市政会 | the elected body governing a town or area
+w000802.1 | cover | v. | A2 | 覆盖, 遮盖, 盖住 | put something over something to hide or protect it
+w000802.2 | cover | v. | A2 | 涉及, 包括, 涵盖 | deal with or include a subject or area
+w000802.3 | cover | v. | A2 | 报道, 采访 | report on an event for the news
+w000802.4 | cover | n. | A2 | 盖子, 套子, 罩 | something placed over another thing to protect it
+w000802.5 | cover | n. | A2 | 封面, 封皮 | the outside page of a book or magazine
+w000802.6 | cover | n. | A2 | 掩蔽处, 掩护 | shelter or protection from danger or weather
+w000803.1 | currently | adv. | B1 | 目前, 当前, 现在 | at the present time
+w000804.1 | door | n. | A1 | 门, 房门 | a movable panel used to open or close an entrance
+w000804.2 | door | n. | A1 | 门口, 出入口 | the opening or space of an entrance
+w000805.1 | election | n. | B1 | 选举, 大选, 竞选 | a process of choosing people for office by voting
+w000805.2 | election | n. | B1 | 当选, 选上 | the fact of being chosen by vote
+w000806.1 | financial | adj. | B1 | 财政的, 金融的, 财务的 | relating to money or how it is managed
+w000807.1 | foreign | adj. | A2 | 外国的, 外来的, 对外的 | from or relating to another country
+w000807.2 | foreign | adj. | A2 | 陌生的, 不熟悉的 | strange or unfamiliar to someone
+w000808.1 | hair | n. | A1 | 头发, 毛发 | the fine threads growing on the head and body
+w000808.2 | hair | n. | A1 | 一根头发, 毛 | a single thread growing from the skin
+w000809.1 | increase | v. | A2 | 增加, 增长, 提高 | become or make larger in amount or number
+w000809.2 | increase | n. | A2 | 增加, 增长, 增量 | a rise in amount, number or size
+w000810.1 | legal | adj. | B1 | 法律的, 法律上的 | relating to the law
+w000810.2 | legal | adj. | B1 | 合法的, 法定的, 正当的 | allowed or required by law
+w000811.1 | lose | v. | A2 | 丢失, 遗失 | be unable to find something
+w000811.2 | lose | v. | A2 | 失去, 丧失 | no longer have something or someone
+w000811.3 | lose | v. | A2 | 输掉, 失败 | fail to win a game or contest
+w000813.1 | pick | v. | A2 | 挑选, 选择 | choose from a group
+w000813.2 | pick | v. | A2 | 采摘, 摘 | remove fruit or flowers from a plant
+w000813.3 | pick | v. | A2 | 拾起, 捡起 | lift something up with your fingers
+w000813.4 | pick | n. | A2 | 选择, 挑选 | a choice or the act of choosing
+w000814.1 | race | n. | A2 | 赛跑, 竞赛, 比赛 | a competition to see who is fastest
+w000814.2 | race | n. | A2 | 种族, 人种 | a group of people with shared physical ancestry
+w000814.3 | race | v. | A2 | 参加比赛, 赛跑 | compete in a speed contest
+w000814.4 | race | v. | A2 | 疾走, 飞奔 | move or go very fast
+w000815.1 | seem | v. | A2 | 似乎, 好像, 看来 | appear to be or to be true
+w000816.1 | seven | num. | A1 | 七, 七个 | the number 7
+w000817.1 | sign | n. | A2 | 迹象, 征兆, 预兆 | something showing that something exists or may happen
+w000817.2 | sign | n. | A2 | 标志, 指示牌, 招牌 | a board or notice giving information
+w000817.3 | sign | n. | A2 | 符号, 记号 | a mark or symbol with a fixed meaning
+w000817.4 | sign | v. | A2 | 签名, 签署 | write your name on a document
+w000817.5 | sign | v. | A2 | 打手势, 示意 | communicate using gestures
+w000818.1 | simple | adj. | A1 | 简单的, 容易的 | easy to understand or do
+w000818.2 | simple | adj. | A1 | 简朴的, 朴素的 | plain, without decoration or extras
+w000818.3 | simple | adj. | A1 | 单纯的, 纯粹的 | nothing more than; basic and plain
+w000819.1 | simply | adv. | B1 | 仅仅, 只是, 不过 | just; only
+w000819.2 | simply | adv. | B1 | 简直, 完全 | used to emphasize; absolutely
+w000819.3 | simply | adv. | B1 | 简单地, 简朴地 | in a plain, easy or uncomplicated way
+w000820.1 | staff | n. | B1 | 全体职员, 员工, 工作人员 | the people who work for an organization
+w000820.2 | staff | v. | B1 | 为…配备职员 | provide workers for an organization
+w000820.3 | staff | n. | B1 | 棍, 杖, 权杖 | a long stick used for walking or as a symbol
+w000822.1 | super | adj. | A2 | 极好的, 超级的, 了不起的 | extremely good
+w000822.2 | super | adv. | A2 | 非常, 特别, 极其 | very; extremely
+w000822.3 | super | n. | A2 | 大楼管理员, 房屋管理员 | a person who looks after an apartment building
+w000823.1 | union | n. | B1 | 工会 | an organization representing workers
+w000823.2 | union | n. | B1 | 联盟, 联邦, 联合会 | a group of states or organizations joined together
+w000823.3 | union | n. | B1 | 联合, 结合, 合并 | the act of joining things together
+w000824.1 | walk | v. | A1 | 走, 步行, 散步 | move along on foot at a normal pace
+w000824.2 | walk | n. | A1 | 散步, 步行 | a journey or outing on foot
+w000824.3 | walk | v. | A1 | 陪…走, 遛 | go on foot with a person or animal
+w000826.1 | December | n. | A1 | 十二月 | the twelfth month of the year
+w000827.1 | bed | n. | A1 | 床, 床铺 | a piece of furniture for sleeping on
+w000827.2 | bed | n. | A1 | 河床, 海底 | the bottom of a sea, river or lake
+w000827.3 | bed | n. | A1 | 花坛, 苗床 | an area of ground for growing plants
+w000831.1 | career | n. | A2 | 职业, 生涯, 事业 | the work or jobs someone does over a long period
+w000831.2 | career | v. | A2 | 疾驰, 猛冲 | move quickly and without control
+w000832.1 | crazy | adj. | A2 | 疯狂的, 发疯的, 疯了的 | mentally unbalanced or acting wildly
+w000832.2 | crazy | adj. | A2 | 荒唐的, 愚蠢的 | very foolish or unreasonable
+w000832.3 | crazy | adj. | A2 | 狂热的, 着迷的 | extremely enthusiastic about something or someone
+w000833.1 | daily | adj. | A2 | 每日的, 日常的 | happening or done every day
+w000833.2 | daily | adv. | A2 | 每天, 天天 | every day
+w000833.3 | daily | n. | A2 | 日报 | a newspaper published every day
+w000834.1 | daughter | n. | A1 | 女儿 | a person's female child
+w000835.1 | die | v. | A1 | 死, 死亡, 去世 | stop living
+w000835.2 | die | v. | A1 | 消失, 灭亡, 停止 | stop existing or working
+w000835.3 | die | v. | A1 | 渴望, 极想 | want something very much
+w000835.4 | die | n. | A1 | 骰子 | a small cube with spots used in games
+w000836.1 | difficult | adj. | A1 | 困难的, 艰难的, 难做的 | not easy; needing effort or skill
+w000836.2 | difficult | adj. | A1 | 难相处的, 难对付的 | not friendly or easy to deal with
+w000837.1 | figure | n. | B1 | 数字, 数据 | a number, especially in official statistics
+w000837.2 | figure | n. | B1 | 人物, 身影 | a person, especially an important or unclear one
+w000837.3 | figure | n. | B1 | 身材, 体形 | the shape of a person's body
+w000837.4 | figure | v. | B1 | 认为, 估计 | think or guess that something is true
+w000837.5 | figure | v. | B1 | 弄明白, 想出 | understand or solve something (with out)
+w000838.1 | hospital | n. | A1 | 医院 | a place where sick or injured people are treated
+w000839.1 | loss | n. | B1 | 失去, 丧失, 损失 | the fact of no longer having something
+w000839.2 | loss | n. | B1 | 亏损, 亏本 | money lost by a business
+w000839.3 | loss | n. | B1 | 失败, 输 | a defeat in a game or contest
+w000840.1 | modern | adj. | A2 | 现代的, 当代的, 近代的 | of the present or recent times
+w000840.2 | modern | adj. | A2 | 新式的, 时髦的, 先进的 | using the newest ideas, styles or methods
+w000841.1 | paper | n. | A1 | 纸, 纸张 | thin material used for writing or wrapping
+w000841.2 | paper | n. | A1 | 报纸 | a newspaper
+w000841.3 | paper | n. | A1 | 论文, 文章 | a piece of academic writing
+w000842.1 | popular | adj. | A2 | 受欢迎的, 流行的 | liked or enjoyed by many people
+w000842.2 | popular | adj. | A2 | 大众的, 通俗的 | intended for or suited to ordinary people
+w000842.3 | popular | adj. | A2 | 民众的, 普遍的 | held or done by many people
+w000843.1 | safe | adj. | A2 | 安全的, 无危险的 | not dangerous or likely to cause harm
+w000843.2 | safe | adj. | A2 | 平安的, 无恙的 | not hurt or in danger
+w000843.3 | safe | n. | A2 | 保险箱, 保险柜 | a strong locked box for valuables
+w000844.1 | version | n. | B1 | 版本, 型号 | a form of something slightly different from others
+w000844.2 | version | n. | B1 | 说法, 描述 | one person's account of an event
+w000845.1 | voice | n. | A2 | 声音, 嗓音 | the sounds made when speaking or singing
+w000845.2 | voice | n. | A2 | 发言权, 意见 | the right to express an opinion
+w000845.3 | voice | v. | A2 | 表达, 说出 | express an opinion or feeling in words
+w000848.1 | whose | det. | A2 | 谁的 | belonging to which person, in questions
+w000848.2 | whose | pron. | A2 | 那个人的, 其 | used in relative clauses to show possession
+w000849.1 | writing | n. | A2 | 写作, 书写 | the activity of putting words on paper
+w000849.2 | writing | n. | A2 | 文字, 字迹, 笔迹 | written words or handwriting
+w000849.3 | writing | n. | A2 | 作品, 著作 | books or other works by an author
+w000850.1 | Australia | n. | A1 | 澳大利亚, 澳洲 | a country and continent in the southern hemisphere
+w000851.1 | army | n. | A2 | 军队, 陆军 | a large organized force that fights on land
+w000851.2 | army | n. | A2 | 大群, 大批 | a large number of people or things
+w000853.1 | earth | n. | A1 | 地球 | the planet we live on
+w000853.2 | earth | n. | A1 | 土, 泥土, 土壤 | the soil in which plants grow
+w000853.3 | earth | n. | A1 | 地面, 陆地 | the land surface, as opposed to sky or sea
+w000855.1 | forget | v. | A1 | 忘记, 遗忘 | be unable to remember something
+w000855.2 | forget | v. | A1 | 忘带, 遗漏 | fail to bring or do something
+w000855.3 | forget | v. | A1 | 不再考虑, 抛开 | stop thinking about something
+w000856.1 | goal | n. | A2 | 目标, 目的 | something you hope to achieve
+w000856.2 | goal | n. | A2 | 进球, 得分 | a point scored by sending the ball into the net
+w000856.3 | goal | n. | A2 | 球门 | the frame or area into which players aim the ball
+w000857.1 | huge | adj. | A2 | 巨大的, 庞大的, 极大的 | extremely large in size or amount
+w000858.1 | internet | n. | A1 | 互联网, 因特网 | the global computer network linking millions of devices
+w000859.1 | listen | v. | A1 | 听, 倾听 | pay attention to a sound or someone speaking
+w000859.2 | listen | v. | A1 | 听从, 听取 | take notice of advice and act on it
+w000860.1 | okay | int. | A1 | 好, 行, 可以 | used to agree or to show understanding
+w000860.2 | okay | adj. | A1 | 不错的, 还可以的, 没问题的 | acceptable or satisfactory
+w000860.3 | okay | adv. | A1 | 顺利地, 还好 | in a satisfactory way
+w000860.4 | okay | v. | A1 | 批准, 同意 | give official approval to something
+w000861.1 | practice | n. | A2 | 练习, 训练 | doing something regularly to improve a skill
+w000861.2 | practice | n. | A2 | 实践, 实际 | the actual doing of something rather than theory
+w000861.3 | practice | n. | A2 | 惯例, 习惯, 做法 | a usual way of doing something
+w000861.4 | practice | v. | A2 | 练习, 训练 | do something repeatedly to get better at it
+w000861.5 | practice | v. | A2 | 从事, 执业 | work in a profession such as medicine or law
+w000862.1 | sea | n. | A1 | 海, 海洋 | the salt water covering much of the planet
+w000862.2 | sea | n. | A1 | 大量, 茫茫一片 | a very large number or amount
+w000863.1 | sir | n. | A1 | 先生, 阁下, 长官 | a polite way to address a man
+w000863.2 | sir | n. | A1 | 爵士 | a title used before a knight's name
+w000865.1 | success | n. | A2 | 成功, 成就 | achieving what you wanted or planned
+w000865.2 | success | n. | A2 | 成功的人, 成功的事 | a person or thing that achieves good results
+w000866.1 | towards | prep. | A2 | 朝, 向, 对着 | in the direction of
+w000866.2 | towards | prep. | A2 | 对于, 关于 | in relation to someone or something
+w000866.3 | towards | prep. | A2 | 接近, 将近 | near a point in time
+w000870.1 | access | n. | B1 | 使用权, 接近的机会 | the right or chance to use or see something
+w000870.2 | access | n. | B1 | 通道, 入口, 途径 | a way of entering or reaching a place
+w000870.3 | access | v. | B1 | 访问, 存取, 读取 | open or get data from a computer
+w000870.4 | access | v. | B1 | 进入, 到达, 使用 | reach, enter or make use of something
+w000871.1 | base | n. | B1 | 底部, 底座, 基础 | the lowest part on which something rests
+w000871.2 | base | n. | B1 | 基地, 总部 | a main place where people work or stay
+w000871.3 | base | v. | B1 | 以…为基础, 基于 | use something as the foundation for something else
+w000871.4 | base | v. | B1 | 以…为基地, 驻扎 | have a main place of work or living
+w000871.5 | base | n. | B1 | 垒 | one of the four corners in baseball
+w000872.1 | below | prep. | A1 | 在…下面, 在…以下 | at a lower position than
+w000872.2 | below | prep. | A1 | 低于, 少于 | less than a certain amount or level
+w000872.3 | below | adv. | A1 | 在下面, 下文 | at a lower place or later in a text
+w000873.1 | deep | adj. | A2 | 深的 | going far down from the top or surface
+w000873.2 | deep | adj. | A2 | 深刻的, 深奥的, 深切的 | serious, strong or hard to understand
+w000873.3 | deep | adj. | A2 | 深沉的, 浓重的 | low in sound or dark in colour
+w000873.4 | deep | adv. | A2 | 深深地, 在深处 | far down or far into something
+w000875.1 | lol | int. | B1 | 哈哈, 笑死, 大笑 | laughing out loud; used in online messages
+w000876.1 | mark | n. | A2 | 记号, 标记, 符号 | a sign or symbol made on something
+w000876.2 | mark | n. | A2 | 分数, 成绩 | a score given for school work
+w000876.3 | mark | n. | A2 | 污点, 痕迹 | a spot or stain on a surface
+w000876.4 | mark | v. | A2 | 做记号, 标明 | put a sign or symbol on something
+w000876.5 | mark | v. | A2 | 批改, 打分 | check and score students' work
+w000876.6 | mark | v. | A2 | 纪念, 标志着 | celebrate or be a sign of an event
+w000877.1 | missing | adj. | B1 | 丢失的, 找不到的 | lost and not able to be found
+w000877.2 | missing | adj. | B1 | 失踪的, 下落不明的 | absent, with whereabouts unknown
+w000877.3 | missing | adj. | B1 | 缺少的, 缺掉的 | not included when it should be
+w000878.1 | offer | v. | A2 | 提供, 给予 | make something available to someone
+w000878.2 | offer | v. | A2 | 主动提出, 表示愿意 | say you are willing to do something
+w000878.3 | offer | n. | A2 | 提议, 建议 | a statement that you are willing to do something
+w000878.4 | offer | n. | A2 | 报价, 出价 | an amount of money someone will pay
+w000878.5 | offer | n. | A2 | 特价, 优惠 | a reduced price for a short time
+w000879.1 | pass | v. | A2 | 经过, 通过, 路过 | go past or through a place
+w000879.2 | pass | v. | A2 | 递, 传递 | give something to someone by hand
+w000879.3 | pass | v. | A2 | 及格, 通过 | succeed in an exam or test
+w000879.4 | pass | n. | A2 | 通行证, 出入证 | an official document allowing entry
+w000879.5 | pass | n. | A2 | 传球, 传递 | a kick or throw of the ball to a teammate
+w000880.1 | professional | adj. | B1 | 职业的, 专业的 | relating to a job needing special training
+w000880.2 | professional | adj. | B1 | 内行的, 专业水平的 | showing high skill and standards
+w000880.3 | professional | n. | B1 | 专业人员, 专家 | a person with a trained, skilled job
+w000880.4 | professional | n. | B1 | 职业选手 | a person paid to play a sport
+w000881.1 | risk | n. | B1 | 风险, 危险 | the chance that something bad may happen
+w000881.2 | risk | v. | B1 | 冒…的风险, 使遭受危险 | put something in danger or face a possible loss
+w000882.1 | sleep | v. | A1 | 睡觉, 睡眠 | rest with eyes closed and mind unconscious
+w000882.2 | sleep | n. | A1 | 睡眠, 睡觉 | the natural state of rest at night
+w000882.3 | sleep | v. | A1 | 可供…睡, 容纳…住宿 | have enough beds for a number of people
+w000883.1 | table | n. | A1 | 桌子, 餐桌 | furniture with a flat top on legs
+w000883.2 | table | n. | A1 | 表格, 表 | facts or numbers arranged in rows and columns
+w000883.3 | table | v. | A1 | 提交讨论, 提出 | present a proposal for discussion
+w000883.4 | table | v. | A1 | 搁置, 推迟讨论 | postpone discussion of a proposal
+w000884.1 | ten | num. | A1 | 十, 十个 | the number 10
+w000885.1 | truth | n. | A2 | 真相, 实情, 事实 | the real facts about something
+w000885.2 | truth | n. | A2 | 真实, 真实性 | the quality of being true
+w000885.3 | truth | n. | A2 | 真理 | a fact or principle accepted as true
+w000887.1 | India | n. | A1 | 印度 | a large country in South Asia
+w000888.1 | ball | n. | A1 | 球 | a round object used in games
+w000888.2 | ball | n. | A1 | 球状物, 团 | something formed into a round shape
+w000888.3 | ball | n. | A1 | 舞会 | a large formal dancing party
+w000889.1 | box | n. | A1 | 盒子, 箱子 | a container with flat sides and often a lid
+w000889.2 | box | n. | A1 | 方框, 格子 | a square shape on a page or form
+w000889.3 | box | v. | A1 | 拳击, 打拳击 | fight with fists as a sport
+w000889.4 | box | v. | A1 | 把…装箱, 装盒 | put something into a container
+w000890.1 | build | v. | A1 | 建造, 修建, 建筑 | make a structure by putting parts together
+w000890.2 | build | v. | A1 | 建立, 发展, 培养 | create or develop something over time
+w000890.3 | build | v. | A1 | 逐渐增加, 积累 | increase gradually (often with up)
+w000890.4 | build | n. | A1 | 体格, 身材 | the size and shape of a person's body
+w000891.1 | card | n. | A1 | 卡片, 贺卡 | a piece of stiff paper, often with a greeting
+w000891.2 | card | n. | A1 | 银行卡, 信用卡 | a small plastic card used for payment
+w000891.3 | card | n. | A1 | 纸牌, 扑克牌 | one of a set used for playing games
+w000892.1 | dark | adj. | A1 | 黑暗的, 暗的 | with little or no light
+w000892.2 | dark | adj. | A1 | 深色的, 黑色的 | of a deep colour close to black
+w000892.3 | dark | adj. | A1 | 阴郁的, 邪恶的, 黑暗的 | sad, evil or unpleasant
+w000892.4 | dark | n. | A1 | 黑暗, 暗处 | the absence of light
+w000893.1 | district | n. | B1 | 地区, 区域 | an area of a town or country
+w000893.2 | district | n. | B1 | 行政区, 区 | an area officially defined for administration
+w000895.1 | living-room | n. | A1 | 客厅, 起居室 | the main room in a home for relaxing
+w000897.1 | mine | pron. | A1 | 我的 | the one or ones belonging to the speaker
+w000897.2 | mine | n. | A1 | 矿, 矿井, 矿山 | a place where coal or metals are dug out
+w000897.3 | mine | n. | A1 | 地雷, 水雷 | a hidden bomb that explodes when touched
+w000897.4 | mine | v. | A1 | 开采, 采矿 | dig coal or minerals from the ground
+w000898.1 | minister | n. | B1 | 部长, 大臣 | a senior government official in charge of a department
+w000898.2 | minister | n. | B1 | 牧师 | a priest in some Protestant churches
+w000898.3 | minister | v. | B1 | 照顾, 帮助 | take care of someone's needs
+w000899.1 | note | n. | A1 | 笔记, 记录 | something written down to help you remember
+w000899.2 | note | n. | A1 | 便条, 短笺 | a short informal letter or message
+w000899.3 | note | n. | A1 | 音符, 音调 | a single musical sound or its written symbol
+w000899.4 | note | v. | A1 | 注意, 指出, 提到 | notice or mention something
+w000900.1 | percent | n. | A2 | 百分之…, 百分比 | one part in every hundred
+w000901.1 | piece | n. | A1 | 片, 块, 段 | a part or bit of something
+w000901.2 | piece | n. | A1 | 一件, 一个, 一条 | a single item of a particular kind
+w000901.3 | piece | n. | A1 | 作品, 文章, 曲子 | a work of art, writing or music
+w000903.1 | recent | adj. | A2 | 最近的, 新近的, 近来的 | happening or starting a short time ago
+w000904.1 | straight | adj. | A2 | 直的, 笔直的 | not bent or curved
+w000904.2 | straight | adv. | A2 | 直接, 径直, 立刻 | directly, without stopping or delay
+w000904.3 | straight | adv. | A2 | 连续地, 不间断地 | one after another without a break
+w000904.4 | straight | adj. | A2 | 坦率的, 诚实的 | honest and direct
+w000904.5 | straight | adj. | A2 | 异性恋的 | sexually attracted to the opposite sex
+w000905.1 | visit | v. | A1 | 拜访, 参观, 游览 | go to see a person or place
+w000905.2 | visit | n. | A1 | 访问, 参观, 拜访 | an occasion of going to see a person or place
+w000905.3 | visit | v. | A1 | 访问, 浏览 | go to a website
+w000906.1 | wall | n. | A1 | 墙, 墙壁 | a vertical structure forming the side of a room or building
+w000906.2 | wall | n. | A1 | 围墙, 城墙 | a structure that encloses or divides an area
+w000906.3 | wall | v. | A1 | 用墙围住 | surround an area with a barrier
+w000907.1 | wanna | v. | B1 | 想要, 想 | a spoken form of want to
+w000908.1 | February | n. | A1 | 二月 | the second month of the year
+w000909.1 | culture | n. | A2 | 文化 | the customs, arts and beliefs of a society
+w000909.2 | culture | n. | A2 | 修养, 教养 | appreciation of art, music and literature
+w000909.3 | culture | n. | A2 | 培养, 培育 | the growing of cells or bacteria for science
+w000910.1 | etc | abbr. | A2 | 等等, 以及其他 | and other similar things
+w000911.1 | growth | n. | B1 | 增长, 发展 | an increase in size, amount or importance
+w000911.2 | growth | n. | B1 | 生长, 成长 | the process of a living thing getting bigger
+w000911.3 | growth | n. | B1 | 肿瘤, 赘生物 | an abnormal lump on or in the body
+w000912.1 | married | adj. | A1 | 已婚的, 结婚的 | having a husband or wife
+w000912.2 | married | adj. | A1 | 婚姻的 | relating to marriage
+w000914.1 | officer | n. | A2 | 警官, 警察 | a member of the police
+w000914.2 | officer | n. | A2 | 军官 | a person in command in the armed forces
+w000914.3 | officer | n. | A2 | 官员, 高级职员 | a person with a position of authority in an organization
+w000916.1 | pain | n. | A2 | 疼痛, 痛 | an unpleasant physical feeling caused by injury or illness
+w000916.2 | pain | n. | A2 | 痛苦, 苦恼 | emotional suffering
+w000916.3 | pain | n. | A2 | 讨厌鬼, 麻烦事 | an annoying person or thing
+w000916.4 | pain | v. | A2 | 使痛苦, 使难过 | cause someone to feel upset
+w000918.1 | respect | n. | A2 | 尊敬, 尊重 | admiration or good regard for someone
+w000918.2 | respect | v. | A2 | 尊敬, 尊重 | admire or have a high opinion of someone
+w000918.3 | respect | v. | A2 | 遵守, 重视 | accept and not break a rule or right
+w000918.4 | respect | n. | A2 | 方面, 细节 | a particular aspect or point
+w000919.1 | response | n. | B1 | 反应, 响应 | a reaction to something
+w000919.2 | response | n. | B1 | 回答, 答复 | a spoken or written answer
+w000920.1 | river | n. | A1 | 河, 江, 河流 | a large natural stream of water
+w000920.2 | river | n. | A1 | 大量, 涌流 | a large flowing amount of liquid
+w000921.1 | rock | n. | A2 | 岩石, 石头 | the hard solid material of the ground
+w000921.2 | rock | n. | A2 | 摇滚乐 | loud popular music with a strong beat
+w000921.3 | rock | v. | A2 | 摇动, 摇晃 | move gently from side to side
+w000921.4 | rock | v. | A2 | 震惊, 震撼 | shock or upset people greatly
+w000922.1 | shall | aux. | A2 | …好吗, 要不要 | used to make offers or suggestions
+w000922.2 | shall | aux. | A2 | 将, 会 | used with I or we for the future
+w000922.3 | shall | aux. | A2 | 应当, 必须 | used in rules and laws for obligation
+w000923.1 | speak | v. | A1 | 说话, 讲话, 交谈 | say words; talk
+w000923.2 | speak | v. | A1 | 说, 会说 | be able to use a particular language
+w000923.3 | speak | v. | A1 | 演讲, 发言 | give a formal talk to a group
+w000924.1 | specific | adj. | B1 | 具体的, 明确的 | clear and exact; detailed
+w000924.2 | specific | adj. | B1 | 特定的, 特有的 | relating to one particular thing only
+w000924.3 | specific | n. | B1 | 细节, 详情 | exact details (usually plural)
+w000925.1 | standard | n. | A2 | 标准, 水平, 规范 | a level of quality or a required level
+w000925.2 | standard | adj. | A2 | 标准的, 普通的, 常规的 | usual, normal or widely accepted
+w000926.1 | tonight | adv. | A1 | 在今晚, 今夜 | during the evening or night of today
+w000926.2 | tonight | n. | A1 | 今晚, 今夜 | the evening or night of today
+w000927.1 | write | v. | A1 | 写, 书写 | make letters or words on a surface
+w000927.2 | write | v. | A1 | 写作, 撰写, 创作 | produce a book, article or piece of music
+w000927.3 | write | v. | A1 | 写信, 写信给 | send someone a letter or message
+w000928.1 | album | n. | A2 | 专辑, 唱片集 | a collection of recorded songs released together
+w000928.2 | album | n. | A2 | 相册, 影集, 集邮册 | a book for keeping photos or stamps
+w000930.1 | century | n. | A2 | 世纪, 百年 | a period of one hundred years
+w000931.1 | charge | v. | B1 | 收费, 要价 | ask an amount of money for something
+w000931.2 | charge | n. | B1 | 费用, 价钱 | the amount of money asked for something
+w000931.3 | charge | v. | B1 | 控告, 指控 | formally accuse someone of a crime
+w000931.4 | charge | n. | B1 | 指控, 罪名 | a formal accusation of a crime
+w000931.5 | charge | v. | B1 | 充电 | put electricity into a battery
+w000931.6 | charge | n. | B1 | 负责, 掌管 | responsibility for something (in charge)
+w000932.1 | cold | adj. | A1 | 冷的, 寒冷的 | having a low temperature
+w000932.2 | cold | n. | A1 | 感冒, 伤风 | a common illness affecting the nose and throat
+w000932.3 | cold | adj. | A1 | 冷淡的, 冷漠的 | unfriendly or without emotion
+w000932.4 | cold | n. | A1 | 寒冷, 冷天 | low temperature or cold weather
+w000933.1 | create | v. | A2 | 创造, 创作, 创建 | make something new exist
+w000933.2 | create | v. | A2 | 引起, 造成 | cause a situation or feeling
+w000934.1 | effect | n. | B1 | 影响, 效果, 作用 | a change that results from something
+w000934.2 | effect | n. | B1 | 特效, 效果 | sounds or images created for films (plural)
+w000934.3 | effect | v. | B1 | 实现, 使发生 | make something happen
+w000935.1 | eight | num. | A1 | 八, 八个 | the number 8
+w000936.1 | except | prep. | A2 | 除…之外, 除了 | not including; apart from
+w000936.2 | except | conj. | A2 | 只是, 除了 | used to give the only thing that is not true
+w000937.1 | eye | n. | A1 | 眼睛, 眼 | the organ of sight
+w000937.2 | eye | n. | A1 | 眼光, 鉴赏力 | the ability to judge or notice things
+w000937.3 | eye | n. | A1 | 针眼, 孔 | the hole in a needle
+w000937.4 | eye | v. | A1 | 注视, 打量 | look at someone or something carefully
+w000938.1 | funny | adj. | A1 | 好笑的, 有趣的, 滑稽的 | making you laugh
+w000938.2 | funny | adj. | A1 | 奇怪的, 古怪的 | strange or surprising
+w000940.1 | limited | adj. | B1 | 有限的, 受限制的 | small in amount or restricted
+w000940.2 | limited | adj. | B1 | 有限责任的 | used in the names of companies with limited liability
+w000942.1 | moving | adj. | B1 | 感人的, 动人的 | causing strong feelings of sadness or sympathy
+w000942.2 | moving | adj. | B1 | 移动的, 活动的 | changing position; in motion
+w000943.1 | network | n. | B1 | 网络, 网状系统 | a system of connected lines, computers or routes
+w000943.2 | network | n. | B1 | 关系网, 人际网 | a group of people who help each other
+w000943.3 | network | n. | B1 | 广播网, 电视网 | a group of connected broadcasting stations
+w000943.4 | network | v. | B1 | 建立人脉, 联网 | meet people for work contacts, or connect computers
+w000945.1 | peace | n. | A2 | 和平 | a situation with no war or fighting
+w000945.2 | peace | n. | A2 | 平静, 安宁 | a calm and quiet state
+w000945.3 | peace | n. | A2 | 治安, 秩序 | a state of public order
+w000947.1 | provided | conj. | B2 | 如果, 只要, 假如 | on condition that
+w000948.1 | recently | adv. | A2 | 最近, 近来, 新近 | not long ago
+w000949.1 | sales | n. | B1 | 销售额, 销量, 销售 | the number or amount of goods sold
+w000949.2 | sales | n. | B1 | 销售部门, 销售工作 | the department or work of selling products
+w000949.3 | sales | adj. | B1 | 销售的 | relating to selling
+w000952.1 | store | n. | A1 | 商店, 店铺 | a shop where goods are sold
+w000952.2 | store | v. | A1 | 储存, 存储, 存放 | keep something to use later
+w000952.3 | store | n. | A1 | 储备, 存货 | a supply of something kept for future use
+w000953.1 | student | n. | A1 | 学生 | a person studying at a school or university
+w000955.1 | tomorrow | adv. | A1 | 在明天 | on the day after today
+w000955.2 | tomorrow | n. | A1 | 明天, 明日 | the day after today
+w000955.3 | tomorrow | n. | A1 | 未来, 将来 | the future
+w000956.1 | track | n. | B1 | 轨道, 铁轨, 跑道 | rails for trains or a course for racing
+w000956.2 | track | n. | B1 | 曲目, 一首歌 | one song or piece on a recording
+w000956.3 | track | n. | B1 | 小路, 小道 | a rough path or road
+w000956.4 | track | v. | B1 | 跟踪, 追踪 | follow the movements or progress of something
+w000957.1 | via | prep. | B1 | 经由, 经过 | travelling through a place on the way
+w000957.2 | via | prep. | B1 | 通过, 凭借 | by means of a person, system or thing
+w000958.1 | weight | n. | A2 | 重量, 体重 | how heavy someone or something is
+w000958.2 | weight | n. | A2 | 重物, 哑铃, 砝码 | a heavy object, especially for exercise
+w000958.3 | weight | n. | A2 | 重要性, 影响力 | importance or influence
+w000959.1 | Chinese | adj. | A1 | 中国的, 中国人的, 中文的 | from or relating to China
+w000959.2 | Chinese | n. | A1 | 汉语, 中文 | the language spoken in China
+w000959.3 | Chinese | n. | A1 | 中国人 | a person from China
+w000960.1 | Russian | adj. | A2 | 俄罗斯的, 俄国的, 俄语的 | from or relating to Russia
+w000960.2 | Russian | n. | A2 | 俄语 | the language of Russia
+w000960.3 | Russian | n. | A2 | 俄罗斯人 | a person from Russia
+w000961.1 | addition | n. | B1 | 增加, 附加 | the act of adding something
+w000961.2 | addition | n. | B1 | 增加物, 新增的人 | a thing or person that is added
+w000961.3 | addition | n. | B1 | 加法 | the process of adding numbers together
+w000962.1 | ahead | adv. | A2 | 在前面, 向前 | in front or forward
+w000962.2 | ahead | adv. | A2 | 提前, 预先, 将来 | earlier, or in the future
+w000962.3 | ahead | adv. | A2 | 领先, 占优势 | winning or more advanced than others
+w000963.1 | allow | v. | A2 | 允许, 准许 | let someone do something
+w000963.2 | allow | v. | A2 | 使可能, 使得 | make it possible for something to happen
+w000963.3 | allow | v. | A2 | 留出, 预留 | plan for a certain amount of time or money
+w000964.1 | anti | prep. | B2 | 反对, 反 | opposed to someone or something
+w000964.2 | anti | n. | B2 | 反对者 | a person who opposes something
+w000965.1 | association | n. | B1 | 协会, 社团, 联合会 | an organization of people with a shared purpose
+w000965.2 | association | n. | B1 | 联系, 关联, 交往 | a connection between people or things
+w000965.3 | association | n. | B1 | 联想 | a feeling or memory linked to something
+w000966.1 | beat | v. | A2 | 打败, 战胜 | defeat someone in a game or competition
+w000966.2 | beat | v. | A2 | 敲打, 打 | hit repeatedly
+w000966.3 | beat | v. | A2 | 跳动, 搏动 | make a regular movement or sound, like a heart
+w000966.4 | beat | n. | A2 | 节拍, 节奏 | the regular rhythm in music
+w000966.5 | beat | n. | A2 | 跳动, 敲击声 | a single stroke or pulse

@@ -1,0 +1,400 @@
+w008966.1 | occupy, attack, conquer | withdraw
+w008966.2 | overrun, flood | -
+w008967.1 | annoying | -
+w008967.2 | itchy, sore | -
+w008969.1 | - | -
+w008970.1 | KO | -
+w008970.2 | - | -
+w008970.3 | stunner, beauty | -
+w008971.1 | lamp | -
+w008972.1 | - | -
+w008972.2 | bedding | -
+w008973.1 | watch | -
+w008973.2 | guard, sentry, watchman | -
+w008973.3 | viewpoint | -
+w008974.1 | - | -
+w008975.1 | - | sunlight
+w008975.2 | - | -
+w008976.1 | elk | -
+w008977.1 | - | -
+w008978.1 | - | -
+w008979.1 | - | -
+w008980.1 | - | -
+w008981.1 | writer, author | -
+w008983.1 | forward | -
+w008983.2 | forward, ahead | backwards
+w008984.1 | topple, overturn, bring down | -
+w008984.2 | downfall, removal | -
+w008985.1 | model, pattern, framework | -
+w008986.1 | sidewalk, footpath | -
+w008986.2 | - | -
+w008987.1 | - | -
+w008987.2 | jackpot | -
+w008988.1 | eternal, permanent, everlasting | temporary
+w008988.2 | constant, continual, endless | occasional
+w008990.1 | - | -
+w008990.2 | - | -
+w008991.1 | dove | -
+w008992.1 | tableland | -
+w008992.2 | standstill | -
+w008992.3 | level off, stabilize | -
+w008993.1 | - | -
+w008995.1 | district, ward | -
+w008995.2 | zone, area | -
+w008995.3 | - | -
+w008997.1 | spread, increase, growth | decline
+w008997.2 | multiplication, growth | -
+w008998.1 | fake, false, sham | genuine
+w008999.1 | dessert | -
+w008999.2 | dessert, sweet | -
+w009000.1 | fridge | freezer
+w009001.1 | renewal, revival, redevelopment | decline
+w009001.2 | regrowth | -
+w009002.1 | memory, commemoration | -
+w009002.2 | memento, souvenir, keepsake | -
+w009003.1 | suggestive, evocative | -
+w009003.2 | nostalgic | -
+w009004.1 | bitterness, anger, grudge | -
+w009005.1 | - | -
+w009006.1 | - | -
+w009006.2 | roundabout | -
+w009007.1 | - | -
+w009007.2 | out of practice | -
+w009007.3 | - | -
+w009008.1 | rare, scant, short | plentiful, abundant
+w009009.1 | - | -
+w009010.1 | - | -
+w009011.1 | slippy | -
+w009011.2 | untrustworthy, sly | trustworthy
+w009011.3 | tricky, elusive | -
+w009012.1 | steep, immerse | -
+w009012.2 | drench, saturate | dry
+w009012.3 | bath | -
+w009013.1 | - | -
+w009013.2 | punch, hit, thump | -
+w009014.1 | show, display, sight | -
+w009014.2 | sight, scene | -
+w009014.3 | glasses | -
+w009015.1 | spell, period, term | -
+w009015.2 | skimp | -
+w009016.1 | floor, level | -
+w009017.1 | - | -
+w009017.2 | reckless, dangerous | safe
+w009018.1 | - | -
+w009019.1 | conference, seminar | -
+w009020.1 | - | -
+w009020.2 | adapt, adjust, customize | -
+w009022.1 | exciting | boring, dull
+w009023.1 | path, course | -
+w009023.2 | path, course, direction | -
+w009024.1 | unknown, unnamed | -
+w009025.1 | disorder, turmoil | calm, peace
+w009026.1 | invisible, hidden | visible
+w009026.2 | - | -
+w009027.1 | maximum, supreme | -
+w009027.2 | maximum | -
+w009028.1 | server | waitress
+w009029.1 | tired, worn out | fresh
+w009029.2 | tired, sick | -
+w009029.3 | tire, exhaust | refresh
+w009030.1 | - | -
+w009038.1 | charge, allegation, claim | -
+w009039.1 | - | -
+w009039.2 | - | -
+w009040.1 | flexible | fixed
+w009041.1 | maturity | childhood
+w009042.1 | pain, torment, suffering, anguish | -
+w009043.1 | - | -
+w009043.2 | aversion, dislike | -
+w009044.1 | spaceman | -
+w009045.1 | achieve, reach, accomplish | -
+w009045.2 | reach, achieve | -
+w009046.1 | assistant, steward | -
+w009046.2 | associated | -
+w009047.1 | genuineness | -
+w009049.1 | - | -
+w009049.2 | behind-the-scenes | -
+w009051.1 | standard, yardstick | -
+w009051.2 | compare, measure | -
+w009051.3 | - | -
+w009054.1 | spree | -
+w009054.2 | overindulge | -
+w009055.1 | alliance, coalition | -
+w009056.1 | healthy, lively | -
+w009056.2 | - | -
+w009057.1 | wave | -
+w009057.2 | circuit breaker | -
+w009057.3 | - | -
+w009058.1 | stunning, spectacular, amazing | -
+w009059.1 | cruelty, savagery, violence | kindness
+w009060.1 | - | -
+w009060.2 | stone | -
+w009061.1 | negligent, sloppy, thoughtless | careful
+w009061.2 | casual, effortless | -
+w009062.1 | class | -
+w009062.2 | class | -
+w009063.1 | basement | attic
+w009063.2 | - | -
+w009064.1 | intellectual | emotional
+w009064.2 | - | -
+w009065.1 | - | -
+w009065.2 | slogan | -
+w009065.3 | intone | -
+w009066.1 | happy, cheery, bright, upbeat | gloomy, miserable
+w009066.2 | bright, pleasant | gloomy, dull
+w009067.1 | - | -
+w009068.1 | peak, culmination | anticlimax
+w009068.2 | peak, culminate | -
+w009069.1 | - | -
+w009070.1 | - | -
+w009070.2 | - | -
+w009071.1 | - | -
+w009072.1 | - | -
+w009072.2 | - | -
+w009073.1 | competitor, challenger, candidate | -
+w009074.1 | red, scarlet | -
+w009074.2 | scarlet | -
+w009074.3 | blush, redden | -
+w009075.1 | cryptocurrency | -
+w009076.1 | cultured, refined, sophisticated | uncultured
+w009076.2 | - | wild
+w009077.1 | wavy | straight
+w009078.1 | deterioration, decline | improvement
+w009078.2 | humiliation, disgrace | dignity
+w009080.1 | - | -
+w009082.1 | - | -
+w009082.2 | green | -
+w009083.1 | balance, stability | imbalance
+w009083.2 | composure, calm | -
+w009085.1 | clearly, obviously, apparently | -
+w009086.1 | famous, renowned, celebrated | unknown
+w009088.1 | foetus, embryo | -
+w009089.1 | fault, defect, weakness | strength
+w009089.2 | spoil, mar | -
+w009090.1 | perfect, faultless, impeccable | -
+w009091.1 | graduate | -
+w009091.2 | graduate | -
+w009092.1 | - | grandson
+w009093.1 | - | -
+w009095.1 | - | -
+w009096.1 | funny, amusing, comic, witty | serious
+w009097.1 | inside | outdoors, outside
+w009098.1 | sex | -
+w009098.2 | communication, dealings | -
+w009099.1 | - | -
+w009100.1 | separate, cut off, segregate | -
+w009100.2 | separate, identify | -
+w009103.1 | - | stallion
+w009104.1 | field, pasture | -
+w009105.1 | inspire, encourage, drive | discourage
+w009105.2 | prompt, drive, cause | -
+w009106.1 | hill, hillock | -
+w009106.2 | heap, pile, stack | -
+w009106.3 | heap, pile | -
+w009107.1 | dirty, filthy | clean
+w009107.2 | murky, cloudy, dull | clear
+w009107.3 | confuse, cloud | clarify
+w009108.1 | - | -
+w009108.2 | mystical, spiritual | -
+w009109.1 | headland, cape | -
+w009110.1 | token, titular | real, actual
+w009110.2 | small, minimal, token | substantial
+w009110.3 | - | -
+w009113.1 | oh | -
+w009114.1 | regulation, rule, bylaw | -
+w009115.1 | pair, partnership | -
+w009115.2 | - | -
+w009116.1 | prod, jab, nudge | -
+w009116.2 | stick out, protrude | -
+w009116.3 | prod, jab, nudge | -
+w009119.1 | - | -
+w009119.2 | - | -
+w009120.1 | pierce, puncture | -
+w009120.2 | sting, puncture | -
+w009120.3 | jerk, idiot | -
+w009121.1 | productive, fertile | unproductive
+w009121.2 | abundant, plentiful | scarce
+w009122.1 | proportionate, relative | disproportionate
+w009123.1 | rich, wealthy, successful | poor
+w009124.1 | pit, mine | -
+w009124.2 | prey, target, victim | hunter
+w009124.3 | mine, extract | -
+w009125.1 | - | -
+w009126.1 | share | -
+w009126.2 | - | -
+w009127.1 | fidgety, uneasy | calm, relaxed
+w009127.2 | sleepless | restful
+w009128.1 | rough, rocky, craggy | smooth
+w009128.2 | sturdy, tough, durable | fragile
+w009128.3 | strong, handsome | -
+w009130.1 | drain, weaken, exhaust | -
+w009130.2 | juice | -
+w009130.3 | fool, sucker | -
+w009131.1 | ironic, sardonic | sincere
+w009132.1 | academic, learned, intellectual | -
+w009133.1 | separation, discrimination | integration
+w009133.2 | separation | -
+w009135.1 | chief, leader | -
+w009136.1 | menacing, threatening, ominous, evil | -
+w009137.1 | channel, sound | -
+w009137.2 | difficulty, trouble | -
+w009139.1 | - | oestrogen
+w009141.1 | - | -
+w009142.1 | - | -
+w009143.1 | - | -
+w009143.2 | - | -
+w009146.1 | thread, wool | -
+w009146.2 | tale, story | -
+w009150.1 | obey, comply with, follow | break, disobey
+w009150.2 | stand, tolerate, bear | -
+w009150.3 | live, dwell, stay | -
+w009151.1 | build-up, collection, gathering | -
+w009151.2 | pile, mass, collection | -
+w009152.1 | respect, approval, esteem | contempt
+w009153.1 | - | -
+w009153.2 | appearance, look | -
+w009156.1 | assailant, aggressor | victim
+w009156.2 | striker, forward | defender
+w009158.1 | dictatorial, tyrannical, strict | democratic, liberal
+w009158.2 | dictator, tyrant | -
+w009159.1 | use, benefit | -
+w009159.2 | use, take advantage of | -
+w009160.1 | feast, dinner | -
+w009161.1 | - | -
+w009162.1 | loot, plunder | -
+w009162.2 | bottom, bum, backside | -
+w009163.1 | courage, boldness | cowardice
+w009164.1 | Briton | -
+w009165.1 | look through, leaf through | -
+w009165.2 | surf | -
+w009165.3 | graze | -
+w009166.1 | cruelly, savagely, viciously | gently
+w009166.2 | harshly, bluntly | -
+w009167.1 | fan, enthusiast | -
+w009167.2 | muscular, fit | -
+w009167.3 | - | -
+w009167.4 | polish, shine | -
+w009168.1 | - | -
+w009171.1 | talon, nail | -
+w009171.2 | pincer | -
+w009171.3 | scratch, tear | -
+w009172.1 | begin, start, open | end, finish
+w009173.1 | - | incompatibility
+w009173.2 | harmony | incompatibility
+w009174.1 | dependent, provisional | unconditional
+w009174.2 | - | -
+w009175.1 | praise, compliment | -
+w009175.2 | - | -
+w009176.1 | - | -
+w009177.1 | brave, bold, fearless, heroic | cowardly
+w009178.1 | campaign, drive, movement | -
+w009178.2 | - | -
+w009178.3 | campaign, fight | -
+w009179.1 | sceptical, distrustful | idealistic
+w009179.2 | selfish | -
+w009180.1 | interrupt, disturb, upset | -
+w009180.2 | transform, revolutionize | -
+w009182.1 | copy, replicate, reproduce, repeat | -
+w009182.2 | copy, replica | original
+w009182.3 | identical | -
+w009183.1 | explosive | -
+w009183.2 | sensation | -
+w009183.3 | blow up | -
+w009184.1 | cheap, efficient | expensive
+w009184.2 | thrifty, frugal, careful | wasteful
+w009185.1 | stretchy, flexible | rigid
+w009185.2 | flexible, adaptable | rigid
+w009185.3 | rubber band | -
+w009186.1 | explanation, account, description | -
+w009186.2 | exhibition, fair, show | -
+w009187.1 | - | -
+w009187.2 | - | -
+w009187.3 | - | -
+w009188.1 | - | -
+w009188.2 | obsession, fixation | -
+w009188.3 | charm, talisman | -
+w009190.1 | soft, fuzzy, downy | -
+w009190.2 | light, trivial | serious
+w009191.1 | basics | -
+w009192.1 | benefit | -
+w009192.2 | - | -
+w009194.1 | crazy, mad | -
+w009194.2 | senile | -
+w009195.1 | clothing, outfit | -
+w009196.1 | - | -
+w009196.2 | exponential | arithmetic
+w009198.1 | courteous, kind, polite, gentle | rude, ungracious
+w009198.2 | elegant, luxurious | -
+w009198.3 | goodness | -
+w009199.1 | smile, beam | frown
+w009199.2 | smile, beam | frown
+w009203.1 | pile, mound, stack | -
+w009203.2 | lot, load, plenty | -
+w009203.3 | pile, stack | -
+w009204.1 | - | -
+w009204.2 | buzz, drone | -
+w009204.3 | buzz, drone | -
+w009205.1 | modesty | arrogance, pride
+w009206.1 | - | -
+w009207.1 | basically, essentially, intrinsically | -
+w009208.1 | creator, originator | -
+w009211.1 | - | -
+w009212.1 | - | -
+w009213.1 | timber, wood | -
+w009213.2 | trudge, plod | -
+w009213.3 | saddle, burden | -
+w009215.1 | lady | sir
+w009215.2 | - | -
+w009216.1 | matrimonial | -
+w009218.1 | medication, medicine | -
+w009220.1 | mass, host, lot | -
+w009220.2 | crowd, throng | -
+w009221.1 | ponder, reflect, think | -
+w009221.2 | inspiration | -
+w009222.1 | nurse, babysitter | -
+w009222.2 | grandma, granny | -
+w009223.1 | - | -
+w009224.1 | - | -
+w009224.2 | - | -
+w009224.3 | core, heart, centre | -
+w009225.1 | - | -
+w009225.2 | ring road | -
+w009225.3 | - | -
+w009226.1 | creature, being | -
+w009226.2 | system, structure | -
+w009227.1 | sociable, friendly, extrovert | shy, reserved
+w009227.2 | - | incoming
+w009227.3 | outward | incoming
+w009228.1 | service, repair, inspect | -
+w009228.2 | reform, revamp, restructure | -
+w009228.3 | service, reform | -
+w009230.1 | nationalism, loyalty | -
+w009231.1 | regularly, occasionally, from time to time | -
+w009232.1 | - | -
+w009235.1 | preparedness | unreadiness
+w009235.2 | willingness, eagerness | reluctance
+w009236.1 | unnecessary, superfluous, surplus | necessary, essential
+w009236.2 | unemployed | -
+w009237.1 | likeness, similarity | difference
+w009238.1 | - | -
+w009238.2 | - | -
+w009238.3 | tease, kid | -
+w009240.1 | homily | -
+w009240.2 | lecture | -
+w009242.1 | slim, thin, slight | fat, plump
+w009242.2 | slim, small, slight | large
+w009243.1 | careless, slapdash, messy | careful, meticulous
+w009243.2 | loose, baggy, untidy | tight, neat
+w009243.3 | watery, runny | -
+w009244.1 | social | -
+w009245.1 | specification | -
+w009245.2 | speculation | -
+w009246.1 | - | -
+w009246.2 | sponge cake | -
+w009246.3 | wipe, mop | -
+w009246.4 | scrounge, freeload | -
+w009248.1 | fool, dupe, mug | -
+w009248.2 | - | -
+w009248.3 | - | -
+w009249.1 | supremacy, advantage, dominance | inferiority
+w009249.2 | arrogance, condescension | humility

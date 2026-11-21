@@ -1,0 +1,401 @@
+w002470.1 | bare, open | covered
+w002470.2 | vulnerable, open, unprotected | safe
+w002471.1 | charge, payment, cost | -
+w002471.2 | charge, admission, price | -
+w002472.1 | hurt, wounded | unhurt
+w002472.2 | hurt, upset | -
+w002473.1 | - | -
+w002474.1 | fasten, secure, bolt | unlock, open
+w002474.2 | padlock, bolt | key
+w002474.3 | - | -
+w002474.4 | curl, strand | -
+w002476.1 | melodious, tuneful | unmusical
+w002476.2 | - | -
+w002477.1 | - | -
+w002477.2 | pry, snoop, edge | -
+w002478.1 | against, hostile, opposite, contrary | -
+w002479.1 | orderly, efficient, systematic, tidy | disorganized, chaotic
+w002480.1 | - | -
+w002480.2 | artificial, synthetic, fake, false | natural, genuine
+w002480.3 | credit card | cash
+w002481.1 | cite, repeat, mention | -
+w002481.2 | quotation, estimate, citation | -
+w002482.1 | record, tape | -
+w002484.1 | believe, suppose, think, doubt | trust
+w002484.2 | - | -
+w002484.3 | doubtful, dubious, suspicious, questionable | reliable, trustworthy
+w002485.1 | promise, vow, pledge, declare | -
+w002485.2 | curse | -
+w002486.1 | fasten, knot, bind, tie up | untie
+w002486.2 | necktie | -
+w002486.3 | draw, equal | win, lose
+w002486.4 | draw, link, bond, connection | -
+w002488.1 | tendency, fashion, movement, direction | -
+w002488.2 | - | -
+w002489.1 | precious, expensive, useful, helpful | worthless, useless
+w002489.2 | valuables, treasure | -
+w002490.1 | riches, fortune, money, prosperity | poverty
+w002490.2 | abundance, plenty | lack
+w002491.1 | sensible, intelligent, clever, sage | foolish, stupid
+w002492.1 | - | -
+w002492.2 | - | -
+w002494.1 | - | -
+w002494.2 | - | -
+w002495.1 | - | -
+w002495.2 | old, elderly | young
+w002496.1 | permission, consent, agreement, authorization | refusal, rejection
+w002496.2 | admiration, praise, respect | disapproval
+w002498.1 | loaf | -
+w002498.2 | coat | -
+w002499.1 | hot | cold
+w002499.2 | urgent, intense, pressing, vital | -
+w002499.3 | fire | -
+w002500.1 | include, hold, comprise, involve | exclude
+w002500.2 | control, restrain, check, limit | release
+w002501.1 | conference, meeting, assembly, congress | -
+w002501.2 | custom, tradition, practice, norm | -
+w002501.3 | treaty, agreement, pact | -
+w002502.1 | dance | -
+w002503.1 | paper, file, record | -
+w002503.2 | record, report | -
+w002504.1 | worker, staff | employer, boss
+w002505.1 | - | -
+w002506.1 | technician, mechanic | -
+w002506.2 | arrange, plan, design, organize | -
+w002507.1 | equal, identical, comparable | different
+w002507.2 | equal, match, counterpart | -
+w002508.1 | quite, rather, pretty, reasonably | very
+w002508.2 | justly, honestly, equally | unfairly
+w002511.1 | band, mob, crew | -
+w002511.2 | group, crowd, bunch | -
+w002511.3 | team up | -
+w002512.1 | qualify, finish | -
+w002512.2 | - | undergraduate
+w002512.3 | postgraduate | undergraduate
+w002513.1 | inside, internal, interior, private | outer, external
+w002514.1 | raise, pick up, hoist, elevate | lower, drop
+w002514.2 | elevator | -
+w002514.3 | remove, end, cancel | impose
+w002514.4 | ride | -
+w002515.1 | noticeable, clear, obvious, distinct | slight
+w002515.2 | - | unmarked
+w002517.1 | - | -
+w002517.2 | - | -
+w002517.3 | magazine | -
+w002518.1 | district, area, community, locality | -
+w002518.2 | vicinity, area, surroundings | -
+w002519.1 | work, run, use, function | -
+w002519.2 | run, manage, function, work | -
+w002519.3 | - | -
+w002520.1 | excellent, exceptional, superb, remarkable | ordinary, poor
+w002520.2 | unpaid, due, unsettled, pending | paid
+w002521.1 | consent, approval, authorization, agreement | refusal, ban
+w002522.1 | pornography | -
+w002523.1 | - | -
+w002523.2 | - | -
+w002524.1 | answer, respond | ask
+w002524.2 | answer, response | question
+w002525.1 | free, clear | -
+w002526.1 | - | -
+w002526.2 | bear, carry, take on, accept | -
+w002526.3 | verge | -
+w002527.1 | - | -
+w002527.2 | rain, drizzle | -
+w002527.3 | wash | -
+w002527.4 | heap, load | -
+w002529.1 | - | -
+w002529.2 | rise, soar | -
+w002530.1 | custom, convention, practice, habit | innovation
+w002531.1 | optical | -
+w002531.2 | image, picture | -
+w002532.1 | - | -
+w002532.2 | steering wheel | -
+w002532.3 | push, roll | -
+w002532.4 | turn, spin, swing, circle | -
+w002534.1 | - | AD
+w002535.1 | - | -
+w002536.1 | - | -
+w002536.2 | - | -
+w002537.1 | - | -
+w002538.1 | meeting, date, engagement | -
+w002538.2 | nomination, selection, job, post | dismissal
+w002539.1 | hardly, scarcely, just, only just | -
+w002540.1 | shrub | -
+w002540.2 | wilderness, outback | -
+w002541.1 | cupboard | -
+w002541.2 | government | -
+w002542.1 | party, mark, commemorate | mourn
+w002542.2 | praise, honour, applaud | criticize
+w002543.1 | - | -
+w002543.2 | cocoa, hot chocolate | -
+w002543.3 | brown | -
+w002544.1 | - | -
+w002545.1 | hue, shade, tint | -
+w002545.2 | paint, dye, influence, affect | -
+w002546.1 | modern, current, present-day, up-to-date | ancient
+w002546.2 | peer | -
+w002547.1 | disapproval, complaint, attack, objection | praise
+w002547.2 | review, analysis, critique | -
+w002549.1 | efficiently, successfully, well | ineffectively
+w002549.2 | in effect, actually, practically, virtually | -
+w002551.1 | wide, broad, large, comprehensive | limited, narrow
+w002552.1 | creation, development, establishment | -
+w002552.2 | arrangement, order, pattern | -
+w002552.3 | - | -
+w002553.1 | museum | -
+w002553.2 | balcony | -
+w002554.1 | road, motorway, freeway | -
+w002555.1 | important, significant, famous, momentous | -
+w002556.1 | chase, track, hunt down | -
+w002556.2 | search, look for, seek | -
+w002556.3 | search, chase, pursuit | -
+w002557.1 | progress, development, advance, enhancement | decline, deterioration
+w002558.1 | - | -
+w002558.2 | - | -
+w002558.3 | creep, edge | -
+w002559.1 | at first, first, originally | finally, eventually
+w002560.1 | lower, subordinate, minor | senior
+w002560.2 | youth | senior
+w002560.3 | subordinate | senior
+w002560.4 | - | -
+w002561.1 | - | -
+w002561.2 | panel | -
+w002563.1 | beast, creature, demon | -
+w002563.2 | brute, beast, devil | saint
+w002563.3 | huge, giant, enormous, massive | tiny
+w002564.1 | - | -
+w002564.2 | outlook, attitude | -
+w002565.1 | satisfaction, delight, joy | shame
+w002565.2 | self-respect, dignity, arrogance, vanity | humility, modesty
+w002565.3 | - | -
+w002566.1 | echo, copy | -
+w002566.2 | rerun, repetition | -
+w002567.1 | - | -
+w002568.1 | uneven, bumpy, coarse, harsh | smooth
+w002568.2 | approximate, rough and ready, general, vague | exact, precise
+w002568.3 | violent, stormy, difficult, tough | calm, gentle
+w002570.1 | agreement, deal, resolution | -
+w002570.2 | colony, village, community | -
+w002570.3 | payment | -
+w002571.1 | odour, scent, aroma | -
+w002571.2 | sniff, scent | -
+w002571.3 | stink, reek | -
+w002572.1 | lecturer, orator | listener
+w002572.2 | loudspeaker | -
+w002572.3 | - | -
+w002573.1 | nearby, neighbouring, local | -
+w002574.1 | voice, manner, attitude | -
+w002574.2 | sound, pitch | -
+w002574.3 | shade, hue, mood, character | -
+w002574.4 | firm, strengthen | -
+w002575.1 | subject, theme, issue, matter | -
+w002577.1 | general, common, worldwide, global | particular
+w002577.2 | - | -
+w002578.1 | huge, enormous, immense, massive | tiny
+w002579.1 | - | -
+w002579.2 | - | -
+w002581.1 | car, automobile | -
+w002581.2 | automatic | manual
+w002582.1 | steady, regular, reliable, constant | inconsistent
+w002582.2 | compatible, in line | inconsistent
+w002583.1 | make, get, receive | spend
+w002583.2 | deserve, win, gain, achieve | lose
+w002584.1 | - | -
+w002584.2 | touch, handle, feel | -
+w002585.1 | gray, dull, gloomy | bright
+w002585.2 | gray | -
+w002585.3 | - | -
+w002586.1 | - | -
+w002587.1 | title, headline, caption | -
+w002587.2 | direction, course | -
+w002589.1 | disregard, neglect, overlook | notice, heed
+w002592.1 | food, dinner, lunch | -
+w002592.2 | flour | -
+w002593.1 | in the meantime, at the same time, meantime | -
+w002594.1 | - | artificially
+w002594.2 | of course, obviously, certainly | -
+w002595.1 | inevitably, automatically | -
+w002596.1 | trousers, jeans | -
+w002596.2 | underpants, knickers | -
+w002597.1 | cooperation, collaboration, alliance | -
+w002597.2 | firm, company | -
+w002598.1 | proportion, share, rate, ratio | -
+w002599.1 | - | -
+w002599.2 | area, patch, cluster | -
+w002599.3 | steal, take | -
+w002599.4 | portable, small, compact, mini | -
+w002600.1 | realistic, hands-on, sensible | theoretical
+w002600.2 | useful, functional, handy, convenient | impractical
+w002600.3 | - | -
+w002601.1 | mainly, mostly, chiefly, largely | -
+w002602.1 | assault | -
+w002602.2 | - | -
+w002602.3 | - | -
+w002603.1 | anyway, anyhow, nevertheless | -
+w002604.1 | relation, family, kin | -
+w002604.2 | comparative | absolute
+w002604.3 | relevant, related | irrelevant
+w002605.1 | save, free, release, recover | abandon
+w002605.2 | saving, recovery, release | -
+w002606.1 | hurry, dash, race, hasten | dawdle
+w002606.2 | hurry, push, pressure | -
+w002606.3 | hurry, haste, rush hour | -
+w002606.4 | surge, flood, wave, thrill | -
+w002607.1 | keen, pointed | blunt, dull
+w002607.2 | sudden, steep, abrupt, clear | gradual
+w002607.3 | clever, bright, quick, smart | dull, slow
+w002607.4 | exactly, precisely, on the dot, promptly | -
+w002609.1 | football | -
+w002611.1 | steady, secure, firm, fixed | unstable, shaky
+w002611.2 | - | -
+w002612.1 | brief, passing, provisional | permanent
+w002613.1 | deception, hoax, joke, prank | -
+w002613.2 | stunt, technique, knack, method | -
+w002613.3 | deceive, fool, cheat, con | -
+w002614.1 | limited | -
+w002616.1 | sound | visual
+w002616.2 | sound | video
+w002617.1 | - | -
+w002617.2 | - | -
+w002619.1 | nonsense, rubbish, crap | truth
+w002619.2 | lie | -
+w002619.3 | nonsense, rubbish | -
+w002620.1 | house, assembly | -
+w002620.2 | room, hall | -
+w002620.3 | cavity, compartment | -
+w002621.1 | diagram, graph, table | -
+w002621.2 | - | -
+w002621.3 | map | -
+w002621.4 | record, track, plot, map | -
+w002622.1 | - | -
+w002622.2 | lap, tour, round | -
+w002622.3 | tour, round | -
+w002623.1 | clothes, dress, wear | -
+w002624.1 | complex, difficult, intricate, involved | simple, easy
+w002625.1 | bewildered, mixed up | clear
+w002625.2 | muddled, unclear, chaotic | clear, orderly
+w002626.1 | protect, guard, shield | attack
+w002626.2 | support, stand up for, justify, represent | attack, prosecute
+w002626.3 | protect, retain | -
+w002628.1 | daily, ordinary, common, routine | unusual, special
+w002629.1 | degree, level, scale | -
+w002629.2 | size, area, scope, range | -
+w002630.1 | angling | -
+w002631.1 | layout, design, structure, form | -
+w002631.2 | arrange, lay out | -
+w002632.1 | space, opening, hole, break | -
+w002632.2 | difference, divide, disparity | -
+w002632.3 | break, pause, interval, interruption | -
+w002633.1 | entrance, door, barrier | -
+w002633.2 | - | -
+w002635.1 | damage, injury, hurt | benefit
+w002635.2 | hurt, damage, injure | help, benefit
+w002636.1 | - | -
+w002637.1 | family, home | -
+w002637.2 | domestic, home, familiar, well-known | -
+w002638.1 | ice cream | -
+w002639.1 | - | emigration
+w002639.2 | - | -
+w002640.1 | remarkable, striking, amazing, outstanding | unimpressive
+w002641.1 | murderer | -
+w002641.2 | amazing, excellent, awesome | -
+w002642.1 | class, lecture, period | -
+w002642.2 | warning, example, moral | -
+w002643.1 | affectionate, caring, devoted, tender | cold
+w002644.1 | - | -
+w002644.2 | - | -
+w002645.1 | - | -
+w002645.2 | reflect, copy, echo, match | -
+w002646.1 | increase, grow, rise, build up | decrease, fall
+w002646.2 | organize, launch, stage, set up | -
+w002646.3 | climb, get on, ascend | dismount
+w002646.4 | mountain | -
+w002646.5 | support, stand, frame | -
+w002647.1 | happen, take place, exist | -
+w002647.2 | strike, come to mind | -
+w002648.1 | - | -
+w002649.1 | suggestion, plan, offer, scheme | -
+w002649.2 | - | -
+w002650.1 | region, state, district | -
+w002650.2 | field, area, domain, sphere | -
+w002651.1 | identification | -
+w002651.2 | acceptance, acknowledgement, admission | denial
+w002651.3 | praise, credit, honour, appreciation | -
+w002652.1 | name, standing, image, character | -
+w002653.1 | - | flat
+w002653.2 | gradual | -
+w002654.1 | soon, presently, before long | -
+w002654.2 | sharply, curtly, abruptly | -
+w002655.1 | firmly, powerfully, deeply, forcefully | weakly
+w002655.2 | firmly, solidly, sturdily | weakly
+w002656.1 | method, skill, approach, way | -
+w002657.1 | narrow, fine, slender | thick
+w002657.2 | slim, slender, lean, skinny | fat
+w002657.3 | watery, sparse, weak | thick
+w002657.4 | dilute, thin out, reduce | thicken
+w002661.1 | charged | -
+w002661.2 | defendant | -
+w002662.1 | exploit, experience, venture | -
+w002663.1 | quarrel, row, fight, disagree | agree
+w002663.2 | claim, reason, maintain, contend | -
+w002664.1 | evaluation, judgment, appraisal, estimate | -
+w002665.1 | air, sky | -
+w002665.2 | mood, feeling, environment, spirit | -
+w002666.1 | terrible, dreadful, horrible, bad | wonderful
+w002666.2 | great | -
+w002667.1 | - | -
+w002668.1 | faith, conviction, trust, confidence | disbelief, doubt
+w002668.2 | faith, opinion, view, idea | -
+w002669.1 | certain, sure, likely | unlikely
+w002669.2 | - | free
+w002669.3 | heading | -
+w002669.4 | leap, jump, spring | -
+w002669.5 | - | -
+w002670.1 | cautiously, attentively, thoroughly, closely | carelessly
+w002671.1 | chief executive, president | -
+w002672.1 | final, last | opening
+w002672.2 | closure, shutdown, ending | opening
+w002673.1 | - | -
+w002673.2 | - | -
+w002673.3 | - | -
+w002673.4 | confuse, blur, obscure, spoil | clear
+w002674.1 | difference, distinction, contradiction | similarity
+w002674.2 | compare, differ, distinguish | -
+w002676.1 | - | -
+w002676.2 | ovum | -
+w002677.1 | part, component, factor, aspect | whole
+w002677.2 | - | -
+w002677.3 | trace, touch, hint | -
+w002678.1 | - | here
+w002679.1 | set up, found, create, start | abolish
+w002679.2 | prove, show, confirm, demonstrate | disprove
+w002680.1 | expansion, addition, annex, enlargement | reduction
+w002680.2 | postponement, delay | -
+w002680.3 | - | -
+w002681.1 | creator, originator | -
+w002681.2 | fail, collapse, sink | succeed
+w002682.1 | - | -
+w002682.2 | equipment, kit, stuff | -
+w002682.3 | adapt, tailor, design, aim | -
+w002683.1 | - | -
+w002683.2 | fashionable, trendy, cool, stylish | unfashionable
+w002684.1 | - | -
+w002686.1 | slack, baggy, wobbly | tight, secure
+w002686.2 | free, unattached | -
+w002686.3 | vague, rough, approximate, imprecise | strict, precise
+w002686.4 | release, free, let go | -
+w002687.1 | ethical | immoral
+w002687.2 | lesson, message | -
+w002687.3 | ethics | -
+w002688.1 | rude, insulting, unpleasant, disgusting | pleasant
+w002688.2 | aggressive | defensive
+w002688.3 | attack, assault, campaign | -
+w002689.1 | parcel, packet, box | -
+w002689.2 | bundle, set, deal | -
+w002689.3 | pack, wrap, box, present | unpack
+w002690.1 | sharp, pointy | blunt, rounded
+w002690.2 | direct, sharp | -
+w002691.1 | hardship, need, destitution | wealth, riches
+w002691.2 | lack, shortage, scarcity | wealth
+w002692.1 | skilled, competent | unqualified
+w002692.2 | limited, conditional, partial | unconditional

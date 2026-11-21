@@ -1,0 +1,400 @@
+w001326.1 | complicated, intricate | simple
+w001326.2 | - | -
+w001326.3 | - | -
+w001327.1 | state, shape, order | -
+w001327.2 | requirement | -
+w001327.3 | illness, disease | -
+w001327.4 | train | -
+w001328.1 | separation, split | union
+w001328.2 | department, section, branch | -
+w001328.3 | - | multiplication
+w001329.1 | - | morning
+w001329.2 | - | -
+w001330.1 | - | -
+w001330.2 | - | -
+w001330.3 | - | -
+w001331.1 | liberty, independence | -
+w001331.2 | - | -
+w001333.1 | warmth, hotness | cold
+w001333.2 | warm, warm up | cool
+w001333.3 | - | final
+w001333.4 | heating | -
+w001334.1 | - | -
+w001334.2 | - | -
+w001334.3 | question | -
+w001335.1 | - | -
+w001335.2 | collection, archive | -
+w001335.3 | - | -
+w001337.1 | place, position, site, spot | -
+w001337.2 | - | -
+w001337.3 | discovery | -
+w001338.1 | killing | -
+w001338.2 | kill | -
+w001338.3 | nightmare, hell | -
+w001341.1 | - | king
+w001341.2 | - | -
+w001341.3 | - | -
+w001343.1 | status, reputation, position | -
+w001343.2 | permanent | -
+w001343.3 | - | -
+w001343.4 | position, ranking | -
+w001344.1 | - | -
+w001344.2 | - | -
+w001346.1 | take, receive | refuse, reject
+w001346.2 | admit, believe, agree | deny, reject
+w001346.3 | admit, take | reject
+w001347.1 | real, genuine | imaginary
+w001347.2 | exact, very | -
+w001348.1 | seem, look | -
+w001348.2 | emerge, show up, arrive | disappear, vanish
+w001348.3 | perform, feature | -
+w001349.1 | try, effort, go | -
+w001349.2 | try | -
+w001350.1 | poor | rich
+w001351.1 | station | -
+w001351.2 | means, medium, route | -
+w001351.3 | passage, strait | -
+w001351.4 | direct | -
+w001352.1 | space, length, gap | -
+w001352.2 | - | -
+w001352.3 | coldness | closeness
+w001352.4 | separate | -
+w001353.1 | swap, trade | -
+w001353.2 | swap, trade, switch | -
+w001353.3 | - | -
+w001353.4 | market | -
+w001354.1 | overweight, plump, heavy | thin, slim
+w001354.2 | grease, oil | -
+w001354.3 | thick, large, big | thin
+w001356.1 | result, conclusion | -
+w001356.2 | verdict, ruling, decision | -
+w001357.1 | - | -
+w001357.2 | - | -
+w001357.3 | - | -
+w001359.1 | movable, portable | fixed
+w001359.2 | cell, cellphone | -
+w001359.3 | - | -
+w001360.1 | north | southern
+w001362.1 | influential, mighty, strong | weak, powerless
+w001362.2 | strong, mighty, forceful | weak
+w001363.1 | previous, earlier, former | later
+w001363.2 | - | -
+w001363.3 | - | -
+w001364.1 | defense, safety, security | -
+w001364.2 | shield, defense, cover | -
+w001365.1 | get, accept, collect | send, give
+w001365.2 | get, experience | -
+w001365.3 | welcome, greet | -
+w001366.1 | spiritual, holy | -
+w001366.2 | devout, pious, faithful | -
+w001366.3 | careful, regular | -
+w001367.1 | - | -
+w001367.2 | travel | -
+w001367.3 | journey, trip, drive | -
+w001367.4 | - | -
+w001368.1 | regal | -
+w001368.2 | splendid, magnificent, grand | -
+w001368.3 | - | -
+w001369.1 | display, monitor | -
+w001369.2 | - | -
+w001369.3 | partition, curtain | -
+w001369.4 | test, check | -
+w001369.5 | show, broadcast | -
+w001370.1 | give, offer | -
+w001370.2 | work | -
+w001370.3 | function, act | -
+w001370.4 | - | -
+w001371.1 | unhurried, gradual | fast, quick
+w001371.2 | slow down | speed up
+w001371.3 | stupid, dull | quick, clever
+w001371.4 | slowly | fast
+w001372.1 | - | -
+w001372.2 | type, kind, sort | -
+w001373.1 | talk, address, lecture | -
+w001373.2 | - | -
+w001373.3 | voice, accent | -
+w001374.1 | - | -
+w001374.2 | - | -
+w001374.3 | trade | -
+w001374.4 | smuggle | -
+w001375.1 | - | -
+w001375.2 | - | -
+w001376.1 | against, versus | -
+w001377.1 | - | -
+w001377.2 | - | -
+w001378.1 | great, marvellous, fantastic, excellent | terrible, awful
+w001380.1 | airfield | -
+w001381.1 | start, commence | finish, stop
+w001381.2 | start | end
+w001382.1 | base, foot | top
+w001382.2 | - | top
+w001382.3 | behind, backside, bum | -
+w001382.4 | end | top
+w001384.1 | request, claim | -
+w001384.2 | - | supply
+w001384.3 | insist on, require, ask for | -
+w001384.4 | require, need, call for | -
+w001385.1 | motor | -
+w001385.2 | locomotive | -
+w001385.3 | driver | -
+w001386.1 | everyone | nobody
+w001387.1 | well-known, celebrated, renowned | unknown
+w001388.1 | - | -
+w001388.2 | - | -
+w001389.1 | lie down, rest | stand
+w001389.2 | - | -
+w001389.3 | untruth, falsehood | truth
+w001389.4 | be, rest | -
+w001391.1 | spouse, husband, wife | -
+w001391.2 | associate | -
+w001391.3 | companion, mate | -
+w001391.4 | team up, cooperate | -
+w001392.1 | unhappy, sorry, upset | happy, glad
+w001392.2 | depressing, upsetting, tragic | cheerful
+w001392.3 | pathetic, uncool | cool
+w001393.1 | answer, remedy, fix | problem
+w001393.2 | answer, key | -
+w001393.3 | - | -
+w001394.1 | south | northern
+w001395.1 | - | -
+w001395.2 | plaza | -
+w001395.3 | - | round
+w001395.4 | - | -
+w001395.5 | - | -
+w001396.1 | arrangement, organization, framework | -
+w001396.2 | building, construction | -
+w001396.3 | organize, arrange | -
+w001397.1 | conventional, customary | modern
+w001397.2 | conventional | modern
+w001398.1 | - | once
+w001398.2 | double | -
+w001400.1 | breeze | -
+w001400.2 | wrap, coil, wind up | unwind
+w001400.3 | twist, curve | -
+w001400.4 | wind up | -
+w001400.5 | gas | -
+w001401.1 | fret | relax
+w001401.2 | trouble, bother, concern | reassure
+w001401.3 | anxiety, concern, fear | -
+w001403.1 | make, trademark | -
+w001403.2 | type, kind, sort | -
+w001403.3 | label, mark | -
+w001403.4 | mark | -
+w001404.1 | coach | -
+w001404.2 | - | -
+w001404.3 | - | -
+w001405.1 | penny | -
+w001406.1 | add up, number, total | -
+w001406.2 | matter | -
+w001406.3 | consider, regard | -
+w001406.4 | total, tally | -
+w001406.5 | earl | -
+w001407.1 | - | -
+w001407.2 | - | open
+w001407.3 | - | -
+w001408.1 | disapproving | -
+w001408.2 | crucial, vital, key, essential | unimportant
+w001408.3 | serious, grave, dangerous | -
+w001409.1 | electronic | analogue
+w001409.2 | - | analogue
+w001410.1 | - | -
+w001410.2 | quarter | -
+w001411.1 | new | stale
+w001411.2 | new, novel, original | old
+w001411.3 | cool, clean | stale
+w001412.1 | pond | -
+w001413.1 | psychological, intellectual | physical
+w001413.2 | - | written
+w001413.3 | crazy, mad | sane
+w001414.1 | mainly, largely, generally, chiefly | -
+w001415.1 | - | -
+w001415.2 | entrance, opening | source
+w001415.3 | - | -
+w001416.1 | possessor, holder | -
+w001418.1 | before, earlier, formerly | later, afterwards
+w001419.1 | understand, see, recognize, notice | -
+w001419.2 | achieve, fulfil | -
+w001420.1 | stay, keep, continue | change
+w001420.2 | stay | leave
+w001420.3 | - | -
+w001421.1 | size, extent, scope | -
+w001421.2 | range | -
+w001421.3 | - | -
+w001421.4 | climb | descend
+w001422.1 | result, mark | -
+w001422.2 | win, get | -
+w001422.3 | - | -
+w001424.1 | distinct, different, independent | connected
+w001424.2 | divide, split, part | join, unite
+w001424.3 | split up, break up | -
+w001426.1 | clever, intelligent, bright | stupid
+w001426.2 | neat, stylish, elegant | scruffy
+w001426.3 | - | -
+w001426.4 | sting, hurt | -
+w001427.1 | outside, exterior, top | interior
+w001427.2 | emerge, come up, appear | sink
+w001427.3 | superficial | deep
+w001428.1 | toss, hurl, fling | catch
+w001428.2 | plunge | -
+w001428.3 | toss | -
+w001431.1 | completely, entirely, utterly, fully | partly
+w001431.2 | absolutely, definitely | -
+w001433.1 | marriage | -
+w001435.1 | - | -
+w001435.2 | - | -
+w001437.1 | drama | -
+w001437.2 | temporary | permanent
+w001438.1 | weapon | -
+w001439.1 | advantage, gain, help | disadvantage, drawback
+w001439.2 | gain, profit | suffer
+w001439.3 | welfare, allowance | -
+w001440.1 | - | -
+w001440.2 | plan | -
+w001440.3 | cheap, economy | expensive
+w001441.1 | - | -
+w001441.2 | - | -
+w001441.3 | - | -
+w001442.1 | property, land | -
+w001442.2 | property, fortune | -
+w001442.3 | development | -
+w001443.1 | trust, confidence, belief | doubt, distrust
+w001443.2 | religion, belief | -
+w001444.1 | style, trend, craze | -
+w001444.2 | way, manner | -
+w001444.3 | make, shape, form, create | -
+w001445.1 | characteristic, quality, aspect | -
+w001445.2 | include, show, star | -
+w001445.3 | article, story | -
+w001445.4 | - | -
+w001446.1 | - | -
+w001446.2 | finance, pay for, sponsor | -
+w001447.1 | age group | -
+w001447.2 | production | -
+w001448.1 | - | -
+w001448.2 | trial, inquiry | -
+w001448.3 | chance | -
+w001449.1 | mound | valley
+w001449.2 | slope | -
+w001450.1 | - | -
+w001450.2 | knave | -
+w001450.3 | socket | -
+w001450.4 | lift, raise | -
+w001452.1 | - | -
+w001452.2 | heavy metal | -
+w001453.1 | middle | -
+w001453.2 | amid, among | -
+w001454.1 | description, sketch, portrait | -
+w001454.2 | outline | -
+w001454.3 | prominence | -
+w001454.4 | describe | -
+w001455.1 | drag, draw, haul | push
+w001455.2 | remove, take out, draw | -
+w001455.3 | tug | push
+w001455.4 | attraction, influence | -
+w001456.1 | shove, press | pull
+w001456.2 | press | -
+w001456.3 | urge, press, pressure | -
+w001456.4 | shove | pull
+w001457.1 | - | -
+w001457.2 | pink | -
+w001458.1 | chair | -
+w001458.2 | place, position | -
+w001458.3 | sit | -
+w001458.4 | hold, accommodate | -
+w001459.1 | - | -
+w001460.1 | goal, aim, objective | -
+w001460.2 | victim | -
+w001460.3 | aim, direct | -
+w001461.1 | knowledge, grasp, comprehension | ignorance
+w001461.2 | agreement, arrangement, deal | -
+w001461.3 | sympathetic, kind, tolerant | -
+w001462.1 | - | -
+w001463.1 | - | -
+w001464.1 | - | -
+w001464.2 | - | -
+w001464.3 | - | -
+w001465.1 | representative, broker | -
+w001465.2 | spy | -
+w001465.3 | - | -
+w001466.1 | creature, beast | -
+w001466.2 | beast, brute | -
+w001467.1 | ask, request | -
+w001467.2 | use, employ | -
+w001467.3 | relate | -
+w001468.1 | power, control | -
+w001468.2 | - | -
+w001468.3 | expert, specialist | -
+w001469.1 | base, foundation | -
+w001469.2 | - | -
+w001472.1 | sketch | -
+w001472.2 | pull, take out | -
+w001472.3 | attract, pull | -
+w001472.4 | tie | -
+w001472.5 | lottery, raffle | -
+w001473.1 | guy, man | -
+w001474.1 | come in, go in | leave, exit
+w001474.2 | take part, enter for | -
+w001474.3 | type, input | delete
+w001475.1 | - | -
+w001476.1 | basis, base, ground | -
+w001476.2 | charity, trust | -
+w001476.3 | base | -
+w001477.1 | get, obtain, win, earn | lose
+w001477.2 | put on, increase | lose
+w001477.3 | increase, rise | loss
+w001477.4 | profit, advantage, benefit | loss
+w001479.1 | recall | -
+w001479.2 | recollection | -
+w001479.3 | storage | -
+w001481.1 | main, chief, principal | -
+w001481.2 | top, excellent | -
+w001481.3 | peak | -
+w001481.4 | prepare | -
+w001483.1 | - | -
+w001483.2 | circle, loop | -
+w001483.3 | chime | -
+w001483.4 | call, phone | -
+w001484.1 | increase, go up, climb | fall, drop
+w001484.2 | get up, stand up | sit
+w001484.3 | increase, growth | fall, drop
+w001484.4 | growth, progress | fall, decline
+w001485.1 | - | -
+w001485.2 | - | -
+w001485.3 | - | -
+w001486.1 | spirit | body
+w001486.2 | person | -
+w001486.3 | - | -
+w001487.1 | expand, extend | -
+w001487.2 | open, unfold, lay out | fold
+w001487.3 | smear | -
+w001487.4 | growth, expansion | -
+w001487.5 | - | -
+w001488.1 | stock, store, reserve | -
+w001488.2 | provision | -
+w001488.3 | provide, give, offer | -
+w001489.1 | squander | save
+w001489.2 | misuse | -
+w001489.3 | rubbish, garbage, trash | -
+w001489.4 | unwanted, useless | -
+w001490.1 | strange, odd, bizarre, peculiar | normal
+w001491.1 | - | -
+w001492.1 | grown-up | child
+w001492.2 | grown-up, mature | -
+w001492.3 | - | -
+w001493.1 | reportedly, supposedly | -
+w001493.2 | seemingly, evidently | -
+w001494.1 | painter | -
+w001494.2 | performer, entertainer | -
+w001495.1 | chair, president | -
+w001496.1 | version, issue | -
+w001496.2 | episode, issue | -
+w001497.1 | - | -
+w001498.1 | level, rank, class, quality | -
+w001498.2 | mark, score | -
+w001498.3 | year, class, form | -
+w001498.4 | mark, rate, sort | -
+w001499.1 | event, occurrence | -
+w001499.2 | trendy, fashionable, cool | -
+w001500.1 | fit, well, strong | ill, sick
+w001500.2 | wholesome, nutritious | unhealthy
+w001500.3 | strong, sound, successful | weak

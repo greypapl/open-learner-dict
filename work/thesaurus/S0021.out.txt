@@ -1,0 +1,403 @@
+w003735.1 | alphabet | -
+w003735.2 | basics | -
+w003737.1 | um, uh | -
+w003740.1 | - | -
+w003741.1 | termination | -
+w003742.1 | precision, correctness, exactness | inaccuracy
+w003744.1 | man-made, synthetic, fake | natural
+w003744.2 | false, fake, insincere | genuine, sincere
+w003745.1 | below, under, underneath | above, over
+w003745.2 | below | -
+w003745.3 | below, underneath | above
+w003746.1 | - | -
+w003746.2 | - | -
+w003747.1 | famous, renowned, well-known | unknown
+w003748.1 | always, constantly, steadily | -
+w003749.1 | change, transformation, alteration | -
+w003749.2 | - | -
+w003749.3 | exchange | -
+w003750.1 | - | -
+w003750.2 | - | -
+w003751.1 | - | republican
+w003751.2 | - | -
+w003752.1 | down payment, security | -
+w003752.2 | put in, bank | withdraw
+w003752.3 | layer, bed | -
+w003753.1 | goal, end | origin
+w003754.1 | dust, mud, filth, grime | -
+w003754.2 | soil, earth, ground | -
+w003754.3 | gossip, scandal | -
+w003755.1 | varied, various, mixed, different | uniform
+w003756.1 | holy, sacred, heavenly | -
+w003756.2 | wonderful, delightful, lovely | awful
+w003756.3 | guess, sense | -
+w003758.1 | only, solely, purely | -
+w003759.1 | - | import
+w003759.2 | - | import
+w003759.3 | - | import
+w003760.1 | previously, once, before | -
+w003761.1 | practical, useful | decorative
+w003761.2 | working, operational | broken
+w003761.3 | - | -
+w003762.1 | assemble, meet, collect | scatter
+w003762.2 | collect, pick, assemble | scatter
+w003762.3 | understand, conclude, hear | -
+w003763.1 | grandpa | grandmother
+w003764.1 | custom, practice, routine | -
+w003764.2 | addiction | -
+w003764.3 | robe | -
+w003766.1 | remote, lonely, cut off | -
+w003766.2 | single, rare | common
+w003766.3 | lonely, alone | -
+w003767.1 | envious | -
+w003767.2 | possessive | -
+w003769.1 | idle | -
+w003769.2 | relaxed, leisurely | busy
+w003770.1 | mum, mom, mother | papa
+w003772.1 | civic, city, local | -
+w003773.1 | - | -
+w003775.1 | impartial, unbiased | biased
+w003775.2 | - | -
+w003775.3 | - | -
+w003776.1 | honourable, worthy, good | -
+w003776.2 | aristocratic | common
+w003776.3 | aristocrat, lord | commoner
+w003777.1 | tap, stroke | -
+w003777.2 | tap | -
+w003777.3 | lump, piece | -
+w003778.1 | fame | -
+w003779.1 | cat, kitty | -
+w003779.2 | coward, wimp | -
+w003779.3 | - | -
+w003780.1 | connect, link | -
+w003780.2 | identify with, sympathize | -
+w003780.3 | tell, describe, recount | -
+w003781.1 | machine | -
+w003782.1 | holy, religious, divine | -
+w003782.2 | - | -
+w003783.1 | - | -
+w003783.2 | horseshoe | -
+w003783.3 | - | -
+w003784.1 | agent | -
+w003784.2 | watch, observe | -
+w003784.3 | see, spot, notice | -
+w003787.1 | interruption, break, delay | resumption
+w003787.2 | ban | -
+w003787.3 | - | -
+w003788.1 | terror | -
+w003790.1 | poisonous, harmful | harmless
+w003790.2 | harmful, unhealthy | healthy
+w003791.1 | - | -
+w003791.2 | treasure | -
+w003792.1 | passage | -
+w003792.2 | dig, burrow | -
+w003793.1 | improve, update, enhance | downgrade
+w003793.2 | improvement, update | -
+w003794.1 | - | -
+w003794.2 | justify, deserve | -
+w003794.3 | justification | -
+w003795.1 | injury, cut | -
+w003795.2 | injure, hurt | heal
+w003795.3 | hurt, pain | -
+w003796.1 | - | -
+w003797.1 | - | -
+w003799.1 | - | -
+w003799.2 | - | -
+w003800.1 | - | -
+w003800.2 | - | -
+w003803.1 | - | -
+w003805.1 | - | -
+w003808.1 | - | passively
+w003809.1 | property, resource | liability
+w003809.2 | advantage, strength, benefit | liability
+w003811.1 | support, help | opposition
+w003811.2 | - | -
+w003811.3 | accompaniment | -
+w003812.1 | - | -
+w003813.1 | holy, sacred | cursed
+w003813.2 | lucky, fortunate | -
+w003813.3 | welcome | -
+w003814.1 | - | -
+w003814.2 | sweep, comb | -
+w003814.3 | touch, graze | -
+w003815.1 | load, responsibility, weight | -
+w003815.2 | load, weigh down | relieve
+w003815.3 | load, weight | -
+w003817.1 | relaxed, careless, easy-going | -
+w003817.2 | informal | formal
+w003817.3 | temporary, occasional | permanent
+w003818.1 | constitution | -
+w003818.2 | hire, rent | -
+w003818.3 | - | -
+w003819.1 | cook | -
+w003820.1 | - | soldier
+w003820.2 | - | military
+w003821.1 | alliance, union | -
+w003822.1 | rooster | hen
+w003822.2 | tilt, raise | -
+w003822.3 | - | -
+w003823.1 | moan, grumble, whine | -
+w003823.2 | protest | -
+w003824.1 | debatable | uncontroversial
+w003825.1 | - | similarly
+w003826.1 | order, control | -
+w003826.2 | self-control | -
+w003826.3 | subject, field | -
+w003826.4 | punish | reward
+w003827.1 | revolting, horrible, gross | delicious
+w003828.1 | main, leading, ruling | subordinate
+w003828.2 | - | recessive
+w003830.1 | composition, paper | -
+w003830.2 | attempt, effort | -
+w003831.1 | cost, charge | -
+w003831.2 | cost, price, sacrifice | -
+w003832.1 | moreover, also, besides | -
+w003833.1 | vivid, explicit | -
+w003833.2 | visual | -
+w003833.3 | image, picture | -
+w003835.1 | immediately, at once, right away | -
+w003836.1 | attack, occupation | -
+w003836.2 | flood, influx | -
+w003838.1 | notebook | desktop
+w003839.1 | famous, celebrated | unknown
+w003839.2 | mythical | -
+w003840.1 | manufacturer, producer, creator | -
+w003843.1 | open-air, outside | indoor
+w003844.1 | - | -
+w003844.2 | - | -
+w003844.3 | - | -
+w003846.1 | photo, picture | -
+w003846.2 | shoot, snap | -
+w003847.1 | bar | -
+w003848.1 | front desk | -
+w003848.2 | party, function | -
+w003848.3 | response, welcome | -
+w003849.1 | - | -
+w003849.2 | formula | -
+w003850.1 | - | -
+w003851.1 | - | -
+w003851.2 | eraser | -
+w003851.3 | condom | -
+w003852.1 | repeated | -
+w003852.2 | series | -
+w003853.1 | hut | -
+w003853.2 | get rid of, drop, cut | -
+w003853.3 | lose, drop | -
+w003854.1 | - | -
+w003854.2 | wind, twist | -
+w003854.3 | rat | -
+w003855.1 | - | -
+w003856.1 | firm, stern, harsh, tough | lenient
+w003856.2 | exact, precise | loose
+w003857.1 | later, afterwards, then | previously
+w003858.1 | material, matter, stuff | -
+w003858.2 | essence, gist | -
+w003858.3 | weight, meaning | -
+w003859.1 | proposal, idea, advice, recommendation | -
+w003859.2 | hint, trace, sign | -
+w003860.1 | - | -
+w003860.2 | - | -
+w003861.1 | extreme, radical | moderate
+w003861.2 | extremist, radical | moderate
+w003862.1 | surprising, sudden | expected
+w003863.1 | - | -
+w003863.2 | use, consumption | -
+w003864.1 | - | -
+w003868.1 | - | -
+w003869.1 | by chance, by accident | deliberately, intentionally
+w003870.1 | cheap, reasonable | expensive
+w003871.1 | - | professional
+w003871.2 | - | professional
+w003871.3 | beginner, novice | expert
+w003873.1 | relevance, connection | -
+w003873.2 | direction, orientation | -
+w003873.3 | - | -
+w003874.1 | dustbin, trash can | -
+w003874.2 | container, box | -
+w003874.3 | throw away, dump | keep
+w003875.1 | - | -
+w003877.1 | - | -
+w003877.2 | in short, shortly | -
+w003878.1 | waterway, channel | -
+w003878.2 | duct, tube | -
+w003881.1 | ascend, go up, scale | descend
+w003881.2 | rise, increase, go up | fall
+w003881.3 | ascent, rise | descent
+w003882.1 | rival, opposing | -
+w003883.1 | finish, end, conclusion | start
+w003884.1 | voyage | -
+w003884.2 | sail | -
+w003884.3 | - | -
+w003885.1 | care, guardianship | -
+w003885.2 | detention, imprisonment | release
+w003885.3 | care | -
+w003886.1 | erase, remove, cut | add
+w003887.1 | exit | arrival
+w003887.2 | change, shift | -
+w003888.1 | excavate | bury
+w003888.2 | search, delve | -
+w003888.3 | jibe, insult | -
+w003888.4 | excavation | -
+w003889.1 | boss | employee
+w003890.1 | blast, bang | -
+w003890.2 | boom, surge | decline
+w003890.3 | outburst, burst | -
+w003891.1 | temperature | -
+w003891.2 | excitement, frenzy | -
+w003892.1 | liquid | solid
+w003892.2 | smooth, graceful | jerky
+w003892.3 | changeable, flexible, unstable | fixed
+w003893.1 | people | -
+w003893.2 | traditional | -
+w003893.3 | - | -
+w003893.4 | family | -
+w003894.1 | produce, create, cause | -
+w003894.2 | produce | -
+w003896.1 | good-looking, attractive | ugly
+w003896.2 | generous, large, considerable | small
+w003896.3 | attractive, fine | ugly
+w003897.1 | creativity, fantasy | -
+w003897.2 | fantasy | reality
+w003898.1 | combination, union | separation
+w003898.2 | inclusion | segregation
+w003899.1 | honesty, honour | dishonesty
+w003899.2 | unity, wholeness | -
+w003900.1 | explanation, reading, understanding | -
+w003900.2 | performance, version, reading | -
+w003900.3 | translation | -
+w003901.1 | - | -
+w003901.2 | page, sheet | -
+w003901.3 | flick, flip, browse | -
+w003902.1 | legal, lawful, valid | illegal
+w003902.2 | reasonable, valid, fair | -
+w003902.3 | legitimize, justify | -
+w003903.1 | - | -
+w003903.2 | quick, rapid, swift | slow
+w003904.1 | - | -
+w003904.2 | wonderful, enchanting, charming | -
+w003905.1 | drive, enthusiasm, incentive | -
+w003905.2 | motive, reason | -
+w003906.1 | unpleasant, horrible, awful, disgusting | nice, pleasant
+w003906.2 | mean, unkind, spiteful | kind
+w003906.3 | serious, bad, severe | -
+w003908.1 | costume, clothes | -
+w003908.2 | organization, group, company, team | -
+w003908.3 | equip, supply | -
+w003909.1 | - | -
+w003909.2 | - | -
+w003910.1 | allow, let, authorize | forbid, prohibit
+w003910.2 | licence, pass | ban
+w003912.1 | nice, enjoyable, lovely, agreeable | unpleasant
+w003912.2 | friendly, nice, polite | unfriendly
+w003913.1 | picture, painting | -
+w003913.2 | description, depiction | -
+w003913.3 | - | landscape
+w003914.1 | efficient, fruitful, effective | unproductive
+w003914.2 | - | -
+w003916.1 | securely | dangerously
+w003917.1 | small, minor, little | major, considerable
+w003917.2 | slim, slender, thin | -
+w003917.3 | snub, insult | -
+w003917.4 | insult, snub | -
+w003918.1 | - | -
+w003918.2 | - | -
+w003919.1 | prosecute | -
+w003920.1 | stress, anxiety, strain, nervousness | -
+w003920.2 | conflict, friction | harmony
+w003920.3 | tightness | -
+w003922.1 | turn, bend, wind | straighten
+w003922.2 | sprain | -
+w003922.3 | turn, development | -
+w003922.4 | distort | -
+w003923.1 | yuck | -
+w003924.1 | - | employment
+w003924.2 | - | -
+w003925.1 | union, unanimity, agreement | division
+w003926.1 | worthless, pointless, ineffective, vain | useful
+w003926.2 | hopeless, incompetent | -
+w003927.1 | - | -
+w003929.1 | God | -
+w003930.1 | - | -
+w003930.2 | - | -
+w003935.1 | - | -
+w003935.2 | - | -
+w003936.1 | - | -
+w003936.2 | - | -
+w003938.1 | support, promote, recommend | oppose
+w003938.2 | supporter, champion | opponent
+w003938.3 | lawyer, attorney | -
+w003939.1 | curve, arch | -
+w003939.2 | - | -
+w003939.3 | curve | -
+w003940.1 | copy | -
+w003940.2 | support, help | -
+w003940.3 | spare, reserve | -
+w003941.1 | - | -
+w003941.2 | well-worn | -
+w003941.3 | - | -
+w003943.1 | resentful, angry | -
+w003943.2 | sour | sweet
+w003943.3 | fierce, intense, harsh | -
+w003943.4 | - | -
+w003944.1 | intelligent, smart, bright | stupid
+w003944.2 | ingenious, smart | -
+w003945.1 | - | -
+w003945.2 | workshop | -
+w003946.1 | constant, continual, uninterrupted, nonstop | intermittent
+w003946.2 | progressive | -
+w003947.1 | right, properly, accurately | wrongly, incorrectly
+w003948.1 | investigator | -
+w003948.2 | - | -
+w003949.1 | handicap, impairment | -
+w003950.1 | plate, bowl | -
+w003950.2 | - | -
+w003950.3 | - | -
+w003950.4 | serve | -
+w003953.1 | - | -
+w003953.2 | - | -
+w003953.3 | dodge, bend | -
+w003953.4 | dodge, avoid | face
+w003955.1 | assessment, appraisal, judgment | -
+w003956.1 | surplus | shortage
+w003956.2 | extra, surplus | -
+w003956.3 | - | moderation
+w003957.1 | agriculture | -
+w003958.1 | barrier, railing | -
+w003958.2 | enclose | -
+w003958.3 | - | -
+w003960.1 | slowly, step by step, progressively | suddenly
+w003961.1 | - | -
+w003961.2 | seriousness, importance | -
+w003961.3 | seriousness, solemnity | -
+w003962.1 | emphasize, stress, underline | -
+w003962.2 | - | -
+w003962.3 | mark | -
+w003963.1 | owner, bearer | -
+w003963.2 | stand, case | -
+w003964.1 | - | -
+w003964.2 | bonnet | -
+w003964.3 | neighbourhood | -
+w003965.1 | same, alike, matching | different
+w003966.1 | royal | -
+w003966.2 | - | metric
+w003969.1 | lawfully | illegally
+w003970.1 | maker, producer | -
+w003971.1 | - | -
+w003971.2 | - | -
+w003971.3 | fasten, fix | -
+w003971.4 | ace | -
+w003973.1 | rubbish, garbage | sense
+w003973.2 | foolishness | -
+w003975.1 | working | -
+w003975.2 | - | -
+w003978.1 | - | -
+w003979.1 | again and again, often, frequently | -
+w003981.1 | - | -
+w003982.1 | go down, go under, submerge | float
+w003982.2 | basin | -
+w003982.3 | drop, fall, decline | rise
+w003982.4 | collapse, slump | -
+w003983.1 | miss, omit, skip over | -
+w003983.2 | hop, jump, bounce | -
+w003983.3 | - | -
+w003983.4 | - | -

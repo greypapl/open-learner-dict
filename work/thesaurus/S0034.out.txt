@@ -1,0 +1,400 @@
+w006844.1 | convince, talk into, coax | dissuade
+w006844.2 | convince | -
+w006845.1 | jetty, wharf, dock | -
+w006845.2 | pillar, column | -
+w006846.1 | forerunner | successor
+w006846.2 | forerunner | successor
+w006847.1 | assumption, basis, hypothesis | conclusion
+w006847.2 | - | -
+w006848.1 | test | -
+w006848.2 | - | -
+w006848.3 | question, interrogate, grill | -
+w006849.1 | rain | -
+w006850.1 | careless, rash, wild | careful, cautious
+w006851.1 | salvation | -
+w006851.2 | - | -
+w006852.1 | solution, answer, cure | -
+w006852.2 | cure, treatment, medicine | -
+w006852.3 | correct, fix, put right | -
+w006853.1 | - | -
+w006853.2 | - | -
+w006853.3 | rematch | -
+w006854.1 | change, amendment, alteration | -
+w006854.2 | study | -
+w006855.1 | - | -
+w006855.2 | frozen | -
+w006856.1 | smell, fragrance, aroma, perfume | stink
+w006856.2 | perfume | -
+w006856.3 | trail, smell | -
+w006857.1 | - | -
+w006857.2 | - | -
+w006857.3 | schedule | -
+w006858.1 | incentive, encouragement, boost | -
+w006858.2 | trigger | -
+w006859.1 | dawn, daybreak | sunset
+w006860.1 | rise, increase, rush | drop
+w006860.2 | rush, pour, sweep | -
+w006860.3 | soar, rocket, jump | drop
+w006861.1 | - | -
+w006861.2 | - | -
+w006863.1 | symbol, sign, mark | -
+w006863.2 | counter, coin | -
+w006863.3 | symbolic, nominal | genuine
+w006864.1 | twister, whirlwind | -
+w006866.1 | dusk, nightfall | dawn
+w006866.2 | end, decline | dawn
+w006867.1 | unparalleled, new | -
+w006868.1 | - | -
+w006869.1 | lexicon | -
+w006869.2 | glossary | -
+w006871.1 | wow | -
+w006871.2 | - | -
+w006872.1 | readiness, eagerness | reluctance
+w006873.1 | - | -
+w006873.2 | wooded | -
+w006873.3 | - | -
+w006874.1 | useless, valueless | valuable
+w006874.2 | useless, good-for-nothing | -
+w006875.1 | - | -
+w006878.1 | - | Catholic
+w006878.2 | - | Catholic
+w006881.1 | soak up, take in | -
+w006881.2 | take in, digest, grasp | -
+w006881.3 | engross, occupy | bore
+w006882.1 | go with, escort | -
+w006882.2 | go with | -
+w006882.3 | back | -
+w006883.1 | agreement, treaty, pact | -
+w006883.2 | give, grant | deny
+w006883.3 | agreement, harmony | conflict
+w006884.1 | progress, development, advance | -
+w006884.2 | promotion | demotion
+w006885.1 | alternative | mainstream
+w006885.2 | - | -
+w006886.1 | instead, otherwise | -
+w006887.1 | - | -
+w006887.2 | - | -
+w006888.1 | bowman | -
+w006889.1 | immediately | -
+w006890.1 | guarantee, promise, pledge | -
+w006890.2 | confidence | doubt
+w006890.3 | insurance | -
+w006891.1 | hairdresser | -
+w006892.1 | hit, smash, strike | -
+w006892.2 | criticize, attack, knock | praise
+w006892.3 | party, celebration | -
+w006893.1 | - | -
+w006893.2 | army, crowd, horde | -
+w006894.1 | ban, shun | support
+w006894.2 | ban, embargo | -
+w006896.1 | - | -
+w006896.2 | - | -
+w006896.3 | - | -
+w006897.1 | joiner | -
+w006899.1 | - | -
+w006899.2 | - | -
+w006900.1 | rival, opponent, competition | ally
+w006900.2 | contestant, participant, entrant | -
+w006901.1 | cooking, cookery | -
+w006902.1 | - | -
+w006903.1 | ruin, destruction, fate | -
+w006903.2 | condemn | -
+w006904.1 | - | -
+w006904.2 | overshadow, outshine, surpass | -
+w006904.3 | decline | rise
+w006905.1 | - | -
+w006906.1 | pleasure, fun, delight | -
+w006907.1 | tire, wear out, drain | refresh
+w006907.2 | use up, deplete, consume | -
+w006907.3 | - | -
+w006908.1 | run away, escape | stay
+w006910.1 | girl, woman | guy
+w006911.1 | glance, peek, look | -
+w006911.2 | catch sight of, spot | -
+w006911.3 | insight, taste | -
+w006912.1 | haha | -
+w006913.1 | - | -
+w006913.2 | - | dove
+w006913.3 | peddle, sell | -
+w006914.1 | - | -
+w006915.1 | honest, noble, respectable | dishonorable
+w006915.2 | - | -
+w006916.1 | contagious, catching | -
+w006916.2 | contagious, catching | -
+w006917.1 | worse, second-rate | superior
+w006917.2 | lower, junior, subordinate | superior
+w006917.3 | subordinate, junior | superior
+w006918.1 | unfairness, wrong | justice
+w006919.1 | - | -
+w006920.1 | explain, understand, read | -
+w006920.2 | translate | -
+w006920.3 | perform, play, render | -
+w006921.1 | introduction | outro
+w006921.2 | introduction | outro
+w006922.1 | arouse, stir, spark | -
+w006922.2 | light, ignite | extinguish
+w006923.1 | cover, top, cap | -
+w006923.2 | eyelid | -
+w006925.1 | estate, mansion | -
+w006926.1 | classic, gem | -
+w006927.1 | tune, air | -
+w006928.1 | note, memorandum | -
+w006929.1 | storyteller | -
+w006932.1 | fatness | -
+w006933.1 | biased, one-sided | neutral
+w006933.2 | supporter, follower | -
+w006933.3 | guerrilla | -
+w006934.1 | - | -
+w006935.1 | wealthy, elite | disadvantaged, underprivileged
+w006935.2 | lucky | -
+w006935.3 | confidential | -
+w006936.1 | lengthy, long, extended | brief
+w006937.1 | advert, ad | -
+w006938.1 | student, schoolchild | teacher
+w006938.2 | - | -
+w006940.1 | dependence, dependency | independence
+w006941.1 | unwilling, hesitant, loath | willing, eager
+w006942.1 | - | -
+w006943.1 | preservation | loss
+w006943.2 | memory, recall | -
+w006944.1 | - | -
+w006944.2 | strip, band | -
+w006946.1 | flatmate | -
+w006947.1 | bad, off | fresh
+w006947.2 | awful, terrible, lousy | -
+w006948.1 | - | -
+w006950.1 | - | -
+w006950.2 | - | -
+w006951.1 | couch, settee | -
+w006953.1 | ruin, damage, wreck | improve
+w006953.2 | indulge, pamper | -
+w006953.3 | go bad, go off, rot | -
+w006955.1 | sub | -
+w006955.2 | sub | -
+w006955.3 | underwater, undersea | -
+w006956.1 | outskirts | -
+w006957.1 | understanding, caring, compassionate | unsympathetic
+w006957.2 | supportive, favourable | hostile
+w006957.3 | likeable, appealing | unsympathetic
+w006958.1 | tax | -
+w006959.1 | - | -
+w006959.2 | mood, humour | -
+w006959.3 | moderate, soften, tone down | -
+w006960.1 | experience, go through, suffer | -
+w006963.1 | - | -
+w006967.1 | - | -
+w006969.1 | - | -
+w006970.1 | amplifier | -
+w006970.2 | ampere | -
+w006970.3 | excite | -
+w006971.1 | - | -
+w006972.1 | mechanization | -
+w006973.1 | wonder, admiration, reverence | contempt
+w006973.2 | amaze, impress, overwhelm | -
+w006975.1 | - | infantry
+w006977.1 | casket | -
+w006978.1 | bright, vivid, multicoloured | dull, colourless
+w006978.2 | vivid, lively, interesting | dull
+w006979.1 | combination | -
+w006979.2 | band | -
+w006979.3 | combination | -
+w006980.1 | - | capitalism
+w006981.1 | - | -
+w006981.2 | - | insulator
+w006981.3 | - | -
+w006982.1 | face, tackle, deal with | avoid
+w006982.2 | challenge, face | -
+w006983.1 | - | -
+w006983.2 | - | -
+w006983.3 | boast, brag, gloat | -
+w006985.1 | crucial, critical | -
+w006985.2 | firm, determined, resolute | indecisive
+w006986.1 | ornamental | functional
+w006987.1 | final, conclusive | provisional
+w006987.2 | authoritative, standard | -
+w006988.1 | unbalanced, troubled | -
+w006988.2 | upset, worried, troubled | calm
+w006989.1 | outbreak, plague | -
+w006989.2 | plague, wave | -
+w006989.3 | widespread, rampant | -
+w006990.1 | infinity, forever | -
+w006990.2 | forever | -
+w006992.1 | develop, grow, progress | -
+w006992.2 | develop, adapt | -
+w006993.1 | blow up, burst, go off | -
+w006993.2 | soar, rocket, mushroom | shrink
+w006993.3 | erupt, flare up | -
+w006994.1 | removal | insertion
+w006994.2 | removal | -
+w006994.3 | origin, descent, ancestry | -
+w006995.1 | greasy, oily | lean
+w006995.2 | - | -
+w006996.1 | dirty, grimy, foul | clean, spotless
+w006996.2 | dirty, obscene, vulgar | clean
+w006996.3 | extremely | -
+w006998.1 | rinse, wash out | -
+w006998.2 | blush, redden | pale
+w006998.3 | level, even | -
+w006998.4 | blush | -
+w006999.1 | typeface | -
+w006999.2 | - | -
+w007000.1 | - | -
+w007000.2 | - | -
+w007000.3 | improvise | -
+w007001.1 | adhesive, paste | -
+w007001.2 | stick, paste | -
+w007002.1 | grandfather, granddad | grandma
+w007003.1 | furry | bald, hairless
+w007003.2 | scary, risky, dangerous | -
+w007004.1 | murder, killing | -
+w007005.1 | legacy, heritage | -
+w007005.2 | heredity | -
+w007006.1 | paradoxical | -
+w007008.1 | baggage | -
+w007009.1 | madam | -
+w007009.2 | - | -
+w007012.1 | - | -
+w007012.2 | - | -
+w007012.3 | - | -
+w007013.1 | reduce, cut, minimise | maximize
+w007013.2 | play down, downplay, belittle | exaggerate
+w007013.3 | - | maximize
+w007015.1 | - | -
+w007015.2 | bit, scrap, trace | -
+w007016.1 | skin, pare | -
+w007016.2 | skin, rind | -
+w007016.3 | flake, peel off | -
+w007017.1 | entertainer, artist, player | -
+w007017.2 | - | -
+w007018.1 | - | -
+w007018.2 | - | -
+w007019.1 | mainly, mostly, largely, chiefly | -
+w007020.1 | early, ancient, prehistoric | advanced, modern
+w007020.2 | basic, crude, simple | sophisticated
+w007020.3 | - | -
+w007021.1 | fate, destiny | -
+w007022.1 | telepathic | -
+w007022.2 | clairvoyant, medium | -
+w007022.3 | mental | physical
+w007023.1 | - | -
+w007024.1 | marionette | -
+w007024.2 | pawn, tool | -
+w007025.1 | - | -
+w007026.1 | limit, restrain, confine, curb | free
+w007027.1 | virtuous, moral, good | wicked
+w007027.2 | justified | -
+w007028.1 | competition, contest | cooperation
+w007030.1 | - | -
+w007030.2 | - | -
+w007032.1 | - | -
+w007033.1 | grab, grasp, snatch | release
+w007033.2 | confiscate, take | return
+w007033.3 | grab, take | miss
+w007034.1 | simulation | -
+w007034.2 | - | -
+w007035.1 | - | -
+w007035.2 | framework, frame, outline | -
+w007035.3 | minimum | -
+w007036.1 | hot, peppery | mild, bland
+w007036.2 | racy, juicy | -
+w007037.1 | gluey, tacky | -
+w007037.2 | humid, muggy, sultry | dry
+w007037.3 | awkward, difficult, tricky | -
+w007038.1 | prick, bite | -
+w007038.2 | burn, smart, hurt | -
+w007038.3 | bite, prick | -
+w007038.4 | trap, setup | -
+w007039.1 | enough, adequately | insufficiently
+w007040.1 | fortunately, luckily | unfortunately
+w007040.2 | gratefully | ungratefully
+w007041.1 | check | cross
+w007041.2 | check | -
+w007041.3 | - | -
+w007041.4 | - | -
+w007041.5 | - | -
+w007043.1 | guide, lesson | -
+w007043.2 | seminar | -
+w007044.1 | - | -
+w007044.2 | - | -
+w007045.1 | nasty, disagreeable | pleasant, nice
+w007045.2 | unkind, rude, nasty | pleasant, friendly
+w007046.1 | unconnected, separate, independent | related
+w007046.2 | - | related
+w007047.1 | empty, unoccupied, free | occupied
+w007047.2 | open, available | -
+w007047.3 | blank, empty, expressionless | -
+w007048.1 | opening, outlet | -
+w007048.2 | express, let out, air | suppress
+w007049.1 | area, neighbourhood, surroundings | -
+w007050.1 | pale, pallid | -
+w007050.2 | weak, faint | -
+w007051.1 | closet | -
+w007051.2 | clothes | -
+w007052.1 | heat | coldness
+w007052.2 | friendliness, kindness, affection | coldness
+w007057.1 | - | -
+w007057.2 | - | -
+w007058.1 | - | -
+w007059.1 | Hispanic | -
+w007059.2 | Hispanic | -
+w007061.1 | - | -
+w007063.1 | hatchet | -
+w007063.2 | cut, scrap, cancel | -
+w007065.1 | beauty | -
+w007066.1 | boyfriend | -
+w007067.1 | report, announcement | -
+w007067.2 | newsletter | -
+w007068.1 | - | socialist
+w007068.2 | - | socialist
+w007069.1 | careful, wary, prudent | reckless, careless
+w007070.1 | officer | -
+w007071.1 | collaborate | compete
+w007071.2 | comply, help | resist
+w007072.1 | adviser | -
+w007072.2 | lawyer, attorney | -
+w007073.1 | control, limit, restrain, check | encourage
+w007073.2 | limit, restraint, check | -
+w007073.3 | kerb | -
+w007075.1 | - | -
+w007075.2 | indifferent, aloof, objective | involved
+w007076.1 | hand out, give out, share out | collect
+w007076.2 | supply, deliver | -
+w007076.3 | spread, scatter | gather
+w007079.1 | effectively, productively | inefficiently
+w007080.1 | support, motivation, inspiration | discouragement
+w007082.1 | group, camp, wing | -
+w007083.1 | - | -
+w007083.2 | - | -
+w007083.3 | dictator, tyrant | -
+w007084.1 | bet, wager | -
+w007084.2 | risk, take a chance | -
+w007084.3 | risk, venture | -
+w007085.1 | goalie | -
+w007086.1 | safe, innocent, gentle | harmful, dangerous
+w007087.1 | pause, hold back, waver | -
+w007088.1 | optimistic, positive | hopeless, pessimistic
+w007088.2 | promising, encouraging | -
+w007088.3 | candidate | -
+w007089.1 | - | -
+w007089.2 | - | -
+w007090.1 | cleanliness, sanitation | -
+w007091.1 | fictional, unreal | real
+w007092.1 | contradictory | consistent
+w007092.2 | erratic, uneven, variable | consistent
+w007094.1 | nursery | -
+w007096.1 | noisily | quietly, softly
+w007097.1 | - | -
+w007097.2 | - | -
+w007099.1 | change, alter, adjust, adapt | -
+w007099.2 | qualify | -
+w007100.1 | ignore, overlook, disregard | care for
+w007100.2 | negligence, carelessness | care
+w007100.3 | fail, forget, omit | -
+w007102.1 | - | -
+w007103.1 | persecution, tyranny | freedom
+w007103.2 | - | -
+w007104.1 | nationalistic, loyal | unpatriotic
+w007106.1 | - | -
+w007106.2 | jug | -
+w007107.1 | - | -
+w007107.2 | - | -

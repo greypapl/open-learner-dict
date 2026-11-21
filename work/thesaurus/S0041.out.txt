@@ -1,0 +1,401 @@
+w003015.1 | - | right-handed
+w003015.2 | - | right-handed
+w003175.1 | freelance | -
+w003179.1 | simple, easy | complicated
+w003720.1 | swindle, con | bargain
+w003720.2 | copy, imitation, fake | original
+w004156.1 | filmmaker, director | -
+w004181.1 | - | winner
+w004258.1 | balanced, healthy | unbalanced
+w004258.2 | sensible, stable | unbalanced
+w004380.1 | - | -
+w004380.2 | fluctuate | -
+w004403.1 | striking, attractive, noticeable | dull
+w004505.1 | tolerant, liberal | -
+w005205.1 | - | -
+w005288.1 | - | -
+w005288.2 | realistic, lifelike | -
+w006299.1 | lengthy, slow | quick
+w006366.1 | self-respect, confidence, pride | -
+w006634.1 | helpful, cooperative | uncooperative
+w006634.2 | cooperative | -
+w006730.1 | shrill, high | low, deep
+w008675.1 | - | -
+w008695.1 | - | -
+w008696.1 | - | -
+w008696.2 | - | -
+w008698.1 | attachment, extra | -
+w008698.2 | - | -
+w008698.3 | accomplice | -
+w008699.1 | connection, association, link | -
+w008700.1 | forcefully, violently | gently, peacefully
+w008700.2 | vigorously, energetically | -
+w008701.1 | - | -
+w008702.1 | line up, straighten | -
+w008702.2 | ally, associate | -
+w008703.1 | pardon | -
+w008703.2 | - | -
+w008706.1 | claim, statement, declaration | denial
+w008706.2 | assertiveness | -
+w008707.1 | - | -
+w008708.1 | on top of, on | beneath
+w008709.1 | loft | basement, cellar
+w008710.1 | memoir | -
+w008711.1 | wait for, expect | -
+w008711.2 | - | -
+w008713.1 | network, station | -
+w008713.2 | presenter, announcer | -
+w008714.1 | - | -
+w008714.2 | store, stockpile, hoard | -
+w008714.3 | store | -
+w008715.1 | logical, consistent, clear | incoherent, confused
+w008715.2 | articulate, clear | incoherent
+w008716.1 | comfortable, cosy | uncomfortable
+w008717.1 | apartment, flat | -
+w008719.1 | find fault with, condemn, attack | praise
+w008719.2 | review, evaluate, assess | -
+w008720.1 | bent, twisted, curved | straight
+w008720.2 | dishonest, corrupt | honest
+w008721.1 | farming, agriculture | -
+w008721.2 | development | -
+w008722.1 | ring, ping | -
+w008722.2 | dent | -
+w008722.3 | ring | -
+w008723.1 | - | -
+w008723.2 | - | -
+w008723.3 | shift, movement | -
+w008724.1 | rudeness, contempt | respect
+w008724.2 | insult | respect
+w008726.1 | extreme, radical, severe | mild, moderate
+w008727.1 | eatable | inedible, poisonous
+w008731.1 | support, back, approve | oppose
+w008731.2 | promote, advertise | -
+w008731.3 | sign | -
+w008732.1 | improvement | deterioration
+w008733.1 | decree, order | -
+w008733.2 | - | -
+w008734.1 | flip, tap | -
+w008734.2 | leaf, skim | -
+w008734.3 | flip | -
+w008734.4 | film, movie | -
+w008736.1 | trendy, cool | -
+w008736.2 | - | -
+w008736.3 | smelly | -
+w008737.1 | joke | -
+w008737.2 | retch, choke | -
+w008737.3 | silence, muzzle | -
+w008737.4 | - | -
+w008738.1 | wow | -
+w008739.1 | huge, enormous, vast, giant | tiny
+w008740.1 | - | -
+w008741.1 | bridegroom | bride
+w008741.2 | brush, clean | -
+w008741.3 | prepare, train | -
+w008741.4 | - | -
+w008742.1 | - | -
+w008743.1 | half-time | -
+w008745.1 | hashtag | -
+w008745.2 | - | -
+w008745.3 | - | -
+w008745.4 | chop | -
+w008749.1 | - | -
+w008751.1 | idle, passive | active
+w008752.1 | examine, check, look at | -
+w008752.2 | check, examine | -
+w008755.1 | - | -
+w008755.2 | honour, praise | -
+w008756.1 | - | -
+w008756.2 | left-wing | -
+w008757.1 | validity, legality | illegality
+w008759.1 | - | -
+w008760.1 | - | -
+w008760.2 | poem | -
+w008760.3 | lyrical | -
+w008761.1 | increase | minimize
+w008761.2 | make the most of | -
+w008761.3 | - | minimize
+w008762.1 | ethically | immorally
+w008763.1 | - | -
+w008763.2 | boom, spread | shrink
+w008764.1 | - | -
+w008765.1 | contradiction | -
+w008766.1 | calmly, quietly | violently
+w008767.1 | regular, occasional | -
+w008769.1 | beg, appeal | -
+w008769.2 | - | -
+w008769.3 | claim | -
+w008770.1 | platform, stage | -
+w008771.1 | depict, represent, describe | -
+w008771.2 | play, act | -
+w008772.1 | professional | -
+w008772.2 | - | -
+w008773.1 | - | -
+w008774.1 | rethink, review | -
+w008775.1 | avoid, resist, stop | -
+w008775.2 | chorus | -
+w008775.3 | - | -
+w008776.1 | breed, multiply | -
+w008776.2 | copy, duplicate | -
+w008776.3 | repeat, recreate | -
+w008777.1 | ceremony, ritual | -
+w008778.1 | - | -
+w008778.2 | strange, odd, peculiar | normal
+w008779.1 | - | -
+w008781.1 | - | -
+w008781.2 | - | -
+w008782.1 | rarely, hardly ever | often, frequently
+w008783.1 | stockholder | -
+w008784.1 | sister | bro
+w008785.1 | soya | -
+w008785.2 | soy sauce | -
+w008786.1 | - | -
+w008786.2 | - | -
+w008786.3 | crush, flatten, squeeze | -
+w008786.4 | squeeze, cram, pack | -
+w008787.1 | - | -
+w008787.2 | - | -
+w008788.1 | still, motionless, static | moving, mobile
+w008789.1 | division | -
+w008789.2 | section, part | -
+w008789.3 | development | -
+w008790.1 | - | -
+w008790.2 | - | -
+w008791.1 | - | -
+w008791.2 | worldly, secular | spiritual
+w008791.3 | - | -
+w008792.1 | - | -
+w008792.2 | - | -
+w008793.1 | - | -
+w008794.1 | inaccessible | available
+w008794.2 | busy | available, free
+w008795.1 | everywhere, generally | -
+w008796.1 | unfortunate | lucky, fortunate
+w008796.2 | - | lucky
+w008797.1 | ultraviolet | -
+w008798.1 | keeper, guardian, supervisor | -
+w008798.2 | governor | -
+w008799.1 | bend, twist, distort | straighten
+w008799.2 | distort, corrupt | -
+w008799.3 | - | -
+w008800.1 | whiskey | -
+w008801.1 | uterus | -
+w008802.1 | yoghurt | -
+w008809.1 | mountain | -
+w008809.2 | - | -
+w008810.1 | surrounding | -
+w008810.2 | - | -
+w008811.1 | - | terrestrial
+w008811.2 | - | -
+w008812.1 | - | -
+w008812.2 | - | -
+w008813.1 | declare, state, claim, maintain | deny
+w008813.2 | insist on | -
+w008813.3 | - | -
+w008814.1 | unbeliever | believer
+w008815.1 | - | -
+w008815.2 | capacity | -
+w008816.1 | - | -
+w008816.2 | grill | -
+w008816.3 | cookout | -
+w008816.4 | grill | -
+w008817.1 | in advance, earlier, before | afterwards
+w008818.1 | - | -
+w008818.2 | - | -
+w008819.1 | - | -
+w008819.2 | - | -
+w008820.1 | flower, bloom | -
+w008820.2 | flower, bloom | -
+w008820.3 | flourish, thrive, develop | decline, wither
+w008821.1 | trailer | -
+w008821.2 | convoy | -
+w008822.1 | - | -
+w008822.2 | reward, incentive | stick
+w008825.1 | consist of, include, contain | -
+w008825.2 | make up, constitute, form | -
+w008826.1 | - | -
+w008827.1 | theoretical, abstract | concrete
+w008828.1 | moist, wet, humid | dry
+w008828.2 | dampness, moisture, humidity | dryness
+w008828.3 | dampen, reduce | -
+w008829.1 | - | credit
+w008829.2 | charge | credit
+w008830.1 | destruction | construction
+w008832.1 | distinguish, discriminate, tell apart | confuse
+w008832.2 | distinguish, set apart | -
+w008832.3 | - | integrate
+w008833.1 | dark, faint, dull | bright
+w008833.2 | faint, vague, unclear | clear
+w008833.3 | darken, fade | brighten
+w008833.4 | stupid, dull, slow | bright, clever
+w008834.1 | ass | -
+w008836.1 | - | upstream
+w008836.2 | - | upstream
+w008836.3 | - | upstream
+w008837.1 | - | -
+w008838.1 | for example | -
+w008840.1 | experimental, practical | theoretical
+w008842.1 | defective, broken | -
+w008842.2 | wrong, mistaken | sound
+w008843.1 | rich, productive, fruitful | barren, infertile
+w008843.2 | - | infertile, sterile
+w008843.3 | creative, inventive | -
+w008844.1 | quarrel, dispute, conflict | -
+w008844.2 | quarrel, fight | -
+w008845.1 | film-maker, director | -
+w008847.1 | oven, boiler | -
+w008848.1 | - | -
+w008848.2 | - | -
+w008848.3 | merge, combine, join, unite | separate
+w008849.1 | commotion, bother | -
+w008849.2 | worry, fret | -
+w008849.3 | complaint, protest | -
+w008850.1 | storm | breeze
+w008850.2 | burst, roar | -
+w008851.1 | - | -
+w008852.1 | kindness, charity | meanness, selfishness
+w008854.1 | - | -
+w008856.1 | - | -
+w008856.2 | thug | -
+w008859.1 | - | lightweight
+w008859.2 | giant, big name | lightweight
+w008859.3 | important, influential, major | lightweight
+w008860.1 | kind, compassionate, merciful | cruel, inhumane
+w008863.1 | legal, legitimate | illegal, unlawful
+w008865.1 | slackly | tightly
+w008865.2 | roughly, approximately | exactly, precisely
+w008866.1 | - | -
+w008868.1 | role, responsibility | -
+w008868.2 | - | -
+w008868.3 | cloak, layer, covering | -
+w008869.1 | charm | -
+w008870.1 | - | -
+w008871.1 | - | -
+w008871.2 | - | -
+w008872.1 | aggressive, radical, extreme | moderate
+w008872.2 | activist, radical, extremist | moderate
+w008873.1 | longing, homesickness | -
+w008874.1 | footstool | -
+w008875.1 | paddy field | -
+w008875.2 | temper, tantrum | -
+w008876.1 | softback | hardback
+w008876.2 | - | hardback
+w008877.1 | stand, tent | -
+w008877.2 | summerhouse | -
+w008877.3 | clubhouse | -
+w008878.1 | farmer | aristocrat
+w008878.2 | - | -
+w008879.1 | tip, hint, clue | -
+w008879.2 | needle, arrow, cursor | -
+w008879.3 | - | -
+w008880.1 | assume, suppose | -
+w008880.2 | dare | -
+w008881.1 | - | -
+w008882.1 | oblong | -
+w008883.1 | watchdog, authority | -
+w008883.2 | - | -
+w008885.1 | undermine, damage, wreck | -
+w008885.2 | - | -
+w008886.1 | irony, mockery | -
+w008887.1 | plain, grassland | -
+w008889.1 | chauvinist | -
+w008889.2 | chauvinist | -
+w008890.1 | - | -
+w008890.2 | sliver, flake | -
+w008891.1 | closure, closing | opening
+w008891.2 | - | -
+w008891.3 | - | -
+w008892.1 | - | -
+w008892.2 | set on | -
+w008894.1 | fry | -
+w008894.2 | - | -
+w008898.1 | count, total, record | -
+w008898.2 | count, add up, total | -
+w008898.3 | match, agree, correspond | differ
+w008901.1 | - | -
+w008902.1 | unbeaten | -
+w008903.1 | unknown, strange, new | familiar
+w008904.1 | valley | -
+w008905.1 | greatly, hugely, enormously | slightly
+w008906.1 | evil, wicked, despicable | -
+w008906.2 | disgusting, horrible, foul | pleasant, lovely
+w008907.1 | brutally, savagely | gently, peacefully
+w008907.2 | strongly, intensely | -
+w008908.1 | - | -
+w008908.2 | jam, squeeze, cram | -
+w008908.3 | slice, piece | -
+w008909.1 | sensibly | foolishly, stupidly
+w008913.1 | - | -
+w008917.1 | flexible | rigid
+w008918.1 | compulsive | -
+w008919.1 | liking, sympathy, rapport | dislike
+w008919.2 | similarity, connection, resemblance | difference
+w008920.1 | - | -
+w008920.2 | mix, blend | -
+w008921.1 | segregation | -
+w008922.1 | - | -
+w008923.1 | aye, yes | no
+w008923.2 | ouch | -
+w008924.1 | bundle | -
+w008924.2 | bundle | -
+w008926.1 | - | -
+w008926.2 | toil, slave | -
+w008927.1 | - | -
+w008927.2 | visitor, guest | -
+w008929.1 | victim | survivor
+w008929.2 | victim | -
+w008929.3 | emergency room | -
+w008930.1 | hole, hollow, space | -
+w008930.2 | hole | -
+w008931.1 | man, guy, fellow, bloke | -
+w008931.2 | crack | -
+w008932.1 | reassuring | disturbing, upsetting
+w008933.1 | court | -
+w008934.1 | eccentric, crackpot | -
+w008934.2 | handle | -
+w008934.3 | turn, wind | -
+w008935.1 | - | -
+w008937.1 | damn | -
+w008937.2 | damn, damned | -
+w008937.3 | mend, sew | -
+w008939.1 | revulsion, repulsion, distaste | delight
+w008939.2 | revolt, repel, sicken | delight, please
+w008940.1 | ending, termination | formation
+w008940.2 | - | -
+w008941.1 | interruption, disruption | -
+w008941.2 | riot, commotion, disorder | -
+w008941.3 | disorder | -
+w008943.1 | compound, pen, fence | -
+w008943.2 | attachment | -
+w008944.1 | - | -
+w008944.2 | zealous, passionate | -
+w008944.3 | - | -
+w008945.1 | beautiful, delicate, fine, superb | ugly
+w008945.2 | intense, acute | -
+w008946.1 | true, accurate, real | fictional
+w008947.1 | wrongly, mistakenly | truly
+w008948.1 | starvation, hunger | plenty
+w008949.1 | dishonest, fake, false | honest, genuine
+w008950.1 | motorway, highway, expressway | -
+w008951.1 | newly, just | -
+w008953.1 | nerd, enthusiast | -
+w008953.2 | nerd, dork | -
+w008955.1 | grandma, grandmother, gran | grandpa
+w008956.1 | disadvantage, obstacle, drawback | advantage
+w008956.2 | disability | -
+w008956.3 | hinder, hamper | help
+w008956.4 | - | -
+w008958.1 | tribute, respect | -
+w008959.1 | unfriendliness, animosity, aggression | friendliness
+w008959.2 | opposition, resistance | support
+w008959.3 | fighting, war | peace
+w008960.1 | - | -
+w008960.2 | anthem | -
+w008961.1 | imaginary, theoretical | real, actual
+w008961.2 | - | -
+w008962.1 | instructive, useful, educational | uninformative
+w008963.1 | violation, breach | -
+w008963.2 | violation | -
+w008964.1 | placement, apprenticeship | -
+w008965.1 | cut in, break in | -
+w008965.2 | disrupt, suspend, break off | continue
+w008965.3 | - | -

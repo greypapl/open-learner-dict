@@ -1,0 +1,401 @@
+w003984.1 | - | freedom
+w003985.1 | break, crack | -
+w003985.2 | bark | -
+w003985.3 | photograph, shoot | -
+w003985.4 | crack, click | -
+w003985.5 | quick, sudden, hasty | -
+w003986.1 | - | -
+w003986.2 | - | -
+w003986.3 | spin | -
+w003987.1 | deal, exchange, sale | -
+w003988.1 | change, conversion, alteration | -
+w003989.1 | - | -
+w003989.2 | expert, old hand | beginner, novice
+w003989.3 | experienced, seasoned | -
+w003990.1 | weak, sensitive, fragile | strong
+w003990.2 | exposed, open | safe
+w003991.1 | rich, well-off, affluent | poor
+w003994.1 | doctor | -
+w003994.2 | - | -
+w003996.1 | also, furthermore, moreover, besides | -
+w003998.1 | draw, pull in, appeal to | repel
+w003998.2 | appeal to | repel
+w003998.3 | draw, pull | repel
+w004000.1 | - | -
+w004000.2 | - | -
+w004001.1 | fed up | interested, excited
+w004002.1 | - | -
+w004002.2 | - | -
+w004002.3 | - | -
+w004003.1 | insect | -
+w004003.2 | error, fault, glitch | -
+w004003.3 | virus, germ | -
+w004003.4 | annoy, bother, irritate | -
+w004003.5 | tap | -
+w004004.1 | kind, thoughtful, loving | uncaring
+w004004.2 | care | -
+w004006.1 | cavern | -
+w004006.2 | collapse, fall in | -
+w004006.3 | give in, yield | resist
+w004008.1 | persistent | acute
+w004008.2 | habitual, persistent | -
+w004008.3 | terrible, awful | -
+w004009.1 | talk, interact | -
+w004009.2 | convey, express, pass on | -
+w004010.1 | show, prove, reveal | -
+w004010.2 | show, display | -
+w004010.3 | protest, march | -
+w004011.1 | rest on | -
+w004011.2 | rely, count on | -
+w004011.3 | rely, trust, count on | -
+w004012.1 | programmer | -
+w004012.2 | builder | -
+w004012.3 | - | -
+w004013.1 | - | -
+w004013.2 | analysis, judgment | -
+w004014.1 | eminent, famous, celebrated, outstanding | unknown
+w004014.2 | dignified, elegant | -
+w004015.1 | measure | -
+w004015.2 | amount, portion | -
+w004015.3 | medicate | -
+w004016.1 | - | -
+w004016.2 | - | -
+w004018.1 | meat, muscle | -
+w004018.2 | pulp | -
+w004018.3 | develop, expand | -
+w004019.1 | turn over, flick | -
+w004019.2 | toss, flick | -
+w004019.3 | snap, lose it | -
+w004019.4 | somersault | -
+w004020.1 | - | -
+w004021.1 | kind, unselfish | mean, selfish
+w004021.2 | large, plentiful, ample | small
+w004021.3 | kind, tolerant | harsh
+w004024.1 | carry out, execute, apply | -
+w004024.2 | tool, utensil | -
+w004025.1 | - | -
+w004026.1 | faithful, devoted, true | disloyal
+w004027.1 | cannabis, weed, pot | -
+w004028.1 | psychologically | physically
+w004029.1 | job, profession, career, work | -
+w004029.2 | invasion, takeover | -
+w004029.3 | activity, pastime, hobby | -
+w004030.1 | rival, competitor, enemy | partner, ally
+w004030.2 | critic, enemy | supporter
+w004031.1 | area, spot, piece | -
+w004031.2 | - | -
+w004031.3 | fix, update | -
+w004031.4 | mend, repair, fix | -
+w004032.1 | tolerance, calm | impatience
+w004032.2 | solitaire | -
+w004033.1 | photo, picture | -
+w004034.1 | contamination | -
+w004035.1 | exactly, accurately, just | roughly
+w004035.2 | exactly, absolutely | -
+w004036.1 | convict, inmate | -
+w004036.2 | captive, hostage | -
+w004037.1 | right, advantage, benefit | -
+w004037.2 | honour, pleasure | -
+w004037.3 | favour | -
+w004038.1 | - | -
+w004038.2 | - | -
+w004038.3 | thug, hooligan | -
+w004039.1 | - | -
+w004040.1 | oppose, refuse, fight | accept
+w004040.2 | refuse, avoid | give in
+w004040.3 | fight, withstand, oppose | surrender
+w004041.1 | only, exclusively, purely, just | -
+w004042.1 | remarkable, noticeable, impressive | -
+w004042.2 | attractive, stunning, beautiful | plain
+w004042.3 | - | -
+w004043.1 | traveller, visitor, sightseer | local
+w004044.1 | transport, shipping | -
+w004044.2 | public transport | -
+w004044.3 | - | -
+w004045.1 | cottage | -
+w004047.1 | cordless | -
+w004047.2 | - | -
+w004047.3 | radio | -
+w004048.1 | cover, pack, wrap up | unwrap
+w004048.2 | wind, fold | -
+w004048.3 | - | -
+w004048.4 | shawl, scarf | -
+w004050.1 | - | -
+w004052.1 | - | -
+w004055.1 | public relations | -
+w004055.2 | - | -
+w004056.1 | take up, embrace, accept | abandon, reject
+w004056.2 | - | -
+w004056.3 | approve, accept, pass | reject
+w004057.1 | whenever | -
+w004057.2 | you're welcome | -
+w004058.1 | - | -
+w004059.1 | next to, by, alongside | -
+w004059.2 | compared to | -
+w004060.1 | edge | -
+w004060.2 | - | -
+w004060.3 | - | -
+w004061.1 | - | -
+w004061.2 | trunk | -
+w004061.3 | start | shut down
+w004061.4 | kick | -
+w004062.1 | majority, most | -
+w004062.2 | - | -
+w004062.3 | size, mass | -
+w004062.4 | wholesale | -
+w004063.1 | freight, goods, load | -
+w004064.1 | - | -
+w004065.1 | - | inland
+w004066.1 | - | -
+w004066.2 | invent, create | -
+w004067.1 | - | -
+w004067.2 | analysis, review | -
+w004068.1 | uncertainty, bewilderment | clarity
+w004068.2 | mistake | -
+w004068.3 | chaos, disorder, mess | order
+w004069.1 | - | -
+w004070.1 | maize | -
+w004070.2 | grain, cereal | -
+w004070.3 | - | -
+w004071.1 | - | -
+w004072.1 | trader, merchant, seller | -
+w004072.2 | pusher | -
+w004072.3 | - | -
+w004073.1 | fate, fortune, future | -
+w004074.1 | far, remote, faraway | near, close
+w004074.2 | cold, cool, aloof, reserved | warm, friendly
+w004074.3 | - | close
+w004075.1 | - | -
+w004075.2 | - | -
+w004076.1 | feeling, passion | -
+w004077.1 | stress, importance, focus | -
+w004077.2 | stress, accent | -
+w004078.1 | - | -
+w004078.2 | morality | -
+w004079.1 | thrill, enthusiasm, delight | boredom
+w004079.2 | thrill, adventure | -
+w004080.1 | discovery, survey, expedition | -
+w004080.2 | study, examination, investigation | -
+w004081.1 | stuffing | -
+w004081.2 | - | -
+w004081.3 | satisfying, heavy | light
+w004084.1 | - | -
+w004084.2 | design | -
+w004086.1 | wit, comedy | -
+w004086.2 | mood, temper | -
+w004086.3 | indulge, please | -
+w004087.1 | understanding, perception, wisdom | -
+w004089.1 | spoil, ruin, damage | improve
+w004091.1 | - | -
+w004091.2 | courage, bravery | -
+w004091.3 | anxiety, tension | calm
+w004093.1 | - | -
+w004093.2 | ordeal, disaster | dream
+w004094.1 | - | -
+w004094.2 | suddenly, instantly | gradually
+w004094.3 | - | -
+w004094.4 | sudden, instant | gradual
+w004095.1 | partly, somewhat | completely, fully
+w004096.1 | tart | -
+w004097.1 | notice, placard | -
+w004097.2 | - | -
+w004098.1 | almost, nearly, virtually | -
+w004098.2 | realistically, sensibly | theoretically
+w004099.1 | protect, keep, maintain, conserve | destroy
+w004099.2 | keep, cure, pickle | -
+w004099.3 | jam | -
+w004099.4 | domain, territory | -
+w004100.1 | pass | fail
+w004100.2 | entitle, enable | disqualify
+w004100.3 | limit, modify | -
+w004101.1 | attack, assault, strike | -
+w004101.2 | swoop, search | -
+w004101.3 | attack, loot | -
+w004102.1 | hit, smash | -
+w004102.2 | push, cram, stuff, force | -
+w004102.3 | - | ewe
+w004102.4 | memory | -
+w004103.1 | rank, position, rating | -
+w004103.2 | senior, leading | junior
+w004104.1 | own, individual, separate | -
+w004105.1 | limited | unlimited
+w004105.2 | private, secret | public
+w004107.1 | - | -
+w004107.2 | - | -
+w004108.1 | situation, case | -
+w004108.2 | script, plot, outline | -
+w004109.1 | - | -
+w004109.2 | follower | -
+w004110.1 | - | -
+w004110.2 | - | -
+w004113.1 | green | -
+w004113.2 | viable | unsustainable
+w004114.1 | cab | -
+w004114.2 | - | -
+w004115.1 | menacing, hostile | friendly
+w004115.2 | ominous, dark | -
+w004116.1 | - | -
+w004117.1 | track down, find, locate | lose
+w004117.2 | follow | -
+w004117.3 | copy, draw | -
+w004117.4 | sign, mark, trail | -
+w004117.5 | bit, touch, hint | -
+w004118.1 | stuck | free
+w004118.2 | stuck | free
+w004120.1 | painful, awkward | comfortable
+w004120.2 | uneasy, awkward, embarrassed | comfortable, relaxed
+w004121.1 | fault, flaw, weak point | strength
+w004121.2 | frailty | strength
+w004121.3 | fondness, liking, passion | -
+w004122.1 | common, general, extensive | rare, limited
+w004129.1 | available, reachable | inaccessible
+w004129.2 | understandable, approachable | -
+w004130.1 | admit, accept, recognize | deny
+w004130.2 | confirm | -
+w004130.3 | greet, recognize | ignore
+w004131.1 | consultative | -
+w004131.2 | warning, notice | -
+w004132.1 | cartoon | -
+w004132.2 | energy, liveliness, life | -
+w004133.1 | task, job, homework | -
+w004133.2 | allocation, appointment | -
+w004134.1 | even, stable | unbalanced
+w004134.2 | fair, impartial | biased
+w004135.1 | naked, nude | covered
+w004135.2 | empty, plain | full
+w004135.3 | basic, minimum, mere | -
+w004135.4 | uncover, expose, reveal | cover
+w004136.1 | cellar | attic
+w004137.1 | prejudice, partiality | fairness
+w004137.2 | distortion, tendency | -
+w004137.3 | influence, prejudice | -
+w004138.1 | call off, scrap, drop | -
+w004138.2 | stop, void | -
+w004139.1 | rug | -
+w004139.2 | blanket, layer | -
+w004139.3 | cover | -
+w004140.1 | - | floor
+w004140.2 | limit, cap, maximum | floor
+w004141.1 | - | -
+w004141.2 | - | -
+w004142.1 | cool, refrigerate | heat, warm
+w004142.2 | relax, chill out, hang out | -
+w004142.3 | coldness, cold | warmth
+w004142.4 | cold | -
+w004142.5 | cold, chilly | warm
+w004143.1 | grouping, categorization | -
+w004143.2 | category, class, grade | -
+w004144.1 | hint, sign, lead | -
+w004144.2 | inform | -
+w004146.1 | fall down, cave in | -
+w004146.2 | fail, break down, fold | -
+w004146.3 | faint, pass out | -
+w004146.4 | failure, breakdown, fall | -
+w004147.1 | mixture | element
+w004147.2 | enclosure | -
+w004147.3 | composite | simple
+w004147.4 | worsen, aggravate | -
+w004148.1 | aware | unaware
+w004148.2 | awake | unconscious
+w004148.3 | deliberate, intentional | unconscious
+w004149.1 | successive, continuous | -
+w004150.1 | outfit, disguise | -
+w004150.2 | dress, clothing | -
+w004150.3 | dress | -
+w004152.1 | loyal, loving, faithful | -
+w004152.2 | dedicated | -
+w004153.1 | - | -
+w004154.1 | infinite, unlimited, never-ending, constant | -
+w004155.1 | inspect, study, check, investigate | -
+w004155.2 | check | -
+w004155.3 | test | -
+w004157.1 | rubbish, trash, waste | -
+w004157.2 | nonsense, rubbish | -
+w004158.1 | - | -
+w004158.2 | - | -
+w004158.3 | truth | -
+w004159.1 | cereal, corn | -
+w004159.2 | particle, speck, bit | -
+w004159.3 | texture | -
+w004160.1 | network | -
+w004160.2 | network | -
+w004160.3 | - | -
+w004161.1 | - | -
+w004163.1 | ID | -
+w004163.2 | recognition, detection | -
+w004163.3 | empathy, sympathy | -
+w004164.1 | - | -
+w004164.2 | circuit, round | -
+w004164.3 | lick | -
+w004164.4 | wash, splash | -
+w004164.5 | - | -
+w004166.1 | - | -
+w004166.2 | - | -
+w004167.1 | subway, underground, tube | -
+w004167.2 | urban | rural
+w004168.1 | urban, city | rural
+w004168.2 | - | -
+w004168.3 | - | -
+w004169.1 | mix, blend, combination | -
+w004169.2 | mix, blend | -
+w004170.1 | - | -
+w004170.2 | - | -
+w004171.1 | - | -
+w004172.1 | - | -
+w004172.2 | - | -
+w004172.3 | obvious, clear, plain | -
+w004173.1 | view, impression, idea, belief | -
+w004173.2 | sense, awareness | -
+w004173.3 | insight, understanding | -
+w004174.1 | doctor | -
+w004175.1 | continue, go on, carry on | stop
+w004175.2 | go, advance, move | -
+w004175.3 | sue | -
+w004176.1 | - | -
+w004176.2 | shy, quiet, restrained | outgoing
+w004177.1 | bring back, return | -
+w004177.2 | repair, renovate, fix | -
+w004177.3 | return, give back | -
+w004178.1 | - | -
+w004178.2 | search, rummage | -
+w004179.1 | competitor, opponent, enemy | ally, partner
+w004179.2 | competing, opposing | -
+w004179.3 | match, equal | -
+w004180.1 | - | -
+w004180.2 | - | -
+w004180.3 | messenger | -
+w004182.1 | unfortunately | fortunately
+w004182.2 | unhappily | happily
+w004183.1 | importance, relevance | insignificance
+w004183.2 | meaning, sense | -
+w004184.1 | - | -
+w004184.2 | soap opera | -
+w004184.3 | - | -
+w004185.1 | sprinkle, splash, shower | -
+w004185.2 | - | -
+w004185.3 | - | -
+w004186.1 | anxious, tense, worried, nervous | relaxed, calm
+w004186.2 | - | unstressed
+w004187.1 | - | -
+w004188.1 | apartment | -
+w004188.2 | set | -
+w004188.3 | - | -
+w004189.1 | honestly | -
+w004190.1 | - | -
+w004190.2 | hot, humid | cold
+w004191.1 | - | -
+w004191.2 | - | -
+w004191.3 | - | -
+w004192.1 | needless, unneeded | necessary
+w004192.2 | excessive | -
+w004193.1 | poetry | prose
+w004193.2 | stanza | -
+w004193.3 | - | -
+w004194.1 | winner, champion | loser
+w004195.1 | classic, old | modern
+w004195.2 | - | -
+w004195.3 | - | -
+w004199.1 | acceptance | rejection
+w004199.2 | - | -
+w004200.1 | unnamed, unknown, nameless | -
+w004200.2 | faceless, characterless | -

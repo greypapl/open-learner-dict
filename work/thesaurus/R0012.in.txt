@@ -1,0 +1,1412 @@
+w023846.1 | colonisation | n. | 殖民, 殖民化 | the act of taking control of another country | colonization, settlement | decolonization
+w023847.1 | conferencing | n. | 会议, 电话会议 | holding meetings by phone or video | - | -
+w023848.1 | cornbread | n. | 玉米面包 | bread made from cornmeal | - | -
+w023854.1 | crudely | adv. | 粗略地, 简单地 | in a simple and not detailed way | roughly, simply | -
+w023854.2 | crudely | adv. | 粗鲁地, 粗俗地 | in a rude or offensive way | rudely, vulgarly, coarsely | -
+w023875.1 | emotionless | adj. | 无情感的, 冷漠的 | showing no feelings | unemotional, impassive, cold | emotional
+w023881.1 | expandable | adj. | 可扩展的, 可膨胀的 | able to be made larger | extendable | -
+w023895.1 | hairdo | n. | 发型 | the style of a person's hair | hairstyle, haircut | -
+w023927.1 | lunchbox | n. | 午餐盒 | a container for carrying a packed lunch | - | -
+w023930.1 | manmade | adj. | 人造的, 人工的 | made by people, not natural | artificial, synthetic | natural
+w023935.1 | motherly | adj. | 慈母般的, 母亲的 | kind and caring like a mother | maternal, caring, protective | -
+w023939.1 | nightstand | n. | 床头柜 | a small table beside a bed | bedside table | -
+w023941.1 | northernmost | adj. | 最北的 | furthest to the north | - | southernmost
+w023945.1 | outdo | v. | 胜过, 超过 | to do better than someone else | outshine, surpass, beat, outperform | -
+w023953.1 | pinkish | adj. | 略带粉色的 | slightly pink | - | -
+w023971.1 | rearview | adj. | 后视的 | allowing you to see behind a vehicle | - | -
+w023990.1 | standardize | v. | 使标准化, 统一 | to make things the same or of one standard | standardise, regularize | -
+w024013.1 | unblock | v. | 疏通, 解除阻塞 | to clear something that is blocked | unclog, clear | block
+w024013.2 | unblock | v. | 解除屏蔽 | to allow someone online to contact you again | - | block
+w024016.1 | unselfish | adj. | 无私的 | caring more about others than yourself | generous, selfless, kind | selfish
+w024060.1 | biofuel | n. | 生物燃料 | fuel made from plant or animal material | - | -
+w024076.1 | clickbait | n. | 标题党, 点击诱饵 | online content designed to attract clicks | - | -
+w024079.1 | comprehensible | adj. | 可理解的, 能懂的 | able to be understood | understandable, intelligible, clear | incomprehensible
+w024080.1 | condense | v. | 压缩, 精简 | to make something shorter or smaller | shorten, abridge, compress, summarize | expand
+w024080.2 | condense | v. | 冷凝, 凝结 | to change from gas into liquid | liquefy | evaporate
+w024080.3 | condense | v. | 使浓缩 | to make a liquid thicker | thicken, concentrate | dilute
+w024088.1 | dictation | n. | 听写 | writing down words that are spoken | - | -
+w024088.2 | dictation | n. | 口述, 命令 | saying words for someone else to write | - | -
+w024095.1 | earpiece | n. | 耳机, 听筒 | the part of a device held to or put in the ear | earphone | -
+w024099.1 | entitle | v. | 使有权利, 使有资格 | to give someone the right to do or have something | allow, permit, qualify | -
+w024099.2 | entitle | v. | 给题名 | to give a title to a book or work | title, name, call | -
+w024139.1 | joyfully | adv. | 高兴地, 快乐地 | in a very happy way | happily, gladly, cheerfully | sadly
+w024150.1 | lightbulb | n. | 灯泡 | the glass part of an electric light | bulb | -
+w024166.1 | mouthwash | n. | 漱口水 | a liquid for cleaning the mouth | - | -
+w024180.1 | overpopulation | n. | 人口过剩 | too many people living in an area | overcrowding | -
+w024181.1 | overshadow | v. | 使黯然失色 | to make something seem less important | eclipse, outshine, dwarf | -
+w024181.2 | overshadow | v. | 给蒙上阴影 | to make an event less happy | spoil, cloud, mar | -
+w024191.1 | pothole | n. | 坑洼, 路面坑 | a hole in the surface of a road | - | -
+w024191.2 | pothole | n. | 壶穴, 溶洞 | a deep natural hole in rock | - | -
+w024221.1 | spyware | n. | 间谍软件 | software that secretly collects user information | - | -
+w024223.1 | stepmom | n. | 继母 | a stepmother | stepmother | -
+w024232.1 | sympathise | v. | 同情 | to feel sorry for someone | sympathize, empathize | -
+w024232.2 | sympathise | v. | 赞同, 支持 | to support an idea or opinion | support, side with | oppose
+w024233.1 | synchronize | v. | 使同步 | to make things happen at the same time | coordinate, sync | -
+w024237.1 | teacup | n. | 茶杯 | a cup for drinking tea | - | -
+w024241.1 | thicken | v. | 使变稠, 变厚 | to become or make thicker | - | thin, dilute
+w024253.1 | unread | adj. | 未读的 | not yet read | - | -
+w024281.1 | artefact | n. | 人工制品, 手工艺品 | an object made by a person, especially historical | artifact, object, relic | -
+w024298.1 | carnation | n. | 康乃馨 | a flower with frilly pink, red or white petals | - | -
+w024328.1 | etcetera | adv. | 等等, 及其他 | and other similar things | - | -
+w024347.1 | grammatically | adv. | 语法上 | in a way relating to grammar | - | -
+w024348.1 | gramophone | n. | 留声机 | an old machine for playing records | record player, phonograph | -
+w024349.1 | gratefully | adv. | 感激地 | in a thankful way | thankfully, appreciatively | ungratefully
+w024353.1 | hibernate | v. | 冬眠 | to sleep through the winter | - | -
+w024362.1 | industrialisation | n. | 工业化 | the process of developing industries in a country | industrialization | -
+w024367.1 | interconnect | v. | 互相连接, 互连 | to connect with each other | link, connect | -
+w024368.1 | interviewee | n. | 被采访者, 面试者 | a person who is interviewed | - | interviewer
+w024384.1 | lawnmower | n. | 割草机 | a machine for cutting grass | mower | -
+w024398.1 | midair | n. | 半空中 | a point in the air above the ground | - | -
+w024400.1 | miscommunication | n. | 误解, 沟通不畅 | failure to communicate clearly | misunderstanding | -
+w024406.1 | muffler | n. | 消音器 | a device that reduces engine noise | silencer | -
+w024406.2 | muffler | n. | 围巾 | a warm scarf | scarf | -
+w024407.1 | neckline | n. | 领口, 领圈 | the shape of the edge of a garment at the neck | - | -
+w024408.1 | neuroscientist | n. | 神经科学家 | a scientist who studies the nervous system | - | -
+w024410.1 | nightmarish | adj. | 噩梦般的, 可怕的 | extremely frightening or unpleasant | horrific, horrible | -
+w024414.1 | northwards | adv. | 向北 | towards the north | northward, north | southwards
+w024418.1 | outermost | adj. | 最外面的, 最远的 | furthest from the centre | outer, outside | innermost
+w024419.1 | overheat | v. | 过热, 使过热 | to become or make too hot | - | -
+w024419.2 | overheat | v. | 经济过热 | to grow too fast causing inflation | - | -
+w024423.1 | passcode | n. | 密码, 口令 | a code of numbers or letters used to unlock something | password, PIN | -
+w024426.1 | photocopy | n. | 影印件, 复印件 | a photographic copy of a document | copy, duplicate | original
+w024426.2 | photocopy | v. | 复印, 影印 | to make a copy with a machine | copy, duplicate | -
+w024437.1 | racquet | n. | 球拍 | a bat with strings used in tennis and similar games | racket | -
+w024455.1 | sanitizer | n. | 消毒剂, 洗手液 | a liquid or gel used to kill germs | disinfectant | -
+w024462.1 | shockwave | n. | 冲击波 | a strong wave of pressure from an explosion | blast | -
+w024462.2 | shockwave | n. | 震动, 强烈影响 | a strong effect spreading through people | shock | -
+w024465.1 | slouch | v. | 懒散地坐, 无精打采地站 | to sit or stand with a lazy bent posture | slump, stoop, hunch | -
+w024465.2 | slouch | n. | 懒散的姿势 | a lazy bent posture | stoop, hunch | -
+w024467.1 | sneer | v. | 冷笑, 嘲笑 | to show contempt by smiling or speaking unkindly | scoff, mock, jeer | -
+w024467.2 | sneer | n. | 冷笑, 讥笑 | a contemptuous look or remark | jeer, smirk | -
+w024469.1 | sorrowful | adj. | 悲伤的, 哀伤的 | very sad | sad, mournful, unhappy | happy, joyful
+w024471.1 | stabilise | v. | 使稳定, 稳定 | to become or make steady | stabilize, steady | destabilize
+w024472.1 | stopover | n. | 中途停留 | a short stay during a long journey | layover, stop | -
+w024477.1 | tracksuit | n. | 运动服 | a loose top and trousers worn for sport | - | -
+w024480.1 | triplet | n. | 三胞胎之一 | one of three children born at the same birth | - | -
+w024480.2 | triplet | n. | 三连音 | a group of three notes played in the time of two | - | -
+w024481.1 | troublemaker | n. | 捣乱者, 惹事者 | a person who often causes trouble | agitator | peacemaker
+w024502.1 | waistline | n. | 腰围, 腰身 | the measurement around the waist | waist | -
+w024503.1 | weatherman | n. | 天气预报员 | a person who gives the weather forecast on TV or radio | forecaster | -
+w024507.1 | woolen | adj. | 羊毛的, 毛织的 | made of wool | woollen, wool | -
+w024507.2 | woolen | n. | 毛织品 | clothes made of wool | woollen | -
+w024508.1 | wristwatch | n. | 手表 | a watch worn on the wrist | watch | -
+w024531.1 | annoyingly | adv. | 恼人地, 令人讨厌地 | in a way that annoys you | irritatingly, infuriatingly | -
+w024541.1 | ballgame | n. | 棒球赛, 球赛 | a baseball game | - | -
+w024541.2 | ballgame | n. | 局面, 情况 | a situation | situation | -
+w024556.1 | capitalise | v. | 利用, 从中获利 | to take advantage of something | exploit, profit from | -
+w024556.2 | capitalise | v. | 用大写字母写 | to write with a capital letter | capitalize | -
+w024556.3 | capitalise | v. | 投资, 资本化 | to provide money for a business | finance, fund | -
+w024568.1 | cleverness | n. | 聪明, 机灵 | the quality of being clever | intelligence, brightness, ingenuity | stupidity
+w024570.1 | coder | n. | 程序员, 编码员 | a person who writes computer code | programmer, developer | -
+w024571.1 | coldly | adv. | 冷淡地, 冷漠地 | in an unfriendly way | coolly, frostily, icily | warmly
+w024576.1 | counterintuitive | adj. | 违反直觉的 | different from what you would expect | surprising, unexpected | intuitive
+w024580.1 | cyberbullying | n. | 网络欺凌 | bullying someone using the internet or phones | - | -
+w024586.1 | dietitian | n. | 营养师 | an expert on diet and nutrition | nutritionist | -
+w024596.1 | fabulously | adv. | 极其, 非常 | extremely | extremely, incredibly, wonderfully | -
+w024600.1 | firecracker | n. | 鞭炮, 爆竹 | a small firework that explodes loudly | firework, cracker, banger | -
+w024603.1 | frontrunner | n. | 领先者, 最有希望获胜者 | the person most likely to win | favourite, front-runner | underdog
+w024625.1 | hooligan | n. | 流氓, 足球流氓 | a violent young troublemaker | thug, lout, troublemaker, vandal | -
+w024636.1 | impurity | n. | 杂质 | a substance that makes something less pure | contaminant, pollutant | -
+w024636.2 | impurity | n. | 不纯, 不洁 | the state of not being pure | contamination, pollution | purity
+w024656.1 | lazily | adv. | 懒散地, 慢悠悠地 | in a slow relaxed or lazy way | idly, slowly, leisurely | energetically
+w024679.1 | minty | adj. | 薄荷味的 | tasting or smelling of mint | - | -
+w024680.1 | moldy | adj. | 发霉的 | covered with mould | mouldy, musty, rotten | fresh
+w024696.1 | oboe | n. | 双簧管 | a woodwind instrument with a double reed | - | -
+w024705.1 | overheads | n. | 经常费用, 管理费用 | regular business costs such as rent | overhead | -
+w024713.1 | personalize | v. | 个性化, 定制 | to make something suit a particular person | customize, tailor | -
+w024713.2 | personalize | v. | 针对个人 | to treat an issue as a personal matter | - | -
+w024717.1 | pollutant | n. | 污染物 | a substance that pollutes | contaminant, toxin | -
+w024721.1 | profitably | adv. | 有利地, 有益地 | in a way that makes a profit or is useful | lucratively, productively, usefully | unprofitably
+w024731.1 | recollect | v. | 回忆, 想起 | to remember something | remember, recall | forget
+w024757.1 | startle | v. | 使吃惊, 惊吓 | to suddenly surprise or frighten | surprise, shock, frighten, alarm | -
+w024765.1 | superfast | adj. | 超快的 | extremely fast | - | -
+w024767.1 | tablecloth | n. | 桌布 | a cloth that covers a table | - | -
+w024776.1 | tinned | adj. | 罐装的 | preserved in a tin | canned | fresh
+w024779.1 | transcribe | v. | 转录, 抄写 | to write down spoken words | write down, record | -
+w024779.2 | transcribe | v. | 改编 | to arrange music for another instrument | arrange | -
+w024785.1 | unconvincing | adj. | 不能令人信服的 | not making you believe something is true | unpersuasive, implausible, weak | convincing
+w024786.1 | uncooked | adj. | 生的, 未煮的 | not cooked | raw | -
+w024790.1 | unsurprising | adj. | 不足为奇的 | expected and not surprising | predictable, expected | surprising
+w024795.1 | wildflower | n. | 野花 | a flower that grows naturally | - | -
+w024826.1 | bathrobe | n. | 浴袍 | a loose robe worn after a bath | dressing gown, robe | -
+w024839.1 | carnivore | n. | 食肉动物 | an animal that eats meat | - | herbivore
+w024846.1 | collaboratively | adv. | 合作地 | by working together | jointly, cooperatively, together | -
+w024865.1 | easel | n. | 画架 | a wooden frame that holds a painting | - | -
+w024866.1 | eastwards | adv. | 向东 | towards the east | east, eastward | westwards
+w024880.1 | fearlessly | adv. | 无畏地 | without fear | bravely, boldly, courageously | fearfully
+w024901.1 | granddad | n. | 爷爷, 外公 | a grandfather | grandfather, grandpa | grandma
+w024910.1 | headmistress | n. | 女校长 | a woman who is head of a school | head teacher, principal | headmaster
+w024911.1 | headteacher | n. | 校长 | the head of a school | head, principal, headmaster | -
+w024941.1 | loudness | n. | 响度, 音量 | how loud a sound is | volume, noise | quietness, softness
+w024950.1 | misinterpretation | n. | 误解, 曲解 | the act of understanding something wrongly | misunderstanding, misreading | -
+w024951.1 | moorland | n. | 荒原, 沼泽地 | open high land covered with rough grass | moor, heath | -
+w024952.1 | naively | adv. | 天真地, 幼稚地 | in a way showing a lack of experience | innocently, credulously | -
+w024964.1 | oversize | adj. | 特大的, 超大号的 | bigger than the usual size | large, outsize | undersized
+w024965.1 | padlock | n. | 挂锁 | a small lock with a U-shaped bar | lock | -
+w024965.2 | padlock | v. | 用挂锁锁上 | to lock something with a small portable lock | lock | unlock
+w024971.1 | perspiration | n. | 汗, 出汗 | sweat or the process of sweating | sweat | -
+w024975.1 | pleaser | n. | 讨好者, 取悦者 | a person or thing that pleases others | - | -
+w024976.1 | poach | v. | 水煮, 煮荷包蛋 | to cook gently in simmering liquid | simmer | -
+w024976.2 | poach | v. | 偷猎, 偷捕 | to illegally catch animals on another's land | hunt | -
+w024976.3 | poach | v. | 挖走, 挖墙脚 | to take workers or players from a rival | lure, steal | -
+w024980.1 | prosecco | n. | 普罗塞克起泡酒 | a sparkling white wine from Italy | - | -
+w024983.1 | quicksand | n. | 流沙 | wet sand that sucks in anything on it | - | -
+w024984.1 | raincoat | n. | 雨衣 | a coat that keeps you dry in rain | - | -
+w024986.1 | refreshingly | adv. | 令人耳目一新地 | in a pleasantly new or different way | pleasantly | -
+w024987.1 | refrigerate | v. | 冷藏, 冷冻 | to keep food cold to preserve it | chill, cool | -
+w024994.1 | ricotta | n. | 意大利乳清干酪 | a soft white Italian cheese | - | -
+w025011.1 | snorkel | n. | 呼吸管 | a tube for breathing while swimming face down | - | -
+w025011.2 | snorkel | v. | 浮潜 | to swim using a breathing tube | - | -
+w025013.1 | songbird | n. | 鸣禽, 鸣鸟 | a bird that sings musically | - | -
+w025016.1 | splendidly | adv. | 极好地, 壮丽地 | in an excellent or impressive way | excellently, magnificently, superbly, wonderfully | badly
+w025023.1 | sustainably | adv. | 可持续地 | in a way that does not harm the environment | - | -
+w025032.1 | throb | v. | 抽痛, 阵痛 | to feel a regular beating pain | ache, pound, pulse | -
+w025032.2 | throb | v. | 跳动, 震动 | to beat or vibrate strongly and regularly | pulse, pound, beat, vibrate | -
+w025032.3 | throb | n. | 跳动, 搏动 | a strong regular beat | beat, pulse | -
+w025040.1 | transparently | adv. | 透明地, 公开地 | in an open and clear way | openly, clearly, honestly | -
+w025040.2 | transparently | adv. | 明显地 | in an obvious way | obviously, clearly | -
+w025044.1 | truckload | n. | 一卡车的量 | the amount a truck can carry | load | -
+w025044.2 | truckload | n. | 大量 | a large amount | lot, heap, mass | -
+w025049.1 | unmanageable | adj. | 难以控制的, 难管理的 | difficult or impossible to control | uncontrollable, unruly | manageable
+w002516.1 | miller | n. | 磨坊主, 面粉厂主 | a person who owns or runs a place that grinds grain | - | -
+w025071.1 | ably | adv. | 能干地, 出色地 | skilfully and competently | skilfully, competently, capably, well | badly
+w025103.1 | breaststroke | n. | 蛙泳 | a swimming stroke with frog-like leg movements | - | -
+w025120.1 | copier | n. | 复印机 | a machine that makes copies of documents | photocopier | -
+w025131.1 | disobedient | adj. | 不服从的, 不听话的 | refusing to do what you are told | naughty, defiant, rebellious, unruly | obedient
+w025132.1 | distantly | adv. | 远远地, 远亲地 | at a distance or not closely related | remotely, far | closely
+w025132.2 | distantly | adv. | 冷淡地 | in an unfriendly cool way | coldly, coolly | warmly
+w025135.1 | drowsiness | n. | 困倦, 睡意 | the state of feeling sleepy | sleepiness, tiredness | alertness
+w025137.1 | dumpling | n. | 饺子, 团子 | a small ball of dough cooked in liquid | - | -
+w025141.1 | ecologist | n. | 生态学家 | a scientist who studies ecology | - | -
+w025147.1 | enrol | v. | 注册, 登记, 入学 | to officially join a course or school | enroll, register, sign up, join | -
+w025153.1 | exhibitor | n. | 参展者, 展出者 | a person or company that shows things at an exhibition | - | -
+w025157.1 | fingertip | n. | 指尖 | the end of a finger | - | -
+w025158.1 | flavorful | adj. | 味道好的, 有滋味的 | full of flavour | tasty, flavourful | bland, tasteless
+w025167.1 | harmonize | v. | 协调, 使一致 | to make things fit together well | coordinate, reconcile, match | clash
+w025167.2 | harmonize | v. | 和声演唱 | to sing or play in harmony | - | -
+w025179.1 | jealously | adv. | 嫉妒地 | in an envious way | enviously | -
+w025179.2 | jealously | adv. | 小心守护地 | in a very protective way | protectively, carefully | -
+w025181.1 | jogger | n. | 慢跑者 | a person who runs slowly for exercise | runner | -
+w025191.1 | ladybug | n. | 瓢虫 | a small round beetle, red with black spots | ladybird | -
+w025194.1 | layover | n. | 中途停留 | a short stop on a long journey | stopover | -
+w025205.1 | matcha | n. | 抹茶 | powdered green tea from Japan | - | -
+w025206.1 | matchbox | n. | 火柴盒 | a small box for holding matches | - | -
+w025227.1 | outgrow | v. | 长得太大穿不下 | to grow too big for something | - | -
+w025227.2 | outgrow | v. | 因长大而放弃 | to stop doing something as you get older | grow out of | -
+w025234.1 | pessimist | n. | 悲观主义者 | a person who expects bad things to happen | cynic | optimist
+w025235.1 | physiotherapist | n. | 理疗师 | a person trained to treat injuries with exercise | physical therapist | -
+w025237.1 | podcasting | n. | 播客制作 | the making and publishing of podcasts | - | -
+w025246.1 | recyclable | adj. | 可回收利用的 | able to be recycled | reusable | disposable
+w025253.1 | rhythmically | adv. | 有节奏地 | with a regular repeated pattern | regularly, steadily | -
+w025264.1 | signer | n. | 签署人 | a person who signs a document | signatory | -
+w025264.2 | signer | n. | 手语翻译 | a person who uses sign language | - | -
+w025268.1 | skewer | n. | 烤肉扦, 串肉签 | a long thin pin for holding food while cooking | spit | -
+w025268.2 | skewer | v. | 用扦子串起 | to push a pointed stick through something | pierce, spear, impale | -
+w025276.1 | strangeness | n. | 奇怪, 陌生 | the quality of being unusual or unfamiliar | oddness, peculiarity, unfamiliarity | familiarity, normality
+w025295.1 | triumphantly | adv. | 得意洋洋地, 胜利地 | in a way that shows great joy at winning | victoriously, jubilantly, exultantly | -
+w025296.1 | trustworthiness | n. | 可信赖, 可靠 | the quality of being reliable and honest | reliability, honesty, integrity | untrustworthiness
+w025307.1 | unsympathetic | adj. | 无同情心的 | not showing pity or understanding | unfeeling, uncaring, cold, callous | sympathetic
+w025307.2 | unsympathetic | adj. | 不赞同的 | not supporting an idea | hostile, opposed | sympathetic
+w025319.1 | wirelessly | adv. | 无线地 | without using wires | - | -
+w003977.1 | phoenix | n. | 凤凰, 不死鸟 | a mythical bird that rises again from its ashes | - | -
+w003977.2 | phoenix | n. | 浴火重生者, 复兴之物 | something that returns successfully after seeming destroyed | - | -
+w025330.1 | alarmingly | adv. | 惊人地, 令人担忧地 | in a worrying way | worryingly, disturbingly, frighteningly | reassuringly
+w025343.1 | baldness | n. | 秃顶, 秃头 | the state of having little or no hair | hairlessness | -
+w025354.1 | bizarrely | adv. | 奇怪地, 古怪地 | in a very strange way | strangely, oddly, weirdly | -
+w025371.1 | coolly | adv. | 冷静地 | calmly and without emotion | calmly, composedly | -
+w025371.2 | coolly | adv. | 冷淡地 | in an unfriendly way | coldly, frostily, distantly | warmly
+w025392.1 | disconnection | n. | 断开, 切断 | the act of separating or cutting off a connection | separation, cut-off | connection
+w025392.2 | disconnection | n. | 隔阂, 脱节 | a lack of understanding between people | gap, distance | connection
+w025394.1 | dodgeball | n. | 躲避球 | a game in which players throw balls at each other | - | -
+w025397.1 | duckling | n. | 小鸭 | a young duck | - | -
+w025401.1 | engulf | v. | 吞没, 淹没 | to surround and cover completely | swamp, overwhelm, swallow, envelop | -
+w025401.2 | engulf | v. | 使陷入, 笼罩 | to affect someone strongly | overwhelm, consume | -
+w025405.1 | excavate | v. | 发掘, 挖掘 | to dig in the ground to find old objects | dig, unearth, uncover | bury
+w025405.2 | excavate | v. | 挖, 开凿 | to dig a hole or remove earth | dig, dig out, hollow | fill
+w025414.1 | filename | n. | 文件名 | the name of a computer file | - | -
+w025426.1 | gravestone | n. | 墓碑 | a stone marking a grave | headstone, tombstone | -
+w025431.1 | hoarse | adj. | 嘶哑的, 沙哑的 | sounding rough because of a sore throat | husky, rough, croaky, gruff | clear
+w025447.1 | intercity | adj. | 城际的 | travelling between cities | - | -
+w025457.1 | ladle | n. | 长柄勺 | a large deep spoon for serving soup | scoop | -
+w025457.2 | ladle | v. | 舀 | to serve liquid with a large spoon | scoop, spoon, serve | -
+w025459.1 | laundromat | n. | 自助洗衣店 | a shop with coin-operated washing machines | launderette | -
+w025462.1 | lentil | n. | 小扁豆 | a small round dried seed cooked in soups | - | -
+w025499.1 | paracetamol | n. | 对乙酰氨基酚, 扑热息痛 | a common medicine for pain and fever | acetaminophen | -
+w025500.1 | participle | n. | 分词 | a verb form ending in -ing or -ed | - | -
+w025535.1 | sardine | n. | 沙丁鱼 | a small sea fish often sold in cans | - | -
+w025565.1 | tradeoff | n. | 权衡, 取舍 | a balance between two competing things | trade-off, compromise, balance | -
+w025575.1 | unaffordable | adj. | 负担不起的 | too expensive to pay for | expensive, prohibitive | affordable
+w025581.1 | urbanisation | n. | 城市化 | the growth of towns and cities | urbanization | -
+w025584.1 | veganism | n. | 严格素食主义 | the practice of eating no animal products | - | -
+w025588.1 | waistcoat | n. | 马甲, 背心 | a sleeveless jacket worn over a shirt | vest | -
+w025590.1 | wheelbarrow | n. | 独轮手推车 | a small cart with one wheel and two handles | barrow | -
+w025610.1 | americano | n. | 美式咖啡 | espresso coffee diluted with hot water | - | -
+w025617.1 | backstroke | n. | 仰泳 | a swimming stroke done on your back | - | -
+w025642.1 | clench | v. | 握紧, 咬紧 | to close the hand or teeth tightly | grip, clutch, tighten, clamp | relax, unclench
+w025651.1 | courageously | adv. | 勇敢地 | in a brave way | bravely, boldly, fearlessly, heroically | cowardly
+w025657.1 | dandruff | n. | 头皮屑 | small pieces of dead skin in the hair | - | -
+w025666.1 | disturbingly | adv. | 令人不安地 | in a worrying or upsetting way | worryingly, alarmingly | reassuringly
+w025668.1 | doorknob | n. | 门把手 | a round handle for opening a door | knob, handle | -
+w025673.1 | easygoing | adj. | 随和的, 脾气好的 | relaxed and not easily worried | relaxed, laid-back, easy-going | uptight
+w025694.1 | gigabyte | n. | 千兆字节 | about one billion bytes of data | - | -
+w025702.1 | greyish | adj. | 浅灰色的, 带灰色的 | slightly grey | - | -
+w025705.1 | haggle | v. | 讨价还价 | to argue about the price of something | bargain, negotiate, barter | -
+w025707.1 | handicraft | n. | 手工艺, 手工艺品 | skilled work made by hand | craft, handiwork | -
+w025710.1 | headscarf | n. | 头巾 | a scarf worn over the head | - | -
+w025723.1 | jeweller | n. | 珠宝商 | a person who sells or makes jewellery | jeweler | -
+w025768.1 | overhear | v. | 偶然听到, 无意中听到 | to hear what others say without them knowing | eavesdrop | -
+w025772.1 | paralyze | v. | 使瘫痪 | to make someone unable to move | immobilize, disable, paralyse | -
+w025772.2 | paralyze | v. | 使陷入瘫痪 | to stop something from working normally | cripple, freeze, halt | -
+w025839.1 | thermos | n. | 保温瓶 | a container that keeps drinks hot or cold | flask | -
+w025876.1 | adaptor | n. | 适配器, 转接头 | a device that connects different pieces of equipment | adapter, converter | -
+w025892.1 | aspirational | adj. | 有抱负的, 渴望成功的 | wanting to achieve success or a better life | ambitious, aspiring | -
+w025892.2 | aspirational | adj. | 令人向往的 | making people want to have or be something | - | -
+w025894.1 | automaker | n. | 汽车制造商 | a company that makes cars | carmaker, manufacturer | -
+w025895.1 | autonomously | adv. | 自主地, 独立地 | without being controlled by others | independently | -
+w025898.1 | backpacker | n. | 背包旅行者 | a person who travels cheaply carrying a backpack | traveller | -
+w025905.1 | bedridden | adj. | 卧床不起的 | having to stay in bed because of illness | confined | -
+w025907.1 | birding | n. | 观鸟 | watching wild birds as a hobby | - | -
+w025917.1 | centrepiece | n. | 核心, 最重要部分 | the most important or attractive part of something | highlight, focus, focal point | -
+w025917.2 | centrepiece | n. | 餐桌中央装饰 | a decoration in the middle of a table | - | -
+w025919.1 | characterise | v. | 描述, 刻画 | to describe the qualities of something | describe, portray, depict | -
+w025919.2 | characterise | v. | 成为特征 | to be typical of something | distinguish, mark, typify | -
+w025921.1 | choc | n. | 巧克力 | chocolate | chocolate | -
+w025927.1 | coldness | n. | 寒冷 | the state of being cold | chill, coolness | warmth, heat
+w025927.2 | coldness | n. | 冷淡, 冷漠 | lack of friendly feeling | coolness, unfriendliness, frostiness | warmth, friendliness
+w025928.1 | coleslaw | n. | 凉拌卷心菜 | a salad of chopped raw cabbage with mayonnaise | - | -
+w025932.1 | contemptuous | adj. | 鄙视的, 轻蔑的 | showing that you have no respect for someone | scornful, disdainful, dismissive | respectful
+w025935.1 | countertop | n. | 厨房台面 | a flat work surface in a kitchen | worktop, counter | -
+w025941.1 | dachshund | n. | 腊肠犬 | a small dog with a long body and short legs | - | -
+w025953.1 | doze | v. | 打瞌睡, 小睡 | to sleep lightly for a short time | nap, snooze, drowse | wake
+w025953.2 | doze | n. | 瞌睡, 小睡 | a short light sleep | nap, snooze, siesta | -
+w025959.1 | escapism | n. | 逃避现实 | activity that helps you forget real life | fantasy | realism
+w025963.1 | falafel | n. | 炸豆丸子 | fried balls of crushed chickpeas | - | -
+w025972.1 | flagpole | n. | 旗杆 | a tall pole for flying a flag | flagstaff | -
+w025986.1 | gumball | n. | 口香糖球 | a small hard round piece of chewing gum | - | -
+w025987.1 | hairdressing | n. | 美发业, 理发 | the job of cutting and styling hair | - | -
+w025991.1 | heartbreaker | n. | 令人心碎的人 | an attractive person who makes others fall in love | - | -
+w026000.1 | hyphen | n. | 连字符 | the short line used to join words | dash | -
+w026001.1 | igloo | n. | 冰屋 | a dome-shaped house made of blocks of snow | - | -
+w026010.1 | interdependent | adj. | 相互依赖的 | depending on each other | mutual | independent
+w026067.1 | pacifier | n. | 奶嘴 | a rubber object for a baby to suck | dummy | -
+w026072.1 | perfumed | adj. | 香的, 洒了香水的 | having a pleasant smell | scented, fragrant | smelly
+w026102.1 | ripen | v. | 成熟, 使成熟 | to become or make ripe | mature, develop | -
+w026105.1 | rucksack | n. | 背包, 帆布包 | a bag carried on your back | backpack | -
+w026112.1 | schoolyard | n. | 校园操场 | an outdoor area where children play at school | playground | -
+w026113.1 | seafront | n. | 海滨区 | the part of a town next to the sea | beachfront, promenade | -
+w026115.1 | selfishly | adv. | 自私地 | in a way that thinks only of yourself | - | unselfishly
+w026125.1 | sorbet | n. | 冰沙, 果汁冰糕 | a frozen dessert made from fruit and sugar | sherbet | -
+w026132.1 | straightaway | adv. | 立即, 马上 | immediately | immediately, at once, right away, straight away | later
+w026132.2 | straightaway | n. | 直道 | a straight part of a road or track | straight | -
+w026133.1 | strainer | n. | 滤网, 过滤器 | a kitchen tool for separating liquid from solids | sieve, colander | -
+w026135.1 | sudoku | n. | 数独 | a number puzzle in a nine by nine grid | - | -
+w026140.1 | tambourine | n. | 铃鼓 | a small drum with metal discs around the edge | - | -
+w026147.1 | tiptoe | v. | 踮着脚走 | to walk quietly on your toes | creep, sneak | stomp
+w026147.2 | tiptoe | n. | 脚尖 | the tips of your toes | - | -
+w026154.1 | unbearably | adv. | 难以忍受地 | in a way too bad to accept | intolerably, insufferably | bearably
+w026172.1 | workaholic | n. | 工作狂 | a person who works too much | - | -
+w026178.1 | addon | n. | 附加组件, 附件 | an extra part added to something | extra, extension | -
+w026189.1 | applesauce | n. | 苹果酱 | a sauce made of cooked apples | - | -
+w026205.1 | blankly | adv. | 茫然地, 无表情地 | without showing understanding or feeling | vacantly, expressionlessly, emptily | -
+w026216.1 | checkbook | n. | 支票簿 | a book of cheques | chequebook | -
+w026222.1 | closeup | n. | 特写镜头 | a photograph taken from very near | close-up | -
+w026225.1 | competently | adv. | 称职地, 胜任地 | in a capable way | capably, ably, skilfully, efficiently | incompetently
+w026232.1 | crosswalk | n. | 人行横道 | a marked place to cross a street | zebra crossing, crossing | -
+w026237.1 | decaf | n. | 无咖啡因咖啡 | coffee without caffeine | - | -
+w026254.1 | dumbbell | n. | 哑铃 | a short bar with weights for exercise | - | -
+w026264.1 | emigrant | n. | 移民, 移居外国者 | a person who leaves their country to live elsewhere | migrant, expatriate | immigrant
+w026271.1 | fiftieth | num. | 第五十 | number fifty in order | - | -
+w026272.1 | footbridge | n. | 人行桥 | a bridge for people walking | - | -
+w026274.1 | fume | v. | 发怒, 生气 | to be very angry | seethe, rage, boil | -
+w026274.2 | fume | n. | 烟气 | strong unpleasant gas or smoke | smoke, gas, exhaust | -
+w026278.1 | gaslight | v. | 对人进行心理操控 | to manipulate someone into doubting their own mind | manipulate | -
+w026278.2 | gaslight | n. | 煤气灯 | light from burning gas | - | -
+w026309.1 | impulsively | adv. | 冲动地 | without thinking first | spontaneously, rashly, hastily | cautiously
+w026370.1 | omelet | n. | 煎蛋卷 | beaten eggs fried in a pan | omelette | -
+w026373.1 | paella | n. | 西班牙海鲜饭 | a Spanish dish of rice, seafood and meat | - | -
+w026374.1 | pager | n. | 寻呼机 | a small device that receives messages | beeper | -
+w026438.1 | thickly | adv. | 厚厚地 | in a thick layer | heavily | thinly
+w026438.2 | thickly | adv. | 浓密地 | closely together | densely, closely | sparsely, thinly
+w026450.1 | typist | n. | 打字员 | a person whose job is typing | - | -
+w026511.1 | brainy | adj. | 聪明的 | very intelligent | clever, smart, intelligent, bright | stupid, dumb
+w026535.1 | counterclockwise | adv. | 逆时针地 | in the opposite direction to clock hands | anticlockwise | clockwise
+w026535.2 | counterclockwise | adj. | 逆时针的 | moving opposite to clock hands | anticlockwise | clockwise
+w026544.1 | devastate | v. | 摧毁, 毁坏 | to destroy or damage badly | destroy, ruin, wreck, ravage | -
+w026544.2 | devastate | v. | 使极度悲痛 | to make someone extremely sad | shatter, crush, overwhelm | -
+w026582.1 | handcuff | v. | 给戴手铐 | to put handcuffs on someone | cuff, shackle | -
+w026582.2 | handcuff | n. | 手铐 | metal rings for locking wrists | - | -
+w026597.1 | impolite | adj. | 不礼貌的 | rude | rude, discourteous | polite
+w026645.1 | mobilise | v. | 动员, 调动 | to organize people or resources for action | mobilize, organize, rally | -
+w026658.1 | paintbrush | n. | 画笔, 漆刷 | a brush for painting | brush | -
+w026662.1 | preposition | n. | 介词 | a word like in or on before a noun | - | -
+w026669.1 | quiche | n. | 法式蛋饼 | a pastry case filled with eggs and cheese | - | -
+w026670.1 | rainstorm | n. | 暴风雨 | a storm with heavy rain | downpour, storm | -
+w026700.1 | slowness | n. | 缓慢 | the quality of being slow | sluggishness | quickness, speed
+w026705.1 | stewardess | n. | 女乘务员, 空姐 | a woman who serves passengers on a plane | air hostess, flight attendant | steward
+w026724.1 | turtleneck | n. | 高领毛衣 | a sweater with a high close collar | polo neck | -
+w026743.1 | weeknight | n. | 工作日晚上 | an evening of a weekday | - | -
+w026776.1 | birdsong | n. | 鸟鸣 | the musical sounds of birds | - | -
+w026786.1 | businesspeople | n. | 商界人士 | people who work in business | - | -
+w026854.1 | grimace | n. | 鬼脸, 怪相 | an ugly expression showing pain or disgust | scowl, frown, wince | smile
+w026854.2 | grimace | v. | 做鬼脸, 面部扭曲 | to twist your face in pain or disgust | scowl, frown, wince | smile
+w026855.1 | groggy | adj. | 昏昏沉沉的, 头昏眼花的 | weak and unable to think clearly | dazed, woozy, drowsy, sleepy | alert
+w026881.1 | immigrate | v. | 移居入境, 移民 | to come to live permanently in a foreign country | migrate, settle | emigrate
+w026899.1 | kerb | n. | 路缘, 路边石 | the stone edge between a pavement and road | curb | -
+w026906.1 | lengthwise | adv. | 纵向地, 沿长度方向 | in the direction of the longest side | lengthways | crosswise
+w026906.2 | lengthwise | adj. | 纵向的 | going along the longest side | longitudinal | -
+w026915.1 | materialist | n. | 物质主义者, 唯物主义者 | a person who values money and possessions most | - | idealist
+w026915.2 | materialist | adj. | 物质主义的, 唯物论的 | relating to materialism | materialistic | -
+w026924.1 | miscalculation | n. | 误算, 失算, 判断错误 | a mistake in calculating or judging something | misjudgement, mistake, error | -
+w026930.1 | multicolored | adj. | 多色的, 五颜六色的 | having many different colours | multicoloured, colourful | -
+w026945.1 | obliging | adj. | 乐于助人的, 热心的 | willing to help | helpful, willing, kind | unhelpful
+w026955.1 | peculiarly | adv. | 特别地, 格外 | especially or particularly | especially, particularly | -
+w026955.2 | peculiarly | adv. | 奇怪地, 古怪地 | in a strange or unusual way | strangely, oddly, curiously | normally
+w026959.1 | phenomenally | adv. | 非凡地, 惊人地 | to an extremely great degree | extraordinarily, incredibly, tremendously | -
+w026969.1 | pullover | n. | 套头毛衣, 套衫 | a knitted sweater that you pull over your head | sweater, jumper | -
+w026977.1 | repaint | v. | 重新粉刷, 重画 | to paint something again | - | -
+w026995.1 | serviceman | n. | 军人, 男兵 | a man who serves in the armed forces | soldier | civilian
+w026999.1 | shortsighted | adj. | 目光短浅的, 短视的 | not thinking about future effects | imprudent | farsighted
+w026999.2 | shortsighted | adj. | 近视的 | unable to see distant things clearly | myopic | -
+w027010.1 | storeroom | n. | 储藏室, 库房 | a room used for storing things | stockroom | -
+w027028.1 | undoubted | adj. | 无疑的, 确实的 | certainly true or real | unquestionable, certain, undeniable | doubtful
+w027031.1 | untidy | adj. | 不整洁的, 凌乱的 | not neat or in order | messy, disorderly | tidy, neat
+w027036.1 | washable | adj. | 可洗的, 耐洗的 | able to be washed without damage | - | -
+w027042.1 | wince | v. | 皱眉蹙额, 畏缩 | to make a sudden face showing pain or embarrassment | flinch, grimace | -
+w027042.2 | wince | n. | 龇牙咧嘴的表情 | a sudden expression of pain | grimace | -
+w027076.1 | briskly | adv. | 轻快地, 敏捷地 | quickly and with energy | quickly, swiftly, energetically, rapidly | slowly
+w027095.1 | clumsily | adv. | 笨拙地, 不得体地 | in an awkward or careless way | awkwardly, gawkily | gracefully
+w027098.1 | cofounder | n. | 联合创始人 | one of the people who start an organization together | - | -
+w027125.1 | fairground | n. | 露天游乐场, 集市场地 | an outdoor area for fairs and rides | funfair | -
+w027127.1 | fatherly | adj. | 父亲般的, 慈祥的 | kind and protective like a father | paternal, protective | -
+w027128.1 | faultless | adj. | 完美的, 无可挑剔的 | having no mistakes or faults | perfect, flawless, impeccable | faulty
+w027144.1 | halve | v. | 把减半, 对半分 | to reduce or divide something into two equal parts | divide, split | double
+w027160.1 | inadequately | adv. | 不充分地, 不恰当地 | not enough or not good enough | insufficiently, poorly | adequately
+w027197.1 | millimetre | n. | 毫米 | a unit of length equal to 0.001 metre | millimeter | -
+w027200.1 | misinterpret | v. | 误解, 曲解 | to understand something wrongly | misunderstand, misread | -
+w027211.1 | newsreader | n. | 新闻播音员 | a person who reads the news on TV or radio | newscaster, anchor | -
+w027216.1 | optimise | v. | 优化, 使最优化 | to make something as good as possible | optimize, perfect, improve | -
+w027235.1 | productively | adv. | 富有成效地, 有效地 | in a way that achieves a lot | efficiently, usefully | unproductively
+w027246.1 | reheat | v. | 重新加热 | to heat cooked food again | warm up | -
+w027270.1 | socialise | v. | 交际, 社交 | to meet and spend time with people | socialize, mix, mingle | -
+w027270.2 | socialise | v. | 使社会化 | to teach someone to behave acceptably | socialize | -
+w027273.1 | speedometer | n. | 速度表, 车速计 | a device showing how fast a vehicle goes | - | -
+w027276.1 | submerge | v. | 浸没, 淹没 | to put or go under water | sink, immerse, dip, plunge | surface
+w027276.2 | submerge | v. | 掩盖, 埋没 | to hide feelings or ideas | suppress, bury, hide | -
+w027278.1 | summarise | v. | 总结, 概括 | to give the main points briefly | summarize, sum up, outline | -
+w027302.1 | vegetarianism | n. | 素食主义 | the practice of not eating meat | - | -
+w027338.1 | appetizing | adj. | 开胃的, 诱人的 | looking or smelling good to eat | tasty, delicious | unappetizing
+w027367.1 | carpark | n. | 停车场 | an area or building for parking cars | car park, parking lot | -
+w027417.1 | fastener | n. | 扣件, 紧固件 | a device such as a button or clip that closes something | clip, clasp, catch | -
+w027437.1 | grownup | n. | 成年人, 大人 | an adult | adult, grown-up | child
+w027437.2 | grownup | adj. | 成熟的, 成年人的 | adult or mature | mature, adult, grown-up | childish
+w027441.1 | heaviness | n. | 沉重, 重量 | the state of being heavy | weight, heftiness | lightness
+w027441.2 | heaviness | n. | 郁闷, 沉闷 | a feeling of sadness or tiredness | sadness, sluggishness, gloom | lightness
+w027478.1 | marinate | v. | 腌泡, 浸泡 | to soak food in a sauce before cooking | marinade, soak | -
+w027487.1 | millisecond | n. | 毫秒 | one thousandth of a second | - | -
+w027520.1 | printout | n. | 打印输出, 打印件 | a printed copy from a computer | hard copy | -
+w027522.1 | proofread | v. | 校对, 校读 | to read text and correct mistakes | check, correct, edit | -
+w027531.1 | repairman | n. | 修理工 | a man whose job is to repair things | repairer, mechanic, technician | -
+w027532.1 | rescuer | n. | 救援者, 营救者 | a person who saves someone from danger | saviour, savior | -
+w027567.1 | sternly | adv. | 严厉地, 严肃地 | in a serious and strict way | strictly, severely, harshly | gently, kindly
+w027568.1 | stopwatch | n. | 秒表, 跑表 | a watch used to time races exactly | timer | -
+w027580.1 | tactful | adj. | 圆通的, 得体的 | careful not to upset people | diplomatic, sensitive, discreet | tactless
+w027591.1 | toenail | n. | 脚趾甲 | the nail on a toe | - | -
+w027632.1 | yoyo | n. | 溜溜球 | a toy that goes up and down a string | - | -
+w027632.2 | yoyo | v. | 起伏不定 | to go up and down repeatedly | fluctuate | -
+w027665.1 | bookworm | n. | 书呆子, 书迷 | a person who loves reading | reader | -
+w027684.1 | chatroom | n. | 聊天室 | an online space where people chat in real time | - | -
+w027714.1 | diplomatically | adv. | 策略地, 圆滑地 | in a tactful way | tactfully, politely | tactlessly
+w027714.2 | diplomatically | adv. | 外交上 | in a way relating to diplomacy | - | -
+w027739.1 | flowchart | n. | 流程图 | a diagram showing the steps of a process | flow chart | -
+w027757.1 | healthily | adv. | 健康地 | in a healthy way | - | unhealthily
+w027772.1 | irrigate | v. | 灌溉 | to supply water to land or crops | water | -
+w027772.2 | irrigate | v. | 冲洗伤口 | to wash a wound with liquid | wash, rinse, flush | -
+w027785.1 | lodger | n. | 房客, 寄宿者 | a person who pays to live in someone's home | boarder, tenant | landlord
+w027813.1 | newsstand | n. | 报摊 | a stall that sells newspapers and magazines | kiosk, newsagent | -
+w027849.1 | riverbed | n. | 河床 | the ground at the bottom of a river | bed | -
+w027861.1 | solvable | adj. | 可解决的 | able to be solved | soluble | unsolvable
+w027864.1 | southwards | adv. | 向南 | towards the south | south, southward | northwards
+w027865.1 | spanner | n. | 扳手 | a tool for turning nuts | wrench | -
+w027867.1 | specialisation | n. | 专业化, 专长 | the act of focusing on one area | specialization | -
+w027880.1 | tomcat | n. | 公猫, 雄猫 | a male cat | - | -
+w027883.1 | unappreciated | adj. | 未受赏识的, 不被重视的 | not valued or thanked as much as deserved | unrecognized | -
+w027884.1 | uncaring | adj. | 冷漠的, 不关心他人的 | not caring about the feelings of others | unfeeling, heartless, callous, cold | caring
+w027885.1 | uncharacteristic | adj. | 不典型的, 反常的 | not typical of someone or something | untypical, unusual, atypical | characteristic
+w027887.1 | undercooked | adj. | 未煮熟的, 夹生的 | not cooked enough | underdone, raw | -
+w027889.1 | usefully | adv. | 有用地, 有效地 | in a way that is helpful | helpfully, productively, constructively | uselessly
+w027890.1 | vagueness | n. | 含糊, 模糊 | the quality of not being clear | ambiguity, obscurity | clarity
+w027893.1 | vocab | n. | 词汇 | vocabulary | vocabulary | -
+w027900.1 | workweek | n. | 工作周 | the days or hours worked in a week | working week | -
+w000799.1 | considered | adj. | 经过深思熟虑的, 慎重的 | carefully thought about | deliberate, careful, thoughtful | hasty
+w027935.1 | busily | adv. | 忙碌地, 繁忙地 | in a busy way | actively, energetically | idly
+w027945.1 | charmingly | adv. | 迷人地, 可爱地 | in a pleasant attractive way | delightfully, pleasantly, sweetly | -
+w027968.1 | disgustingly | adv. | 令人恶心地 | in a very unpleasant way | revoltingly, horribly, repulsively | -
+w027968.2 | disgustingly | adv. | 过分地, 让人眼红地 | extremely, often causing envy | extremely, sickeningly | -
+w027990.1 | extrovert | n. | 外向的人 | a lively confident person who likes company | - | introvert
+w027990.2 | extrovert | adj. | 外向的 | outgoing and sociable | outgoing, sociable | introvert
+w028032.1 | inaccurately | adv. | 不准确地, 错误地 | in a way that is not correct | incorrectly, wrongly | accurately
+w028036.1 | infinitive | n. | 不定式 | the basic form of a verb | - | -
+w028148.1 | shortcoming | n. | 缺点, 短处 | a fault or weakness | fault, weakness, flaw, defect | strength
+w028261.1 | daffodil | n. | 黄水仙 | a yellow spring flower with a trumpet shape | - | -
+w028269.1 | dustbin | n. | 垃圾桶 | a large container for household rubbish | bin, trash can, garbage can | -
+w028315.1 | hippopotamus | n. | 河马 | a large African animal living near rivers | hippo | -
+w028454.1 | timezone | n. | 时区 | a region using the same standard time | time zone | -
+w028466.1 | unhappily | adv. | 不高兴地 | in an unhappy way | sadly, miserably | happily
+w028466.2 | unhappily | adv. | 不幸地 | unfortunately | unfortunately, sadly | fortunately, happily
+w028470.1 | unwrap | v. | 打开, 拆开 | to remove the paper around something | open, undo | wrap
+w003288.1 | gen | n. | 代, 一代 | short for generation, as in Gen Z | generation | -
+w003288.2 | gen | n. | 信息, 资料 | information | information, info | -
+w028492.1 | adverb | n. | 副词 | a word that describes a verb or adjective | - | -
+w028524.1 | centimetre | n. | 厘米 | a unit of length equal to one hundredth of a metre | centimeter | -
+w028665.1 | nightgown | n. | 睡袍, 女式睡衣 | a loose dress worn in bed | nightdress, nightie | -
+w028686.1 | pillowcase | n. | 枕套 | a cloth cover for a pillow | pillowslip | -
+w028716.1 | screensaver | n. | 屏幕保护程序 | a moving image shown when a computer is idle | - | -
+w028746.1 | thousandth | num. | 第一千 | coming after 999 others | - | -
+w028746.2 | thousandth | n. | 千分之一 | one of a thousand equal parts | - | -
+w028762.1 | unzip | v. | 拉开拉链 | to open a zip | open | zip
+w028762.2 | unzip | v. | 解压缩 | to decompress a computer file | decompress, extract | zip, compress
+w028766.1 | visualise | v. | 想象, 设想 | to form a picture in the mind | visualize, imagine, picture, envisage | -
+w028836.1 | cynically | adv. | 愤世嫉俗地, 冷嘲地, 怀疑地 | in a way that distrusts people's motives | sceptically, distrustfully | -
+w028839.1 | denture | n. | 假牙, 义齿 | a set of artificial teeth | false teeth | -
+w028862.1 | fertilisation | n. | 受精, 施肥 | the joining of egg and sperm or adding fertilizer | fertilization | -
+w028863.1 | festivity | n. | 庆祝活动, 欢庆, 喜庆 | celebration and enjoyment | celebration, festival, merrymaking | -
+w028864.1 | flatmate | n. | 合租室友 | a person who shares a flat with you | roommate | -
+w028867.1 | funder | n. | 资助者, 出资方 | a person or group that provides money | sponsor, backer, investor | -
+w028883.1 | handbrake | n. | 手刹 | a brake operated by hand in a car | parking brake | -
+w028890.1 | helpfully | adv. | 有帮助地, 热心地 | in a useful or kind way | usefully, kindly, obligingly | unhelpfully
+w028894.1 | homeroom | n. | 班级教室, 班会时间 | a classroom where students meet daily | - | -
+w028895.1 | honeybee | n. | 蜜蜂 | a bee that makes honey | bee | -
+w028898.1 | hovercraft | n. | 气垫船 | a vehicle that travels on a cushion of air | - | -
+w028900.1 | hypnotize | v. | 催眠, 使着迷 | to put someone into a sleeplike state | hypnotise, mesmerize | -
+w028909.1 | intranet | n. | 内部网 | a private computer network within an organization | - | -
+w028930.1 | ladybird | n. | 瓢虫 | a small red beetle with black spots | ladybug | -
+w028975.1 | policewoman | n. | 女警察 | a female police officer | police officer | -
+w028978.1 | potluck | n. | 百乐餐, 自带菜聚餐 | a meal where each guest brings food | - | -
+w028978.2 | potluck | adj. | 碰运气的 | chosen by chance | random | -
+w029026.1 | studious | adj. | 好学的, 勤奋的 | spending a lot of time studying | diligent, scholarly, bookish | lazy
+w029093.1 | ballpoint | n. | 圆珠笔 | a pen with a small ball at the tip | biro | -
+w029130.1 | colonist | n. | 殖民者, 移民 | a person who settles in a colony | settler, pioneer | native
+w029191.1 | handlebar | n. | 车把 | the bar used to steer a bicycle | - | -
+w029221.1 | lasagne | n. | 千层面 | a dish of flat pasta layers | lasagna | -
+w029223.1 | letterbox | n. | 信箱, 信件投递口 | a slot in a door for letters | mailbox, postbox | -
+w029241.1 | milkman | n. | 送奶工 | a man who delivers milk | - | -
+w029249.1 | muggy | adj. | 闷热潮湿的 | unpleasantly warm and humid | humid, sticky, close, oppressive | dry
+w029270.1 | pitfall | n. | 陷阱, 隐患 | a hidden danger or difficulty | trap, danger, hazard, snag | -
+w029303.1 | sharpener | n. | 削笔刀, 磨具 | a tool for making things sharp | - | -
+w029315.1 | stapler | n. | 订书机 | a device for fastening paper with staples | - | -
+w029357.1 | waterpark | n. | 水上乐园 | a park with pools and water slides | - | -
+w029449.1 | foothill | n. | 山麓小丘 | a low hill at the base of mountains | - | -
+w029492.1 | juicer | n. | 榨汁机 | a machine for getting juice from fruit | - | -
+w029519.1 | modernise | v. | 使现代化 | to make something more modern | modernize, update, upgrade | -
+w029529.1 | newscaster | n. | 新闻播音员 | a person who reads the news on TV or radio | newsreader, anchor | -
+w029595.1 | snowboarder | n. | 单板滑雪者 | a person who snowboards | - | -
+w029597.1 | speedboat | n. | 快艇 | a fast motorboat | motorboat | -
+w029636.1 | utensil | n. | 器皿, 用具 | a tool used in the kitchen or home | tool, implement, gadget | -
+w029649.1 | wintertime | n. | 冬季 | the season of winter | winter | summertime
+w029658.1 | acquaint | v. | 使熟悉, 使了解 | to make someone familiar with something | familiarize, inform | -
+w029674.1 | attentively | adv. | 专心地, 体贴地 | with careful attention | carefully, closely, intently | inattentively
+w029710.1 | countable | adj. | 可数的 | able to be counted | - | uncountable
+w029748.1 | fascinate | v. | 迷住, 强烈吸引 | to attract great interest | captivate, enthral, intrigue, absorb | bore
+w029806.1 | journaling | n. | 写日记, 记日志 | the practice of keeping a diary or journal | - | -
+w029823.1 | liaise | v. | 联络, 协作 | to communicate and work closely with others | cooperate, collaborate, communicate | -
+w029827.1 | lightyear | n. | 光年 | the distance light travels in one year | - | -
+w029845.1 | misbehave | v. | 行为不端, 不守规矩 | to behave badly | act up, play up | behave
+w029849.1 | moisturiser | n. | 润肤霜, 保湿霜 | a cream that stops skin from drying | moisturizer, lotion, cream | -
+w029850.1 | moisturize | v. | 滋润, 保湿 | to put cream on skin to make it less dry | moisturise | dry
+w029862.1 | nosebleed | n. | 鼻出血 | bleeding from the nose | - | -
+w029863.1 | nought | n. | 零 | the figure 0 | zero, nil, nothing | -
+w029863.2 | nought | pron. | 无, 没有 | nothing | nothing, naught | everything
+w029866.1 | offsite | adj. | 场外的, 异地的 | away from the main site | external, remote | onsite
+w029866.2 | offsite | adv. | 在场外 | away from the main site | - | onsite
+w029873.1 | paratrooper | n. | 伞兵 | a soldier trained to jump from planes | paratroop | -
+w029878.1 | phonetically | adv. | 按发音地, 语音上 | in a way that relates to speech sounds | - | -
+w029896.1 | recline | v. | 斜靠, 倚 | to lean or lie back | lean back, lie back, lounge | sit up
+w029896.2 | recline | v. | 放倒椅背 | to move a seat back | - | -
+w029910.1 | scowl | v. | 怒视, 皱眉 | to look at someone angrily | glower, glare, frown | smile
+w029910.2 | scowl | n. | 怒容 | an angry look | frown, glare, glower | smile
+w029934.1 | sympathetically | adv. | 同情地 | in a kind and understanding way | kindly, compassionately, understandingly | unsympathetically
+w029934.2 | sympathetically | adv. | 赞同地 | in a supportive way | favourably, supportively | -
+w029935.1 | tadpole | n. | 蝌蚪 | a young frog living in water | - | -
+w029941.1 | timeslot | n. | 时段, 时间档 | a period of time allotted for something | slot, time slot | -
+w029958.1 | untie | v. | 解开 | to undo a knot or something tied | undo, unfasten, loosen | tie
+w029966.1 | westwards | adv. | 向西 | towards the west | west, westward | eastwards
+w029969.1 | windowsill | n. | 窗台 | the shelf at the bottom of a window | sill | -
+w029979.1 | zoologist | n. | 动物学家 | a scientist who studies animals | - | -
+w029985.1 | achiever | n. | 成功者, 有成就的人 | a successful person | success | underachiever
+w029989.1 | airmail | n. | 航空邮件 | mail carried by aircraft | - | -
+w029989.2 | airmail | v. | 航空邮寄 | to send by airmail | - | -
+w030014.1 | boastful | adj. | 自夸的, 爱吹嘘的 | talking too proudly about yourself | arrogant, vain, proud | modest, humble
+w030029.1 | cashless | adj. | 无现金的 | using cards or electronic payment instead of cash | - | -
+w030039.1 | chickpea | n. | 鹰嘴豆 | a round yellowish pea | - | -
+w030046.1 | cornstarch | n. | 玉米淀粉 | fine flour from corn used to thicken food | - | -
+w030051.1 | deform | v. | 使变形 | to change the normal shape of something | distort, twist | -
+w030052.1 | defrost | v. | 解冻 | to let frozen food become unfrozen | thaw, unfreeze | freeze
+w030052.2 | defrost | v. | 除霜 | to remove ice from a fridge or window | - | -
+w030096.1 | hairstylist | n. | 发型师 | a person who cuts and styles hair | hairdresser | -
+w030113.1 | hypothesize | v. | 假设, 推测 | to suggest an explanation that is not yet proved | speculate, suppose, theorize | -
+w030133.1 | kneecap | n. | 膝盖骨 | the bone at the front of the knee | - | -
+w030133.2 | kneecap | v. | 枪击膝盖 | to shoot someone in the knee as punishment | - | -
+w030143.1 | logbook | n. | 日志, 航海日志 | a book recording events of a journey | log, diary, journal | -
+w030143.2 | logbook | n. | 车辆登记簿 | a vehicle registration document | - | -
+w030163.1 | motorboat | n. | 摩托艇, 汽艇 | a boat driven by an engine | speedboat | -
+w030165.1 | multitask | v. | 同时处理多项任务 | to do several things at the same time | - | -
+w030166.1 | nanna | n. | 奶奶, 外婆 | a grandmother | grandmother, granny, grandma | -
+w030183.1 | peculiarity | n. | 特点, 特性 | a typical feature | characteristic, feature, trait | -
+w030183.2 | peculiarity | n. | 怪癖, 古怪 | a strange habit or quality | oddity, quirk, eccentricity | -
+w030191.1 | pickpocket | n. | 扒手 | a thief who steals from pockets | thief | -
+w030224.1 | sceptic | n. | 怀疑论者 | a person who doubts claims | doubter, cynic | believer
+w030226.1 | seahorse | n. | 海马 | a small fish with a head like a horse | - | -
+w030239.1 | skilfully | adv. | 熟练地, 巧妙地 | with skill | expertly, skillfully | clumsily
+w030241.1 | snobbish | adj. | 势利的 | thinking yourself better than others | snobby, arrogant, superior | -
+w030244.1 | standardisation | n. | 标准化 | making things conform to a standard | standardization | -
+w030298.1 | attractively | adv. | 吸引人地 | in a pleasing way | appealingly, beautifully | unattractively
+w030305.1 | banknote | n. | 纸币, 钞票 | a piece of paper money | note, bill | coin
+w030334.1 | chessboard | n. | 棋盘 | a board used for playing chess | - | -
+w030348.1 | crazily | adv. | 疯狂地 | in a crazy way | madly, wildly | sanely
+w030365.1 | earphone | n. | 耳机 | a device worn over the ear for listening | headphone, earpiece | -
+w030377.1 | fashionably | adv. | 时髦地 | in a fashionable way | stylishly, smartly | unfashionably
+w030402.1 | handstand | n. | 倒立 | balancing upside down on your hands | - | -
+w030435.1 | landmine | n. | 地雷 | a bomb hidden under the ground | mine | -
+w030451.1 | materialise | v. | 实现 | to become real or happen | happen, occur, come about | -
+w030451.2 | materialise | v. | 突然出现 | to appear suddenly | appear | disappear, vanish
+w030469.1 | mistreat | v. | 虐待 | to treat cruelly or unfairly | abuse, maltreat | -
+w030473.1 | neigh | v. | 马嘶 | to make the sound a horse makes | whinny | -
+w030473.2 | neigh | n. | 马嘶声 | the sound a horse makes | whinny | -
+w030477.1 | noisily | adv. | 吵闹地, 喧闹地 | in a noisy way | loudly | quietly, silently
+w030483.1 | overcharge | v. | 多收钱 | to charge too much money | rip off | undercharge
+w030483.2 | overcharge | v. | 过量充电 | to put too much charge into a battery | - | -
+w030532.1 | stammer | v. | 结巴, 口吃 | to speak with pauses and repeated sounds | stutter | -
+w030532.2 | stammer | n. | 口吃 | a speech problem with repeated sounds | stutter | -
+w030534.1 | stiffen | v. | 变僵硬 | to become stiff | tense, harden | relax, soften
+w030534.2 | stiffen | v. | 加强 | to make stronger or firmer | strengthen, reinforce, toughen | weaken
+w030545.1 | symbolise | v. | 象征 | to represent an idea | represent, stand for, signify | -
+w030552.1 | touchpad | n. | 触控板 | a flat pad controlling a pointer | trackpad | -
+w030620.1 | bushfire | n. | 丛林大火 | a fire in bush or forest | wildfire | -
+w030622.1 | buttock | n. | 臀部, 屁股 | one of the two round parts you sit on | bottom, backside | -
+w030639.1 | crossroad | n. | 十字路口 | a place where roads cross | crossroads, intersection, junction | -
+w030639.2 | crossroad | n. | 交叉路 | a road crossing another | - | -
+w030647.1 | delicatessen | n. | 熟食店 | a shop selling prepared foods | deli | -
+w030652.1 | disappointingly | adv. | 令人失望地 | in a way that disappoints | - | -
+w030664.1 | eavesdrop | v. | 偷听 | to secretly listen to others | overhear, listen in | -
+w030670.1 | envelop | v. | 包围, 笼罩 | to cover or surround completely | surround, wrap, enclose, cover | -
+w030758.1 | mitten | n. | 连指手套 | a glove with one part for the thumb | - | -
+w030802.1 | resize | v. | 调整大小 | to change the size of something | - | -
+w030819.1 | semicolon | n. | 分号 | the punctuation mark used between clauses | - | -
+w030820.1 | sensitively | adv. | 体贴地, 敏感地 | with care for people's feelings | tactfully, considerately | insensitively
+w030826.1 | shriveled | adj. | 干瘪的, 枯萎的, 皱缩的 | dried up and wrinkled | - | -
+w030829.1 | snicker | v. | 窃笑, 暗笑 | to laugh quietly in an unkind way | snigger, giggle, chuckle | -
+w030829.2 | snicker | n. | 窃笑, 暗笑 | a quiet unkind laugh | snigger, giggle | -
+w030832.1 | somersault | n. | 筋斗, 翻跟头 | a roll in which the body turns head over heels | - | -
+w030832.2 | somersault | v. | 翻筋斗, 翻滚 | to turn head over heels | flip | -
+w030839.1 | strum | v. | 弹拨, 拨弄琴弦 | to play a guitar by brushing the strings | - | -
+w030839.2 | strum | n. | 弹拨声 | the sound of strummed strings | - | -
+w030847.1 | thirtieth | num. | 第三十 | number thirty in a series | - | -
+w030847.2 | thirtieth | n. | 三十分之一 | one of thirty equal parts | - | -
+w030860.1 | upturn | n. | 好转, 回升, 上升 | an improvement in economic conditions | improvement, recovery, upswing | downturn
+w030860.2 | upturn | v. | 翻转, 使朝上 | to turn something upside down | overturn, upend | -
+w030867.1 | wildness | n. | 野性, 荒凉, 狂野 | the state of being wild | - | -
+w030873.1 | yucky | adj. | 恶心的, 令人讨厌的 | very unpleasant or disgusting | disgusting, gross, horrible | yummy
+w030890.1 | astonish | v. | 使惊讶, 使吃惊 | to surprise someone very much | amaze, astound, stun, surprise | -
+w030918.1 | centigrade | adj. | 摄氏的 | using the Celsius temperature scale | Celsius | -
+w030918.2 | centigrade | n. | 摄氏温度 | the Celsius scale | Celsius | -
+w030924.1 | chickenpox | n. | 水痘 | an infectious disease causing itchy red spots | - | -
+w030946.1 | disastrously | adv. | 灾难性地, 惨重地 | in a way that causes great harm | catastrophically | -
+w030956.1 | eggshell | n. | 蛋壳 | the hard outer covering of an egg | - | -
+w030956.2 | eggshell | adj. | 蛋壳色的, 淡白色的 | pale off-white or slightly glossy | - | -
+w030966.1 | flexibly | adv. | 灵活地, 有弹性地 | in a way that can change easily | - | rigidly
+w030980.1 | generalisation | n. | 概括, 归纳, 笼统的说法 | a general statement based on limited facts | - | -
+w031122.1 | seesaw | n. | 跷跷板 | a long board children ride up and down on | - | -
+w031122.2 | seesaw | v. | 上下波动 | to change repeatedly up and down | fluctuate, swing | -
+w031164.1 | uppercase | adj. | 大写的 | written in capital letters | capital | lowercase
+w031164.2 | uppercase | n. | 大写字母 | capital letters | - | lowercase
+w031196.1 | amusingly | adv. | 有趣地, 好笑地 | in a funny way | humorously, entertainingly | -
+w031237.1 | cloudless | adj. | 无云的, 晴朗的 | with no clouds | clear | cloudy
+w031316.1 | idiomatic | adj. | 地道的, 惯用的 | natural to a native speaker | natural, fluent | -
+w031316.2 | idiomatic | adj. | 习语的 | containing idioms | - | -
+w031428.1 | signpost | n. | 路标 | a sign at a road showing directions | sign | -
+w031428.2 | signpost | v. | 设置路标, 指明 | to show the way clearly | indicate, signal | -
+w031441.1 | stepbrother | n. | 继兄弟 | the son of one's stepparent | - | -
+w002509.1 | ford | n. | 浅滩, 可涉水处 | a shallow place where a river can be crossed | crossing | -
+w002509.2 | ford | v. | 涉水而过, 蹚过 | to cross a river at a shallow place | cross, wade | -
+w004724.1 | challenged | adj. | 有缺陷的, 有障碍的 | having a disability or difficulty, used politely | disabled, handicapped | -
+w031528.1 | birdcage | n. | 鸟笼 | a cage for keeping birds | cage | -
+w031600.1 | finalise | v. | 最终确定, 敲定 | to complete the last details of a plan | complete, finish, settle | -
+w031679.1 | milligram | n. | 毫克 | one thousandth of a gram | - | -
+w031724.1 | quietness | n. | 安静, 平静 | the state of being quiet | silence, calm, stillness | noise, loudness
+w031756.1 | stepsister | n. | 继姐妹 | the daughter of one's stepparent | - | -
+w004884.1 | intel | n. | 情报, 消息, 信息 | secret or useful information | intelligence, information | -
+w031826.1 | arrogantly | adv. | 傲慢地 | in a proud and rude way | haughtily, proudly | humbly, modestly
+w031878.1 | customise | v. | 定制, 改制 | to change something to suit a person's needs | personalise, tailor, adapt | -
+w031896.1 | epicentre | n. | 震中, 中心 | the point on the surface above an earthquake's origin | - | -
+w031896.2 | epicentre | n. | 中心, 焦点 | the central point of an activity or problem | centre, heart, hub | -
+w031911.1 | fourfold | adj. | 四倍的 | four times as great or as many | quadruple | -
+w031911.2 | fourfold | adv. | 四倍地 | by four times | - | -
+w031919.1 | gerbil | n. | 沙鼠 | a small desert rodent often kept as a pet | - | -
+w031921.1 | gimmicky | adj. | 噱头的, 花哨的 | using tricks to attract attention rather than real value | - | -
+w031922.1 | gorgeously | adv. | 华丽地, 极美地 | in a very beautiful or attractive way | beautifully, stunningly | -
+w031933.1 | headcount | n. | 人数, 员工总数 | the number of people present or employed | - | -
+w031934.1 | heartthrob | n. | 万人迷, 偶像 | a famous man many people find attractive | idol | -
+w031936.1 | hesitantly | adv. | 犹豫地, 迟疑地 | in a slow uncertain way | uncertainly, tentatively | confidently
+w031938.1 | holdout | n. | 拒不让步者, 坚持者 | a person who refuses to agree or join | - | -
+w031951.1 | inattentive | adj. | 不注意的, 漫不经心的 | not paying attention | distracted, careless | attentive
+w031952.1 | indent | v. | 缩进 | to start a line further from the margin | - | -
+w031952.2 | indent | n. | 缩进 | a space at the start of a line | indentation | -
+w031952.3 | indent | n. | 订单 | an official order for goods | order | -
+w031953.1 | indiscreet | adj. | 不慎重的, 轻率的 | saying or doing things that reveal secrets carelessly | tactless, careless | discreet
+w031956.1 | joule | n. | 焦耳 | a unit of energy or work | - | -
+w031975.1 | lectern | n. | 讲台, 读经台 | a tall stand to hold notes when speaking | stand | -
+w031976.1 | leftwing | adj. | 左翼的, 左派的 | supporting socialist or liberal political ideas | leftist | -
+w031981.1 | loyally | adv. | 忠诚地 | in a faithful and loyal way | faithfully | disloyally
+w031996.1 | memorise | v. | 记住, 背诵 | to learn something so you remember it exactly | learn by heart, memorize | forget
+w032013.1 | optimistically | adv. | 乐观地 | in a hopeful and confident way | hopefully, confidently | pessimistically
+w032032.1 | preempt | v. | 先发制人, 抢先 | to act first to stop something happening | forestall, prevent | -
+w032032.2 | preempt | v. | 取代 | to replace a planned broadcast | replace | -
+w032087.1 | sunlit | adj. | 阳光照耀的 | lit by sunlight | sunny, bright | dark, shady
+w032105.1 | uncountable | adj. | 不可数的 | not able to be counted | - | countable
+w032105.2 | uncountable | adj. | 数不清的 | too many to count | countless, innumerable | -
+w032107.1 | unfashionable | adj. | 不时髦的, 过时的 | not popular or stylish at present | outdated | fashionable
+w032123.1 | zookeeper | n. | 动物园饲养员 | a person who looks after animals in a zoo | keeper | -
+w032128.1 | afflict | v. | 折磨, 使痛苦 | to cause pain or trouble to | trouble, plague, torment | -
+w032156.1 | birthdate | n. | 出生日期 | the date on which someone was born | birthday | -
+w032207.1 | disillusion | v. | 使醒悟, 使幻灭 | to show someone a belief is false | disenchant | -
+w032207.2 | disillusion | n. | 幻灭 | disappointment on learning the truth | disillusionment, disappointment | -
+w032217.1 | eardrum | n. | 鼓膜 | a thin skin inside the ear that vibrates | - | -
+w032224.1 | emoticon | n. | 表情符号 | a face made from keyboard characters | smiley, emoji | -
+w032225.1 | empathise | v. | 共情, 同感 | to understand another's feelings | sympathise, identify | -
+w032227.1 | endow | v. | 捐赠, 资助 | to give a large sum of money to an institution | fund, finance | -
+w032227.2 | endow | v. | 赋予 | to give a quality or ability | give, bless | -
+w032231.1 | fearfully | adv. | 害怕地, 担心地 | in a frightened or worried way | nervously, anxiously | bravely, fearlessly
+w032231.2 | fearfully | adv. | 非常, 极其 | extremely | extremely, terribly, awfully | -
+w032233.1 | forecaster | n. | 天气预报员, 预测者 | a person who predicts weather or future events | predictor | -
+w032239.1 | fundraise | v. | 募捐, 筹款 | to collect money for a cause | - | -
+w032244.1 | glasshouse | n. | 温室, 暖房 | a glass building for growing plants | greenhouse, hothouse | -
+w032252.1 | hairdryer | n. | 吹风机 | an electric device for drying hair | - | -
+w032253.1 | harmlessly | adv. | 无害地 | in a way that causes no harm | safely | harmfully
+w032261.1 | holdup | n. | 耽搁, 延误 | a delay | delay, hold-up | -
+w032261.2 | holdup | n. | 持械抢劫 | a robbery with a weapon | robbery, hold-up | -
+w032268.1 | icicle | n. | 冰柱, 冰锥 | a hanging spike of ice | - | -
+w032302.1 | legalise | v. | 使合法化 | to make something allowed by law | legalize, legitimise | ban, outlaw
+w032311.1 | lubricate | v. | 润滑 | to put oil on machine parts to reduce friction | oil, grease | -
+w032335.1 | mouldy | adj. | 发霉的 | covered with mould | musty | fresh
+w032348.1 | neutralise | v. | 抵消, 中和 | to stop something having an effect | counteract, cancel out | -
+w032360.1 | paperless | adj. | 无纸化的 | using computers instead of paper | - | -
+w032367.1 | pollinate | v. | 授粉 | to carry pollen to a flower | fertilise | -
+w032383.1 | ripoff | n. | 敲竹杠, 宰客 | something that costs too much | swindle, con | bargain
+w032383.2 | ripoff | n. | 仿冒品 | a cheap copy | imitation, fake, knockoff | original
+w032393.1 | shakeup | n. | 大改组, 重组 | a major reorganization | reorganization, overhaul | -
+w032396.1 | skateboarder | n. | 滑板运动者 | a person who rides a skateboard | - | -
+w032406.1 | stockmarket | n. | 股市 | the market where shares are bought and sold | stock market, stock exchange | -
+w032431.1 | truant | n. | 逃学者 | a student who stays away from school without permission | - | -
+w032431.2 | truant | v. | 逃学 | to stay away from school | play truant | -
+w032472.1 | archeologist | n. | 考古学家 | a person who studies past human remains | archaeologist | -
+w032491.1 | breakable | adj. | 易碎的 | easily broken | fragile, delicate | unbreakable
+w032497.1 | centralize | v. | 集中, 集权 | to bring under central control | centralise | decentralize
+w032528.1 | earthworm | n. | 蚯蚓 | a worm that lives in soil | worm | -
+w032569.1 | homesickness | n. | 思乡病 | sadness from being away from home | - | -
+w032576.1 | hyperlink | n. | 超链接 | a link from one web page to another | link | -
+w032576.2 | hyperlink | v. | 添加超链接 | to connect with a hyperlink | link | -
+w032690.1 | sanitize | v. | 消毒, 使清洁 | to clean thoroughly to remove germs | disinfect, sterilize, clean | contaminate
+w032690.2 | sanitize | v. | 删改, 净化 | to remove unpleasant parts from something | clean up, censor | -
+w032707.1 | shyly | adv. | 害羞地 | in a nervous shy way | timidly, bashfully | boldly, confidently
+w032713.1 | speculator | n. | 投机者 | a person who buys things hoping to profit | investor | -
+w032759.1 | adorably | adv. | 可爱地 | in a very cute way | cutely, sweetly | -
+w032775.1 | aubergine | n. | 茄子 | a purple vegetable | eggplant | -
+w032813.1 | cloakroom | n. | 衣帽间 | a room for leaving coats | - | -
+w032813.2 | cloakroom | n. | 厕所 | a toilet in a public building | toilet, restroom, lavatory | -
+w032823.1 | cutback | n. | 削减, 缩减 | a reduction in spending or jobs | cut, reduction | increase
+w032853.1 | farmyard | n. | 农家庭院 | an area surrounded by farm buildings | yard | -
+w032886.1 | helpdesk | n. | 服务台, 技术支持 | a service that answers users' problems | - | -
+w032898.1 | infuriate | v. | 激怒 | to make extremely angry | enrage, anger | calm, soothe
+w032907.1 | jeopardise | v. | 危及, 损害 | to put something at risk | endanger, threaten, risk | protect
+w032960.1 | optician | n. | 配镜师, 眼镜商 | a person who makes or sells glasses | - | -
+w032992.1 | repurpose | v. | 改变用途, 再利用 | to adapt something for a different use | adapt, convert | -
+w032994.1 | reroute | v. | 改变路线, 改道 | to send something by a different route | divert, redirect | -
+w032997.1 | roundtrip | n. | 往返旅程 | a journey to a place and back again | - | -
+w032997.2 | roundtrip | adj. | 往返的 | covering the journey there and back | return | one-way
+w033008.1 | simile | n. | 明喻 | a comparison using like or as | - | -
+w033011.1 | situate | v. | 使位于, 安置 | to place in a particular location or context | place, locate, position | -
+w033022.1 | sportscar | n. | 跑车 | a fast low car built for speed | - | -
+w033045.1 | trespasser | n. | 擅自闯入者 | a person who enters private land without permission | intruder | -
+w033050.1 | unchangeable | adj. | 不可改变的 | not able to be changed | fixed, unalterable, permanent | changeable
+w033062.1 | whiten | v. | 使变白, 漂白 | to make or become white or whiter | bleach, lighten | darken, blacken
+w033064.1 | yippee | int. | 好啊, 太棒了 | used to express joy or excitement | hooray, hurray | -
+w033070.1 | Oxbridge | n. | 牛津剑桥 | Oxford and Cambridge universities together | - | -
+w033116.1 | bowtie | n. | 领结 | a tie tied in the shape of a bow | - | -
+w033128.1 | captcha | n. | 验证码 | a test to check that a user is human | - | -
+w033147.1 | corrode | v. | 腐蚀, 侵蚀 | to damage metal slowly by chemical action | rust, eat away | -
+w033147.2 | corrode | v. | 逐渐损害 | to weaken something gradually | erode, undermine, weaken | strengthen
+w033157.1 | debater | n. | 辩论者 | a person who takes part in debates | - | -
+w033368.1 | sunblock | n. | 防晒霜 | a cream that protects skin from the sun | sunscreen | -
+w033453.1 | beckon | v. | 召唤, 招手 | to signal someone to come nearer | wave, signal, motion | -
+w033453.2 | beckon | v. | 吸引, 诱惑 | to seem attractive or likely | call, attract, await | -
+w033489.1 | checkbox | n. | 复选框 | a small box on screen to click to select | - | -
+w033579.1 | greedily | adv. | 贪婪地 | in a greedy way | hungrily | -
+w033629.1 | lateness | n. | 迟到, 晚 | the fact of being late | delay, tardiness | punctuality
+w033750.1 | seashell | n. | 贝壳 | the shell of a sea creature | shell | -
+w033908.1 | dinnertime | n. | 晚饭时间 | the time when dinner is eaten | - | -
+w033928.1 | exhilarated | adj. | 兴奋的, 振奋的 | very happy and excited | thrilled, elated, excited | -
+w034003.1 | miniskirt | n. | 迷你裙, 超短裙 | a very short skirt | - | -
+w034037.1 | publicise | v. | 宣传, 公布 | to make something widely known | advertise, promote, publicize | -
+w034193.1 | clumsiness | n. | 笨拙, 不灵巧 | the quality of moving awkwardly | awkwardness | grace, gracefulness
+w034208.1 | drench | v. | 浸透, 使湿透 | to make completely wet | soak, saturate, douse | dry
+w034220.1 | engrave | v. | 雕刻, 镌刻 | to cut words or designs into a hard surface | carve, inscribe, etch | -
+w034220.2 | engrave | v. | 铭记 | to fix something firmly in the mind | imprint, etch | -
+w034457.1 | xylophone | n. | 木琴 | an instrument of wooden bars struck with hammers | - | -
+w004641.1 | potter | n. | 陶工, 陶艺家 | a person who makes pots from clay | - | -
+w004641.2 | potter | v. | 闲逛, 慢悠悠地做事 | to spend time doing small, relaxing tasks | potter about, putter | -
+w034514.1 | charades | n. | 猜字谜游戏 | a game of guessing words from acted clues | - | -
+w034546.1 | drumstick | n. | 鼓槌 | a stick used for beating a drum | - | -
+w034546.2 | drumstick | n. | 鸡腿 | the lower leg of a cooked chicken | leg | -
+w034547.1 | earbud | n. | 入耳式耳机 | a very small headphone worn in the ear | earphone | -
+w034553.1 | esthetic | adj. | 审美的, 美学的 | relating to beauty or taste | aesthetic, artistic | -
+w034553.2 | esthetic | n. | 美学观 | a set of principles about beauty | aesthetic | -
+w034562.1 | foodstuff | n. | 食品, 食物 | a substance used as food | food | -
+w034564.1 | freckle | n. | 雀斑 | a small brown spot on the skin | - | -
+w034764.1 | subsidise | v. | 资助, 补贴 | to pay part of the cost of something | fund, finance, support | -
+w034767.1 | sunburnt | adj. | 晒伤的, 晒黑的 | having skin damaged or darkened by the sun | - | -
+w034960.1 | hairbrush | n. | 发刷 | a brush for tidying hair | - | -
+w035116.1 | shoelace | n. | 鞋带 | a cord used to tie a shoe | lace | -
+w035128.1 | streetlight | n. | 路灯 | a light on a pole beside a street | lamppost | -
+w035304.1 | fortieth | num. | 第四十 | number forty in a series | - | -
+w035314.1 | glamor | n. | 魅力, 魔力 | attractive and exciting quality | glamour, allure, charm | -
+w035319.1 | gramma | n. | 奶奶, 外婆 | an informal word for grandmother | grandma, granny, grandmother | -
+w035351.1 | joyless | adj. | 无乐趣的, 沉闷的 | without any pleasure or happiness | cheerless, miserable, gloomy | joyful
+w035364.1 | lamppost | n. | 路灯柱 | a tall post with a light on top in a street | streetlight | -
+w035370.1 | macchiato | n. | 玛奇朵咖啡 | espresso coffee with a little milk foam on top | - | -
+w035377.1 | marshland | n. | 沼泽地 | an area of soft wet land | marsh, swamp, bog | -
+w035391.1 | multifunction | adj. | 多功能的 | able to do several different jobs | multipurpose | -
+w035406.1 | northerner | n. | 北方人 | a person from the north of a country | - | southerner
+w035415.1 | paperweight | n. | 镇纸 | a heavy object placed on papers to hold them down | - | -
+w035427.1 | playgroup | n. | 幼儿游戏班 | a group where young children play together regularly | - | -
+w035445.1 | rashly | adv. | 轻率地, 鲁莽地 | without thinking carefully first | recklessly, hastily, carelessly | carefully, cautiously
+w035504.1 | teahouse | n. | 茶馆, 茶室 | a place where tea is served | - | -
+w035506.1 | teleconference | n. | 电话会议, 远程会议 | a meeting held by phone or video link | - | -
+w035525.1 | unpleasantly | adv. | 令人不快地 | in a way that is not pleasant | nastily, disagreeably | pleasantly
+w035536.1 | wearily | adv. | 疲倦地, 厌倦地 | in a tired way | tiredly | -
+w035565.1 | ambiguously | adv. | 模棱两可地, 含糊地 | in a way with more than one meaning | vaguely, unclearly | clearly, unambiguously
+w035614.1 | cheekbone | n. | 颧骨 | the bone below the eye | - | -
+w035617.1 | clickable | adj. | 可点击的 | able to be clicked on a screen | - | -
+w035651.1 | dryly | adv. | 冷淡地, 冷幽默地 | in a humorous way while seeming serious | wryly | -
+w035701.1 | imaginatively | adv. | 富有想象力地 | in a creative and original way | creatively, inventively | unimaginatively
+w035779.1 | obediently | adv. | 顺从地, 服从地 | in a way that does what you are told | dutifully | disobediently
+w035827.1 | shoplifter | n. | 商店扒手 | a person who steals from shops | thief | -
+w035871.1 | uneasily | adv. | 不安地, 局促地 | in a worried or uncomfortable way | nervously, anxiously, uncomfortably | calmly
+w035987.1 | crumple | v. | 弄皱, 揉皱 | to crush something into folds | crush, crease, scrunch | smooth
+w035987.2 | crumple | v. | 垮掉, 瘫倒 | to fall down or collapse suddenly | collapse, fall down | -
+w036150.1 | paperclip | n. | 回形针 | a bent piece of wire that holds papers together | - | -
+w036167.1 | pyjama | n. | 睡衣 | clothing worn in bed, usually plural | - | -
+w036167.2 | pyjama | adj. | 睡衣的 | relating to pyjamas | - | -
+w036172.1 | raindrop | n. | 雨滴 | a single drop of rain | - | -
+w036195.1 | schoolmate | n. | 同学, 校友 | a person who goes to the same school | classmate | -
+w036215.1 | spacesuit | n. | 宇航服 | a special suit worn in space | - | -
+w006602.1 | possessed | adj. | 着魔的, 鬼迷心窍的 | controlled by an evil spirit | - | -
+w006602.2 | possessed | adj. | 拥有的, 具有的 | having a quality or thing | - | -
+w036428.1 | highrise | n. | 高楼 | a very tall building | tower block, skyscraper | -
+w036428.2 | highrise | adj. | 高层的 | having many floors | multistorey | -
+w036457.1 | knowhow | n. | 专门技能, 诀窍 | practical knowledge and skill | expertise, skill | -
+w036470.1 | lozenge | n. | 润喉糖, 含片 | a small medicated sweet that you suck | pastille, cough drop | -
+w036470.2 | lozenge | n. | 菱形 | a diamond shape | diamond, rhombus | -
+w036483.1 | mealtime | n. | 进餐时间, 用餐时间 | the time when a meal is eaten | - | -
+w036484.1 | meany | n. | 小气鬼, 刻薄的人 | an unkind or mean person | - | -
+w036509.1 | nonbinary | adj. | 非二元性别的 | not identifying as only male or female | - | -
+w036510.1 | nonfat | adj. | 脱脂的, 无脂的 | containing no fat | - | -
+w036511.1 | normalisation | n. | 正常化, 标准化 | the process of making something normal | - | -
+w036512.1 | normalise | v. | 使正常化, 使恢复正常 | to make or become normal again | restore, regularise | -
+w036520.1 | onlooker | n. | 旁观者, 围观者 | a person who watches something happen | spectator, bystander, observer, witness | -
+w036525.1 | oversea | adj. | 海外的, 国外的 | overseas | overseas, foreign | domestic
+w036557.1 | reconnection | n. | 重新连接, 恢复联系 | the act of connecting again | - | disconnection
+w036560.1 | replant | v. | 重新种植, 移植 | to plant again or in a new place | transplant | -
+w036574.1 | scoresheet | n. | 记分表 | a sheet on which scores are recorded | scorecard | -
+w036601.1 | straightforwardly | adv. | 直截了当地, 坦率地 | in an honest and direct way | honestly, frankly, directly | -
+w036601.2 | straightforwardly | adv. | 简单地 | in a simple way | simply, easily | -
+w036607.1 | tailwind | n. | 顺风 | a wind blowing from behind | - | headwind
+w036607.2 | tailwind | n. | 助力, 有利因素 | something that helps progress | boost | headwind
+w036611.1 | taxman | n. | 税务局, 收税员 | the government department that collects tax | - | -
+w036630.1 | unheated | adj. | 无暖气的, 未加热的 | not having any heating | - | heated
+w036642.1 | waitlist | n. | 候补名单, 等候名单 | a list of people waiting for something | - | -
+w036642.2 | waitlist | v. | 列入候补名单 | to put someone on a waiting list | - | -
+w036650.1 | windstorm | n. | 风暴 | a storm with very strong wind | gale | -
+w036653.1 | workwear | n. | 工作服 | clothes worn for work | - | -
+w036671.1 | amble | v. | 漫步, 缓行 | to walk slowly and in a relaxed way | stroll, wander, saunter | -
+w036671.2 | amble | n. | 漫步 | a slow relaxed walk | stroll, wander | -
+w036700.1 | brainwave | n. | 灵感, 好主意 | a sudden clever idea | brainstorm, inspiration | -
+w036700.2 | brainwave | n. | 脑电波 | electrical activity in the brain | - | -
+w036723.1 | cheerfulness | n. | 愉快, 开朗 | the quality of being happy and positive | happiness, cheer, brightness | gloom, sadness
+w036749.1 | dramatize | v. | 改编成剧本 | to turn a story into a play or film | adapt | -
+w036749.2 | dramatize | v. | 夸大, 渲染 | to make something seem more exciting | exaggerate, sensationalize | downplay
+w036801.1 | headwind | n. | 逆风 | a wind blowing against you | - | tailwind
+w036801.2 | headwind | n. | 阻力, 不利因素 | something that slows progress | obstacle, hindrance | tailwind
+w036842.1 | marvelously | adv. | 极好地, 出色地 | in an extremely good way | wonderfully, superbly, brilliantly | terribly
+w036874.1 | oink | int. | 哼哼 | the sound a pig makes | - | -
+w036874.2 | oink | v. | 发出猪叫声 | to make the sound of a pig | - | -
+w036882.1 | overeat | v. | 吃得过多 | to eat more than you need | overindulge, gorge | -
+w036916.1 | reassign | v. | 重新分配, 调派 | to give someone a new job or task | transfer, redeploy | -
+w036927.1 | romanticize | v. | 使浪漫化, 美化 | to make something seem better than it is | idealize, glamorize | -
+w036936.1 | scarily | adv. | 可怕地, 吓人地 | in a frightening way | frighteningly, terrifyingly | -
+w037042.1 | annotate | v. | 注解, 注释 | to add notes to a text or diagram | - | -
+w037085.1 | cobweb | n. | 蜘蛛网 | a spider's web, especially an old dusty one | spider web, web | -
+w037098.1 | dehydrate | v. | 使脱水 | to remove water from something | dry | hydrate
+w037098.2 | dehydrate | v. | 缺水 | to lose too much water from the body | - | -
+w037129.1 | facemask | n. | 口罩, 面罩 | a covering for the face | mask | -
+w037171.1 | hoody | n. | 连帽衫 | a top with a hood | hoodie | -
+w037257.1 | nationalize | v. | 使国有化 | to bring a business under state control | - | privatize
+w037264.1 | nonstick | adj. | 不粘的 | with a surface that food does not stick to | - | -
+w037359.1 | stylishly | adv. | 时髦地, 漂亮地 | in a fashionable and attractive way | fashionably, smartly, elegantly | -
+w037454.1 | birthrate | n. | 出生率 | the number of births per thousand people | - | -
+w037471.1 | categorise | v. | 分类, 归类 | to put things into groups | classify, group, sort | -
+w037499.1 | digitize | v. | 数字化 | to convert into digital form | digitise | -
+w037506.1 | downpayment | n. | 首付款 | the first payment when buying on credit | deposit | -
+w037530.1 | farfetched | adj. | 牵强的, 难以置信的 | very unlikely to be true | unlikely, implausible, unbelievable | believable, plausible
+w037596.1 | jellybean | n. | 软心豆粒糖 | a small bean-shaped soft sweet | - | -
+w037607.1 | kitchenware | n. | 厨房用具 | pots, pans and tools for the kitchen | - | -
+w037620.1 | layperson | n. | 外行, 门外汉, 普通信徒 | a person without specialist knowledge of a subject | layman | expert, specialist
+w037626.1 | liveliness | n. | 活泼, 生气, 活力 | the quality of being full of energy and interest | energy, vitality, vivacity | dullness
+w037659.1 | misplace | v. | 随意放丢, 误放 | to put something somewhere and then forget where | lose, mislay | find
+w037665.1 | muffle | v. | 压低声音, 使声音变弱, 裹住 | to make a sound quieter | deaden, dampen, mute | amplify
+w037665.2 | muffle | v. | 裹住, 包住 | to wrap something up for warmth | wrap up | -
+w037706.1 | privatise | v. | 使私有化 | to sell a state business to private owners | privatize | nationalise
+w037729.1 | saleswoman | n. | 女售货员, 女推销员 | a woman whose job is selling things | saleslady | -
+w037741.1 | seasick | adj. | 晕船的 | feeling sick because of a ship's movement | - | -
+w037751.1 | sneakily | adv. | 偷偷地, 鬼鬼祟祟地 | in a secret and dishonest way | slyly, secretly, furtively | openly
+w037760.1 | suntan | n. | 晒黑, 晒成的肤色 | brown skin caused by the sun | tan | -
+w037760.2 | suntan | v. | 晒黑 | to get a suntan | tan | -
+w037787.1 | unfriend | v. | 删除好友 | to remove someone from your friends on social media | - | friend
+w037789.1 | unpredictably | adv. | 不可预测地 | in a way that cannot be predicted | erratically | predictably
+w037808.1 | worryingly | adv. | 令人担忧地 | in a way that causes worry | alarmingly, disturbingly | reassuringly
+w037869.1 | colonise | v. | 殖民, 移居 | to take control of a place and settle people there | settle, occupy | -
+w037899.1 | earlobe | n. | 耳垂 | the soft part at the bottom of the ear | - | -
+w037902.1 | editable | adj. | 可编辑的 | able to be changed or edited | - | -
+w037966.1 | lampshade | n. | 灯罩 | a cover over a lamp to soften its light | shade | -
+w038073.1 | sandcastle | n. | 沙堡 | a model castle made of sand on a beach | - | -
+w038084.1 | semicircle | n. | 半圆 | half of a circle | - | -
+w004005.1 | catching | adj. | 传染性的, 易传播的 | easily passed to others, of illness or feelings | contagious, infectious | -
+w038221.1 | cancelation | n. | 取消 | the act of cancelling something | cancellation | -
+w038279.1 | expensively | adv. | 昂贵地 | in a way that costs a lot | - | cheaply
+w038288.1 | footstep | n. | 脚步声, 脚步 | the sound or mark of a step | step, footfall, footprint | -
+w038303.1 | goalpost | n. | 球门柱 | one of the two posts of a goal | post | -
+w038314.1 | harmonise | v. | 使协调, 和声 | to make things consistent or fit together | coordinate, harmonize, reconcile | -
+w038398.1 | misspell | v. | 拼错 | to spell a word wrongly | - | -
+w038439.1 | reassuringly | adv. | 令人安心地 | in a way that makes people feel less worried | comfortingly, encouragingly | worryingly, alarmingly
+w038668.1 | glisten | v. | 闪耀, 闪光 | to shine because of being wet or oily | shine, glint, sparkle, gleam | -
+w038787.1 | moisten | v. | 弄湿, 润湿 | to make something slightly wet | dampen, wet | dry
+w038834.1 | polarize | v. | 使两极分化, 使对立 | to divide people into two opposing groups | divide, split | unite
+w038834.2 | polarize | v. | 使极化, 使偏振 | to make light or electricity vibrate in one direction | - | -
+w038848.1 | repack | v. | 重新包装, 重新打包 | to pack something again | - | -
+w038850.1 | repercussion | n. | 后果, 恶果, 影响 | an unintended effect of an action or event | consequence, effect, result | -
+w038911.1 | unenthusiastic | adj. | 不热情的, 冷淡的 | not showing interest or excitement | indifferent, lukewarm, uninterested | enthusiastic
+w038968.1 | bellybutton | n. | 肚脐 | the navel | navel, belly button | -
+w039170.1 | muesli | n. | 穆兹利, 什锦燕麦片 | a breakfast cereal of oats nuts and dried fruit | - | -
+w039210.1 | podcaster | n. | 播客主播 | a person who makes podcasts | - | -
+w039212.1 | politicize | v. | 使政治化 | to make something a political issue | - | -
+w039231.1 | restlessly | adv. | 焦躁不安地, 不停地 | in an anxious unable to relax way | uneasily, anxiously, nervously | calmly
+w039232.1 | retell | v. | 复述, 重讲 | to tell a story again or differently | recount | -
+w039233.1 | revitalise | v. | 使恢复活力, 振兴 | to give new life or strength to | revive, rejuvenate, regenerate | -
+w039257.1 | scrutinise | v. | 仔细审查, 细看 | to examine something very carefully | examine, inspect, study | -
+w039283.1 | sunbathe | v. | 晒日光浴 | to lie in the sun to get a tan | tan | -
+w039311.1 | uncheck | v. | 取消勾选 | to remove the tick from a box on screen | - | check
+w039338.1 | abbreviate | v. | 缩写, 简写 | to make a word or phrase shorter | shorten | expand
+w039395.1 | carmaker | n. | 汽车制造商 | a company that makes cars | automaker | -
+w039396.1 | carpooling | n. | 拼车, 合伙用车 | sharing car journeys with others | - | -
+w039454.1 | familiarise | v. | 使熟悉 | to help someone learn about something | acquaint, introduce | -
+w039476.1 | generalise | v. | 概括, 归纳 | to make a general statement from cases | - | -
+w039476.2 | generalise | v. | 推广, 普及 | to make something widely used | popularise | -
+w039568.1 | megabyte | n. | 兆字节 | a unit of data equal to about a million bytes | - | -
+w039618.1 | overspend | v. | 超支, 花钱过多 | to spend more than one can afford | - | -
+w039618.2 | overspend | n. | 超支额 | an amount spent over budget | overrun | -
+w039782.1 | backache | n. | 背痛, 腰痛 | a pain in the back | - | -
+w039835.1 | chopstick | n. | 筷子 | one of a pair of sticks used for eating | - | -
+w040081.1 | pricy | adj. | 昂贵的 | expensive | expensive, costly, pricey | cheap
+w040096.1 | reorganise | v. | 重组, 改组 | to arrange or organize in a new way | rearrange, restructure, reorganize | -
+w040148.1 | televise | v. | 电视播放 | to broadcast on television | broadcast, air | -
+w040175.1 | videoconferencing | n. | 视频会议 | holding meetings by video link between places | - | -
+w040197.1 | acceptably | adv. | 可接受地, 尚可地 | in a way that is good enough | adequately, satisfactorily | unacceptably
+w040203.1 | ampere | n. | 安培 | the standard unit of electric current | amp | -
+w040235.1 | blackcurrant | n. | 黑醋栗 | a small round black fruit growing on bushes | - | -
+w040259.1 | chambermaid | n. | 客房女服务员 | a woman who cleans bedrooms in a hotel | maid | -
+w040364.1 | helpfulness | n. | 乐于助人, 有益 | the quality of being helpful | kindness, usefulness | unhelpfulness
+w040488.1 | punctually | adv. | 准时地 | at exactly the right time | promptly, on time | late
+w004709.1 | resolved | adj. | 坚决的, 下定决心的 | firmly determined to do something | determined, resolute | -
+w040710.1 | displease | v. | 使不快, 使生气 | to make someone annoyed or unhappy | annoy, upset, irritate | please
+w041209.1 | embroider | v. | 刺绣 | to decorate cloth with stitches | stitch | -
+w041209.2 | embroider | v. | 渲染, 添枝加叶 | to add untrue details to a story | embellish, exaggerate | -
+w041508.1 | vandalize | v. | 故意破坏, 毁坏 | to damage property on purpose | damage, wreck, deface | -
+w041548.1 | apologetically | adv. | 道歉地, 歉疚地 | in a way that shows you are sorry | regretfully, sorrowfully | -
+w041562.1 | backspace | n. | 退格键 | a key that deletes the previous character | - | -
+w041562.2 | backspace | v. | 退格 | to move back using this key | - | -
+w041705.1 | hitchhike | v. | 搭便车 | to travel by getting free rides from drivers | hitch | -
+w041802.1 | newsagent | n. | 报刊经销商, 报刊亭 | a shop or person selling newspapers | - | -
+w041818.1 | parallelogram | n. | 平行四边形 | a four-sided shape with opposite sides parallel | - | -
+w042131.1 | flunk | v. | 考试不及格 | to fail an exam | fail | pass
+w042131.2 | flunk | v. | 使不及格 | to give a failing grade | fail | pass
+w042288.1 | prepositional | adj. | 介词的 | relating to prepositions | - | -
+w042294.1 | pushchair | n. | 婴儿推车 | a folding chair on wheels for a small child | buggy, stroller, pram | -
+w042349.1 | suspender | n. | 吊袜带 | a strap for holding up stockings | - | -
+w042349.2 | suspender | n. | 背带 | straps for holding up trousers | - | -
+w004526.1 | sterling | n. | 英镑 | the money system of the UK | pound | -
+w004526.2 | sterling | adj. | 优秀的, 杰出的 | of excellent quality | excellent, splendid, first-class | -
+w004526.3 | sterling | adj. | 纯银的, 标准纯度的 | of silver of a standard purity | - | -
+w042492.1 | classwork | n. | 课堂作业 | schoolwork done in class | - | homework
+w042606.1 | interjection | n. | 感叹词 | a word expressing emotion such as oh | exclamation | -
+w042606.2 | interjection | n. | 插话 | an interruption | interruption | -
+w042711.1 | personalise | v. | 使个性化, 定制 | to design to suit a particular person | customise, tailor | -
+w042731.1 | quirkiness | n. | 古怪, 怪癖, 奇特 | the quality of being unusual in an interesting way | eccentricity, oddity | -
+w042735.1 | reaffirmation | n. | 重申, 再确认 | the act of stating something again firmly | - | -
+w042736.1 | recalculate | v. | 重新计算 | to calculate something again | - | -
+w042739.1 | reformulation | n. | 重新表述, 重新配制 | the act of expressing or making something again differently | - | -
+w042764.1 | snowplow | n. | 扫雪机, 铲雪车 | a vehicle for clearing snow from roads | snowplough | -
+w042775.1 | suggestively | adv. | 暗示地, 挑逗地 | in a way that suggests something, often sexual | - | -
+w042805.1 | unmanaged | adj. | 未管理的, 无人管理的 | not controlled or looked after | uncontrolled | -
+w042807.1 | unsuspected | adj. | 未被怀疑的, 意想不到的 | not known or thought to exist | unknown, hidden | -
+w042819.1 | whoopee | int. | 好哇 | used to express wild joy | hooray, yippee | -
+w042883.1 | brr | int. | 好冷 | used to show one feels cold | - | -
+w042912.1 | colonizer | n. | 殖民者 | a person or country that colonizes | colonist | -
+w042987.1 | haircare | n. | 护发 | the care of hair, esp. with products | - | -
+w043005.1 | homebuyer | n. | 购房者 | a person who buys a house | - | -
+w043011.1 | hungrily | adv. | 饥饿地, 渴望地 | in an eager or hungry way | greedily, eagerly | -
+w043084.1 | milliliter | n. | 毫升 | one thousandth of a litre | millilitre | -
+w043164.1 | rouble | n. | 卢布 | the currency of Russia | - | -
+w043185.1 | shakily | adv. | 颤抖地, 不稳地 | in a trembling or unsteady way | unsteadily, nervously | steadily
+w043192.1 | sixtieth | num. | 第六十 | the ordinal number of sixty | - | -
+w043243.1 | unbutton | v. | 解开纽扣 | to undo the buttons of | undo | button
+w043247.1 | unluckily | adv. | 不幸地 | unfortunately | unfortunately, sadly | luckily, fortunately
+w043256.1 | weaponize | v. | 使武器化 | to adapt something for use as a weapon | - | -
+w043353.1 | carwash | n. | 洗车场 | a place where cars are washed | - | -
+w043376.1 | cutlet | n. | 肉排, 炸肉饼 | a thin slice of meat for cooking | chop | -
+w043386.1 | determiner | n. | 限定词 | a word like the or this before a noun | - | -
+w043399.1 | earache | n. | 耳痛 | pain inside the ear | - | -
+w043466.1 | inflammable | adj. | 易燃的, 易激动的 | easily set on fire | flammable | nonflammable
+w043496.1 | logout | n. | 注销, 退出登录 | the act of leaving a computer system | - | login
+w043561.1 | photocopier | n. | 复印机 | a machine that copies documents | copier | -
+w043590.1 | resend | v. | 重新发送 | to send something again | - | -
+w043600.1 | rollerblading | n. | 直排轮滑 | skating on in-line skates | - | -
+w043652.1 | teabag | n. | 茶包 | a small bag of tea leaves | - | -
+w043675.1 | unfurnished | adj. | 无家具的 | without furniture | - | furnished
+w043704.1 | adverbial | adj. | 副词的 | relating to or acting as an adverb | - | -
+w043704.2 | adverbial | n. | 状语 | a word or phrase acting as an adverb | - | -
+w043784.1 | coffeemaker | n. | 咖啡机 | a machine for making coffee | - | -
+w043793.1 | courteously | adv. | 有礼貌地 | in a polite and respectful way | politely, respectfully, graciously | rudely
+w043864.1 | horrify | v. | 使震惊, 使恐惧 | to shock and frighten greatly | appal, shock, terrify | -
+w044056.1 | samosa | n. | 萨莫萨三角饺, 咖喱角 | a fried triangular pastry filled with spiced vegetables or meat | - | -
+w044071.1 | smarten | v. | 打扮, 使整洁, 使漂亮 | to make someone or something look neater or more stylish | tidy, spruce up | -
+w044075.1 | speedup | n. | 加速, 提速 | an increase in speed or rate | acceleration | slowdown
+w044096.1 | sweetcorn | n. | 甜玉米 | maize with sweet yellow grains eaten as a vegetable | corn, maize | -
+w044120.1 | uneconomical | adj. | 不经济的, 浪费的 | using too much money or resources | wasteful, uneconomic | economical
+w044121.1 | unlikeable | adj. | 不讨人喜欢的, 令人讨厌的 | not easy to like | unpleasant | likeable
+w044123.1 | unsociable | adj. | 不爱交际的, 孤僻的 | not enjoying the company of others | unfriendly, antisocial | sociable
+w044123.2 | unsociable | adj. | 不合常规时间的 | of working hours outside normal times | antisocial | -
+w044242.1 | compassionately | adv. | 有同情心地, 体贴地 | in a way that shows sympathy and care | sympathetically, kindly, tenderly | -
+w044296.1 | floodlight | n. | 泛光灯, 探照灯 | a powerful lamp for lighting a large area | - | -
+w044296.2 | floodlight | v. | 用泛光灯照亮 | to light a place with floodlights | - | -
+w044297.1 | floorboard | n. | 地板条, 地板 | a long board forming part of a wooden floor | - | -
+w044297.2 | floorboard | n. | 车厢底板 | the floor of a car | - | -
+w044374.1 | jobcentre | n. | 职业介绍所 | a government office helping people find work | - | -
+w044459.1 | naughtiness | n. | 顽皮, 淘气 | bad behaviour, especially by children | mischief, disobedience | -
+w044462.1 | neighbourly | adj. | 睦邻的, 友好的 | friendly and helpful to neighbours | friendly, helpful | unfriendly
+w044496.1 | phonebook | n. | 电话簿 | a book listing phone numbers | directory | -
+w044545.1 | seasickness | n. | 晕船 | sickness caused by the motion of a ship | - | -
+w044570.1 | sunstroke | n. | 中暑 | illness caused by too much sun | heatstroke | -
+w044579.1 | terrorise | v. | 恐吓, 威胁 | to frighten people by threats or violence | intimidate, threaten, terrify | -
+w044634.1 | agreeably | adv. | 愉快地, 令人愉快地 | in a pleasant way | pleasantly, nicely | disagreeably
+w044634.2 | agreeably | adv. | 欣然地, 顺从地 | in a willing way | willingly | -
+w044694.1 | businessperson | n. | 商人, 企业家 | a person who works in business | entrepreneur | -
+w044753.1 | encouragingly | adv. | 鼓励地, 令人鼓舞地 | in a way that gives hope or support | reassuringly, hopefully | discouragingly
+w044760.1 | factsheet | n. | 资料单, 简报 | a sheet giving basic information on a subject | leaflet, handout | -
+w044831.1 | inconveniently | adv. | 不方便地 | in a way that causes problems | awkwardly | conveniently
+w044907.1 | nightwear | n. | 睡衣 | clothes worn in bed | pyjamas | -
+w044909.1 | nonrefundable | adj. | 不可退款的 | that cannot be paid back | - | refundable
+w044931.1 | penalise | v. | 处罚, 惩罚 | to punish someone for breaking a rule | punish, fine | reward
+w044931.2 | penalise | v. | 使处于不利地位 | to put someone at an unfair disadvantage | handicap | -
+w044990.1 | showery | adj. | 多阵雨的 | with frequent showers of rain | rainy, wet | dry
+w044991.1 | showoff | n. | 爱炫耀的人 | a person who tries to impress others with their abilities | boaster, poser | -
+w045028.1 | timespan | n. | 时间跨度, 期间 | a period of time | period, span, duration | -
+w045029.1 | tipoff | n. | 密报, 暗示 | a piece of secret information or a warning | tip, warning | -
+w045029.2 | tipoff | n. | 跳球开赛 | the start of a basketball game | - | -
+w045039.1 | tribesman | n. | 部落成员 | a man who belongs to a tribe | - | -
+w045047.1 | underrate | v. | 低估, 轻视 | to think something is less good than it is | underestimate, undervalue | overrate
+w045320.1 | jobseeker | n. | 求职者 | a person looking for a job | - | -
+w045467.1 | skeptically | adv. | 怀疑地 | in a doubting way | doubtfully, sceptically, suspiciously | -
+w045478.1 | sportsperson | n. | 运动员 | a person who plays sports | athlete, sportsman, sportswoman | -
+w045481.1 | standardise | v. | 使标准化 | to make things the same or regular | standardize, regularise | -
+w045497.1 | terabyte | n. | 太字节 | a unit of data equal to a million million bytes | - | -
+w045506.1 | traumatize | v. | 使受精神创伤 | to cause someone severe emotional shock | shock, scar | -
+w045747.1 | idealize | v. | 把理想化 | to think of something as better than it is | idealise, romanticize | -
+w045848.1 | paralyse | v. | 使瘫痪 | to make someone unable to move | immobilise, cripple | -
+w045848.2 | paralyse | v. | 使停顿 | to stop something from working normally | cripple, halt | -
+w045880.1 | radicalize | v. | 使激进化 | to make someone adopt extreme views | radicalise | -
+w045920.1 | shoplift | v. | 在商店行窃 | to steal goods from a shop | steal | -
+w045943.1 | stomachache | n. | 胃痛, 肚子疼 | a pain in the stomach | - | -
+w045955.1 | synthesise | v. | 合成 | to make a substance by chemical means | produce, manufacture | -
+w045955.2 | synthesise | v. | 综合 | to combine ideas into a whole | combine, integrate | -
+w046051.1 | bedsheet | n. | 床单 | a sheet used on a bed | sheet | -
+w046147.1 | firetruck | n. | 消防车 | a vehicle used to fight fires | fire engine | -
+w046152.1 | fourthly | adv. | 第四 | used to introduce the fourth point | - | -
+w046291.1 | nectarine | n. | 油桃 | a smooth-skinned kind of peach | - | -
+w046351.1 | reword | v. | 改写, 换个说法 | to express something again using different words | rephrase, paraphrase | -
+w046408.1 | synchronise | v. | 使同步, 同时发生 | to make things happen at the same time | synchronize, coordinate | -
+w046428.1 | toiletry | n. | 盥洗用品, 化妆品 | an item used for washing and grooming | - | -
+w046444.1 | uncertainly | adv. | 犹豫地, 不确定地 | in a way that shows doubt | doubtfully, hesitantly | confidently, certainly
+w046470.1 | wastebasket | n. | 废纸篓 | a container for waste paper | bin | -
+w046816.1 | pinecone | n. | 松果 | the hard woody fruit of a pine tree | - | -
+w046826.1 | popularise | v. | 普及, 推广 | to make something widely known or liked | popularize, spread | -
+w046971.1 | accustom | v. | 使习惯 | to make someone used to something | familiarise, adapt | -
+w047034.1 | breadcrumb | n. | 面包屑 | a very small piece of bread | crumb | -
+w047034.2 | breadcrumb | v. | 裹面包屑 | to cover food with breadcrumbs | - | -
+w047060.1 | civilize | v. | 使文明, 教化 | to make a society more advanced | develop, enlighten | -
+w047060.2 | civilize | v. | 使有教养 | to make someone more polite | refine | -
+w047119.1 | flashcard | n. | 抽认卡, 闪卡 | a card used to help memorize words | - | -
+w047174.1 | immunize | v. | 使免疫, 接种疫苗 | to protect from disease by vaccination | vaccinate, inoculate, immunise | -
+w047302.1 | protractor | n. | 量角器 | a tool for measuring angles | - | -
+w047626.1 | irregardless | adv. | 不管, 无论如何 | regardless, used nonstandardly | regardless | -
+w047706.1 | mousepad | n. | 鼠标垫 | a small mat for using a computer mouse on | - | -
+w047714.1 | nearsighted | adj. | 近视的 | unable to see distant things clearly | short-sighted | -
+w047718.1 | nonalcoholic | adj. | 不含酒精的 | not containing alcohol | soft | alcoholic
+w047749.1 | passionfruit | n. | 百香果, 西番莲果 | a purple tropical fruit with many seeds | - | -
+w047774.1 | postgrad | n. | 研究生 | a postgraduate student | postgraduate | undergraduate
+w047774.2 | postgrad | adj. | 研究生的 | relating to postgraduate study | postgraduate | undergraduate
+w047798.1 | roadwork | n. | 道路施工 | repairs being done to a road | - | -
+w047798.2 | roadwork | n. | 长跑训练 | running as part of athletic training | - | -
+w047809.1 | scallion | n. | 葱, 青葱 | a young onion with a long green stem | spring onion | -
+w047903.1 | worktop | n. | 厨房台面, 操作台 | a flat surface for preparing food in a kitchen | counter, countertop | -
+w048027.1 | daunt | v. | 使胆怯, 吓住 | to make someone feel afraid or discouraged | intimidate, discourage, dishearten | encourage
+w048038.1 | distil | v. | 蒸馏 | to purify a liquid by heating and cooling | purify, refine | -
+w048038.2 | distil | v. | 提炼, 浓缩 | to extract the essential meaning of something | condense, extract, sum up | -
+w048098.1 | greengrocer | n. | 蔬果商, 果蔬店 | a person or shop selling fruit and vegetables | - | -
+w048296.1 | sadden | v. | 使悲伤 | to make someone sad | upset, depress | cheer, gladden
+w048552.1 | elapse | v. | 流逝, 过去 | of time, to pass | pass, go by | -
+w048595.1 | gerund | n. | 动名词 | a verb form ending in -ing used as a noun | - | -
+w048736.1 | phrasal | adj. | 短语的 | relating to phrases | - | -
+w048992.1 | collocation | n. | 搭配, 词语搭配 | a common combination of words used together | - | -
+w049004.1 | cuboid | n. | 长方体 | a solid shape with six rectangular faces | - | -
+w049004.2 | cuboid | adj. | 立方形的 | shaped roughly like a cube | - | -
+w049222.1 | nightshift | n. | 夜班 | a period of work during the night | - | -
+w049488.1 | braise | v. | 炖, 焖 | to cook slowly in a covered pot with liquid | stew | -
+w049496.1 | burgle | v. | 入室盗窃 | to break into a building and steal things | rob, burglarize | -
+w049773.1 | quieten | v. | 使安静, 平静下来 | to make or become quiet | quiet, calm, hush, silence | -
+w050330.1 | rebelliousness | n. | 叛逆, 反抗性 | the quality of resisting authority | defiance, disobedience | obedience
+w050332.1 | repayable | adj. | 须偿还的, 可偿还的 | that must or can be paid back | - | -
+w050362.1 | seventieth | num. | 第七十 | coming after the sixty-ninth | - | -
+w050370.1 | sixfold | adj. | 六倍的 | six times as great | - | -
+w050370.2 | sixfold | adv. | 六倍地 | by six times | - | -
+w050395.1 | threateningly | adv. | 威胁地, 恐吓地 | in a way that expresses a threat | menacingly | -
+w050419.1 | ungrammatical | adj. | 不合语法的 | not following grammar rules | incorrect | grammatical
+w050500.1 | bellboy | n. | 行李员 | a hotel worker who carries bags | porter, bellhop | -
+w050619.1 | fantasise | v. | 幻想 | to imagine pleasant things | daydream, dream, imagine | -
+w050869.1 | sportswoman | n. | 女运动员 | a woman who plays sports | athlete, sportsperson | sportsman
+w050921.1 | unkindly | adv. | 不友善地 | in an unkind way | cruelly, harshly | kindly
+w051085.1 | enjoyably | adv. | 愉快地 | in an enjoyable way | pleasantly | -
+w051093.1 | excitingly | adv. | 令人兴奋地 | in an exciting way | thrillingly | -
+w051108.1 | flowerpot | n. | 花盆 | a pot for growing plants | pot | -
+w051245.1 | nightdress | n. | 女式睡衣 | a loose dress worn in bed | nightgown, nightie | -
+w051360.1 | toadstool | n. | 毒蘑菇, 伞菌 | a poisonous mushroom | - | -
+w051535.1 | dartboard | n. | 飞镖靶 | a round board used in darts | - | -
+w051659.1 | industrialize | v. | 使工业化 | to develop industry in a place | industrialise | -
+w051689.1 | kiwifruit | n. | 猕猴桃 | a brown hairy fruit with green flesh | kiwi | -
+w051743.1 | mesmerize | v. | 迷住, 使着迷, 吸引 | to hold someone's attention completely | fascinate, captivate, enchant, spellbind | -
+w051743.2 | mesmerize | v. | 施催眠术 | to hypnotize someone | hypnotize | -
+w052031.1 | chequebook | n. | 支票簿 | a book of cheques | - | -
+w052049.1 | counterargument | n. | 反驳论点, 反论 | an argument against another argument | rebuttal | -
+w052070.1 | disapprovingly | adv. | 不赞成地 | in a way that shows disapproval | critically | approvingly
+w052101.1 | flavourful | adj. | 味道浓的, 可口的 | having a strong pleasant taste | tasty, flavoursome | bland, tasteless
+w052161.1 | hydroelectricity | n. | 水力发电 | electricity produced by moving water | - | -
+w052189.1 | keycard | n. | 门卡, 房卡 | a plastic card used to open a door | - | -
+w052390.1 | shuttlecock | n. | 羽毛球, 毽子 | the feathered object hit in badminton | shuttle, birdie | -
+w052391.1 | sidetrack | v. | 使分心, 转移话题 | to distract someone from the main subject | distract, divert | -
+w052391.2 | sidetrack | n. | 侧线 | a railway siding | - | -
+w052494.1 | anticlockwise | adv. | 逆时针地 | in the opposite direction to clock hands | counterclockwise | clockwise
+w052494.2 | anticlockwise | adj. | 逆时针的 | moving anticlockwise | counterclockwise | clockwise
+w052497.1 | antonym | n. | 反义词 | a word with the opposite meaning | opposite | synonym
+w052673.1 | grannie | n. | 奶奶, 外婆 | a grandmother | granny, grandma, grandmother | -
+w052825.1 | paycheque | n. | 工资支票, 薪水 | a cheque for wages | paycheck | -
+w052840.1 | policymaker | n. | 政策制定者 | a person who makes government policies | - | -
+w052871.1 | runup | n. | 准备阶段, 前夕 | the period before an important event | build-up | aftermath
+w052993.1 | workmate | n. | 同事 | a person you work with | colleague | -
+w002315.1 | matt | adj. | 无光泽的, 亚光的 | not shiny | dull, matte | glossy, shiny
+w053123.1 | crouton | n. | 油炸面包丁 | a small piece of fried or toasted bread | - | -
+w053125.1 | crystallise | v. | 使具体化, 明确 | to make ideas or feelings clear and fixed | clarify, solidify | -
+w053125.2 | crystallise | v. | 结晶 | to form crystals | - | -
+w053139.1 | disorient | v. | 使迷失方向, 使困惑 | to make someone confused about where they are | confuse, disorientate, bewilder | -
+w053163.1 | eightieth | num. | 第八十 | coming after seventy-nine others in order | - | -
+w053215.1 | halfhearted | adj. | 不热心的, 敷衍的 | done without enthusiasm or effort | unenthusiastic, lukewarm, half-hearted | wholehearted
+w053227.1 | homestay | n. | 寄宿家庭 | a stay with a local family when visiting abroad | - | -
+w053346.1 | nonsmoking | adj. | 禁烟的 | where smoking is not allowed | - | smoking
+w053346.2 | nonsmoking | adj. | 不吸烟的 | not having the habit of smoking | - | smoking
+w053355.1 | orientate | v. | 使适应, 熟悉环境 | to become familiar with a new situation | adjust, adapt, familiarise | -
+w053355.2 | orientate | v. | 确定方向 | to find one's position | orient | -
+w053358.1 | oversleep | v. | 睡过头 | to sleep longer than one intended | - | -
+w053389.1 | ramification | n. | 后果, 影响 | a possible result of an action, usually unexpected | consequence, repercussion, implication | -
+w053529.1 | antiperspirant | n. | 止汗剂 | a substance to stop sweating under the arms | deodorant | -
+w053569.1 | bloodstain | n. | 血迹 | a mark left by blood | - | -
+w053669.1 | fertilise | v. | 施肥 | to add substances to soil to help plants grow | enrich, feed | -
+w053669.2 | fertilise | v. | 使受精 | to join male and female cells to make new life | impregnate | -
+w053676.1 | formalise | v. | 使正式化 | to make an arrangement official | - | -
+w053738.1 | impoverish | v. | 使贫穷 | to make someone poor | bankrupt, ruin | enrich
+w053738.2 | impoverish | v. | 使贫瘠, 削弱 | to make something worse in quality | weaken, deplete | enrich
+w053773.1 | launderette | n. | 自助洗衣店 | a shop with coin-operated washing machines | laundrette, laundromat | -
+w054087.1 | baptise | v. | 为施洗礼 | to perform a Christian ceremony of baptism | christen | -
+w054087.2 | baptise | v. | 命名 | to give a name to | christen, name, dub | -
+w054258.1 | homonym | n. | 同音同形异义词 | a word spelt or sounded like another but different in meaning | - | -
+w054400.1 | pigsty | n. | 猪圈 | a pen for pigs | sty | -
+w054400.2 | pigsty | n. | 脏乱的地方 | a very dirty or untidy place | dump, mess, tip | -
+w054547.1 | videoconference | n. | 视频会议 | a meeting held using video links | - | -
+w054615.1 | bedsit | n. | 卧室兼起居室 | a rented room used for living and sleeping | studio | -
+w054639.1 | boringly | adv. | 乏味地, 无聊地 | in a dull and uninteresting way | dully, tediously | excitingly
+w054683.1 | coziness | n. | 舒适, 温暖 | the state of being warm and comfortable | snugness, comfort, warmth | -
+w055003.1 | reelect | v. | 再次选举, 连任 | to elect someone again | - | -
+w055059.1 | sterilise | v. | 消毒, 杀菌 | to make something free of germs | disinfect, sanitize | contaminate
+w055059.2 | sterilise | v. | 使绝育 | to make unable to have children | neuter | -
+w055065.1 | synthesiser | n. | 合成器 | an electronic instrument producing sounds | synthesizer | -
+w055286.1 | dustpan | n. | 簸箕 | a flat pan for collecting swept dust | - | -
+w055299.1 | enviously | adv. | 羡慕地, 嫉妒地 | with envy | jealously | -
+w055347.1 | guiltily | adv. | 内疚地 | in a way showing guilt | sheepishly, shamefacedly | innocently
+w055504.1 | postbox | n. | 邮筒 | a public box for posting letters | letterbox, mailbox | -
+w056002.1 | mispronounce | v. | 读错, 发错音 | to say a word wrongly | - | -
+w056004.1 | moisturise | v. | 保湿, 滋润 | to put cream on skin to make it less dry | - | -
+w056081.1 | resit | v. | 重考, 补考 | to take an exam again after failing | retake | -
+w056081.2 | resit | n. | 补考 | an exam taken again | retake | -
+w056098.1 | scruple | n. | 顾忌, 道德原则 | a feeling that stops you doing something wrong | qualm, misgiving | -
+w056098.2 | scruple | v. | 顾忌, 犹豫 | to hesitate for moral reasons | hesitate | -
+w056152.1 | theorise | v. | 建立理论, 推测 | to form a theory about something | speculate, hypothesise | -
+w056557.1 | perplex | v. | 使困惑, 使迷惑 | to make someone confused | puzzle, baffle, bewilder, confuse | -
+w056948.1 | homophone | n. | 同音异义词 | a word sounding like another but different in meaning | - | -
+w057217.1 | textbox | n. | 文本框 | an area on a screen where text can be typed | - | -
+w057259.1 | washbasin | n. | 洗脸盆, 洗手池 | a fixed bowl for washing hands and face | basin, sink | -
+w057368.1 | centralise | v. | 集中, 使集权 | to bring under one central control | centralize | decentralise
+w057555.1 | latecomer | n. | 迟到者, 后来者 | a person who arrives late | - | -
+w057566.1 | lifejacket | n. | 救生衣 | a jacket that keeps a person afloat in water | life jacket | -
+w057837.1 | answerphone | n. | 电话答录机 | a machine that records phone messages | - | -
+w058289.1 | sellotape | n. | 透明胶带 | clear sticky tape | - | -
+w058289.2 | sellotape | v. | 用胶带粘 | to stick with clear tape | tape | -
+w058629.1 | humanlike | adj. | 像人的, 类人的 | resembling a human being | - | -
+w058730.1 | midafternoon | n. | 午后 | the middle part of the afternoon | - | -
+w058736.1 | monopolise | v. | 垄断, 独占 | to have complete control of something | dominate, control | -
+w058763.1 | nonthreatening | adj. | 无威胁的 | not causing fear or danger | harmless, safe | threatening
+w058809.1 | proficiently | adv. | 熟练地, 精通地 | with skill and expertise | skilfully, expertly, competently | incompetently
+w059220.1 | idolise | v. | 崇拜, 偶像化 | to admire someone very much | worship, adore, revere | despise
+w060039.1 | timesheet | n. | 考勤表, 工时记录表 | a record of hours worked by an employee | - | -
+w060042.1 | tombola | n. | 抽奖游戏, 摸彩 | a lottery where tickets are drawn from a drum | raffle, lottery | -
+w060045.1 | transwoman | n. | 跨性别女性 | a woman who was assigned male at birth | - | -
+w060076.1 | wader | n. | 涉禽 | a long-legged bird that feeds in shallow water | - | -
+w060076.2 | wader | n. | 高筒防水靴 | high waterproof boots for standing in water | - | -
+w060078.1 | webcasting | n. | 网络直播 | broadcasting events live over the internet | - | -
+w060093.1 | zipcode | n. | 邮政编码 | a postal code in the US | postcode, zip code | -
+w060100.1 | adoringly | adv. | 爱慕地, 崇拜地 | in a way showing great love or admiration | lovingly, fondly | -
+w060114.1 | anchorwoman | n. | 女新闻主播 | a woman who presents a news programme | newsreader, presenter | -
+w060125.1 | autofill | n. | 自动填充 | a feature that fills in forms automatically | autocomplete | -
+w060125.2 | autofill | v. | 自动填写 | to fill in data automatically | - | -
+w060192.1 | coalmine | n. | 煤矿 | a mine where coal is dug | colliery, pit | -
+w060250.1 | fishpond | n. | 鱼塘 | a pond where fish are kept or bred | - | -
+w060275.1 | godchild | n. | 教子, 教女 | a child a godparent promises to guide | - | -
+w060281.1 | guestroom | n. | 客房 | a bedroom for visitors to stay in | spare room | -
+w060451.1 | penpal | n. | 笔友 | a friend you write letters to | - | -
+w060557.1 | stalactite | n. | 钟乳石 | a rock spike hanging from a cave roof | - | -
+w007074.1 | destined | adj. | 注定的, 命中注定的 | certain to happen because of fate | fated | -
+w007074.2 | destined | adj. | 开往的, 运往的 | travelling towards a particular place | bound | -
+w060873.1 | housefly | n. | 家蝇 | the common fly found in houses | fly | -
+w061016.1 | outbox | n. | 发件箱 | a folder for emails waiting to be sent | - | inbox
+w061016.2 | outbox | n. | 待发文件盒 | a tray for outgoing papers | - | inbox
+w061039.1 | pictogram | n. | 象形图, 图示 | a picture used as a symbol for a word | symbol, icon | -
+w061429.1 | grandkid | n. | 孙子女 | a grandchild | grandchild | -
+w061437.1 | halfheartedly | adv. | 半心半意地, 敷衍地 | without real interest or enthusiasm | unenthusiastically | wholeheartedly
+w061441.1 | haughtily | adv. | 傲慢地, 高傲地 | in a proud and unfriendly way | arrogantly, proudly | humbly
+w061543.1 | moviegoer | n. | 常看电影的人, 影迷 | a person who often goes to the cinema | cinemagoer | -
+w061554.1 | nonsmoker | n. | 不吸烟者 | a person who does not smoke | - | smoker
+w061559.1 | notepaper | n. | 信纸, 便笺纸 | paper for writing letters or notes | writing paper | -
+w061585.1 | pensively | adv. | 沉思地, 若有所思地 | in a deeply thoughtful way | thoughtfully | -
+w061881.1 | deafen | v. | 使耳聋, 震耳欲聋 | to make unable to hear through loud noise | - | -
+w061973.1 | hankie | n. | 手帕 | a handkerchief | handkerchief, tissue | -
+w062099.1 | noticeboard | n. | 布告栏 | a board for putting up notices | bulletin board | -
+w062427.1 | coffeepot | n. | 咖啡壶 | a pot for making or serving coffee | - | -
+w062452.1 | deckchair | n. | 折叠躺椅 | a folding chair used outdoors | - | -
+w062563.1 | hosepipe | n. | 软管, 水管 | a long flexible tube for water | hose | -
+w062565.1 | hospitalize | v. | 使住院 | to admit someone to hospital | - | discharge
+w062585.1 | irritably | adv. | 烦躁地, 恼怒地 | in an annoyed, impatient way | crossly, impatiently, testily | patiently
+w062810.1 | thinkable | adj. | 可以想象的, 可考虑的 | possible to imagine or consider | conceivable, imaginable, possible | unthinkable
+w062847.1 | wastepaper | n. | 废纸 | paper that has been thrown away | - | -
+w063020.1 | digitise | v. | 数字化 | to convert into digital form | digitize | -
+w063165.1 | laundrette | n. | 自助洗衣店 | a place with coin-operated washing machines | launderette, laundromat | -
+w063594.1 | commercialise | v. | 使商业化 | to manage something mainly for profit | commercialize | -
+w063967.1 | schoolbag | n. | 书包 | a bag for carrying school books | satchel | -
+w064150.1 | bewilder | v. | 使困惑, 使糊涂 | to confuse someone completely | confuse, baffle, puzzle, perplex | -
+w064207.1 | cornflake | n. | 玉米片 | a flake of toasted maize eaten as cereal | - | -
+w064442.1 | ninetieth | num. | 第九十 | number ninety in a series | - | -
+w064442.2 | ninetieth | n. | 九十分之一 | one of ninety equal parts | - | -
+w064496.1 | placemat | n. | 餐具垫 | a small mat put under a plate on a table | mat | -
+w064517.1 | redial | v. | 重拨 | to dial a phone number again | - | -
+w064517.2 | redial | n. | 重拨键 | a phone function that dials the last number again | - | -
+w064755.1 | childminder | n. | 保姆, 看孩子的人 | a person paid to look after children at home | babysitter, nanny | -
+w065174.1 | staffroom | n. | 教员休息室 | a room for teachers in a school | - | -
+w065183.1 | suncream | n. | 防晒霜 | cream that protects skin from the sun | sunscreen, sunblock | -
+w065404.1 | destine | v. | 注定, 预定 | to set apart for a particular purpose or fate | intend, fate | -
+w065801.1 | thundercloud | n. | 雷雨云 | a large dark cloud that brings thunder | - | -
+w065820.1 | underpay | v. | 少付工资, 付酬过低 | to pay someone too little | - | overpay
+w065856.1 | WFH | abbr. | 居家办公 | working from home | - | -
+w066039.1 | dishcloth | n. | 洗碗布 | a cloth for washing or drying dishes | dishrag, tea towel | -
+w066048.1 | dustman | n. | 清洁工, 垃圾工 | a person who collects rubbish | binman | -
+w066224.1 | mishandle | v. | 处理不当 | to deal with something badly | mismanage, bungle | -
+w066224.2 | mishandle | v. | 粗暴对待 | to treat roughly | manhandle | -
+w066411.1 | vandalise | v. | 故意破坏 | to deliberately damage property | vandalize, deface, wreck | -
+w066441.1 | achoo | int. | 阿嚏 | the sound of a sneeze | - | -
+w066543.1 | carsick | adj. | 晕车的 | feeling sick while travelling in a car | - | -
+w066633.1 | dramatise | v. | 改编成剧本 | to adapt as a play or film | adapt, dramatize | -
+w066633.2 | dramatise | v. | 夸张, 渲染 | to exaggerate | exaggerate, dramatize | downplay
+w066634.1 | dreadlock | n. | 脏辫, 骇人长发绺 | a long tightly twisted lock of hair | - | -
+w066783.1 | lifebuoy | n. | 救生圈 | a floating ring to save someone in water | - | -
+w066853.1 | nonrenewable | adj. | 不可再生的 | not able to be replaced naturally | finite, exhaustible | renewable
+w066870.1 | overleaf | adv. | 在背面 | on the other side of the page | - | -
+w066945.1 | salesgirl | n. | 女店员 | a young woman who sells goods in a shop | shop assistant, saleswoman | -
+w067089.1 | antiterrorist | adj. | 反恐的 | intended to prevent or fight terrorism | counterterrorist | -
+w067107.1 | bagful | n. | 一袋, 一袋之量 | the amount a bag can hold | - | -
+w067156.1 | canape | n. | 开胃小点心 | a small piece of bread with food on top | - | -
+w067165.1 | cautiousness | n. | 谨慎, 小心 | the quality of being careful to avoid risk | caution, carefulness, prudence | recklessness, rashness
+w067205.1 | cufflink | n. | 袖扣 | a small fastener for a shirt cuff | - | -
+w067289.1 | grandpapa | n. | 爷爷, 外公 | grandfather | grandfather, grandpa, granddad | -
+w067296.1 | hairband | n. | 发箍, 发带 | a band worn to keep hair back | headband | -
+w067332.1 | innovatively | adv. | 创新地 | in a new and original way | creatively, inventively, originally | -
+w067407.1 | microblog | n. | 微博 | a blog with very short posts | - | -
+w067407.2 | microblog | v. | 发微博 | to post short updates online | - | -
+w067428.1 | multitasker | n. | 多任务者 | a person who does several things at once | - | -
+w067479.1 | phrasebook | n. | 常用语手册 | a book of useful phrases for travellers | - | -
+w067540.1 | schoolchild | n. | 学童 | a child who goes to school | pupil, schoolkid | -
+w067541.1 | seatmate | n. | 邻座 | a person sitting next to you | - | -
+w067556.1 | sightsee | v. | 观光, 游览 | to visit famous places as a tourist | tour | -
+w067801.1 | digitalisation | n. | 数字化 | the change to using digital technology | digitization | -
+w067881.1 | hardhat | n. | 安全帽 | a protective helmet for building workers | helmet | -
+w067961.1 | lovesong | n. | 情歌 | a song about love | ballad | -
+w068005.1 | miscalculate | v. | 误算, 判断错误 | to judge or calculate wrongly | misjudge | -
+w068077.1 | predetermine | v. | 预先决定, 预定 | to decide something in advance | predestine, prearrange | -
+w068122.1 | schoolbook | n. | 教科书, 课本 | a book used for study in schools | textbook | -
+w068204.1 | unfasten | v. | 解开, 松开 | to open something that is fastened | undo, open | fasten
+w068211.1 | vacantly | adv. | 茫然地, 发呆地 | without showing thought or interest | blankly, absently | -
+w068258.1 | aftereffect | n. | 后效, 余波 | an effect that follows after the main cause | aftermath, consequence, side effect | -
+w068339.1 | bitesize | adj. | 一口大小的, 小份的 | small enough to eat in one bite | - | -
+w068699.1 | petrify | v. | 使惊呆, 使石化 | to frighten greatly or turn to stone | terrify, horrify, frighten | -
+w068730.1 | rasher | n. | 薄肉片, 培根片 | a thin slice of bacon | slice | -
+w069395.1 | sanitiser | n. | 消毒剂, 洗手液 | a liquid that kills germs | disinfectant, sanitizer | -
+w069502.1 | windsurf | v. | 玩帆板, 风帆冲浪 | to ride on a board with a sail | - | -
+w069798.1 | holidaymaker | n. | 度假者 | a person on holiday | tourist, vacationer | -
+w069872.1 | maraca | n. | 沙槌 | a shaken rattle used as a musical instrument | - | -
+w069874.1 | marginalise | v. | 使边缘化 | to treat as unimportant | sideline, exclude | include
+w069949.1 | payslip | n. | 工资单 | a note showing how much you are paid | - | -
+w069992.1 | radicalise | v. | 使激进 | to make someone adopt extreme views | radicalize | -
+w070246.1 | cashpoint | n. | 自动取款机 | a cash machine | ATM, cash machine | -
+w070375.1 | gramme | n. | 克 | a unit of mass, one thousandth of a kilogram | gram | -
+w070511.1 | mocktail | n. | 无酒精鸡尾酒 | a cocktail without alcohol | - | -
+w070794.1 | appal | v. | 使震惊, 使惊骇 | to shock someone very much | shock, horrify, disgust | -
+w070999.1 | globalize | v. | 全球化 | to spread or operate around the world | globalise | -
+w071043.1 | hypnotise | v. | 催眠, 迷住 | to put someone into a state like sleep | hypnotize, mesmerize | -
+w072059.1 | appetiser | n. | 开胃菜, 开胃小吃 | a small dish served before the main meal | starter | dessert
+w072083.1 | backrub | n. | 背部按摩 | a massage of the back | massage | -
+w072145.1 | carefulness | n. | 小心, 谨慎 | the quality of being careful | care, caution | carelessness
+w072319.1 | hypothesise | v. | 假设, 推测 | to suggest an idea as a possible explanation | hypothesize, speculate, theorise | -
+w072330.1 | invigilator | n. | 监考人 | a person who watches students during an exam | proctor | -
+w072373.1 | lockerroom | n. | 更衣室 | a room for changing clothes at a gym | locker room | -
+w072411.1 | mismanage | v. | 管理不善 | to manage something badly | mishandle, bungle | -
+w072959.1 | largescale | adj. | 大规模的 | involving many people or things | large-scale, extensive, massive | small-scale
+w072993.1 | millilitre | n. | 毫升 | one thousandth of a litre | milliliter | -
+w073473.1 | forkful | n. | 一叉的量 | the amount a fork can hold | - | -
+w073978.1 | broadminded | adj. | 心胸开阔的 | willing to accept other views and behavior | open-minded, tolerant, liberal | -
+w074272.1 | misgiving | n. | 疑虑, 担忧 | a feeling of doubt or worry | doubt, qualm, apprehension, reservation | -
+w074718.1 | fifthly | adv. | 第五 | used to introduce the fifth point | - | -
+w074727.1 | forename | n. | 名字 | a person's first name | first name, given name | surname
+w075381.1 | earplug | n. | 耳塞 | a small piece of soft material put in the ear | - | -
+w075948.1 | cloze | n. | 完形填空 | a test where learners fill in missing words | - | -
+w075972.1 | cupful | n. | 一杯的量 | the amount a cup holds | - | -
+w076038.1 | flavourless | adj. | 无味的, 淡而无味的 | having no taste | tasteless, bland | flavourful, tasty
+w076221.1 | mudguard | n. | 挡泥板 | a curved cover over a wheel to stop mud | fender | -
+w076367.1 | sightseer | n. | 观光者, 游客 | a person visiting interesting places | tourist | -
+w077363.1 | gloominess | n. | 阴暗, 忧郁, 沮丧 | the state of being dark or sad | gloom, darkness, sadness | cheerfulness
+w077369.1 | goosebump | n. | 鸡皮疙瘩 | a small raised bump on the skin from cold or fear | - | -
+w077400.1 | idealise | v. | 理想化 | to think of something as better than it is | idealize, romanticize | -
+w077427.1 | keypress | n. | 按键 | an act of pressing a key on a keyboard | keystroke | -
+w077499.1 | monolog | n. | 独白 | a long speech by one person | monologue, soliloquy | dialogue
+w077966.1 | flyswatter | n. | 苍蝇拍 | a tool for killing flies | - | -
+w078280.1 | sceptically | adv. | 怀疑地 | in a doubting way | doubtfully, skeptically, suspiciously | -
+w078321.1 | subfolder | n. | 子文件夹 | a folder inside another folder | - | -
+w078804.1 | nondairy | adj. | 非乳制的, 不含乳制品的 | not containing milk or milk products | - | -
+w078809.1 | numerate | adj. | 有计算能力的, 懂数学的 | able to understand and work with numbers | - | innumerate
+w080093.1 | rightwards | adv. | 向右, 往右 | toward the right | right | leftwards
+w080386.1 | computerize | v. | 使计算机化 | to use computers to do or store something | computerise | -
+w080536.1 | homewards | adv. | 向家, 回家地 | toward home | home | -
+w080596.1 | limescale | n. | 水垢 | a hard white deposit from hard water | scale | -
+w084167.1 | crossly | adv. | 生气地, 恼怒地 | in an annoyed way | angrily, irritably | -
+w084199.1 | disappointedly | adv. | 失望地 | in a way that shows disappointment | - | -
+w084330.1 | industrialise | v. | 使工业化 | to develop industries in a country or region | industrialize | -
+w084611.1 | swearword | n. | 脏话, 骂人的话 | a rude or offensive word | swear word, curse, obscenity | -
+w085361.1 | beachball | n. | 沙滩球 | a large light inflatable ball | - | -
+w085411.1 | candleholder | n. | 烛台 | an object that holds a candle | candlestick | -
+w085444.1 | crispbread | n. | 脆饼干 | a thin dry crisp biscuit made from rye | - | -
+w085562.1 | glassful | n. | 一满杯 | the amount a glass holds | - | -
+w085843.1 | snowplough | n. | 扫雪机 | a vehicle for clearing snow from roads | snowplow | -
+w086187.1 | golfball | n. | 高尔夫球 | a small hard ball used in golf | - | -
+w086511.1 | systematical | adj. | 系统的 | systematic | systematic, methodical, orderly | unsystematic
+w086542.1 | truckdriver | n. | 卡车司机 | a person who drives a truck | trucker | -
+w086588.1 | wellie | n. | 威灵顿长筒靴 | a rubber boot reaching the knee | - | -
+w086594.1 | whatchamacallit | n. | 那个什么东西 | a thing whose name you forget | thingamajig, thingy | -
+w086602.1 | writeoff | n. | 注销, 报废物 | a debt cancelled or a thing beyond repair | wreck | -
+w086721.1 | castanet | n. | 响板 | a pair of small wooden shells clicked in the hand | - | -
+w086971.1 | mishear | v. | 听错, 误听 | to hear something wrongly | - | -
+w087723.1 | plagiarise | v. | 剽窃, 抄袭 | to copy another's work as your own | copy, steal | -
+w087838.1 | tablespoonful | n. | 一大汤匙的量 | the amount a tablespoon can hold | - | -
+w087863.1 | tranquiliser | n. | 镇静剂 | a drug that makes a person calm | sedative, tranquillizer | stimulant
+w089137.1 | underachieve | v. | 未发挥潜力, 成绩不佳 | to do less well than expected | - | overachieve
+w089248.1 | beancurd | n. | 豆腐 | tofu | tofu | -
+w091160.1 | audiocassette | n. | 录音带 | a cassette for recording sound | cassette, tape | -
+w091300.1 | dizzily | adv. | 头晕地, 令人眩晕地 | in a dizzy way | giddily | -
+w092483.1 | bootlace | n. | 靴带, 鞋带 | a long lace for fastening boots | lace | -
+w092599.1 | earmuff | n. | 耳罩 | one of a pair of warm coverings for the ears | - | -
+w092921.1 | schoolkid | n. | 学童 | a schoolchild | schoolchild, pupil | -
+w093308.1 | headhunt | v. | 物色人才, 挖角 | to recruit someone from another company | recruit, poach | -
+w093405.1 | maltreat | v. | 虐待 | to treat cruelly or violently | mistreat, abuse | -
+w093436.1 | mislay | v. | 放错地方, 遗失 | to lose something temporarily | misplace, lose | find
+w093575.1 | semiformal | adj. | 半正式的 | fairly formal but not completely so | - | -
+w093827.1 | cybercafe | n. | 网吧 | a cafe where customers can use the internet | internet cafe | -
+w094508.1 | coursebook | n. | 课本, 教材 | a book used by students on a course | textbook | -
+w094648.1 | immunise | v. | 使免疫, 接种疫苗 | to protect someone from a disease by vaccination | vaccinate, immunize, inoculate | -
+w097031.1 | flexitime | n. | 弹性工作制 | a system letting workers choose their hours | flextime | -
+w097330.1 | salesclerk | n. | 售货员 | a person who serves customers in a shop | shop assistant, clerk | -
+w097545.1 | bumbag | n. | 腰包 | a small bag worn around the waist | fanny pack | -
+w098972.1 | kilojoule | n. | 千焦 | a unit of energy equal to 1000 joules | - | -
+w099048.1 | naughtily | adv. | 顽皮地, 淘气地 | in a badly behaved way | mischievously, badly | -
+w099223.1 | tealeaf | n. | 茶叶 | a leaf of the tea plant, especially after brewing | - | -
+w100800.1 | humidify | v. | 加湿 | to make the air more humid | moisten | dehumidify
+w102659.1 | kickboard | n. | 打水板 | a floating board used for swimming practice | float | -
+w103478.1 | postwoman | n. | 女邮递员 | a woman who delivers mail | postman | -
+w104265.1 | airsick | adj. | 晕机的 | feeling sick from flying | - | -
+w106155.1 | bankbook | n. | 存折 | a book recording a customer's bank deposits | passbook | -
+w107194.1 | sixthly | adv. | 第六 | as the sixth point | - | -
+w107513.1 | honeymooner | n. | 度蜜月者 | a person on a honeymoon | - | -
+w107950.1 | bedlinen | n. | 床上用品, 床单被套 | sheets and pillowcases for a bed | bedding | -
+w110239.1 | computerise | v. | 使计算机化 | to put into a computer system | computerize, digitise | -
+w110242.1 | hospitalise | v. | 送进医院 | to admit someone to hospital | hospitalize | -
+w110246.1 | theatergoer | n. | 戏迷, 常看戏的人 | a person who often goes to the theatre | playgoer | -
+w110335.1 | beefburger | n. | 牛肉汉堡 | a flat round cake of minced beef | hamburger, burger | -
+w118946.1 | anklebone | n. | 距骨, 踝骨 | the bone of the ankle joint | - | -
+w147496.1 | dampish | adj. | 微湿的, 潮乎乎的 | slightly damp | damp, moist | dry
+w150311.1 | dessertspoon | n. | 甜点匙, 点心勺 | a medium-sized spoon for eating desserts | - | -
+w156863.1 | eggcup | n. | 蛋杯 | a small cup for holding a boiled egg | - | -
+w163696.1 | facecloth | n. | 洗脸毛巾 | a small cloth for washing the face | flannel, washcloth | -
+w185619.1 | invigilate | v. | 监考 | to watch students during an exam | supervise, proctor | -
+w202373.1 | minibeast | n. | 小动物, 小虫 | a small invertebrate such as an insect | bug | -
+w203027.1 | mistranslate | v. | 误译 | to translate incorrectly | - | -
+w204758.1 | motorize | v. | 使机动化 | to equip with motors or motor vehicles | mechanize | -
+w205084.1 | mugful | n. | 一杯之量 | the amount a mug holds | - | -
+w212621.1 | oilcan | n. | 油壶, 加油罐 | a can with a long spout for oiling machines | - | -
+w212642.1 | oilrig | n. | 石油钻塔 | a structure for drilling oil at sea | - | -
+w217795.1 | panfry | v. | 用平底锅煎 | to fry in a shallow pan | fry | -
+w220486.1 | penfriend | n. | 笔友 | a person you write letters to as a friend | penpal, pen pal | -
+w223440.1 | phonecard | n. | 电话卡 | a card used to pay for phone calls | - | -
+w229743.1 | powerlessly | adv. | 无力地, 无能为力地 | without power or ability to act | helplessly | powerfully
+w240831.1 | riskily | adv. | 冒险地 | in a risky way | dangerously | safely
+w249463.1 | soupspoon | n. | 汤匙 | a large spoon for eating soup | - | -
+w249625.1 | sparerib | n. | 排骨 | a rib of pork with little meat | - | -
+w250874.1 | spongecake | n. | 海绵蛋糕 | a light cake made with eggs and flour | sponge | -
+w255268.1 | sundrenched | adj. | 阳光充足的 | having a lot of sunshine | sunny | -
+w258007.1 | tapescript | n. | 录音文本 | a written text of a recording | transcript | -
+w258375.1 | teaset | n. | 茶具 | a set of cups, saucers and a teapot | - | -
+w258604.1 | telecommuter | n. | 远程办公者 | a person who works from home using computers | teleworker | -
+w258911.1 | teleworker | n. | 远程工作者 | a person who works from home using computers | telecommuter | -
+w263475.1 | tranquillize | v. | 使镇静 | to calm with a drug | sedate | -
+w264937.1 | trimly | adv. | 整齐地, 苗条地 | neatly, in a slim and tidy way | neatly, tidily | -
+w266113.1 | tummyache | n. | 肚子痛 | a pain in the stomach | stomachache, bellyache | -
+w273330.1 | walkietalkie | n. | 对讲机 | a portable two-way radio | - | -
+w273464.1 | wastebin | n. | 垃圾桶 | a container for rubbish | bin, wastebasket, dustbin | -

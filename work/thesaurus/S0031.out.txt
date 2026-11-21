@@ -1,0 +1,400 @@
+w006016.1 | free time, spare time, relaxation, rest | work
+w006017.1 | loan, give | borrow
+w006017.2 | loan, advance | borrow
+w006017.3 | add, give, bring, contribute | -
+w006019.1 | waiting room, lobby | -
+w006019.2 | living room | -
+w006019.3 | relax, laze, lie, sprawl | -
+w006020.1 | fortunately, happily, thankfully | unfortunately
+w006021.1 | draft, script, text | -
+w006021.2 | - | -
+w006023.1 | - | -
+w006023.2 | - | -
+w006023.3 | - | -
+w006023.4 | coin, strike | -
+w006025.1 | notice, announcement, warning | -
+w006025.2 | alert, message, reminder | -
+w006026.1 | - | -
+w006028.1 | summary, sketch, overview, plan | -
+w006028.2 | shape, contour, silhouette, profile | -
+w006028.3 | summarize, describe, sketch | -
+w006029.1 | - | -
+w006030.1 | - | -
+w006031.1 | courteous, respectful, civil | rude, impolite
+w006032.1 | horny | -
+w006033.1 | voucher, ticket | -
+w006033.2 | arrival, delivery, acceptance | -
+w006034.1 | identify, know, recognize | -
+w006034.2 | acknowledge, accept, admit, recognize | deny, reject
+w006035.1 | dependability, trustworthiness, consistency | unreliability
+w006036.1 | scientist, scholar, investigator | -
+w006037.1 | airstrip, strip | -
+w006037.2 | catwalk | -
+w006038.1 | statue, carving, figure | -
+w006038.2 | carving | -
+w006039.1 | detector | -
+w006042.1 | display, platform, exhibition | -
+w006042.2 | display, present, exhibit, feature | hide
+w006042.3 | cabinet | -
+w006043.1 | branch, division, affiliate | parent
+w006043.2 | secondary, minor, auxiliary | main, principal
+w006045.1 | - | -
+w006045.2 | - | -
+w006046.1 | divinity | -
+w006047.1 | subaquatic | -
+w006047.2 | - | -
+w006048.1 | speed, rate, pace | -
+w006049.1 | - | -
+w006049.2 | polish | -
+w006049.3 | - | -
+w006053.1 | hooray, yippee, hurrah | boo
+w006056.1 | gigabyte | -
+w006056.2 | Britain, UK | -
+w006057.1 | - | -
+w006057.2 | Jewish | -
+w006059.1 | responsibility, answerability, liability | -
+w006060.1 | airborne, overhead | -
+w006060.2 | antenna | -
+w006061.1 | although, though, even though | -
+w006062.1 | alcohol | soft
+w006062.2 | drunk, drunkard, addict | teetotaller
+w006062.3 | - | sober
+w006063.1 | astonished, surprised | unsurprised
+w006064.1 | aim, goal, dream, aspiration | -
+w006064.2 | drive, determination, ambitiousness | apathy
+w006065.1 | ammo, munitions | -
+w006065.2 | evidence, material | -
+w006066.1 | national anthem | -
+w006066.2 | hymn, song | -
+w006067.1 | cook, roast | -
+w006067.2 | harden, fire, scorch | -
+w006068.1 | group, set, lot, bunch | -
+w006068.2 | lot, load | -
+w006068.3 | group, bundle | -
+w006070.1 | list, inventory, directory, register | -
+w006070.2 | list, record, register, classify | -
+w006070.3 | series, string, succession, litany | -
+w006071.1 | list, inventory, directory, register | -
+w006071.2 | list, record, register, classify | -
+w006071.3 | series, string, succession, litany | -
+w006072.1 | philanthropic, nonprofit | -
+w006072.2 | generous, kind, lenient, tolerant | harsh, uncharitable
+w006074.1 | - | -
+w006074.2 | - | -
+w006075.1 | praise, flattery, tribute | insult, criticism
+w006075.2 | praise, congratulate | insult, criticize
+w006076.1 | repeatedly, constantly, frequently | occasionally
+w006076.2 | continuously, constantly, always | -
+w006077.1 | organizer, manager | -
+w006078.1 | - | withdrawal
+w006078.2 | use, application, installation | -
+w006079.1 | pleasant, fun, delightful, entertaining | unpleasant, boring
+w006080.1 | foreign, alien | native, local
+w006080.2 | unusual, striking, colourful, glamorous | ordinary
+w006081.1 | outside, surface, appearance | interior, inside
+w006081.2 | outside, outer, external | interior, internal
+w006082.1 | womanly, ladylike, girly | masculine
+w006082.2 | - | masculine
+w006083.1 | - | -
+w006083.2 | source, spring, origin | -
+w006084.1 | rage, anger, wrath, outrage | calm
+w006084.2 | violence, ferocity, intensity, force | calm
+w006085.1 | ethnic cleansing, extermination | -
+w006086.1 | glimpse, peek, look | stare
+w006086.2 | glimpse, peek, look | stare
+w006086.3 | skim, scan, flick | -
+w006087.1 | shine, gleam, burn | -
+w006087.2 | light, shine, radiance, gleam | -
+w006087.3 | beam, radiate, shine | -
+w006088.1 | - | -
+w006089.1 | home, birthplace | -
+w006090.1 | charitable, humane, compassionate | -
+w006090.2 | philanthropist | -
+w006091.1 | resistance, protection | susceptibility
+w006091.2 | exemption, protection, privilege | liability
+w006093.1 | release, rescue, emancipation | occupation, oppression
+w006093.2 | emancipation, freedom | oppression
+w006094.1 | probability, chance, possibility, prospect | -
+w006095.1 | single, solitary, sole, lonely | -
+w006096.1 | slaughter, killing, bloodbath | -
+w006096.2 | slaughter, butcher, kill | -
+w006096.3 | crush, thrash, hammer, trounce | -
+w006097.1 | - | -
+w006097.2 | - | -
+w006099.1 | modification | -
+w006099.2 | moderator | -
+w006100.1 | patriot | -
+w006100.2 | patriotic | -
+w006101.1 | essential, requirement, need | luxury
+w006101.2 | need, requirement | -
+w006102.1 | pet name, alias | -
+w006102.2 | dub, call, name | -
+w006104.1 | watcher, onlooker, witness, spectator | participant
+w006104.2 | monitor, inspector | -
+w006104.3 | commentator, analyst | -
+w006105.1 | - | onshore
+w006105.2 | overseas, foreign | onshore
+w006105.3 | at sea | onshore
+w006106.1 | voluntary, elective | compulsory, mandatory
+w006107.1 | dad, daddy, father | mama
+w006109.1 | insert | cut, copy
+w006109.2 | mixture, puree, cream | -
+w006109.3 | glue, adhesive | -
+w006110.1 | founder, trailblazer, innovator | follower
+w006110.2 | introduce, launch, develop, create | -
+w006111.1 | square | -
+w006111.2 | shopping centre, mall | -
+w006112.1 | wealth, success, affluence, fortune | poverty
+w006113.1 | leisure | -
+w006114.1 | shelter, protection, safety, sanctuary | -
+w006114.2 | shelter, sanctuary, haven, retreat | -
+w006115.1 | sustainable | -
+w006115.2 | extendable | -
+w006119.1 | bag | -
+w006119.2 | fire, dismiss, lay off | hire, employ
+w006119.3 | dismissal | -
+w006121.1 | lack, scarcity, deficit, shortfall | surplus, abundance
+w006123.1 | area, field, domain, realm | -
+w006123.2 | ball, globe, orb | -
+w006124.1 | gaze, look, gape, peer | glance
+w006124.2 | gaze, look | glance
+w006125.1 | residential | urban, rural
+w006125.2 | dull, conventional, boring | exciting
+w006126.1 | very, extremely, really, awfully | slightly
+w006126.2 | badly, awfully, poorly | well
+w006127.1 | regional | -
+w006127.2 | protective, possessive | -
+w006129.1 | - | -
+w006130.1 | throw, fling, chuck, flip | catch
+w006130.2 | flip | -
+w006130.3 | thrash, roll, turn, rock | -
+w006131.1 | trans | -
+w006132.1 | worried, anxious, uneasy, disturbed | calm, untroubled
+w006132.2 | problematic, difficult, unsettled | peaceful
+w006133.1 | tortoise | -
+w006134.1 | - | -
+w006135.1 | oral, spoken | written
+w006135.2 | - | -
+w006136.1 | singing, voice | -
+w006137.1 | fleece | -
+w006137.2 | yarn | -
+w006138.1 | - | yin
+w006140.1 | - | -
+w006143.1 | responsible, answerable, liable | unaccountable
+w006144.1 | support, promotion, backing | opposition
+w006144.2 | representation, defence | -
+w006145.1 | wake, aftereffects | -
+w006146.1 | attack, invasion, assault | defence
+w006146.2 | hostility, violence, belligerence | friendliness
+w006147.1 | possibly, probably | -
+w006148.1 | - | -
+w006148.2 | - | -
+w006148.3 | swell, soar, mushroom, expand | shrink
+w006149.1 | frank, direct, straightforward, honest | tactful, diplomatic
+w006149.2 | dull | sharp
+w006149.3 | dull, weaken, soften | sharpen, strengthen
+w006150.1 | unit | -
+w006150.2 | team, group, squad, force | -
+w006151.1 | funeral, interment | -
+w006153.1 | - | -
+w006153.2 | main, basic, fundamental, chief | minor
+w006153.3 | - | -
+w006154.1 | champion, winner | loser
+w006155.1 | bubbly | -
+w006156.1 | refrain | verse
+w006156.2 | choir | -
+w006156.3 | choir | -
+w006157.1 | chromium | -
+w006158.1 | clearness, lucidity, precision, simplicity | confusion, vagueness
+w006159.1 | - | -
+w006159.2 | detergent | -
+w006159.3 | - | -
+w006160.1 | deduce, infer, decide, reason | -
+w006160.2 | end, finish, close, wrap up | begin, start
+w006160.3 | settle, reach, complete, close | -
+w006161.1 | secret, private, classified | public
+w006162.1 | cooperation, organization, teamwork | -
+w006162.2 | dexterity, balance | clumsiness
+w006163.1 | prudence, tact, caution, care | indiscretion
+w006163.2 | choice, judgement, freedom, will | -
+w006164.1 | trench, channel, gutter, drain | -
+w006164.2 | dump, abandon, discard, drop | keep
+w006165.1 | cupola, vault | -
+w006166.1 | weed, cannabis | -
+w006166.2 | idiot, fool, dummy | genius
+w006166.3 | cool, great, awesome, excellent | -
+w006167.1 | dryness | flood
+w006168.1 | altitude, height | depth
+w006168.2 | promotion, advancement | demotion
+w006169.1 | respect, admiration, regard | contempt, disdain
+w006169.2 | respect, admire, value | despise
+w006171.1 | mist, haze, smog | -
+w006171.2 | mist | clear
+w006171.3 | daze, haze, confusion | clarity
+w006172.1 | sign, signal, motion | -
+w006172.2 | sign, token, act | -
+w006172.3 | signal, motion, wave, point | -
+w006173.1 | wow, gee, goodness | -
+w006175.1 | - | -
+w006176.1 | flat, level | vertical
+w006176.2 | - | vertical
+w006177.1 | friendliness, generosity, welcome | hostility
+w006177.2 | - | -
+w006178.1 | captive, prisoner | captor
+w006179.1 | separately, singly, one by one | together, collectively
+w006180.1 | unavoidably, necessarily, certainly | -
+w006183.1 | boy, youth, kid, guy | lass
+w006186.1 | - | illiteracy
+w006186.2 | competence, knowledge, skill | -
+w006187.1 | deceptive, false, confusing, ambiguous | -
+w006188.1 | damp, dampness, humidity, wetness | dryness
+w006189.1 | memorial | -
+w006189.2 | - | -
+w006190.1 | - | -
+w006190.2 | - | immortality
+w006191.1 | fixation, preoccupation, passion, mania | -
+w006192.1 | choose, decide, go for, select | -
+w006194.1 | bit, speck, fragment, grain | -
+w006194.2 | - | -
+w006194.3 | - | -
+w006195.1 | groundnut | -
+w006195.2 | pittance | fortune
+w006197.1 | constant, continuous, lasting, chronic | brief, temporary
+w006197.2 | determined, tenacious, stubborn, relentless | -
+w006198.1 | oil, crude oil | -
+w006199.1 | medical, medicinal | -
+w006199.2 | drug, medicine, medication | -
+w006200.1 | development, progress, advance | regression
+w006200.2 | sequence, series | -
+w006201.1 | stand, frame, shelf | -
+w006201.2 | torment, torture, plague | -
+w006202.1 | reconstruct, restore, renovate | demolish, destroy
+w006203.1 | refusal, denial, dismissal | acceptance, approval
+w006203.2 | rebuff, snub | acceptance
+w006204.1 | restful, peaceful | stressful, tiring
+w006205.1 | lake, pool, tank | -
+w006205.2 | store, supply, stock, source | -
+w006207.1 | bit, piece, fragment | -
+w006207.2 | abandon, drop, cancel, discard | keep
+w006207.3 | waste, junk, rubbish | -
+w006209.1 | feeling, sense | numbness
+w006209.2 | stir, hit, triumph | -
+w006210.1 | tunnel, passage, well | -
+w006210.2 | rod, pole, handle, stick | -
+w006210.3 | beam, ray | -
+w006211.1 | herdsman | -
+w006211.2 | guide, lead, steer, escort | -
+w006212.1 | bus | -
+w006212.2 | space shuttle | -
+w006212.3 | ferry, transport | -
+w006213.1 | incline, hill, gradient, bank | -
+w006213.2 | slant, incline, tilt, lean | -
+w006214.1 | bite, nibble, refreshment | meal
+w006214.2 | nibble, graze | -
+w006215.1 | spot, floodlight, searchlight | -
+w006215.2 | attention, limelight, focus | obscurity
+w006215.3 | highlight, feature, emphasize | -
+w006216.1 | strict, severe, harsh, grim | lenient, gentle
+w006216.2 | back, rear | bow
+w006217.1 | rigid, firm, hard | flexible, soft
+w006217.2 | sore, tight | supple
+w006217.3 | tough, severe, harsh, fierce | mild, weak
+w006218.1 | forward | defender
+w006218.2 | - | -
+w006220.1 | great, excellent, brilliant, wonderful | terrible, awful
+w006220.2 | huge, tremendous, enormous, great | small
+w006222.1 | openness, honesty, clarity | secrecy
+w006222.2 | clarity, clearness | opacity
+w006222.3 | slide | -
+w006223.1 | - | -
+w006223.2 | trio, threesome | -
+w006224.1 | jobless, out of work, redundant | -
+w006224.2 | jobless | -
+w006225.1 | join, unify, combine, join forces | divide, separate
+w006226.1 | open, unfasten, undo | lock
+w006226.2 | release, reveal, uncover, free | -
+w006227.1 | strongroom, safe | -
+w006227.2 | dome, arch | -
+w006227.3 | jump, leap, spring, hurdle | -
+w006228.1 | veterinarian | -
+w006228.2 | check, screen, examine, inspect | -
+w006230.1 | cart, carriage | -
+w006230.2 | truck | -
+w006231.1 | shy, reserved, quiet | outgoing, sociable
+w006236.1 | harmful, unfavourable, negative | favourable, beneficial
+w006238.1 | for a while, briefly | -
+w006239.1 | yes, yeah | nay, no
+w006239.2 | yes | no, nay
+w006240.1 | swine, brute | -
+w006240.2 | - | -
+w006241.1 | life, memoir | autobiography
+w006242.1 | agent, dealer, middleman, intermediary | -
+w006242.2 | arrange, negotiate, mediate | -
+w006243.1 | - | -
+w006244.1 | inter | dig up, exhume
+w006244.2 | hide, cover, conceal | uncover, dig up
+w006245.1 | mobile | landline
+w006245.2 | - | -
+w006246.1 | - | -
+w006246.2 | mixture, mix, blend, combination | -
+w006247.1 | - | -
+w006249.1 | guidance, advice, therapy | -
+w006250.1 | because, cos | -
+w006250.2 | cousin, buddy | -
+w006251.1 | harmful, devastating, ruinous | constructive
+w006252.1 | hate, detest, object to | like, love
+w006252.2 | aversion, distaste, hostility | liking, fondness
+w006253.1 | appear, come out, surface | disappear, vanish
+w006253.2 | come out, transpire | -
+w006254.1 | goodbye, parting | welcome, greeting
+w006254.2 | goodbye, bye, adieu | hello, welcome
+w006255.1 | - | -
+w006256.1 | keen, attached | -
+w006256.2 | loving, affectionate, tender, warm | cold
+w006256.3 | happy, pleasant, warm | -
+w006257.1 | silly, stupid, unwise | wise, sensible
+w006258.1 | - | -
+w006259.1 | deep-fry | -
+w006259.2 | chip | -
+w006261.1 | talented, able, brilliant, skilled | -
+w006262.1 | inheritor, successor, beneficiary | -
+w006262.2 | successor | predecessor
+w006263.1 | massacre, genocide, slaughter, destruction | -
+w006263.2 | - | -
+w006264.1 | home run | -
+w006266.1 | detention, confinement, custody, jail | release, freedom
+w006270.1 | owner, proprietor, landowner | tenant
+w006270.2 | publican, innkeeper | -
+w006271.1 | feature, monument | -
+w006271.2 | milestone, turning point, breakthrough | -
+w006273.1 | responsible, accountable, answerable | exempt
+w006273.2 | likely, prone, apt, inclined | unlikely
+w006274.1 | middle, centre, heart | -
+w006275.1 | unhappiness, suffering, distress, despair | happiness, joy
+w006275.2 | poverty, hardship, deprivation | comfort, wealth
+w006276.1 | unit, component, part, element | -
+w006276.2 | unit, course, component | -
+w006277.1 | mummy, mum, mama | daddy
+w006279.1 | - | -
+w006280.1 | - | -
+w006281.1 | - | -
+w006281.2 | prototype | -
+w006282.1 | kindergarten, playgroup, daycare | -
+w006282.2 | - | -
+w006282.3 | garden centre | -
+w006284.1 | - | -
+w006285.1 | epidemic, pestilence, disease | -
+w006285.2 | trouble, torment, afflict, bother | -
+w006286.1 | optimistically, favourably, well | negatively
+w006286.2 | absolutely, completely, really, truly | -
+w006288.1 | enlist, hire, sign up, enrol | dismiss
+w006288.2 | newcomer, beginner, trainee, novice | veteran
+w006290.1 | renegade, maverick, uncontrolled | -
+w006290.2 | scoundrel, villain, rascal, crook | -
+w006291.1 | steeply, rapidly, suddenly, dramatically | gradually, slightly
+w006291.2 | harshly, severely, bluntly, critically | gently, mildly
+w006291.3 | clearly, distinctly | vaguely
+w006292.1 | genuinely, truly, honestly, earnestly | insincerely
+w006293.1 | unity, support, togetherness, unanimity | division
+w006294.1 | speciality, field, expertise, forte | -
+w006294.2 | speciality, delicacy | -

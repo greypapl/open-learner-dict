@@ -1,0 +1,72 @@
+w086511.1 | systematic, methodical, orderly | unsystematic
+w086542.1 | trucker | -
+w086588.1 | - | -
+w086594.1 | thingamajig, thingy | -
+w086602.1 | wreck | -
+w086721.1 | - | -
+w086971.1 | - | -
+w087723.1 | copy, steal | -
+w087838.1 | - | -
+w087863.1 | sedative, tranquillizer | stimulant
+w089137.1 | - | overachieve
+w089248.1 | tofu | -
+w091160.1 | cassette, tape | -
+w091300.1 | giddily | -
+w092483.1 | lace | -
+w092599.1 | - | -
+w092921.1 | schoolchild, pupil | -
+w093308.1 | recruit, poach | -
+w093405.1 | mistreat, abuse | -
+w093436.1 | misplace, lose | find
+w093575.1 | - | -
+w093827.1 | internet cafe | -
+w094508.1 | textbook | -
+w094648.1 | vaccinate, immunize, inoculate | -
+w097031.1 | flextime | -
+w097330.1 | shop assistant, clerk | -
+w097545.1 | fanny pack | -
+w098972.1 | - | -
+w099048.1 | mischievously, badly | -
+w099223.1 | - | -
+w100800.1 | moisten | dehumidify
+w102659.1 | float | -
+w103478.1 | postman | -
+w104265.1 | - | -
+w106155.1 | passbook | -
+w107194.1 | - | -
+w107513.1 | - | -
+w107950.1 | bedding | -
+w110239.1 | computerize, digitise | -
+w110242.1 | hospitalize | -
+w110246.1 | playgoer | -
+w110335.1 | hamburger, burger | -
+w118946.1 | - | -
+w147496.1 | damp, moist | dry
+w150311.1 | - | -
+w156863.1 | - | -
+w163696.1 | flannel, washcloth | -
+w185619.1 | supervise, proctor | -
+w202373.1 | bug | -
+w203027.1 | - | -
+w204758.1 | mechanize | -
+w205084.1 | - | -
+w212621.1 | - | -
+w212642.1 | - | -
+w217795.1 | fry | -
+w220486.1 | penpal, pen pal | -
+w223440.1 | - | -
+w229743.1 | helplessly | powerfully
+w240831.1 | dangerously | safely
+w249463.1 | - | -
+w249625.1 | - | -
+w250874.1 | sponge | -
+w255268.1 | sunny | -
+w258007.1 | transcript | -
+w258375.1 | - | -
+w258604.1 | teleworker | -
+w258911.1 | telecommuter | -
+w263475.1 | sedate | -
+w264937.1 | neatly, tidily | -
+w266113.1 | stomachache, bellyache | -
+w273330.1 | - | -
+w273464.1 | bin, wastebasket, dustbin | -

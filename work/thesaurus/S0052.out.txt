@@ -1,0 +1,400 @@
+w012029.1 | referee, judge | -
+w012029.2 | referee, judge | -
+w012030.1 | - | -
+w012031.1 | secret, confidential, unknown | -
+w012032.1 | unnoticed | -
+w012033.1 | priest, minister, clergyman | -
+w012034.1 | cry, sob | laugh
+w012034.2 | ooze, seep, leak | -
+w012036.1 | spanner | -
+w012036.2 | twist, yank, jerk, wrest | -
+w012036.3 | pang, blow | -
+w012037.1 | miserable, unhappy, pitiful, unfortunate | happy
+w012037.2 | terrible, awful, poor, dreadful | excellent
+w012037.3 | damned | -
+w001188.1 | revealing, significant, striking | -
+w001188.2 | narration, account | -
+w012039.1 | youth, puberty | adulthood
+w012040.1 | hereafter | -
+w012041.1 | - | -
+w012042.1 | similar, comparable, parallel | different
+w012043.1 | - | -
+w012044.1 | - | -
+w012044.2 | - | -
+w012045.1 | outdated, obsolete | modern
+w012045.2 | ancient, old | modern
+w012046.1 | ascription | -
+w012046.2 | credit | -
+w012049.1 | - | -
+w012051.1 | dance, boogie | -
+w012051.2 | hit, tap, knock | -
+w012051.3 | bebop | -
+w012052.1 | - | -
+w012052.2 | - | -
+w012052.3 | - | -
+w012053.1 | cut, edit, suppress, ban | -
+w012053.2 | - | -
+w012054.1 | centenary | -
+w012054.2 | - | -
+w012056.1 | - | -
+w012057.1 | settlement, conquest | decolonization
+w012057.2 | settlement | -
+w012058.1 | - | -
+w012059.1 | international, multicultural, diverse | provincial
+w012059.2 | sophisticated, worldly, cultured | provincial
+w012059.3 | - | -
+w012061.1 | - | -
+w012061.2 | smuggler | -
+w012062.1 | devastating | -
+w012062.2 | - | -
+w012065.1 | adorn, ornament, trim, dress up | -
+w012065.2 | paint, paper, do up | -
+w012065.3 | honour | -
+w012066.1 | excess | -
+w012066.2 | - | -
+w012067.1 | oblique | -
+w012067.2 | - | -
+w012068.1 | disgrace, undermine, shame | -
+w012068.2 | disgrace, dishonour, shame | credit
+w012069.1 | chest of drawers | -
+w012069.2 | sideboard, cupboard | -
+w012069.3 | - | -
+w012070.1 | useless, faulty, dud | -
+w012070.2 | bottom, backside, bum | -
+w012071.1 | troubled | functional
+w012072.1 | - | -
+w012073.1 | fair, just | unfair, inequitable
+w012074.1 | - | testosterone
+w012075.1 | apply, use, wield, exercise | -
+w012075.2 | strain, strive | -
+w012077.1 | - | -
+w012078.1 | wool | -
+w012078.2 | - | -
+w012078.3 | swindle, cheat, rip off, con | -
+w012079.1 | feed, hay, forage | -
+w012079.2 | material, raw material | -
+w012080.1 | grope, fiddle | -
+w012080.2 | drop, bobble, muff | catch
+w012080.3 | blunder, slip | -
+w012081.1 | idiot, jerk, fool | -
+w012082.1 | scowl, glower, stare | smile
+w012082.2 | scowl, stare, glower | smile
+w012082.3 | dazzle, brightness, blaze | -
+w012082.4 | blaze, dazzle, shine | -
+w012084.1 | gourmand, epicure, foodie | -
+w012084.2 | fine, luxury | -
+w012085.1 | portable | -
+w012085.2 | - | -
+w012086.1 | - | -
+w012086.2 | - | -
+w012088.1 | large, substantial, big, considerable | small
+w012088.2 | heavy, burly, sturdy, beefy | slight
+w012089.1 | - | -
+w012090.1 | - | -
+w012091.1 | bump, lump, mound | hollow
+w012091.2 | lug, haul, heave, carry | -
+w012092.1 | stupid, foolish, ridiculous, absurd | sensible, intelligent
+w012093.1 | imprisonment, detention, confinement | release
+w012095.1 | contaminate, pollute | disinfect
+w012095.2 | affect | -
+w012096.1 | introduction, inclusion | removal
+w012096.2 | addition, insert | -
+w012097.1 | disruption, break, disturbance, pause | continuation
+w012098.1 | fascinate, interest, captivate | bore
+w012098.2 | plot, conspiracy, scheme | -
+w012099.1 | tingle, prickle | -
+w012099.2 | tingle, irritation | -
+w012099.3 | urge, longing, desire | -
+w012104.1 | lawfully, legally, rightfully, justifiably | illegally
+w012106.1 | miraculously, mysteriously | -
+w012107.1 | genius, planner | -
+w012107.2 | organize, plan, direct, engineer | -
+w012108.1 | significantly, substantially | -
+w012108.2 | financially | spiritually
+w012109.1 | - | -
+w012111.1 | naughtiness, misbehaviour, trouble | -
+w012111.2 | harm, damage, trouble | -
+w012112.1 | renovation, reform | -
+w012114.1 | visibly, clearly, markedly, obviously | -
+w012115.1 | occupation, residence, tenancy | vacancy
+w012117.1 | invade, overwhelm, swarm, infest | -
+w012117.2 | exceed, overshoot | -
+w012117.3 | overspend | -
+w012118.1 | meadow, grassland, field | -
+w012118.2 | graze | -
+w012119.1 | compulsive, obsessive, irrational | -
+w012119.2 | - | -
+w012120.1 | load, cargo, freight | -
+w012120.2 | warhead | -
+w012121.1 | payment, settlement, payoff | -
+w012123.1 | relevant, applicable, appropriate | irrelevant
+w012124.1 | abundant, ample, plenty, copious | scarce, rare
+w012125.1 | - | -
+w012126.1 | - | -
+w012127.1 | porn, pornography | -
+w012128.1 | buyer, customer, client | seller
+w012130.1 | curiosity | -
+w012130.2 | scarcity, uncommonness | abundance
+w012132.1 | defiant, disobedient, unruly, rebel | obedient
+w012133.1 | return to | -
+w012133.2 | reconsider, review, re-examine | -
+w012135.1 | ironic, sarcastic | -
+w012136.1 | sensuous, physical, sexy | -
+w012137.1 | - | -
+w012137.2 | - | -
+w012138.1 | plunge, drop, plummet, collapse | soar, rise
+w012138.2 | slouch, sag, sink, collapse | -
+w012138.3 | decline, downturn, recession, depression | boom
+w012139.1 | melt | harden
+w012139.2 | ease, cushion, tone down, moderate | harden, intensify
+w012140.1 | memento, keepsake, reminder | -
+w012141.1 | spacecraft | -
+w012142.1 | scanty, scattered, thin, meagre | dense, abundant
+w012143.1 | top | -
+w012143.2 | - | -
+w012144.1 | steamship, steamboat | -
+w012144.2 | - | -
+w012145.1 | - | -
+w012145.2 | suck | -
+w012146.1 | - | -
+w012147.1 | additional, extra, supplemental | -
+w012148.1 | - | -
+w012148.2 | inspector | -
+w012149.1 | temper, nature, disposition, character | -
+w012150.1 | - | -
+w012150.2 | - | -
+w012152.1 | agony, anguish, suffering, misery | -
+w012152.2 | torture, plague, distress, afflict | -
+w012152.3 | tease, harass, bully | -
+w012153.1 | dictator, despot, oppressor | -
+w012154.1 | ugly, plain, unappealing | attractive, beautiful
+w012155.1 | undefeated, unbeatable | -
+w012156.1 | - | exaggeration
+w012157.1 | unwanted, unwelcome, unpleasant | desirable
+w012157.2 | - | -
+w012158.1 | unjustly | fairly
+w012159.1 | union, integration, merger | division
+w012160.1 | arms | -
+w012161.1 | web page | -
+w012162.1 | bushfire | -
+w012163.1 | garland | -
+w012163.2 | ring, coil | -
+w012165.1 | - | -
+w012167.1 | loving, tender, fond, warm | cold
+w012171.1 | device, machine, gadget | -
+w012173.1 | verification, validation | -
+w012174.1 | wake, wake up, rouse | -
+w012174.2 | arouse, stir, kindle | -
+w012176.1 | - | -
+w012176.2 | - | -
+w012177.1 | - | -
+w012181.1 | - | -
+w012181.2 | hood | -
+w012183.1 | - | -
+w012184.1 | trainee, recruit | -
+w012186.1 | - | -
+w012186.2 | - | -
+w012187.1 | administrative, office | -
+w012187.2 | ecclesiastical | lay
+w012188.1 | montage | -
+w012188.2 | mixture, medley, patchwork | -
+w012189.1 | free, courtesy | -
+w012189.2 | flattering, appreciative | critical, insulting
+w012190.1 | calculation, reckoning | -
+w012192.1 | noticeable, obvious, prominent, striking | inconspicuous
+w012193.1 | constant, repeated, frequent, continuous | occasional
+w012194.1 | deny, dispute, challenge, oppose | agree, confirm
+w012194.2 | clash with | agree with
+w012195.1 | clampdown, suppression | -
+w012196.1 | fad, fashion, trend, rage | -
+w012197.1 | fairy cake | -
+w012199.1 | delicatessen | -
+w012200.1 | terrible, dreadful | -
+w012201.1 | - | -
+w012203.1 | glaze, lacquer | -
+w012203.2 | - | -
+w012204.1 | intensify, increase, worsen | calm down, decrease
+w012205.1 | extremely, exceptionally, very | -
+w012206.1 | overly, unduly, too | moderately
+w012207.1 | - | -
+w012208.1 | intensely, strongly, aggressively | gently, mildly
+w012209.1 | - | -
+w012209.2 | - | -
+w012211.1 | front line, front | -
+w012211.2 | - | -
+w012213.1 | - | -
+w012214.1 | titter, snigger, chuckle | -
+w012214.2 | titter, snigger, chuckle | -
+w012215.1 | - | -
+w012216.1 | - | -
+w012216.2 | correct | ungrammatical
+w012219.1 | pistol, revolver | -
+w012224.1 | - | -
+w012225.1 | - | host
+w012225.2 | receptionist, presenter | -
+w012227.1 | - | -
+w012228.1 | light, kindle, set fire to | extinguish, put out
+w012228.2 | spark, trigger, provoke, inflame | -
+w012229.1 | lighting, light, brightness | darkness
+w012229.2 | clarification, enlightenment, insight | -
+w012230.1 | incorrectly, wrongly, inappropriately | properly, correctly
+w012231.1 | clever, inventive, brilliant, original | -
+w012234.1 | poke, prod, stab, thrust | -
+w012234.2 | poke, punch, prod | -
+w012234.3 | injection, shot, vaccination | -
+w012236.1 | dump, tip | -
+w012237.1 | student, beginner, trainee, novice | teacher, expert
+w012238.1 | lessen, ease, reduce, relieve | increase, worsen
+w012238.2 | brighten, bleach | darken
+w012238.3 | brighten, cheer up | depress
+w012240.1 | crimson | -
+w012240.2 | - | -
+w012240.3 | strand, abandon, isolate | rescue
+w012242.1 | - | manually
+w012242.2 | automatically, unthinkingly, routinely | -
+w012245.1 | anchor, berth, dock, tie up | -
+w012245.2 | moorland, heath | -
+w012246.1 | - | -
+w012250.1 | greasy, fatty | -
+w012250.2 | smarmy, slimy, smooth | sincere
+w012252.1 | frank, candid, blunt, direct | reserved, reticent
+w012254.1 | crepe | -
+w012258.1 | fake, false, bogus, sham | genuine, real
+w012258.2 | fake, fraud, impostor, sham | -
+w012259.1 | identify, locate, find, determine | -
+w012259.2 | precise, exact, accurate | -
+w012259.3 | point, dot, speck | -
+w012261.1 | agreeably, delightfully, nicely | unpleasantly
+w012262.1 | consider, contemplate, reflect, think over | -
+w012264.1 | mentally, emotionally | physically
+w012266.1 | clatter, jangle, clank | -
+w012266.2 | unnerve, unsettle, shake, fluster | calm, reassure
+w012266.3 | clatter | -
+w012267.1 | reuse, reprocess | discard
+w012268.1 | repayment, refund, compensation | -
+w012272.1 | return, go back, regress, relapse | -
+w012276.1 | spit, spittle | -
+w012277.1 | pointless, meaningless, mindless, futile | meaningful, sensible
+w012277.2 | unconscious | conscious
+w012278.1 | - | -
+w012278.2 | - | -
+w012280.1 | - | -
+w012280.2 | - | -
+w012280.3 | - | -
+w012286.1 | departure, launch | landing
+w012286.2 | boom, upturn | -
+w012289.1 | - | tax-free
+w012290.1 | - | -
+w012290.2 | grind, routine, rut | -
+w012291.1 | inevitable, inescapable | avoidable
+w012292.1 | one-sided | multilateral, bilateral
+w012296.1 | - | -
+w012297.1 | - | -
+w012298.1 | west, westwards | eastward
+w012298.2 | western | eastward
+w012301.1 | - | -
+w012302.1 | sour, acid, tart | alkaline
+w012302.2 | sharp, cutting | kind
+w012303.1 | observance, compliance, loyalty | violation
+w012304.1 | - | -
+w012307.1 | furiously, crossly, heatedly | calmly
+w012309.1 | appreciative, favourable | disapproving
+w012311.1 | - | -
+w012312.1 | axe, hatchet | -
+w012312.2 | axe, cut, scrap, sack | -
+w012316.1 | hit, success | flop
+w012317.1 | swamp, marsh, mire | -
+w012317.2 | stall | -
+w012317.3 | toilet, loo | -
+w012319.1 | barrage | -
+w012319.2 | barrage, flood, deluge | -
+w012320.1 | marginal, doubtful, uncertain | clear-cut
+w012320.2 | boundary | -
+w012321.1 | - | -
+w012322.1 | thief, robber, intruder, housebreaker | -
+w012324.1 | exploit, take advantage, profit, cash in | -
+w012324.2 | - | -
+w012324.3 | finance, fund | -
+w012325.1 | charm, magnetism, presence, appeal | -
+w012328.1 | schoolmate | -
+w012330.1 | stove, range | -
+w012331.1 | - | -
+w012331.2 | - | -
+w012332.1 | - | -
+w012333.1 | sought-after, prestigious | -
+w012336.1 | tubular | -
+w012337.1 | misleading, false | genuine
+w012338.1 | consider, judge, regard, believe | -
+w012339.1 | destruction, ruin, havoc | -
+w012339.2 | shock, grief, despair | -
+w012340.1 | pious, religious, devoted | irreligious
+w012340.2 | devoted, dedicated, staunch | -
+w012342.1 | excessive, unequal, uneven | proportionate
+w012343.1 | controversial | -
+w012346.1 | - | -
+w012346.2 | jet-black, pitch-black, black | white
+w012349.1 | foetus | -
+w012349.2 | seed, germ, beginning | -
+w012351.1 | unpredictable, irregular, inconsistent, unstable | consistent, steady
+w012352.1 | tooth, tusk | -
+w012353.1 | festival, carnival, celebration | -
+w012354.1 | foolishness, stupidity, madness, nonsense | wisdom
+w012354.2 | - | -
+w012356.1 | predictable | unforeseeable
+w012358.1 | shiny, glossy | matt
+w012358.2 | glassy, vacant, blank | -
+w012358.3 | - | -
+w012359.1 | - | softwood
+w012360.1 | - | -
+w012361.1 | - | foresight
+w012362.1 | - | -
+w012365.1 | apathy, unconcern, disinterest | concern, interest
+w012366.1 | essential, vital, necessary, crucial | dispensable, unnecessary
+w012367.1 | hospital, clinic, sickbay | -
+w012368.1 | impose, cause, deal | -
+w012370.1 | hinder, restrain, suppress, prevent | encourage, promote
+w012370.2 | restrain, constrain | -
+w012371.1 | extremely, incredibly, ridiculously | -
+w012371.2 | madly, crazily, wildly | sanely
+w012372.1 | mentally | -
+w012373.1 | - | -
+w012374.1 | automatic, reflex, instinctive, unconscious | voluntary, deliberate
+w012374.2 | compulsory | voluntary
+w012376.1 | - | -
+w012376.2 | restless, eager, impatient | -
+w012379.1 | catch, bolt, bar, lock | -
+w012379.2 | fasten, bolt, lock | unlatch
+w012379.3 | cling to, seize on | -
+w012381.1 | - | -
+w012382.1 | resemblance, similarity | difference
+w012382.2 | portrait, image, picture | -
+w012384.1 | noble, grand, ambitious, high | base
+w012384.2 | tall, towering, high | low
+w012384.3 | arrogant, haughty, superior, proud | humble, modest
+w012385.1 | approach, threaten, impend | recede
+w012385.2 | tower, emerge, appear | -
+w012385.3 | - | -
+w012386.1 | ridiculous, absurd, preposterous, laughable | sensible
+w012387.1 | corn | -
+w012388.1 | spite, hatred, ill will, hostility | kindness, goodwill
+w012391.1 | ammunition, arms, ordnance | -
+w012395.1 | creativity, inventiveness, novelty, freshness | -
+w012396.1 | decorative | functional
+w012396.2 | - | -
+w012398.1 | shop, salon | -
+w012398.2 | lounge, living room | -
+w012399.1 | stone | -
+w012400.1 | persistence, determination, tenacity | -
+w012401.1 | chemist, druggist | -
+w012402.1 | fussy, choosy, particular | easygoing
+w012406.1 | expensive, costly, dear | cheap
+w012411.1 | heater | -
+w012411.2 | - | -
+w012413.1 | royal, majestic, stately, grand | -
+w012414.1 | - | -
+w012414.2 | - | -
+w012416.1 | mockery, scorn, derision | praise, respect
+w012416.2 | mock, laugh at, make fun of, deride | praise, respect
+w012418.1 | - | -
+w012418.2 | - | -
+w012419.1 | - | -

@@ -1,0 +1,400 @@
+w022633.1 | undiagnosed | adj. | C1 | 未确诊的, 未诊断出的 | not yet identified by a doctor
+w022634.1 | unease | n. | C1 | 不安, 忧虑 | a feeling of worry or discomfort
+w022637.1 | urinal | n. | C1 | 小便池 | a toilet fixed to a wall for men
+w022658.1 | Cockney | n. | C1 | 伦敦东区人 | a person from the East End of London
+w022658.2 | Cockney | n. | C1 | 伦敦东区方言 | the dialect of East London
+w022662.1 | adrenalin | n. | C1 | 肾上腺素 | a hormone produced when you are excited or afraid
+w022673.1 | archeology | n. | B2 | 考古学 | the study of the past through old objects
+w022678.1 | babble | v. | C1 | 喋喋不休, 胡言乱语 | to talk quickly in a silly or confused way
+w022678.2 | babble | n. | C1 | 嘈杂声, 潺潺声 | continuous confused sound of talk or water
+w022679.1 | barman | n. | B2 | 酒吧男侍, 酒保 | a man who serves drinks in a bar
+w022681.1 | beachfront | n. | C1 | 海滨, 海滩沿岸 | the area of land along a beach
+w022681.2 | beachfront | adj. | C1 | 海滨的 | located next to a beach
+w022686.1 | chalkboard | n. | B1 | 黑板 | a dark board for writing on with chalk
+w022692.1 | comically | adv. | C1 | 滑稽地, 可笑地 | in a funny or ridiculous way
+w022693.1 | controversially | adv. | C1 | 有争议地 | in a way that causes public disagreement
+w022705.1 | dweller | n. | C1 | 居民, 居住者 | a person who lives in a particular place
+w022710.1 | embarrassingly | adv. | C1 | 令人尴尬地, 难堪地 | in a way that causes embarrassment
+w022712.1 | enclose | v. | B2 | 附上, 随信附寄 | to put something in an envelope with a letter
+w022712.2 | enclose | v. | B2 | 围住, 包围 | to surround an area completely
+w022713.1 | entree | n. | C1 | 主菜 | the main dish of a meal
+w022713.2 | entree | n. | C1 | 入场权, 进入资格 | the right to enter a place or group
+w022719.1 | flavoring | n. | C1 | 调味品, 香料 | a substance added to food to give flavour
+w022725.1 | gatherer | n. | C1 | 采集者, 收集者 | a person who collects things
+w022726.1 | generative | adj. | C1 | 有生产力的, 生成的 | able to produce or create something
+w022726.2 | generative | adj. | C1 | 生成式的 | creating new content using computer models
+w022727.1 | gentleness | n. | B2 | 温柔, 温和 | the quality of being kind and calm
+w022738.1 | inaccuracy | n. | C1 | 不准确, 错误 | a lack of correctness or a mistake
+w022740.1 | indecision | n. | C1 | 犹豫不决, 优柔寡断 | inability to make a decision quickly
+w022751.1 | judgemental | adj. | C1 | 妄加评判的, 爱挑剔的 | too quick to criticize others
+w022754.1 | kidnapper | n. | B2 | 绑匪, 绑架者 | a person who takes someone away illegally
+w022765.1 | magnificently | adv. | C1 | 壮丽地, 极好地 | in a very impressive or beautiful way
+w022766.1 | magnify | v. | B2 | 放大, 扩大 | to make something look bigger
+w022766.2 | magnify | v. | B2 | 夸大, 加剧 | to make something seem more important or serious
+w022774.1 | methodically | adv. | C1 | 有条不紊地 | in a careful and organized way
+w022780.1 | mutter | v. | B2 | 咕哝, 嘀咕 | to speak quietly so that others cannot hear
+w022780.2 | mutter | v. | B2 | 抱怨, 发牢骚 | to complain quietly
+w022780.3 | mutter | n. | B2 | 咕哝声 | a low unclear sound of speech
+w022783.1 | nostril | n. | B2 | 鼻孔 | one of the two openings in the nose
+w022785.1 | numeral | n. | C1 | 数字 | a symbol that represents a number
+w022793.1 | overcoat | n. | B1 | 大衣, 外套 | a long warm coat worn over clothes
+w022794.1 | overreaction | n. | C1 | 反应过度 | a reaction that is stronger than needed
+w022797.1 | painkiller | n. | B1 | 止痛药 | a drug that reduces pain
+w022809.1 | pram | n. | B2 | 婴儿车 | a small vehicle for pushing a baby around
+w022811.1 | pushback | n. | C1 | 抵制, 反对 | opposition to a plan or idea
+w022819.1 | redistribute | v. | C1 | 重新分配 | to share something out again in a different way
+w022822.1 | renter | n. | C1 | 租户, 承租人 | a person who pays rent to use something
+w022824.1 | riverbank | n. | B1 | 河岸 | the land along the side of a river
+w022837.1 | southernmost | adj. | C1 | 最南的, 最南端的 | furthest south
+w022845.1 | sweeten | v. | B2 | 使变甜, 加糖 | to make food or drink sweeter
+w022845.2 | sweeten | v. | B2 | 使更有吸引力 | to make an offer more attractive
+w022850.1 | throwaway | adj. | C1 | 一次性的, 用后即弃的 | made to be used once and thrown away
+w022850.2 | throwaway | adj. | C1 | 随口说的, 不经意的 | said casually without careful thought
+w022895.1 | apostrophe | n. | B2 | 撇号 | the punctuation mark used to show possession
+w022898.1 | appendicitis | n. | C1 | 阑尾炎 | painful swelling of the appendix
+w022910.1 | beetroot | n. | B2 | 甜菜根 | a dark red root vegetable
+w022917.1 | bridegroom | n. | B2 | 新郎 | a man on his wedding day
+w022920.1 | candidly | adv. | C1 | 坦白地, 坦率地 | in an honest and direct way
+w022930.1 | correspondingly | adv. | C1 | 相应地, 同样地 | in a way that matches something else
+w022933.1 | crybaby | n. | C1 | 爱哭的人, 爱哭鬼 | a person who cries or complains too easily
+w022937.1 | deservedly | adv. | C1 | 应得地, 理所当然地 | in a way that is fully deserved
+w022940.1 | discus | n. | C1 | 铁饼 | a heavy disc thrown in sports
+w022941.1 | distinctively | adv. | C1 | 独特地, 特别地 | in a way that is easy to recognize
+w022943.1 | elaborately | adv. | C1 | 精心地, 复杂地 | in a detailed and complicated way
+w022944.1 | empathize | v. | C1 | 产生共鸣, 同情, 体谅 | to understand and share another's feelings
+w022945.1 | encrypt | v. | C1 | 加密, 把…译成密码 | to change data into a secret code
+w022947.1 | energetically | adv. | C1 | 精力充沛地, 积极地 | in a lively and active way
+w022948.1 | energize | v. | C1 | 使充满活力, 激励 | to give energy or enthusiasm to someone
+w022948.2 | energize | v. | C1 | 通电 | to supply electricity to a device
+w022950.1 | excellently | adv. | B2 | 极好地, 出色地 | extremely well
+w022955.1 | fortnightly | adj. | C1 | 每两周一次的 | happening every two weeks
+w022955.2 | fortnightly | adv. | C1 | 每两周一次地 | once every two weeks
+w022963.1 | hanukkah | n. | C1 | 光明节, 哈努卡节 | an eight-day Jewish festival of lights
+w022966.1 | headstone | n. | C1 | 墓碑 | a stone at the head of a grave
+w022971.1 | hob | n. | C1 | 炉盘, 灶面 | the flat top of a cooker
+w022974.1 | hyperactive | adj. | C1 | 过度活跃的, 多动的 | unusually or abnormally active
+w022978.1 | identically | adv. | C1 | 相同地, 一模一样地 | in exactly the same way
+w022985.1 | inhabitant | n. | B2 | 居民, 住户 | a person or animal living in a place
+w022989.1 | insufficiently | adv. | C1 | 不充分地, 不足地 | not enough
+w023000.1 | keychain | n. | B1 | 钥匙链, 钥匙扣 | a ring or chain for holding keys
+w023023.1 | mountaineer | n. | B2 | 登山者, 登山运动员 | a person who climbs mountains
+w023024.1 | mountainside | n. | B2 | 山坡, 山腰 | the side of a mountain
+w023039.1 | parka | n. | C1 | 派克大衣, 风雪大衣 | a warm hooded jacket
+w023048.1 | pistachio | n. | C1 | 开心果 | a small green nut
+w023065.1 | reinstall | v. | B2 | 重新安装 | to install something again
+w023071.1 | riverfront | n. | C1 | 河滨, 沿河地区 | land along a river in a town
+w023081.1 | scrutinize | v. | C1 | 仔细检查, 审视 | to examine something very carefully
+w023084.1 | shriek | v. | B2 | 尖叫 | to make a loud high cry
+w023084.2 | shriek | n. | B2 | 尖叫声 | a short loud high cry
+w023088.1 | snore | v. | B1 | 打鼾, 打呼噜 | to breathe noisily while sleeping
+w023088.2 | snore | n. | B1 | 鼾声 | the noise of snoring
+w023093.1 | spender | n. | C1 | 花钱的人, 消费者 | a person who spends money
+w023095.1 | stockbroker | n. | C1 | 股票经纪人 | a person who buys and sells shares for clients
+w023098.1 | stretchy | adj. | C1 | 有弹性的, 能伸缩的 | able to stretch easily
+w023100.1 | sundae | n. | B2 | 圣代冰淇淋 | ice cream with toppings like fruit or syrup
+w023102.1 | supercomputer | n. | C1 | 超级计算机 | a very fast powerful computer
+w023106.1 | toothache | n. | A2 | 牙痛 | a pain in a tooth
+w023107.1 | tranquillity | n. | C1 | 宁静, 平静 | a calm and peaceful state
+w023108.1 | transitive | adj. | C1 | 及物的 | taking a direct object
+w023109.1 | trigonometry | n. | C1 | 三角学 | maths dealing with angles and sides of triangles
+w023118.1 | unrecognizable | adj. | C1 | 无法辨认的, 认不出的 | changed so much it cannot be recognized
+w023120.1 | unscheduled | adj. | C1 | 计划外的, 临时的 | not planned in advance
+w023126.1 | vlog | n. | B2 | 视频博客 | a blog made of videos
+w023126.2 | vlog | v. | B2 | 做视频博客 | to post video blogs
+w023137.1 | aerobics | n. | B1 | 有氧运动, 健美操 | exercises done to music to strengthen the heart
+w023139.1 | alertness | n. | C1 | 警觉, 机敏 | the state of being quick to notice things
+w023140.1 | alleyway | n. | C1 | 小巷, 胡同 | a narrow passage between buildings
+w023141.1 | amenity | n. | C1 | 便利设施, 生活设施 | a feature that makes a place pleasant or useful
+w023156.1 | boneless | adj. | C1 | 无骨的, 去骨的 | having had the bones removed
+w023159.1 | breathable | adj. | C1 | 透气的 | allowing air to pass through
+w023159.2 | breathable | adj. | C1 | 可呼吸的 | fit to breathe
+w023164.1 | carpool | n. | B2 | 拼车, 合伙用车 | an arrangement to share car journeys
+w023164.2 | carpool | v. | B2 | 拼车, 合乘汽车 | to share car journeys with others
+w023165.1 | cashew | n. | B2 | 腰果 | a curved edible nut from a tropical tree
+w023166.1 | cavernous | adj. | C1 | 空旷的, 巨大的, 洞穴般的 | very large and empty inside
+w023170.1 | changeable | adj. | B2 | 多变的, 易变的, 无常的 | likely to change often
+w023171.1 | chaperone | n. | C1 | 监护人, 陪伴者 | an adult who supervises young people
+w023171.2 | chaperone | v. | C1 | 陪同, 监护 | to go with and supervise someone
+w023172.1 | chlorophyll | n. | C1 | 叶绿素 | the green substance in plants that absorbs light
+w023176.1 | clothe | v. | B2 | 给…穿衣, 为…提供衣服 | to provide clothes for someone or dress them
+w023176.2 | clothe | v. | B2 | 覆盖, 笼罩 | to cover something
+w023180.1 | credential | n. | C1 | 资格证明, 资历, 证书 | a qualification or achievement that shows suitability
+w023180.2 | credential | v. | C1 | 颁发资格证书 | to give someone official qualifications
+w023185.1 | decompose | v. | C1 | 腐烂, 分解 | to decay or be broken down gradually
+w023185.2 | decompose | v. | C1 | 分解, 拆分 | to break something into simpler parts
+w023192.1 | dreamland | n. | C1 | 梦乡, 梦境 | an imaginary pleasant world or sleep
+w023200.1 | froth | n. | C1 | 泡沫, 浮沫 | a mass of small bubbles on a liquid
+w023200.2 | froth | v. | C1 | 起泡沫, 冒泡 | to produce or contain bubbles
+w023200.3 | froth | n. | C1 | 空洞之物, 无聊内容 | something light and of little value
+w023206.1 | hallo | int. | B1 | 喂, 你好 | a greeting or call for attention
+w023210.1 | hideaway | n. | C1 | 藏身处, 隐居处 | a place where someone goes to hide or relax
+w023215.1 | impersonate | v. | C1 | 冒充, 假扮 | to pretend to be someone else
+w023215.2 | impersonate | v. | C1 | 模仿 | to copy someone's voice and manner for fun
+w023218.1 | incompatibility | n. | C1 | 不兼容, 不相容, 合不来 | the state of not being able to exist or work together
+w023224.1 | junkyard | n. | C1 | 废品场, 垃圾场 | a place where old cars and scrap are kept
+w023234.1 | lifelike | adj. | C1 | 栩栩如生的, 逼真的 | looking very like a real person or thing
+w023236.1 | lioness | n. | B2 | 母狮 | a female lion
+w023239.1 | loveable | adj. | B2 | 可爱的, 讨人喜欢的 | easy to love or like
+w023241.1 | machinist | n. | C1 | 机械师, 机工 | a person who operates machines or makes machine parts
+w023243.1 | manhole | n. | C1 | 检修孔, 人孔, 窨井 | a covered hole in the road leading to sewers
+w023245.1 | marinade | n. | C1 | 腌泡汁, 卤汁 | a sauce in which food is soaked before cooking
+w023245.2 | marinade | v. | C1 | 腌泡, 浸泡 | to soak food in a sauce before cooking
+w023254.1 | minibus | n. | B1 | 小型公共汽车, 面包车 | a small bus for about ten to fifteen people
+w023257.1 | monotony | n. | C1 | 单调, 无聊 | boring sameness without variety
+w023260.1 | moveable | adj. | B2 | 可移动的, 活动的 | able to be moved
+w023279.1 | postmortem | n. | C1 | 尸检, 验尸 | a medical examination of a dead body
+w023279.2 | postmortem | n. | C1 | 事后分析, 检讨 | an analysis of why something failed
+w023279.3 | postmortem | adj. | C1 | 死后的 | happening after death
+w023280.1 | postscript | n. | B2 | 附言, 又及 | a note added at the end of a letter
+w023280.2 | postscript | n. | B2 | 后记, 补充 | extra information added at the end
+w023284.1 | prowl | v. | C1 | 潜行, 徘徊觅食 | to move around quietly looking for prey or a chance
+w023284.2 | prowl | n. | C1 | 徘徊, 潜行 | the act of moving around looking for something
+w023288.1 | purr | v. | C1 | 发出呼噜声 | to make the low sound of a contented cat
+w023288.2 | purr | v. | C1 | 低沉轰鸣 | to make a quiet low engine sound
+w023288.3 | purr | n. | C1 | 呼噜声 | the low soft sound a cat makes
+w023300.1 | refundable | adj. | B2 | 可退款的, 可退还的 | able to be paid back
+w023304.1 | restful | adj. | B2 | 宁静的, 令人放松的 | making you feel calm and relaxed
+w023309.1 | savagely | adv. | C1 | 凶猛地, 残暴地 | in a very violent or cruel way
+w023309.2 | savagely | adv. | C1 | 猛烈地, 严厉地 | in a very harsh or critical way
+w023312.1 | schoolwork | n. | B1 | 功课, 学业 | work done at or for school
+w023315.1 | seedling | n. | C1 | 幼苗, 秧苗 | a young plant grown from a seed
+w023322.1 | silencer | n. | C1 | 消音器 | a device that reduces the noise of a gun
+w023322.2 | silencer | n. | C1 | 排气消声器 | a device reducing car exhaust noise
+w023328.1 | soapy | adj. | B2 | 含肥皂的, 满是肥皂的 | containing or covered with soap
+w023331.1 | speedily | adv. | C1 | 迅速地, 快速地 | quickly
+w023332.1 | spiky | adj. | C1 | 尖的, 多刺的 | having sharp points
+w023332.2 | spiky | adj. | C1 | 易怒的 | easily annoyed
+w023337.1 | sunroof | n. | C1 | 汽车天窗 | a panel in a car roof that opens
+w023339.1 | suspenseful | adj. | C1 | 悬疑的, 扣人心弦的 | full of exciting uncertainty
+w023343.1 | temperamental | adj. | C1 | 喜怒无常的 | having moods that change quickly
+w023343.2 | temperamental | adj. | C1 | 不稳定的, 时好时坏的 | not working reliably
+w023356.1 | utilisation | n. | C1 | 利用, 使用 | the act of using something effectively
+w023361.1 | waver | v. | C1 | 动摇, 犹豫 | to be unsure or start to lose determination
+w023361.2 | waver | v. | C1 | 摇曳, 颤动 | to move or shake unsteadily
+w023365.1 | wring | v. | C1 | 拧, 绞 | to twist and squeeze water out of something
+w023365.2 | wring | v. | C1 | 榨取, 强行获取 | to get something with great effort
+w023365.3 | wring | v. | C1 | 拧断 | to twist an animal's neck to kill it
+w002483.1 | semi | n. | C1 | 半挂货车, 拖挂卡车 | a large truck with a detachable trailer
+w002483.2 | semi | n. | C1 | 半决赛, 准决赛 | a match whose winner goes to the final
+w002483.3 | semi | n. | C1 | 半独立式住宅, 联排双拼房 | a house joined to another on one side
+w002847.1 | android | n. | C1 | 人形机器人, 仿真机器人 | a robot that looks like a human
+w023369.1 | abduct | v. | C1 | 绑架, 劫持 | to take someone away illegally by force
+w023374.1 | affluence | n. | C1 | 富裕, 富足 | the state of having plenty of money
+w023391.1 | bombard | v. | C1 | 狂轰滥炸, 炮击 | to attack a place with bombs or guns
+w023391.2 | bombard | v. | C1 | 接连不断地提问 | to direct a large amount of questions or information at
+w023395.1 | camcorder | n. | B2 | 摄像机 | a portable video camera
+w023401.1 | chipmunk | n. | C1 | 花栗鼠 | a small striped squirrel from North America
+w023413.1 | culminate | v. | C1 | 达到顶点, 告终 | to end with a particular important result
+w023415.1 | cybercrime | n. | C1 | 网络犯罪 | crime committed using computers or the internet
+w023425.1 | drape | v. | C1 | 披, 搭, 悬挂 | to hang cloth loosely over something
+w023425.2 | drape | n. | C1 | 窗帘, 帘子 | long heavy curtains
+w023428.1 | droplet | n. | C1 | 小滴, 液滴 | a very small drop of liquid
+w023438.1 | excitable | adj. | C1 | 易激动的, 容易兴奋的 | easily becoming excited
+w023445.1 | funnily | adv. | B2 | 奇怪地, 可笑地 | in a strange or amusing way
+w023450.1 | guesswork | n. | C1 | 猜测, 臆测 | the process of guessing rather than knowing
+w023458.1 | impatiently | adv. | B2 | 不耐烦地, 急切地 | in an annoyed way because of waiting
+w023465.1 | invert | v. | C1 | 倒置, 颠倒, 翻转 | to turn something upside down or reverse its order
+w023465.2 | invert | n. | C1 | 倒置物 | something that is inverted
+w023490.1 | motorcyclist | n. | B2 | 摩托车手 | a person who rides a motorcycle
+w023498.1 | oilfield | n. | B2 | 油田 | an area where oil is found underground
+w023507.1 | penalize | v. | C1 | 处罚, 惩罚 | to punish someone for breaking a rule
+w023507.2 | penalize | v. | C1 | 使处于不利地位 | to put someone at an unfair disadvantage
+w023512.1 | planetarium | n. | C1 | 天文馆 | a building showing models of the sky and stars
+w023535.1 | scone | n. | B2 | 司康饼 | a small round cake eaten with butter or cream
+w023547.1 | soya | n. | B2 | 大豆, 黄豆 | the soy plant or its beans
+w023558.1 | timescale | n. | C1 | 时间范围, 期限 | the time in which something happens or is planned
+w023579.1 | woollen | adj. | B1 | 羊毛的, 毛织的 | made of wool
+w023579.2 | woollen | n. | B1 | 毛织品, 毛衣 | clothing made of wool
+w023614.1 | boarder | n. | C1 | 寄宿生 | a student who lives at school
+w023614.2 | boarder | n. | C1 | 寄宿者, 房客 | a person who pays to live in another's home
+w023628.1 | congratulation | n. | B1 | 祝贺, 恭喜 | the act of praising someone for an achievement
+w023630.1 | contactless | adj. | C1 | 非接触式的, 感应式的 | using a card without inserting it in a machine
+w023632.1 | cordless | adj. | B2 | 无绳的, 无线的 | working without an electric cable
+w023646.1 | disagreeable | adj. | C1 | 令人不快的 | unpleasant
+w023646.2 | disagreeable | adj. | C1 | 脾气坏的, 难相处的 | unfriendly and bad-tempered
+w023647.1 | disapproving | adj. | C1 | 不赞成的, 反对的 | showing that you think something is bad
+w023658.1 | exemplify | v. | C1 | 例证, 是…的典型 | to be a typical example of something
+w023658.2 | exemplify | v. | C1 | 举例说明 | to give an example of something
+w023661.1 | fingernail | n. | B1 | 指甲 | the hard layer at the end of each finger
+w023691.1 | italic | adj. | B2 | 斜体的 | in sloping printed letters
+w023691.2 | italic | n. | B2 | 斜体字 | sloping printed letters, usually plural
+w023714.1 | mobilisation | n. | C1 | 动员, 调动 | organizing people or resources for action
+w023714.2 | mobilisation | n. | C1 | 战争动员 | preparing armed forces for war
+w023718.1 | mountaintop | n. | B2 | 山顶 | the top of a mountain
+w023726.1 | obstinate | adj. | C1 | 固执的, 顽固的 | refusing to change your opinion
+w023726.2 | obstinate | adj. | C1 | 顽强的, 难以消除的 | difficult to deal with or remove
+w023728.1 | optimisation | n. | C1 | 优化, 最佳化 | making something work as well as possible
+w023743.1 | pretence | n. | C1 | 假装, 伪装 | an act of pretending
+w023743.2 | pretence | n. | C1 | 借口, 托辞 | a false reason or claim
+w023746.1 | punctuality | n. | B2 | 准时, 守时 | the habit of being on time
+w023754.1 | sandpaper | n. | C1 | 砂纸 | strong paper with a rough surface for smoothing
+w023754.2 | sandpaper | v. | C1 | 用砂纸打磨 | to smooth something with sandpaper
+w023755.1 | sandstorm | n. | B2 | 沙尘暴 | a strong wind carrying clouds of sand
+w023757.1 | scorch | v. | C1 | 烧焦, 烤焦 | to burn the surface of something slightly
+w023757.2 | scorch | v. | C1 | 使枯萎 | to dry and damage plants with heat
+w023757.3 | scorch | n. | C1 | 焦痕 | a mark made by burning
+w023758.1 | scribble | v. | C1 | 潦草书写, 乱涂 | to write or draw quickly and carelessly
+w023758.2 | scribble | n. | C1 | 潦草的字, 涂鸦 | careless untidy writing or drawing
+w023776.1 | teardrop | n. | C1 | 泪珠, 泪滴 | a single tear
+w023776.2 | teardrop | adj. | C1 | 泪滴形的 | shaped like a falling drop
+w023780.1 | toolbar | n. | B2 | 工具栏 | a row of icons on a computer screen
+w023786.1 | twisty | adj. | C1 | 弯弯曲曲的, 曲折的 | having many bends or turns
+w023786.2 | twisty | adj. | C1 | 复杂的, 曲折离奇的 | complicated with many unexpected changes
+w023787.1 | unchanging | adj. | C1 | 不变的, 始终如一的 | staying the same over time
+w023790.1 | unmet | adj. | C1 | 未满足的, 未达到的 | not satisfied or fulfilled
+w023791.1 | unsteady | adj. | C1 | 不稳的, 摇晃的 | not firm and likely to shake or fall
+w023791.2 | unsteady | adj. | C1 | 不稳定的, 不规律的 | not regular or constant
+w023794.1 | vaccinate | v. | C1 | 接种疫苗, 打预防针 | to give someone a vaccine to prevent disease
+w023803.1 | wintry | adj. | C1 | 冬天的, 寒冷的 | typical of winter, cold or snowy
+w023803.2 | wintry | adj. | C1 | 冷淡的, 不友好的 | unfriendly and cold
+w023813.1 | acrobat | n. | B2 | 杂技演员 | a performer who does difficult balancing and jumping acts
+w023818.1 | amphibian | n. | C1 | 两栖动物 | an animal that lives both on land and in water
+w023818.2 | amphibian | adj. | C1 | 两栖的 | able to live on land and in water
+w023821.1 | ashtray | n. | B2 | 烟灰缸 | a small dish for cigarette ash
+w023824.1 | attendee | n. | C1 | 出席者, 参加者 | a person who goes to a meeting or event
+w023825.1 | authenticate | v. | C1 | 证明真实, 鉴定 | to prove that something is genuine
+w023825.2 | authenticate | v. | C1 | 验证身份 | to confirm a user's identity
+w023829.1 | baffle | v. | C1 | 使困惑, 难住 | to confuse someone completely
+w023829.2 | baffle | n. | C1 | 挡板, 隔音板 | a board that controls sound or flow
+w023831.1 | bicep | n. | B2 | 二头肌 | the large muscle at the front of the upper arm
+w023844.1 | coastguard | n. | C1 | 海岸警卫队 | an organization that watches the sea near the coast
+w023844.2 | coastguard | n. | C1 | 海岸警卫队员 | a member of a coastguard
+w023846.1 | colonisation | n. | C1 | 殖民, 殖民化 | the act of taking control of another country
+w023847.1 | conferencing | n. | C1 | 会议, 电话会议 | holding meetings by phone or video
+w023848.1 | cornbread | n. | C1 | 玉米面包 | bread made from cornmeal
+w023854.1 | crudely | adv. | C1 | 粗略地, 简单地 | in a simple and not detailed way
+w023854.2 | crudely | adv. | C1 | 粗鲁地, 粗俗地 | in a rude or offensive way
+w023875.1 | emotionless | adj. | C1 | 无情感的, 冷漠的 | showing no feelings
+w023881.1 | expandable | adj. | C1 | 可扩展的, 可膨胀的 | able to be made larger
+w023895.1 | hairdo | n. | B2 | 发型 | the style of a person's hair
+w023927.1 | lunchbox | n. | A2 | 午餐盒 | a container for carrying a packed lunch
+w023930.1 | manmade | adj. | B2 | 人造的, 人工的 | made by people, not natural
+w023935.1 | motherly | adj. | C1 | 慈母般的, 母亲的 | kind and caring like a mother
+w023939.1 | nightstand | n. | B2 | 床头柜 | a small table beside a bed
+w023941.1 | northernmost | adj. | C1 | 最北的 | furthest to the north
+w023945.1 | outdo | v. | C1 | 胜过, 超过 | to do better than someone else
+w023953.1 | pinkish | adj. | C1 | 略带粉色的 | slightly pink
+w023971.1 | rearview | adj. | C1 | 后视的 | allowing you to see behind a vehicle
+w023990.1 | standardize | v. | C1 | 使标准化, 统一 | to make things the same or of one standard
+w024013.1 | unblock | v. | C1 | 疏通, 解除阻塞 | to clear something that is blocked
+w024013.2 | unblock | v. | C1 | 解除屏蔽 | to allow someone online to contact you again
+w024016.1 | unselfish | adj. | C1 | 无私的 | caring more about others than yourself
+w024060.1 | biofuel | n. | C1 | 生物燃料 | fuel made from plant or animal material
+w024076.1 | clickbait | n. | C1 | 标题党, 点击诱饵 | online content designed to attract clicks
+w024079.1 | comprehensible | adj. | C1 | 可理解的, 能懂的 | able to be understood
+w024080.1 | condense | v. | C1 | 压缩, 精简 | to make something shorter or smaller
+w024080.2 | condense | v. | C1 | 冷凝, 凝结 | to change from gas into liquid
+w024080.3 | condense | v. | C1 | 使浓缩 | to make a liquid thicker
+w024088.1 | dictation | n. | B1 | 听写 | writing down words that are spoken
+w024088.2 | dictation | n. | B1 | 口述, 命令 | saying words for someone else to write
+w024095.1 | earpiece | n. | C1 | 耳机, 听筒 | the part of a device held to or put in the ear
+w024099.1 | entitle | v. | C1 | 使有权利, 使有资格 | to give someone the right to do or have something
+w024099.2 | entitle | v. | C1 | 给题名 | to give a title to a book or work
+w024139.1 | joyfully | adv. | B2 | 高兴地, 快乐地 | in a very happy way
+w024150.1 | lightbulb | n. | A2 | 灯泡 | the glass part of an electric light
+w024166.1 | mouthwash | n. | C1 | 漱口水 | a liquid for cleaning the mouth
+w024180.1 | overpopulation | n. | C1 | 人口过剩 | too many people living in an area
+w024181.1 | overshadow | v. | C1 | 使黯然失色 | to make something seem less important
+w024181.2 | overshadow | v. | C1 | 给蒙上阴影 | to make an event less happy
+w024191.1 | pothole | n. | C1 | 坑洼, 路面坑 | a hole in the surface of a road
+w024191.2 | pothole | n. | C1 | 壶穴, 溶洞 | a deep natural hole in rock
+w024221.1 | spyware | n. | C1 | 间谍软件 | software that secretly collects user information
+w024223.1 | stepmom | n. | B2 | 继母 | a stepmother
+w024232.1 | sympathise | v. | B2 | 同情 | to feel sorry for someone
+w024232.2 | sympathise | v. | B2 | 赞同, 支持 | to support an idea or opinion
+w024233.1 | synchronize | v. | C1 | 使同步 | to make things happen at the same time
+w024237.1 | teacup | n. | B1 | 茶杯 | a cup for drinking tea
+w024241.1 | thicken | v. | C1 | 使变稠, 变厚 | to become or make thicker
+w024253.1 | unread | adj. | C1 | 未读的 | not yet read
+w024281.1 | artefact | n. | C1 | 人工制品, 手工艺品 | an object made by a person, especially historical
+w024298.1 | carnation | n. | C1 | 康乃馨 | a flower with frilly pink, red or white petals
+w024328.1 | etcetera | adv. | B2 | 等等, 及其他 | and other similar things
+w024347.1 | grammatically | adv. | B2 | 语法上 | in a way relating to grammar
+w024348.1 | gramophone | n. | C1 | 留声机 | an old machine for playing records
+w024349.1 | gratefully | adv. | B2 | 感激地 | in a thankful way
+w024353.1 | hibernate | v. | C1 | 冬眠 | to sleep through the winter
+w024362.1 | industrialisation | n. | C1 | 工业化 | the process of developing industries in a country
+w024367.1 | interconnect | v. | C1 | 互相连接, 互连 | to connect with each other
+w024368.1 | interviewee | n. | C1 | 被采访者, 面试者 | a person who is interviewed
+w024384.1 | lawnmower | n. | B2 | 割草机 | a machine for cutting grass
+w024398.1 | midair | n. | C1 | 半空中 | a point in the air above the ground
+w024400.1 | miscommunication | n. | C1 | 误解, 沟通不畅 | failure to communicate clearly
+w024406.1 | muffler | n. | C1 | 消音器 | a device that reduces engine noise
+w024406.2 | muffler | n. | C1 | 围巾 | a warm scarf
+w024407.1 | neckline | n. | C1 | 领口, 领圈 | the shape of the edge of a garment at the neck
+w024408.1 | neuroscientist | n. | C1 | 神经科学家 | a scientist who studies the nervous system
+w024410.1 | nightmarish | adj. | C1 | 噩梦般的, 可怕的 | extremely frightening or unpleasant
+w024414.1 | northwards | adv. | B2 | 向北 | towards the north
+w024418.1 | outermost | adj. | C1 | 最外面的, 最远的 | furthest from the centre
+w024419.1 | overheat | v. | B2 | 过热, 使过热 | to become or make too hot
+w024419.2 | overheat | v. | B2 | 经济过热 | to grow too fast causing inflation
+w024423.1 | passcode | n. | B2 | 密码, 口令 | a code of numbers or letters used to unlock something
+w024426.1 | photocopy | n. | B1 | 影印件, 复印件 | a photographic copy of a document
+w024426.2 | photocopy | v. | B1 | 复印, 影印 | to make a copy with a machine
+w024437.1 | racquet | n. | B2 | 球拍 | a bat with strings used in tennis and similar games
+w024455.1 | sanitizer | n. | B2 | 消毒剂, 洗手液 | a liquid or gel used to kill germs
+w024462.1 | shockwave | n. | C1 | 冲击波 | a strong wave of pressure from an explosion
+w024462.2 | shockwave | n. | C1 | 震动, 强烈影响 | a strong effect spreading through people
+w024465.1 | slouch | v. | C1 | 懒散地坐, 无精打采地站 | to sit or stand with a lazy bent posture
+w024465.2 | slouch | n. | C1 | 懒散的姿势 | a lazy bent posture
+w024467.1 | sneer | v. | C1 | 冷笑, 嘲笑 | to show contempt by smiling or speaking unkindly
+w024467.2 | sneer | n. | C1 | 冷笑, 讥笑 | a contemptuous look or remark
+w024469.1 | sorrowful | adj. | C1 | 悲伤的, 哀伤的 | very sad
+w024471.1 | stabilise | v. | C1 | 使稳定, 稳定 | to become or make steady
+w024472.1 | stopover | n. | B2 | 中途停留 | a short stay during a long journey
+w024477.1 | tracksuit | n. | B1 | 运动服 | a loose top and trousers worn for sport
+w024480.1 | triplet | n. | C1 | 三胞胎之一 | one of three children born at the same birth
+w024480.2 | triplet | n. | C1 | 三连音 | a group of three notes played in the time of two
+w024481.1 | troublemaker | n. | B2 | 捣乱者, 惹事者 | a person who often causes trouble
+w024502.1 | waistline | n. | C1 | 腰围, 腰身 | the measurement around the waist
+w024503.1 | weatherman | n. | B1 | 天气预报员 | a person who gives the weather forecast on TV or radio
+w024507.1 | woolen | adj. | B2 | 羊毛的, 毛织的 | made of wool
+w024507.2 | woolen | n. | B2 | 毛织品 | clothes made of wool
+w024508.1 | wristwatch | n. | B1 | 手表 | a watch worn on the wrist
+w024531.1 | annoyingly | adv. | C1 | 恼人地, 令人讨厌地 | in a way that annoys you
+w024541.1 | ballgame | n. | C1 | 棒球赛, 球赛 | a baseball game
+w024541.2 | ballgame | n. | C1 | 局面, 情况 | a situation
+w024556.1 | capitalise | v. | C1 | 利用, 从中获利 | to take advantage of something
+w024556.2 | capitalise | v. | C1 | 用大写字母写 | to write with a capital letter
+w024556.3 | capitalise | v. | C1 | 投资, 资本化 | to provide money for a business
+w024568.1 | cleverness | n. | B2 | 聪明, 机灵 | the quality of being clever
+w024570.1 | coder | n. | C1 | 程序员, 编码员 | a person who writes computer code
+w024571.1 | coldly | adv. | B2 | 冷淡地, 冷漠地 | in an unfriendly way
+w024576.1 | counterintuitive | adj. | C1 | 违反直觉的 | different from what you would expect
+w024580.1 | cyberbullying | n. | B2 | 网络欺凌 | bullying someone using the internet or phones
+w024586.1 | dietitian | n. | C1 | 营养师 | an expert on diet and nutrition
+w024596.1 | fabulously | adv. | C1 | 极其, 非常 | extremely
+w024600.1 | firecracker | n. | B2 | 鞭炮, 爆竹 | a small firework that explodes loudly
+w024603.1 | frontrunner | n. | C1 | 领先者, 最有希望获胜者 | the person most likely to win
+w024625.1 | hooligan | n. | C1 | 流氓, 足球流氓 | a violent young troublemaker
+w024636.1 | impurity | n. | C1 | 杂质 | a substance that makes something less pure
+w024636.2 | impurity | n. | C1 | 不纯, 不洁 | the state of not being pure
+w024656.1 | lazily | adv. | B2 | 懒散地, 慢悠悠地 | in a slow relaxed or lazy way
+w024679.1 | minty | adj. | C1 | 薄荷味的 | tasting or smelling of mint
+w024680.1 | moldy | adj. | B2 | 发霉的 | covered with mould
+w024696.1 | oboe | n. | C1 | 双簧管 | a woodwind instrument with a double reed
+w024705.1 | overheads | n. | C1 | 经常费用, 管理费用 | regular business costs such as rent
+w024713.1 | personalize | v. | B2 | 个性化, 定制 | to make something suit a particular person
+w024713.2 | personalize | v. | B2 | 针对个人 | to treat an issue as a personal matter
+w024717.1 | pollutant | n. | C1 | 污染物 | a substance that pollutes
+w024721.1 | profitably | adv. | C1 | 有利地, 有益地 | in a way that makes a profit or is useful
+w024731.1 | recollect | v. | C1 | 回忆, 想起 | to remember something
+w024757.1 | startle | v. | B2 | 使吃惊, 惊吓 | to suddenly surprise or frighten
+w024765.1 | superfast | adj. | C1 | 超快的 | extremely fast
+w024767.1 | tablecloth | n. | B1 | 桌布 | a cloth that covers a table
+w024776.1 | tinned | adj. | B1 | 罐装的 | preserved in a tin
+w024779.1 | transcribe | v. | C1 | 转录, 抄写 | to write down spoken words
+w024779.2 | transcribe | v. | C1 | 改编 | to arrange music for another instrument
+w024785.1 | unconvincing | adj. | C1 | 不能令人信服的 | not making you believe something is true
+w024786.1 | uncooked | adj. | B2 | 生的, 未煮的 | not cooked
+w024790.1 | unsurprising | adj. | C1 | 不足为奇的 | expected and not surprising
+w024795.1 | wildflower | n. | B2 | 野花 | a flower that grows naturally
+w024826.1 | bathrobe | n. | B1 | 浴袍 | a loose robe worn after a bath
+w024839.1 | carnivore | n. | C1 | 食肉动物 | an animal that eats meat
+w024846.1 | collaboratively | adv. | C1 | 合作地 | by working together
+w024865.1 | easel | n. | C1 | 画架 | a wooden frame that holds a painting
+w024866.1 | eastwards | adv. | B2 | 向东 | towards the east
+w024880.1 | fearlessly | adv. | C1 | 无畏地 | without fear
+w024901.1 | granddad | n. | A2 | 爷爷, 外公 | a grandfather
+w024910.1 | headmistress | n. | B1 | 女校长 | a woman who is head of a school
+w024911.1 | headteacher | n. | B1 | 校长 | the head of a school

@@ -1,0 +1,400 @@
+w000625.1 | outcome, consequence, effect | cause
+w000625.2 | score, mark | -
+w000625.3 | happen, follow, arise | cause
+w000626.1 | apologetic, regretful | -
+w000626.2 | sad, sympathetic | glad
+w000626.3 | pardon, excuse me | -
+w000628.1 | instruction, teaching, education | -
+w000628.2 | exercise, practice, workout | -
+w000629.1 | want, hope | -
+w000629.2 | hope | -
+w000629.3 | desire, hope, want | -
+w000629.4 | greeting, blessing | -
+w000630.1 | - | -
+w000632.1 | reply, response | question
+w000632.2 | solution, key | problem
+w000632.3 | reply, respond | ask
+w000632.4 | pick up | -
+w000633.1 | lad, youth | girl
+w000633.2 | son | daughter
+w000633.3 | wow, gosh | -
+w000634.1 | plan, layout | -
+w000634.2 | pattern | -
+w000634.3 | plan, create, devise | -
+w000634.4 | intend, mean | -
+w000635.1 | eventually, at last, in the end | -
+w000635.2 | lastly | firstly
+w000636.1 | - | -
+w000636.2 | - | -
+w000636.3 | golden | -
+w000637.1 | away, absent | -
+w000637.2 | used up, finished | -
+w000637.3 | dead | alive
+w000638.1 | estimate | -
+w000638.2 | suppose, think, believe | -
+w000638.3 | estimate | -
+w000639.1 | curiosity | boredom
+w000639.2 | - | -
+w000639.3 | benefit, advantage | -
+w000639.4 | fascinate | bore
+w000640.1 | monarch, ruler | queen
+w000640.2 | - | -
+w000641.1 | study, master | teach
+w000641.2 | find out, discover | -
+w000642.1 | plan, strategy | -
+w000642.2 | - | -
+w000644.1 | community, public | -
+w000644.2 | club, association, organization | -
+w000646.1 | extra, additional | -
+w000647.1 | lonely, solitary | together
+w000647.2 | by yourself, on your own | together
+w000647.3 | only, just | -
+w000648.1 | mean | -
+w000648.2 | ordinary, typical, normal, standard | unusual
+w000648.3 | mean, norm | -
+w000648.4 | - | -
+w000649.1 | - | -
+w000649.2 | shore, side | -
+w000649.3 | deposit | -
+w000651.1 | sure, confident, positive | uncertain, doubtful
+w000651.2 | particular, some | -
+w000651.3 | sure, definite, inevitable | uncertain
+w000652.1 | - | -
+w000652.2 | service | -
+w000652.3 | - | -
+w000654.1 | - | west
+w000654.2 | eastern | west
+w000654.3 | - | west
+w000656.1 | warm, boiling | cold
+w000656.2 | spicy | mild
+w000656.3 | popular, fashionable, trendy | -
+w000657.1 | - | -
+w000657.2 | check-up, physical | -
+w000658.1 | film | -
+w000658.2 | cinema | -
+w000659.1 | first, initial | -
+w000659.2 | new, fresh, creative | -
+w000659.3 | - | copy
+w000660.1 | garden | -
+w000660.2 | - | -
+w000661.1 | show, concert, play | -
+w000661.2 | achievement | -
+w000661.3 | - | -
+w000662.1 | push | pull
+w000662.2 | urge, push | -
+w000662.3 | media | -
+w000662.4 | - | -
+w000663.1 | function, part, position | -
+w000663.2 | part, character | -
+w000665.1 | - | -
+w000665.2 | - | -
+w000667.1 | - | -
+w000667.2 | worthwhile | -
+w000667.3 | value, importance | -
+w000668.1 | - | -
+w000669.1 | check, invoice | -
+w000669.2 | - | -
+w000669.3 | note | -
+w000669.4 | charge, invoice | -
+w000670.1 | chilly, cold | warm
+w000670.2 | great, fashionable | -
+w000670.3 | calm, relaxed | nervous, excited
+w000670.4 | chill | heat, warm
+w000671.1 | manager, head, boss | -
+w000671.2 | - | -
+w000672.1 | precisely, accurately, correctly | -
+w000672.2 | just, precisely | -
+w000672.3 | absolutely, quite | -
+w000673.1 | earth, floor, land | sky
+w000673.2 | field, land | -
+w000673.3 | reason, basis | -
+w000673.4 | - | -
+w000673.5 | - | -
+w000676.1 | conference | -
+w000676.2 | gathering | -
+w000677.1 | supply, give, offer | -
+w000677.2 | state, require | -
+w000678.1 | connection, link | -
+w000678.2 | romance, affair | -
+w000679.1 | noise | silence
+w000679.2 | seem, appear | -
+w000679.3 | ring | -
+w000679.4 | healthy, sensible, solid | unsound
+w000679.5 | deep | -
+w000680.1 | origin, cause | -
+w000680.2 | - | -
+w000680.3 | obtain, get | -
+w000682.1 | normally, generally, often | rarely
+w000683.1 | importance, usefulness, benefit | -
+w000683.2 | price, cost, worth | -
+w000683.3 | principle, belief | -
+w000683.4 | appreciate, respect, treasure | -
+w000683.5 | price | -
+w000684.1 | all right, fine, sure | -
+w000684.2 | all right, fine, acceptable | -
+w000684.3 | all right, well | badly
+w000684.4 | approve | reject
+w000685.1 | proof | -
+w000685.2 | sign, trace | -
+w000685.3 | show, prove | -
+w000686.1 | chase, pursue | lead
+w000686.2 | obey, observe | disobey, ignore
+w000686.3 | succeed | precede
+w000687.1 | formal | unofficial
+w000687.2 | officer | -
+w000688.1 | manufacture, making | -
+w000688.2 | output | -
+w000688.3 | show | -
+w000689.1 | level, ratio | -
+w000689.2 | speed, pace | -
+w000689.3 | charge, fee, price | -
+w000689.4 | judge, assess, rank | -
+w000690.1 | - | -
+w000690.2 | - | -
+w000690.3 | - | -
+w000691.1 | circular | square
+w000691.2 | stage, level | -
+w000691.3 | around | -
+w000691.4 | around | -
+w000692.1 | rescue, protect | -
+w000692.2 | keep | spend, waste
+w000692.3 | store | delete
+w000692.4 | - | -
+w000693.1 | - | sit
+w000693.2 | bear, tolerate, put up with | -
+w000693.3 | be, lie | -
+w000693.4 | position, view | -
+w000693.5 | stall, rack | -
+w000694.1 | thing, material | -
+w000694.2 | thing | -
+w000694.3 | fill, pack | empty
+w000695.1 | duty | -
+w000695.2 | - | -
+w000695.3 | strain | -
+w000696.1 | anything | -
+w000696.2 | any | -
+w000696.3 | - | -
+w000697.1 | quantity, sum, total | -
+w000697.2 | total, add up to | -
+w000697.3 | equal | -
+w000698.1 | - | -
+w000698.2 | sad, unhappy, down | happy
+w000698.3 | - | -
+w000700.1 | steer | -
+w000700.2 | force, push | -
+w000700.3 | ride, trip | -
+w000700.4 | - | -
+w000700.5 | energy, determination, ambition | -
+w000702.1 | consume | -
+w000702.2 | dine | -
+w000703.1 | drop, collapse | rise
+w000703.2 | drop, decrease, decline | rise, increase
+w000703.3 | autumn | -
+w000703.4 | drop, decrease, decline | rise, increase
+w000704.1 | quick, rapid, swift | slow
+w000704.2 | quickly, rapidly | slowly
+w000704.3 | firmly, tightly | loosely
+w000704.4 | - | -
+w000705.1 | national | -
+w000706.1 | emotion, sensation | -
+w000706.2 | emotion | -
+w000706.3 | sense, impression, hunch | -
+w000707.1 | - | -
+w000707.2 | environmental | -
+w000707.3 | new | experienced
+w000707.4 | - | -
+w000707.5 | common | -
+w000708.1 | - | -
+w000708.2 | alliance, union | -
+w000708.3 | class, level | -
+w000709.1 | administration, control | -
+w000709.2 | - | -
+w000710.1 | game, contest | -
+w000710.2 | - | -
+w000710.3 | equal | -
+w000710.4 | go with, suit, fit | clash
+w000710.5 | equal, rival | -
+w000711.1 | copy | -
+w000711.2 | - | -
+w000711.3 | version, type | -
+w000711.4 | - | -
+w000711.5 | base, copy | -
+w000712.1 | - | -
+w000712.2 | - | -
+w000712.3 | - | -
+w000713.1 | painting, drawing, image | -
+w000713.2 | photograph, photo | -
+w000713.3 | image, idea, description | -
+w000713.4 | imagine, see | -
+w000715.1 | dimension | -
+w000715.2 | - | -
+w000715.3 | scale, extent | -
+w000716.1 | pace | -
+w000716.2 | stage, action, move | -
+w000716.3 | stair | -
+w000716.4 | walk, tread | -
+w000717.1 | believe, rely on | distrust
+w000717.2 | confidence, faith, belief | distrust
+w000717.3 | - | -
+w000718.1 | - | -
+w000719.1 | Britain | -
+w000720.1 | middle | outer
+w000720.2 | main, chief, key | minor
+w000720.3 | - | local
+w000722.1 | ahead | back, backward
+w000722.2 | ahead | back
+w000722.3 | front | back
+w000722.4 | send on, pass on | -
+w000722.5 | striker | -
+w000723.1 | hi, hello | -
+w000724.1 | - | -
+w000724.2 | answer, secret | -
+w000724.3 | button | -
+w000724.4 | important, main, crucial | minor
+w000725.1 | mother, mum | dad
+w000727.1 | sheet | -
+w000727.2 | web page | -
+w000727.3 | call | -
+w000728.1 | - | unpaid
+w000728.2 | settled | unpaid
+w000729.1 | scope, limit | -
+w000729.2 | variety, selection | -
+w000729.3 | chain | -
+w000729.4 | vary, extend | -
+w000730.1 | critique, criticism | -
+w000730.2 | examination, study, inspection | -
+w000730.3 | examine, check, inspect | -
+w000730.4 | - | -
+w000730.5 | revise, go over | -
+w000731.1 | - | -
+w000731.2 | - | -
+w000733.1 | commerce, business | -
+w000733.2 | business, occupation, craft | -
+w000733.3 | deal | -
+w000733.4 | exchange, swap | -
+w000735.1 | on | -
+w000735.2 | on | -
+w000736.1 | different, several, diverse | -
+w000737.1 | - | -
+w000738.1 | concentration, notice, focus | -
+w000738.2 | care, treatment | neglect
+w000739.1 | - | sister
+w000739.2 | - | sister
+w000740.1 | - | -
+w000741.1 | personality, nature | -
+w000741.2 | figure, role | -
+w000741.3 | nature, feel | -
+w000742.1 | main, principal, key | minor
+w000742.2 | head, senior | -
+w000742.3 | head, leader, boss | -
+w000742.4 | leader | -
+w000743.1 | mug | -
+w000743.2 | cupful | -
+w000743.3 | trophy | -
+w000743.4 | - | -
+w000744.1 | soccer | -
+w000744.2 | - | -
+w000744.3 | ball | -
+w000745.1 | dislike, detest | love, like
+w000745.2 | detest | love
+w000745.3 | hatred, dislike | love
+w000746.1 | bottom | upper
+w000746.2 | reduce, decrease, cut | raise, increase
+w000746.3 | drop | raise, lift
+w000747.1 | - | artificial
+w000747.2 | normal, ordinary | unnatural
+w000747.3 | born | -
+w000749.1 | belongings, possession | -
+w000749.2 | estate, real estate | -
+w000749.3 | quality, characteristic | -
+w000750.1 | standard, grade | -
+w000750.2 | characteristic, feature, trait | -
+w000750.3 | fine, excellent | -
+w000751.1 | post, mail | receive
+w000751.2 | - | -
+w000751.3 | drive | -
+w000752.1 | manner, way, method | -
+w000752.2 | fashion, design | -
+w000752.3 | elegance, class | -
+w000752.4 | design, shape | -
+w000753.1 | - | -
+w000753.2 | ballot | -
+w000753.3 | - | -
+w000754.1 | - | -
+w000755.1 | - | -
+w000756.1 | astonishing, surprising, incredible | -
+w000756.2 | wonderful, fantastic, brilliant | terrible
+w000757.1 | - | -
+w000757.2 | grand, impressive | -
+w000758.1 | - | -
+w000758.2 | family, ancestry | -
+w000759.1 | whole, full, entire | incomplete
+w000759.2 | total, absolute, utter | -
+w000759.3 | finished, done | unfinished
+w000759.4 | finish, end, conclude | start
+w000759.5 | fill in, fill out | -
+w000760.1 | - | -
+w000760.2 | plague, trouble | -
+w000760.3 | follow, tail | -
+w000761.1 | financial | -
+w000761.2 | profitable | uneconomic
+w000763.1 | - | heaven
+w000763.2 | nightmare, misery | heaven
+w000763.3 | damn | -
+w000764.1 | engaged | -
+w000764.2 | complicated, complex | simple
+w000764.3 | - | -
+w000765.1 | - | -
+w000765.2 | - | -
+w000766.1 | tongue | -
+w000766.2 | vocabulary, wording | -
+w000766.3 | code | -
+w000767.1 | God | -
+w000767.2 | noble | -
+w000767.3 | master, ruler | -
+w000767.4 | - | -
+w000768.1 | - | -
+w000768.2 | petroleum | -
+w000768.3 | - | -
+w000768.4 | grease | -
+w000770.1 | connected | unrelated
+w000770.2 | - | unrelated
+w000771.1 | severe, grave | minor
+w000771.2 | solemn, earnest | -
+w000771.3 | important, significant | trivial
+w000772.1 | phase, point, step | -
+w000772.2 | - | -
+w000772.3 | present, organize, hold | -
+w000773.1 | name | -
+w000773.2 | - | -
+w000773.3 | championship, crown | -
+w000773.4 | name, call | -
+w000774.1 | - | -
+w000774.2 | - | -
+w000774.3 | - | -
+w000775.1 | - | -
+w000776.1 | put in, include | remove
+w000776.2 | add up, total | subtract
+w000776.3 | say | -
+w000777.1 | story, report, piece | -
+w000777.2 | item, object, thing | -
+w000777.3 | - | -
+w000778.1 | assault, raid | defence
+w000778.2 | criticism | -
+w000778.3 | fit, bout | -
+w000778.4 | assault, hit | defend
+w000778.5 | criticize | defend, praise
+w000779.1 | - | -
+w000779.2 | natural | -
+w000780.1 | hell | -
+w000780.2 | - | -
+w000780.3 | very | -
+w000780.4 | condemn | praise
+w000781.1 | choice, judgment | -
+w000781.2 | decisiveness | -
+w000782.1 | like, love | hate, dislike
+w000782.2 | have | -
+w000783.1 | whole, complete, total | partial
+w000784.1 | murder | -
+w000784.2 | stop, destroy, end | -
+w000784.3 | pass, spend | -

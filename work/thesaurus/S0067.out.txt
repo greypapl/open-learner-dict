@@ -1,0 +1,400 @@
+w020432.1 | brevity | length
+w020432.2 | lack, shortage | -
+w020433.1 | piercing, high-pitched | deep
+w020433.2 | strident, vehement | -
+w020434.1 | lifeless, heartless, dull | -
+w020436.1 | frighten, scare, startle | reassure
+w020436.2 | ghost, spirit, phantom | -
+w020436.3 | spy, agent | -
+w020437.1 | coach | -
+w020438.1 | - | -
+w020439.1 | dictator, tyrant | -
+w020439.2 | - | -
+w020440.1 | die down, abate, lessen, ease | intensify
+w020440.2 | sink, settle | rise
+w020444.1 | strategically | -
+w020446.1 | - | -
+w020449.1 | - | -
+w020458.1 | unachievable, unreachable, impossible | attainable
+w020459.1 | uncharted, unknown | -
+w020460.1 | - | -
+w020462.1 | tense, nervous, anxious, uneasy | relaxed
+w020466.1 | - | -
+w020467.1 | femininity | manhood
+w020468.1 | worrying, disturbing | reassuring
+w002156.1 | cut, notch, scratch | -
+w002156.2 | cut, scratch | -
+w002156.3 | steal, pinch, swipe | -
+w020475.1 | - | -
+w020475.2 | fly | -
+w020490.1 | - | -
+w020497.1 | - | -
+w020497.2 | - | -
+w020498.1 | - | -
+w020499.1 | - | -
+w020504.1 | - | cowboy
+w020506.1 | pancake | -
+w020506.2 | - | -
+w020508.1 | properly, respectably, fairly | indecently
+w020509.1 | devolution | centralization
+w020513.1 | hate, loathe, despise, abhor | love, adore
+w020515.1 | break up, dissolve, disperse | form
+w020517.1 | distinct, recognizable, discernible | indistinguishable
+w020518.1 | seriously, sincerely, solemnly | -
+w020522.1 | slavery, bondage | liberation
+w020523.1 | trust, charge, assign | -
+w020524.1 | desirable, attractive | unenviable
+w020527.1 | yuck, ugh | -
+w020530.1 | fire station | -
+w020531.1 | unreliable, eccentric | reliable
+w020531.2 | crumbly | -
+w020533.1 | - | -
+w020533.2 | - | -
+w020534.1 | infallible, reliable | -
+w020535.1 | - | -
+w020536.1 | scatterbrained | -
+w020537.1 | unmemorable, unremarkable | memorable, unforgettable
+w020538.1 | - | -
+w020543.1 | - | -
+w020552.1 | bed and breakfast, inn | -
+w020553.1 | shootout, firefight | -
+w020556.1 | - | -
+w020556.2 | reaper | -
+w020558.1 | - | level
+w020559.1 | indigestion | -
+w020565.1 | imitation, impression, mimicry | -
+w020565.2 | - | -
+w020566.1 | jail, lock up, detain | free, release
+w020568.1 | thoroughly, rigorously | -
+w020569.1 | multicultural | -
+w020576.1 | - | -
+w020586.1 | - | -
+w020587.1 | life cycle | -
+w020588.1 | - | -
+w020588.2 | polyglot | -
+w020599.1 | significantly, expressively, pointedly | meaninglessly
+w020600.1 | - | -
+w020604.1 | chip | -
+w020604.2 | chip | -
+w020608.1 | confused, disorganized | clear
+w020611.1 | - | -
+w020612.1 | - | -
+w020613.1 | bias, partiality, factionalism | impartiality
+w020614.1 | fine, great, dandy | -
+w020614.2 | - | -
+w020615.1 | lustrous, iridescent | -
+w020616.1 | retiree, senior citizen | -
+w020621.1 | physical therapy | -
+w020623.1 | - | -
+w020624.1 | inhabit, occupy, live in | -
+w020624.2 | settle, people | depopulate
+w020624.3 | fill, fill in | -
+w020627.1 | shrimp | -
+w020629.1 | obsession, absorption, fixation | -
+w020629.2 | concern, obsession, worry | -
+w020633.1 | - | -
+w020635.1 | - | -
+w020635.2 | mash, blend | -
+w020637.1 | - | -
+w020638.1 | reorganization, rearrangement | -
+w020644.1 | remodel, restructure, reform | -
+w020645.1 | revive, rejuvenate, regenerate | -
+w020646.1 | - | -
+w020651.1 | - | -
+w020652.1 | consecutively, successively, in order | -
+w020657.1 | toil, labour, grind | -
+w020657.2 | trudge, plod, tramp | -
+w020657.3 | grind, effort, toil | -
+w020662.1 | - | -
+w020664.1 | - | -
+w020665.1 | shopfront | -
+w020665.2 | - | -
+w020666.1 | - | -
+w020666.2 | - | -
+w020667.1 | - | -
+w020668.1 | flexible, agile, lithe | stiff
+w020669.1 | - | -
+w020669.2 | - | -
+w020672.1 | merry | sober
+w020678.1 | - | -
+w020679.1 | undisputed, unquestioned, unopposed | challenged
+w020680.1 | strip, disrobe | dress
+w020681.1 | dull, boring, tedious | interesting
+w020684.1 | energy, vitality, strength | weakness
+w020693.1 | flexibility, versatility | inflexibility
+w020694.1 | hostility, belligerence, aggression | gentleness
+w020695.1 | hold | -
+w020698.1 | friend, pal, buddy | -
+w020701.1 | starter | dessert
+w020703.1 | - | -
+w020704.1 | amazingly, astoundingly, surprisingly | -
+w020705.1 | amazement, surprise, wonder | -
+w020707.1 | - | -
+w020707.2 | - | -
+w020708.1 | - | forehand
+w020708.2 | - | -
+w020712.1 | - | -
+w020717.1 | - | -
+w020717.2 | crash course | -
+w020726.1 | caregiver | -
+w020727.1 | roadway | -
+w020743.1 | - | -
+w020743.2 | - | bug
+w020745.1 | - | -
+w020745.2 | - | -
+w020749.1 | sadden, discourage, dishearten | cheer, uplift
+w020749.2 | lower, reduce, weaken | boost
+w020749.3 | press, push | release
+w020753.1 | leveller | -
+w020753.2 | - | -
+w020758.1 | fertilizer, manure | -
+w020759.1 | giveaway, handout | -
+w020764.1 | - | -
+w020767.1 | regularly, routinely, usually | -
+w020770.1 | - | -
+w020771.1 | - | -
+w020778.1 | hydroelectricity | -
+w020780.1 | restlessness | -
+w020781.1 | - | literacy
+w020785.1 | resentful, aggrieved | -
+w020787.1 | sterile, barren | fertile
+w020787.2 | barren, unproductive | fertile
+w020791.1 | sporadically, unevenly | regularly
+w020794.1 | jot down, note, scribble | -
+w020794.2 | bit, scrap, iota | -
+w020806.1 | search | -
+w020809.1 | scanty, inadequate, paltry, poor | ample, generous
+w020811.1 | intermediary, dealer | -
+w020811.2 | intermediary, go-between, broker | -
+w020820.1 | notebook, jotter, pad | -
+w020821.1 | - | -
+w020822.1 | - | -
+w020829.1 | little finger | thumb
+w020831.1 | contaminate, poison, dirty | purify, clean
+w020831.2 | corrupt, taint | -
+w020832.1 | predate, antedate | follow
+w020832.2 | lead, go before | follow
+w020836.1 | immediately, at once, right away | -
+w020838.1 | advertise, promote, publicise | conceal
+w020840.1 | speed up, accelerate, hasten | slow
+w020840.2 | stimulate, arouse, excite | -
+w020843.1 | - | -
+w020857.1 | - | -
+w020858.1 | stepfather | stepmother
+w020859.1 | choke, smother, asphyxiate | -
+w020859.2 | stifle, smother, suppress | -
+w020864.1 | economical, frugal, careful | extravagant, wasteful
+w020867.1 | prickle, sting, tickle | -
+w020867.2 | thrill, buzz | -
+w020867.3 | prickle, thrill, buzz | -
+w020868.1 | townsfolk | -
+w020870.1 | trial, audition, test | -
+w020873.1 | underwater, submarine | -
+w020874.1 | - | -
+w020874.2 | raw, candid, uncensored | -
+w020875.1 | unchallenged, uncontested | -
+w020881.1 | - | -
+w020882.1 | distributor, supplier | retailer
+w020883.1 | ironic, dry, sardonic | -
+w020883.2 | crooked, twisted | straight
+w020890.1 | detestable, hateful, despicable | admirable
+w020890.2 | terrible, awful, dreadful, atrocious | excellent
+w020892.1 | sufficiency, competence | inadequacy
+w020894.1 | - | -
+w020905.1 | - | whitish
+w020906.1 | flaw, mark, spot, defect | -
+w020906.2 | spoil, mar, tarnish, stain | -
+w020907.1 | - | -
+w020907.2 | brainwave, inspiration | -
+w020907.3 | - | -
+w020908.1 | conciseness, briefness, shortness | length
+w020910.1 | onerous, heavy, demanding | light
+w020914.1 | - | herbivorous
+w020915.1 | - | -
+w020916.1 | typically | uncharacteristically
+w020922.1 | cigarette, fag, smoke | -
+w020923.1 | cramped, confined, stifling | spacious
+w020923.2 | - | -
+w020927.1 | councillor | -
+w020928.1 | - | -
+w020930.1 | crawfish | -
+w020933.1 | cheat, swindle, con | -
+w020934.1 | skilfully, nimbly, adroitly | clumsily
+w020936.1 | prisoner, captive, inmate | -
+w020944.1 | elated, ecstatic, jubilant | depressed
+w020947.1 | - | -
+w020948.1 | brew | -
+w020948.2 | unrest, turmoil, agitation, uproar | calm
+w020948.3 | stir up, foment, provoke | -
+w020949.1 | statuette | -
+w020950.1 | refresh, revive | -
+w020950.2 | freshen up, wash up | -
+w020950.3 | strengthen, pick up | -
+w020951.1 | - | -
+w020952.1 | full-time | part-time
+w020952.2 | full-time | part-time
+w020957.1 | - | -
+w020959.1 | - | cold snap
+w020961.1 | - | -
+w020965.1 | incalculable, immense, boundless | measurable
+w020966.1 | wickedness, sin, depravity | morality
+w020968.1 | susceptible, suggestible, gullible | -
+w020970.1 | charge, prosecute, accuse | acquit
+w020971.1 | undeniable, unquestionable, incontrovertible | debatable
+w020986.1 | liquorice | -
+w020987.1 | - | -
+w020989.1 | lurch, dive, leap | -
+w020989.2 | thrust, leap | -
+w020989.3 | - | -
+w020990.1 | spitefully, viciously | -
+w020991.1 | - | -
+w020991.2 | - | -
+w020992.1 | interfere, intrude, pry | -
+w020998.1 | middle, centre | -
+w021001.1 | nip, peck, munch | -
+w021001.2 | bite, morsel | -
+w021001.3 | erode, eat away | -
+w021003.1 | inquisitive, curious | -
+w021004.1 | invalidate, cancel, annul | validate
+w021008.1 | omelet | -
+w021011.1 | overcome, overwhelm, subdue | -
+w021011.2 | overwhelm | -
+w021013.1 | - | -
+w021015.1 | broke, poor, destitute | rich, wealthy
+w021017.1 | - | -
+w021019.1 | plunge, drop, crash, tumble | soar
+w021026.1 | - | unpredictability
+w021030.1 | hike, walk, stroll | -
+w021030.2 | waffle, babble | -
+w021030.3 | walk, hike, stroll | -
+w021031.1 | live | -
+w021034.1 | transform | -
+w021035.1 | rhino | -
+w021036.1 | - | -
+w021041.1 | - | -
+w021044.1 | untidy, shabby, messy | smart, neat
+w021049.1 | go away | -
+w021049.2 | chase away, drive away | -
+w021051.1 | evenness, sleekness | roughness
+w021052.1 | suffocate, stifle, choke | -
+w021052.2 | stifle, suppress, extinguish | -
+w021052.3 | cover, coat, smear | -
+w021055.1 | impulsiveness, naturalness | -
+w021056.1 | twist, wrench | -
+w021056.2 | strain | -
+w021059.1 | - | stepdaughter
+w021060.1 | strikingly, extremely, amazingly | -
+w021062.1 | damage, stain, sully | enhance
+w021062.2 | discolour, dull | -
+w021062.3 | - | -
+w021072.1 | - | -
+w021072.2 | cable car | -
+w021073.1 | curable | untreatable
+w021075.1 | - | -
+w021075.2 | pocket | -
+w021077.1 | font, type | -
+w021079.1 | missing | -
+w021080.1 | authoritarian | democratic
+w021081.1 | undergraduate | postgrad
+w021082.1 | unwelcome | -
+w021082.2 | unwanted, unsolicited | -
+w021083.1 | unsettling, disconcerting, frightening | reassuring
+w021084.1 | - | -
+w021085.1 | unknown, unacknowledged, unnoticed | -
+w021086.1 | untried, unproven | -
+w021090.1 | annoy, irritate, bother | please
+w021094.1 | lookout | -
+w021096.1 | important, serious, significant | trivial
+w021096.2 | heavy | light
+w021099.1 | exercise book | -
+w021099.2 | spreadsheet | -
+w021100.1 | workplace | -
+w021103.1 | Brit | -
+w021108.1 | friendly, pleasant, genial, affable | unfriendly
+w021111.1 | fisherman | -
+w021114.1 | indifferent, uninterested, unenthusiastic | enthusiastic
+w021120.1 | - | -
+w021124.1 | - | -
+w021125.1 | official, functionary | -
+w021131.1 | - | -
+w021146.1 | misleadingly | -
+w021147.1 | - | encoder
+w021151.1 | unfaithful, treacherous, traitorous | loyal
+w021156.1 | - | -
+w021157.1 | clay | -
+w021158.1 | oddity, quirk, strangeness | normality
+w021158.2 | - | -
+w021167.1 | lash | -
+w021170.1 | hotspot, trouble spot | -
+w021170.2 | - | -
+w021172.1 | stronghold, rampart | -
+w021172.2 | reinforcement | -
+w021174.1 | jail, prison | -
+w021174.2 | jail, imprison | release
+w021175.1 | blurry, fuzzy | sharp
+w021176.1 | foliage, vegetation | -
+w021178.1 | easily, comfortably | narrowly
+w021178.2 | conveniently | -
+w021180.1 | intensify, increase, enhance, strengthen | lessen, reduce
+w021183.1 | - | -
+w021186.1 | shout, yell, bellow | whisper
+w021186.2 | shout, yell, cry | whisper
+w021189.1 | shell, hull, pod | -
+w021189.2 | shell, hull | -
+w021191.1 | incriminate, involve | exonerate
+w021192.1 | beg, plead, entreat | -
+w021193.1 | heartburn, dyspepsia | -
+w021196.1 | inflection, tone, cadence | -
+w021196.2 | pitch | -
+w021197.1 | conversely | proportionally
+w021199.1 | fairly, rightly, deservedly | unjustly
+w021200.1 | - | -
+w021200.2 | jumble, medley, mixture | -
+w021201.1 | keyboard | -
+w021202.1 | - | -
+w021206.1 | deregulation | regulation
+w021210.1 | bumpy, uneven, knobbly | smooth
+w021211.1 | songwriter | -
+w021214.1 | - | -
+w021215.1 | lowly, humble | -
+w021215.2 | servant | -
+w021216.1 | guidance | -
+w021218.1 | cheerfully, happily, gaily | sadly
+w021220.1 | - | polygamous
+w021227.1 | require, demand, entail | -
+w021243.1 | exaggerate, overstate | -
+w021243.2 | overcook | undercook
+w021244.1 | - | -
+w021246.1 | carefully, meticulously, thoroughly | carelessly
+w021247.1 | tights | -
+w021250.1 | physiotherapy | -
+w021250.2 | physiotherapist | -
+w021254.1 | feasible, workable, possible, viable | impracticable
+w021259.1 | tremble, shake, shiver | -
+w021259.2 | tremor, tremble, shiver | -
+w021259.3 | - | -
+w021260.1 | - | -
+w021260.2 | automatic, instinctive, reflex | -
+w021261.1 | - | -
+w021262.1 | recall, remember, look back | -
+w021265.1 | salesman, saleswoman | customer
+w021272.1 | skilfully, expertly, deftly | clumsily
+w021273.1 | - | -
+w021274.1 | cut, clip, trim | -
+w021274.2 | cut, clipping | -
+w021274.3 | bargain, steal | rip-off
+w021275.1 | gloomy, grave, solemn, sad | cheerful
+w021275.2 | dark, dull, drab | bright
+w021278.1 | reel, bobbin | -
+w021278.2 | wind, reel | unwind
+w021278.3 | - | -
+w021279.1 | squirt, spray, gush, spout | trickle
+w021279.2 | burst, rush, gush | trickle
+w021280.1 | template | -
+w021280.2 | - | -
+w021282.1 | bias | objectivity
+w021285.1 | orchestral | -
+w021286.1 | - | -
+w021289.1 | tearful, weepy | -
+w021292.1 | - | -
+w021293.1 | - | -

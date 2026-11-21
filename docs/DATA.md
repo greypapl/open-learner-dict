@@ -45,6 +45,11 @@ SELECT e.word, e.ipa_us, e.level, s.pos, s.zh, s.en_short
 FROM entries e JOIN senses s ON s.entry_id = e.id
 WHERE e.id = :id ORDER BY s.idx;
 
+-- 义项的同义词 / 反义词
+SELECT type, related FROM sense_relations WHERE sense_id = :sense_id ORDER BY type, idx;
+-- 反查：哪些义项把 quick 列为同义词
+SELECT sense_id FROM sense_relations WHERE related = 'quick' AND type = 'synonym';
+
 -- 义项的例句（前 1 万名和 A1–C1 的词都有）
 SELECT en, zh, zh_hant FROM examples WHERE sense_id = :sense_id ORDER BY idx;
 
@@ -76,7 +81,7 @@ SELECT c.collocation, c.zh FROM collocation_headwords h JOIN collocations c ON c
 | `senses[].en_short` | string | 英文简释，≤ 12 词 |
 | `senses[].register` | string[] | `formal informal slang dated literary uk us offensive-mild offensive-strong domain:<领域>` |
 | `senses[].examples` | array | 例句 `[{en, zh, zh_hant}]`。**前 10,000 名的词、以及所有级别 A1–C1 的词（不论名次）全部有**，每个义项 1 句，共 16,044 个词、29,034 个义项。没有例句的只剩排名 1 万以后的 C2 词，为空数组。模型撰写、另一模型审核；`zh_hant` 只做安全转换（见 5.1） |
-| `senses[].synonyms` / `antonyms` | array | **本版本未填**，恒为空数组 |
+| `senses[].synonyms` / `antonyms` | string[] | 按义项的同义词（最多 4 个）和反义词（最多 2 个），**前 1 万名和全部 A1–C1 的词**都做了（28,912 个义项，其中 21,257 个有同义词、7,905 个有反义词；没有合适的就留空，如 giraffe、代词）。每一项都保证是本词典里的词条或短语，可以直接链接。模型撰写、另一模型审核（改 361 条）。CSV 在 `csv/relations.csv`，SQLite 在 `sense_relations` 表 |
 | `inflections` | object | `plural past past_participle present_participle third_person comparative superlative` |
 | `spelling_variants` | string[] | 同一个词的其他拼写（colour ↔ color） |
 | `word_family` | string[] | 同词族的常用派生词，最多 6 个 |
@@ -119,7 +124,7 @@ SELECT c.collocation, c.zh FROM collocation_headwords h JOIN collocations c ON c
 
 - 没有人工校对；级别、冒犯程度都是模型判断。
 - 发现的错误记在 `data/errata.jsonl`，每次发布时自动应用。
-- 例句覆盖前 1 万名和全部 A1–C1 的词，排名 1 万以后的 C2 词没有；短语层还没有例句。同义词、反义词、发音音频都还没有。
+- 例句覆盖前 1 万名和全部 A1–C1 的词，排名 1 万以后的 C2 词没有；短语层还没有例句。同义词、反义词只覆盖前 1 万名和 A1–C1；发音音频还没有。
 - gloss 层经过一轮 Opus 审核（`reviewed=true`，改 423 条、删 14 个拼写错误的词头），但审核偏保守：独立抽检查出的 12 条错误里它只主动改到 7 条（其余 5 条是人工按抽检结果补改的），所以估计仍有约 2–3% 的冷僻术语译名不准，`confidence` 仍为 low。proper 层未经审核。两层都建议在界面上标明「仅供参考」。
 - `zh` 是大陆用语和译名（软件、奥巴马）；台湾用语见 `zh_hant`。
 - 主词典 86,851 条里约 7.2 万条是 C2 级的罕见词，学习类应用通常只需要 `rank` 靠前或 `level` ≤ C1 的部分。

@@ -1,0 +1,400 @@
+w013258.1 | puke | v. | C1 | 呕吐, 吐 | to vomit
+w013258.2 | puke | n. | C1 | 呕吐物 | vomit
+w013261.1 | recital | n. | C1 | 独奏会, 独唱会, 演奏会 | a performance of music or poetry by one or few
+w013261.2 | recital | n. | C1 | 详述, 列举, 背诵 | a spoken list or account of things
+w013262.1 | recite | v. | B2 | 背诵, 朗诵 | to say aloud something learned by heart
+w013262.2 | recite | v. | B2 | 列举, 详述 | to give a list or account of things
+w013264.1 | recollection | n. | C1 | 回忆, 记忆, 往事 | a memory or the ability to remember
+w013265.1 | refine | v. | C1 | 改进, 完善, 改善 | to improve something by making small changes
+w013265.2 | refine | v. | C1 | 提炼, 精炼, 提纯 | to make a substance pure
+w013266.1 | resale | n. | C1 | 转售, 再出售, 转卖 | the selling again of something you bought
+w013267.1 | retake | v. | C1 | 重考, 重新参加 | to take an exam or test again
+w013267.2 | retake | v. | C1 | 夺回, 收复 | to capture a place again
+w013267.3 | retake | n. | C1 | 重拍, 重新拍摄, 补考 | filming a scene again, or an exam taken again
+w013269.1 | rosy | adj. | C1 | 乐观的, 美好的, 光明的 | seeming likely to be good or successful
+w013269.2 | rosy | adj. | C1 | 红润的, 玫瑰色的 | pink and healthy-looking
+w013270.1 | rupture | v. | C1 | 破裂, 爆裂, 使断裂 | to burst or break apart suddenly
+w013270.2 | rupture | n. | C1 | 破裂, 断裂 | a sudden burst or break, as in a pipe or organ
+w013270.3 | rupture | n. | C1 | 决裂, 破裂 | the ending of a friendly relationship
+w013271.1 | scandalous | adj. | C1 | 可耻的, 令人震惊的, 丢人的 | morally shocking or very wrong
+w013271.2 | scandalous | adj. | C1 | 诽谤的, 中伤的 | containing shocking stories about people
+w013272.1 | scot | n. | B2 | 苏格兰人 | a person from Scotland
+w013273.1 | seasoning | n. | B2 | 调味品, 调料, 佐料 | salt, pepper or spices added to food
+w013274.1 | securely | adv. | B2 | 牢固地, 紧紧地, 稳妥地 | firmly fixed so it will not move or open
+w013274.2 | securely | adv. | B2 | 安全地, 可靠地 | in a way that is safe from harm or attack
+w013275.1 | shabby | adj. | C1 | 破旧的, 寒酸的, 衣衫褴褛的 | old and in poor condition from much use
+w013275.2 | shabby | adj. | C1 | 卑鄙的, 不公正的 | unfair or unkind
+w013276.1 | sinus | n. | C1 | 鼻窦, 窦 | a hollow space in the bones behind the nose
+w013278.1 | skid | v. | C1 | 打滑, 滑行, 侧滑 | of a vehicle, to slide out of control
+w013278.2 | skid | n. | C1 | 打滑, 滑行 | a sudden uncontrolled slide by a vehicle
+w013280.1 | specialize | v. | B2 | 专攻, 专门从事, 专营 | to focus on one particular subject or activity
+w013281.1 | splinter | n. | C1 | 碎片, 尖片, 木刺 | a small sharp broken piece of wood or glass
+w013281.2 | splinter | v. | C1 | 裂成碎片, 碎裂 | to break into small sharp pieces
+w013281.3 | splinter | v. | C1 | 分裂, 分化 | of a group, to divide into smaller groups
+w013283.1 | standout | n. | C1 | 杰出者, 佼佼者, 出众的事物 | a person or thing much better than others
+w013283.2 | standout | adj. | C1 | 出色的, 杰出的 | much better than others of its kind
+w013285.1 | swimsuit | n. | B1 | 泳衣, 游泳衣 | a piece of clothing worn for swimming
+w013286.1 | symmetrical | adj. | C1 | 对称的, 匀称的 | having two halves that are exactly alike
+w013290.1 | tinker | v. | C1 | 修补, 小修小改, 摆弄 | to make small changes to try to fix something
+w013290.2 | tinker | n. | C1 | 补锅匠, 流动修补匠 | a travelling mender of pots and pans
+w013292.1 | unexplained | adj. | C1 | 无法解释的, 原因不明的, 未说明的 | not yet explained or understood
+w013293.1 | unintended | adj. | C1 | 无意的, 非故意的, 意料之外的 | not planned or meant to happen
+w013294.1 | unsolved | adj. | B2 | 未解决的, 未破的, 未解开的 | not yet solved
+w013295.1 | unsuccessfully | adv. | B2 | 不成功地, 失败地, 徒劳地 | without achieving what was intended
+w013296.1 | uptake | n. | C1 | 采用, 接受程度, 利用率 | the rate at which something is accepted or used
+w013296.2 | uptake | n. | C1 | 吸收, 摄取 | the taking in of a substance by a body
+w013300.1 | whim | n. | C1 | 一时的念头, 心血来潮, 奇想 | a sudden wish or idea with no good reason
+w013301.1 | whine | v. | C1 | 抱怨, 发牢骚, 哭诉 | to complain in an annoying, childish way
+w013301.2 | whine | v. | C1 | 哀鸣, 呜咽 | to make a long high unhappy sound
+w013301.3 | whine | n. | C1 | 呜呜声, 哀鸣声, 牢骚 | a long high sound or a complaint
+w013302.1 | withhold | v. | C1 | 扣留, 拒绝给予, 隐瞒 | to refuse to give or reveal something
+w013302.2 | withhold | v. | C1 | 代扣, 预扣 | to deduct tax from wages before payment
+w013305.1 | zeal | n. | C1 | 热情, 热忱, 狂热 | great energy and enthusiasm for a cause
+w013306.1 | abort | v. | C1 | 中止, 取消, 放弃 | to stop a process before it is finished
+w013306.2 | abort | v. | C1 | 堕胎, 流产 | to end a pregnancy early
+w013308.1 | adversely | adv. | C1 | 不利地, 有害地, 负面地 | in a harmful or negative way
+w013310.1 | astonished | adj. | B2 | 惊讶的, 吃惊的, 震惊的 | very surprised
+w013312.1 | banjo | n. | C1 | 班卓琴 | a stringed instrument with a round body, played by plucking
+w013313.1 | barbaric | adj. | C1 | 野蛮的, 残暴的, 未开化的 | extremely cruel or uncivilized
+w013314.1 | barbed | adj. | C1 | 有倒钩的, 带刺的 | having sharp points or hooks
+w013314.2 | barbed | adj. | C1 | 尖刻的, 讽刺的, 带刺的 | of a remark, unkind and hurtful
+w013317.1 | blazer | n. | B2 | 西装上衣, 运动夹克, 校服外套 | a jacket often showing a school or club badge
+w013319.1 | blurry | adj. | B2 | 模糊的, 不清楚的 | not clear in outline or detail
+w013320.1 | bravely | adv. | B1 | 勇敢地, 英勇地, 无畏地 | in a way that shows courage
+w013327.1 | comma | n. | B1 | 逗号 | the punctuation mark used to separate parts of a sentence
+w013328.1 | competency | n. | C1 | 能力, 胜任, 技能 | the ability to do something well
+w013329.1 | concerted | adj. | C1 | 齐心协力的, 一致的, 协同的 | done together with others in a planned way
+w013329.2 | concerted | adj. | C1 | 竭尽全力的, 坚决的 | done with great effort and determination
+w013332.1 | crotch | n. | C1 | 胯部, 裤裆 | the part of the body or trousers between the legs
+w013332.2 | crotch | n. | C1 | 树杈, 分叉处 | the point where a tree branch divides
+w013333.1 | customize | v. | B2 | 定制, 定做, 自定义 | to change something to suit a person's needs
+w013335.1 | dashing | adj. | C1 | 潇洒的, 英俊的, 风度翩翩的 | attractive, stylish and confident, usually of a man
+w013336.1 | departmental | adj. | C1 | 部门的, 系的, 部的 | relating to a department of an organization
+w013344.1 | emptiness | n. | C1 | 空虚, 空洞感, 寂寞 | a feeling of sadness and lack of purpose
+w013344.2 | emptiness | n. | C1 | 空旷, 空无一物 | the state of containing nothing
+w013345.1 | encompass | v. | C1 | 包含, 包括, 涵盖 | to include many different things
+w013345.2 | encompass | v. | C1 | 包围, 环绕 | to surround or cover completely
+w013347.1 | evoke | v. | C1 | 唤起, 引起, 使人想起 | to bring a feeling or memory to mind
+w013348.1 | faithfully | adv. | B2 | 忠实地, 忠诚地, 如实地 | in a loyal or accurate way
+w013349.1 | fern | n. | C1 | 蕨类植物, 蕨 | a green plant with feathery leaves and no flowers
+w013353.1 | fret | v. | C1 | 烦恼, 焦虑, 发愁 | to worry about small things
+w013353.2 | fret | n. | C1 | 品, 琴格 | a raised bar on a guitar's neck
+w013356.1 | grader | n. | C1 | 年级学生 | a student in a particular school grade
+w013356.2 | grader | n. | C1 | 评分者, 阅卷人 | a person who marks students' work
+w013356.3 | grader | n. | C1 | 平地机 | a machine for levelling road surfaces
+w013359.1 | gruesome | adj. | C1 | 可怕的, 恐怖的, 令人毛骨悚然的 | very unpleasant and shocking, involving death or injury
+w013361.1 | harshly | adv. | B2 | 严厉地, 苛刻地, 粗暴地 | in a cruel, severe or unkind way
+w013365.1 | imaginable | adj. | C1 | 可想象的, 想得到的, 可能的 | possible to think of or imagine
+w013366.1 | impetus | n. | C1 | 推动力, 动力, 刺激 | something that encourages a process to happen
+w013366.2 | impetus | n. | C1 | 冲力, 动量 | the force that makes an object move
+w013367.1 | impulsive | adj. | C1 | 冲动的, 任性的, 一时冲动的 | acting suddenly without thinking carefully
+w013368.1 | incense | n. | C1 | 香, 熏香, 焚香 | a substance burned to give a sweet smell
+w013368.2 | incense | v. | C1 | 激怒, 使大怒 | to make someone very angry
+w013369.1 | inhuman | adj. | C1 | 不人道的, 残忍的, 野蛮的 | extremely cruel and lacking pity
+w013369.2 | inhuman | adj. | C1 | 非人的, 非人类的 | not human or not like a human
+w013370.1 | injure | v. | B1 | 使受伤, 伤害, 损害 | to hurt a person or animal physically
+w013371.1 | invoice | n. | B2 | 发票, 发货单, 账单 | a document listing goods supplied and money owed
+w013371.2 | invoice | v. | B2 | 开发票, 开账单 | to send someone a bill for goods or services
+w013374.1 | junkie | n. | C1 | 吸毒者, 瘾君子 | a person addicted to drugs
+w013374.2 | junkie | n. | C1 | 迷, 狂热爱好者 | a person very enthusiastic about something
+w013379.1 | latent | adj. | C1 | 潜在的, 潜伏的, 隐藏的 | existing but not yet developed or visible
+w013385.1 | limitless | adj. | B2 | 无限的, 无边无际的, 无穷的 | without any limit or end
+w013386.1 | literate | adj. | B2 | 有读写能力的, 识字的 | able to read and write
+w013386.2 | literate | adj. | B2 | 有文化的, 精通的, 熟悉的 | well educated or skilled in a particular area
+w013388.1 | localization | n. | C1 | 本地化, 本土化 | adapting a product for a particular country or region
+w013388.2 | localization | n. | C1 | 定位, 局部化, 局限 | the process of finding or limiting to one place
+w013390.1 | lowly | adj. | C1 | 地位低下的, 卑微的, 低等的 | low in rank or importance
+w013391.1 | lucid | adj. | C1 | 清楚的, 易懂的, 明晰的 | clearly expressed and easy to understand
+w013391.2 | lucid | adj. | C1 | 神志清醒的, 头脑清楚的 | able to think clearly
+w013393.1 | martini | n. | C1 | 马提尼酒, 马提尼鸡尾酒 | a cocktail made of gin or vodka and vermouth
+w013394.1 | merciful | adj. | B2 | 仁慈的, 宽大的, 慈悲的 | showing kindness and willingness to forgive
+w013394.2 | merciful | adj. | B2 | 幸运的, 令人宽慰的 | bringing relief from suffering
+w013397.1 | midwife | n. | C1 | 助产士, 接生员 | a person trained to help women give birth
+w013399.1 | misinformation | n. | B2 | 错误信息, 误传, 虚假信息 | false or misleading information
+w013401.1 | mobilization | n. | C1 | 动员, 调动, 组织 | organizing people or resources for action
+w013401.2 | mobilization | n. | C1 | 战争动员, 军事动员 | preparing armed forces for war
+w013402.1 | monologue | n. | C1 | 独白, 独角戏 | a long speech by one person in a play or film
+w013402.2 | monologue | n. | C1 | 长篇大论, 滔滔不绝 | a long talk by one person in conversation
+w013403.1 | monoxide | n. | C1 | 一氧化物 | an oxide with one oxygen atom
+w013404.1 | musically | adv. | B2 | 音乐上, 在音乐方面 | in a way related to music
+w013404.2 | musically | adv. | B2 | 悦耳地, 有乐感地 | in a pleasant, tuneful way
+w013406.1 | nervously | adv. | B1 | 紧张地, 不安地, 焦虑地 | in a worried or anxious way
+w013407.1 | nighttime | n. | B1 | 夜间, 夜晚 | the time when it is dark
+w013408.1 | nonlinear | adj. | C1 | 非线性的 | not arranged or developing in a straight line
+w013408.2 | nonlinear | adj. | C1 | 非顺序的, 跳跃式的 | not following a simple step-by-step order
+w013411.1 | outweigh | v. | C1 | 超过, 胜过, 比…重要 | to be greater or more important than something
+w013412.1 | parasitic | adj. | C1 | 寄生的, 寄生虫引起的 | living on or caused by a parasite
+w013412.2 | parasitic | adj. | C1 | 依赖他人的, 寄生的 | living off others without giving anything back
+w013413.1 | parsley | n. | B2 | 欧芹, 香芹, 洋香菜 | a herb with curly or flat green leaves
+w013414.1 | pendulum | n. | C1 | 摆, 钟摆 | a weight that swings back and forth
+w013414.2 | pendulum | n. | C1 | 摇摆, 变动 | a regular change between two opposite views
+w013416.1 | picket | n. | C1 | 纠察队, 罢工纠察员 | workers standing outside a workplace during a strike
+w013416.2 | picket | v. | C1 | 设置纠察, 在…外抗议 | to stand outside a place to protest
+w013416.3 | picket | n. | C1 | 尖桩, 栅栏桩 | a pointed wooden post in a fence
+w013417.1 | poignant | adj. | C1 | 令人心酸的, 辛酸的, 感人的 | causing strong feelings of sadness
+w013418.1 | polio | n. | C1 | 脊髓灰质炎, 小儿麻痹症 | a serious infectious disease that can cause paralysis
+w013419.1 | potency | n. | C1 | 效力, 药效, 力量 | the strength or power of something
+w013419.2 | potency | n. | C1 | 性能力 | a man's ability to have sex
+w013420.1 | precarious | adj. | C1 | 不稳定的, 不牢靠的, 危险的 | likely to fall or change for the worse
+w013422.1 | pretext | n. | C1 | 借口, 托词 | a false reason given to hide the real one
+w013423.1 | privatization | n. | C1 | 私有化, 民营化 | selling state-owned businesses to private owners
+w013424.1 | proclaim | v. | C1 | 宣布, 宣告, 声明 | to announce something publicly and officially
+w013424.2 | proclaim | v. | C1 | 表明, 显示 | to show something clearly
+w013425.1 | quaint | adj. | C1 | 古色古香的, 古雅的, 奇特有趣的 | attractive in an old-fashioned way
+w013426.1 | raccoon | n. | B2 | 浣熊 | a North American animal with a masked face and ringed tail
+w013427.1 | reassurance | n. | C1 | 安慰, 宽慰, 消除疑虑 | words or actions that remove someone's worries
+w013428.1 | redistribution | n. | C1 | 再分配, 重新分配 | sharing something out again in a different way
+w013429.1 | restrain | v. | B2 | 制止, 阻止, 控制 | to stop someone from doing something, often physically
+w013429.2 | restrain | v. | B2 | 克制, 抑制, 限制 | to keep something under control
+w013430.1 | richly | adv. | C1 | 丰富地, 华丽地, 富足地 | in an elaborate, generous or expensive way
+w013430.2 | richly | adv. | C1 | 完全地, 充分地 | fully and appropriately, as in richly deserved
+w013431.1 | saver | n. | B2 | 储蓄者, 存款人 | a person who saves money
+w013431.2 | saver | n. | B2 | 节省…的东西 | something that saves time, money or effort
+w013435.1 | serene | adj. | C1 | 平静的, 安详的, 宁静的 | calm, peaceful and untroubled
+w013436.1 | seventies | n. | B1 | 七十年代 | the years from 1970 to 1979
+w013436.2 | seventies | n. | B1 | 七十多岁 | the ages from 70 to 79
+w013436.3 | seventies | n. | B1 | 七十几度 | temperatures from 70 to 79 degrees
+w013438.1 | shipyard | n. | B2 | 造船厂, 船坞 | a place where ships are built or repaired
+w013441.1 | simmer | v. | B2 | 炖, 煨, 用文火煮 | to cook gently just below boiling point
+w013441.2 | simmer | v. | B2 | 酝酿, 即将爆发 | to be close to breaking out, as anger or conflict
+w013441.3 | simmer | n. | B2 | 文火, 慢炖 | a state of gentle boiling
+w013443.1 | snag | n. | C1 | 障碍, 意外困难, 小问题 | a small unexpected problem
+w013443.2 | snag | v. | C1 | 钩住, 挂住, 刮破 | to catch or tear on something sharp
+w013443.3 | snag | v. | C1 | 抢到, 迅速获得 | to get or catch something quickly
+w013444.1 | sob | v. | B2 | 抽泣, 啜泣, 呜咽 | to cry noisily with short breaths
+w013444.2 | sob | n. | B2 | 抽泣声, 啜泣 | the sound of someone crying
+w013445.1 | sophistication | n. | C1 | 老练, 世故, 精明 | knowledge and experience of the world and culture
+w013445.2 | sophistication | n. | C1 | 复杂, 精密, 先进 | the quality of being complex and advanced
+w013446.1 | straighten | v. | B2 | 使变直, 弄直, 伸直 | to make or become straight
+w013446.2 | straighten | v. | B2 | 整理, 收拾 | to make something neat and tidy
+w013447.1 | streamlined | adj. | C1 | 流线型的 | shaped to move easily through air or water
+w013447.2 | streamlined | adj. | C1 | 精简的, 高效的, 简化的 | made simpler and more efficient
+w013448.1 | syringe | n. | C1 | 注射器, 针筒 | a tube with a needle for injecting liquid
+w013448.2 | syringe | v. | C1 | 注射, 冲洗 | to inject or clean using a syringe
+w013450.1 | thinly | adv. | C1 | 薄薄地, 细细地 | in a thin layer or pieces
+w013450.2 | thinly | adv. | C1 | 稀疏地, 稀少地 | with few people or things spread out
+w013450.3 | thinly | adv. | C1 | 勉强地, 几乎不掩饰地 | barely, as in thinly disguised
+w013451.1 | tote | v. | C1 | 携带, 背, 搬运 | to carry something, especially heavy
+w013451.2 | tote | n. | C1 | 手提袋, 大手提包 | a large open bag for carrying things
+w013453.1 | tweak | v. | C1 | 稍作调整, 微调 | to make small changes to improve something
+w013453.2 | tweak | n. | C1 | 微调, 小改动 | a small change to improve something
+w013453.3 | tweak | v. | C1 | 拧, 扭, 捏 | to pull or twist something sharply
+w013456.1 | unison | n. | C1 | 一致, 齐声, 同时 | saying or doing something together at the same time
+w013456.2 | unison | n. | C1 | 齐唱, 齐奏, 同度 | music performed with all parts at the same pitch
+w013457.1 | unprepared | adj. | B2 | 无准备的, 措手不及的 | not ready to deal with something
+w013458.1 | unrestricted | adj. | C1 | 不受限制的, 无限制的, 自由的 | not limited or controlled
+w013459.1 | unsuitable | adj. | B2 | 不合适的, 不适宜的, 不恰当的 | not right or appropriate for a purpose
+w013460.1 | unthinkable | adj. | C1 | 不可想象的, 难以置信的, 不可思议的 | too shocking or unlikely to be considered
+w013461.1 | uplift | v. | C1 | 鼓舞, 振奋, 使高兴 | to make someone feel happier or more hopeful
+w013461.2 | uplift | n. | C1 | 鼓舞, 振奋 | a feeling of hope or happiness
+w013461.3 | uplift | n. | C1 | 提高, 上升 | an increase or improvement
+w013464.1 | visualize | v. | B2 | 想象, 设想, 构想 | to form a picture of something in your mind
+w013464.2 | visualize | v. | B2 | 使可视化, 形象化 | to show data or information as an image
+w013466.1 | wasteful | adj. | B2 | 浪费的, 挥霍的, 不经济的 | using more than is needed
+w013467.1 | youngster | n. | B2 | 年轻人, 少年, 小孩 | a young person or child
+w013468.1 | advisable | adj. | B2 | 明智的, 可取的, 适当的 | sensible and recommended in a situation
+w013470.1 | apathy | n. | C1 | 冷漠, 无兴趣, 漠不关心 | lack of interest or enthusiasm
+w013471.1 | artisan | n. | C1 | 工匠, 手艺人 | a skilled worker who makes things by hand
+w013471.2 | artisan | adj. | C1 | 手工制作的, 手工艺的 | made in small amounts by skilled methods
+w013472.1 | assortment | n. | C1 | 各种各样, 混合物, 什锦 | a mixture of different types of things
+w013473.1 | bandwagon | n. | C1 | 潮流, 时尚, 热门活动 | a popular trend that many people join
+w013475.1 | birdie | n. | C1 | 小鸟 | a child's word for a little bird
+w013475.2 | birdie | n. | C1 | 小鸟球, 低于标准杆一杆 | a golf score of one under par
+w013475.3 | birdie | n. | C1 | 羽毛球 | a shuttlecock used in badminton
+w013476.1 | bison | n. | C1 | 野牛, 美洲野牛 | a large wild animal of the cow family
+w013477.1 | blacksmith | n. | C1 | 铁匠, 锻工 | a person who makes and repairs iron things
+w013480.1 | burrito | n. | B2 | 墨西哥卷饼 | a tortilla wrapped around meat, beans or cheese
+w013481.1 | camper | n. | B2 | 露营者 | a person who stays in a tent on holiday
+w013481.2 | camper | n. | B2 | 野营车, 房车 | a vehicle equipped for living in
+w013484.1 | casket | n. | C1 | 棺材, 灵柩 | a coffin
+w013484.2 | casket | n. | C1 | 首饰盒, 小匣子 | a small decorative box for jewels
+w013487.1 | cleanliness | n. | B2 | 清洁, 干净, 爱干净 | the state or habit of being clean
+w013489.1 | complicate | v. | B2 | 使复杂化, 使难以处理 | to make something more difficult to understand or deal with
+w013490.1 | concerto | n. | C1 | 协奏曲 | music for a solo instrument and orchestra
+w013491.1 | concurrently | adv. | C1 | 同时地, 并发地 | at the same time
+w013492.1 | contraception | n. | C1 | 避孕, 节育 | methods of preventing pregnancy
+w013493.1 | convex | adj. | C1 | 凸的, 凸面的 | curving outwards like the outside of a ball
+w013494.1 | crouch | v. | B2 | 蹲下, 蹲伏, 弯腰 | to bend knees and lower the body close to the ground
+w013494.2 | crouch | n. | B2 | 蹲姿, 蹲伏 | a crouching position
+w013495.1 | culmination | n. | C1 | 顶点, 高潮, 最终结果 | the final result after a long process
+w013498.1 | decomposition | n. | C1 | 腐烂, 腐败, 分解 | the process of decaying
+w013498.2 | decomposition | n. | C1 | 分解, 拆分 | breaking something into smaller parts
+w013503.1 | dismal | adj. | C1 | 阴沉的, 忧郁的, 凄凉的 | gloomy and sad
+w013503.2 | dismal | adj. | C1 | 差劲的, 糟糕的 | very bad or poor in quality
+w013504.1 | dismay | n. | C1 | 沮丧, 失望, 惊愕 | worry and disappointment after something unpleasant
+w013504.2 | dismay | v. | C1 | 使沮丧, 使失望, 使惊愕 | to make someone worried and disappointed
+w013507.1 | dodger | n. | C1 | 逃避者, 躲避者 | a person who avoids a duty, as in tax dodger
+w013508.1 | domestically | adv. | C1 | 国内地, 在国内 | within a country, not abroad
+w013508.2 | domestically | adv. | C1 | 家庭地, 在家里 | in the home or family
+w013509.1 | electrician | n. | B1 | 电工, 电气技师 | a person who installs and repairs electrical equipment
+w013511.1 | equator | n. | B2 | 赤道 | the imaginary line around the middle of the earth
+w013512.1 | estuary | n. | C1 | 河口, 入海口 | the wide part of a river where it meets the sea
+w013513.1 | eternally | adv. | C1 | 永远地, 永恒地 | forever, without end
+w013513.2 | eternally | adv. | C1 | 不断地, 总是 | all the time, constantly
+w013516.1 | expel | v. | B2 | 开除, 驱逐, 赶走 | to force someone to leave a school, group or country
+w013516.2 | expel | v. | B2 | 排出, 喷出 | to force air or liquid out
+w013517.1 | fad | n. | C1 | 一时的流行, 时尚, 狂热 | something popular for only a short time
+w013520.1 | forcefully | adv. | C1 | 强有力地, 强烈地, 有说服力地 | in a strong and determined way
+w013520.2 | forcefully | adv. | C1 | 用力地, 强行地 | using physical force
+w013521.1 | foreground | n. | C1 | 前景, 最显著的位置 | the part of a scene nearest the viewer
+w013521.2 | foreground | v. | C1 | 突出, 强调 | to make something the most important feature
+w013522.1 | frown | v. | B2 | 皱眉, 蹙额 | to bring your eyebrows together when angry or thinking
+w013522.2 | frown | n. | B2 | 皱眉, 蹙眉 | an expression made by frowning
+w013522.3 | frown | v. | B2 | 不赞成, 不满 | to disapprove of something, with on or upon
+w013523.1 | fruity | adj. | B2 | 水果味的, 果香的 | tasting or smelling of fruit
+w013523.2 | fruity | adj. | B2 | 圆润的, 浑厚的 | describing a deep, rich voice
+w013527.1 | groin | n. | C1 | 腹股沟 | the area where the legs join the body
+w013528.1 | grounding | n. | C1 | 基础训练, 基础知识 | basic training or knowledge in a subject
+w013528.2 | grounding | n. | C1 | 禁足 | a punishment where a child must stay home
+w013528.3 | grounding | n. | C1 | 接地 | connecting electrical equipment to the earth
+w013530.1 | gunpowder | n. | C1 | 火药, 黑火药 | an explosive powder used in guns and fireworks
+w013531.1 | hamper | v. | C1 | 妨碍, 阻碍, 束缚 | to prevent progress or make something difficult
+w013531.2 | hamper | n. | C1 | 有盖篮子, 食品篮 | a large basket with a lid for food
+w013531.3 | hamper | n. | C1 | 洗衣篮 | a basket for dirty clothes
+w013534.1 | heroism | n. | C1 | 英勇, 英雄行为, 英雄气概 | great courage
+w013535.1 | hierarchical | adj. | C1 | 等级制的, 分等级的, 层次的 | arranged in order of rank or importance
+w013537.1 | hover | v. | B2 | 盘旋, 悬停 | to stay in the air in one place
+w013537.2 | hover | v. | B2 | 徘徊, 踌躇, 守在旁边 | to stay near someone, often nervously
+w013537.3 | hover | v. | B2 | 悬停鼠标 | to hold the pointer over an item on screen
+w013539.1 | inventive | adj. | C1 | 有创造力的, 善于发明的 | good at thinking of new ideas
+w013539.2 | inventive | adj. | C1 | 独创的, 新颖的 | original and showing creativity
+w013544.1 | knack | n. | C1 | 诀窍, 本领, 技巧 | a natural skill for doing something
+w013544.2 | knack | n. | C1 | 习惯, 倾向 | a tendency to do something
+w013550.1 | legalize | v. | C1 | 使合法化, 法律认可 | to make something legal
+w013555.1 | longitude | n. | B2 | 经度 | distance east or west of a line through Greenwich
+w013556.1 | macho | adj. | C1 | 大男子气概的, 雄赳赳的 | showing strong, aggressive male behaviour
+w013560.1 | meditate | v. | B2 | 冥想, 打坐 | to focus the mind in silence to relax or pray
+w013560.2 | meditate | v. | B2 | 沉思, 深思, 考虑 | to think deeply about something
+w013566.1 | multiplication | n. | B1 | 乘法 | the process of multiplying numbers
+w013566.2 | multiplication | n. | B1 | 增加, 倍增, 繁殖 | a large increase in number
+w013567.1 | mysteriously | adv. | B2 | 神秘地, 不可思议地, 莫名其妙地 | in a strange way that is hard to explain
+w013571.1 | nonfiction | n. | B2 | 非小说类作品, 纪实文学 | writing about real facts and events
+w013573.1 | orchestral | adj. | C1 | 管弦乐的, 管弦乐队的 | relating to or played by an orchestra
+w013574.1 | ordinarily | adv. | C1 | 通常, 一般地, 惯常地 | usually, in normal situations
+w013576.1 | outage | n. | C1 | 停电, 断电, 中断 | a period when power or a service is not available
+w013577.1 | packer | n. | C1 | 包装工, 打包机 | a person or machine that packs goods
+w013578.1 | paternal | adj. | C1 | 父亲的, 父亲般的 | relating to or like a father
+w013578.2 | paternal | adj. | C1 | 父系的, 父方的 | related through the father
+w013579.1 | pelvis | n. | C1 | 骨盆 | the bones forming the bowl shape at the hips
+w013581.1 | polarization | n. | C1 | 两极分化, 对立 | division into two sharply opposed groups
+w013581.2 | polarization | n. | C1 | 极化, 偏振 | the direction of vibration of light waves
+w013582.1 | potty | n. | B2 | 便盆, 儿童便壶 | a small pot for young children to use as a toilet
+w013582.2 | potty | adj. | B2 | 发疯的, 愚蠢的 | slightly crazy
+w013585.1 | puddle | n. | B1 | 水坑, 小水洼 | a small pool of water on the ground
+w013586.1 | quay | n. | C1 | 码头, 埠头 | a stone platform where boats load and unload
+w013587.1 | railing | n. | B2 | 栏杆, 扶手, 围栏 | a fence made of posts and bars
+w013588.1 | realist | n. | C1 | 现实主义者, 务实的人 | a person who accepts situations as they are
+w013588.2 | realist | adj. | C1 | 现实主义的, 写实的 | showing things as they really are in art
+w013589.1 | receptionist | n. | A2 | 接待员, 前台 | a person who greets visitors and answers phones
+w013590.1 | recruiter | n. | C1 | 招聘人员, 征兵人员 | a person who finds new employees or members
+w013591.1 | reload | v. | B2 | 重新装弹, 重新装载 | to put more bullets or goods in again
+w013591.2 | reload | v. | B2 | 重新加载, 刷新 | to load a web page or program again
+w013594.1 | revoke | v. | C1 | 撤销, 废除, 吊销 | to officially cancel a law, permission or licence
+w013595.1 | richness | n. | C1 | 丰富, 富饶, 丰盛 | the quality of being rich or full of something
+w013595.2 | richness | n. | C1 | 浓郁, 油腻 | being heavy and full of flavour
+w013598.1 | secretive | adj. | C1 | 隐秘的, 遮遮掩掩的, 守口如瓶的 | liking to hide feelings or information
+w013601.1 | silky | adj. | B2 | 丝绸般的, 柔滑的, 光滑的 | soft, smooth and shiny like silk
+w013602.1 | smallpox | n. | C1 | 天花 | a serious infectious disease causing fever and spots
+w013603.1 | sociological | adj. | C1 | 社会学的 | relating to the study of society
+w013606.1 | speechless | adj. | B2 | 说不出话的, 哑口无言的 | unable to speak because of strong emotion
+w013607.1 | stair | n. | A2 | 楼梯 | a set of steps inside a building, usually plural
+w013607.2 | stair | n. | A2 | 台阶, 梯级 | one step in a set of stairs
+w013609.1 | strategist | n. | C1 | 战略家, 策略家, 谋略家 | a person skilled in planning, especially in war or business
+w013612.1 | sunken | adj. | C1 | 沉没的, 水下的 | having sunk to the bottom of the sea
+w013612.2 | sunken | adj. | C1 | 凹陷的, 下陷的 | lower than the surrounding area
+w013616.1 | tortoise | n. | B1 | 陆龟, 乌龟 | a slow land reptile with a hard shell
+w013617.1 | tragically | adv. | B2 | 悲惨地, 不幸地 | in a very sad or unfortunate way
+w013619.1 | typewriter | n. | B2 | 打字机 | a machine with keys that prints letters on paper
+w013620.1 | understandably | adv. | B2 | 可以理解地, 合乎情理地 | in a way that is natural or reasonable
+w013621.1 | undisputed | adj. | C1 | 无可争辩的, 公认的, 毋庸置疑的 | accepted by everyone as true or best
+w013622.1 | unprofessional | adj. | B2 | 不专业的, 违反职业规范的, 外行的 | not behaving to the standards of a job
+w013624.1 | veggie | n. | B1 | 蔬菜 | a vegetable
+w013624.2 | veggie | n. | B1 | 素食者 | a vegetarian
+w013624.3 | veggie | adj. | B1 | 素食的 | vegetarian
+w013625.1 | veiled | adj. | C1 | 含蓄的, 隐晦的, 不直接的 | not expressed openly, as in a veiled threat
+w013625.2 | veiled | adj. | C1 | 戴面纱的, 蒙面的 | wearing a veil
+w013627.1 | vividly | adv. | B2 | 生动地, 清晰地, 鲜明地 | very clearly and in detail
+w013628.1 | wannabe | n. | C1 | 想成为名人的人, 模仿者 | someone trying to be like a famous or successful person
+w013630.1 | wiggle | v. | B2 | 扭动, 摆动, 晃动 | to move with small quick side-to-side movements
+w013630.2 | wiggle | n. | B2 | 扭动, 摆动 | a small quick twisting movement
+w013632.1 | worldview | n. | C1 | 世界观, 人生观 | a person's overall way of understanding life and the world
+w013633.1 | wrongdoing | n. | C1 | 不法行为, 坏事, 违法行为 | illegal or morally wrong behaviour
+w000064.1 | so-and-so | n. | C1 | 某某人, 某某 | a person whose name is not given
+w000064.2 | so-and-so | n. | C1 | 讨厌鬼, 家伙 | an unpleasant or annoying person
+w000068.1 | would-be | adj. | C1 | 想要成为的, 未来的, 自封的 | hoping or trying to become a certain type of person
+w000070.1 | all-out | adj. | C1 | 全力以赴的, 竭尽全力的, 全面的 | using every possible effort
+w000088.1 | one-time | adj. | C1 | 以前的, 一度的 | former
+w000088.2 | one-time | adj. | C1 | 一次性的, 仅一次的 | happening or used only once
+w000096.1 | get-up | n. | C1 | 装束, 打扮, 奇装异服 | an unusual or striking set of clothes
+w000138.1 | well-to-do | adj. | C1 | 富裕的, 有钱的, 小康的 | having plenty of money
+w000139.1 | out-of-the-way | adj. | C1 | 偏僻的, 偏远的 | far from towns and not often visited
+w000201.1 | high-up | n. | C1 | 高层人士, 要人, 大人物 | a person with an important position in an organization
+w000209.1 | old-time | adj. | C1 | 旧时的, 老式的, 往昔的 | typical of or belonging to the past
+w000230.1 | go-between | n. | C1 | 中间人, 调解人, 媒人 | a person who carries messages between two sides
+w000292.1 | head-on | adj. | C1 | 迎面的, 正面的 | with the front parts hitting each other
+w000292.2 | head-on | adv. | C1 | 迎面地, 正面地, 直接地 | directly, facing something without avoiding it
+w000303.1 | run-in | n. | C1 | 争吵, 冲突 | an argument or fight with someone
+w000314.1 | call-up | n. | C1 | 征召, 征兵 | an order to join the armed forces
+w000314.2 | call-up | n. | C1 | 入选, 选拔 | being chosen to play for a team
+w000328.1 | put-down | n. | C1 | 贬低的话, 奚落, 挖苦 | a remark meant to make someone look foolish
+w000340.1 | run-up | n. | C1 | 前期, 准备阶段, 前夕 | the period of time before an important event
+w000340.2 | run-up | n. | C1 | 助跑 | a short run before jumping or throwing
+w000371.1 | house-to-house | adj. | C1 | 挨家挨户的, 逐户的 | visiting each house in an area in turn
+w000420.1 | up-and-coming | adj. | C1 | 有前途的, 崭露头角的, 新兴的 | likely to become successful soon
+w000484.1 | phone-in | n. | C1 | 听众来电节目, 热线直播节目 | a broadcast where listeners call to speak live
+w000556.1 | clear-up | n. | C1 | 清理, 收拾, 打扫 | an act of making a place tidy
+w000556.2 | clear-up | n. | C1 | 破案, 侦破 | the solving of crimes by police
+w000569.1 | hard-line | adj. | C1 | 强硬的, 毫不妥协的 | strict and unwilling to change opinions
+w000617.1 | age-old | adj. | C1 | 古老的, 由来已久的 | having existed for a very long time
+w000664.1 | state-of-the-art | adj. | C1 | 最先进的, 顶尖的, 最新式的 | using the most modern methods or technology
+w000734.1 | trade-in | n. | C1 | 以旧换新, 折价物 | an old item given as part payment for a new one
+w000769.1 | paid-up | adj. | C1 | 已缴费的, 已付清的 | having paid all the money needed for membership
+w000769.2 | paid-up | adj. | C1 | 坚定的, 忠实的 | strongly committed to a group or belief
+w000785.1 | matter-of-fact | adj. | C1 | 就事论事的, 不动感情的, 实事求是的 | calm and practical, without showing emotion
+w000787.1 | non-white | adj. | C1 | 非白人的, 有色人种的 | not belonging to a white racial group
+w000787.2 | non-white | n. | C1 | 非白人 | a person who is not white
+w000821.1 | stand-off | n. | C1 | 僵持, 对峙, 僵局 | a situation in which neither side can win
+w000830.1 | by-election | n. | C1 | 补选, 补缺选举 | a vote held to fill a single vacant seat
+w000846.1 | walk-on | n. | C1 | 跑龙套角色, 小角色 | a small acting part with few or no lines
+w000846.2 | walk-on | adj. | C1 | 跑龙套的, 无台词的 | relating to a very small acting part
+w000854.1 | follow-through | n. | C1 | 后续行动, 贯彻执行 | continuing an action or plan until it is finished
+w000854.2 | follow-through | n. | C1 | 随球动作, 随挥 | the continued movement after hitting a ball
+w000867.1 | trade-off | n. | C1 | 权衡, 取舍, 折中 | a balance between two things you cannot both have
+w000915.1 | one-piece | adj. | C1 | 连体的, 一体的 | made as a single item rather than separate parts
+w000915.2 | one-piece | n. | C1 | 连体泳衣, 连体衣 | a swimsuit or garment made in one part
+w000944.1 | old-style | adj. | C1 | 旧式的, 老式的 | of a type used or popular in the past
+w000946.1 | policy-making | n. | C1 | 政策制定, 决策 | the process of deciding official plans and rules
+w000950.1 | second-rate | adj. | C1 | 二流的, 平庸的, 次等的 | of poor or average quality
+w001019.1 | beat-up | adj. | C1 | 破旧的, 破烂的 | old and in bad condition
+w001028.1 | off-the-wall | adj. | C1 | 古怪的, 不寻常的 | strange or unusual in an amusing way
+w001048.1 | write-off | n. | C1 | 报废物, 报废车辆 | something too badly damaged to repair
+w001048.2 | write-off | n. | C1 | 注销, 勾销 | an official cancellation of a debt
+w001060.1 | link-up | n. | C1 | 连接, 联合, 联系 | a connection between systems or groups
+w001083.1 | sell-out | n. | C1 | 售罄的演出, 满座 | an event for which all tickets are sold
+w001083.2 | sell-out | n. | C1 | 背叛, 出卖 | giving up your principles for money or advantage
+w001121.1 | by-product | n. | C1 | 副产品 | something produced while making something else
+w001121.2 | by-product | n. | C1 | 副作用, 附带结果 | an extra result that was not planned
+w001122.1 | clear-cut | adj. | C1 | 明确的, 清楚的 | definite and easy to understand
+w001148.1 | cut-price | adj. | C1 | 减价的, 廉价的 | sold at a lower price than usual
+w001156.1 | open-door | adj. | C1 | 开放的, 门户开放的 | allowing free entry, trade or access
+w001157.1 | red-hot | adj. | C1 | 炽热的, 灼热的 | so hot that it glows
+w001157.2 | red-hot | adj. | C1 | 极热门的, 非常激动人心的 | very exciting, popular or strong
+w001158.1 | sell-off | n. | C1 | 抛售, 抛售潮 | a fast sale of many shares, lowering prices
+w001158.2 | sell-off | n. | C1 | 出售, 变卖 | the sale of a company or its assets
+w001205.1 | low-key | adj. | C1 | 低调的, 不张扬的, 克制的 | quiet and not intended to attract attention
+w001205.2 | low-key | adv. | C1 | 有点, 暗地里 | somewhat or secretly
+w001211.1 | self-interest | n. | C1 | 私利, 自身利益, 利己 | concern only for your own advantage
+w001212.1 | short-range | adj. | C1 | 短程的, 近距离的 | able to travel or work only over short distances
+w001212.2 | short-range | adj. | C1 | 短期的 | relating to a short period of time
+w001223.1 | co-star | n. | C1 | 联袂主演者, 合演明星 | a famous actor appearing with another in a film
+w001223.2 | co-star | v. | C1 | 联袂主演, 合演 | to appear as a main actor with another
+w001246.1 | sit-in | n. | C1 | 静坐示威, 静坐抗议 | a protest where people sit and refuse to leave
+w001266.1 | smith | n. | C1 | 铁匠, 金属工匠 | a person who makes things from metal
+w001268.1 | spot-on | adj. | C1 | 完全正确的, 精准的 | exactly correct
+w001321.1 | well-established | adj. | C1 | 根深蒂固的, 早已确立的, 稳固的 | having existed and been respected for a long time
+w001342.1 | sit-down | adj. | C1 | 坐着吃的, 堂食的 | served to people sitting at tables
+w001342.2 | sit-down | adj. | C1 | 静坐的 | involving people sitting down in protest
+w001342.3 | sit-down | n. | C1 | 坐下休息 | a short rest sitting down
+w001383.1 | broken-down | adj. | C1 | 破旧的, 失修的 | in very bad condition
+w001383.2 | broken-down | adj. | C1 | 出故障的, 坏了的 | not working because of a mechanical fault
+w001390.1 | lie-in | n. | C1 | 睡懒觉, 赖床 | a time when you stay in bed late

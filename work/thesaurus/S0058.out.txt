@@ -1,0 +1,400 @@
+w014492.1 | firefighter | -
+w014492.2 | stoker | -
+w014493.1 | thermos | -
+w014493.2 | hip flask | -
+w014493.3 | - | -
+w014494.1 | fuzz, down, lint | -
+w014494.2 | filler | -
+w014494.3 | plump, puff up | -
+w014495.1 | lovingly, affectionately, tenderly | coldly
+w014495.2 | naively, foolishly | -
+w014497.1 | freezing, icy, frozen, cold | -
+w014497.2 | unfriendly, cold, chilly, icy | friendly, warm
+w014498.1 | transmission | -
+w014499.1 | bacterium, microbe, bug, virus | -
+w014499.2 | seed, beginning, origin | -
+w014500.1 | donor | receiver, recipient
+w014501.1 | dwarf | -
+w014501.2 | - | -
+w014502.1 | - | -
+w014507.1 | sorrow, grief, heartbreak, anguish | joy
+w014508.1 | - | tenant
+w014509.1 | hurrah, hurray | -
+w014510.1 | uniqueness, distinctiveness, personality | conformity
+w014512.1 | caretaker, custodian, cleaner | -
+w014513.1 | critical, censorious | tolerant
+w014515.1 | lawmaker | -
+w014517.1 | limo | -
+w014517.2 | shuttle | -
+w014521.1 | dung, fertilizer, compost | -
+w014521.2 | fertilize | -
+w014524.1 | - | -
+w014530.1 | beginner, novice, newcomer | veteran, expert
+w014531.1 | - | southbound
+w014537.1 | organizational | -
+w014537.2 | organizational | -
+w014541.1 | acceptable, legal | forbidden, illegal
+w014546.1 | awareness, recognition, understanding | -
+w014546.2 | achievement, fulfilment | -
+w014547.1 | recover, retake, regain | -
+w014547.2 | relive, recall, recreate | -
+w014547.3 | recovery | -
+w014548.1 | repetition, return | -
+w014549.1 | improvement, enhancement | -
+w014549.2 | purification | -
+w014549.3 | elegance, sophistication, polish | vulgarity, coarseness
+w014551.1 | ward off, drive away, keep away | attract
+w014551.2 | repulse, fight off, drive back | -
+w014551.3 | disgust, revolt, sicken | attract
+w014552.1 | renovate, overhaul, update, improve | -
+w014552.2 | overhaul, makeover, renovation | -
+w014553.1 | - | -
+w014555.1 | step | -
+w014555.2 | level, rank, grade | -
+w014556.1 | sailor | -
+w014559.1 | - | -
+w014560.1 | tower, high-rise | -
+w014564.1 | ache, soreness | -
+w014564.2 | rigidity, firmness | flexibility
+w014564.3 | formality, coldness | warmth
+w014566.1 | dive, plunge | -
+w014566.2 | raid, pounce, descend | -
+w014566.3 | dive, raid, plunge | -
+w014569.1 | television, TV | -
+w014574.1 | - | -
+w014575.1 | unchecked, unrestrained, unlimited | controlled
+w014576.1 | unsure, uncertain, hesitant, torn | certain
+w014576.2 | unresolved, open, unsettled | settled
+w014576.3 | - | -
+w014579.1 | reveal, launch, present | -
+w014579.2 | uncover | cover
+w014580.1 | undeserving | worthy, deserving
+w014580.2 | unbecoming, inappropriate | -
+w014581.1 | profession, career, occupation, trade | -
+w014581.2 | calling | -
+w001161.1 | beat, outdo, top | -
+w001161.2 | - | -
+w014586.1 | fan, follower, supporter, lover | critic
+w014587.1 | - | anaerobic
+w014587.2 | - | anaerobic
+w014588.1 | streamlined, sleek | -
+w014589.1 | artistically | -
+w014590.1 | anxiety, nervousness, distress, unrest | calm
+w014590.2 | campaign, protest, unrest | -
+w014590.3 | stirring | -
+w014591.1 | pleasant, enjoyable, nice, pleasing | disagreeable, unpleasant
+w014591.2 | willing, amenable | unwilling
+w014591.3 | acceptable, satisfactory | unacceptable
+w014592.1 | - | -
+w014592.2 | - | -
+w014595.1 | astonish, astound, stun, surprise | -
+w014596.1 | confident, forceful, firm, decisive | timid, submissive
+w014599.1 | - | -
+w014599.2 | - | -
+w014604.1 | out of breath | -
+w014604.2 | eager, excited | -
+w014606.1 | relaxed, untroubled, easy-going, light-hearted | worried, anxious
+w014608.1 | box, pack, packet | -
+w014608.2 | - | -
+w014612.1 | - | -
+w014615.1 | cutting | -
+w014615.2 | cutting, trimming | -
+w014616.1 | lump, clump | -
+w014616.2 | coagulate, thicken | -
+w014617.1 | company, friendship, fellowship | loneliness, solitude
+w014620.1 | consult, discuss, talk, deliberate | -
+w014620.2 | bestow, grant, award, give | -
+w014622.1 | offset, neutralize, counter, cancel out | -
+w014624.1 | packed, full, crowded | empty
+w014627.1 | intensify, increase, grow, worsen | lessen
+w014627.2 | - | -
+w014628.1 | deny, strip, rob | provide, supply
+w014629.1 | invent, design, create, come up with | -
+w014630.1 | decline, slump, recession, downswing | upturn, boom
+w014632.1 | - | -
+w014639.1 | overstate, inflate, magnify, overdo | understate, minimize
+w014644.1 | misty, hazy | clear
+w014644.2 | confused, hazy, muddled, vague | clear
+w014646.1 | - | -
+w014646.2 | effectively, practically, virtually | -
+w014647.1 | angrily | calmly
+w014647.2 | frantically, frenziedly, fiercely | -
+w014651.1 | trick, stunt, ploy, ruse | -
+w014652.1 | - | -
+w014654.1 | sparkling, shining | dull
+w014654.2 | brilliant, dazzling, successful, impressive | -
+w014655.1 | vocabulary | -
+w014656.1 | preparation, foundation, basis | -
+w014657.1 | gym | -
+w014662.1 | cross, meet | -
+w014662.2 | overlap | -
+w014667.1 | kilometre | -
+w014671.1 | - | -
+w014673.1 | - | -
+w014679.1 | long-standing, established, old | new, recent
+w014680.1 | lava | -
+w014683.1 | amazingly, incredibly, remarkably | -
+w014684.1 | moulding, cornice | -
+w014684.2 | moulding, casting | -
+w014685.1 | motorcycle, bike | -
+w014686.1 | non-existent, absent, imaginary | existent
+w014688.1 | - | -
+w014688.2 | crazy, mad, eccentric | sane
+w014689.1 | dutiful, compliant, docile, submissive | disobedient, defiant
+w014694.1 | - | -
+w014695.1 | benefit, bonus, perquisite, extra | -
+w014695.2 | cheer up, brighten | -
+w014699.1 | - | -
+w014699.2 | orchestra | -
+w014701.1 | chubby, round, stout | thin, skinny
+w014701.2 | fluff, puff up | -
+w014701.3 | opt, choose, pick, go for | -
+w014702.1 | - | sequel
+w014704.1 | incitement, taunt | -
+w014706.1 | lottery, draw | -
+w014706.2 | - | -
+w014707.1 | tattered, torn, shabby | -
+w014707.2 | jagged, rough, uneven | smooth, even
+w014707.3 | worn out | -
+w014709.1 | repeat, revise | -
+w014710.1 | return | -
+w014714.1 | strike a chord | -
+w014714.2 | echo, reverberate, ring | -
+w014721.1 | customer, buyer, consumer | -
+w014722.1 | bush | -
+w014724.1 | - | -
+w014726.1 | - | -
+w014726.2 | - | -
+w014729.1 | runner | -
+w014731.1 | standstill, inactivity | growth, development
+w014733.1 | - | -
+w014736.1 | freebies | -
+w014736.2 | swagger, confidence, style | -
+w014736.3 | loot, booty | -
+w014737.1 | jumper, sweater | -
+w014738.1 | digression | -
+w014738.2 | - | -
+w014738.3 | - | -
+w014742.1 | - | -
+w014742.2 | - | -
+w014743.1 | evenly, consistently, equally | unevenly
+w014744.1 | untrained | qualified
+w014744.2 | complete, total, absolute, unconditional | conditional
+w014745.1 | undoubtedly, certainly, definitely, indisputably | -
+w014746.1 | solve, untangle, figure out | -
+w014746.2 | fall apart, collapse, disintegrate | -
+w014746.3 | undo, untangle, unwind | knit, tangle
+w014748.1 | vet | -
+w014751.1 | desert, wilderness | -
+w014751.2 | desert, wilderness | -
+w014752.1 | regulator | -
+w014752.2 | guard dog | -
+w014753.1 | thin, weak, runny | thick
+w014753.2 | moist, tearful, wet | dry
+w014753.3 | pale, weak, wan | bright
+w014754.1 | - | -
+w014754.2 | rat, snake, sneak | -
+w014754.3 | wriggle, dodge, evade | -
+w014757.1 | enthusiasm, gusto, energy, eagerness | apathy
+w014757.2 | peel, rind | -
+w014758.1 | - | -
+w014761.1 | intellectually, educationally | -
+w014762.1 | explorer, daredevil | -
+w014763.1 | airplane, plane, aircraft | -
+w014764.1 | claim, assert, accuse | -
+w014767.1 | - | -
+w014768.1 | - | -
+w014769.1 | indicator, gauge, measure | -
+w014769.2 | - | -
+w014771.1 | - | -
+w014775.1 | bump, mark, contusion | -
+w014775.2 | injure, hurt, mark | -
+w014775.3 | hurt, wound, offend | -
+w014779.1 | rough, uneven, rocky, lumpy | smooth, even
+w014779.2 | rough, rocky, turbulent | smooth
+w014785.1 | perimeter | -
+w014786.1 | skilfully, ingeniously, smartly, cunningly | stupidly
+w014792.1 | treat, speciality | -
+w014792.2 | tact, sensitivity, care | -
+w014792.3 | fragility, fineness, frailty | strength, robustness
+w014793.1 | knock down, pull down, flatten, tear down | build, construct
+w014793.2 | destroy, refute, disprove | -
+w014793.3 | crush, thrash, trounce, beat | -
+w014794.1 | expel, banish, exile | -
+w014795.1 | water down, thin, weaken | concentrate
+w014795.2 | weaken, water down, reduce | strengthen
+w014795.3 | weak | concentrated
+w014797.1 | apocalypse | -
+w014798.1 | - | teetotaller
+w014798.2 | - | -
+w014801.1 | investigative, preliminary | -
+w014802.1 | aspect, side, feature, element | -
+w014802.2 | face, side | -
+w014804.1 | - | -
+w014804.2 | dynamo | -
+w014806.1 | - | -
+w014806.2 | face cloth, washcloth | -
+w014807.1 | dental floss | -
+w014807.2 | - | -
+w014808.1 | predict, anticipate, foretell, expect | -
+w014809.1 | desperately, frenziedly, wildly, hysterically | calmly
+w014812.1 | essence, substance, drift | -
+w014815.1 | hanky | -
+w014819.1 | connection, link | -
+w014819.2 | fling | -
+w014820.1 | completely, utterly, hopeless | -
+w014820.2 | despairingly | hopefully
+w014822.1 | wail, cry, yowl, bay | -
+w014822.2 | wail, roar, scream | -
+w014822.3 | wail, cry, scream | -
+w014823.1 | - | dehydration
+w014823.2 | - | -
+w014825.1 | improvisation | -
+w014827.1 | sterility | fertility
+w014827.2 | barrenness | fertility
+w014828.1 | informative | -
+w014833.1 | humorously, playfully, teasingly | seriously
+w014836.1 | ridiculous, absurd, ludicrous, silly | -
+w014842.1 | temporary, rough | permanent
+w014845.1 | - | -
+w014847.1 | threatening, sinister, ominous | -
+w014849.1 | organize, rally, marshal, muster | -
+w014849.2 | - | demobilize
+w014852.1 | pester, badger, harass, hassle | -
+w014852.2 | worry, trouble, bother | -
+w014852.3 | - | -
+w014856.1 | healthy, wholesome | unhealthy
+w014859.1 | puff, gasp, wheeze | -
+w014859.2 | gasp, puff | -
+w014865.1 | - | -
+w014865.2 | - | -
+w014866.1 | commonly, generally, widely | -
+w014869.1 | - | -
+w014870.1 | - | -
+w014871.1 | disgusting, revolting, repugnant, vile | attractive, appealing
+w014877.1 | hairy, unkempt, scruffy | -
+w014878.1 | babysitter | -
+w014878.2 | model, subject | -
+w014879.1 | slope, tilt, angle, incline | -
+w014879.2 | bias, angle, spin, perspective | -
+w014879.3 | slope, tilt, lean, incline | -
+w014880.1 | wakeful, restless | -
+w014882.1 | - | -
+w014882.2 | escalate, mushroom, grow, multiply | -
+w014883.1 | calm, comfort, pacify, settle | upset, agitate
+w014883.2 | ease, relieve, alleviate | aggravate
+w014885.1 | simplify, rationalize | complicate
+w014885.2 | - | -
+w014886.1 | sulfur | -
+w014889.1 | melt, defrost, unfreeze | freeze
+w014889.2 | relax, soften, warm | -
+w014889.3 | - | freeze
+w014893.1 | - | -
+w014894.1 | - | -
+w014898.1 | unsupervised, unguarded, alone | -
+w014899.1 | unbeaten, invincible, unrivalled | -
+w014902.1 | - | -
+w014902.2 | predator, parasite | -
+w014903.1 | canal, channel | -
+w014904.1 | informer | -
+w014907.1 | - | -
+w014908.1 | - | -
+w014908.2 | absent | present, resident
+w014913.1 | - | -
+w014918.1 | tramp, vagrant | -
+w014918.2 | impoverish, ruin | enrich
+w014919.1 | springy, elastic, resilient | -
+w014919.2 | lively, energetic, bubbly, perky | -
+w014922.1 | cafeteria | -
+w014922.2 | flask | -
+w014924.1 | carb | -
+w014929.1 | driver | -
+w014929.2 | drive | -
+w014931.1 | spread, go around, pass around | -
+w014931.2 | flow, move, circle | -
+w014931.3 | distribute, send round, pass around | -
+w014933.1 | mountaineer | -
+w014933.2 | creeper, vine | -
+w014935.1 | - | -
+w014935.2 | rule, law, principle | -
+w014936.1 | possible, imaginable, thinkable, credible | inconceivable, unthinkable
+w014939.1 | crowded, packed | clear
+w014939.2 | stuffy | clear
+w014942.1 | councillor | -
+w014943.1 | - | -
+w014945.1 | - | -
+w014947.1 | conclusively, finally, decisively | tentatively
+w014948.1 | divert, avert, distract | -
+w014948.2 | divert | -
+w014949.1 | - | regulation
+w014950.1 | bleak, barren, deserted, empty | -
+w014950.2 | miserable, wretched, lonely, forlorn | happy
+w014950.3 | devastate, sadden | -
+w014951.1 | gobble, wolf down, gulp, consume | -
+w014951.2 | consume, absorb | -
+w014952.1 | excavator | -
+w014952.2 | - | -
+w014953.1 | demilitarization | rearmament
+w014954.1 | - | -
+w014955.1 | deceit, deception, fraud | honesty
+w014956.1 | difference, separation, deviation | convergence
+w014957.1 | twice, especially, extra | -
+w014958.1 | donut | -
+w014962.1 | represent, personify, symbolize, express | -
+w014962.2 | include, incorporate, contain | -
+w014963.1 | imagine, envisage, foresee, picture | -
+w014964.1 | equality, parity, correspondence | difference
+w014968.1 | mercy killing | -
+w014972.1 | inflammable, combustible | -
+w014973.1 | note, annotation | -
+w014973.2 | aside, detail | -
+w014973.3 | annotate | -
+w014974.1 | singer, vocalist | -
+w014974.2 | figurehead, front, spokesman | -
+w014975.1 | - | -
+w014975.2 | - | -
+w014978.1 | - | -
+w014979.1 | shred, grind | -
+w014979.2 | grid | -
+w014979.3 | scrape, rasp, grind, annoy | -
+w014980.1 | - | -
+w014983.1 | stylist, barber | -
+w014983.2 | salon | -
+w014984.1 | firmness, solidity, toughness, rigidity | softness
+w014984.2 | harshness, coldness, severity | gentleness, kindness
+w014987.1 | - | flat
+w014988.1 | refine, sharpen, perfect, polish | -
+w014988.2 | sharpen, whet, grind | blunt
+w014988.3 | whetstone | -
+w014989.1 | - | -
+w014989.2 | - | -
+w014989.3 | flashpoint, trouble spot | -
+w014990.1 | modestly, meekly, respectfully | proudly, arrogantly
+w014993.1 | unintelligible, obscure | comprehensible, understandable
+w014994.1 | inactivity, apathy, lethargy, idleness | energy
+w014994.2 | - | -
+w014995.1 | plague, invasion | -
+w014997.1 | unbearable, insufferable, unacceptable | tolerable, bearable
+w015000.1 | idleness, sloth, indolence | diligence
+w015002.1 | wildly, crazily, frantically | calmly
+w015002.2 | wildly, desperately, passionately | -
+w015004.1 | reduce, cut, lessen, decrease | maximize, increase
+w015004.2 | belittle, play down, downplay | exaggerate
+w015005.1 | unhappily, sadly, wretchedly | happily
+w015005.2 | woefully, dismally, pathetically | -
+w015007.1 | - | -
+w015010.1 | geeky | -
+w015011.1 | handy, clever, neat | -
+w015014.1 | bystander, pedestrian | -
+w015015.1 | germ, microbe | -
+w015018.1 | jealous, clingy | -
+w015018.2 | - | -
+w015018.3 | - | -
+w015020.1 | pompous, showy | modest, unpretentious
+w015022.1 | - | -
+w015024.1 | relationship, bond, understanding, affinity | -
+w015026.1 | allowance, quota, share, portion | -
+w015026.2 | limit, restrict, control | -
+w015026.3 | - | -
+w015027.1 | - | disconnect
+w015027.2 | - | -

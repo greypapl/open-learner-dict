@@ -1,0 +1,402 @@
+w011389.1 | worn, shabby | new
+w011389.2 | beaten | -
+w011389.3 | - | -
+w011391.1 | breast | -
+w011391.2 | mistake, blunder, error | -
+w011391.3 | fool, idiot | -
+w011392.1 | bunch, posy | -
+w011392.2 | aroma, scent, fragrance | -
+w011393.1 | steer, ox | -
+w011394.1 | rogue, scoundrel | gentleman
+w011395.1 | candidature | -
+w011396.1 | sculpt, cut, engrave | -
+w011396.2 | slice, cut | -
+w011396.3 | forge, build | -
+w011397.1 | - | -
+w011398.1 | rough, harsh | fine, smooth
+w011398.2 | vulgar, crude, rude | refined, polite
+w011399.1 | - | -
+w011400.1 | common, ordinary, everyday, usual | unusual, rare
+w011400.2 | - | -
+w011401.1 | calculate, work out, reckon | -
+w011403.1 | assuredly, boldly | nervously, hesitantly
+w011404.1 | consider, think about | -
+w011404.2 | ponder, reflect, meditate | -
+w011404.3 | regard, view | -
+w011405.1 | - | -
+w011406.1 | cage, pen, hutch | -
+w011406.2 | confine, shut up, cage | release
+w011407.1 | - | -
+w011407.2 | heart attack | -
+w011409.1 | criminal, swindler, villain, cheat | -
+w011409.2 | bend, curve | -
+w011409.3 | bend, curl | straighten
+w011410.1 | - | -
+w011412.1 | - | -
+w011413.1 | portray, show, describe, represent | -
+w011415.1 | identify, detect | -
+w011416.1 | board | -
+w011416.2 | department | -
+w011417.1 | - | -
+w011419.1 | inactive, latent, asleep | active
+w011420.1 | - | -
+w011420.2 | scattered | -
+w011421.1 | shame, humiliate | -
+w011423.1 | imitate, copy, follow | -
+w011423.2 | simulate, imitate | -
+w011424.1 | inquiry, question, request | answer
+w011424.2 | investigation, inquiry | -
+w011425.1 | avoidance | -
+w011425.2 | dodge | -
+w011426.1 | - | deciduous
+w011426.2 | - | -
+w011426.3 | timeless, classic | -
+w011427.1 | removal, expulsion | -
+w011428.1 | removal, ejection, exclusion | admission
+w011428.2 | discharge, ejection | -
+w011430.1 | dirt, muck, grime | -
+w011430.2 | obscenity, smut | -
+w011432.1 | greenery | -
+w011433.1 | repossession | -
+w011434.1 | - | -
+w011436.1 | spirit, jinn | -
+w011437.1 | gunk, slime, sludge | -
+w011439.1 | devastated, miserable | -
+w011440.1 | assistant, aide | -
+w011441.1 | reluctant, uncertain, unsure | confident, eager
+w011442.1 | ring, band, circle | -
+w011442.2 | basket | -
+w011443.1 | husband | wife
+w011444.1 | obstacle, barrier, difficulty | -
+w011444.2 | - | -
+w011444.3 | jump, leap, vault | -
+w011445.1 | - | hypotension
+w011446.1 | eternity | mortality
+w011447.1 | unlimited, indeterminate, open-ended | definite, fixed
+w011447.2 | vague, unclear, uncertain | definite, clear
+w011448.1 | perceptive, wise, shrewd | -
+w011449.1 | regardless | -
+w011451.1 | - | -
+w011451.2 | twist | -
+w011452.1 | shelf, sill | -
+w011456.1 | - | -
+w011456.2 | - | -
+w011458.1 | awareness | -
+w011460.1 | chairperson, mediator, host | -
+w011460.2 | - | -
+w011461.1 | mom, mum, mother | -
+w011462.1 | horrible, shocking, wicked, evil | -
+w011462.2 | huge, enormous, gigantic | tiny
+w011463.1 | - | -
+w011463.2 | - | -
+w011464.1 | moustache | -
+w011466.1 | - | -
+w011467.1 | beginner, learner, newcomer | expert, veteran
+w011467.2 | - | -
+w011468.1 | - | -
+w011469.1 | - | -
+w011471.1 | equality, equivalence | inequality, disparity
+w011471.2 | - | -
+w011472.1 | convincing, compelling | unconvincing
+w011473.1 | bench | -
+w011475.1 | crowded | -
+w011476.1 | - | prewar
+w011477.1 | - | reactive
+w011479.1 | - | -
+w011480.1 | conspicuously, noticeably | -
+w011481.1 | sensible, careful, wise, cautious | reckless, rash
+w011482.1 | heat | -
+w011482.2 | - | -
+w011482.3 | modifier | -
+w011483.1 | dependent | independent
+w011484.1 | respectable, reliable, trustworthy | disreputable
+w011485.1 | pistol, handgun | -
+w011486.1 | - | -
+w011487.1 | wave, ruffle | -
+w011487.2 | ruffle, wave | -
+w011487.3 | wave, surge | -
+w011488.1 | - | -
+w011489.1 | guard, sentry, lookout | -
+w011490.1 | formal, dignified, grave | -
+w011490.2 | serious, sincere, earnest | frivolous
+w011491.1 | roomy, large, extensive | cramped
+w011494.1 | substantial, significant, meaningful | trivial
+w011494.2 | noun | -
+w011495.1 | replacement, exchange | -
+w011497.1 | - | -
+w011498.1 | trunk, body | -
+w011499.1 | enormously, hugely, immensely | slightly
+w011500.1 | fall, topple, trip | -
+w011500.2 | plunge, plummet, drop, fall | rise, soar
+w011500.3 | fall, spill | -
+w011501.1 | release, unchain | restrain
+w011502.1 | - | -
+w011503.1 | false, wrong, incorrect | true
+w011504.1 | orally | in writing
+w011505.1 | energy, liveliness, vigour | lethargy
+w011506.1 | windscreen | -
+w011508.1 | - | -
+w011509.1 | desertion, rejection | -
+w011510.1 | chasm, pit, gulf | -
+w011510.2 | - | -
+w011511.1 | succession | abdication
+w011511.2 | entry | withdrawal
+w011514.1 | calculation, maths | -
+w011515.1 | - | -
+w011516.1 | reliable, trustworthy, definitive | unreliable
+w011516.2 | commanding, bossy | -
+w011517.1 | infertile, bare, desolate | fertile
+w011517.2 | infertile, sterile | fertile
+w011518.1 | basic, fundamental | -
+w011519.1 | batter | bowler
+w011520.1 | linen | -
+w011520.2 | straw | -
+w011521.1 | binge | -
+w011522.1 | - | proletarian
+w011522.2 | conventional, materialistic | -
+w011523.1 | corruption | -
+w011524.1 | - | blonde
+w011524.2 | - | blonde
+w011525.1 | official | -
+w011526.1 | bell, alarm | -
+w011527.1 | - | -
+w011528.1 | tape | -
+w011529.1 | daycare | -
+w011530.1 | sequential | -
+w011531.1 | - | -
+w011531.2 | division, split, rift | unity
+w011532.1 | coordination, organization, cooperation | -
+w011532.2 | coordination, dexterity | clumsiness
+w011533.1 | group, generation | -
+w011533.2 | companion, supporter, associate | -
+w011534.1 | imagine, devise, think up, envisage | -
+w011534.2 | - | -
+w011535.1 | hug, embrace, snuggle | -
+w011535.2 | hug, embrace | -
+w011536.1 | offender, wrongdoer, criminal | -
+w011536.2 | cause | -
+w011538.1 | frightening, formidable | reassuring
+w011539.1 | departure, divergence, variation | conformity
+w011539.2 | difference, variation | -
+w011540.1 | spread, dissemination, distribution | concentration
+w011540.2 | - | -
+w011541.1 | - | -
+w011542.1 | mistrust, suspicion, doubt | trust
+w011542.2 | mistrust, doubt, suspect | trust
+w011543.1 | board | disembark
+w011543.2 | begin, start, undertake | finish
+w011544.1 | enterprising | -
+w011545.1 | - | -
+w011545.2 | sky | -
+w011546.1 | protocol, decorum | -
+w011547.1 | wasteful, lavish | thrifty, economical
+w011547.2 | excessive, exaggerated, outrageous | modest
+w011548.1 | acquaintance, knowledge | unfamiliarity, ignorance
+w011548.2 | intimacy, closeness, informality | formality
+w011549.1 | mudguard, wing | -
+w011549.2 | buffer, guard | -
+w011551.1 | - | -
+w011552.1 | - | fiancee
+w011555.1 | ravine, canyon, valley | -
+w011555.2 | devour, binge | starve
+w011558.1 | - | -
+w011558.2 | nag, go on | -
+w011559.1 | sincere, genuine, earnest | insincere
+w011560.1 | - | -
+w011561.1 | homemaker | -
+w011562.1 | - | -
+w011563.1 | inclusion, integration | exclusion
+w011563.2 | - | -
+w011564.1 | cover | -
+w011564.2 | ensure, guarantee | -
+w011565.1 | happy, cheerful, delighted | sad, sorrowful
+w011567.1 | - | -
+w011567.2 | start, launch, beginning | end
+w011569.1 | - | -
+w011570.1 | rubber | -
+w011571.1 | - | -
+w011571.2 | remaining, surplus, spare | -
+w011572.1 | - | prohibition
+w011574.1 | - | -
+w011574.2 | huge, enormous, gigantic, massive | tiny
+w011575.1 | wonderful, fantastic, excellent, splendid | terrible, awful
+w011576.1 | contest, match, game | -
+w011577.1 | whatever | -
+w011577.2 | mediocre, ordinary, boring | exciting
+w011579.1 | - | -
+w011580.1 | pattern, design | -
+w011580.2 | theme, idea | -
+w011581.1 | beginner, arrival, novice | veteran
+w011582.1 | - | -
+w011583.1 | threatening, sinister, menacing | promising
+w011584.1 | frankness, honesty, candour | secrecy
+w011584.2 | receptiveness, tolerance | -
+w011586.1 | - | -
+w011588.1 | danger, hazard, risk | safety
+w011590.1 | - | unplayable
+w011592.1 | luxurious, smart, fancy, upmarket | cheap
+w011592.2 | refined | common
+w011593.1 | safeguard, protection | -
+w011594.1 | mainly, chiefly, primarily, mostly | -
+w011595.1 | competence, expertise | amateurism
+w011597.1 | riot, frenzy | -
+w011597.2 | run riot, run amok | -
+w011598.1 | comforting, encouraging | worrying, alarming
+w011599.1 | revival, renewal, renaissance | -
+w011600.1 | charge | -
+w011600.2 | rest, relax | -
+w011601.1 | dependably, consistently | unreliably
+w011602.1 | - | -
+w011603.1 | - | -
+w011603.2 | improvise | -
+w011606.1 | handful | -
+w011606.2 | dispersal | -
+w011607.1 | scratch, rub, scour | -
+w011607.2 | graze, scratch, scuff | -
+w011607.3 | graze, scratch | -
+w011608.1 | - | -
+w011609.1 | clip, shave, trim | -
+w011609.2 | break off, snap | -
+w011609.3 | - | -
+w011610.1 | - | -
+w011611.1 | - | -
+w011612.1 | doubt, scepticism, distrust | belief, faith
+w011613.1 | cunning, crafty, wily, sneaky | honest
+w011613.2 | mischievous | -
+w011614.1 | emoticon | -
+w011614.2 | cheerful | -
+w011615.1 | pry, spy, nose around | -
+w011615.2 | busybody, spy | -
+w011616.1 | surprising, shocking, astonishing, amazing | -
+w011617.1 | conflict, discord, friction, fighting | harmony, peace
+w011617.2 | trouble, difficulty, hardship | -
+w011618.1 | hairdresser | -
+w011618.2 | designer | -
+w011619.1 | - | -
+w011619.2 | gist, drift, tone, meaning | -
+w011620.1 | economy, frugality, saving | extravagance
+w011620.2 | thrift shop, charity shop | -
+w011621.1 | cross, pass through | -
+w011621.2 | crossing | -
+w011622.1 | reversal, recovery, improvement | -
+w011622.2 | - | -
+w011623.1 | womb | -
+w011624.1 | verify, confirm, prove | disprove
+w011624.2 | ratify, approve, authorize | invalidate
+w011624.3 | affirm, acknowledge | dismiss
+w011625.1 | video | -
+w011626.1 | singer | -
+w011629.1 | - | -
+w011633.1 | astern | forward
+w011633.2 | rear, back | forward
+w011634.1 | - | -
+w011635.1 | namelessness | fame
+w011637.1 | allocation, grant | -
+w011637.2 | seizure, theft | -
+w011637.3 | - | -
+w011638.1 | - | -
+w011639.1 | barefooted | -
+w011639.2 | barefooted | -
+w011640.1 | flood, stream, torrent, volley | -
+w011640.2 | bombardment, volley | -
+w011640.3 | dam, weir | -
+w011643.1 | genius, brightness, talent | stupidity
+w011643.2 | brightness, radiance, splendour | dullness
+w011645.1 | stock, soup | -
+w011646.1 | centennial | -
+w011647.1 | - | -
+w011648.1 | - | -
+w011649.1 | categorize, sort, group, class | -
+w011649.2 | - | declassify
+w011650.1 | medically | -
+w011650.2 | coldly, dispassionately | -
+w011651.1 | arrogant, conceited, cocksure | modest, humble
+w011652.1 | - | -
+w011653.1 | - | -
+w011653.2 | - | -
+w011654.1 | corporation, group | -
+w011654.2 | - | -
+w011655.1 | foundation, basis, keystone | -
+w011655.2 | foundation stone | -
+w011656.1 | accuracy, precision | incorrectness, inaccuracy
+w011656.2 | propriety, decorum | -
+w011657.1 | fake, bogus | genuine, authentic
+w011657.2 | forge, fake | -
+w011657.3 | fake, forgery, imitation | original
+w011658.1 | blinding, brilliant, bright | dim
+w011658.2 | stunning, brilliant, spectacular | dull
+w011660.1 | - | -
+w011661.1 | - | -
+w011664.1 | nervous, tense, anxious, jumpy | relaxed, calm
+w011664.2 | daring, bold | conventional
+w011667.1 | - | -
+w011667.2 | more | -
+w011668.1 | tremendously, hugely, immensely | slightly
+w011670.1 | blunder, slip | -
+w011671.1 | - | -
+w011672.1 | avoid, dodge, escape, elude | confront
+w011672.2 | avoid, dodge, sidestep | answer
+w011673.1 | fabulous, great, fantastic | awful
+w011674.1 | weird, strange, creepy, spooky | normal
+w011675.1 | pointless, useless, vain | worthwhile, fruitful
+w011676.1 | icy | -
+w011676.2 | icy, frosty, chilly | warm
+w011677.1 | depressed, glum, pessimistic | cheerful, optimistic
+w011677.2 | dark, dim, dismal | bright
+w011678.1 | elegant, smooth | clumsy, awkward
+w011678.2 | gracious, polite | ungracious
+w011679.1 | realistic, harsh, grim | -
+w011679.2 | determined, brave, tough | -
+w011679.3 | sandy, grainy | smooth
+w011681.1 | grief, sorrow, heartache | joy
+w011682.1 | robbery, theft | -
+w011683.1 | straight | homosexual, gay
+w011683.2 | - | homosexual
+w011684.1 | hamper, obstruct, impede, block | help, aid
+w011685.1 | - | -
+w011686.1 | - | -
+w011686.2 | - | -
+w011687.1 | - | -
+w011688.1 | helpline | -
+w011688.2 | - | -
+w011690.1 | reserve, shyness, restraint | -
+w011690.2 | prevention, suppression | -
+w011691.1 | whole number | fraction
+w011692.1 | multidisciplinary | -
+w011693.1 | occasional, sporadic, irregular | continuous, constant
+w011694.1 | coercion | -
+w011696.1 | version | -
+w011696.2 | repetition | -
+w011700.1 | - | -
+w011700.2 | - | -
+w011701.1 | sadness, sorrow, gloom | happiness, joy
+w011701.2 | sad, gloomy, mournful, wistful | cheerful
+w011702.1 | - | -
+w011703.1 | - | -
+w011704.1 | lost | -
+w011704.2 | misguided, unwise | -
+w011705.1 | foggy, hazy | clear
+w011705.2 | tearful | -
+w011706.1 | - | -
+w011706.2 | wipe, swab, clean | -
+w011706.3 | mane, shock | -
+w011707.1 | diverse, multiracial | -
+w011708.1 | insignificant, trivial, minimal, tiny | significant, considerable
+w011709.1 | nakedness | -
+w011710.1 | compulsory, mandatory | optional, voluntary
+w011710.2 | customary, routine, usual | -
+w011711.1 | marine, maritime | -
+w011712.1 | settlement, base, colony | -
+w011713.1 | spill over, overrun, flood | -
+w011713.2 | teem, swarm, brim | -
+w011713.3 | excess, surplus, overspill | shortage
+w011714.1 | - | reduction
+w011715.1 | view, vista, landscape, scene | -
+w011715.2 | overview, survey | -
+w011716.1 | peek, glance, peer | -
+w011716.2 | emerge | -
+w011716.3 | peek, glance, glimpse | -
+w011717.1 | widespread, prevalent, ubiquitous | rare
+w011718.1 | - | -
+w011718.2 | preserve, marinate | -
+w011718.3 | predicament, jam, fix, mess | -

@@ -1,0 +1,400 @@
+w042288.1 | - | -
+w042294.1 | buggy, stroller, pram | -
+w042349.1 | - | -
+w042349.2 | - | -
+w004526.1 | pound | -
+w004526.2 | excellent, splendid, first-class | -
+w004526.3 | - | -
+w042492.1 | - | homework
+w042606.1 | exclamation | -
+w042606.2 | interruption | -
+w042711.1 | customise, tailor | -
+w042731.1 | eccentricity, oddity | -
+w042735.1 | - | -
+w042736.1 | - | -
+w042739.1 | - | -
+w042764.1 | snowplough | -
+w042775.1 | - | -
+w042805.1 | uncontrolled | -
+w042807.1 | unknown, hidden | -
+w042819.1 | hooray, yippee | -
+w042883.1 | - | -
+w042912.1 | colonist | -
+w042987.1 | - | -
+w043005.1 | - | -
+w043011.1 | greedily, eagerly | -
+w043084.1 | millilitre | -
+w043164.1 | - | -
+w043185.1 | unsteadily, nervously | steadily
+w043192.1 | - | -
+w043243.1 | undo | button
+w043247.1 | unfortunately, sadly | luckily, fortunately
+w043256.1 | - | -
+w043353.1 | - | -
+w043376.1 | chop | -
+w043386.1 | - | -
+w043399.1 | - | -
+w043466.1 | flammable | nonflammable
+w043496.1 | - | login
+w043561.1 | copier | -
+w043590.1 | - | -
+w043600.1 | - | -
+w043652.1 | - | -
+w043675.1 | - | furnished
+w043704.1 | - | -
+w043704.2 | - | -
+w043784.1 | - | -
+w043793.1 | politely, respectfully, graciously | rudely
+w043864.1 | appal, shock, terrify | -
+w044056.1 | - | -
+w044071.1 | tidy, spruce up | -
+w044075.1 | acceleration | slowdown
+w044096.1 | corn, maize | -
+w044120.1 | wasteful, uneconomic | economical
+w044121.1 | unpleasant | likeable
+w044123.1 | unfriendly, antisocial | sociable
+w044123.2 | antisocial | -
+w044242.1 | sympathetically, kindly, tenderly | -
+w044296.1 | - | -
+w044296.2 | - | -
+w044297.1 | - | -
+w044297.2 | - | -
+w044374.1 | - | -
+w044459.1 | mischief, disobedience | -
+w044462.1 | friendly, helpful | unfriendly
+w044496.1 | directory | -
+w044545.1 | - | -
+w044570.1 | heatstroke | -
+w044579.1 | intimidate, threaten, terrify | -
+w044634.1 | pleasantly, nicely | disagreeably
+w044634.2 | willingly | -
+w044694.1 | entrepreneur | -
+w044753.1 | reassuringly, hopefully | discouragingly
+w044760.1 | leaflet, handout | -
+w044831.1 | awkwardly | conveniently
+w044907.1 | pyjamas | -
+w044909.1 | - | refundable
+w044931.1 | punish, fine | reward
+w044931.2 | handicap | -
+w044990.1 | rainy, wet | dry
+w044991.1 | boaster, poser | -
+w045028.1 | period, span, duration | -
+w045029.1 | tip, warning | -
+w045029.2 | - | -
+w045039.1 | - | -
+w045047.1 | underestimate, undervalue | overrate
+w045320.1 | - | -
+w045467.1 | doubtfully, sceptically, suspiciously | -
+w045478.1 | athlete, sportsman, sportswoman | -
+w045481.1 | standardize, regularise | -
+w045497.1 | - | -
+w045506.1 | shock, scar | -
+w045747.1 | idealise, romanticize | -
+w045848.1 | immobilise, cripple | -
+w045848.2 | cripple, halt | -
+w045880.1 | radicalise | -
+w045920.1 | steal | -
+w045943.1 | - | -
+w045955.1 | produce, manufacture | -
+w045955.2 | combine, integrate | -
+w046051.1 | sheet | -
+w046147.1 | fire engine | -
+w046152.1 | - | -
+w046291.1 | - | -
+w046351.1 | rephrase, paraphrase | -
+w046408.1 | synchronize, coordinate | -
+w046428.1 | - | -
+w046444.1 | doubtfully, hesitantly | confidently, certainly
+w046470.1 | bin | -
+w046816.1 | - | -
+w046826.1 | popularize, spread | -
+w046971.1 | familiarise, adapt | -
+w047034.1 | crumb | -
+w047034.2 | - | -
+w047060.1 | develop, enlighten | -
+w047060.2 | refine | -
+w047119.1 | - | -
+w047174.1 | vaccinate, inoculate, immunise | -
+w047302.1 | - | -
+w047626.1 | regardless | -
+w047706.1 | - | -
+w047714.1 | short-sighted | -
+w047718.1 | soft | alcoholic
+w047749.1 | - | -
+w047774.1 | postgraduate | undergraduate
+w047774.2 | postgraduate | undergraduate
+w047798.1 | - | -
+w047798.2 | - | -
+w047809.1 | spring onion | -
+w047903.1 | counter, countertop | -
+w048027.1 | intimidate, discourage, dishearten | encourage
+w048038.1 | purify, refine | -
+w048038.2 | condense, extract, sum up | -
+w048098.1 | - | -
+w048296.1 | upset, depress | cheer, gladden
+w048552.1 | pass, go by | -
+w048595.1 | - | -
+w048736.1 | - | -
+w048992.1 | - | -
+w049004.1 | - | -
+w049004.2 | - | -
+w049222.1 | - | -
+w049488.1 | stew | -
+w049496.1 | rob, burglarize | -
+w049773.1 | quiet, calm, hush, silence | -
+w050330.1 | defiance, disobedience | obedience
+w050332.1 | - | -
+w050362.1 | - | -
+w050370.1 | - | -
+w050370.2 | - | -
+w050395.1 | menacingly | -
+w050419.1 | incorrect | grammatical
+w050500.1 | porter, bellhop | -
+w050619.1 | daydream, dream, imagine | -
+w050869.1 | athlete, sportsperson | sportsman
+w050921.1 | cruelly, harshly | kindly
+w051085.1 | pleasantly | -
+w051093.1 | thrillingly | -
+w051108.1 | pot | -
+w051245.1 | nightgown, nightie | -
+w051360.1 | - | -
+w051535.1 | - | -
+w051659.1 | industrialise | -
+w051689.1 | kiwi | -
+w051743.1 | fascinate, captivate, enchant, spellbind | -
+w051743.2 | hypnotize | -
+w052031.1 | - | -
+w052049.1 | rebuttal | -
+w052070.1 | critically | approvingly
+w052101.1 | tasty, flavoursome | bland, tasteless
+w052161.1 | - | -
+w052189.1 | - | -
+w052390.1 | shuttle, birdie | -
+w052391.1 | distract, divert | -
+w052391.2 | - | -
+w052494.1 | counterclockwise | clockwise
+w052494.2 | counterclockwise | clockwise
+w052497.1 | opposite | synonym
+w052673.1 | granny, grandma, grandmother | -
+w052825.1 | paycheck | -
+w052840.1 | - | -
+w052871.1 | build-up | aftermath
+w052993.1 | colleague | -
+w002315.1 | dull, matte | glossy, shiny
+w053123.1 | - | -
+w053125.1 | clarify, solidify | -
+w053125.2 | - | -
+w053139.1 | confuse, disorientate, bewilder | -
+w053163.1 | - | -
+w053215.1 | unenthusiastic, lukewarm, half-hearted | wholehearted
+w053227.1 | - | -
+w053346.1 | - | smoking
+w053346.2 | - | smoking
+w053355.1 | adjust, adapt, familiarise | -
+w053355.2 | orient | -
+w053358.1 | - | -
+w053389.1 | consequence, repercussion, implication | -
+w053529.1 | deodorant | -
+w053569.1 | - | -
+w053669.1 | enrich, feed | -
+w053669.2 | impregnate | -
+w053676.1 | - | -
+w053738.1 | bankrupt, ruin | enrich
+w053738.2 | weaken, deplete | enrich
+w053773.1 | laundrette, laundromat | -
+w054087.1 | christen | -
+w054087.2 | christen, name, dub | -
+w054258.1 | - | -
+w054400.1 | sty | -
+w054400.2 | dump, mess, tip | -
+w054547.1 | - | -
+w054615.1 | studio | -
+w054639.1 | dully, tediously | excitingly
+w054683.1 | snugness, comfort, warmth | -
+w055003.1 | - | -
+w055059.1 | disinfect, sanitize | contaminate
+w055059.2 | neuter | -
+w055065.1 | synthesizer | -
+w055286.1 | - | -
+w055299.1 | jealously | -
+w055347.1 | sheepishly, shamefacedly | innocently
+w055504.1 | letterbox, mailbox | -
+w056002.1 | - | -
+w056004.1 | - | -
+w056081.1 | retake | -
+w056081.2 | retake | -
+w056098.1 | qualm, misgiving | -
+w056098.2 | hesitate | -
+w056152.1 | speculate, hypothesise | -
+w056557.1 | puzzle, baffle, bewilder, confuse | -
+w056948.1 | - | -
+w057217.1 | - | -
+w057259.1 | basin, sink | -
+w057368.1 | centralize | decentralise
+w057555.1 | - | -
+w057566.1 | life jacket | -
+w057837.1 | - | -
+w058289.1 | - | -
+w058289.2 | tape | -
+w058629.1 | - | -
+w058730.1 | - | -
+w058736.1 | dominate, control | -
+w058763.1 | harmless, safe | threatening
+w058809.1 | skilfully, expertly, competently | incompetently
+w059220.1 | worship, adore, revere | despise
+w060039.1 | - | -
+w060042.1 | raffle, lottery | -
+w060045.1 | - | -
+w060076.1 | - | -
+w060076.2 | - | -
+w060078.1 | - | -
+w060093.1 | postcode, zip code | -
+w060100.1 | lovingly, fondly | -
+w060114.1 | newsreader, presenter | -
+w060125.1 | autocomplete | -
+w060125.2 | - | -
+w060192.1 | colliery, pit | -
+w060250.1 | - | -
+w060275.1 | - | -
+w060281.1 | spare room | -
+w060451.1 | - | -
+w060557.1 | - | -
+w007074.1 | fated | -
+w007074.2 | bound | -
+w060873.1 | fly | -
+w061016.1 | - | inbox
+w061016.2 | - | inbox
+w061039.1 | symbol, icon | -
+w061429.1 | grandchild | -
+w061437.1 | unenthusiastically | wholeheartedly
+w061441.1 | arrogantly, proudly | humbly
+w061543.1 | cinemagoer | -
+w061554.1 | - | smoker
+w061559.1 | writing paper | -
+w061585.1 | thoughtfully | -
+w061881.1 | - | -
+w061973.1 | handkerchief, tissue | -
+w062099.1 | bulletin board | -
+w062427.1 | - | -
+w062452.1 | - | -
+w062563.1 | hose | -
+w062565.1 | - | discharge
+w062585.1 | crossly, impatiently, testily | patiently
+w062810.1 | conceivable, imaginable, possible | unthinkable
+w062847.1 | - | -
+w063020.1 | digitize | -
+w063165.1 | launderette, laundromat | -
+w063594.1 | commercialize | -
+w063967.1 | satchel | -
+w064150.1 | confuse, baffle, puzzle, perplex | -
+w064207.1 | - | -
+w064442.1 | - | -
+w064442.2 | - | -
+w064496.1 | mat | -
+w064517.1 | - | -
+w064517.2 | - | -
+w064755.1 | babysitter, nanny | -
+w065174.1 | - | -
+w065183.1 | sunscreen, sunblock | -
+w065404.1 | intend, fate | -
+w065801.1 | - | -
+w065820.1 | - | overpay
+w065856.1 | - | -
+w066039.1 | dishrag, tea towel | -
+w066048.1 | binman | -
+w066224.1 | mismanage, bungle | -
+w066224.2 | manhandle | -
+w066411.1 | vandalize, deface, wreck | -
+w066441.1 | - | -
+w066543.1 | - | -
+w066633.1 | adapt, dramatize | -
+w066633.2 | exaggerate, dramatize | downplay
+w066634.1 | - | -
+w066783.1 | - | -
+w066853.1 | finite, exhaustible | renewable
+w066870.1 | - | -
+w066945.1 | shop assistant, saleswoman | -
+w067089.1 | counterterrorist | -
+w067107.1 | - | -
+w067156.1 | - | -
+w067165.1 | caution, carefulness, prudence | recklessness, rashness
+w067205.1 | - | -
+w067289.1 | grandfather, grandpa, granddad | -
+w067296.1 | headband | -
+w067332.1 | creatively, inventively, originally | -
+w067407.1 | - | -
+w067407.2 | - | -
+w067428.1 | - | -
+w067479.1 | - | -
+w067540.1 | pupil, schoolkid | -
+w067541.1 | - | -
+w067556.1 | tour | -
+w067801.1 | digitization | -
+w067881.1 | helmet | -
+w067961.1 | ballad | -
+w068005.1 | misjudge | -
+w068077.1 | predestine, prearrange | -
+w068122.1 | textbook | -
+w068204.1 | undo, open | fasten
+w068211.1 | blankly, absently | -
+w068258.1 | aftermath, consequence, side effect | -
+w068339.1 | - | -
+w068699.1 | terrify, horrify, frighten | -
+w068730.1 | slice | -
+w069395.1 | disinfectant, sanitizer | -
+w069502.1 | - | -
+w069798.1 | tourist, vacationer | -
+w069872.1 | - | -
+w069874.1 | sideline, exclude | include
+w069949.1 | - | -
+w069992.1 | radicalize | -
+w070246.1 | ATM, cash machine | -
+w070375.1 | gram | -
+w070511.1 | - | -
+w070794.1 | shock, horrify, disgust | -
+w070999.1 | globalise | -
+w071043.1 | hypnotize, mesmerize | -
+w072059.1 | starter | dessert
+w072083.1 | massage | -
+w072145.1 | care, caution | carelessness
+w072319.1 | hypothesize, speculate, theorise | -
+w072330.1 | proctor | -
+w072373.1 | locker room | -
+w072411.1 | mishandle, bungle | -
+w072959.1 | large-scale, extensive, massive | small-scale
+w072993.1 | milliliter | -
+w073473.1 | - | -
+w073978.1 | open-minded, tolerant, liberal | -
+w074272.1 | doubt, qualm, apprehension, reservation | -
+w074718.1 | - | -
+w074727.1 | first name, given name | surname
+w075381.1 | - | -
+w075948.1 | - | -
+w075972.1 | - | -
+w076038.1 | tasteless, bland | flavourful, tasty
+w076221.1 | fender | -
+w076367.1 | tourist | -
+w077363.1 | gloom, darkness, sadness | cheerfulness
+w077369.1 | - | -
+w077400.1 | idealize, romanticize | -
+w077427.1 | keystroke | -
+w077499.1 | monologue, soliloquy | dialogue
+w077966.1 | - | -
+w078280.1 | doubtfully, skeptically, suspiciously | -
+w078321.1 | - | -
+w078804.1 | - | -
+w078809.1 | - | innumerate
+w080093.1 | right | leftwards
+w080386.1 | computerise | -
+w080536.1 | home | -
+w080596.1 | scale | -
+w084167.1 | angrily, irritably | -
+w084199.1 | - | -
+w084330.1 | industrialize | -
+w084611.1 | swear word, curse, obscenity | -
+w085361.1 | - | -
+w085411.1 | candlestick | -
+w085444.1 | - | -
+w085562.1 | - | -
+w085843.1 | snowplow | -
+w086187.1 | - | -

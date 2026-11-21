@@ -1,0 +1,401 @@
+w002898.1 | - | -
+w002898.2 | - | -
+w002898.3 | - | -
+w002899.1 | - | -
+w002899.2 | - | -
+w002899.3 | - | -
+w002900.1 | - | -
+w002900.2 | - | -
+w002901.1 | - | sinner
+w002901.2 | angel | -
+w002905.1 | feature, side, part, element | -
+w002905.2 | appearance, look | -
+w002905.3 | direction | -
+w002906.1 | increase, improve, raise, strengthen | reduce, weaken
+w002906.2 | increase, rise, improvement | decrease, fall
+w002906.3 | lift, encouragement | blow
+w002907.1 | office, department, agency | -
+w002907.2 | chest of drawers, dresser | -
+w002907.3 | desk | -
+w002908.1 | - | -
+w002909.1 | ease, luxury | discomfort
+w002909.2 | consolation, relief | -
+w002909.3 | console, reassure, soothe | upset, distress
+w002909.4 | luxury, convenience | -
+w002911.1 | - | -
+w002911.2 | relative, relation | -
+w002912.1 | split, break, gap | -
+w002912.2 | break, split, fracture | -
+w002912.3 | solve, work out, figure out | -
+w002912.4 | bang, snap, crash | -
+w002913.1 | floor | -
+w002913.2 | pack | -
+w002913.3 | terrace, platform | -
+w002913.4 | decorate, adorn, dress up | -
+w002914.1 | - | -
+w002915.1 | sudden, striking, sharp, significant | slight, gradual
+w002915.2 | exciting, impressive, spectacular, thrilling | dull
+w002915.3 | theatrical | -
+w002916.1 | dirt, powder | -
+w002916.2 | wipe, clean | -
+w002916.3 | sprinkle, powder | -
+w002917.1 | - | -
+w002917.2 | development, progress, growth | -
+w002918.1 | sickness, disease, disorder | health
+w002919.1 | idea, stimulus | -
+w002919.2 | encouragement, motivation, example | -
+w002920.1 | organization, establishment, body | -
+w002920.2 | custom, tradition, convention | -
+w002920.3 | home | -
+w002921.1 | blade | -
+w002921.2 | stab | -
+w002922.1 | recently, of late | -
+w002923.1 | monument | -
+w002923.2 | commemorative | -
+w002924.1 | - | majority
+w002924.2 | - | majority
+w002924.3 | - | majority
+w002925.1 | mother, mom, mummy | dad
+w002925.2 | silent, quiet | -
+w002926.1 | concern | -
+w002926.2 | precedence, preference | -
+w002927.1 | advancement, upgrade | demotion
+w002927.2 | advertising, marketing, publicity | -
+w002927.3 | encouragement, support, development | -
+w002928.1 | railway, train | -
+w002928.2 | bar, railing, handrail | -
+w002928.3 | track | -
+w002928.4 | complain, protest | -
+w002929.1 | distant, isolated, faraway | nearby, close
+w002929.2 | - | -
+w002929.3 | slight, slim, small | -
+w002929.4 | remote control | -
+w002930.1 | fix, mend, restore | break, damage
+w002930.2 | maintenance, fix | damage
+w002930.3 | mend, heal, restore | damage
+w002932.1 | - | -
+w002932.2 | source, origin, cause, basis | -
+w002932.3 | origin, background, heritage | -
+w002932.4 | establish, fix | -
+w002932.5 | search, dig, rummage | -
+w002933.1 | rob, take, pinch | -
+w002933.2 | creep, slip, sneak | -
+w002933.3 | bargain | -
+w002934.1 | phone | -
+w002934.2 | phone, call, ring | -
+w002935.1 | though, although | -
+w002935.2 | though, however | -
+w002937.1 | while, whilst | -
+w002940.1 | - | -
+w002940.2 | - | -
+w002942.1 | - | -
+w002943.1 | - | -
+w002944.1 | deserted, empty, unused | -
+w002944.2 | wild, uninhibited | restrained
+w002946.1 | partnership, union, association, coalition | -
+w002946.2 | union, league, coalition, federation | -
+w002947.1 | irritating, tiresome | pleasant
+w002948.1 | attempt, effort, try | -
+w002948.2 | offer, tender | -
+w002948.3 | offer, tender | -
+w002948.4 | wish, say | -
+w002949.1 | brother, mate, buddy | sis
+w002950.1 | friend, mate, pal | enemy
+w002950.2 | mate, pal | -
+w002951.1 | - | -
+w002951.2 | - | -
+w002952.1 | decision, judgment, finding | -
+w002952.2 | end, ending, close, finish | beginning, start
+w002953.1 | prove, verify, support | deny
+w002953.2 | finalize, fix | cancel
+w002953.3 | strengthen, reinforce | weaken
+w002954.1 | well done | -
+w002954.2 | - | -
+w002955.1 | nonsense, rubbish, junk | -
+w002955.2 | bad, terrible, rubbish | good
+w002955.3 | damn | -
+w002956.1 | - | -
+w002956.2 | - | -
+w002956.3 | clear, transparent | cloudy
+w002957.1 | head | -
+w002957.2 | - | -
+w002957.3 | - | -
+w002958.1 | acceptable, reasonable, satisfactory | poor
+w002958.2 | honest, respectable, fair | dishonest
+w002958.3 | dressed | naked
+w002959.1 | decrease, fall, drop, deteriorate | increase, rise
+w002959.2 | decrease, fall, drop | increase, rise
+w002959.3 | refuse, reject, turn down | accept
+w002960.1 | wait, hold-up | -
+w002960.2 | postpone, put off, hold up | advance
+w002961.1 | - | -
+w002961.2 | abandon, leave, walk out on | -
+w002961.3 | - | -
+w002962.1 | - | -
+w002962.2 | central | suburban
+w002962.3 | city centre, centre | suburb
+w002963.1 | - | -
+w002963.2 | top, select | ordinary
+w002964.1 | forward, out, onward | back
+w002964.2 | onward | -
+w002965.1 | employ, take on, recruit, engage | fire, dismiss
+w002965.2 | rent, lease | -
+w002965.3 | rental | -
+w002965.4 | recruit | -
+w002966.1 | jump, skip, bounce | -
+w002966.2 | jump | -
+w002966.3 | jump, skip | -
+w002966.4 | - | -
+w002967.1 | crazy, mad, ridiculous | sensible
+w002967.2 | mad, crazy | sane
+w002968.1 | touchdown, arrival | takeoff
+w002968.2 | - | -
+w002969.1 | coat, coating, sheet | -
+w002969.2 | level | -
+w002969.3 | - | -
+w002970.1 | wed | divorce
+w002970.2 | wed | -
+w002970.3 | combine, unite, join | separate
+w002971.1 | no, nope | yeah, yep
+w002973.1 | - | everywhere
+w002973.2 | - | -
+w002974.1 | - | -
+w002974.2 | care for, look after, tend | -
+w002974.3 | harbour, hold | -
+w002975.1 | get, gain, acquire, secure | lose
+w002976.1 | natural | artificial
+w002976.2 | living, biological | inorganic
+w002976.3 | natural, gradual | artificial
+w002977.1 | possession, property | -
+w002978.1 | verse | prose
+w002978.2 | beauty | -
+w002979.1 | container, pan, jar | -
+w002979.2 | - | -
+w002979.3 | marijuana, cannabis | -
+w002979.4 | plant | -
+w002980.1 | - | -
+w002980.2 | hope, wish | -
+w002981.1 | remember, recollect | forget
+w002981.2 | withdraw | -
+w002981.3 | withdrawal | -
+w002981.4 | memory | -
+w002982.1 | - | -
+w002983.1 | benefit, good, interest | -
+w002983.2 | - | -
+w002984.1 | - | -
+w002984.2 | page, piece | -
+w002984.3 | layer, plate, panel | -
+w002985.1 | - | -
+w002985.2 | - | -
+w002985.3 | - | -
+w002986.1 | even, flat, level, sleek | rough
+w002986.2 | easy, steady | rough, bumpy
+w002986.3 | slick | -
+w002986.4 | flatten, level, even | roughen
+w002987.1 | mental, inner | physical, material
+w002987.2 | religious, holy, sacred | secular
+w002987.3 | - | -
+w002988.1 | cord, thread, rope | -
+w002988.2 | series, chain, sequence, run | -
+w002988.3 | - | -
+w002988.4 | hang, thread | -
+w002989.1 | unexpected, abrupt, quick | gradual
+w002990.1 | holiday, break, leave | -
+w002990.2 | holiday | -
+w002991.1 | - | -
+w002991.2 | Arabian | -
+w002996.1 | overseas | home
+w002996.2 | around, about | -
+w002997.1 | connect, link, relate | separate
+w002997.2 | mix, socialize | -
+w002997.3 | colleague, partner | -
+w002997.4 | assistant, deputy | full
+w002998.1 | seat | -
+w002998.2 | - | -
+w002998.3 | workbench, table | -
+w002998.4 | drop | -
+w002999.1 | annoy, disturb, trouble, irritate | -
+w002999.2 | trouble | -
+w002999.3 | worry, upset, trouble | -
+w002999.4 | trouble, hassle, difficulty | -
+w003000.1 | transmit, air, show | -
+w003000.2 | programme, show, transmission | -
+w003000.3 | spread, announce, publicize | -
+w003001.1 | goodbye, see you | hello, hi
+w003001.2 | - | -
+w003002.1 | national | foreigner
+w003002.2 | resident, inhabitant | -
+w003003.1 | contend, fight | cooperate
+w003003.2 | participate, take part | -
+w003004.1 | - | -
+w003004.2 | - | -
+w003005.1 | catastrophe, tragedy, calamity | -
+w003005.2 | failure, fiasco, mess | success, triumph
+w003006.1 | find, uncover, detect | -
+w003006.2 | learn, find out, realize | -
+w003007.1 | entry, door, gate | exit
+w003007.2 | entry, arrival | exit
+w003007.3 | admission, entry, access | -
+w003007.4 | enchant, delight, fascinate | bore
+w003008.1 | evenly, similarly | unequally
+w003008.2 | evenly | unequally
+w003008.3 | likewise, similarly | -
+w003009.1 | health, condition, shape | -
+w003009.2 | suitability | -
+w003011.1 | - | enmity
+w003013.1 | fool, moron, stupid | genius
+w003014.1 | extreme, strong, fierce, powerful | mild
+w003014.2 | passionate, serious, earnest | -
+w003016.1 | life, lifespan | -
+w003017.1 | fluid | solid
+w003017.2 | fluid | solid
+w003017.3 | - | -
+w003018.1 | - | -
+w003018.2 | composition, structure | -
+w003018.3 | character, nature, personality | -
+w003019.1 | award | -
+w003020.1 | loan | -
+w003020.2 | - | -
+w003021.1 | story, account, tale | -
+w003021.2 | story, account, version | -
+w003021.3 | - | -
+w003022.1 | thin, tight | wide, broad
+w003022.2 | close, slim, slight | comfortable
+w003022.3 | limited | broad
+w003022.4 | reduce, shrink, tighten | widen, broaden
+w003024.1 | sometimes, now and then, from time to time | often, frequently
+w003025.1 | frying pan | -
+w003025.2 | criticize, slam | praise
+w003025.3 | - | -
+w003026.1 | - | -
+w003027.1 | post, message | -
+w003027.2 | appointment, assignment | -
+w003027.3 | advertisement, notice | -
+w003028.1 | possibly | -
+w003029.1 | decrease, cut, fall | increase
+w003029.2 | discount, cut | increase
+w003030.1 | show, indicate, express | -
+w003030.2 | - | absorb
+w003030.3 | think, consider, ponder | -
+w003031.1 | decline, reject, turn down | accept, agree
+w003031.2 | rubbish, waste, garbage, trash | -
+w003032.1 | supply, asset, means | -
+w003032.2 | aid, material | -
+w003032.3 | fund, finance | -
+w003036.1 | case, husk | -
+w003036.2 | bomb | -
+w003036.3 | frame, framework, skeleton | -
+w003036.4 | bomb, bombard | -
+w003036.5 | peel | -
+w003037.1 | foolish, stupid, daft | sensible, wise
+w003037.2 | ridiculous, childish, absurd | serious
+w003038.1 | following, later, next | previous, prior
+w003039.1 | - | -
+w003039.2 | conversion, transformation | -
+w003040.1 | - | invisible
+w003040.2 | obvious, clear, noticeable | hidden
+w003041.1 | yes, yeah | nope, nah
+w003046.1 | - | -
+w003046.2 | change, revision, alteration | -
+w003047.1 | - | -
+w003047.2 | viewpoint, perspective, approach | -
+w003047.3 | tilt, slant | -
+w003047.4 | fish | -
+w003048.1 | reach, get to, come | leave, depart
+w003048.2 | come | -
+w003048.3 | reach, come to | -
+w003049.1 | - | -
+w003049.2 | - | -
+w003049.3 | fit | -
+w003050.1 | - | -
+w003050.2 | - | -
+w003052.1 | usually, generally, widely | rarely
+w003053.1 | join, link, attach | disconnect, separate
+w003053.2 | link, associate, relate | -
+w003053.3 | relate, bond | -
+w003054.1 | protective | offensive
+w003054.2 | - | -
+w003054.3 | defence | offensive
+w003055.1 | effectiveness, productivity | inefficiency
+w003056.1 | company, business, firm | -
+w003056.2 | project, venture, undertaking | -
+w003056.3 | initiative, drive, ambition | -
+w003057.1 | test, trial | -
+w003057.2 | trial, attempt, try | -
+w003057.3 | test, try, trial | -
+w003058.1 | February | -
+w003059.1 | meeting, assembly | -
+w003059.2 | board | -
+w003059.3 | square | -
+w003060.1 | - | -
+w003060.2 | lawn, field | -
+w003060.3 | inform, tell on | -
+w003061.1 | therefore, thus, so, consequently | -
+w003061.2 | - | -
+w003062.1 | more and more | -
+w003063.1 | extremely, very, really, amazingly | -
+w003063.2 | unbelievably, amazingly | -
+w003066.1 | reporter, correspondent | -
+w003067.1 | - | -
+w003067.2 | factory, plant | -
+w003067.3 | grinder | -
+w003067.4 | grind, crush | -
+w003069.1 | time, moment, instance | -
+w003069.2 | event, celebration, function | -
+w003069.3 | opportunity, chance, reason | -
+w003069.4 | cause, bring about | -
+w003070.1 | speed, rate, tempo | -
+w003070.2 | step, stride | -
+w003070.3 | walk | -
+w003070.4 | - | -
+w003071.1 | traveller, rider | driver
+w003072.1 | - | -
+w003072.2 | enclosure, fold | -
+w003072.3 | write, compose | -
+w003072.4 | shut in, confine, enclose | release
+w003073.1 | - | -
+w003074.1 | ownership | -
+w003074.2 | property | -
+w003074.3 | - | -
+w003075.1 | quick, fast, swift, speedy | slow
+w003075.2 | - | -
+w003076.1 | rule, law, requirement | -
+w003076.2 | control, supervision | -
+w003076.3 | standard, official | -
+w003077.1 | inhabitant, local, occupant | visitor
+w003077.2 | - | -
+w003077.3 | living | -
+w003080.1 | - | -
+w003080.2 | - | -
+w003081.1 | turn, rotate, whirl, twist | -
+w003081.2 | weave | -
+w003081.3 | turn, rotation | -
+w003081.4 | ride, drive | -
+w003081.5 | - | -
+w003082.1 | appropriate, right, fit, proper | unsuitable, inappropriate
+w003083.1 | - | -
+w003084.1 | legal, official | invalid
+w003084.2 | sound, reasonable, logical | invalid
+w003085.1 | essential, crucial, necessary | unimportant
+w003085.2 | essential | -
+w003085.3 | lively, energetic, dynamic | -
+w003086.1 | while, as | -
+w003086.2 | while, whereas, although | -
+w003090.1 | farming | -
+w003093.1 | gather, assemble | scatter
+w003093.2 | - | -
+w003093.3 | pick up, fetch, get | drop off
+w003094.1 | trade, business | -
+w003095.1 | police officer, policeman | -
+w003095.2 | get, receive | -
+w003096.1 | stream, brook | -
+w003096.2 | inlet | -
+w003097.1 | money | -
+w003097.2 | acceptance, popularity | -
+w003098.1 | show, display, exhibit | -
+w003098.2 | display, show, demonstration | -
+w003099.1 | deception, scam | -
+w003099.2 | fake, cheat | -
+w003100.1 | burial | -
+w003101.1 | real, authentic, true | fake, false
+w003101.2 | sincere, honest | false, insincere

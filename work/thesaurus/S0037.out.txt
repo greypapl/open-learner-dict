@@ -1,0 +1,401 @@
+w007643.1 | predicament, problem | -
+w007644.1 | shame, dishonour, humiliation | honour
+w007644.2 | shame, humiliate | honour
+w007646.1 | race, origin | -
+w007647.1 | final, ultimate | initial
+w007648.1 | shine, stand out | -
+w007648.2 | surpass, outdo, beat | -
+w007649.1 | first | lastly
+w007650.1 | taste, savour | -
+w007650.2 | character, feel, quality | -
+w007650.3 | season, spice | -
+w007651.1 | bend, tighten | relax
+w007651.2 | show off | -
+w007651.3 | cable, wire, lead | -
+w007653.1 | - | -
+w007653.2 | kind, class, type | -
+w007655.1 | - | -
+w007656.1 | greediness, avarice | generosity
+w007657.1 | welcome, hail, say hello | -
+w007657.2 | receive, meet | -
+w007658.1 | coil, skein | -
+w007659.1 | hosepipe, pipe, tube | -
+w007659.2 | wash, spray | -
+w007659.3 | tights | -
+w007660.1 | impressive, grand, magnificent | -
+w007661.1 | swelling | -
+w007663.1 | magma | -
+w007665.1 | long-standing, old | -
+w007666.1 | - | -
+w007666.2 | attraction, draw | -
+w007668.1 | image, symbol | -
+w007669.1 | - | -
+w007670.1 | - | -
+w007671.1 | inform, tell, advise | -
+w007672.1 | void, invalid | valid
+w007672.2 | zero, empty | -
+w007673.1 | - | -
+w007674.1 | eastern, Asian | western
+w007675.1 | agreement, treaty, deal | -
+w007676.1 | supreme, chief, foremost | -
+w007677.1 | suspicious, distrustful | trusting
+w007677.2 | - | -
+w007678.1 | nationalist | traitor
+w007679.1 | sponsor, supporter, backer | -
+w007679.2 | customer, client, guest | -
+w007681.1 | - | -
+w007682.1 | representative, agent, deputy | -
+w007682.2 | substitute, indicator | -
+w007682.3 | - | -
+w007683.1 | numerical | qualitative
+w007684.1 | recover, get back, retrieve | lose
+w007685.1 | extend, renewal | -
+w007685.2 | resume, restart | -
+w007685.3 | replace, update | -
+w007686.1 | look like, take after | differ
+w007687.1 | - | -
+w007687.2 | stupid | -
+w007688.1 | vintage | modern
+w007689.1 | rebellion, uprising, revolution | -
+w007689.2 | rebel, rise up | obey
+w007689.3 | disgust, repel, sicken | -
+w007690.1 | correctly, justly | wrongly
+w007691.1 | rumour, gossip | -
+w007691.2 | rumour | -
+w007692.1 | - | -
+w007692.2 | seat | -
+w007692.3 | burden, lumber | -
+w007692.4 | - | -
+w007694.1 | education | -
+w007697.1 | temple, sanctuary | -
+w007697.2 | memorial | -
+w007698.1 | contract, reduce, decrease | expand, grow
+w007698.2 | recoil, flinch, back away | -
+w007698.3 | psychiatrist, therapist | -
+w007699.1 | marksman | -
+w007700.1 | lonely, alone, solo | -
+w007700.2 | single, sole, only | -
+w007700.3 | - | -
+w007701.1 | sadness, grief, misery | joy, happiness
+w007701.2 | misfortune, tragedy | joy
+w007702.1 | fuel, stir up, inflame | calm
+w007702.2 | fuel | -
+w007704.1 | end, ending, conclusion | beginning, start
+w007704.2 | dismissal | -
+w007705.1 | - | -
+w007706.1 | flourish, prosper, boom | decline
+w007707.1 | - | -
+w007707.2 | provoke | -
+w007707.3 | ogre | -
+w007709.1 | take on, tackle, carry out | -
+w007709.2 | promise, pledge, agree | -
+w007710.1 | outstanding, overdue, due | paid
+w007710.2 | voluntary, unsalaried | paid
+w007711.1 | fruitless, vain | successful
+w007713.1 | waistcoat | -
+w007713.2 | undershirt | -
+w007713.3 | grant, confer, give | -
+w007714.1 | creeper | -
+w007715.1 | guarantee | -
+w007718.1 | - | -
+w007718.2 | longing, desire | -
+w007719.1 | processor | -
+w007724.1 | passage, gangway | -
+w007725.1 | omnipotent | powerless
+w007725.2 | God | -
+w007725.3 | huge, great, tremendous | -
+w007726.1 | - | -
+w007727.1 | clothing, clothes, garment | -
+w007728.1 | mediation | -
+w007729.1 | - | -
+w007729.2 | bit, trace, scrap | -
+w007730.1 | - | -
+w007731.1 | mutual | unilateral
+w007731.2 | - | unilateral
+w007732.1 | - | -
+w007732.2 | run | -
+w007732.3 | drain, milk | -
+w007733.1 | prepare, steel | -
+w007733.2 | support, prop | -
+w007733.3 | - | -
+w007734.1 | heading, title, label | -
+w007734.2 | subtitle | -
+w007734.3 | label, title | -
+w007735.1 | suffocate, gag, splutter | -
+w007735.2 | strangle, throttle | -
+w007735.3 | clog, block, jam | clear
+w007736.1 | - | -
+w007737.1 | stylish, elegant, smart, posh | cheap
+w007739.1 | criticize, denounce, blame | praise, approve
+w007739.2 | sentence | acquit
+w007739.3 | doom, force | -
+w007740.1 | clash, conflict, fight | -
+w007741.1 | donor, giver, supporter | -
+w007741.2 | writer, columnist | -
+w007741.3 | factor, cause | -
+w007743.1 | luxury, luxurious, posh | basic
+w007744.1 | heartbroken, shattered | -
+w007744.2 | ruined | -
+w007745.1 | dress up, camouflage | -
+w007745.2 | hide, conceal, mask | reveal
+w007745.3 | camouflage, mask | -
+w007746.1 | sacking | appointment
+w007746.2 | rejection | acceptance
+w007746.3 | rejection | -
+w007747.1 | below | upstairs
+w007747.2 | - | upstairs
+w007747.3 | ground floor | upstairs
+w007748.1 | sympathy, understanding, compassion | -
+w007749.1 | group, band, company | -
+w007749.2 | whole, collection, set | -
+w007749.3 | outfit | -
+w007750.1 | practical, possible, workable, viable | impossible, impractical
+w007751.1 | - | -
+w007752.1 | oil, fat | -
+w007752.2 | oil, lubricate | -
+w007753.1 | hall, corridor, passage | -
+w007755.1 | gay | heterosexual, straight
+w007755.2 | gay | heterosexual
+w007756.1 | giant | -
+w007756.2 | wreck, shell | -
+w007757.1 | - | -
+w007758.1 | urge, whim, desire | -
+w007758.2 | pulse | -
+w007758.3 | stimulus, drive, push | -
+w007759.1 | unable, incompetent | capable
+w007760.1 | provocative, explosive | -
+w007760.2 | - | -
+w007761.1 | madness, mental illness | sanity
+w007761.2 | madness, folly, stupidity | sanity
+w007762.1 | unsure, anxious, uncertain | confident, secure
+w007762.2 | unsafe, unstable, uncertain | secure, safe
+w007763.1 | combine, merge, unite | separate
+w007763.2 | fit in, assimilate | -
+w007764.1 | deliberate, intended | accidental, unintentional
+w007765.1 | roughly, approximately, about | exactly
+w007766.1 | - | -
+w007767.1 | tie, bow | -
+w007767.2 | tie, fasten | untie
+w007767.3 | - | -
+w007768.1 | - | -
+w007768.2 | - | -
+w007769.1 | teacher, professor, speaker | -
+w007770.1 | desire, passion | -
+w007770.2 | desire, hunger, appetite | -
+w007770.3 | desire, crave, long for | -
+w007772.1 | mayonnaise | -
+w007774.1 | mike, mic | -
+w007775.1 | small, tiny, mini, minute | giant
+w007775.2 | model, replica | -
+w007775.3 | - | -
+w007776.1 | slogan, saying | -
+w007777.1 | citizenship | -
+w007777.2 | nation | -
+w007779.1 | barrier, hurdle, obstruction | -
+w007780.1 | professional | -
+w007782.1 | beginning, start, outbreak | end
+w007783.1 | see, regard, view, consider | -
+w007783.2 | notice, detect, sense, observe | -
+w007784.1 | oppression, abuse | -
+w007785.1 | gasoline, gas, fuel | -
+w007786.1 | thinker | -
+w007787.1 | - | -
+w007788.1 | estate, farm | -
+w007788.2 | forest | -
+w007789.1 | currently, now | -
+w007789.2 | soon, shortly | -
+w007790.1 | - | poetry, verse
+w007791.1 | - | -
+w007792.1 | - | -
+w007793.1 | shaver | -
+w007794.1 | awareness, recognition, understanding | -
+w007794.2 | achievement, fulfilment | -
+w007795.1 | settlement, reunion | conflict
+w007795.2 | harmony | -
+w007796.1 | mat, carpet | -
+w007797.1 | motto, catchphrase | -
+w007798.1 | sample, example | -
+w007799.1 | support, backing | -
+w007800.1 | drive, direct, navigate | -
+w007800.2 | guide, lead, direct | -
+w007800.3 | bullock | -
+w007802.1 | - | -
+w007803.1 | try, struggle, aim, endeavour | -
+w007804.1 | - | -
+w007806.1 | desire, urge, attraction | -
+w007806.2 | lure, attraction, bait | -
+w007807.1 | excitement, buzz, kick | boredom
+w007807.2 | excite, delight | bore
+w007808.1 | - | -
+w007808.2 | - | -
+w007809.1 | pull, drag, haul | push
+w007809.2 | - | -
+w007810.1 | trustful, gullible, naive | suspicious
+w007811.1 | defenceless | armed
+w007812.1 | task, project, venture, enterprise | -
+w007812.2 | promise, pledge, guarantee | -
+w007813.1 | incomplete | finished, complete
+w007814.1 | harmful, unwholesome | healthy
+w007814.2 | unnatural, morbid | healthy
+w007815.1 | illegal, illicit, criminal | lawful, legal
+w007816.1 | - | popular
+w007818.1 | - | -
+w007821.1 | unstable, unpredictable, changeable | stable
+w007821.2 | moody, temperamental | calm
+w007821.3 | - | -
+w007822.1 | willingly, freely | -
+w007826.1 | captain | -
+w007833.1 | tuberculosis | -
+w007833.2 | terabyte | -
+w007835.1 | unusual, odd, strange | normal
+w007836.1 | blame, charge | -
+w007837.1 | plenty, plentiful, abundant | insufficient
+w007837.2 | large, spacious | small
+w007838.1 | comparison, parallel | -
+w007839.1 | peak, top, summit | bottom
+w007840.1 | disaster, catastrophe | -
+w007841.1 | reverse, rearward | forward
+w007841.2 | backwards | forward
+w007841.3 | undeveloped, slow | advanced
+w007842.1 | tough, cool | -
+w007842.2 | - | wimp
+w007843.1 | - | -
+w007843.2 | stream, brook | -
+w007844.1 | - | -
+w007844.2 | yes | -
+w007845.1 | - | -
+w007846.1 | - | -
+w007848.1 | rock | -
+w007850.1 | - | -
+w007850.2 | - | -
+w007852.1 | layer, film, covering | -
+w007853.1 | - | -
+w007853.2 | merger, combination | -
+w007854.1 | continuance | end
+w007854.2 | sequel, extension | -
+w007855.1 | - | -
+w007855.2 | escort | -
+w007856.1 | stopper, plug | -
+w007856.2 | - | -
+w007856.3 | plug, seal | uncork
+w007857.1 | superficial, surface | -
+w007857.2 | beauty | -
+w007857.3 | makeup | -
+w007858.1 | - | -
+w007859.1 | department | -
+w007860.1 | sensor | -
+w007861.1 | - | -
+w007861.2 | absorb, take in, grasp | -
+w007861.3 | summary, abstract | -
+w007862.1 | - | -
+w007862.2 | tact, discretion | tactlessness
+w007863.1 | instruction, order, command | -
+w007864.1 | drawback, downside, handicap | advantage, benefit
+w007864.2 | handicap, hinder | advantage
+w007865.1 | disturbance, interruption, chaos | -
+w007866.1 | divert, sidetrack | -
+w007867.1 | - | upward
+w007867.2 | downwards, down | upward
+w007868.1 | - | -
+w007869.1 | green | -
+w007870.1 | active, lively, vigorous, dynamic | lazy, lethargic
+w007871.1 | festival | -
+w007872.1 | resistance | -
+w007872.2 | conflict, tension, disagreement | harmony
+w007873.1 | - | -
+w007873.2 | depression, gloom | -
+w007874.1 | eminence, distinction | -
+w007875.1 | dangerous, risky, unsafe | safe
+w007876.1 | prostitute | -
+w007876.2 | - | -
+w007877.1 | desperate, futile, pointless | hopeful
+w007877.2 | useless, incompetent, terrible | -
+w007878.1 | - | -
+w007878.2 | - | -
+w007879.1 | show, demonstrate, explain | -
+w007879.2 | - | -
+w007880.1 | - | -
+w007881.1 | - | directly
+w007882.1 | introduction, initiation | -
+w007882.2 | - | deduction
+w007882.3 | - | -
+w007883.1 | - | -
+w007883.2 | - | -
+w007884.1 | unrest, insecurity | stability
+w007889.1 | restriction, limit, constraint | -
+w007889.2 | weakness, shortcoming, flaw | strength
+w007890.1 | - | -
+w007891.1 | rubbish, garbage, trash | -
+w007891.2 | scatter, clutter | -
+w007891.3 | brood | -
+w007892.1 | piece, chunk, block | -
+w007892.2 | swelling, bump | -
+w007892.3 | group, combine | separate
+w007893.1 | - | -
+w007893.2 | large-scale | micro
+w007894.1 | judge | -
+w007895.1 | slight, small, minor | significant
+w007895.2 | peripheral, minor | central
+w007895.3 | - | -
+w007896.1 | manly, male | feminine
+w007896.2 | - | feminine
+w007897.1 | landmark, turning point | -
+w007897.2 | - | -
+w007898.1 | cup | -
+w007898.2 | rob, attack | -
+w007898.3 | face | -
+w007899.1 | town, city, borough | -
+w007900.1 | - | -
+w007901.1 | - | -
+w007902.1 | hey | -
+w007903.1 | outside | indoors
+w007903.2 | open air, countryside | -
+w007904.1 | walker | driver
+w007904.2 | - | -
+w007904.3 | dull, ordinary, boring | exciting
+w007905.1 | entry, piercing | -
+w007905.2 | - | -
+w007906.1 | shell, husk | -
+w007906.2 | capsule, unit | -
+w007906.3 | school | -
+w007907.1 | hunter | prey
+w007907.2 | exploiter | victim
+w007908.1 | ideally | -
+w007909.1 | prediction, forecast | -
+w007910.1 | - | -
+w007911.1 | - | -
+w007911.2 | - | -
+w007911.3 | - | -
+w007912.1 | rest, leisure, recreation | stress, tension
+w007912.2 | - | -
+w007913.1 | decent, honourable, reputable | disreputable
+w007913.2 | reasonable, decent, fair | -
+w007914.1 | polite, courteous | disrespectful, rude
+w007915.1 | - | -
+w007917.1 | regularly, normally, usually | -
+w007918.1 | - | -
+w007918.2 | - | -
+w007918.3 | honour, praise, pay tribute to | -
+w007919.1 | film, froth | -
+w007919.2 | - | -
+w007920.1 | - | -
+w007921.1 | seriousness, gravity | -
+w007921.2 | strictness, harshness | leniency
+w007922.1 | shadowy, cool | sunny
+w007922.2 | dubious, suspicious, dodgy | honest
+w007923.1 | loose | tight, taut
+w007923.2 | slow, quiet | busy
+w007923.3 | slack off | -
+w007923.4 | leeway | -
+w007924.1 | smooth, skilful | clumsy
+w007924.2 | smooth, glib | -
+w007924.3 | slippery, smooth | -
+w007924.4 | - | -
+w007925.1 | impulsive, natural, unplanned, impromptu | -
+w007926.1 | label | -
+w007927.1 | heater | -
+w007927.2 | cooker | -
+w007928.1 | strategy, method, approach, technique | -
+w007928.2 | - | -
+w007929.1 | pattern, model | -
+w007929.2 | model, pattern, example | -

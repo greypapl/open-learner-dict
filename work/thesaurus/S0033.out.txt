@@ -1,0 +1,402 @@
+w006568.1 | mail, communication | -
+w006568.2 | connection, similarity, link | difference
+w006569.1 | - | -
+w006569.2 | crook | -
+w006570.1 | attractive, appealing, advantageous | undesirable
+w006570.2 | attractive, sexy | unattractive
+w006571.1 | destructive, disastrous, catastrophic | -
+w006571.2 | upsetting | -
+w006571.3 | stunning, impressive | -
+w006572.1 | chart, plan, drawing | -
+w006572.2 | - | -
+w006573.1 | reject, ignore, brush aside | consider
+w006573.2 | sack, fire, discharge | hire, employ
+w006573.3 | throw out | -
+w006574.1 | adventurer, traveller | -
+w006574.2 | browser | -
+w006575.1 | further | -
+w006575.2 | further | -
+w006576.1 | advantageous, positive, beneficial | unfavorable
+w006576.2 | positive, approving | unfavorable, negative
+w006577.1 | - | -
+w006578.1 | petrol, gas, fuel | -
+w006579.1 | origin, beginning, birth | end
+w006580.1 | geographic | -
+w006581.1 | government, official, state | -
+w006582.1 | - | granddaughter
+w006584.1 | unfinished, partial | complete
+w006585.1 | include, integrate, absorb | exclude
+w006585.2 | - | -
+w006586.1 | - | -
+w006586.2 | cream | -
+w006590.1 | long, prolonged, extended | brief, short
+w006591.1 | impose, charge | -
+w006591.2 | tax, charge, duty | -
+w006592.1 | exploitation | -
+w006592.2 | - | -
+w006594.1 | ridicule, make fun of, tease | -
+w006594.2 | fake, imitation, false | real, genuine
+w006594.3 | - | -
+w006595.1 | - | -
+w006596.1 | - | -
+w006596.2 | place | -
+w006596.3 | alcove, recess | -
+w006596.4 | specialist, specialized | mainstream
+w006598.1 | unknown | famous, well-known
+w006598.2 | unclear, vague | clear
+w006598.3 | hide, conceal, cover | reveal
+w006601.1 | entrance | -
+w006601.2 | veranda | -
+w006603.1 | proposal, suggestion, plan | -
+w006603.2 | statement, claim | -
+w006603.3 | task, matter, prospect | -
+w006604.1 | slump, depression, downturn | boom
+w006604.2 | retreat, withdrawal | advance
+w006606.1 | edge, brim, border | centre
+w006606.2 | frame | -
+w006607.1 | second | -
+w006609.1 | - | -
+w006610.1 | coil, twist | -
+w006610.2 | - | straight
+w006610.3 | soar, escalate, rocket | -
+w006610.4 | - | -
+w006611.1 | - | swallow
+w006611.2 | saliva | -
+w006611.3 | skewer | -
+w006612.1 | splatter, spray, slosh | -
+w006612.2 | - | -
+w006612.3 | dash, spot | -
+w006613.1 | consecutive | -
+w006614.1 | - | villain
+w006615.1 | remedial | harmful
+w006615.2 | relaxing | stressful
+w006616.1 | opportune | untimely
+w006617.1 | - | -
+w006618.1 | bath, bathtub | -
+w006618.2 | container, pot | -
+w006619.1 | student | graduate
+w006619.2 | - | postgraduate
+w006620.1 | - | -
+w006621.1 | complete, total, absolute, sheer | -
+w006621.2 | say, speak, voice | -
+w006622.1 | - | -
+w006622.2 | - | -
+w006622.3 | - | -
+w006623.1 | - | -
+w006625.1 | shout, scream, cry | whisper
+w006625.2 | shout, scream, cry | whisper
+w006627.1 | advert, ad, commercial | -
+w006628.1 | examine, study, investigate | -
+w006629.1 | - | -
+w006629.2 | evocative, moody | -
+w006631.1 | parenthesis | -
+w006631.2 | group, category, band | -
+w006631.3 | support | -
+w006633.1 | heart | -
+w006635.1 | - | -
+w006635.2 | authoritative, impressive | -
+w006635.3 | strong, dominant | -
+w006637.1 | sneak, crawl, tiptoe | -
+w006637.2 | - | -
+w006637.3 | jerk | -
+w006638.1 | sunlight, daytime | darkness
+w006638.2 | dawn, sunrise, daybreak | dusk
+w006641.1 | reveal, release | conceal, hide
+w006642.1 | - | stag
+w006644.1 | - | -
+w006644.2 | nudge, jostle, push | -
+w006645.1 | eager, keen, passionate | unenthusiastic
+w006646.1 | jealousy | -
+w006646.2 | resent, begrudge | -
+w006647.1 | banishment | -
+w006647.2 | refugee, expatriate | -
+w006647.3 | banish, expel, deport | -
+w006648.1 | abuse | -
+w006648.2 | use, utilization | -
+w006650.1 | jelly | -
+w006650.2 | bond, click | -
+w006651.1 | - | -
+w006652.1 | - | -
+w006652.2 | - | -
+w006653.1 | broil, barbecue, toast | -
+w006653.2 | barbecue | -
+w006653.3 | interrogate, question, quiz | -
+w006654.1 | - | toe
+w006654.2 | - | -
+w006655.1 | brave, courageous, bold | cowardly
+w006656.1 | shed, cabin, shack | -
+w006661.1 | harbour | -
+w006662.1 | rug | -
+w006662.2 | coaster | -
+w006662.3 | tangle | -
+w006666.1 | - | competition
+w006666.2 | - | -
+w006668.1 | - | locally
+w006668.2 | - | -
+w006669.1 | anger, fury, indignation | -
+w006669.2 | scandal, atrocity | -
+w006669.3 | anger, enrage, shock | please
+w006670.1 | admin | -
+w006670.2 | documentation | -
+w006671.1 | - | -
+w006672.1 | immediately, quickly | slowly
+w006672.2 | punctually, on time | late
+w006674.1 | extension | expiry
+w006674.2 | regeneration, restoration | decline
+w006674.3 | resumption, revival | -
+w006676.1 | - | -
+w006676.2 | leader, monarch, sovereign | subject
+w006677.1 | genuine, honest, heartfelt | insincere
+w006678.1 | butcher, kill | -
+w006678.2 | massacre, butcher | -
+w006678.3 | massacre, killing | -
+w006679.1 | semen | -
+w006680.1 | slop, pour | -
+w006680.2 | pour, flood | -
+w006680.3 | leak | -
+w006681.1 | gradually, constantly, regularly | -
+w006681.2 | firmly | -
+w006682.1 | provider, vendor | customer
+w006683.1 | marsh, bog | -
+w006683.2 | flood, overwhelm, inundate | -
+w006684.1 | - | -
+w006685.1 | combination, fusion, blend | analysis
+w006685.2 | production | -
+w006686.1 | delicious, yummy | tasteless
+w006687.1 | colleague | opponent
+w006688.1 | - | -
+w006688.2 | prove, demonstrate, show | -
+w006689.1 | put up with, bear, stand, accept | -
+w006689.2 | withstand, bear | -
+w006690.1 | betrayal, treachery | loyalty
+w006691.1 | - | -
+w006692.1 | pee | -
+w006693.1 | - | -
+w006693.2 | ordinary, plain, bland | -
+w006696.1 | - | -
+w006696.2 | purple | -
+w006696.3 | purple | -
+w006700.1 | - | -
+w006701.1 | - | deactivation
+w006701.2 | - | -
+w006702.1 | afterwards, later, subsequently | before, beforehand
+w006704.1 | ovation | -
+w006705.1 | hairless | hairy
+w006705.2 | bare | -
+w006705.3 | plain, blunt, simple | -
+w006706.1 | - | freeze
+w006706.2 | - | -
+w006706.3 | - | -
+w006707.1 | district, town | -
+w006710.1 | advance, discovery, innovation | setback
+w006712.1 | - | -
+w006712.2 | cornet | -
+w006712.3 | - | -
+w006713.1 | communicate, express, get across | -
+w006713.2 | carry, transport, transfer | -
+w006714.1 | criticism, analysis, review | -
+w006714.2 | criticize, review, analyse | -
+w006715.1 | bent, rounded, arched | straight
+w006717.1 | rot, decompose | -
+w006717.2 | decline, deteriorate | flourish
+w006717.3 | rot, decline, deterioration | growth
+w006718.1 | gloomy, dismal, sad | cheerful, uplifting
+w006719.1 | pudding, sweet | -
+w006720.1 | - | -
+w006720.2 | - | -
+w006722.1 | difference, gap | -
+w006722.2 | - | -
+w006722.3 | - | -
+w006723.1 | discussion, debate | -
+w006723.2 | - | -
+w006723.3 | talk, speak | -
+w006724.1 | control, power, supremacy | subordination
+w006725.1 | financially | -
+w006725.2 | cheaply, efficiently | wastefully
+w006726.1 | amuse, delight | bore
+w006726.2 | host | -
+w006726.3 | consider, contemplate | reject
+w006727.1 | abuse, take advantage of, use | -
+w006727.2 | use, utilize, make the most of | waste
+w006727.3 | feat, adventure, deed | -
+w006728.1 | - | slave
+w006728.2 | - | -
+w006729.1 | entrance, gate | exit
+w006729.2 | path, route, key | -
+w006729.3 | - | -
+w006731.1 | moisture, dampness | dryness
+w006732.1 | comedy, wit | -
+w006732.2 | mood, temper | -
+w006732.3 | indulge, please | -
+w006733.1 | - | -
+w006733.2 | - | -
+w006734.1 | suggest, hint, indicate | state
+w006734.2 | mean, involve, entail | -
+w006735.1 | intrinsic, built-in, natural, innate | external
+w006736.1 | interior | coastal
+w006736.2 | - | -
+w006737.1 | - | -
+w006738.1 | - | guilt
+w006738.2 | naivety, inexperience | experience
+w006739.1 | detective, inspector | -
+w006740.1 | island | -
+w006741.1 | - | -
+w006742.1 | reason, excuse | -
+w006742.2 | alignment | -
+w006746.1 | cattle | -
+w006748.1 | mob | -
+w006749.1 | cheerful, happy, jolly | sad, gloomy
+w006749.2 | tipsy | sober
+w006750.1 | evangelist, preacher | -
+w006750.2 | - | -
+w006751.1 | patriotism | internationalism
+w006751.2 | - | -
+w006752.1 | bad, disobedient, mischievous | good
+w006752.2 | rude, cheeky | -
+w006753.1 | infamous | -
+w006754.1 | follow, comply with, observe | disobey
+w006756.1 | - | -
+w006756.2 | - | -
+w006757.1 | complete, total, absolute | partial
+w006757.2 | completely, immediately, totally | -
+w006757.3 | openly, directly, frankly | -
+w006758.1 | too, excessively, unduly | -
+w006759.1 | mistake, error, omission, slip | -
+w006759.2 | supervision | -
+w006760.1 | survey | -
+w006760.2 | - | -
+w006761.1 | model, pilot | -
+w006762.1 | - | -
+w006763.1 | slope, incline | -
+w006763.2 | slip road | -
+w006763.3 | increase, boost, step up | reduce
+w006765.1 | - | -
+w006765.2 | - | -
+w006766.1 | - | -
+w006767.1 | pure | crude, raw
+w006767.2 | polite, sophisticated, cultured | coarse, vulgar
+w006767.3 | - | -
+w006768.1 | - | tiring
+w006768.2 | welcome, fresh, new | -
+w006769.1 | rejection, denial | acceptance
+w006770.1 | restart | -
+w006770.2 | restart | -
+w006771.1 | - | -
+w006771.2 | - | fool
+w006771.3 | wise | foolish
+w006772.1 | trim | -
+w006772.2 | trim, cut, reduce | -
+w006772.3 | - | -
+w006773.1 | illness, disease | health
+w006773.2 | nausea | -
+w006775.1 | - | -
+w006775.2 | launch, start | shutdown
+w006776.1 | law, act, legislation | -
+w006777.1 | simple, easy, uncomplicated | complicated
+w006777.2 | honest, frank, direct | devious
+w006778.1 | celebrity, star | -
+w006779.1 | - | -
+w006780.1 | considerate, kind, caring | thoughtless, inconsiderate
+w006780.2 | reflective, pensive, careful | thoughtless
+w006781.1 | through | -
+w006782.1 | - | -
+w006783.1 | violent, cruel, brutal, savage | gentle
+w006783.2 | severe, fierce, intense | mild
+w006784.1 | - | -
+w006785.1 | - | -
+w006786.1 | completely, entirely, totally, fully | partly
+w006787.1 | speed, race, dash, rush | crawl
+w006787.2 | - | -
+w006787.3 | soar, rocket, shoot up | plunge
+w006789.1 | hmm | -
+w006791.1 | chance, unintentional, unplanned | deliberate, intentional
+w006792.1 | - | -
+w006793.1 | murder, killing | -
+w006794.1 | track and field | -
+w006794.2 | sport | -
+w006795.1 | fundamentals | -
+w006796.1 | - | -
+w006796.2 | - | -
+w006797.1 | generally, roughly, in general | precisely
+w006797.2 | widely | narrowly
+w006797.3 | - | -
+w006798.1 | - | -
+w006800.1 | - | -
+w006801.1 | confidence, conviction, sureness | uncertainty, doubt
+w006801.2 | sure thing | -
+w006803.1 | reference, quotation | -
+w006803.2 | commendation | -
+w006803.3 | summons | -
+w006804.1 | together, jointly | individually
+w006805.1 | compaction | expansion
+w006805.2 | - | decompression
+w006806.1 | admit, own up | deny
+w006806.2 | - | -
+w006807.1 | cramped, narrow, restricted | spacious
+w006807.2 | restricted, limited | free
+w006808.1 | flock, assembly | -
+w006808.2 | gathering, crowd, assembly | -
+w006809.1 | organize, arrange, harmonize | -
+w006809.2 | - | -
+w006809.3 | match, go together | clash
+w006810.1 | - | -
+w006810.2 | block, chunk | -
+w006810.3 | - | -
+w006812.1 | ornament, adornment | -
+w006812.2 | design | -
+w006812.3 | medal, award, honour | -
+w006813.1 | order, ruling, edict | -
+w006813.2 | order, rule, command | -
+w006814.1 | intentional, conscious | accidental
+w006814.2 | careful, slow | hasty
+w006814.3 | consider, ponder, think over | -
+w006815.1 | hopelessness, despondency | hope
+w006815.2 | lose heart, give up | hope
+w006816.1 | - | -
+w006816.2 | benefit, bonus, gain | -
+w006817.1 | float, glide, wander | -
+w006817.2 | wander | -
+w006817.3 | gist, meaning, trend | -
+w006818.1 | colour, colouring, tint | -
+w006818.2 | colour, tint, stain | -
+w006819.1 | - | proton
+w006820.1 | bear, tolerate, suffer, put up with | -
+w006820.2 | last, survive, persist | perish
+w006821.1 | - | -
+w006822.1 | - | -
+w006822.2 | gradual | revolutionary
+w006824.1 | - | -
+w006825.1 | worldwide, internationally | locally
+w006825.2 | generally, overall | -
+w006826.1 | expert, mentor | -
+w006826.2 | teacher | -
+w006827.1 | - | -
+w006827.2 | devise, plot, concoct | -
+w006827.3 | opening, hatchway | -
+w006828.1 | - | -
+w006829.1 | insufficient, deficient, unsatisfactory | adequate, sufficient
+w006829.2 | incompetent, incapable | competent
+w006831.1 | eternity, endlessness | -
+w006831.2 | - | -
+w006832.1 | deliberately, on purpose | accidentally
+w006833.1 | - | -
+w006833.2 | shoelace | -
+w006833.3 | tie, fasten | untie
+w006833.4 | spike | -
+w006834.1 | first, initial | -
+w006834.2 | girl, maid | -
+w006835.1 | market, trade | -
+w006835.2 | market, square | -
+w006836.1 | film, layer, skin | -
+w006837.1 | metal | -
+w006837.2 | - | -
+w006838.1 | method, approach | -
+w006839.1 | killer | -
+w006840.1 | doze, rest, snooze | -
+w006840.2 | doze, snooze | -
+w006841.1 | - | -
+w006841.2 | - | -
+w006842.1 | - | nephew
+w006843.1 | sorry, excuse me | -
+w006843.2 | amnesty, reprieve | -
+w006843.3 | forgive, excuse, release | condemn, punish

@@ -1,0 +1,402 @@
+w001144.1 | management, running | -
+w001144.2 | government | -
+w001145.1 | method, way, technique | -
+w001145.2 | near | leave
+w001145.3 | tackle, deal with, handle | avoid
+w001145.4 | arrival, coming | departure
+w001146.1 | - | -
+w001146.2 | evil, disease | -
+w001147.1 | public | -
+w001147.2 | - | military
+w001147.3 | polite, courteous | rude
+w001149.1 | - | -
+w001149.2 | - | -
+w001149.3 | ball, party | -
+w001150.1 | protection, security | attack
+w001150.2 | - | prosecution
+w001150.3 | - | attack
+w001151.1 | way, route | -
+w001151.2 | guidance | -
+w001151.3 | guidance, control, management | -
+w001153.1 | free, self-governing, sovereign | dependent
+w001153.2 | self-sufficient | dependent
+w001153.3 | separate, unconnected | related
+w001153.4 | - | -
+w001154.1 | learn, grasp | -
+w001154.2 | expert, genius | beginner
+w001154.3 | owner, lord | servant
+w001154.4 | - | -
+w001154.5 | main, principal | -
+w001155.1 | - | all
+w001159.1 | boat, vessel | -
+w001159.2 | send, deliver | -
+w001160.1 | goods, supply | -
+w001160.2 | - | -
+w001160.3 | supply, store, reserve | -
+w001160.4 | sell, carry, supply | -
+w001162.1 | - | -
+w001162.2 | - | -
+w001163.1 | think about | -
+w001163.2 | marvel | -
+w001163.3 | amazement, awe, admiration | -
+w001163.4 | marvel, miracle | -
+w001164.1 | - | -
+w001164.2 | - | -
+w001164.3 | - | -
+w001165.1 | - | -
+w001166.1 | - | -
+w001167.1 | great, fantastic, amazing, brilliant | awful, terrible
+w001167.2 | impressive, amazing | -
+w001168.1 | group | -
+w001168.2 | strip, ribbon | -
+w001168.3 | group, gang | -
+w001169.1 | shore, seaside | -
+w001169.2 | - | launch
+w001170.1 | money | -
+w001170.2 | money | -
+w001170.3 | - | -
+w001171.1 | plainly, distinctly | unclearly
+w001171.2 | obviously, evidently, certainly | -
+w001172.1 | business, trade | -
+w001172.2 | profitable | -
+w001172.3 | advertisement, ad | -
+w001174.1 | energy, work, exertion | -
+w001174.2 | attempt, try | -
+w001175.1 | supporter, admirer, lover | -
+w001175.2 | - | -
+w001175.3 | - | -
+w001176.1 | violence, conflict | peace
+w001177.1 | picture, visualize, think of | -
+w001177.2 | suppose, guess, assume | -
+w001178.1 | effect, influence | -
+w001178.2 | collision, crash | -
+w001178.3 | affect, influence | -
+w001179.1 | shortage, absence, want | plenty
+w001179.2 | need | have
+w001180.1 | new, recent | -
+w001181.1 | many, numerous, several | single
+w001181.2 | - | -
+w001182.1 | working, running | -
+w001182.2 | surgery | -
+w001182.3 | campaign, action | -
+w001183.1 | organisation, group, body | -
+w001183.2 | planning, arrangement | disorder
+w001184.1 | defend, guard, shield | attack
+w001185.1 | - | -
+w001185.2 | hidden, private, confidential | public, open
+w001185.3 | key | -
+w001186.1 | high-ranking, superior | junior
+w001186.2 | elder | junior
+w001186.3 | - | junior
+w001186.4 | pensioner | -
+w001187.1 | - | autumn
+w001187.2 | - | -
+w001187.3 | - | -
+w001187.4 | jump, leap | -
+w001189.1 | have on | -
+w001189.2 | wear out | -
+w001189.3 | clothes, clothing | -
+w001189.4 | damage | -
+w001190.1 | - | -
+w001191.1 | - | -
+w001191.2 | - | -
+w001191.3 | - | -
+w001192.1 | - | -
+w001192.2 | deal with, tackle | ignore
+w001192.3 | speak | -
+w001192.4 | speech, talk, lecture | -
+w001193.1 | examination, study, investigation | -
+w001194.1 | anyhow, in any case, regardless | -
+w001194.2 | - | -
+w001195.1 | select, pick, decide | -
+w001195.2 | decide | refuse
+w001196.1 | colour, shade | -
+w001196.2 | colour | -
+w001196.3 | paint | -
+w001196.4 | influence, affect | -
+w001197.1 | committee, board | -
+w001197.2 | - | -
+w001197.3 | order | -
+w001198.1 | contest, tournament, race | -
+w001198.2 | rivalry | cooperation
+w001198.3 | opponent, rival | -
+w001199.1 | straight | indirect
+w001199.2 | frank, honest, straightforward | indirect
+w001199.3 | manage, control, run, lead | -
+w001199.4 | - | -
+w001199.5 | directly, straight | -
+w001200.1 | - | nightmare
+w001200.2 | ambition, goal, hope, wish | -
+w001200.3 | - | -
+w001200.4 | imagine, hope | -
+w001201.1 | effortlessly | -
+w001201.2 | definitely, clearly, certainly | -
+w001202.1 | complete, end, stop | start, begin
+w001202.2 | use up, consume | -
+w001202.3 | end, ending | start
+w001202.4 | surface | -
+w001203.1 | impressive, magnificent, splendid | modest
+w001203.2 | ambitious, important | -
+w001203.3 | - | -
+w001204.1 | exactly, precisely | figuratively
+w001204.2 | really, actually | -
+w001207.1 | fortune, chance | misfortune
+w001207.2 | - | -
+w001208.1 | - | divorce
+w001208.2 | wedding | -
+w001209.1 | essential | unnecessary
+w001209.2 | inevitable | -
+w001210.1 | wealthy, well-off | poor
+w001210.2 | full | poor
+w001210.3 | heavy | light
+w001213.1 | - | -
+w001213.2 | peel | -
+w001213.3 | peel | -
+w001214.1 | - | -
+w001214.2 | - | -
+w001215.1 | expected | -
+w001215.2 | so-called | -
+w001216.1 | sugary | bitter, sour
+w001216.2 | kind, lovely, gentle, cute | -
+w001216.3 | candy | -
+w001216.4 | dessert, pudding | -
+w001217.1 | therefore, so, consequently | -
+w001217.2 | - | -
+w001218.1 | feel | -
+w001218.2 | move, affect | -
+w001218.3 | feel | -
+w001218.4 | contact | -
+w001218.5 | bit, trace, hint | -
+w001220.1 | - | tomorrow
+w001220.2 | - | tomorrow
+w001220.3 | past | tomorrow
+w001221.1 | - | -
+w001222.1 | shut | open
+w001222.2 | shut | open
+w001222.3 | - | open
+w001224.1 | parliament | -
+w001224.2 | conference, convention | -
+w001225.1 | harm, injury | -
+w001225.2 | harm, hurt, spoil | repair
+w001225.3 | compensation | -
+w001226.1 | straight | indirectly
+w001226.2 | exactly, right | -
+w001226.3 | immediately, soon, at once | -
+w001227.1 | illness, sickness | health
+w001228.1 | physician, GP | patient
+w001228.2 | - | -
+w001228.3 | fake, falsify | -
+w001229.1 | uncertainty, suspicion | certainty
+w001229.2 | question, suspect | believe
+w001230.1 | sip, swallow | -
+w001230.2 | - | -
+w001230.3 | beverage | -
+w001230.4 | alcohol | -
+w001231.1 | - | -
+w001231.2 | powerful | -
+w001231.3 | heavy | -
+w001232.1 | accepted, traditional, settled | new
+w001232.2 | official | -
+w001234.1 | - | -
+w001234.2 | - | -
+w001234.3 | - | -
+w001234.4 | search, feel | -
+w001235.1 | homosexual | straight
+w001235.2 | homosexual | -
+w001235.3 | cheerful, merry | sad
+w001236.1 | happy, pleased, delighted | sorry, sad
+w001236.2 | grateful, thankful | -
+w001238.1 | increase, expand, develop | shrink
+w001238.2 | cultivate, raise | -
+w001238.3 | become, get, turn | -
+w001239.1 | device, appliance | -
+w001239.2 | - | -
+w001239.3 | - | -
+w001240.1 | see, spot, observe | ignore
+w001240.2 | sign, announcement | -
+w001240.3 | attention | -
+w001240.4 | warning | -
+w001241.1 | total, general, whole | -
+w001241.2 | generally, on the whole | -
+w001241.3 | - | -
+w001242.1 | organization, preparation | -
+w001242.2 | - | -
+w001243.1 | - | -
+w001245.1 | sit down, take a seat | stand
+w001245.2 | lie, stand | -
+w001245.3 | take | -
+w001247.1 | journey, visit, outing | -
+w001247.2 | stumble, fall | -
+w001247.3 | - | -
+w001248.1 | - | -
+w001249.1 | - | -
+w001251.1 | connected, related | unrelated
+w001251.2 | allied | -
+w001252.1 | fundamental, essential, main | advanced
+w001252.2 | simple, plain | fancy
+w001252.3 | basics | -
+w001253.1 | pilot | -
+w001253.2 | leader | -
+w001253.3 | - | -
+w001253.4 | lead | -
+w001254.1 | take, bring, hold | drop
+w001254.2 | transport, convey, take | -
+w001254.3 | have | -
+w001255.1 | offence, offense | -
+w001255.2 | sin, shame | -
+w001256.1 | successful, useful, efficient | ineffective
+w001256.2 | in force | -
+w001256.3 | real, actual | -
+w001257.1 | describe, clarify | confuse
+w001257.2 | justify, account for | -
+w001258.1 | completely, totally, entirely | partly
+w001258.2 | at least | -
+w001259.1 | very, extremely | -
+w001259.2 | well | badly
+w001260.1 | property | -
+w001260.2 | collection | -
+w001260.3 | - | -
+w001262.1 | - | female
+w001262.2 | man | female
+w001263.1 | - | -
+w001263.2 | sow | -
+w001263.3 | factory | -
+w001263.4 | place, put, hide | -
+w001265.1 | truth, fact | fantasy, dream
+w001265.2 | existence | -
+w001267.1 | place, location, point | -
+w001267.2 | dot, mark | -
+w001267.3 | notice, see, catch sight of | miss
+w001267.4 | pimple | -
+w001269.1 | - | summer
+w001269.2 | - | -
+w001270.1 | - | better
+w001270.2 | - | better
+w001270.3 | - | better
+w001271.1 | - | -
+w001271.2 | - | -
+w001272.1 | guidance, suggestion, recommendation | -
+w001273.1 | deal, contract, arrangement | -
+w001273.2 | consent | disagreement
+w001274.1 | prize, reward | -
+w001274.2 | give, grant, present | -
+w001274.3 | - | -
+w001275.1 | piece, lump, chunk | -
+w001275.2 | - | -
+w001275.3 | stop, prevent, obstruct | allow
+w001275.4 | - | unblock
+w001276.1 | faulty | working
+w001276.2 | - | unbroken
+w001276.3 | poor | fluent
+w001277.1 | test, difficulty, problem | -
+w001277.2 | question, dispute | accept
+w001277.3 | dare | -
+w001278.1 | remark, observation, statement | -
+w001278.2 | remark | -
+w001280.1 | gear, apparatus | -
+w001281.1 | finally, in the end, at last | -
+w001282.1 | sacred | -
+w001282.2 | religious, pious | wicked
+w001283.1 | murder | -
+w001283.2 | profit, fortune | -
+w001283.3 | tiring | -
+w001284.1 | country, state | -
+w001284.2 | people | -
+w001285.1 | or else, if not | -
+w001285.2 | - | -
+w001285.3 | differently | similarly
+w001287.1 | main, chief, principal | secondary
+w001287.2 | elementary | secondary
+w001287.3 | - | -
+w001288.1 | reason, aim, goal, point | -
+w001288.2 | determination | -
+w001289.1 | in charge | -
+w001289.2 | guilty | -
+w001289.3 | sensible, reliable, trustworthy | irresponsible
+w001290.1 | store | -
+w001290.2 | go shopping | -
+w001290.3 | workshop | -
+w001291.1 | ill, unwell | well, healthy
+w001291.2 | - | -
+w001291.3 | tired, fed up | -
+w001292.1 | tutor, instructor | student, pupil
+w001293.1 | hypothesis | practice
+w001293.2 | idea, belief, opinion | fact
+w001293.3 | - | practice
+w001296.1 | - | -
+w001297.1 | company, office, firm | -
+w001297.2 | department, office | -
+w001298.1 | prevent | -
+w001298.2 | keep away from, stay away from, escape | -
+w001299.1 | - | -
+w001300.1 | grab, seize, hold | drop, miss
+w001300.2 | take, get | miss
+w001300.3 | get | -
+w001300.4 | problem, snag | -
+w001300.5 | - | -
+w001301.1 | - | -
+w001301.2 | - | -
+w001301.3 | mobile, cellphone | -
+w001302.1 | shore, seaside | -
+w001302.2 | glide, roll | -
+w001302.3 | - | -
+w001303.1 | - | -
+w001303.2 | medicine, medication | -
+w001303.3 | - | -
+w001304.1 | - | -
+w001304.2 | saving, thrift | waste
+w001304.3 | cheap, budget | luxury
+w001305.1 | nature | -
+w001305.2 | surroundings, setting | -
+w001305.3 | - | -
+w001306.1 | manager, director | -
+w001306.2 | - | -
+w001306.3 | luxury | -
+w001307.1 | - | -
+w001307.2 | - | -
+w001307.3 | bottom, base | top, head
+w001307.4 | pay | -
+w001308.1 | - | -
+w001308.2 | hallway | -
+w001308.3 | - | -
+w001310.1 | lot, heap, pile | -
+w001310.2 | large-scale, widespread | -
+w001310.3 | - | -
+w001310.4 | - | -
+w001310.5 | gather, collect | scatter
+w001311.1 | sense, definition | -
+w001311.2 | purpose, significance, importance | -
+w001312.1 | task, job, assignment | -
+w001312.2 | delegation | -
+w001312.3 | - | -
+w001313.1 | - | -
+w001314.1 | government | -
+w001314.2 | - | -
+w001314.3 | - | -
+w001315.1 | - | -
+w001315.2 | burst, bang | -
+w001315.3 | drop in, nip | -
+w001315.4 | soda | -
+w001315.5 | dad, father | -
+w001316.1 | position, rank, standing | -
+w001316.2 | state, situation, condition | -
+w001316.3 | position | -
+w001317.1 | so, thus, consequently | -
+w001318.1 | case, hearing | -
+w001318.2 | test, experiment | -
+w001318.3 | nuisance, pain | -
+w001318.4 | test, try out | -
+w001319.1 | really, sincerely, genuinely | -
+w001319.2 | accurately, correctly | falsely
+w001320.1 | - | -
+w001320.2 | survive, get through | -
+w001320.3 | - | -
+w001322.1 | application, program | -
+w001323.1 | pastime, hobby | -
+w001323.2 | action, movement | inactivity
+w001324.1 | request, claim | -
+w001324.2 | use | -
+w001324.3 | app, program | -
+w001325.1 | - | -
+w001325.2 | - | -
+w001325.3 | - | -

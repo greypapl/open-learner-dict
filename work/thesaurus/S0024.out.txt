@@ -1,0 +1,400 @@
+w004411.1 | check, examination, review, audit | -
+w004411.2 | examination, check, scrutiny | -
+w004412.1 | set up, fit, put in | remove, uninstall
+w004412.2 | appoint, place | remove
+w004413.1 | direction, guidance, guide | -
+w004413.2 | order, command, direction | -
+w004413.3 | teaching, education, training | -
+w004414.1 | strength, force, power | -
+w004414.2 | passion, seriousness, fervour | -
+w004415.1 | stock, goods | -
+w004415.2 | list, record, catalogue | -
+w004415.3 | list, catalogue, record | -
+w004416.1 | invite, request | -
+w004416.2 | invite, card | -
+w004417.1 | legal | -
+w004418.1 | explain, defend, excuse, account for | -
+w004418.2 | align | -
+w004420.1 | rest, recline, tilt, incline | -
+w004420.2 | depend, rely, count on | -
+w004420.3 | slim, slender, thin, trim | fat
+w004420.4 | - | fatty
+w004421.1 | talk, speech, lesson, address | -
+w004421.2 | - | -
+w004421.3 | teach, speak, talk | -
+w004421.4 | scold, criticize, tell off | praise
+w004422.1 | reasonable, sensible, rational, sound | illogical
+w004422.2 | - | -
+w004424.1 | significant, important, worthwhile, useful | meaningless
+w004424.2 | significant, expressive | -
+w004425.1 | movement, emigration, immigration | -
+w004425.2 | movement | -
+w004425.3 | transfer | -
+w004426.1 | rocket | -
+w004426.2 | projectile | -
+w004429.1 | - | southeast
+w004429.2 | - | southeast
+w004429.3 | - | southeast
+w004430.1 | - | -
+w004430.2 | - | -
+w004430.3 | agency, body, organization | -
+w004431.1 | guard, police, watch | -
+w004431.2 | watch, guard | -
+w004431.3 | guard, watch | -
+w004432.1 | - | -
+w004432.2 | gem, jewel, treasure | -
+w004433.1 | equal, colleague, fellow | -
+w004433.2 | squint, stare, gaze | -
+w004433.3 | noble, lord | commoner
+w004434.1 | - | -
+w004434.2 | - | -
+w004434.3 | sprinkle, scatter, fill | -
+w004435.1 | hog, swine | -
+w004435.2 | glutton, slob, swine | -
+w004435.3 | gorge, stuff | -
+w004436.1 | heap, stack, mound | -
+w004436.2 | lot, heap, load, mass | -
+w004436.3 | stack, heap, load | -
+w004436.4 | crowd, pour, cram | -
+w004438.1 | - | -
+w004438.2 | stopper, cork | -
+w004438.3 | block, fill, seal, stop | open
+w004438.4 | promote, advertise, push | -
+w004439.1 | supply | -
+w004439.2 | condition, term, clause, requirement | -
+w004439.3 | food | -
+w004441.1 | bar, pole, stick, staff | -
+w004441.2 | fishing rod, pole | -
+w004442.1 | shriek, yell, cry, screech | -
+w004442.2 | shout, yell, cry, roar | whisper
+w004442.3 | shriek, yell, cry, screech | -
+w004444.1 | - | -
+w004445.1 | perspiration | -
+w004445.2 | perspire | -
+w004445.3 | worry, fret | -
+w004446.1 | - | -
+w004446.2 | - | -
+w004447.1 | adolescent, teenaged, young | adult
+w004448.1 | - | -
+w004448.2 | roar, rumble, boom | -
+w004448.3 | rumble, boom | -
+w004448.4 | roar, rumble, boom | -
+w004449.1 | disaster, catastrophe, calamity | -
+w004449.2 | - | comedy
+w004450.1 | shock, distress, suffering | -
+w004450.2 | injury, wound | -
+w004451.1 | - | -
+w004451.2 | madhouse | -
+w000061.1 | average, mediocre, ordinary, okay | -
+w000061.2 | okay | -
+w000134.1 | - | two-way
+w000134.2 | single | return
+w000204.1 | - | full-time
+w000204.2 | - | full-time
+w000239.1 | - | -
+w000242.1 | homemade | -
+w000267.1 | night, darkness | daytime
+w000308.1 | - | part-time
+w000308.2 | - | part-time
+w000308.3 | - | -
+w000408.1 | interval, break | -
+w000456.1 | registration | -
+w000456.2 | reception | -
+w000468.1 | - | -
+w000473.1 | right | left-hand
+w000479.1 | excellent, superb, top, outstanding | inferior
+w000479.2 | - | economy
+w000479.3 | - | -
+w000502.1 | examination, checkup, physical | -
+w000583.1 | relaxed, laid-back, easy, calm | uptight
+w000586.1 | left | right-hand
+w000591.1 | used, secondhand | new
+w000591.2 | indirect | -
+w000591.3 | - | new
+w000606.1 | outdated, obsolete | up-to-date, modern
+w000606.2 | invalid | valid
+w000614.1 | modern, current, latest | out-of-date
+w000786.1 | continuous, constant, endless, ceaseless | -
+w000786.2 | direct | -
+w000786.3 | continuously, constantly | -
+w000847.1 | well-off | -
+w000864.1 | - | daughter-in-law
+w000874.1 | - | mother-in-law
+w000913.1 | - | father-in-law
+w000975.1 | - | -
+w000975.2 | - | -
+w001173.1 | - | son-in-law
+w001425.1 | - | -
+w001470.1 | new, unused, fresh | used, second-hand
+w001482.1 | - | -
+w001503.1 | - | local
+w001503.2 | - | -
+w001517.1 | famous, renowned, celebrated | unknown
+w001809.1 | - | -
+w001911.1 | tax-free | -
+w001911.2 | tax-free | -
+w002241.1 | - | -
+w002241.2 | - | -
+w002241.3 | - | -
+w002451.1 | teammate | opponent
+w002877.1 | - | -
+w002936.1 | smart, elegant, stylish | scruffy
+w003921.1 | - | -
+w004452.1 | - | -
+w004453.1 | - | -
+w004455.1 | - | -
+w004456.1 | - | -
+w004458.1 | agreement, conformity, line | -
+w004459.1 | get, obtain, gain, receive | lose
+w004459.2 | gain, learn, develop, pick up | lose
+w004459.3 | buy, purchase, take over | sell
+w004460.1 | campaigner, militant | -
+w004461.1 | similar, identical | different
+w004461.2 | similarly, equally | differently
+w004461.3 | equally | -
+w004462.1 | relevant, appropriate, suitable | irrelevant
+w004463.1 | - | -
+w004463.2 | pointer | -
+w004464.1 | - | unavailability
+w004464.2 | - | -
+w004465.1 | - | -
+w004466.1 | curve, twist, bow | straighten
+w004466.2 | stoop, bow, lean | straighten
+w004466.3 | curve, turn | -
+w004467.1 | border, edge, limit, frontier | -
+w004467.2 | limit, bound | -
+w004468.1 | violation, infringement, break | -
+w004468.2 | gap, hole, break, opening | -
+w004468.3 | break, violate, infringe | obey
+w004468.4 | break through, penetrate | -
+w004469.1 | hut, shack, cottage | -
+w004469.2 | compartment | -
+w004470.1 | - | -
+w004470.2 | confine, lock up, shut in | free, release
+w004471.1 | - | -
+w004471.2 | - | -
+w004471.3 | - | -
+w004472.1 | cupboard, wardrobe | -
+w004472.2 | secret, hidden | open
+w004472.3 | - | -
+w004473.1 | join, mix, merge, unite | separate
+w004473.2 | - | -
+w004473.3 | combine harvester | -
+w004474.1 | friend, partner, comrade | -
+w004474.2 | guide, handbook, manual | -
+w004475.1 | awareness | unconsciousness
+w004475.2 | awareness, knowledge, realization | ignorance
+w004476.1 | adviser, expert, specialist | -
+w004476.2 | specialist | -
+w004477.1 | - | -
+w004477.2 | director, manager | -
+w004477.3 | accountant | -
+w004478.1 | politeness, respect | rudeness
+w004478.2 | - | -
+w004478.3 | free, complimentary | -
+w004479.1 | difficult, hard, tough, challenging | easy
+w004479.2 | - | easy-going
+w004480.1 | disk, circle, plate | -
+w004480.2 | disk, record, CD | -
+w004480.3 | - | -
+w004482.1 | - | -
+w004482.2 | - | -
+w004483.1 | consulate | -
+w004483.2 | - | -
+w004484.1 | charming, attractive, appealing, pleasant | -
+w004485.1 | tight | loose
+w004485.2 | built-in | -
+w004485.3 | - | -
+w004486.1 | adaptable, adjustable | rigid, inflexible
+w004486.2 | bendy, elastic, supple | rigid, stiff
+w004487.1 | gosh, wow | -
+w004487.2 | virtue, kindness, decency | evil, badness
+w004487.3 | - | -
+w004488.1 | shame, remorse, regret | innocence
+w004488.2 | - | innocence
+w004489.1 | refuge, shelter, sanctuary | -
+w004489.2 | harbour, harbor, port | -
+w004490.1 | chopper | -
+w004491.1 | - | -
+w004492.1 | assignment | -
+w004492.2 | preparation, research | -
+w004493.1 | famous, classic, legendary | -
+w004493.2 | - | -
+w004494.1 | septic | -
+w004494.2 | - | -
+w004495.1 | eager, enthusiastic, interested | reluctant
+w004495.2 | sharp, acute, quick | dull
+w004495.3 | intense, strong, fierce | -
+w004496.1 | minor, inferior | -
+w004496.2 | less | -
+w004497.1 | - | -
+w004497.2 | rim, edge, brim | -
+w004497.3 | cheek, rudeness | -
+w004498.1 | compulsory, obligatory | optional, voluntary
+w004499.1 | simple, just, only | -
+w004499.2 | lake, pond | -
+w004500.1 | wonder, marvel | disaster
+w004500.2 | wonder | -
+w004501.1 | dirt, mire | -
+w004504.1 | surveillance, attention | -
+w004504.2 | remark, comment, statement | -
+w004506.1 | - | -
+w004506.2 | - | -
+w004506.3 | - | -
+w004507.1 | occurrence, event, happening | -
+w004507.2 | marvel, wonder, sensation | -
+w004508.1 | - | -
+w004508.2 | - | -
+w004509.1 | exact, accurate, correct | imprecise, inaccurate
+w004509.2 | careful, meticulous, exact | careless
+w004510.1 | career, occupation, job, vocation | -
+w004510.2 | - | -
+w004511.1 | chance, possibility, likelihood | -
+w004511.2 | outlook, future | -
+w004511.3 | candidate, possibility | -
+w004511.4 | search, explore | -
+w004512.1 | - | -
+w004512.2 | caring, defensive | -
+w004513.1 | - | -
+w004515.1 | allegedly, apparently, supposedly | -
+w004516.1 | withdraw, back off, retire, pull back | advance
+w004516.2 | back down, withdraw, back off | -
+w004516.3 | withdrawal, retirement | advance
+w004516.4 | refuge, haven, hideaway, sanctuary | -
+w004517.1 | beginner, newcomer, novice, recruit | veteran
+w004518.1 | - | -
+w004518.2 | squeeze, wedge, squash | -
+w004521.1 | division, parting, split | union, unity
+w004521.2 | split, break-up | -
+w004522.1 | - | -
+w004524.1 | - | -
+w004524.2 | - | -
+w004525.1 | skilful, expert, accomplished | unskilled
+w004525.2 | - | unskilled
+w004528.1 | - | -
+w004529.1 | robbery, burglary | -
+w004530.1 | er, uh | -
+w004531.1 | tap | -
+w004531.2 | - | -
+w004532.1 | permit | -
+w004533.1 | wash | -
+w004533.2 | laundry | -
+w004534.1 | - | -
+w004534.2 | - | -
+w004538.1 | - | -
+w004541.1 | - | -
+w004543.1 | neighbouring, next, nearby | distant
+w004544.1 | gratitude, thanks | ingratitude
+w004544.2 | enjoyment, admiration, regard | -
+w004544.3 | understanding, awareness, recognition | -
+w004545.1 | sporty, fit, strong, muscular | unfit
+w004545.2 | - | -
+w004546.1 | flag, sign, placard | -
+w004546.2 | - | -
+w004548.1 | appeal, attraction, charisma | -
+w004548.2 | amulet, talisman | -
+w004548.3 | delight, please, enchant, captivate | repel
+w004549.1 | - | -
+w004550.1 | territory, settlement, dependency | -
+w004550.2 | community, settlement | -
+w004550.3 | - | -
+w004552.1 | brutal, vicious, heartless, unkind | kind
+w004552.2 | harsh, severe, painful | -
+w004553.1 | syllabus, programme, course | -
+w004554.1 | - | -
+w004555.1 | - | -
+w004556.1 | - | -
+w004556.2 | - | -
+w004556.3 | difference, change | -
+w004557.1 | plunge, jump | -
+w004557.2 | plunge, swoop, dash, lunge | -
+w004557.3 | plunge, fall, drop, slump | rise, soar
+w004557.4 | plunge, jump | -
+w004557.5 | - | -
+w004558.1 | split, separate, break up, part | unite, join
+w004558.2 | share, split, distribute | -
+w004558.3 | - | multiply
+w004558.4 | gap, split, division, rift | -
+w004559.1 | - | -
+w004560.1 | - | -
+w004560.2 | team | -
+w004561.1 | being, body, thing | -
+w004562.1 | too much, extreme, undue, unreasonable | moderate, reasonable
+w004563.1 | - | -
+w004563.2 | - | -
+w004564.1 | ruling | -
+w004565.1 | - | -
+w004565.2 | - | -
+w004565.3 | - | -
+w004566.1 | cure, recover, mend | -
+w004566.2 | mend, repair, settle | -
+w004567.1 | - | -
+w004567.2 | connection, link | -
+w004567.3 | boundary | -
+w004567.4 | connect, interact | -
+w004568.1 | jewellery | -
+w004569.1 | reporting, the press | -
+w004572.1 | rainforest, forest | -
+w004572.2 | maze, mess | -
+w004573.1 | straight | -
+w004573.2 | sequential | -
+w004573.3 | - | -
+w004574.1 | infrequent, irregular, rare | frequent, regular
+w004575.1 | - | -
+w004577.1 | quest, search | -
+w004577.2 | chase, hunt | -
+w004577.3 | activity, hobby, pastime, interest | -
+w004578.1 | rap music | -
+w004578.2 | knock, tap, bang | -
+w004578.3 | blame | -
+w004578.4 | - | -
+w004578.5 | knock, tap, bang | -
+w004579.1 | memento, souvenir | -
+w004579.2 | - | -
+w004580.1 | restart, continue, carry on | stop, pause
+w004580.2 | return to, retake | -
+w004580.3 | CV | -
+w004581.1 | - | -
+w004581.2 | revolution | -
+w004583.1 | crest | -
+w004583.2 | - | -
+w004583.3 | - | -
+w004585.1 | clan, people | -
+w004585.2 | group, set, crowd | -
+w004586.1 | unlucky, hapless | fortunate, lucky
+w004586.2 | regrettable, inappropriate | -
+w004586.3 | - | -
+w004587.1 | factor | constant
+w004587.2 | changeable, inconsistent, uneven | constant, consistent
+w004587.3 | adjustable | fixed
+w004589.1 | disturbing, alarming | reassuring
+w004591.1 | - | -
+w004593.1 | - | -
+w004594.1 | - | -
+w004594.2 | - | -
+w004596.1 | - | -
+w004596.2 | expert, master, champion | -
+w004596.3 | - | -
+w004596.4 | excellent, great, brilliant | -
+w004596.5 | pass | fail
+w004597.1 | rotate, take turns, switch | -
+w004597.2 | every other | -
+w004597.3 | alternative, other, substitute | -
+w004597.4 | substitute, deputy | -
+w004598.1 | work of art | -
+w004598.2 | graphics | -
+w004600.1 | sportsman, sportswoman, sportsperson | -
+w004601.1 | sight | -
+w004601.2 | appeal, interest, fascination | repulsion
+w004601.3 | pull | repulsion
+w004602.1 | darling, honey, baby, sweetheart | -
+w004602.2 | - | -
+w004602.3 | baby, infant | -
+w004603.1 | insolvency, ruin, failure | -
+w004604.1 | - | -
+w004604.2 | rule, principle, standard | -
+w004604.3 | - | -
+w004606.1 | shutdown, closing | opening
+w004606.2 | - | -
+w004606.3 | closing | opening
+w004607.1 | mental | -

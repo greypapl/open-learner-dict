@@ -1,0 +1,41 @@
+w002220.1 | clutter, disorder | order
+w002236.1 | snug, close | loose
+w002254.1 | sadness, despair, gloom | -
+w002295.1 | ring, loop | -
+w002327.1 | - | -
+w002331.4 | tilt, lean, overturn | -
+w002361.3 | attraction, landmark | -
+w002376.1 | intimately, tightly | loosely
+w002388.1 | oceanic, maritime | -
+w002391.3 | climax | -
+w002400.2 | - | primary
+w002450.1 | high, big | short
+w002454.2 | - | -
+w002474.2 | padlock, bolt | -
+w002489.2 | treasure, belongings | -
+w002508.1 | quite, rather, pretty, reasonably | -
+w002556.1 | chase, track, stalk | -
+w002560.2 | young | senior
+w002566.1 | redo, restate, echo | -
+w002568.2 | approximate, general, vague | exact, precise
+w002606.3 | hurry, haste, bustle | -
+w002657.4 | dilute, reduce | thicken
+w002669.5 | limit, boundary | -
+w002721.1 | finding, detection | -
+w002740.3 | - | -
+w002797.4 | come along, follow | -
+w002811.1 | - | -
+w002814.1 | assured, sure, secure | insecure, shy
+w002827.4 | patter | -
+w002888.2 | expertise, proficiency, talent, ability | incompetence
+w002979.1 | pan, jar | -
+w003013.1 | fool, moron | genius
+w003030.2 | mirror | absorb
+w003081.2 | - | -
+w003177.2 | vulnerable, at risk | -
+w003239.1 | tasty, appetizing | disgusting
+w003244.4 | pour, stream, flock | -
+w003281.1 | complexity | ease
+w003289.1 | prodigy | idiot
+w003309.1 | rock, wave, jolt | -
+w003437.1 | - | -

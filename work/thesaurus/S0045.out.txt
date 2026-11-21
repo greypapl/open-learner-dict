@@ -1,0 +1,401 @@
+w009915.1 | scent, aroma, perfume | stink
+w009915.2 | perfume, scent | -
+w009917.1 | mould | -
+w009920.1 | shooting, fire | -
+w009921.1 | protagonist | villain
+w009921.2 | hero | coward
+w009922.1 | trick, fraud, fake, scam | -
+w009922.2 | trick, fool, deceive | -
+w009923.1 | coming, imminent | -
+w009924.1 | minor, trivial, unimportant, tiny | significant, important
+w009925.1 | - | -
+w009928.1 | informed, expert, learned | ignorant
+w009930.1 | underwear | -
+w009931.1 | light | -
+w009931.2 | light | -
+w009934.1 | conjuror | -
+w009934.2 | wizard, sorcerer | -
+w009936.1 | move, movement | -
+w009936.2 | tactic, scheme, plan, ploy | -
+w009936.3 | steer, guide, move | -
+w009936.4 | manipulate, scheme | -
+w009937.1 | - | -
+w009937.2 | core, essence, heart | -
+w009937.3 | - | -
+w009938.1 | wonderful, excellent, fantastic, superb | terrible, awful
+w009939.1 | - | -
+w009941.1 | - | stereo
+w009941.2 | - | -
+w009942.1 | dead | -
+w009942.2 | dazed | -
+w009942.3 | deaden, dull | -
+w009943.1 | miss, neglect, ignore | notice
+w009943.2 | ignore, excuse, forgive | -
+w009943.3 | face, look over | -
+w009944.1 | cake, tart | -
+w009944.2 | dough | -
+w009945.1 | - | -
+w009945.2 | puppet, tool | -
+w009945.3 | - | -
+w009946.1 | - | -
+w009947.1 | continue, remain, last, endure | stop, disappear
+w009947.2 | persevere, keep going, carry on | give up, quit
+w009948.1 | organizer | -
+w009948.2 | diary, calendar | -
+w009949.1 | - | -
+w009949.2 | bandage | -
+w009949.3 | - | -
+w009949.4 | cover, coat, smear | -
+w009950.1 | lively, fun, mischievous | serious
+w009950.2 | light-hearted | serious
+w009951.1 | appeal, plea | -
+w009951.2 | - | -
+w009951.3 | desperate | -
+w009952.1 | odd, unusual, eccentric, offbeat | conventional
+w009953.1 | allowance, share, limit | -
+w009955.1 | reason, reasoning, basis | -
+w009956.1 | gain, obtain, receive | -
+w009956.2 | harvest, gather | sow
+w009957.1 | bounce | -
+w009957.2 | recover, bounce back | fall
+w009957.3 | - | -
+w009957.4 | recovery, revival | decline
+w009958.1 | break, adjournment, holiday | -
+w009958.2 | break, playtime | -
+w009958.3 | alcove, niche | -
+w009959.1 | compensate, make up for | -
+w009959.2 | exchange, cash in | -
+w009959.3 | save, recover | -
+w009960.1 | reform, improvement | -
+w009960.2 | - | -
+w009961.1 | remainder, remains, rest | -
+w009962.1 | - | -
+w009962.2 | - | -
+w009963.1 | - | -
+w009964.1 | - | -
+w009964.2 | - | -
+w009965.1 | - | -
+w009966.1 | soppy, mushy, emotional | -
+w009966.2 | emotional, personal | rational
+w009967.1 | - | -
+w009967.2 | - | -
+w009967.3 | - | -
+w009968.1 | - | -
+w009968.2 | - | -
+w009969.1 | concurrent, parallel | -
+w009970.1 | grab, seize | -
+w009970.2 | grab, catch | -
+w009970.3 | fragment, bit, snippet | -
+w009971.1 | creepy, eerie, scary | -
+w009972.1 | - | -
+w009973.1 | secrecy | -
+w009973.2 | - | -
+w009974.1 | tense, uneasy, awkward | relaxed
+w009974.2 | artificial, unnatural | natural
+w009974.3 | tired, tense, worried | relaxed
+w009975.1 | - | -
+w009975.2 | - | -
+w009976.1 | tension, anticipation, uncertainty | -
+w009977.1 | - | -
+w009978.1 | grammar | -
+w009978.2 | grammar | -
+w009979.1 | bit, little | -
+w009980.1 | - | -
+w009980.2 | - | -
+w009982.1 | third | -
+w009982.2 | - | -
+w009983.1 | - | -
+w009983.2 | - | -
+w009984.1 | neat, orderly, clean | messy, untidy
+w009984.2 | clean, clear up, organize | mess up
+w009984.3 | large, considerable, substantial | -
+w009985.1 | classic, ageless | -
+w009987.1 | untrustworthy, undependable | reliable
+w009988.1 | cheerful, optimistic, positive | gloomy, pessimistic
+w009988.2 | - | downbeat
+w009989.1 | functional, working | unusable, useless
+w009990.1 | forefront, front, lead | rear
+w009991.1 | throw up | -
+w009991.2 | sick | -
+w009992.1 | crude, rude, coarse, dirty | -
+w009992.2 | tasteless, tacky, cheap | tasteful, refined
+w009993.1 | - | -
+w009993.2 | exemption | -
+w009995.1 | turning point, milestone | -
+w009995.2 | - | -
+w009996.1 | knit, interlace | -
+w009996.2 | create, compose | -
+w009996.3 | zigzag, wind | -
+w009996.4 | texture | -
+w009998.1 | - | -
+w010007.1 | - | -
+w010007.2 | - | -
+w010009.1 | - | -
+w010009.2 | - | -
+w010012.1 | - | -
+w010014.1 | ease, relieve, reduce, lessen | worsen, aggravate
+w010016.1 | chaos, disorder, lawlessness | order
+w010019.1 | - | aboard
+w010020.1 | air, atmosphere | -
+w010022.1 | - | -
+w010023.1 | novice, learner, newcomer | expert
+w010024.1 | - | monolingual
+w010024.2 | - | -
+w010028.1 | awning, cover | -
+w010028.2 | - | -
+w010030.1 | treasure, adore, love, prize | neglect
+w010030.2 | treasure, hold dear | -
+w010031.1 | laugh, giggle, chortle | -
+w010031.2 | laugh, giggle | -
+w010032.1 | advanced, cultured | primitive, uncivilized
+w010032.2 | polite, courteous, reasonable | rude
+w010033.1 | - | -
+w010033.2 | brush | -
+w010033.3 | search, scour | -
+w010034.1 | hide, cover, mask, disguise | reveal, show
+w010035.1 | criticism, disapproval, denunciation | praise
+w010035.2 | conviction | -
+w010036.1 | warship | -
+w010036.2 | patrol car | -
+w010036.3 | - | -
+w010037.1 | coil, twist, bend | straighten
+w010037.2 | huddle, nestle | -
+w010037.3 | ringlet, lock | -
+w010037.4 | coil, spiral, twist | -
+w010038.1 | dash, rush, shoot | -
+w010038.2 | - | -
+w010038.3 | - | -
+w010039.1 | - | -
+w010039.2 | jeans | -
+w010040.1 | dependence, reliance | independence
+w010040.2 | colony, territory | -
+w010040.3 | - | -
+w010041.1 | - | -
+w010042.1 | cripple, injure, incapacitate | -
+w010042.2 | deactivate, switch off | enable
+w010043.1 | deceitful, untruthful, crooked | honest
+w010044.1 | dose | -
+w010045.1 | unsure, uncertain | sure, certain
+w010045.2 | unlikely, questionable, dubious | likely
+w010046.1 | disorder, malfunction | -
+w010046.2 | malfunction, failure | -
+w010047.1 | - | -
+w010048.1 | donation, gift, grant, fund | -
+w010048.2 | gift, talent, ability | -
+w010049.1 | improvement, enhancement | -
+w010049.2 | - | -
+w010050.1 | build, construct, put up | demolish
+w010050.2 | upright, straight, vertical | -
+w010051.1 | - | -
+w010051.2 | construction, building | demolition
+w010052.1 | explosion | -
+w010052.2 | outbreak, outburst, explosion | -
+w010053.1 | marker | candidate
+w010053.2 | inspector | -
+w010055.1 | family | -
+w010055.2 | friend, mate | -
+w010056.1 | wildlife | flora
+w010057.1 | - | -
+w010058.1 | loyalty, faithfulness, devotion | infidelity
+w010058.2 | accuracy, precision | -
+w010059.1 | - | coarsely
+w010059.2 | delicately, precisely | -
+w010060.1 | - | -
+w010060.2 | toy with, play with | -
+w010060.3 | - | -
+w010061.1 | articulate, eloquent | -
+w010061.2 | smooth, effortless | awkward
+w010062.1 | - | -
+w010062.2 | - | -
+w010063.1 | footstep, track | -
+w010063.2 | impact | -
+w010063.3 | - | -
+w010064.1 | front, forefront | -
+w010064.2 | front | back, rear
+w010065.1 | front, lead, vanguard | -
+w010066.1 | - | saltwater
+w010066.2 | - | saltwater
+w010068.1 | set, solidify, stiffen | soften
+w010068.2 | toughen, strengthen | soften
+w010069.1 | horrible, nasty, unpleasant, detestable | lovely
+w010069.2 | hostile, spiteful | loving
+w010070.1 | evocative, moving, memorable | -
+w010070.2 | - | -
+w010071.1 | - | -
+w010075.1 | receive | -
+w010075.2 | take over | -
+w010076.1 | admission, induction | -
+w010076.2 | start, beginning, launch | end
+w010077.1 | extremely, deeply, strongly | mildly
+w010078.1 | danger, risk, peril | safety
+w010082.1 | - | speaker
+w010083.1 | - | -
+w010084.1 | - | -
+w010084.2 | tangerine | -
+w010084.3 | bureaucrat, official | -
+w010085.1 | - | -
+w010085.2 | pole | -
+w010086.1 | dull, flat | glossy, shiny
+w010087.1 | average, ordinary, second-rate, inferior | excellent, outstanding
+w010090.1 | - | -
+w010092.1 | external, apparent, surface | inward
+w010092.2 | outbound | inward, return
+w010092.3 | outwards | inward
+w010095.1 | energy, vigour, liveliness | -
+w010095.2 | invigorate | -
+w010096.1 | - | -
+w010096.2 | - | -
+w010097.1 | squad, unit | -
+w010098.1 | rehearse, train, drill | -
+w010098.2 | work | -
+w010098.3 | follow, observe | -
+w010099.1 | rave about, praise, enthuse | criticize
+w010099.2 | rant, rage | -
+w010099.3 | party | -
+w010100.1 | reproduce, rebuild | -
+w010102.1 | remaining, leftover | -
+w010102.2 | residue, remainder | -
+w010103.1 | gown | -
+w010103.2 | dressing gown, bathrobe | -
+w010104.1 | - | -
+w010104.2 | whisky | -
+w010105.1 | shocking, dramatic, thrilling | dull
+w010105.2 | wonderful, amazing, fantastic | terrible
+w010106.1 | discrimination | -
+w010107.1 | sly, devious, crafty | honest
+w010108.1 | outlet, power point | -
+w010108.2 | hollow | -
+w010108.3 | - | -
+w010109.1 | detail | -
+w010110.1 | hunger, famine | -
+w010111.1 | - | -
+w010111.2 | deprive | -
+w010112.1 | seat | -
+w010112.2 | faeces | -
+w010113.1 | hit | -
+w010113.2 | - | -
+w010114.1 | member | -
+w010115.1 | methodically, thoroughly | randomly
+w010118.1 | step, walk, trample | -
+w010118.2 | - | -
+w010118.3 | step, footstep | -
+w010119.1 | ceasefire, armistice | war
+w010120.1 | chaos, confusion, disorder, upheaval | calm, peace
+w010121.1 | oppression, dictatorship, despotism | freedom, democracy
+w010121.2 | domination | -
+w010122.1 | unsuitable, inadequate, unworthy | fit, suitable
+w010122.2 | out of shape, unhealthy | fit
+w010123.1 | support, maintain, defend | -
+w010123.2 | confirm, endorse | overturn, overrule
+w010124.1 | CV | -
+w010127.1 | dam | -
+w010128.1 | welfare, health, happiness | -
+w010130.1 | paradise | -
+w010131.1 | - | -
+w010134.1 | - | -
+w010136.1 | - | -
+w010136.2 | - | -
+w010136.3 | - | -
+w010138.1 | ending, termination, removal | establishment
+w010139.1 | access | -
+w010139.2 | - | -
+w010139.3 | clarity | -
+w010140.1 | out loud | silently
+w010141.1 | bony, lean, sharp | rounded
+w010141.2 | - | -
+w010142.1 | front | posterior
+w010143.1 | addendum, supplement | -
+w010143.2 | - | -
+w010145.1 | hall, theatre | -
+w010145.2 | - | stage
+w010148.1 | harmless | malignant
+w010148.2 | kind, gentle, kindly | hostile
+w010149.1 | - | -
+w010149.2 | whiten, lighten | darken
+w010150.1 | brag, show off | -
+w010150.2 | have, possess, feature | -
+w010150.3 | brag | -
+w010152.1 | cognac | -
+w010153.1 | - | -
+w010154.1 | verge, edge, threshold | -
+w010155.1 | bro | -
+w010156.1 | sculpture | -
+w010156.2 | sculpture | -
+w010159.1 | impudent, insolent | polite, respectful
+w010160.1 | - | -
+w010160.2 | pharmacist, pharmacy | -
+w010161.1 | coast, shore | -
+w010162.1 | - | -
+w010163.1 | cooperate, team up | -
+w010163.2 | - | resist
+w010164.1 | relatively | -
+w010165.1 | universe | chaos
+w010165.2 | - | -
+w010166.1 | - | -
+w010166.2 | handcuff | -
+w010166.3 | handcuff | -
+w010167.1 | hurricane, typhoon, storm | -
+w010168.1 | devote, commit | -
+w010168.2 | - | -
+w010169.1 | irrational | rational
+w010170.1 | testimony, statement | -
+w010170.2 | - | erosion
+w010170.3 | removal, overthrow | -
+w010171.1 | obtain, get, draw, gain | -
+w010171.2 | stem, originate, come | -
+w010172.1 | go down, come down, drop | ascend, climb
+w010172.2 | come | -
+w010173.1 | care, effort, industry | laziness
+w010174.1 | controlled, orderly | undisciplined
+w010175.1 | - | -
+w010175.2 | distinguish, differentiate, tell apart | -
+w010176.1 | detour, redirection | -
+w010176.2 | distraction | -
+w010176.3 | amusement, entertainment, pastime | -
+w010177.1 | entrance, doorstep | -
+w010178.1 | skip | -
+w010180.1 | strengthen, enable | -
+w010180.2 | authorize, entitle, enable | -
+w010181.1 | extract, passage, clip, quotation | -
+w010181.2 | extract, quote | -
+w010182.1 | existing, real | nonexistent
+w010184.1 | - | -
+w010184.2 | - | -
+w010185.1 | enemy, opponent, rival | friend, ally
+w010186.1 | escape | -
+w010186.2 | break, holiday, retreat | -
+w010187.1 | allure, charm, glitz | -
+w010189.1 | - | outbox
+w010190.1 | by the way | -
+w010190.2 | by chance | -
+w010191.1 | far, vastly, much | -
+w010191.2 | endlessly | -
+w010192.1 | flu | -
+w010193.1 | educational, teaching | -
+w010194.1 | - | interviewee
+w010195.1 | basic, elementary, beginner | advanced
+w010195.2 | opening, preliminary, initial | final
+w010195.3 | - | -
+w010197.1 | - | -
+w010199.1 | - | -
+w010199.2 | heather | -
+w010200.1 | attic | basement
+w010200.2 | - | -
+w010200.3 | lob | -
+w010202.1 | hugely, enormously, vastly | slightly
+w010203.1 | arbitration, negotiation | -
+w010204.1 | - | -
+w010205.1 | nourishment | -
+w010206.1 | ban, prohibit, forbid | legalize, allow
+w010206.2 | criminal, fugitive, bandit | -
+w010207.1 | supervise, manage, direct | -
+w010208.1 | - | -
+w010208.2 | parade, procession, spectacle | -
+w010209.1 | - | -
+w010209.2 | - | -
+w010210.1 | - | host
+w010210.2 | leech, freeloader, scrounger | -
+w010211.1 | - | -
+w010212.1 | lasting, constant | -
+w010212.2 | - | annual
+w010212.3 | - | annual

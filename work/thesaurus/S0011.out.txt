@@ -1,0 +1,402 @@
+w001699.1 | harbour, harbor | -
+w001699.2 | socket | -
+w001699.3 | - | starboard
+w001701.1 | attendance, existence | absence
+w001701.2 | - | -
+w001701.3 | charisma, bearing | -
+w001702.1 | response, reply | -
+w001702.2 | - | -
+w001702.3 | backlash, resistance | -
+w001703.1 | decrease, lower, cut, lessen | increase, raise
+w001704.1 | fire | -
+w001704.2 | film, photograph, record | -
+w001704.3 | - | -
+w001704.4 | sprout, bud | -
+w001704.5 | - | -
+w001705.1 | hard, firm | liquid
+w001705.2 | sturdy, strong, reliable, dependable | weak, flimsy
+w001705.3 | pure | hollow
+w001705.4 | - | liquid, gas
+w001706.1 | game | -
+w001706.2 | - | -
+w001706.3 | wear, display | -
+w001707.1 | pressure, tension, strain, worry | relaxation
+w001707.2 | emphasize, emphasise, highlight, underline | -
+w001707.3 | emphasis, accent | -
+w001707.4 | pressure, strain, tension | -
+w001708.1 | flavour, flavor | -
+w001708.2 | judgment | -
+w001708.3 | try, sample | -
+w001708.4 | - | -
+w001709.1 | - | -
+w001709.2 | - | -
+w001710.1 | win, success, triumph | defeat
+w001711.1 | - | -
+w001712.1 | - | -
+w001713.1 | helper, aide | -
+w001713.2 | - | -
+w001713.3 | deputy | -
+w001714.1 | timeless, great | -
+w001714.2 | typical | -
+w001714.3 | masterpiece | -
+w001715.1 | clothing | -
+w001716.1 | electrical | -
+w001716.2 | exciting, thrilling | -
+w001717.1 | crisis | -
+w001717.2 | - | -
+w001718.1 | completely, totally, fully, wholly | partly
+w001719.1 | - | success
+w001719.2 | flop, disaster | success
+w001719.3 | breakdown | -
+w001720.1 | celebration, holiday | -
+w001720.2 | - | -
+w001721.1 | level, even, smooth | uneven
+w001721.2 | apartment | -
+w001721.3 | - | -
+w001721.4 | fixed | -
+w001722.1 | - | -
+w001722.2 | feed, intensify | -
+w001722.3 | - | -
+w001724.1 | hi | goodbye
+w001724.2 | greeting | -
+w001725.1 | sick, unwell | well, healthy
+w001725.2 | badly | well
+w001725.3 | - | -
+w001726.1 | first, early, opening | final
+w001726.2 | - | -
+w001726.3 | - | -
+w001728.1 | boot | -
+w001728.2 | - | -
+w001728.3 | thrill | -
+w001728.4 | give up, quit | -
+w001730.1 | post | -
+w001730.2 | post | -
+w001730.3 | email | -
+w001730.4 | post, send | -
+w001731.1 | huge, enormous, vast, immense | tiny
+w001731.2 | heavy, solid | -
+w001732.1 | - | -
+w001732.2 | couple | -
+w001732.3 | match | -
+w001733.1 | aircraft, aeroplane, airplane | -
+w001733.2 | level | -
+w001733.3 | - | -
+w001733.4 | - | -
+w001734.1 | a lot | -
+w001734.2 | abundance, wealth | shortage
+w001734.3 | - | -
+w001735.1 | - | princess
+w001735.2 | - | -
+w001736.1 | appropriate, suitable, correct, right | improper
+w001736.2 | real | -
+w001736.3 | - | -
+w001738.1 | - | -
+w001738.2 | - | -
+w001738.3 | - | -
+w001738.4 | - | -
+w001739.1 | local | national
+w001741.1 | period | -
+w001741.2 | meeting | -
+w001741.3 | term | -
+w001742.1 | form, outline | -
+w001742.2 | condition, state | -
+w001742.3 | influence, form, mould | -
+w001744.1 | - | -
+w001745.1 | education | -
+w001745.2 | doctrine | -
+w001746.1 | towards | -
+w001746.2 | towards | -
+w001746.3 | towards | -
+w001747.1 | move, shift, pass | -
+w001747.2 | move, switch, change | -
+w001747.3 | move | -
+w001748.1 | top | lower
+w001748.2 | senior | lower
+w001748.3 | - | -
+w001749.1 | helpful, handy, practical | useless
+w001750.1 | - | hill, mountain
+w001751.1 | ready, prepared, happy | unwilling, reluctant
+w001751.2 | eager, keen | unwilling
+w001752.1 | area, region | -
+w001752.2 | - | -
+w001753.1 | crash | -
+w001753.2 | chance | -
+w001754.1 | modern, sophisticated | -
+w001754.2 | - | elementary, basic
+w001754.3 | - | early
+w001755.1 | option, choice | -
+w001755.2 | other, substitute | -
+w001755.3 | unconventional | traditional
+w001756.1 | - | nowhere
+w001757.1 | - | -
+w001757.2 | stand, tolerate, endure, put up with | -
+w001757.3 | carry, support | -
+w001757.4 | have, show | -
+w001758.1 | ship, vessel | -
+w001758.2 | sail | -
+w001759.1 | volume, size | -
+w001759.2 | ability | -
+w001759.3 | role, position | -
+w001760.1 | inexpensive | expensive
+w001760.2 | poor, shoddy | -
+w001760.3 | mean, stingy | generous
+w001761.1 | weather | -
+w001761.2 | atmosphere, mood | -
+w001762.1 | conversation, debate, talk | -
+w001763.1 | obligation, responsibility | -
+w001763.2 | task, job | -
+w001763.3 | tax, tariff | -
+w001764.1 | wonderful, great, amazing, excellent | terrible
+w001764.2 | imaginary, fanciful | realistic
+w001765.1 | - | -
+w001765.2 | - | -
+w001765.3 | brief, quick | -
+w001766.1 | - | -
+w001766.2 | director | -
+w001767.1 | - | -
+w001767.2 | - | -
+w001768.1 | - | -
+w001768.2 | industrialized | -
+w001769.1 | common, combined | separate, individual
+w001769.2 | - | -
+w001769.3 | connection, junction | -
+w001770.1 | combine, blend | separate
+w001770.2 | mingle, socialize | -
+w001770.3 | combination, mixture, blend | -
+w001771.1 | - | -
+w001772.1 | footpath, track, trail | -
+w001772.2 | course, route, track | -
+w001772.3 | way, route, road | -
+w001773.1 | swear, vow, pledge | -
+w001773.2 | pledge, vow, word | -
+w001773.3 | potential | -
+w001774.1 | buy | sell
+w001774.2 | - | sale
+w001774.3 | - | -
+w001775.1 | rainfall | -
+w001775.2 | pour | -
+w001776.1 | take away, take out, eliminate | add
+w001776.2 | take off | put on
+w001776.3 | dismiss, sack, fire | appoint
+w001777.1 | - | -
+w001777.2 | brace, prepare | -
+w001779.1 | awful, dreadful, horrible | wonderful, excellent
+w001779.2 | frightening, dreadful | -
+w001779.3 | awful, dreadful | -
+w001780.1 | sleepy, weary | energetic
+w001780.2 | bored, sick, fed up | -
+w001781.1 | turn, junction | -
+w001782.1 | weakness, fault | virtue
+w001782.2 | - | -
+w001782.3 | - | -
+w001783.1 | - | cool, cold
+w001783.2 | friendly, kind, kindly | cold, unfriendly
+w001783.3 | heat, heat up | cool
+w001784.1 | - | -
+w001784.2 | - | -
+w001785.1 | scared, frightened | brave
+w001785.2 | sorry | -
+w001786.1 | - | -
+w001787.1 | frontier, boundary | -
+w001787.2 | edge, margin | -
+w001787.3 | - | -
+w001788.1 | order, instruction | -
+w001788.2 | control, authority, charge | -
+w001788.3 | mastery, knowledge | -
+w001788.4 | order, lead, control | obey
+w001788.5 | earn, deserve | -
+w001789.1 | - | -
+w001789.2 | team, gang | -
+w001791.1 | throng, mass, mob | -
+w001791.2 | fill, pack, throng | -
+w001791.3 | set, group | -
+w001792.1 | - | -
+w001792.2 | - | -
+w001793.1 | opponent, rival, foe | friend, ally
+w001793.2 | foe | ally
+w001794.1 | guarantee, make sure, make certain | -
+w001795.1 | ecological | -
+w001796.1 | set, constant, permanent | variable, flexible
+w001796.2 | secure, attached | loose
+w001796.3 | - | -
+w001797.1 | wood | -
+w001797.2 | - | -
+w001799.1 | intellect, cleverness | stupidity
+w001799.2 | information | -
+w001800.1 | deliberate | accidental
+w001800.2 | - | -
+w001801.1 | work, toil, effort | -
+w001801.2 | workforce | management
+w001801.3 | - | -
+w001801.4 | work, toil, struggle | -
+w001802.1 | maximum, ceiling | -
+w001802.2 | edge, boundary, border | -
+w001802.3 | restrict, restrain, control | -
+w001803.1 | - | sun
+w001803.2 | satellite | -
+w001804.1 | sea | -
+w001804.2 | - | -
+w001805.1 | gain, earnings | loss
+w001805.2 | gain, benefit | lose
+w001805.3 | benefit, advantage, gain | -
+w001806.1 | evidence, confirmation | -
+w001806.2 | resistant | -
+w001806.3 | - | -
+w001807.1 | - | democrat
+w001807.2 | - | -
+w001807.3 | - | royalist
+w001808.1 | - | -
+w001808.2 | fit, satisfy, please | -
+w001808.3 | become | -
+w001808.4 | lawsuit, case, action | -
+w001810.1 | - | -
+w001810.2 | - | -
+w001812.1 | - | AM
+w001812.2 | - | -
+w001813.1 | look | -
+w001813.2 | arrival, emergence | disappearance
+w001813.3 | performance | -
+w001814.1 | lawyer, counsel | -
+w001814.2 | agent | -
+w001815.1 | behaviour, conduct | -
+w001817.1 | seat | -
+w001817.2 | chairman, chairperson, chairwoman | -
+w001817.3 | lead, head, run | -
+w001818.1 | - | -
+w001818.2 | obligation | -
+w001819.1 | national, internal | foreign, international
+w001819.2 | family, household | -
+w001819.3 | tame | wild
+w001820.1 | costly, dear, pricey | cheap, inexpensive
+w001821.1 | - | -
+w001822.1 | truly, really | -
+w001822.2 | truthfully, sincerely | dishonestly
+w001823.1 | privilege, credit | disgrace
+w001823.2 | respect, esteem | dishonour
+w001823.3 | celebrate, pay tribute to | -
+w001823.4 | keep, fulfil | break
+w001824.1 | leap, spring, hop | -
+w001824.2 | soar, rocket, leap | drop, fall
+w001824.3 | leap, spring, bound | -
+w001824.4 | rise, increase, leap | drop, fall
+w001826.1 | start, begin, initiate | -
+w001826.2 | release, introduce | -
+w001826.3 | fire | -
+w001826.4 | start, release | -
+w001827.1 | least | maximum
+w001827.2 | - | maximum
+w001828.1 | home | foreign
+w001828.2 | first | -
+w001828.3 | local, inhabitant | foreigner
+w001829.1 | famous, well-known | -
+w001830.1 | initially, at first, first | -
+w001830.2 | creatively | -
+w001831.1 | beam | -
+w001831.2 | glimmer | -
+w001831.3 | - | -
+w001833.1 | abruptly, unexpectedly, all of a sudden | gradually
+w001834.1 | top, chief | -
+w001834.2 | extreme, utmost | -
+w001835.1 | poll, questionnaire, study | -
+w001835.2 | poll, question | -
+w001835.3 | examine, inspect, view | -
+w001835.4 | - | -
+w001836.1 | technology | -
+w001836.2 | technician | -
+w001837.1 | modernize, revise | -
+w001837.2 | inform, brief | -
+w001837.3 | news, report | -
+w001838.1 | - | -
+w001839.1 | author | reader
+w001840.1 | - | -
+w001840.2 | - | -
+w001840.3 | - | -
+w001841.1 | - | -
+w001842.1 | old, prehistoric | modern
+w001842.2 | old, aged | new
+w001843.1 | joint, united, total | separate
+w001844.1 | contact | -
+w001844.2 | - | -
+w001844.3 | message, letter | -
+w001845.1 | related | unconnected
+w001845.2 | online | offline
+w001846.1 | - | upload
+w001846.2 | - | -
+w001847.1 | - | -
+w001847.2 | - | -
+w001848.1 | end, conclusion, finale | beginning
+w001848.2 | suffix | -
+w001849.1 | workout, training | -
+w001849.2 | task, drill, practice | -
+w001849.3 | work out, train | -
+w001849.4 | use, exert | -
+w001850.1 | show, convey, voice, state | -
+w001850.2 | fast, rapid | slow
+w001850.3 | - | -
+w001851.1 | run, stream, pour | -
+w001851.2 | stream, current, movement | -
+w001851.3 | - | -
+w001852.1 | partner, lover | boyfriend
+w001852.2 | friend | -
+w001853.1 | champion, idol | villain, coward
+w001853.2 | protagonist | villain
+w001854.1 | unlawful, criminal | legal, lawful
+w001855.1 | gag | -
+w001855.2 | kid | -
+w001856.1 | credit | -
+w001856.2 | - | -
+w001856.3 | lend | borrow
+w001857.1 | - | -
+w001857.2 | earth, world | -
+w001858.1 | - | -
+w001859.1 | - | -
+w001859.2 | - | -
+w001860.1 | tender | hard, firm
+w001860.2 | quiet, gentle, faint | loud, harsh
+w001860.3 | lenient, gentle | strict, harsh
+w001861.1 | fixed | loose
+w001861.2 | trapped | -
+w001862.1 | - | -
+w001862.2 | sweeten | -
+w001863.1 | amazed, astonished, shocked | -
+w001865.1 | transportation, transit | -
+w001865.2 | carry, convey, move | -
+w001869.1 | - | -
+w001869.2 | Islamic | -
+w001870.1 | standard | -
+w001871.1 | request, plea, call | -
+w001871.2 | attraction, charm | -
+w001871.3 | - | -
+w001871.4 | plead, beg, call | -
+w001871.5 | attract, interest | -
+w001871.6 | - | -
+w001872.1 | suitable, proper, right, fitting | inappropriate
+w001872.2 | seize, take | -
+w001873.1 | definite, established | -
+w001873.2 | - | -
+w001874.1 | gadget, machine, tool, instrument | -
+w001874.2 | method, means, trick | -
+w001875.1 | play | -
+w001875.2 | excitement | -
+w001876.1 | entrance, admission | exit
+w001876.2 | item | -
+w001876.3 | - | -
+w001877.1 | age, period, epoch | -
+w001878.1 | element, cause, aspect | -
+w001878.2 | - | -
+w001878.3 | - | -
+w001879.1 | nourish | starve
+w001879.2 | supply | -
+w001879.3 | - | -
+w001879.4 | fodder | -
+w001880.1 | gold | -
+w001880.2 | gold | -
+w001880.3 | excellent, precious | -
+w001881.1 | give, award, allow | refuse, deny
+w001881.2 | admit, concede, accept | deny
+w001881.3 | award, allowance | -
+w001882.1 | adult, mature | -
+w001883.1 | attorney, solicitor, barrister | -
+w001884.1 | error, fault, blunder | -
+w001884.2 | misunderstand, misread | -
+w001884.3 | confuse, mix up | -

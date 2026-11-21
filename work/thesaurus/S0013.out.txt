@@ -1,0 +1,400 @@
+w002087.1 | recognizable | unfamiliar, strange
+w002087.2 | - | unfamiliar
+w002087.3 | informal, intimate | -
+w002088.1 | ashamed, sorry | -
+w002088.2 | - | innocent
+w002090.1 | identification | -
+w002090.2 | - | -
+w002091.1 | mostly, mainly, chiefly | -
+w002092.1 | average, middle, moderate | -
+w002092.2 | means, channel | -
+w002092.3 | - | -
+w002093.1 | completely, totally, absolutely | -
+w002093.2 | flawlessly | badly
+w002095.1 | suggest, praise | -
+w002095.2 | advise, suggest, urge | -
+w002096.1 | related, applicable, pertinent | irrelevant
+w002097.1 | look for, search for | -
+w002097.2 | try, attempt, aim | -
+w002097.3 | ask for, request | -
+w002098.1 | - | -
+w002098.2 | - | -
+w002098.3 | alone | -
+w002099.1 | pass | -
+w002099.2 | fine | -
+w002099.3 | - | -
+w002100.1 | - | able
+w002101.1 | sad, worried, hurt | happy
+w002101.2 | hurt, distress, disturb | comfort
+w002101.3 | spoil, disrupt, ruin | -
+w002101.4 | - | -
+w002102.1 | - | -
+w002102.2 | - | -
+w002102.3 | - | -
+w002103.1 | explosive | -
+w002103.2 | bombard, attack | -
+w002103.3 | flop, fail | succeed
+w002104.1 | imaginative, inventive, original | -
+w002104.2 | - | -
+w002105.1 | circle, sequence | -
+w002105.2 | bike, ride | -
+w002105.3 | bike, bicycle | -
+w002107.1 | - | -
+w002107.2 | instructive, informative | -
+w002108.1 | amusement, fun | -
+w002108.2 | show, performance | -
+w002109.1 | intense, severe, great | mild
+w002109.2 | radical, fanatical | moderate
+w002109.3 | limit, extremity | -
+w002110.1 | amenity, service | -
+w002110.2 | feature, function | -
+w002110.3 | ease, talent, aptitude | -
+w002111.1 | merchandise, product | -
+w002111.2 | property, belongings | -
+w002112.1 | suspend | -
+w002112.2 | - | -
+w002112.3 | hang around, hang out | -
+w002113.1 | information | -
+w002114.1 | mostly, chiefly, largely, primarily | -
+w002115.1 | top, utmost | minimum
+w002115.2 | limit, most | minimum
+w002116.1 | paper | -
+w002116.2 | paper | -
+w002116.3 | - | -
+w002117.1 | sacrifice | -
+w002117.2 | product | -
+w002117.3 | collection, donation | -
+w002118.1 | picture | -
+w002118.2 | - | -
+w002118.3 | - | -
+w002120.1 | - | monarchy
+w002121.1 | book | -
+w002121.2 | keep, save, set aside | -
+w002121.3 | supply, stock, store | -
+w002121.4 | reservation, sanctuary | -
+w002121.5 | substitute | -
+w002122.1 | line, rank | -
+w002122.2 | paddle | -
+w002122.3 | - | -
+w002123.1 | - | -
+w002123.2 | - | -
+w002123.3 | - | -
+w002124.1 | frightened, afraid | brave
+w002126.1 | data | -
+w002126.2 | - | -
+w002127.1 | - | -
+w002127.2 | change, shift, swap | -
+w002127.3 | swap, exchange, trade | -
+w002127.4 | change, shift | -
+w002128.1 | land, region, area | -
+w002128.2 | field, area, domain | -
+w002128.3 | - | -
+w002129.1 | - | -
+w002129.2 | danger, risk, menace | -
+w002129.3 | risk, danger | -
+w002130.1 | - | -
+w002131.1 | - | -
+w002132.1 | influence, impact, change | -
+w002132.2 | move, touch | -
+w002132.3 | - | -
+w002133.1 | - | unarmed
+w002133.2 | - | -
+w002134.1 | away | -
+w002134.2 | - | -
+w002134.3 | - | -
+w002135.1 | help, support, aid | hindrance
+w002136.1 | - | -
+w002136.2 | ring | -
+w002137.1 | - | -
+w002137.2 | - | -
+w002137.3 | shock, setback | -
+w002137.4 | hit, punch, knock | -
+w002137.5 | blow up | -
+w002138.1 | tie, link, connection | -
+w002138.2 | - | -
+w002138.3 | - | -
+w002138.4 | stick, join | -
+w002139.1 | partner, lover | girlfriend
+w002140.1 | cautious | careless
+w002140.2 | thorough | careless
+w002141.1 | - | -
+w002141.2 | calm, restrained | -
+w002142.1 | company, firm, business | -
+w002143.1 | weep, sob | laugh
+w002143.2 | shout, call, yell | -
+w002143.3 | shout, yell, scream | -
+w002143.4 | demand, call | -
+w002144.1 | risk, peril | safety
+w002144.2 | threat, hazard, risk | -
+w002145.1 | - | -
+w002145.2 | birth, labour | -
+w002145.3 | - | -
+w002146.1 | earn, merit | -
+w002147.1 | - | -
+w002148.1 | bare, vacant | full
+w002148.2 | clear | fill
+w002148.3 | meaningless, hollow | meaningful
+w002149.1 | sex | -
+w002149.2 | - | -
+w002151.1 | example, case | -
+w002151.2 | case, occasion | -
+w002153.1 | somewhat, sort of, kind of | -
+w002154.1 | - | -
+w002154.2 | - | -
+w002155.1 | movement | -
+w002155.2 | movement, gesture | -
+w002155.3 | proposal | -
+w002155.4 | signal, gesture, wave | -
+w002157.1 | - | -
+w002157.2 | - | -
+w002157.3 | peaceful | -
+w002158.1 | award, reward | -
+w002158.2 | value, treasure | -
+w002158.3 | - | -
+w002159.1 | fair, sensible, rational | unreasonable
+w002159.2 | fair, affordable, moderate | expensive
+w002159.3 | decent, fair | -
+w002160.1 | enrol, sign up, record | -
+w002160.2 | list, record | -
+w002160.3 | show, record | -
+w002160.4 | - | -
+w002161.1 | decision | -
+w002161.2 | decision, commitment | -
+w002161.3 | - | -
+w002162.1 | country | urban
+w002164.1 | - | -
+w002164.2 | - | -
+w002165.1 | - | -
+w002166.1 | normal, standard, usual | unusual, atypical
+w002166.2 | characteristic | -
+w002167.1 | cosmos, space | -
+w002167.2 | world | -
+w002168.1 | caution, alert | -
+w002168.2 | notice | -
+w002169.1 | - | -
+w002170.1 | confess, acknowledge, concede, accept | deny
+w002170.2 | let in | -
+w002170.3 | - | -
+w002171.1 | view, opinion, outlook | -
+w002171.2 | - | -
+w002172.1 | bough, limb | -
+w002172.2 | office, division | -
+w002172.3 | division, section | -
+w002172.4 | divide, split | -
+w002173.1 | devoted | -
+w002173.2 | special | -
+w002174.1 | meaning, explanation | -
+w002174.2 | clarity, sharpness | -
+w002175.1 | sketch, picture | -
+w002175.2 | - | -
+w002175.3 | draw, lottery | -
+w002176.1 | kindness, service | -
+w002176.2 | approval, support | disapproval
+w002176.3 | prefer, support | oppose
+w002176.4 | - | -
+w002177.1 | banner | -
+w002177.2 | mark, highlight | -
+w002177.3 | tire, weaken, fade | -
+w002178.1 | border | -
+w002178.2 | framework, structure, skeleton | -
+w002178.3 | - | -
+w002178.4 | - | -
+w002179.1 | visitor | host
+w002179.2 | - | -
+w002179.3 | - | host
+w002180.1 | - | -
+w002181.1 | paradise | hell
+w002181.2 | paradise | hell
+w002181.3 | sky | -
+w002182.1 | freedom, liberty | dependence
+w002184.1 | - | -
+w002184.2 | - | -
+w002185.1 | cargo, burden | -
+w002185.2 | fill, pack | unload
+w002185.3 | lot, heap, mass | -
+w002185.4 | - | -
+w002186.1 | story, storyline | -
+w002186.2 | conspiracy, scheme | -
+w002186.3 | scheme, conspire | -
+w002186.4 | - | -
+w002187.1 | chance, likelihood | impossibility
+w002187.2 | option, choice | -
+w002188.1 | arbitrary, chance | -
+w002188.2 | odd, strange, weird | -
+w002189.1 | - | -
+w002189.2 | revival, improvement | -
+w002189.3 | return | loss
+w002190.1 | - | -
+w002190.2 | hire, lease | -
+w002190.3 | let, lease | -
+w002191.1 | substitute, supersede | -
+w002191.2 | change, substitute, swap | -
+w002191.3 | put back, return | remove
+w002192.1 | - | -
+w002192.2 | symbolize, stand for | -
+w002192.3 | portray, depict, describe | -
+w002193.1 | - | -
+w002194.1 | - | -
+w002194.2 | punishment, penalty | -
+w002194.3 | condemn | -
+w002198.1 | educational, scholarly | -
+w002198.2 | scholar, professor | -
+w002198.3 | theoretical | practical
+w002199.1 | school, college | -
+w002199.2 | - | -
+w002200.1 | correct, exact, precise | inaccurate
+w002201.1 | accomplish, reach, attain | fail
+w002202.1 | - | -
+w002202.2 | - | -
+w002202.3 | provide, give, offer | -
+w002203.1 | suppose, presume | -
+w002203.2 | take on, accept | -
+w002203.3 | take on, adopt | -
+w002204.1 | - | -
+w002204.2 | - | -
+w002205.1 | bundle, cluster | -
+w002205.2 | group, crowd, gang | -
+w002205.3 | lot, load | -
+w002206.1 | class, type, group, kind | -
+w002207.1 | talk | -
+w002207.2 | talk, conversation | -
+w002207.3 | - | -
+w002208.1 | - | -
+w002209.1 | substance | -
+w002209.2 | - | -
+w002211.1 | - | -
+w002211.2 | ambitious | -
+w002211.3 | - | -
+w002212.1 | point, fact, feature | -
+w002212.2 | list, describe | -
+w002212.3 | - | -
+w002213.1 | - | -
+w002213.2 | - | -
+w002213.3 | - | -
+w002214.1 | - | -
+w002214.2 | - | -
+w002214.3 | - | outsider
+w002215.1 | - | -
+w002215.2 | result, reward, product | -
+w002216.1 | - | -
+w002216.2 | - | -
+w002216.3 | - | -
+w002217.1 | thing, article, piece | -
+w002217.2 | story, report | -
+w002218.1 | - | -
+w002218.2 | - | -
+w002218.3 | - | -
+w002220.1 | - | order
+w002220.2 | muddle, trouble | -
+w002220.3 | - | tidy
+w002221.1 | - | -
+w002221.2 | - | -
+w002222.1 | usually, generally, typically | -
+w002222.2 | - | abnormally
+w002223.1 | resistance, objection | support
+w002223.2 | - | government
+w002223.3 | opponent, rival | -
+w002224.1 | - | child
+w002224.2 | - | -
+w002225.1 | lasting, eternal, constant | temporary
+w002226.1 | - | -
+w002226.2 | - | -
+w002226.3 | - | -
+w002227.1 | happiness, enjoyment, delight, joy | pain, displeasure
+w002227.2 | joy, delight | -
+w002228.1 | favour, favor | -
+w002229.1 | show | -
+w002229.2 | plan, schedule, scheme | -
+w002229.3 | course | -
+w002230.1 | delegate, agent | -
+w002230.2 | typical | unrepresentative
+w002230.3 | congressman | -
+w002231.1 | plan, programme, system | -
+w002231.2 | plot, trick | -
+w002231.3 | plot, plan | -
+w002232.1 | - | -
+w002232.2 | change, move | -
+w002232.3 | move, transfer | -
+w002232.4 | change, move, switch | -
+w002233.1 | - | -
+w002233.2 | memory | -
+w002234.1 | container | -
+w002234.2 | - | -
+w002234.3 | aquarium | -
+w002235.1 | - | -
+w002235.2 | look after, care for | neglect
+w002236.1 | close, narrow | loose
+w002236.2 | firm, secure | loose
+w002236.3 | - | -
+w002236.4 | firmly | loosely
+w002237.1 | transport | -
+w002237.2 | transport | -
+w002238.1 | finally, eventually, in the end | -
+w002238.2 | basically, fundamentally | -
+w002239.1 | - | like
+w002239.2 | - | -
+w002240.1 | - | -
+w002240.2 | - | -
+w002240.3 | - | -
+w002242.1 | garden | -
+w002242.2 | - | -
+w002242.3 | - | -
+w002244.1 | anyone | nobody
+w002244.2 | somebody | nobody
+w002245.1 | - | -
+w002246.1 | - | -
+w002246.2 | switch, key | -
+w002246.3 | fasten, do up | unbutton
+w002247.1 | fighting, battle, warfare | -
+w002247.2 | fight, tackle, oppose | -
+w002248.1 | charter | -
+w002248.2 | health | -
+w002248.3 | structure, composition | -
+w002249.1 | customer, buyer | producer
+w002250.1 | - | -
+w002250.2 | oppose, resist, answer | -
+w002250.3 | - | -
+w002250.4 | - | -
+w002250.5 | - | -
+w002251.1 | making, formation, production | destruction
+w002251.2 | work, invention, product | -
+w002251.3 | world, nature | -
+w002252.1 | - | -
+w002252.2 | throne, monarchy | -
+w002252.3 | - | -
+w002252.4 | - | -
+w002254.1 | - | -
+w002254.2 | recession, slump | boom
+w002254.3 | hollow | -
+w002255.1 | explain, portray, depict | -
+w002257.1 | work, job | unemployment
+w002257.2 | - | dismissal
+w002257.3 | use | -
+w002258.1 | sole, private | -
+w002258.2 | select, posh, luxury | -
+w002258.3 | scoop | -
+w002258.4 | incompatible | -
+w002259.1 | reason, explanation, pretext | -
+w002259.2 | forgive, pardon | blame
+w002259.3 | free, release | -
+w002260.1 | specialist, authority, master | beginner, amateur
+w002260.2 | skilled, skilful | amateur
+w002261.1 | often, regularly, repeatedly | rarely, seldom
+w002262.1 | - | -
+w002262.2 | - | -
+w002263.1 | elegance, poise | clumsiness
+w002263.2 | blessing, mercy | -
+w002263.3 | - | -
+w002263.4 | - | -
+w002264.1 | - | -
+w002265.1 | recognize, name | -
+w002265.2 | empathize, relate to | -
+w002266.1 | significance, value | unimportance
+w002268.1 | - | former
+w002268.2 | later | early
+w002269.1 | production | -
+w002270.1 | - | -
+w002271.1 | thing, item, article | -
+w002271.2 | aim, purpose, goal | -
+w002271.3 | protest, oppose | agree
+w002271.4 | - | subject

@@ -1,0 +1,400 @@
+w005527.1 | trolley | -
+w005527.2 | wagon | -
+w005527.3 | carry, haul, lug | -
+w005528.1 | - | -
+w005528.2 | chaos, madhouse | -
+w005530.1 | - | -
+w005532.1 | workmate | -
+w005533.1 | convincing, persuasive, powerful | unconvincing, weak
+w005533.2 | absorbing | boring, dull
+w005534.1 | build, erect, put up | demolish, destroy
+w005534.2 | form, create, put together | -
+w005534.3 | concept, idea, notion | -
+w005535.1 | string, rope, cable | -
+w005535.2 | cable, wire, lead | -
+w005536.1 | packed, busy, full, crammed | empty, deserted
+w005536.2 | packed, full | empty
+w005537.1 | - | -
+w005539.1 | accused | plaintiff
+w005540.1 | thick, compact, packed | sparse, thin
+w005540.2 | thick, heavy, impenetrable | thin, light
+w005540.3 | difficult, complex, heavy | simple, clear
+w005541.1 | frantically, urgently, hopelessly | -
+w005541.2 | extremely, terribly, badly | -
+w005542.1 | belief, creed, teaching, dogma | -
+w005542.2 | policy, principle | -
+w005543.1 | uncover, reveal, show, bare | cover, hide
+w005543.2 | reveal, uncover, unmask | cover up, conceal
+w005543.3 | subject, introduce | protect, shield
+w005544.1 | economically | -
+w005545.1 | - | senior
+w005545.2 | newcomer, beginner, novice | veteran
+w005546.1 | livid, angry, mad | calm, pleased
+w005546.2 | fierce, violent, intense, frantic | gentle, slow
+w005547.1 | - | -
+w005548.1 | - | -
+w005548.2 | layout, landscape, terrain | -
+w005549.1 | concert, show, performance | -
+w005549.2 | job | -
+w005549.3 | gigabyte | -
+w005550.1 | home, environment, territory | -
+w005551.1 | port, haven, dock | -
+w005551.2 | hold, nurse, bear, cherish | -
+w005551.3 | shelter, hide, protect | -
+w005552.1 | danger, risk, threat, peril | -
+w005552.2 | venture, risk, offer | -
+w005553.1 | - | -
+w005554.1 | whole, undamaged, complete, unbroken | broken
+w005555.1 | consumption | output
+w005555.2 | admission, enrolment | -
+w005555.3 | inlet | outlet, exhaust
+w005556.1 | unrelated, unconnected, beside the point | relevant
+w005557.1 | jawbone, chin | -
+w005557.2 | - | -
+w005559.1 | kitten, pussy | -
+w005559.2 | fund, pool, pot | -
+w005561.1 | grass, turf | -
+w005562.1 | make, produce, build, assemble | -
+w005562.2 | production, making | -
+w005562.3 | invent, fabricate, make up, concoct | -
+w005564.1 | wrong, incorrect | right, correct
+w005564.2 | wrong, misguided, false, erroneous | correct
+w005566.1 | - | -
+w005566.2 | syringe | -
+w005566.3 | pointer, hand | -
+w005567.1 | arrange, plan, set up, coordinate | -
+w005567.2 | arrange, sort, order, tidy | disorganize
+w005568.1 | elliptical | -
+w005568.2 | ellipse | -
+w005569.1 | shame | -
+w005569.2 | sympathy, compassion, mercy | cruelty
+w005569.3 | feel sorry for | envy
+w005570.1 | pool, lake | -
+w005571.1 | carrier | -
+w005571.2 | doorman, gatekeeper, caretaker | -
+w005572.1 | quarry, game | predator
+w005572.2 | victim, target | -
+w005572.3 | hunt, feed on | -
+w005573.1 | - | -
+w005573.2 | visionary, forecaster | -
+w005575.1 | vote, ballot, poll | -
+w005576.1 | exile, asylum seeker | -
+w005577.1 | round, curved | pointed, angular
+w005577.2 | balanced, well-rounded | narrow
+w005578.1 | - | -
+w005578.2 | crimson, scarlet, red | -
+w005579.1 | please, gratify, content | disappoint, dissatisfy
+w005579.2 | meet, fulfil, fill | -
+w005579.3 | convince, persuade, assure | -
+w005580.1 | - | -
+w005581.1 | wise, reasonable, rational, sound | foolish, silly
+w005581.2 | practical, comfortable | -
+w005582.1 | follow-up, continuation | prequel
+w005582.2 | consequence, result, outcome, aftermath | -
+w005583.1 | moving, unstable | stable, fixed
+w005584.1 | bright, shiny, glowing | dull
+w005584.2 | outstanding, excellent, brilliant | -
+w005586.1 | - | -
+w005586.2 | - | -
+w005587.1 | bent, crooked | straight
+w005587.2 | sick | -
+w005588.1 | - | -
+w005588.2 | flash drive | -
+w005589.1 | paddle, splash | -
+w005589.2 | plough, struggle | -
+w005590.1 | - | -
+w005592.1 | Latino | -
+w005592.2 | Latino | -
+w005594.1 | respect, esteem, look up to, praise | despise, scorn
+w005594.2 | appreciate, enjoy | -
+w005595.1 | - | -
+w005595.2 | - | -
+w005595.3 | golden, orange | -
+w005596.1 | - | -
+w005597.1 | armour, mail | -
+w005597.2 | shield | -
+w005598.1 | - | -
+w005599.1 | - | spinster
+w005599.2 | graduate | -
+w005600.1 | - | -
+w005603.1 | free enterprise | communism, socialism
+w005604.1 | care, prudence, carefulness | carelessness, recklessness
+w005604.2 | warning, caveat | -
+w005604.3 | warn, advise, alert | -
+w005605.1 | accreditation, certificate, qualification | -
+w005606.1 | feature, quality, trait, attribute | -
+w005606.2 | typical, distinctive, unique | uncharacteristic, untypical
+w005607.1 | family, tribe, dynasty | -
+w005607.2 | group, set, circle | -
+w005608.1 | conflict, fight, dispute, confrontation | agreement
+w005608.2 | fight, argue, quarrel | agree
+w005608.3 | conflict, jar, coincide | match, go together
+w005609.1 | interoperable | incompatible
+w005609.2 | - | incompatible
+w005610.1 | - | -
+w005610.2 | unsafe | -
+w005611.1 | setup | -
+w005611.2 | arrangement, layout, structure | -
+w005612.1 | constantly, continually, nonstop | -
+w005613.1 | persuasive, compelling, credible, plausible | unconvincing
+w005613.2 | decisive, clear, emphatic | narrow
+w005614.1 | inquisitiveness, interest | indifference
+w005614.2 | oddity, rarity, novelty | -
+w005615.1 | pleasure, joy, happiness | displeasure, disappointment
+w005615.2 | please, thrill, charm | disappoint, upset
+w005616.1 | - | -
+w005616.2 | volatile, unstable | -
+w005616.3 | volatile, tense, dangerous | calm
+w005617.1 | lucky | unfortunate, unlucky
+w005618.1 | luckily, happily, thankfully | unfortunately
+w005619.1 | border, boundary | -
+w005619.2 | limit, cutting edge | -
+w005619.3 | borderland, outback | -
+w005620.1 | annoyance, irritation, exasperation | satisfaction
+w005620.2 | obstruction, prevention | -
+w005621.1 | geographical | -
+w005624.1 | understand, comprehend, take in, get | misunderstand
+w005624.2 | grip, hold, clutch, seize | release, let go
+w005624.3 | understanding, comprehension, command | -
+w005625.1 | useful, convenient, helpful, practical | useless
+w005625.2 | nearby, close, accessible, at hand | -
+w005625.3 | skilful, practical | clumsy
+w005626.1 | dedicated | casual
+w005626.2 | extreme, intense | -
+w005626.3 | core | -
+w005627.1 | dangerous, hurtful | harmless, beneficial
+w005628.1 | - | -
+w005628.2 | problem, nuisance, hassle, pain | -
+w005629.1 | - | -
+w005630.1 | motivation, encouragement, stimulus, reward | deterrent, disincentive
+w005631.1 | open, tolerant | exclusive
+w005631.2 | including | exclusive
+w005633.1 | permit, license, certificate | -
+w005633.2 | freedom, liberty, latitude | -
+w005634.1 | folly, stupidity, insanity | sense
+w005634.2 | insanity, lunacy | sanity
+w005635.1 | authority, authorization | -
+w005635.2 | order, command, directive, instruction | -
+w005635.3 | require, order, decree | -
+w005636.1 | - | -
+w005637.1 | unforgettable, striking | forgettable
+w005638.1 | amalgamation, union | split
+w005640.1 | - | -
+w005640.2 | - | -
+w005641.1 | mobile, transportable, lightweight | fixed
+w005641.2 | laptop | -
+w005643.1 | arbitrarily, haphazardly, at random | systematically
+w005644.1 | quit, step down, leave | -
+w005644.2 | accept, reconcile | -
+w005645.1 | telling | -
+w005645.2 | skimpy | modest
+w005647.1 | theft, burglary, raid | -
+w005648.1 | massage, stroke, scrub, wipe | -
+w005648.2 | apply, spread, smear | -
+w005648.3 | massage, scrub, wipe | -
+w005650.1 | spread, dispersed, sparse, sporadic | concentrated
+w005650.2 | disorganized | organized
+w005651.1 | - | -
+w005651.2 | spy, talent scout | -
+w005651.3 | search, explore, look for, hunt | -
+w005653.1 | orientation | -
+w005653.2 | sex drive, sensuality | -
+w005654.1 | smack, hit, strike | -
+w005654.2 | smack, blow | -
+w005654.3 | toss, throw, plonk | -
+w005655.1 | - | -
+w005655.2 | fillet | -
+w005656.1 | series, sequence, string, chain | -
+w005656.2 | inheritance | -
+w005657.1 | manager, supervisor, director, administrator | -
+w005657.2 | - | -
+w005657.3 | caretaker, janitor | -
+w005658.1 | doubt, distrust | -
+w005658.2 | feeling, hunch, impression | -
+w005658.3 | distrust, mistrust, doubt | trust
+w005659.1 | brush, clean | -
+w005659.2 | spread, rush, race | -
+w005659.3 | brush, clean | -
+w005660.1 | strategic, calculated | -
+w005660.2 | - | strategic
+w005661.1 | - | -
+w005661.2 | counsellor, psychotherapist | -
+w005662.1 | afterwards, subsequently, later | previously
+w005663.1 | complete, comprehensive, detailed, full | superficial
+w005663.2 | careful, meticulous, methodical | careless, sloppy
+w005664.1 | - | -
+w005664.2 | teaching, instruction | -
+w005665.1 | growth, lump, tumour | -
+w005667.1 | - | retail
+w005667.2 | bulk | retail
+w005667.3 | widespread, extensive, mass, total | partial, limited
+w005670.1 | - | -
+w005671.1 | cannon | -
+w005671.2 | - | -
+w005673.1 | - | -
+w005673.2 | painting | -
+w005674.1 | gorge, ravine, valley | -
+w005676.1 | - | -
+w005676.2 | nerve, rudeness, impudence | respect
+w005678.1 | round | -
+w005678.2 | round | -
+w005678.3 | leaflet, flyer, notice | -
+w005679.1 | - | -
+w005679.2 | distribution, spread | -
+w005679.3 | readership | -
+w005680.1 | permission, authorization, approval | -
+w005680.2 | removal, clearing | -
+w005680.3 | space, gap, margin | -
+w005681.1 | chance, accident, fluke | -
+w005681.2 | concurrence, correspondence | -
+w005682.1 | comic, joker | -
+w005683.1 | strong | -
+w005683.2 | intense, determined | -
+w005684.1 | - | -
+w005684.2 | guilt, remorse, shame | -
+w005685.1 | icebox | -
+w005686.1 | innumerable, numerous, untold | few
+w005687.1 | - | -
+w005687.2 | - | -
+w005688.1 | - | -
+w005688.2 | woman, lady | -
+w005689.1 | dead, late | living, alive
+w005689.2 | dead | -
+w005690.1 | commitment, devotion, determination | indifference
+w005690.2 | inscription | -
+w005691.1 | custody, imprisonment, confinement | release
+w005691.2 | - | -
+w005693.1 | hire, engage, take on, recruit | dismiss, fire
+w005693.2 | use, apply, utilize | -
+w005694.1 | impose, apply, implement | -
+w005694.2 | force, compel, impose | -
+w005695.1 | clear, direct, specific, plain | implicit, vague
+w005695.2 | graphic, frank | -
+w005696.1 | clearly, directly, specifically | implicitly
+w005697.1 | influenza | -
+w005698.1 | illegal | -
+w005698.2 | taboo | -
+w005699.1 | bit, part, portion, little | whole
+w005699.2 | - | -
+w005701.1 | - | cavalry
+w005702.1 | essential, fundamental, vital, central | peripheral
+w005702.2 | built-in, inbuilt | -
+w005702.3 | - | -
+w005703.1 | backer, shareholder | -
+w005705.1 | gently, softly | heavily, hard
+w005705.2 | slightly, a little | heavily
+w005705.3 | casually, carelessly, flippantly | seriously
+w005706.1 | - | -
+w005706.2 | - | -
+w005707.1 | nautical, naval, marine | -
+w005707.2 | coastal | inland
+w005708.1 | thaw, dissolve, liquefy | freeze, solidify
+w005708.2 | soften, fade, disappear, vanish | harden
+w005710.1 | candidate | -
+w005711.1 | vow, pledge, promise | -
+w005711.2 | curse, swear word | -
+w005712.1 | crime, wrongdoing, violation | -
+w005712.2 | resentment, annoyance, insult | -
+w005713.1 | wrapping, packing, container | -
+w005713.2 | presentation, image | -
+w005714.1 | urinate, wee | -
+w005714.2 | urine, wee | -
+w005715.1 | cushion | -
+w005716.1 | - | -
+w005716.2 | copy | -
+w005716.3 | - | -
+w005717.1 | arctic | tropical
+w005717.2 | opposite, contrary | similar
+w005718.1 | forecast, prophecy | -
+w005719.1 | trailer, sneak preview | -
+w005719.2 | review, show | -
+w005720.1 | riddle, game | -
+w005720.2 | mystery, problem, enigma, riddle | -
+w005720.3 | confuse, baffle, perplex, mystify | -
+w005721.1 | - | -
+w005723.1 | restoration, renovation | destruction
+w005723.2 | - | -
+w005724.1 | famous, celebrated, well-known, noted | unknown, obscure
+w005725.1 | disclosure, exposure | concealment
+w005725.2 | discovery, surprise | -
+w005725.3 | - | -
+w005726.1 | academic, intellectual | -
+w005726.2 | - | -
+w005728.1 | - | -
+w005728.2 | circle, go round, border | -
+w005728.3 | avoid, evade, sidestep, dodge | confront, face
+w005729.1 | - | -
+w005729.2 | - | -
+w005730.1 | - | -
+w005731.1 | point, prong, spine | -
+w005731.2 | surge, jump, rise | drop, dip
+w005731.3 | soar, surge, jump, rise | fall, drop
+w005732.1 | dash, race, run, rush | stroll
+w005732.2 | dash, race | -
+w005733.1 | mix, beat, whisk | -
+w005733.2 | arouse, awaken, provoke, excite | calm
+w005733.3 | commotion, fuss, sensation, excitement | calm
+w005734.1 | considerably, significantly, greatly | slightly
+w005734.2 | essentially, largely, mainly | -
+w005735.1 | excellent, outstanding, brilliant, superior | poor, awful
+w005736.1 | allegedly, apparently, reportedly | -
+w005737.1 | label, tag, flap | -
+w005737.2 | - | -
+w005737.3 | bill, check, account | -
+w005738.1 | trend, inclination, habit | -
+w005739.1 | - | -
+w005740.1 | - | -
+w005740.2 | - | -
+w005740.3 | brown, grill | -
+w005740.4 | drink to, salute | -
+w005741.1 | landing | takeoff
+w005741.2 | - | -
+w005742.1 | journey, hike, march, trip | -
+w005742.2 | hike, march, tramp, trudge | -
+w005743.1 | difficult, awkward, delicate, tough | easy, simple
+w005743.2 | cunning, crafty, sly, deceitful | honest
+w005744.1 | victory, success, achievement | defeat, failure
+w005744.2 | joy, elation, jubilation | despair
+w005744.3 | win, succeed, prevail | fail, lose
+w005746.1 | lingerie | -
+w005747.1 | to, towards | -
+w005747.2 | until, till | -
+w005748.1 | feasible, workable, practical, possible | impractical, unworkable
+w005748.2 | - | -
+w005749.1 | middle, midriff | -
+w005749.2 | waistline, waistband | -
+w005750.1 | humour, wittiness | -
+w005750.2 | intelligence, sense | -
+w005750.3 | comedian, joker, comic | -
+w005751.1 | destroy, ruin, spoil | repair, restore
+w005751.2 | wreckage, remains, debris | -
+w005751.3 | mess | -
+w005753.1 | ridiculous, ludicrous, silly, nonsensical | sensible, reasonable
+w005756.1 | determined, aspiring | unambitious
+w005756.2 | grand, challenging, bold, demanding | modest
+w005757.1 | among, amidst, during | -
+w005758.1 | irritated, cross, angry, upset | pleased
+w005759.1 | attractive, charming | unappealing, unattractive
+w005760.1 | - | -
+w005760.2 | - | -
+w005761.1 | snip, steal, good deal | rip-off
+w005761.2 | negotiate, haggle | -
+w005761.3 | agreement, deal, pact | -
+w005762.1 | - | -
+w005762.2 | dual, twofold | -
+w005762.3 | - | -
+w005763.1 | mix, combine, mingle, merge | separate
+w005763.2 | mixture, combination, mix, fusion | -
+w005763.3 | harmonize, merge, fit in | clash
+w005765.1 | - | accelerator
+w005765.2 | slow down, stop | accelerate
+w005766.1 | businessperson, entrepreneur, trader | -
+w005767.1 | taxi | -
+w005767.2 | cabin | -
+w005768.1 | - | -
+w005768.2 | - | -
+w005770.1 | crash, impact, accident, bump | -
+w005770.2 | conflict, clash, confrontation | agreement
+w005771.1 | sympathy, pity, kindness, mercy | cruelty, indifference
+w005772.1 | rectification, amendment, adjustment | -
+w005772.2 | amendment, revision, alteration | -

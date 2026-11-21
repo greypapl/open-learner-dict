@@ -1,0 +1,400 @@
+w002693.1 | railroad | -
+w002694.1 | absurd, silly, ludicrous, crazy | sensible, reasonable
+w002695.1 | delicate, tender, responsive | insensitive
+w002695.2 | sympathetic, understanding, thoughtful, caring | insensitive
+w002695.3 | delicate, confidential, secret, tricky | -
+w002696.1 | - | client
+w002696.2 | waiter, waitress | -
+w002697.1 | surprise, blow, upset, trauma | -
+w002697.2 | stun, horrify, upset, appal | -
+w002697.3 | - | -
+w002697.4 | - | -
+w002698.1 | quiet, stillness, hush, calm | noise, sound
+w002698.2 | quiet, hush, mute, gag | -
+w002699.1 | trooper, fighter | civilian
+w002700.1 | better, excellent, superb | inferior
+w002700.2 | senior | junior, inferior
+w002700.3 | arrogant, snobbish, proud | humble
+w002700.4 | boss, senior, manager | subordinate
+w002701.1 | wide, broad, fat, deep | thin
+w002701.2 | dense, heavy, solid | thin
+w002701.3 | thickly, densely | thinly
+w002702.1 | change, shift, conversion, move | -
+w002702.2 | change, shift, move, switch | -
+w002703.1 | brutal, savage, aggressive, fierce | peaceful, gentle
+w002703.2 | intense, powerful, strong, fierce | mild, gentle
+w002704.1 | clean, rinse, scrub, bathe | -
+w002704.2 | sweep, flow, carry | -
+w002704.3 | clean, rinse | -
+w000316.1 | attractive, handsome, pretty, beautiful | ugly
+w000474.1 | famous, familiar, celebrated, popular | unknown, obscure
+w001643.1 | living room, lounge | -
+w001915.1 | adult | child
+w001915.2 | adult, mature | childish
+w002705.1 | - | -
+w002707.1 | - | alkali
+w002707.2 | sour, sharp | sweet
+w002707.3 | sharp, bitter, sarcastic | -
+w002708.1 | - | -
+w002709.1 | managerial, executive | -
+w002711.1 | beside, next to, together with, with | -
+w002711.2 | beside | -
+w002712.1 | - | devil
+w002712.2 | dear, darling, treasure, saint | devil
+w002713.1 | worry, nervousness, concern, fear | calm
+w002713.2 | eagerness, desire | -
+w002714.1 | extra, reward, prize | -
+w002714.2 | advantage, benefit, plus, extra | drawback
+w002715.1 | fortress, fort | -
+w002716.1 | foundation, trust | -
+w002716.2 | aid, help | -
+w002716.3 | kindness, compassion, generosity, goodwill | -
+w002717.1 | contrast, measure | -
+w002717.2 | liken, equate | -
+w002717.3 | compete, match | -
+w002718.1 | cookery | -
+w002718.2 | - | -
+w002719.1 | cover, layer, coating, coat | -
+w002720.1 | inquisitive, interested, eager | uninterested, indifferent
+w002720.2 | strange, odd, peculiar, weird | ordinary, normal
+w002721.1 | finding, detection, invention | -
+w002721.2 | finding, find, breakthrough | -
+w002722.1 | - | -
+w002723.1 | support, inspire, cheer, motivate | discourage
+w002723.2 | promote, boost, foster, stimulate | discourage, prevent
+w002724.1 | - | -
+w002725.1 | flicker, blaze, sparkle, glint | -
+w002725.2 | spark, flare, burst | -
+w002725.3 | - | -
+w002725.4 | dash, race, rush, speed | -
+w002726.1 | official, proper, regular | informal, unofficial
+w002726.2 | correct, proper, stiff, serious | informal, casual
+w002727.1 | equation, rule | -
+w002727.2 | recipe | -
+w002727.3 | method, recipe, plan, system | -
+w002728.1 | fortress, castle | -
+w002729.1 | grey | -
+w002729.2 | grey | -
+w002729.3 | grey, dull, gloomy, dreary | bright
+w002729.4 | grey | -
+w002730.1 | total, whole, entire | net
+w002730.2 | disgusting, revolting, nasty, horrible | -
+w002730.3 | flagrant, blatant, obvious, glaring | -
+w002730.4 | earn, make, take | -
+w002730.5 | total | net
+w002731.1 | ravenous | full
+w002731.2 | eager, keen, desperate, longing | -
+w002732.1 | knowledgeable, educated, aware | ignorant, uninformed
+w002732.2 | educated, reasoned | -
+w002733.1 | blameless, not guilty, clear | guilty
+w002733.2 | naive, pure, harmless, simple | experienced
+w002733.3 | - | -
+w002737.1 | mathematics, maths | -
+w002738.1 | puzzle, riddle, enigma, secret | -
+w002738.2 | secrecy, strangeness | -
+w002738.3 | thriller, whodunnit | -
+w002739.1 | - | -
+w002739.2 | mansion | hut
+w002740.1 | punishment, sanction | reward
+w002740.2 | fine, charge | -
+w002740.3 | penalty kick | -
+w002741.1 | - | -
+w002741.2 | stroke, pat | -
+w002741.3 | favourite, favorite | -
+w002741.4 | favourite, darling | -
+w002742.1 | - | -
+w002743.1 | demonstration, complaint, objection, march | -
+w002743.2 | object, complain, demonstrate, oppose | accept, support
+w002743.3 | insist, assert, declare, maintain | -
+w002744.1 | publishing, printing, issue, release | -
+w002744.2 | book, magazine, journal, title | -
+w002744.3 | announcement, disclosure, release | -
+w002745.1 | grade, score, ranking, assessment | -
+w002745.2 | audience | -
+w002746.1 | mention, speak of, cite | -
+w002746.2 | consult, look up, check | -
+w002746.3 | send, direct, pass on | -
+w002747.1 | - | -
+w002748.1 | choose, pick, opt for, single out | reject
+w002748.2 | exclusive, choice, elite | -
+w002749.1 | quiet, speechless, mute | talkative, noisy
+w002749.2 | quiet, soundless, still, noiseless | noisy, loud
+w002749.3 | - | -
+w002750.1 | oral, verbal | written
+w002751.1 | well, effectively | unsuccessfully
+w002752.1 | experience, undergo, endure, go through | -
+w002752.2 | hurt, ache, struggle | -
+w002752.3 | have | -
+w002753.1 | shrine, church | -
+w002753.2 | - | -
+w002754.1 | path, track, route, footpath | -
+w002754.2 | track, trace, mark, line | -
+w002754.3 | track, follow, hunt, chase | -
+w002754.4 | drag, pull, tow | -
+w002754.5 | lose, fall behind | lead
+w002755.1 | - | aunt
+w002756.1 | strange, odd, rare, uncommon | usual, common
+w002756.2 | distinctive, unique, original, special | ordinary
+w002757.1 | hey, hello, hi | -
+w002759.1 | Muslim | -
+w002761.1 | coming, appearance, entrance | departure
+w002761.2 | newcomer | -
+w002762.1 | attack, raid, charge, strike | defence
+w002762.2 | attack, battery | -
+w002762.3 | attack, beat, hit | -
+w002763.1 | knowledge, understanding, consciousness | ignorance
+w002764.1 | poorly, inadequately | well
+w002764.2 | seriously, severely, gravely | slightly
+w002764.3 | desperately, very much, greatly | -
+w002765.1 | wash, soak | -
+w002765.2 | bathtub, tub | -
+w002765.3 | wash, bathe | -
+w002766.1 | pursue, follow, run after, hunt | -
+w002766.2 | pursue, seek, go after | -
+w002766.3 | pursuit, hunt | -
+w002767.1 | cement | -
+w002767.2 | definite, real, specific, solid | abstract, vague
+w002767.3 | - | -
+w002767.4 | cement | -
+w002769.1 | greatly, very, extremely, profoundly | slightly
+w002769.2 | far, deep | -
+w002770.1 | description, account, clarification, interpretation | -
+w002770.2 | reason, excuse, justification | -
+w002771.1 | - | protection
+w002771.2 | disclosure, revelation | -
+w002771.3 | - | -
+w002772.1 | - | fact
+w002772.2 | invention, lie, fantasy | fact, truth
+w002773.1 | promise, ensure, assure, pledge | -
+w002773.2 | promise, pledge, assurance | -
+w002773.3 | warranty | -
+w002774.1 | joy, pleasure, contentment, delight | unhappiness, sadness
+w002776.1 | awful, terrible, dreadful, nasty | lovely, pleasant
+w002776.2 | frightening, shocking, horrific | -
+w002777.1 | perfect, model | -
+w002777.2 | principle, standard, goal, model | -
+w002779.1 | myth, tale, story, fable | -
+w002779.2 | hero, icon, star, celebrity | -
+w002779.3 | key, caption | -
+w002780.1 | - | -
+w002780.2 | deputy, assistant | -
+w002781.1 | small, tiny, little, miniature | -
+w002781.2 | miniskirt | -
+w002782.1 | feeling, temper, humour | -
+w002782.2 | temper, sulk | -
+w002782.3 | atmosphere, feeling, climate, spirit | -
+w002783.1 | - | -
+w002783.2 | strength, power, force, clout | weakness
+w002783.3 | push, force, shove | -
+w002784.1 | love, enthusiasm, desire, devotion | indifference
+w002784.2 | love, obsession, hobby, interest | -
+w002784.3 | emotion, fury, rage, anger | -
+w002785.1 | happy, glad, satisfied, delighted | unhappy
+w002786.1 | process, method, system, practice | -
+w002786.2 | operation, treatment | -
+w002787.1 | - | -
+w002787.2 | manufacturer, maker, supplier | consumer
+w002788.1 | position, level, grade, status | -
+w002788.2 | rate, grade, place, classify | -
+w002788.3 | row, line, column | -
+w002788.4 | smelly, foul | -
+w002789.1 | substitution, exchange, change | -
+w002789.2 | substitute, successor | predecessor
+w002790.1 | - | working
+w002791.1 | - | -
+w002791.2 | beach, desert | -
+w002791.3 | smooth, polish | -
+w002792.1 | nest egg | debt
+w002795.1 | stable, steady, fixed, established | unsettled
+w002795.2 | resolved | unsettled
+w002795.3 | comfortable, at home, at ease | unsettled
+w002796.1 | outline, silhouette | -
+w002796.2 | shade, darkness, gloom | light
+w002796.3 | follow, tail, trail, track | -
+w002796.4 | shade, darken | -
+w002797.1 | label, ticket, sticker | -
+w002797.2 | label, mark | -
+w002797.3 | - | -
+w002797.4 | tag along, come along, go along | -
+w002798.1 | sticky tape | -
+w002798.2 | cassette, video, recording | -
+w002798.3 | stick, fasten | -
+w002798.4 | record, film, video | -
+w002799.1 | string, yarn, cotton | -
+w002799.2 | theme, line, strand | -
+w002799.3 | discussion, conversation | -
+w002799.4 | pass, string, ease | -
+w002801.1 | pay, salary, earnings, income | -
+w002801.2 | carry on, conduct, fight | -
+w002805.1 | - | -
+w002809.1 | street, road, boulevard | -
+w002809.2 | way, means, route, path | -
+w002810.1 | dull, tedious, uninteresting, tiresome | interesting, exciting
+w002811.1 | watch | -
+w002811.2 | record, register, reach | -
+w002812.1 | official, administrator | -
+w002812.2 | chief, head | -
+w002813.1 | promise, pledge, undertaking | -
+w002813.2 | dedication, devotion, loyalty | -
+w002813.3 | obligation, responsibility, duty, engagement | -
+w002814.1 | secure | insecure, shy
+w002814.2 | sure, certain, positive | doubtful
+w002815.1 | tradition, practice, convention, ritual | -
+w002815.2 | habit, practice, routine | -
+w002815.3 | - | standard
+w002815.4 | business, trade | -
+w002816.1 | - | -
+w002816.2 | counter, reception | -
+w002817.1 | - | -
+w002817.2 | - | -
+w002817.3 | head | -
+w002818.1 | power, current, energy | -
+w002819.1 | gymnasium | -
+w002819.2 | PE, gymnastics | -
+w002820.1 | useful, valuable, beneficial, handy | useless, unhelpful
+w002820.2 | kind, obliging, supportive, cooperative | unhelpful
+w002821.1 | terror, fear, dread, shock | -
+w002821.2 | - | -
+w002821.3 | nightmare, atrocity | -
+w002823.1 | tag, sticker, ticket | -
+w002823.2 | tag, mark | -
+w002823.3 | brand, call, describe | -
+w002823.4 | brand, company | -
+w002825.1 | nude, bare | dressed
+w002825.2 | bare, exposed | covered
+w002825.3 | open, obvious, blatant | hidden
+w002826.1 | production, yield, product | input
+w002826.2 | - | input
+w002826.3 | produce, generate | input
+w002827.1 | throw, toss, hurl, fling | -
+w002827.2 | field, ground | -
+w002827.3 | tone, key | -
+w002827.4 | sales pitch, patter | -
+w002827.5 | propose, suggest, present | -
+w002827.6 | put up, set up, erect | -
+w002828.1 | - | -
+w002829.1 | simple, basic, bare | fancy, ornate
+w002829.2 | clear, obvious, evident, apparent | unclear
+w002829.3 | grassland, prairie, flat | -
+w002829.4 | unattractive, ordinary, homely | beautiful, attractive
+w002829.5 | simply, completely, utterly | -
+w002830.1 | back, end, tail | front
+w002830.2 | back, hind | front
+w002830.3 | raise, bring up, breed | -
+w002830.4 | - | -
+w002831.1 | disclose, tell, expose | hide, conceal
+w002831.2 | show, display, uncover, expose | hide, conceal
+w002832.1 | loving, affectionate, tender, passionate | -
+w002832.2 | idealistic, unrealistic, impractical | realistic, practical
+w002832.3 | dreamer, idealist | realist
+w002833.1 | tactical | -
+w002834.1 | swim | -
+w002835.1 | well-being, health, good, happiness | -
+w002835.2 | social security | -
+w002836.1 | cable | -
+w002836.2 | cable, lead, cord | -
+w002836.3 | connect | -
+w002836.4 | transfer, send | -
+w002837.1 | labourer, employee | -
+w002837.2 | employee, staff | employer
+w002839.1 | - | -
+w002845.1 | later, after, subsequently, then | before, beforehand
+w002846.1 | all right, OK, fine, okay | -
+w002846.2 | all right, OK, fine, well | -
+w002846.3 | OK, okay, all right, fine | -
+w002848.1 | rage, fury, annoyance, temper | calm, pleasure
+w002848.2 | annoy, enrage, irritate, infuriate | please, calm
+w002849.1 | design, building | -
+w002849.2 | design, style | -
+w002849.3 | design, structure | -
+w002850.1 | help, aid, support | hinder
+w002850.2 | - | -
+w002852.1 | - | -
+w002853.1 | strap, band | -
+w002853.2 | zone, area, region, strip | -
+w002853.3 | band | -
+w002853.4 | hit, punch, smack, strike | -
+w002854.1 | catch, seize, arrest, trap | release, free
+w002854.2 | take, seize, conquer, occupy | lose
+w002854.3 | record, express, convey, catch | -
+w002854.4 | arrest, seizure | release
+w002855.1 | ritual, service, celebration, rite | -
+w002855.2 | formality, ritual, pomp | informality
+w002856.1 | comic book, cartoon | -
+w002856.2 | funny, comical, humorous, amusing | tragic, serious
+w002856.3 | comedian | -
+w002858.1 | creator, planner, inventor | -
+w002858.2 | - | -
+w002859.1 | - | -
+w002859.2 | rhombus | -
+w002859.3 | - | -
+w002860.1 | let down, unhappy, sad, upset | satisfied, pleased
+w002861.1 | - | naked
+w002861.2 | - | -
+w002862.1 | - | -
+w002862.2 | - | -
+w002863.1 | effective, productive, economical | inefficient
+w002863.2 | capable, competent, effective, organized | inefficient
+w002864.1 | electric | -
+w002865.1 | basically, fundamentally, mainly, really | -
+w002866.1 | business, company, organization, institution | -
+w002866.2 | creation, foundation | -
+w002866.3 | ruling class | -
+w002868.1 | bloom, blossom | -
+w002868.2 | bloom, blossom | -
+w002868.3 | flourish, thrive, bloom, blossom | decline
+w002869.1 | spirit, spectre, phantom | -
+w002869.2 | - | -
+w002869.3 | trace, hint, shadow | -
+w002871.1 | - | -
+w002872.1 | - | -
+w002873.1 | - | -
+w002873.2 | search, hunt | -
+w002875.1 | equipment, gear, set, outfit | -
+w002875.2 | set | -
+w002875.3 | gear, uniform, outfit | -
+w002876.1 | laboratory | -
+w002878.1 | minute | -
+w002878.2 | minimum | max
+w002879.1 | anxious, worried, tense, uneasy | calm, relaxed
+w002879.2 | - | -
+w002879.3 | anxious, timid, jumpy | calm
+w002880.1 | recently, just, freshly, lately | -
+w002881.1 | strange, weird, unusual, peculiar | normal, ordinary
+w002881.2 | - | even
+w002881.3 | occasional, irregular, random | regular
+w002882.1 | normal, usual, common, regular | unusual, extraordinary
+w002882.2 | average, plain, unremarkable, dull | extraordinary, special
+w002883.1 | take part, join in, engage | -
+w002884.1 | worship | -
+w002884.2 | - | -
+w002884.3 | hope, wish, plea | -
+w002885.1 | bigoted | -
+w002885.2 | bigot | -
+w002886.1 | seldom, hardly ever, infrequently | often, frequently
+w002887.1 | attractive, seductive, hot, sensual | unattractive
+w002887.2 | exciting, trendy, fashionable, cool | dull, boring
+w002888.1 | ability, talent, technique, art | -
+w002888.2 | skilfulness, expertise, talent, ability | incompetence
+w002889.1 | earth, ground, dirt | -
+w002889.2 | land, territory, ground | -
+w002889.3 | dirty, stain, mark, pollute | clean
+w002890.1 | resolve, settle, sort out, fix | -
+w002890.2 | work out, figure out, answer, crack | -
+w002891.1 | belly, tummy, gut | -
+w002891.2 | belly, tummy, abdomen | -
+w002891.3 | tolerate, stand, bear, put up with | -
+w002892.1 | draw, sip | blow
+w002892.2 | lick | -
+w002892.3 | stink | rock
+w002893.1 | rubbish, garbage, waste, junk | -
+w002893.2 | rubbish, junk, garbage, nonsense | -
+w002893.3 | wreck, destroy, ruin, smash | -
+w002893.4 | criticize, slam, attack | praise
+w002894.1 | unattractive, hideous, plain | beautiful, attractive
+w002894.2 | nasty, threatening, dangerous, hostile | pleasant
+w002896.1 | germ, bug | -
+w002896.2 | infection, bug | -
+w002896.3 | malware | -
+w002897.1 | pedestrian, hiker | -
+w002897.2 | - | -

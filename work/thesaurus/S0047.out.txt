@@ -1,0 +1,400 @@
+w010509.1 | frightened, worried, scared, anxious | calm, relaxed
+w010509.2 | - | -
+w010510.1 | ammunition | -
+w010512.1 | collection | -
+w010513.1 | anyway, in any case, nevertheless | -
+w010513.2 | carelessly, untidily | carefully, neatly
+w010514.1 | - | -
+w010514.2 | copy, imitate, mimic | -
+w010515.1 | inspector, accountant | -
+w010515.2 | - | -
+w010516.1 | - | -
+w010516.2 | flood, wave, torrent | trickle
+w010517.1 | - | -
+w010517.2 | pester, nag, bother | -
+w010518.1 | - | -
+w010518.2 | furious, livid | calm
+w010519.1 | chat | -
+w010519.2 | joke, tease, chat | -
+w010521.1 | buyer, offerer | seller
+w010523.1 | hit, smash, success | flop
+w010524.1 | plan, design, scheme, model | -
+w010524.2 | plan, drawing, design | -
+w010525.1 | - | batsman
+w010525.2 | - | -
+w010525.3 | - | -
+w010526.1 | - | -
+w010526.2 | - | -
+w010527.1 | - | -
+w010527.2 | - | -
+w010528.1 | charming, magnetic | dull
+w010529.1 | - | -
+w010531.1 | beginning, start, opening, outset | end, conclusion
+w010531.2 | graduation | -
+w010532.1 | admit, acknowledge, accept, grant | deny
+w010532.2 | give in, surrender, yield | -
+w010532.3 | give up, surrender, yield, hand over | -
+w010533.1 | competitor, participant, entrant | -
+w010534.1 | inconsistent, opposing | consistent
+w010535.1 | nunnery | -
+w010536.1 | talk, chat, speak | -
+w010536.2 | opposite, reverse | -
+w010536.3 | opposite, reverse, contrary | -
+w010537.1 | rust, erosion, decay | -
+w010538.1 | cot, cradle | -
+w010538.2 | home, house, place, pad | -
+w010538.3 | copy, cheat, plagiarize | -
+w010539.1 | junction, intersection | -
+w010539.2 | turning point | -
+w010540.1 | greatly, deeply, very much | -
+w010540.2 | - | cheaply
+w010541.1 | resistance, disobedience, rebellion | obedience
+w010542.1 | discourage, prevent, put off, stop | encourage
+w010543.1 | - | -
+w010543.2 | cafe, restaurant | -
+w010545.1 | temperament, nature, character, personality | -
+w010545.2 | tendency, inclination | -
+w010545.3 | arrangement, placement | -
+w010546.1 | joy, delight, bliss, rapture | misery, agony
+w010546.2 | - | -
+w010547.1 | - | -
+w010547.2 | - | -
+w010548.1 | - | -
+w010548.2 | - | -
+w010550.1 | ambassador, representative, diplomat | -
+w010551.1 | expiry, end | -
+w010551.2 | exhalation | inhalation
+w010552.1 | clearly, explicitly, plainly | -
+w010552.2 | specially, specifically, particularly | -
+w010553.1 | lie, invention, falsehood | truth
+w010553.2 | manufacture, production, construction | -
+w010554.1 | - | -
+w010554.2 | - | -
+w010554.3 | - | -
+w010555.1 | interest, obsession | boredom
+w010555.2 | attraction, appeal, charm | -
+w010556.1 | - | -
+w010557.1 | alien, stranger | native
+w010557.2 | outsider, stranger | insider
+w010558.1 | development, creation, expression | -
+w010558.2 | mixture, formula, preparation | -
+w010559.1 | head-on, direct | rear
+w010559.2 | - | -
+w010559.3 | - | -
+w010560.1 | goalkeeper, keeper | -
+w010561.1 | slope, incline | -
+w010561.2 | - | -
+w010562.1 | sauce | -
+w010562.2 | bonus, windfall | -
+w010565.1 | - | -
+w010566.1 | - | -
+w010566.2 | - | -
+w010567.1 | frantic, uncontrollable | calm
+w010567.2 | hilarious | -
+w010568.1 | - | -
+w010568.2 | insert, transplant | remove
+w010568.3 | instil, fix | -
+w010569.1 | - | compatible
+w010569.2 | - | compatible
+w010570.1 | order, ban | -
+w010570.2 | order, command, instruction | -
+w010571.1 | inborn, natural, inherent, intrinsic | learned
+w010572.1 | theme | -
+w010572.2 | main, principal | -
+w010573.1 | abduct, seize, snatch | release
+w010573.2 | abduction | -
+w010575.1 | - | -
+w010576.1 | encouraging, inspirational | -
+w010576.2 | - | -
+w010578.1 | - | -
+w010578.2 | - | -
+w010579.1 | - | -
+w010580.1 | despite, in spite of | -
+w010580.2 | nevertheless, however, still | -
+w010582.1 | - | -
+w010582.2 | standstill, shutdown | -
+w010583.1 | calmly | impatiently
+w010584.1 | foot | -
+w010584.2 | scratch, claw | -
+w010584.3 | grope, fondle | -
+w010585.1 | - | -
+w010586.1 | - | -
+w010588.1 | delay, put off, defer | advance
+w010589.1 | gradually, steadily, increasingly | suddenly
+w010589.2 | - | -
+w010590.1 | prepare | -
+w010590.2 | unnerve, intimidate | -
+w010590.3 | psychology | -
+w010591.1 | - | -
+w010591.2 | kick | -
+w010591.3 | pole | -
+w010593.1 | recurrence, duplication | -
+w010593.2 | repeat | -
+w010594.1 | - | -
+w010594.2 | reflective | prospective
+w010594.3 | retroactive | -
+w010595.1 | amend, change, correct, edit | -
+w010595.2 | study, review | -
+w010596.1 | virtue, goodness, justice, morality | wickedness, evil
+w010596.2 | smugness | -
+w010597.1 | wash, clean, flush | -
+w010597.2 | wash | -
+w010597.3 | - | -
+w010600.1 | - | -
+w010600.2 | resell, tout | -
+w010600.3 | - | -
+w010601.1 | safe | exposed
+w010601.2 | - | -
+w010602.1 | - | -
+w010602.2 | - | -
+w010603.1 | blind | -
+w010603.2 | - | -
+w010603.3 | close, shut down | open
+w010604.1 | - | -
+w010605.1 | guess, wonder, suppose | -
+w010605.2 | gamble, invest | -
+w010606.1 | - | -
+w010607.1 | crouch | stand
+w010607.2 | occupy | -
+w010607.3 | stocky, dumpy | tall, slender
+w010608.1 | casserole | -
+w010608.2 | simmer, braise | -
+w010608.3 | worry, fret, sulk | -
+w010611.1 | design, style | -
+w010611.2 | hairdressing | -
+w010612.1 | magnificent, glorious, superb | ridiculous
+w010612.2 | - | ridiculous
+w010613.1 | - | bitterness, sourness
+w010613.2 | kindness, gentleness, charm | bitterness
+w010614.1 | cooperation, collaboration | -
+w010615.1 | - | -
+w010616.1 | earthly | celestial
+w010616.2 | land | aquatic
+w010616.3 | - | -
+w010617.1 | prickle, spine | -
+w010617.2 | - | -
+w010618.1 | hooligan, ruffian, gangster | -
+w010619.1 | - | -
+w010619.2 | breast | -
+w010619.3 | idiot, fool | -
+w010621.1 | - | -
+w010621.2 | - | -
+w010621.3 | - | -
+w010622.1 | discover, reveal, expose, find out | conceal, hide
+w010622.2 | reveal, expose | cover
+w010623.1 | abnormal, strange, odd | natural, normal
+w010623.2 | artificial | natural
+w010624.1 | unbeatable | -
+w010625.1 | in advance, beforehand | -
+w010625.2 | frank, honest, direct, open | -
+w010625.3 | advance | -
+w010626.1 | quickly, immediately | -
+w010627.1 | purity, chastity | -
+w010629.1 | dock, quay, pier, jetty | -
+w010630.1 | grapple, struggle, fight | -
+w010630.2 | struggle, grapple, battle | -
+w010635.1 | contralto | soprano
+w010635.2 | - | -
+w010636.1 | analyze, examine, study, investigate | -
+w010637.1 | irregularity, abnormality, oddity, exception | norm
+w010638.1 | opening, hole, gap, slit | -
+w010638.2 | - | -
+w010639.1 | training, traineeship | -
+w010640.1 | aim, strive, hope, seek | -
+w010641.1 | - | -
+w010642.1 | - | -
+w010643.1 | width, wideness | length
+w010643.2 | range, scope, extent | narrowness
+w010644.1 | waterfall | -
+w010644.2 | flood, torrent, stream, series | -
+w010644.3 | pour, flow, tumble, stream | -
+w010645.1 | burn, scorch, blacken | -
+w010646.1 | clean, wash | dirty
+w010646.2 | purify, purge | -
+w010647.1 | harmony, agreement, peace | discord
+w010647.2 | treaty, agreement, pact | -
+w010647.3 | agreement | -
+w010648.1 | plug, joint, coupling | -
+w010650.1 | strengthen, reinforce, secure | weaken
+w010650.2 | combine, merge, unite, unify | separate
+w010651.1 | control, restraint | -
+w010652.1 | connector, link | -
+w010652.2 | pairing, union, combination | separation
+w010653.1 | box, case | -
+w010653.2 | pack, box | unpack
+w010654.1 | desire, long for, yearn for, want | -
+w010655.1 | perilously, riskily | safely
+w010657.1 | whirlpool, swirl, vortex | -
+w010657.2 | swirl, whirl | -
+w010658.1 | evasive, slippery | -
+w010659.1 | intelligence | -
+w010660.1 | - | -
+w010660.2 | - | -
+w010661.1 | testing, research, trial | -
+w010662.1 | bottom, backside, behind | -
+w010662.2 | - | -
+w010663.1 | - | -
+w010663.2 | memory, recollection | -
+w010665.1 | - | -
+w010665.2 | chimney, smokestack | -
+w010665.3 | channel, direct, pipe, pour | -
+w010667.1 | shine, sheen, lustre, polish | -
+w010667.2 | gloss over, cover up, play down | -
+w010667.3 | explanation, note, annotation | -
+w010668.1 | transplant, implant | -
+w010668.2 | transplant, implant, attach | -
+w010668.3 | corruption, bribery | -
+w010669.1 | grouchy, irritable, cranky | cheerful
+w010670.1 | disguise, appearance, pretence, front | -
+w010671.1 | quiet, silence, shush | -
+w010671.2 | silence, quiet, stillness | noise
+w010671.3 | shh, shush | -
+w010672.1 | mimicry | -
+w010672.2 | copy, fake, replica, forgery | original
+w010672.3 | fake, artificial, synthetic | real, genuine
+w010673.1 | absorption, involvement, engagement | -
+w010673.2 | submersion | -
+w010673.3 | - | -
+w010674.1 | awkward, troublesome, inopportune | convenient
+w010675.1 | inherent, innate, essential, fundamental | extrinsic
+w010676.1 | overwhelming, overpowering | -
+w010676.2 | - | -
+w010679.1 | landslip, mudslide | -
+w010679.2 | walkover | -
+w010680.1 | lead | -
+w010680.2 | tether, restrain | unleash
+w010681.1 | transformation, revamp | -
+w010683.1 | mother | pater
+w010685.1 | memo, note | -
+w010685.2 | - | -
+w010687.1 | - | merman
+w010690.1 | restraint, self-control, temperance | excess
+w010690.2 | - | -
+w010691.1 | - | -
+w010693.1 | aristocracy | -
+w010693.2 | dignity, honour, virtue | -
+w010694.1 | system | -
+w010695.1 | - | offstage
+w010695.2 | - | offstage
+w010696.1 | trial, nightmare, torment, hardship | -
+w010697.1 | bullock, steer | -
+w010698.1 | - | painlessly
+w010698.2 | extremely, terribly, excruciatingly | -
+w010699.1 | supernatural | normal
+w010701.1 | - | -
+w010702.1 | - | -
+w010703.1 | courteously, respectfully | rudely
+w010704.1 | - | -
+w010705.1 | adolescence | -
+w010706.1 | - | -
+w010707.1 | politely, courteously, humbly | disrespectfully, rudely
+w010708.1 | reconsider, review | -
+w010708.2 | reconsideration, review | -
+w010709.1 | critic | -
+w010709.2 | examiner, inspector, checker | -
+w010710.1 | revise, rework, redraft | -
+w010710.2 | revision, redraft | original
+w010711.1 | - | -
+w010713.1 | county | -
+w010714.1 | cut, slot, opening, gash | -
+w010714.2 | cut, slash, slice | -
+w010715.1 | filling | -
+w010715.2 | filling | -
+w010716.1 | subpoena, writ | -
+w010716.2 | call, order, command | -
+w010718.1 | ban, prohibition | -
+w010718.2 | forbidden | acceptable
+w010719.1 | trailer, preview | -
+w010719.2 | puzzle, riddle, brainteaser | -
+w010721.1 | accelerator | -
+w010721.2 | strangle, choke | -
+w010721.3 | suppress, restrict, stifle | -
+w010722.1 | fashionable, stylish, cool | unfashionable
+w010723.1 | - | -
+w010723.2 | - | -
+w010724.1 | chaotic, unstable, stormy, troubled | calm, peaceful
+w010724.2 | rough, choppy, stormy | calm, smooth
+w010725.1 | intolerable, unendurable, insufferable | bearable, tolerable
+w010726.1 | minor, under age | adult
+w010727.1 | single, unwed | married
+w010728.1 | unclearly, indistinctly, dimly | clearly
+w010728.2 | slightly, somewhat, faintly | -
+w010729.1 | whirlpool, whirlwind, eddy | -
+w010730.1 | coupon, token | -
+w010731.1 | rod, stick, baton | -
+w010733.1 | advertisement, ad, commercial | -
+w010735.1 | pseudonym, nickname | -
+w010735.2 | - | -
+w010737.1 | irritate, bother, upset, anger | please, calm
+w010738.1 | - | antigen
+w010739.1 | disciple | -
+w010739.2 | advocate, supporter, champion | opponent
+w010740.1 | shocking, horrifying, dreadful, terrible | -
+w010740.2 | terrible, dreadful, awful | excellent
+w010741.1 | clap, cheer | boo
+w010741.2 | praise, commend, admire | criticize, condemn
+w010744.1 | slavery, servitude, captivity | freedom
+w010745.1 | tedium, dullness, monotony | excitement, interest
+w010746.1 | archer | -
+w010747.1 | excellently, superbly, cleverly | badly
+w010747.2 | brightly, dazzlingly | dimly
+w010748.1 | - | -
+w010751.1 | - | -
+w010751.2 | - | -
+w010753.1 | chemistry | -
+w010754.1 | - | -
+w010754.2 | - | -
+w010754.3 | auburn | -
+w010755.1 | clean-up | -
+w010755.2 | purge | -
+w010757.1 | make up, form, constitute | -
+w010757.2 | write, create | -
+w010757.3 | calm | -
+w010758.1 | brief, short, succinct, terse | wordy
+w010759.1 | imprisonment, detention, custody | release, freedom
+w010759.2 | restriction, limitation | -
+w010760.1 | - | -
+w010760.2 | advice | -
+w010761.1 | reduction | expansion
+w010761.2 | - | -
+w010761.3 | abbreviation | -
+w010762.1 | different, opposing, contrary | similar
+w010763.1 | meeting, union | divergence
+w010765.1 | standard, measure, benchmark | -
+w010766.1 | subtraction, reduction | addition
+w010766.2 | inference, conclusion, reasoning | -
+w010767.1 | contemptible, vile, shameful, disgraceful | admirable
+w010768.1 | indifference, aloofness, objectivity | involvement
+w010768.2 | unit, squad | -
+w010768.3 | separation, removal | attachment
+w010769.1 | dialogue, conversation | monologue
+w010769.2 | - | -
+w010770.1 | - | -
+w010770.2 | - | -
+w010771.1 | decrease, reduce, lessen, decline | increase, grow
+w010771.2 | belittle, downplay, undermine | -
+w010772.1 | - | -
+w010773.1 | cut off, unplug, detach | connect
+w010773.2 | gap, mismatch | connection
+w010774.1 | unfair, biased | fair
+w010775.1 | troublesome, unruly, disorderly | -
+w010775.2 | innovative, revolutionary, radical | -
+w010778.1 | constantly, continually, ceaselessly | -
+w010779.1 | fan, lover, devotee, fanatic | -
+w010780.1 | - | -
+w010781.1 | estimate, calculation, assessment | -
+w010781.2 | opinion, judgment, view, regard | -
+w010782.1 | alcohol | -
+w010783.1 | dig | -
+w010783.2 | dig, site | -
+w010784.1 | radical, fanatic, militant | moderate
+w010784.2 | radical, fanatical, extreme | moderate
+w010785.1 | - | -
+w010785.2 | branch, tributary | -
+w010786.1 | torch | -
+w010787.1 | complimentary | unflattering
+w010787.2 | - | unflattering
+w010788.1 | violently | voluntarily
+w010790.1 | wreath, crown | -
+w010790.2 | wreathe, decorate | -
+w010791.1 | globalisation | -

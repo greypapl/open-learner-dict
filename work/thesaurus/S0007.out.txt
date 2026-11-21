@@ -1,0 +1,402 @@
+w000967.1 | - | -
+w000967.2 | - | -
+w000967.3 | - | -
+w000968.1 | - | -
+w000968.2 | money | -
+w000968.3 | capital letter | -
+w000968.4 | - | -
+w000969.1 | board, council | -
+w000970.1 | meeting, convention | -
+w000970.2 | meeting, discussion | -
+w000971.1 | contrast, distinction | similarity
+w000971.2 | gap | -
+w000971.3 | disagreement, argument | agreement
+w000972.1 | twice | single
+w000972.2 | - | halve
+w000972.3 | - | single
+w000972.4 | - | -
+w000972.5 | twin, lookalike | -
+w000973.1 | anticipate, predict | -
+w000973.2 | require | -
+w000973.3 | suppose, think, believe | -
+w000974.1 | - | -
+w000974.2 | - | -
+w000974.3 | petrol, gasoline | -
+w000974.4 | - | -
+w000976.1 | - | -
+w000977.1 | usual, typical, ordinary, regular | abnormal, unusual
+w000977.2 | norm, average | -
+w000978.1 | people | -
+w000978.2 | - | -
+w000979.1 | possible, likely, future | actual
+w000979.2 | promise, capability | -
+w000979.3 | - | -
+w000980.1 | stress, strain | -
+w000980.2 | force | -
+w000980.3 | force, push, press | -
+w000981.1 | - | -
+w000981.2 | - | -
+w000981.3 | - | -
+w000981.4 | - | -
+w000982.1 | stop | -
+w000982.2 | channel | -
+w000982.3 | - | -
+w000982.4 | post, place | -
+w000983.1 | script | -
+w000983.2 | message | -
+w000983.3 | message | -
+w000984.1 | care, therapy | -
+w000984.2 | - | -
+w000984.3 | process | -
+w000985.1 | - | eastern
+w000985.2 | - | eastern
+w000985.3 | - | -
+w000987.1 | bottom, behind | -
+w000987.2 | idiot, fool | -
+w000987.3 | donkey | -
+w000988.1 | start, opening | end
+w000988.2 | origin, start | -
+w000989.1 | drive, movement | -
+w000989.2 | - | -
+w000989.3 | fight, push | -
+w000989.4 | operation | -
+w000990.1 | definitely, surely, undoubtedly | -
+w000990.2 | of course, sure | -
+w000991.1 | totally, entirely, fully | partly
+w000992.1 | - | -
+w000992.2 | level, amount | -
+w000992.3 | satisfied, happy, pleased | -
+w000992.4 | satisfy | -
+w000993.1 | - | -
+w000993.2 | praise, recognition | blame
+w000993.3 | - | -
+w000993.4 | - | blame
+w000993.5 | - | debit
+w000994.1 | pass | -
+w000994.2 | - | -
+w000994.3 | intersect | -
+w000994.4 | angry, annoyed | -
+w000995.1 | in spite of, notwithstanding | -
+w000997.1 | - | male
+w000997.2 | woman | male
+w000997.3 | - | male
+w000998.1 | concentrate | -
+w000998.2 | centre, center | -
+w000998.3 | - | -
+w000999.1 | hello, hey | bye
+w001000.1 | - | wife
+w001001.1 | - | -
+w001001.2 | frost, chill | -
+w001002.1 | single, personal, separate | collective
+w001002.2 | person | group
+w001003.1 | absorbing | boring, dull
+w001005.1 | enter, enrol | leave
+w001005.2 | connect, link, attach | separate
+w001005.3 | meet | leave
+w001006.1 | top, chief, main | minor
+w001007.1 | note | -
+w001007.2 | meaning, point | -
+w001007.3 | text | -
+w001008.1 | almost, practically | -
+w001009.1 | specific | general
+w001009.2 | fussy, choosy | -
+w001009.3 | detail, fact | -
+w001010.1 | former, earlier, prior | next, following
+w001011.1 | fast, rapidly | slowly
+w001012.1 | area, zone | -
+w001012.2 | area | -
+w001013.1 | part, piece | whole
+w001013.2 | department, division | -
+w001013.3 | divide, separate | -
+w001014.1 | kind, type | -
+w001014.2 | arrange, organize, classify | -
+w001014.3 | solve, fix | -
+w001015.1 | pace, rate | -
+w001015.2 | race, rush, hurry | -
+w001015.3 | - | -
+w001016.1 | journey | -
+w001016.2 | move, go | -
+w001016.3 | - | -
+w001021.1 | think about, weigh | ignore
+w001021.2 | regard, believe | -
+w001021.3 | allow for | ignore
+w001022.1 | communication, touch | -
+w001022.2 | reach, call | -
+w001022.3 | touch | -
+w001022.4 | connection | -
+w001023.1 | fall | lift
+w001023.2 | fall, decrease, decline | rise
+w001023.3 | abandon, give up | -
+w001023.4 | drip | -
+w001023.5 | fall, decrease, decline | rise, increase
+w001024.1 | just, reasonable, equal | unfair
+w001024.2 | reasonable, decent | -
+w001024.3 | blond, light, pale | dark
+w001024.4 | carnival, festival | -
+w001026.1 | child | adult
+w001026.2 | joke, tease | -
+w001026.3 | - | -
+w001027.1 | connection, relationship | -
+w001027.2 | connect, join | separate
+w001027.3 | - | -
+w001029.1 | optimistic, hopeful, confident | negative
+w001029.2 | sure, certain, confident | unsure
+w001029.3 | - | negative
+w001029.4 | advantage, plus | negative
+w001030.1 | - | purchase
+w001030.2 | - | -
+w001030.3 | sales | -
+w001031.1 | during | -
+w001031.2 | - | -
+w001032.1 | trip, journey | -
+w001032.2 | - | -
+w001032.3 | travel, visit | -
+w001033.1 | hello | -
+w001033.2 | greet, receive | -
+w001033.3 | appreciate | reject
+w001033.4 | pleasant | unwelcome
+w001033.5 | reception, greeting | -
+w001034.1 | completely, totally, entirely | -
+w001034.2 | certainly, definitely, exactly | -
+w001035.1 | extra, added, further | -
+w001036.1 | above, past | within
+w001036.2 | past | -
+w001036.3 | - | -
+w001037.1 | before, previously | later
+w001037.2 | previous, prior | later
+w001038.1 | additional, added, spare | -
+w001038.2 | especially | -
+w001038.3 | addition | -
+w001038.4 | - | -
+w001040.1 | at once, instantly, right away | later
+w001040.2 | directly, right | -
+w001041.1 | - | -
+w001041.2 | moment, second | -
+w001041.3 | record | -
+w001041.4 | tiny | huge
+w001042.1 | wildlife | -
+w001042.2 | character, personality | -
+w001042.3 | character, kind | -
+w001043.1 | fast, rapid, swift | slow
+w001043.2 | brief, short | long
+w001043.3 | bright, clever, sharp | slow
+w001044.1 | - | buy
+w001044.2 | - | -
+w001044.3 | promote | -
+w001045.1 | important, considerable, major | insignificant, minor
+w001045.2 | meaningful | -
+w001046.1 | - | -
+w001047.1 | successful | -
+w001047.2 | charming, attractive | -
+w001047.3 | prize | -
+w001049.1 | - | -
+w001050.1 | concur | disagree
+w001050.2 | consent, accept | refuse
+w001050.3 | match, correspond | differ
+w001051.1 | spotless, tidy | dirty
+w001051.2 | wash, wipe | -
+w001051.3 | fair, honest | dirty
+w001051.4 | completely | -
+w001052.1 | - | -
+w001053.1 | building | destruction
+w001053.2 | building, structure | -
+w001053.3 | structure | -
+w001055.1 | part | -
+w001055.2 | event, incident | -
+w001056.1 | - | -
+w001056.2 | - | -
+w001056.3 | - | -
+w001058.1 | earnings, salary, pay | -
+w001059.1 | fairness | injustice
+w001059.2 | law | -
+w001059.3 | judge | -
+w001061.1 | director, boss, head | -
+w001061.2 | coach | -
+w001062.1 | motion, move | -
+w001062.2 | campaign | -
+w001062.3 | - | -
+w001063.1 | photograph, picture | -
+w001064.1 | security | danger
+w001066.1 | place, location, site | -
+w001066.2 | - | -
+w001066.3 | view, landscape | -
+w001067.1 | pay | save
+w001067.2 | pass | -
+w001068.1 | announcement, declaration | -
+w001068.2 | - | -
+w001069.1 | - | moon
+w001069.2 | sunshine, sunlight | shade
+w001069.3 | - | -
+w001070.1 | - | -
+w001071.1 | capability, capacity | inability
+w001071.2 | skill, talent, gift | -
+w001072.1 | vocation | -
+w001072.2 | profession, occupation | -
+w001073.1 | trainer, instructor | -
+w001073.2 | train, teach | -
+w001073.3 | bus | -
+w001073.4 | carriage | -
+w001074.1 | set, group | -
+w001074.2 | gathering, pickup | -
+w001074.3 | - | -
+w001076.1 | certainly, surely, absolutely | -
+w001076.2 | clearly | -
+w001077.1 | likely | unexpected
+w001078.1 | firearm | -
+w001078.2 | - | -
+w001078.3 | rev | -
+w001079.1 | weighty | light
+w001079.2 | large, strong, intense | light
+w001079.3 | hard, demanding | light, easy
+w001080.1 | understanding | ignorance
+w001080.2 | awareness | ignorance
+w001081.1 | especially, specially | -
+w001082.1 | look for, hunt | -
+w001082.2 | examine, check | -
+w001082.3 | hunt | -
+w001084.1 | topic, theme, matter | -
+w001084.2 | course, discipline | -
+w001084.3 | - | object
+w001084.4 | liable, prone | immune
+w001084.5 | expose | -
+w001085.1 | - | -
+w001085.2 | teach, instruct, educate | -
+w001085.3 | practise, exercise | -
+w001086.1 | broad | narrow
+w001086.2 | broad, extensive | narrow
+w001086.3 | fully | -
+w001087.1 | gosh | -
+w001087.2 | impress, amaze | -
+w001088.1 | - | -
+w001088.2 | - | -
+w001088.3 | - | -
+w001089.1 | writer | reader
+w001089.2 | write | -
+w001090.1 | middle, center, heart | edge
+w001090.2 | - | -
+w001090.3 | focus | -
+w001091.1 | state, maintain | deny
+w001091.2 | demand | -
+w001091.3 | assertion, statement | -
+w001091.4 | demand, request | -
+w001093.1 | father | mom
+w001094.1 | fright, terror, dread | courage
+w001094.2 | worry, anxiety, concern | -
+w001094.3 | dread | -
+w001095.1 | suit | -
+w001095.2 | install, insert | remove
+w001095.3 | healthy, strong | unfit
+w001095.4 | suitable, appropriate | unfit
+w001095.5 | attack, bout | -
+w001096.1 | usually, normally, mostly | -
+w001096.2 | widely, commonly | -
+w001097.1 | worldwide, international | local
+w001097.2 | overall, general | -
+w001098.1 | must | -
+w001099.1 | - | -
+w001100.1 | curious | uninterested, bored
+w001100.2 | involved, concerned | -
+w001101.1 | justice | -
+w001101.2 | referee | -
+w001101.3 | assess, consider | -
+w001101.4 | decide, rule | -
+w001102.1 | woman | gentleman
+w001102.2 | - | gentleman
+w001103.1 | head, chief, boss | follower
+w001103.2 | - | -
+w001104.1 | note | -
+w001104.2 | character | -
+w001105.1 | substance, matter | -
+w001105.2 | fabric, cloth | -
+w001105.3 | information, data | -
+w001105.4 | physical | spiritual
+w001106.1 | no one | everybody
+w001106.2 | - | somebody
+w001107.1 | chance, opening | -
+w001108.1 | and | minus
+w001108.2 | and, also | -
+w001108.3 | advantage, benefit | minus
+w001110.1 | goods, item | -
+w001110.2 | result, outcome | -
+w001110.3 | - | -
+w001111.1 | fixed, steady | irregular
+w001111.2 | frequent | occasional
+w001111.3 | normal, standard, ordinary | -
+w001111.4 | - | -
+w001112.1 | assistant | -
+w001112.2 | minister | -
+w001113.1 | - | brother
+w001113.2 | nun | -
+w001114.1 | measure | -
+w001114.2 | part, component, element | -
+w001114.3 | team, group | -
+w001115.1 | - | -
+w001116.1 | yearly | -
+w001116.2 | yearly | -
+w001116.3 | - | -
+w001116.4 | - | -
+w001117.1 | any longer | -
+w001118.1 | pub | -
+w001118.2 | block | -
+w001118.3 | rod, pole | -
+w001118.4 | ban, block, prevent | allow
+w001119.1 | fight, war, combat | -
+w001119.2 | struggle, fight | -
+w001119.3 | fight, struggle | -
+w001120.1 | - | -
+w001120.2 | intelligence, mind | -
+w001120.3 | genius | -
+w001123.1 | agreement, deal | -
+w001123.2 | shrink, tighten | expand
+w001123.3 | catch, get | -
+w001123.4 | - | -
+w001124.1 | - | -
+w001124.2 | qualification | -
+w001124.3 | level, extent, amount | -
+w001125.1 | complete, done, over | unfinished
+w001125.2 | - | -
+w001126.1 | ground | ceiling
+w001126.2 | level, storey | -
+w001126.3 | amaze, stun | -
+w001127.1 | injure, harm | -
+w001127.2 | ache | -
+w001127.3 | upset, offend | -
+w001127.4 | injured, upset | -
+w001128.1 | picture, photo | -
+w001128.2 | reputation | -
+w001128.3 | picture, idea | -
+w001129.1 | cover | -
+w001129.2 | - | -
+w001130.1 | most | minority
+w001130.2 | - | -
+w001132.1 | start, beginning, launch | closing
+w001132.2 | hole, gap | -
+w001132.3 | vacancy, opportunity | -
+w001132.4 | first, initial | closing, final
+w001133.1 | view, belief, idea | -
+w001133.2 | judgment, assessment | -
+w001134.1 | bodily | mental
+w001134.2 | material, real | -
+w001134.3 | - | -
+w001135.1 | professional, expert | amateur
+w001135.2 | advantage, plus | con
+w001136.1 | arrive at, get to | leave
+w001136.2 | achieve, attain | -
+w001136.3 | stretch | -
+w001136.4 | range | -
+w001137.1 | regulation, law | -
+w001137.2 | government, control, reign | -
+w001137.3 | govern, control, reign | -
+w001137.4 | decide, judge | -
+w001138.1 | badly, severely | slightly
+w001138.2 | earnestly | lightly
+w001138.3 | really, honestly | -
+w001139.1 | foolish, silly, dumb | clever, intelligent
+w001139.2 | annoying | -
+w001140.1 | prosperous | unsuccessful
+w001141.1 | - | -
+w001141.2 | - | -
+w001142.1 | - | -
+w001143.1 | busy, energetic, lively | inactive
+w001143.2 | working | inactive
+w001143.3 | - | passive

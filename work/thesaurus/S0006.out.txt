@@ -1,0 +1,401 @@
+w000788.1 | maybe, possibly | -
+w000789.1 | needy | rich, wealthy
+w000789.2 | bad, weak, low | good, excellent
+w000789.3 | unfortunate, unlucky | lucky
+w000790.1 | free, set free | capture
+w000790.2 | issue, publish, launch | -
+w000790.3 | let go | hold
+w000790.4 | freedom | capture
+w000790.5 | issue | -
+w000791.1 | position, condition | -
+w000791.2 | location, setting | -
+w000792.1 | - | -
+w000793.1 | site | -
+w000794.1 | - | spoken, oral
+w000794.2 | - | -
+w000795.1 | - | -
+w000795.2 | - | -
+w000797.1 | selection, decision | -
+w000797.2 | option, alternative | -
+w000797.3 | selection, range, variety | -
+w000797.4 | excellent, fine, select | -
+w000798.1 | program | -
+w000798.2 | cipher | -
+w000798.3 | rule | -
+w000798.4 | program | -
+w000800.1 | carry on, go on, keep on | stop
+w000800.2 | go on, resume | -
+w000800.3 | go on, proceed | stop
+w000801.1 | committee, board | -
+w000801.2 | - | -
+w000802.1 | protect, hide | uncover
+w000802.2 | include, deal with | -
+w000802.3 | report | -
+w000802.4 | lid, covering | -
+w000802.5 | - | -
+w000802.6 | shelter, protection | -
+w000803.1 | now, at present | -
+w000804.1 | - | -
+w000804.2 | doorway, entrance | -
+w000805.1 | vote | -
+w000805.2 | - | -
+w000806.1 | economic | -
+w000807.1 | overseas | domestic, native
+w000807.2 | strange, unfamiliar | familiar
+w000808.1 | - | -
+w000808.2 | - | -
+w000809.1 | grow, rise, raise | decrease, reduce
+w000809.2 | rise, growth | decrease, fall
+w000810.1 | - | -
+w000810.2 | lawful | illegal
+w000811.1 | mislay | find
+w000811.2 | - | gain
+w000811.3 | - | win
+w000813.1 | choose, select | -
+w000813.2 | gather, harvest | -
+w000813.3 | pick up | -
+w000813.4 | choice, selection | -
+w000814.1 | - | -
+w000814.2 | - | -
+w000814.3 | compete, run | -
+w000814.4 | rush, hurry, speed | -
+w000815.1 | appear, look | -
+w000816.1 | - | -
+w000817.1 | indication, symptom | -
+w000817.2 | notice | -
+w000817.3 | symbol, mark | -
+w000817.4 | - | -
+w000817.5 | gesture | -
+w000818.1 | easy, straightforward | difficult, complicated
+w000818.2 | plain, basic | elaborate
+w000818.3 | plain, basic, mere | -
+w000819.1 | just, only, merely | -
+w000819.2 | absolutely, really | -
+w000819.3 | plainly, easily | -
+w000820.1 | personnel, workforce | -
+w000820.2 | - | -
+w000820.3 | stick, pole | -
+w000822.1 | excellent, great, wonderful | terrible
+w000822.2 | very, extremely | -
+w000822.3 | caretaker | -
+w000823.1 | - | -
+w000823.2 | alliance, federation | -
+w000823.3 | unity | separation
+w000824.1 | - | run
+w000824.2 | stroll, hike | -
+w000824.3 | accompany, take | -
+w000826.1 | - | -
+w000827.1 | - | -
+w000827.2 | bottom, floor | -
+w000827.3 | - | -
+w000831.1 | profession, occupation | -
+w000831.2 | rush, race | -
+w000832.1 | mad, insane | sane
+w000832.2 | foolish, silly, stupid, mad | sensible
+w000832.3 | mad, keen | -
+w000833.1 | everyday | -
+w000833.2 | - | -
+w000833.3 | - | -
+w000834.1 | - | son
+w000835.1 | pass away | live
+w000835.2 | end, disappear | -
+w000835.3 | long | -
+w000835.4 | dice | -
+w000836.1 | hard, tough | easy
+w000836.2 | awkward | easy
+w000837.1 | number, statistic | -
+w000837.2 | person, character | -
+w000837.3 | shape, body | -
+w000837.4 | think, suppose, guess | -
+w000837.5 | work out, solve | -
+w000838.1 | - | -
+w000839.1 | - | gain
+w000839.2 | - | profit
+w000839.3 | defeat | win, victory
+w000840.1 | contemporary, current | ancient
+w000840.2 | up-to-date, new, advanced | -
+w000841.1 | - | -
+w000841.2 | newspaper | -
+w000841.3 | essay, article | -
+w000842.1 | - | unpopular
+w000842.2 | - | -
+w000842.3 | common, widespread, general | -
+w000843.1 | secure, harmless | dangerous
+w000843.2 | unhurt | -
+w000843.3 | - | -
+w000844.1 | form, type, edition | -
+w000844.2 | account, story | -
+w000845.1 | - | -
+w000845.2 | say | -
+w000845.3 | express, state | -
+w000848.1 | - | -
+w000848.2 | - | -
+w000849.1 | - | -
+w000849.2 | handwriting, script | -
+w000849.3 | work | -
+w000850.1 | - | -
+w000851.1 | force | -
+w000851.2 | crowd, mass | -
+w000853.1 | world, globe, planet | -
+w000853.2 | soil, ground, dirt | -
+w000853.3 | land, ground | sky
+w000855.1 | - | remember
+w000855.2 | leave | remember
+w000855.3 | ignore, overlook | -
+w000856.1 | aim, target, objective | -
+w000856.2 | - | -
+w000856.3 | net | -
+w000857.1 | enormous, vast, massive, giant | tiny
+w000858.1 | web | -
+w000859.1 | hear | -
+w000859.2 | heed | ignore
+w000860.1 | OK, all right, fine | -
+w000860.2 | OK, all right, fine, acceptable | -
+w000860.3 | OK, all right, well | badly
+w000860.4 | OK, approve | reject
+w000861.1 | training, exercise | -
+w000861.2 | action | theory
+w000861.3 | custom, habit, way | -
+w000861.4 | rehearse, train | -
+w000861.5 | work | -
+w000862.1 | ocean | land
+w000862.2 | mass, mountain | -
+w000863.1 | - | madam
+w000863.2 | - | -
+w000865.1 | achievement | failure
+w000865.2 | hit, triumph | failure
+w000866.1 | toward | -
+w000866.2 | toward | -
+w000866.3 | toward, near | -
+w000870.1 | entry, admission | -
+w000870.2 | entrance, entry | exit
+w000870.3 | open, retrieve | -
+w000870.4 | reach, enter, use | -
+w000871.1 | bottom, foundation | top
+w000871.2 | headquarters, center | -
+w000871.3 | found, build | -
+w000871.4 | - | -
+w000871.5 | - | -
+w000872.1 | under, beneath, underneath | above
+w000872.2 | under | above, over
+w000872.3 | beneath, underneath | above
+w000873.1 | - | shallow
+w000873.2 | profound, intense, serious | shallow
+w000873.3 | low, dark | high, light
+w000873.4 | - | -
+w000875.1 | - | -
+w000876.1 | sign, symbol | -
+w000876.2 | grade, score | -
+w000876.3 | spot, stain | -
+w000876.4 | label | -
+w000876.5 | grade, correct | -
+w000876.6 | celebrate, commemorate | -
+w000877.1 | lost | found
+w000877.2 | absent, lost | present
+w000877.3 | absent, lacking | present
+w000878.1 | give, provide | -
+w000878.2 | volunteer | refuse
+w000878.3 | proposal | -
+w000878.4 | bid | -
+w000878.5 | deal | -
+w000879.1 | cross | -
+w000879.2 | hand, give | -
+w000879.3 | - | fail
+w000879.4 | permit, ticket | -
+w000879.5 | - | -
+w000880.1 | - | -
+w000880.2 | skilled, expert | amateur
+w000880.3 | expert | amateur
+w000880.4 | - | amateur
+w000881.1 | danger, chance, threat | -
+w000881.2 | endanger, threaten | -
+w000882.1 | doze, rest, nap | wake
+w000882.2 | rest, nap | -
+w000882.3 | - | -
+w000883.1 | - | -
+w000883.2 | chart | -
+w000883.3 | propose, put forward | -
+w000883.4 | postpone, put off | -
+w000884.1 | - | -
+w000885.1 | fact, reality | lie
+w000885.2 | accuracy, honesty | falseness
+w000885.3 | fact, principle | -
+w000887.1 | - | -
+w000888.1 | - | -
+w000888.2 | - | -
+w000888.3 | dance | -
+w000889.1 | case, carton, container | -
+w000889.2 | square | -
+w000889.3 | fight | -
+w000889.4 | pack | -
+w000890.1 | construct, make, put up | destroy, knock down
+w000890.2 | develop, establish, create | -
+w000890.3 | grow, increase | -
+w000890.4 | figure, physique | -
+w000891.1 | - | -
+w000891.2 | credit card | -
+w000891.3 | - | -
+w000892.1 | dim, black, gloomy | light, bright
+w000892.2 | deep | light, pale
+w000892.3 | evil, gloomy, sinister | -
+w000892.4 | darkness, night | light
+w000893.1 | area, region, neighbourhood | -
+w000893.2 | region, zone | -
+w000895.1 | lounge | -
+w000897.1 | - | -
+w000897.2 | pit | -
+w000897.3 | - | -
+w000897.4 | dig, extract | -
+w000898.1 | secretary | -
+w000898.2 | priest, pastor | -
+w000898.3 | care for, tend | -
+w000899.1 | record, memo | -
+w000899.2 | message, letter | -
+w000899.3 | tone | -
+w000899.4 | notice, mention, observe | ignore
+w000900.1 | - | -
+w000901.1 | bit, part, portion | whole
+w000901.2 | item, bit | -
+w000901.3 | work | -
+w000903.1 | latest, new, current | old
+w000904.1 | direct | curved, bent
+w000904.2 | directly | -
+w000904.3 | in a row | -
+w000904.4 | honest, direct, frank | dishonest
+w000904.5 | heterosexual | gay
+w000905.1 | see, call on | -
+w000905.2 | call, trip, stay | -
+w000905.3 | - | -
+w000906.1 | - | -
+w000906.2 | barrier, fence | -
+w000906.3 | enclose, fence | -
+w000907.1 | - | -
+w000908.1 | - | -
+w000909.1 | civilization, customs, tradition | -
+w000909.2 | art | -
+w000909.3 | - | -
+w000910.1 | and so on | -
+w000911.1 | increase, expansion, rise | decline, decrease
+w000911.2 | development | -
+w000911.3 | lump, tumour | -
+w000912.1 | wed | single, unmarried
+w000912.2 | - | -
+w000914.1 | police officer | -
+w000914.2 | - | -
+w000914.3 | official | -
+w000916.1 | ache, hurt | -
+w000916.2 | suffering, sorrow, hurt | joy
+w000916.3 | nuisance | -
+w000916.4 | hurt, upset | -
+w000918.1 | admiration, regard | contempt
+w000918.2 | admire, look up to | despise
+w000918.3 | obey, observe | break
+w000918.4 | aspect, way | -
+w000919.1 | reaction | -
+w000919.2 | answer, reply | question
+w000920.1 | stream | -
+w000920.2 | stream, flood | -
+w000921.1 | stone | -
+w000921.2 | - | -
+w000921.3 | swing, sway | -
+w000921.4 | shock, shake | -
+w000922.1 | - | -
+w000922.2 | will | -
+w000922.3 | must | -
+w000923.1 | talk, say | -
+w000923.2 | - | -
+w000923.3 | talk, lecture | -
+w000924.1 | exact, precise, detailed | general, vague
+w000924.2 | particular | general
+w000924.3 | detail | -
+w000925.1 | level, quality | -
+w000925.2 | normal, usual, typical | unusual
+w000926.1 | - | -
+w000926.2 | - | -
+w000927.1 | - | -
+w000927.2 | compose, produce | -
+w000927.3 | - | -
+w000928.1 | record | -
+w000928.2 | - | -
+w000930.1 | - | -
+w000931.1 | ask | -
+w000931.2 | price, cost, fee | -
+w000931.3 | accuse | -
+w000931.4 | accusation | -
+w000931.5 | - | -
+w000931.6 | control, responsibility, care | -
+w000932.1 | chilly, cool, freezing | hot
+w000932.2 | - | -
+w000932.3 | unfriendly, distant | warm, friendly
+w000932.4 | - | heat
+w000933.1 | make, produce, invent | destroy
+w000933.2 | cause, produce, bring about | -
+w000934.1 | result, consequence, impact | cause
+w000934.2 | - | -
+w000934.3 | cause, bring about | -
+w000935.1 | - | -
+w000936.1 | apart from, but, besides | including
+w000936.2 | only, but | -
+w000937.1 | - | -
+w000937.2 | taste | -
+w000937.3 | - | -
+w000937.4 | watch, observe | -
+w000938.1 | amusing, humorous, comic | serious
+w000938.2 | strange, odd, weird | normal
+w000940.1 | restricted, small | unlimited
+w000940.2 | - | -
+w000942.1 | emotional | -
+w000942.2 | - | still
+w000943.1 | system, web | -
+w000943.2 | - | -
+w000943.3 | - | -
+w000943.4 | - | -
+w000945.1 | - | war
+w000945.2 | calm, quiet | -
+w000945.3 | order | -
+w000947.1 | if | -
+w000948.1 | lately | -
+w000949.1 | - | -
+w000949.2 | - | -
+w000949.3 | - | -
+w000952.1 | shop | -
+w000952.2 | keep, save | -
+w000952.3 | supply, stock | -
+w000953.1 | pupil, learner | teacher
+w000955.1 | - | yesterday
+w000955.2 | - | yesterday
+w000955.3 | future | past
+w000956.1 | course, rail | -
+w000956.2 | song, number | -
+w000956.3 | path, trail | -
+w000956.4 | follow, trace | -
+w000957.1 | through | -
+w000957.2 | through, by | -
+w000958.1 | - | -
+w000958.2 | - | -
+w000958.3 | importance, influence | -
+w000959.1 | - | -
+w000959.2 | - | -
+w000959.3 | - | -
+w000960.1 | - | -
+w000960.2 | - | -
+w000960.3 | - | -
+w000961.1 | inclusion | removal
+w000961.2 | extra | -
+w000961.3 | - | subtraction
+w000962.1 | forward | behind
+w000962.2 | in advance | -
+w000962.3 | in the lead | behind
+w000963.1 | let, permit | forbid, prevent
+w000963.2 | enable, let | prevent
+w000963.3 | allocate | -
+w000964.1 | against | for
+w000964.2 | opponent | supporter
+w000965.1 | society, organization, club | -
+w000965.2 | connection, link | -
+w000965.3 | connection | -
+w000966.1 | defeat | -
+w000966.2 | hit, strike | -
+w000966.3 | pulse | -
+w000966.4 | rhythm | -
+w000966.5 | pulse, stroke | -

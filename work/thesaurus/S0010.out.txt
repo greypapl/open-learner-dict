@@ -1,0 +1,401 @@
+w001501.1 | institution, academy | -
+w001501.2 | introduce, establish, start | abolish
+w001504.1 | way, approach, technique, system | -
+w001505.1 | microphone | -
+w001506.1 | clearly, evidently, plainly | -
+w001507.1 | choice, alternative, possibility | -
+w001507.2 | - | -
+w001508.1 | jail | -
+w001508.2 | imprisonment | -
+w001509.1 | rest, remainder | -
+w001509.2 | body, corpse | -
+w001509.3 | ruin | -
+w001510.1 | - | -
+w001510.2 | council | -
+w001511.1 | someone | nobody
+w001511.2 | celebrity | nobody
+w001512.1 | rock, pebble | -
+w001512.2 | rock | -
+w001512.3 | jewel, gem | -
+w001512.4 | - | -
+w001513.1 | power, force, might | weakness
+w001513.2 | advantage, asset | weakness
+w001513.3 | power, intensity | weakness
+w001514.1 | - | tame, domestic
+w001514.2 | uncontrolled, crazy, excited | calm
+w001514.3 | natural | cultivated
+w001514.4 | wilderness | -
+w001515.1 | - | -
+w001515.2 | - | -
+w001515.3 | opportunity, chance | -
+w001516.1 | champion, victor | loser
+w001516.2 | success, hit | failure
+w001520.1 | America, US | -
+w001521.1 | - | -
+w001521.2 | - | -
+w001521.3 | pack | -
+w001521.4 | win, get, secure | -
+w001522.1 | gamble, wager | -
+w001522.2 | wager, gamble | -
+w001522.3 | - | -
+w001523.1 | - | -
+w001523.2 | - | -
+w001523.3 | side, faction | -
+w001524.1 | - | -
+w001524.2 | throw, toss | -
+w001524.3 | - | -
+w001524.4 | - | -
+w001524.5 | - | -
+w001525.1 | right, accurate, true, exact | wrong, incorrect
+w001525.2 | proper, appropriate | improper
+w001525.3 | fix, mark | -
+w001526.1 | risky, unsafe, hazardous | safe
+w001527.1 | very, highly, really | slightly
+w001528.1 | company, business | -
+w001528.2 | hard, solid | soft
+w001528.3 | strong, steady, fixed | weak
+w001529.1 | deal with, manage, cope with | -
+w001529.2 | hold, touch | -
+w001529.3 | grip, knob | -
+w001530.1 | get better, better, enhance | worsen
+w001531.1 | certainly, really | -
+w001531.2 | - | -
+w001532.1 | bad, harmful, pessimistic | positive
+w001532.2 | - | positive
+w001532.3 | minus | positive
+w001532.4 | - | -
+w001533.1 | stop, avoid | allow
+w001536.1 | soul | body
+w001536.2 | mood, attitude | -
+w001536.3 | ghost | -
+w001537.1 | TV | -
+w001537.2 | TV | -
+w001538.1 | until | -
+w001538.2 | until | -
+w001538.3 | - | -
+w001538.4 | plough | -
+w001539.1 | problem, difficulty | -
+w001539.2 | problem | -
+w001539.3 | worry, bother, upset | -
+w001539.4 | bother | -
+w001540.1 | benefit, edge | disadvantage
+w001540.2 | benefit, strength | disadvantage, drawback
+w001541.1 | separately | together
+w001541.2 | away | together
+w001541.3 | - | -
+w001542.1 | conscious | unaware
+w001543.1 | - | -
+w001544.1 | choose, determine, settle | -
+w001544.2 | determine, settle | -
+w001545.1 | supper | -
+w001545.2 | banquet | -
+w001546.1 | east | western
+w001546.2 | oriental | western
+w001547.1 | - | -
+w001547.2 | - | -
+w001548.1 | purpose, role, job | -
+w001548.2 | work, operate, run | -
+w001548.3 | - | -
+w001548.4 | event, party, reception | -
+w001549.1 | present | -
+w001549.2 | talent, ability | -
+w001549.3 | give, present | -
+w001550.1 | - | -
+w001550.2 | - | -
+w001551.1 | - | possible
+w001551.2 | difficult, unbearable | -
+w001552.1 | effect, power, impact | -
+w001552.2 | affect, shape, sway | -
+w001552.3 | - | -
+w001555.1 | - | -
+w001557.1 | - | -
+w001558.1 | make, create, grow, manufacture | -
+w001558.2 | cause, bring about, create | -
+w001558.3 | - | -
+w001558.4 | - | -
+w001559.1 | advance, development, improvement | -
+w001559.2 | advance, develop | -
+w001560.1 | pleased | ashamed
+w001560.2 | arrogant | humble
+w001561.1 | need | -
+w001561.2 | oblige, force | -
+w001562.1 | - | -
+w001562.2 | - | -
+w001562.3 | - | -
+w001563.1 | close | open
+w001563.2 | close | open
+w001563.3 | closed | open
+w001564.1 | - | -
+w001565.1 | timber | -
+w001565.2 | forest | -
+w001566.1 | - | -
+w001567.1 | - | -
+w001568.1 | context, circumstance | -
+w001568.2 | experience, history | -
+w001568.3 | - | foreground
+w001570.1 | - | death
+w001570.2 | delivery | -
+w001570.3 | beginning, start, origin | death, end
+w001571.1 | - | -
+w001571.2 | link | -
+w001571.3 | close | widen
+w001571.4 | - | -
+w001572.1 | idea, notion | -
+w001573.1 | duplicate, reproduction | original
+w001573.2 | - | -
+w001573.3 | duplicate, reproduce | -
+w001573.4 | imitate, mimic | -
+w001574.1 | - | -
+w001574.2 | beloved, precious | -
+w001574.3 | darling, love, honey | -
+w001574.4 | - | -
+w001575.1 | yard | -
+w001575.2 | park | -
+w001575.3 | - | -
+w001577.1 | - | guest
+w001577.2 | presenter | -
+w001577.3 | hold, present | -
+w001577.4 | server | client
+w001578.1 | accommodation | -
+w001578.2 | case | -
+w001579.1 | magazine, periodical | -
+w001579.2 | diary, log | -
+w001580.1 | work, toil | rest
+w001580.2 | workforce | management
+w001580.3 | - | -
+w001580.4 | work, toil | rest
+w001581.1 | command, control | -
+w001581.2 | - | -
+w001581.3 | - | -
+w001582.1 | - | -
+w001582.2 | duration | -
+w001582.3 | piece | -
+w001583.1 | fortunate | unlucky, unfortunate
+w001583.2 | - | unlucky
+w001584.1 | - | -
+w001584.2 | - | -
+w001584.3 | - | -
+w001584.4 | - | -
+w001585.1 | - | -
+w001586.1 | - | doctor
+w001586.2 | calm, tolerant | impatient
+w001587.1 | perhaps, maybe | -
+w001587.2 | - | -
+w001588.1 | show, demonstrate, confirm | disprove
+w001588.2 | turn out | -
+w001589.1 | unusual, uncommon, scarce | common
+w001589.2 | - | -
+w001591.1 | location, background, environment | -
+w001591.2 | - | -
+w001592.1 | program | hardware
+w001594.1 | difficult, hard | easy
+w001594.2 | strict, firm, harsh | soft, lenient
+w001594.3 | strong, durable | fragile
+w001596.1 | advertisement, commercial | -
+w001597.1 | living, live | dead
+w001597.2 | lively, active | -
+w001598.1 | - | -
+w001599.1 | stability, equilibrium | imbalance
+w001599.2 | steady | -
+w001599.3 | - | -
+w001600.1 | - | -
+w001601.1 | - | -
+w001601.2 | complain, moan | -
+w001601.3 | - | -
+w001602.1 | manager, chief, employer | employee
+w001602.2 | order about | -
+w001605.1 | link, relationship, association | -
+w001605.2 | link | -
+w001605.3 | contact | -
+w001606.1 | gown, frock | -
+w001606.2 | clothing, wear, clothes | -
+w001606.3 | get dressed, put on | undress
+w001607.1 | - | -
+w001607.2 | man, guy, chap | -
+w001607.3 | member | -
+w001609.1 | - | -
+w001610.1 | sorcery, witchcraft | -
+w001610.2 | trick | -
+w001610.3 | charm, enchantment | -
+w001610.4 | magical | -
+w001611.1 | plan, chart | -
+w001611.2 | chart, plot | -
+w001612.1 | mesh | -
+w001612.2 | - | -
+w001612.3 | - | gross
+w001612.4 | internet, web | -
+w001613.1 | appeal, demand | -
+w001613.2 | ask for, ask | -
+w001614.1 | twig, rod | -
+w001614.2 | glue, attach, fix | -
+w001614.3 | push, poke, stab | -
+w001614.4 | jam | -
+w001615.1 | - | -
+w001615.2 | means, medium | -
+w001616.1 | loudness | -
+w001616.2 | amount, quantity | -
+w001616.3 | book | -
+w001617.1 | wake up, awake | sleep
+w001617.2 | - | -
+w001617.3 | - | -
+w001618.1 | - | -
+w001619.1 | help, assistance, support | -
+w001619.2 | help, assist, support | hinder
+w001619.3 | - | -
+w001620.1 | loveliness, attractiveness | ugliness
+w001620.2 | - | -
+w001620.3 | advantage, attraction | -
+w001621.1 | - | -
+w001622.1 | occupied, engaged | free, idle
+w001622.2 | crowded, lively, hectic | quiet
+w001622.3 | engaged | free
+w001623.1 | worried, anxious | unconcerned
+w001623.2 | involved | -
+w001624.1 | talk, chat, discussion | -
+w001625.1 | angle | -
+w001625.2 | - | -
+w001625.3 | trap | -
+w001625.4 | - | -
+w001626.1 | offender, crook | -
+w001626.2 | illegal | legal
+w001627.1 | - | -
+w001627.2 | artistic | -
+w001628.1 | grow, evolve, expand | -
+w001628.2 | create, design | -
+w001628.3 | get, catch | -
+w001629.1 | motorist | -
+w001629.2 | - | -
+w001629.3 | engine, force | -
+w001630.1 | current, present | -
+w001631.1 | ranch | -
+w001631.2 | grow, raise, cultivate | -
+w001632.1 | record, folder | -
+w001632.2 | store | -
+w001632.3 | submit, lodge | -
+w001632.4 | - | -
+w001633.1 | repair, mend, solve | break
+w001633.2 | attach, fasten, secure | remove
+w001633.3 | set, arrange, decide | -
+w001633.4 | solution, remedy | -
+w001634.1 | soar | -
+w001634.2 | - | -
+w001634.3 | pilot | -
+w001634.4 | - | -
+w001635.1 | honest, direct, open, candid | -
+w001637.1 | - | -
+w001637.2 | handbook, manual | -
+w001637.3 | lead, direct, steer | -
+w001638.1 | inquiry, examination, study | -
+w001639.1 | lift, elevate | lower
+w001639.2 | increase, boost | lower, reduce
+w001639.3 | bring up, mention | -
+w001639.4 | rise | cut
+w001640.1 | duty, obligation | -
+w001640.2 | blame, fault | -
+w001641.1 | turn, spin, tumble | -
+w001641.2 | wrap, wind | unroll
+w001641.3 | - | -
+w001641.4 | bun | -
+w001641.5 | list, register | -
+w001644.1 | a little, somewhat, a bit | greatly
+w001646.1 | propose, recommend | -
+w001646.2 | indicate, imply | -
+w001647.1 | amazement, astonishment, shock | -
+w001647.2 | shock | -
+w001647.3 | amaze, astonish, shock | -
+w001648.1 | - | -
+w001648.2 | specialist | -
+w001649.1 | handle, deal with | -
+w001649.2 | - | -
+w001649.3 | - | -
+w001649.4 | - | -
+w001650.1 | only, single, distinctive | common
+w001651.1 | range, assortment, selection | -
+w001651.2 | diversity | uniformity
+w001651.3 | type, kind, sort | -
+w001652.1 | force, brutality | -
+w001652.2 | intensity, force | -
+w001653.1 | - | -
+w001654.1 | childhood, adolescence | old age
+w001654.2 | teenager, adolescent | -
+w001654.3 | - | age
+w001656.1 | value | -
+w001656.2 | value, admire | -
+w001656.3 | understand, realize, recognize | -
+w001657.1 | - | wet
+w001657.2 | dull, boring | interesting
+w001657.3 | - | sweet
+w001657.4 | - | wet
+w001658.1 | border, boundary, rim | centre
+w001658.2 | advantage | disadvantage
+w001658.3 | blade | -
+w001658.4 | creep, inch | -
+w001659.1 | wicked, cruel, bad | good
+w001659.2 | wickedness, sin | good
+w001659.3 | harm | -
+w001660.1 | thrilled, enthusiastic, eager | bored
+w001662.1 | always, for ever, permanently | -
+w001662.2 | always, constantly, continually | -
+w001664.1 | wound, harm | -
+w001665.1 | - | -
+w001665.2 | - | -
+w001665.3 | press | -
+w001666.1 | beautiful, pretty, attractive | ugly
+w001666.2 | delightful, pleasant, nice | horrible, awful
+w001667.1 | angry, furious | calm
+w001667.2 | crazy, insane, foolish | sane
+w001667.3 | crazy, keen, enthusiastic | -
+w001668.1 | journal | -
+w001668.2 | - | -
+w001669.1 | congress, assembly | -
+w001670.1 | ready | unprepared
+w001670.2 | willing, ready | unwilling
+w001671.1 | mention, allusion | -
+w001671.2 | consultation | -
+w001671.3 | recommendation, testimonial | -
+w001671.4 | cite, mention | -
+w001672.1 | faith, belief | -
+w001673.1 | - | nowhere
+w001673.2 | about, around, roughly | -
+w001674.1 | plan, policy, approach | -
+w001675.1 | internet | -
+w001675.2 | - | -
+w001675.3 | network, maze | -
+w001676.1 | - | -
+w001677.1 | centre, heart, essence | surface
+w001677.2 | - | -
+w001677.3 | basic, central, essential, main | -
+w001678.1 | - | -
+w001678.2 | - | -
+w001680.1 | - | -
+w001680.2 | weapon | -
+w001680.3 | - | -
+w001680.4 | equip | disarm
+w001681.1 | crowd | -
+w001681.2 | meeting | -
+w001682.1 | gulf, cove | -
+w001682.2 | - | -
+w001682.3 | howl | -
+w001683.1 | - | -
+w001683.2 | - | -
+w001686.1 | - | -
+w001686.2 | - | -
+w001687.1 | account, report | -
+w001687.2 | kind, sort, type | -
+w001688.1 | outstanding, superb, great, wonderful | poor, terrible
+w001689.1 | be, live | -
+w001689.2 | survive, live | -
+w001690.1 | guardian, protector | -
+w001690.2 | protect, defend, watch | -
+w001690.3 | - | -
+w001690.4 | shield, protector | -
+w001691.1 | truthful, trustworthy | dishonest
+w001691.2 | frank, open, sincere | -
+w001694.1 | drug, medication, remedy | -
+w001694.2 | - | -
+w001695.1 | refer to, bring up | -
+w001695.2 | reference, comment | -
+w001696.1 | - | -
+w001696.2 | pile, heap | -
+w001697.1 | atomic | -
+w001697.2 | atomic | -

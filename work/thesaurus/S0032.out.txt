@@ -1,0 +1,400 @@
+w006295.1 | magical, mysterious | natural
+w006295.2 | - | -
+w006298.1 | - | -
+w006300.1 | grave | -
+w006301.1 | brand, logo | -
+w006301.2 | characteristic, hallmark | -
+w006302.1 | cut, clip | -
+w006302.2 | cut, reduce, cut back | increase
+w006302.3 | slim, neat, slender | fat
+w006303.1 | - | -
+w006303.2 | cover, protection | -
+w006304.1 | journey, trip, cruise | -
+w006304.2 | sail, travel | -
+w006310.1 | doctor | -
+w006314.1 | monastery | -
+w006315.1 | change, alteration, modification | -
+w006315.2 | adaptation | -
+w006316.1 | - | -
+w006318.1 | - | -
+w006318.2 | affection, fondness, devotion | -
+w006318.3 | accessory | -
+w006319.1 | lord | -
+w006319.2 | tycoon, magnate | -
+w006321.1 | nonsense, rubbish | -
+w006322.1 | - | -
+w006322.2 | - | -
+w006324.1 | rabbit | -
+w006325.1 | - | -
+w006326.1 | chorus | -
+w006327.1 | grip, grasp, hold, clasp | release
+w006327.2 | - | -
+w006327.3 | grip, control, power | -
+w006328.1 | - | -
+w006329.1 | admission | denial
+w006329.2 | - | -
+w006330.1 | use up, use, exhaust | save
+w006330.2 | eat, drink | -
+w006330.3 | overwhelm | -
+w006331.1 | passage, hallway, hall | -
+w006331.2 | strip, route | -
+w006332.1 | believability, trust, reliability | -
+w006333.1 | seriously, gravely | slightly
+w006333.2 | - | uncritically
+w006333.3 | - | -
+w006334.1 | - | -
+w006335.1 | - | -
+w006336.1 | - | -
+w006336.2 | shape, layout | -
+w006337.1 | rumour, chat | -
+w006337.2 | chat, chatter | -
+w006337.3 | - | -
+w006338.1 | drag, pull, carry | push
+w006338.2 | catch, loot | -
+w006338.3 | journey, trip | -
+w006339.1 | - | -
+w006339.2 | heading | footer
+w006340.1 | - | -
+w006341.1 | - | -
+w006342.1 | huge, enormous, vast, massive | tiny
+w006343.1 | meddle, intervene, intrude | -
+w006343.2 | disrupt, hamper | -
+w006344.1 | junction, crossroads, crossing | -
+w006344.2 | crossing | -
+w006345.1 | young, youth | adult
+w006345.2 | childish, immature, silly | mature
+w006345.3 | youth, minor, child | adult
+w006346.1 | fate, destiny | -
+w006346.2 | - | -
+w006348.1 | influence, power, clout | -
+w006348.2 | exploit, use | -
+w006348.3 | - | -
+w006349.1 | little, small | big
+w006350.1 | - | -
+w006350.2 | - | -
+w006353.1 | humanity, humankind | -
+w006354.1 | - | -
+w006354.2 | measure, indicator | -
+w006355.1 | - | -
+w006357.1 | junction, point | -
+w006357.2 | lump, swelling | -
+w006358.1 | - | -
+w006358.2 | - | -
+w006359.1 | useless, futile, meaningless | useful
+w006360.1 | nearness, closeness | distance
+w006361.1 | certificate, diploma | -
+w006361.2 | skill, ability | -
+w006361.3 | condition, reservation, limitation | -
+w006362.1 | warden | -
+w006362.2 | - | -
+w006364.1 | sorrow, unhappiness, grief | happiness, joy
+w006365.1 | - | -
+w006365.2 | choosy, picky, particular | -
+w006367.1 | bright, glossy | dull
+w006368.1 | - | capitalism
+w006369.1 | sharp, tart, acid | sweet
+w006369.2 | off, bad | fresh
+w006369.3 | spoil, worsen | improve
+w006370.1 | - | -
+w006370.2 | scoop | -
+w006371.1 | tense, difficult | relaxing
+w006372.1 | teddy bear | -
+w006373.1 | patio | -
+w006373.2 | - | -
+w006373.3 | - | -
+w006374.1 | robber, burglar | -
+w006375.1 | court | -
+w006376.1 | certainly, definitely, surely, without doubt | -
+w006377.1 | check, confirm, prove | -
+w006378.1 | baddie, criminal | hero
+w006379.1 | - | -
+w006379.2 | - | -
+w006380.1 | annual | -
+w006380.2 | annually | -
+w006381.1 | - | -
+w006382.1 | rude, insulting, offensive | polite
+w006382.2 | cruel, violent | kind
+w006383.1 | lane, passage | -
+w006384.1 | hunger | -
+w006384.2 | desire, hunger, taste | -
+w006385.1 | yard, garden | -
+w006387.1 | - | -
+w006389.1 | intimidate, pick on, torment | -
+w006389.2 | - | -
+w006391.1 | work out, compute, count | -
+w006391.2 | estimate, judge | -
+w006392.1 | ask, see | -
+w006392.2 | refer to, look up | -
+w006392.3 | discuss, confer | -
+w006393.1 | - | -
+w006393.2 | - | -
+w006394.1 | damn, bloody | -
+w006394.2 | - | blessed
+w006395.1 | differentiate, tell apart, discriminate | confuse
+w006395.2 | - | -
+w006396.1 | control, rule | -
+w006396.2 | - | -
+w006397.1 | - | -
+w006397.2 | - | -
+w006398.1 | - | -
+w006399.1 | widely | -
+w006401.1 | brow | -
+w006402.1 | pardon, mercy | revenge
+w006403.1 | jewel, precious stone | -
+w006403.2 | treasure, jewel | -
+w006404.1 | valley | -
+w006406.1 | - | -
+w006406.2 | troubled, worried | -
+w006409.1 | theory, idea | -
+w006410.1 | unlawfully | legally
+w006411.1 | likely, willing | unwilling
+w006411.2 | - | -
+w006411.3 | - | flat
+w006412.1 | casual, relaxed | formal
+w006412.2 | colloquial | formal
+w006413.1 | - | -
+w006413.2 | sign, indicator | -
+w006414.1 | swamp, bog, wetland | -
+w006415.1 | - | -
+w006415.2 | - | -
+w006415.3 | gather, organize, arrange | -
+w006416.1 | adulthood | immaturity
+w006416.2 | - | -
+w006417.1 | untidy, dirty | tidy, neat
+w006417.2 | complicated, difficult | -
+w006423.1 | - | -
+w006423.2 | expert, master | -
+w006424.1 | hopeful, positive, confident | pessimistic
+w006425.1 | - | -
+w006426.1 | upbringing | -
+w006427.1 | chemist, drugstore | -
+w006427.2 | - | -
+w006428.1 | difficult, troublesome | -
+w006429.1 | - | -
+w006429.2 | - | -
+w006430.1 | advertising | -
+w006431.1 | potential, future | -
+w006432.1 | mental | -
+w006433.1 | control, govern | deregulate
+w006433.2 | control, adjust | -
+w006434.1 | revival, rebirth | decline
+w006434.2 | - | -
+w006435.1 | abolish, cancel, revoke | enact
+w006435.2 | abolition | -
+w006436.1 | bake, grill | -
+w006436.2 | joint | -
+w006436.3 | - | -
+w006436.4 | criticize, tease | praise
+w006438.1 | garbage, trash, waste, litter | -
+w006438.2 | nonsense, garbage | sense
+w006438.3 | terrible, awful, useless | excellent
+w006438.4 | criticize, knock | praise
+w006439.1 | story | -
+w006439.2 | epic, legend | -
+w006440.1 | - | -
+w006440.2 | - | -
+w006441.1 | - | -
+w006442.1 | - | -
+w006443.1 | excess, extra | shortage, deficit
+w006443.2 | extra, spare, excess | -
+w006444.1 | gulp | -
+w006444.2 | accept, believe | -
+w006444.3 | - | -
+w006444.4 | gulp, mouthful | -
+w006445.1 | organized, methodical, orderly | random
+w006447.1 | intolerable, unsatisfactory | acceptable
+w006448.1 | ignorant, unconscious | aware
+w006449.1 | rare, unusual | common
+w006450.1 | in progress, under way | -
+w006451.1 | unsteady, shaky, insecure | stable
+w006451.2 | volatile, moody | stable
+w006452.1 | - | downstairs
+w006452.2 | - | downstairs
+w006452.3 | - | downstairs
+w006453.1 | unclear, imprecise, fuzzy | clear, precise
+w006454.1 | little, tiny, small | big
+w006454.2 | urine, pee | -
+w006454.3 | urinate, pee | -
+w006455.1 | court, win over | -
+w006455.2 | court | -
+w006457.1 | zipper | -
+w006457.2 | - | unzip
+w006457.3 | compress | unzip
+w006457.4 | rush, dash, race, speed | -
+w006459.1 | - | -
+w006460.1 | plenty, wealth, profusion | shortage, scarcity
+w006461.1 | ah | -
+w006463.1 | - | -
+w006464.1 | - | -
+w006464.2 | old, vintage | modern
+w006465.1 | independence | -
+w006465.2 | independence, freedom | dependence
+w006466.1 | - | -
+w006468.1 | reservation | cancellation
+w006469.1 | wind | -
+w006469.2 | piece of cake, doddle | -
+w006469.3 | sail, cruise | struggle
+w006471.1 | festival, fiesta | -
+w006471.2 | fair, funfair | -
+w006472.1 | product, goods | -
+w006472.2 | asset, resource | -
+w006473.1 | - | -
+w006474.1 | helpful, supportive, willing | uncooperative
+w006474.2 | - | -
+w006475.1 | - | -
+w006475.2 | - | -
+w006476.1 | connection, relationship, link | -
+w006477.1 | reporter, journalist | -
+w006477.2 | - | -
+w006478.1 | voucher | -
+w006478.2 | voucher, token | -
+w006479.1 | drape | -
+w006479.2 | - | -
+w006479.3 | screen | -
+w006481.1 | - | -
+w006482.1 | pastry | -
+w006482.2 | money, cash | -
+w006483.1 | - | -
+w006483.2 | covering, wrapping | -
+w006484.1 | dim, pale | brighten
+w006484.2 | disappear, vanish, fade away | grow
+w006485.1 | tiredness, exhaustion, weariness | energy
+w006485.2 | - | -
+w006485.3 | tire, exhaust, wear out | refresh
+w006486.1 | companionship, friendship | -
+w006486.2 | grant, scholarship | -
+w006486.3 | association, society, club | -
+w006487.1 | imaginary | real
+w006488.1 | delicate, breakable | strong, sturdy
+w006488.2 | frail, weak, delicate | robust
+w006489.1 | edge, margin, periphery | centre
+w006489.2 | - | -
+w006489.3 | - | -
+w006489.4 | alternative, unconventional | mainstream
+w006490.1 | carry out, meet, keep | break
+w006490.2 | satisfy, meet | -
+w006491.1 | - | -
+w006492.1 | manual, guide, guidebook | -
+w006493.1 | tough, robust, sturdy | delicate
+w006494.1 | intuition, impulse | -
+w006495.1 | attractive, appealing | uninviting
+w006496.1 | sarcasm | -
+w006496.2 | - | -
+w006499.1 | sense, wisdom | -
+w006499.2 | opinion, view, assessment | -
+w006499.3 | ruling, verdict, decision | -
+w006500.1 | - | -
+w006501.1 | crowd, host, multitude | -
+w006501.2 | army, troop | -
+w006501.3 | countless, numerous | -
+w006502.1 | deadly, fatal, mortal | harmless
+w006502.2 | deadly, devastating | harmless
+w006503.1 | - | -
+w006503.2 | - | -
+w006503.3 | linden | -
+w006504.1 | energetic, active, vibrant | dull
+w006504.2 | exciting, animated | boring
+w006505.1 | organization, planning | -
+w006507.1 | servant, housekeeper | -
+w006507.2 | maiden, girl | -
+w006509.1 | - | -
+w006509.2 | - | -
+w006511.1 | - | -
+w006512.1 | attitude, outlook | -
+w006513.1 | lover | -
+w006513.2 | - | master
+w006513.3 | teacher | master
+w006515.1 | ethics, virtue | immorality
+w006516.1 | - | immortal
+w006516.2 | deadly, fatal, grave | -
+w006516.3 | human | god
+w006517.1 | charitable | commercial
+w006517.2 | charity | -
+w006519.1 | in effect, effective, working | inoperative
+w006519.2 | agent, spy | -
+w006519.3 | worker, labourer | -
+w006520.1 | pickup truck | -
+w006520.2 | collection | -
+w006520.3 | improvement, increase, recovery | decline
+w006521.1 | respected, distinguished, renowned | -
+w006522.1 | cause, provoke, trigger | prevent
+w006522.2 | quick, immediate, swift | slow, late
+w006522.3 | cue, reminder | -
+w006522.4 | cue, remind | -
+w006523.1 | - | -
+w006523.2 | range, area | -
+w006523.3 | - | -
+w006524.1 | umpire, judge | -
+w006524.2 | - | -
+w006524.3 | umpire, judge | -
+w006525.1 | relay race | -
+w006525.2 | pass on, convey, communicate | -
+w006525.3 | broadcast, transmit | -
+w006525.4 | switch | -
+w006526.1 | fix, fiddle | -
+w006526.2 | - | -
+w006526.3 | equipment, gear, kit | -
+w006526.4 | set up, fit | -
+w006528.1 | - | -
+w006528.2 | roll | -
+w006529.1 | shh, hush | -
+w006530.1 | independence, autonomy | -
+w006531.1 | - | -
+w006531.2 | trick | -
+w006531.3 | hinder, restrict | encourage
+w006532.1 | sunshine | darkness
+w006533.1 | - | -
+w006533.2 | browse | -
+w006533.3 | - | -
+w006534.1 | representative, emblematic | literal
+w006535.1 | synchronization, harmony | -
+w006535.2 | synchronize | -
+w006536.1 | - | -
+w006537.1 | - | -
+w006538.1 | shove, push, drive, plunge | pull
+w006538.2 | gist, point, essence | -
+w006538.3 | force, drive | drag
+w006539.1 | - | -
+w006540.1 | - | -
+w006541.1 | prostitute | -
+w006541.2 | - | -
+w006543.1 | - | -
+w006543.2 | - | -
+w006544.1 | cash machine, cashpoint | -
+w006545.1 | - | -
+w006545.2 | - | -
+w006550.1 | pocket money, payment, grant | -
+w006550.2 | allocation, quota, ration | -
+w006550.3 | consideration | -
+w006552.1 | random, chance | reasoned
+w006552.2 | absolute, despotic | -
+w006553.1 | self-governing, independent | dependent
+w006553.2 | automatic | manual
+w006554.1 | lure | -
+w006554.2 | lure, temptation | -
+w006554.3 | taunt, provoke, tease | -
+w006554.4 | - | -
+w006555.1 | woof | -
+w006555.2 | woof | -
+w006555.3 | - | -
+w006555.4 | shout, snap, yell | whisper
+w006556.1 | - | -
+w006557.1 | - | -
+w006559.1 | fellowship, companionship, comradeship | -
+w006559.2 | society, association, fraternity | -
+w006560.1 | - | -
+w006560.2 | creator, developer, architect | destroyer
+w006561.1 | coach | -
+w006561.2 | coach, car | -
+w006561.3 | transport, delivery, freight | -
+w006562.1 | - | -
+w006563.1 | explain, clear up | confuse
+w006564.1 | freebie | -
+w006564.2 | - | -
+w006564.3 | compensation, pay | -
+w006565.1 | collection, anthology | -
+w006565.2 | - | -
+w006566.1 | songwriter | -
+w006567.1 | make up, form, comprise | -
+w006567.2 | amount to, represent | -
+w006567.3 | establish, set up | -

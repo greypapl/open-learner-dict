@@ -1,0 +1,401 @@
+w007108.1 | bias, bigotry | -
+w007108.2 | bias, influence | -
+w007108.3 | harm, damage, undermine | -
+w007110.1 | likely, possible | improbable, unlikely
+w007110.2 | - | -
+w007111.1 | - | -
+w007111.2 | trial | -
+w007112.1 | forecast, estimate, prediction | -
+w007112.2 | - | -
+w007112.3 | bulge | -
+w007113.1 | - | -
+w007113.2 | jet-black, black | -
+w007114.1 | - | -
+w007115.1 | rehabilitation | -
+w007115.2 | rehabilitation, therapy | -
+w007116.1 | - | -
+w007116.2 | redo, remodel | -
+w007117.1 | - | -
+w007117.2 | copy, replica | original
+w007117.3 | - | -
+w007120.1 | prawn | -
+w007120.2 | - | giant
+w007121.1 | spokesperson, representative | -
+w007122.1 | stand, booth | -
+w007122.2 | cut out | -
+w007122.3 | delay, put off | -
+w007122.4 | booth, cubicle | -
+w007123.1 | belt, band | -
+w007123.2 | fasten, tie, secure | -
+w007124.1 | personal | objective
+w007125.1 | encircle, enclose, ring | -
+w007125.2 | border, frame | -
+w007126.1 | environment, setting | -
+w007127.1 | wide-ranging, extensive, comprehensive, radical | limited
+w007127.2 | general, broad | specific
+w007127.3 | wide | -
+w007128.1 | shocking, upsetting | -
+w007128.2 | - | -
+w007129.1 | - | -
+w007131.1 | seller, trader, hawker | buyer
+w007131.2 | supplier, seller | buyer
+w007132.1 | megabyte | -
+w007133.1 | native, indigenous | -
+w007133.2 | native | -
+w007134.1 | arrangement | -
+w007134.2 | alliance, agreement | -
+w007135.1 | - | -
+w007135.2 | averse | -
+w007136.1 | equipment, device | -
+w007136.2 | structure, system, machinery | -
+w007137.1 | rucksack | -
+w007137.2 | - | -
+w007138.1 | - | -
+w007138.2 | gallery | -
+w007139.1 | - | -
+w007140.1 | joy, happiness, delight, ecstasy | misery
+w007141.1 | physical | mental
+w007141.2 | - | -
+w007142.1 | cushion, barrier | -
+w007142.2 | - | -
+w007142.3 | cushion, protect, shield | -
+w007145.1 | cooperative, joint | -
+w007146.1 | reimburse, repay | -
+w007146.2 | make up for, offset, balance | -
+w007147.1 | helpful, positive, useful | destructive
+w007148.1 | - | -
+w007148.2 | huge, vast, enormous | -
+w007149.1 | - | -
+w007150.1 | clear, certain, fixed | indefinite, vague
+w007150.2 | certain, sure | uncertain
+w007151.1 | - | -
+w007152.1 | - | -
+w007152.2 | - | -
+w007153.1 | interruption, disturbance | -
+w007153.2 | entertainment, amusement, diversion | -
+w007156.1 | - | -
+w007157.1 | environmental | -
+w007157.2 | green | -
+w007158.1 | - | -
+w007160.1 | keep out, ban, bar | include, admit
+w007160.2 | leave out, omit | include
+w007161.1 | free | liable
+w007161.2 | excuse, free, release | -
+w007162.1 | weak, dim, slight | strong, clear
+w007162.2 | dizzy, weak | -
+w007162.3 | pass out, black out, collapse | -
+w007162.4 | blackout | -
+w007163.1 | - | infertility
+w007163.2 | richness | -
+w007164.1 | froth, lather | -
+w007164.2 | sponge | -
+w007164.3 | froth, bubble | -
+w007165.1 | leading, chief, principal, top | -
+w007165.2 | first | -
+w007166.1 | build, create, establish | -
+w007166.2 | fake, counterfeit, copy | -
+w007166.3 | hammer, shape | -
+w007166.4 | - | -
+w007167.1 | hothouse | -
+w007168.1 | ranking, order | -
+w007168.2 | leadership | -
+w007169.1 | void | valid
+w007169.2 | false, unsound | valid
+w007169.3 | patient | -
+w007170.1 | - | -
+w007170.2 | - | -
+w007171.1 | together | separately
+w007173.1 | light | heavy
+w007173.2 | trivial, shallow | serious
+w007173.3 | - | heavyweight
+w007173.4 | nobody | heavyweight
+w007174.1 | - | -
+w007175.1 | discussion | -
+w007176.1 | - | -
+w007176.2 | baby, infant | -
+w007178.1 | level, degree, grade | -
+w007178.2 | cut, nick | -
+w007178.3 | achieve, score, win | -
+w007178.4 | nick, cut | -
+w007179.1 | - | alpha
+w007179.2 | end | beginning
+w007180.1 | - | -
+w007181.1 | satire, spoof, imitation | -
+w007181.2 | travesty, mockery | -
+w007181.3 | mimic, imitate, mock | -
+w007182.1 | - | -
+w007182.2 | - | -
+w007183.1 | contestant | observer
+w007184.1 | - | -
+w007185.1 | ghost, spirit, spectre | -
+w007185.2 | illusion | -
+w007185.3 | imaginary, unreal, illusory | real
+w007186.1 | edit, retouch | -
+w007188.1 | example, model | -
+w007189.1 | common, widespread | rare
+w007190.1 | - | -
+w007191.1 | - | -
+w007191.2 | - | -
+w007192.1 | doubtful, dubious, suspicious | certain
+w007193.1 | line | -
+w007193.2 | line up, wait | -
+w007195.1 | make | -
+w007195.2 | give, provide, offer | -
+w007195.3 | - | -
+w007196.1 | seaman, mariner | -
+w007197.1 | - | -
+w007198.1 | - | -
+w007200.1 | state, define, stipulate | -
+w007201.1 | knife, pierce | -
+w007201.2 | - | -
+w007201.3 | attempt, try, go | -
+w007202.1 | - | -
+w007203.1 | jumper, pullover, jersey | -
+w007204.1 | renter, occupant, lodger | landlord
+w007204.2 | rent | -
+w007206.1 | grip | -
+w007206.2 | support, momentum | -
+w007206.3 | - | -
+w007207.1 | - | -
+w007208.1 | - | -
+w007209.1 | revenue, sales | -
+w007209.2 | - | -
+w007210.1 | unwelcome, unnecessary | welcome
+w007211.1 | version, variation | -
+w007211.2 | different | standard
+w007212.1 | - | -
+w007212.2 | - | -
+w007214.1 | - | -
+w007214.2 | exposure, profile | -
+w007215.1 | - | -
+w007216.1 | whisky | -
+w007217.1 | - | -
+w007217.2 | - | -
+w007217.3 | - | -
+w007220.1 | plentiful, ample, rich | scarce
+w007222.1 | - | -
+w007223.1 | aerial | -
+w007223.2 | feeler | -
+w007224.1 | ascribe, put down to | -
+w007224.2 | ascribe, credit | -
+w007224.3 | quality, feature, characteristic, trait | -
+w007225.1 | tryout | -
+w007225.2 | try out | -
+w007226.1 | well done | -
+w007226.2 | cheer | boo
+w007228.1 | cut, hack, chop up | -
+w007228.2 | cut, slash | -
+w007228.3 | cutlet | -
+w007228.4 | blow | -
+w007232.1 | relative | absolute
+w007232.2 | - | -
+w007233.1 | enhance, go with | -
+w007233.2 | supplement, addition | -
+w007233.3 | - | -
+w007235.1 | defeat, overcome, seize | -
+w007235.2 | overcome, beat | -
+w007236.1 | invasion, occupation, defeat | -
+w007236.2 | - | -
+w007237.1 | consistency, continuation | discontinuity
+w007239.1 | creep | -
+w007239.2 | creep, inch | race
+w007239.3 | - | -
+w007239.4 | freestyle | -
+w007240.1 | believable, plausible, convincing | unbelievable
+w007241.1 | - | blessed
+w007241.2 | damned | -
+w007242.1 | lovely, charming, pleasant, delicious | unpleasant
+w007243.1 | number, figure, numeral | -
+w007243.2 | finger, toe | -
+w007244.1 | - | -
+w007244.2 | relic | -
+w007245.1 | - | -
+w007246.1 | shame, awkwardness, humiliation | pride
+w007246.2 | disgrace | pride
+w007247.1 | justice, equality | unfairness, injustice
+w007248.1 | - | -
+w007249.1 | - | -
+w007250.1 | - | -
+w007250.2 | flowery | -
+w007251.1 | fort, stronghold, castle | -
+w007252.1 | basically, essentially | -
+w007254.1 | - | -
+w007255.1 | - | -
+w007255.2 | - | -
+w007256.1 | flock, pack | -
+w007256.2 | crowd, mass, mob | -
+w007256.3 | round up, drive, gather | scatter
+w007256.4 | tend | -
+w007257.1 | political | -
+w007258.1 | eternal, undying, everlasting | mortal
+w007258.2 | god, legend | mortal
+w007259.1 | holder | challenger
+w007259.2 | current | -
+w007259.3 | obligatory, necessary | -
+w007260.1 | - | outsider
+w007261.1 | inadequate | sufficient, enough
+w007262.1 | gap, pause, break | -
+w007262.2 | interlude, break, intermission | -
+w007263.1 | - | -
+w007263.2 | jam | -
+w007263.3 | gel | -
+w007265.1 | - | -
+w007265.2 | beat, defeat | -
+w007265.3 | - | -
+w007266.1 | basic, strict | figurative
+w007266.2 | exact | free
+w007266.3 | actual, real, true | -
+w007267.1 | - | solar
+w007267.2 | - | solar
+w007268.1 | motherly | paternal
+w007268.2 | - | paternal
+w007273.1 | autobiography | -
+w007273.2 | biography | -
+w007275.1 | change, alteration, adjustment | -
+w007276.1 | mould, fungus | -
+w007276.2 | mould, cast | -
+w007276.3 | shape, form, mould | -
+w007277.1 | nearby, adjacent | distant
+w007279.1 | protest, opposition | approval
+w007279.2 | argument | -
+w007280.1 | event, incident | -
+w007280.2 | appearance, existence | -
+w007281.1 | young | -
+w007283.1 | shocking, scandalous | acceptable
+w007283.2 | extraordinary, wild, crazy | -
+w007284.1 | pack | -
+w007284.2 | - | -
+w007285.1 | path, track, footpath | -
+w007285.2 | route, way, path | -
+w007286.1 | - | -
+w007286.2 | - | -
+w007287.1 | - | -
+w007287.2 | - | -
+w007288.1 | host, anchor | -
+w007288.2 | speaker | -
+w007289.1 | ban | permission
+w007289.2 | - | -
+w007290.1 | - | -
+w007290.2 | support | -
+w007290.3 | lean, support, prop up | -
+w007291.1 | registry office | -
+w007291.2 | register, record | -
+w007292.1 | ease, alleviate, reduce | worsen
+w007292.2 | reassure, comfort | worry
+w007292.3 | replace | -
+w007293.1 | extremely, unusually, exceptionally | -
+w007293.2 | surprisingly, amazingly | -
+w007294.1 | mark | -
+w007294.2 | trauma, wound | -
+w007294.3 | mark, damage | -
+w007295.1 | science fiction | -
+w007296.1 | - | -
+w007297.1 | - | -
+w007297.2 | - | -
+w007298.1 | workshop, class | -
+w007300.1 | ease, clarity | complexity
+w007300.2 | plainness | -
+w007301.1 | gently, quietly | loudly
+w007303.1 | - | -
+w007303.2 | - | mono
+w007305.1 | - | -
+w007306.1 | - | -
+w007306.2 | orchestra | -
+w007307.1 | coursebook | -
+w007307.2 | classic, typical, model | -
+w007308.1 | - | -
+w007309.1 | merchant, dealer | -
+w007309.2 | dealer, broker | -
+w007310.1 | secret, covert | open
+w007310.2 | secretly | openly
+w007311.1 | - | -
+w007311.2 | sweetheart | -
+w007312.1 | greenery | -
+w007313.1 | - | artery
+w007313.2 | style, mood, manner | -
+w007313.3 | seam | -
+w007314.1 | - | -
+w007315.1 | audience | -
+w007315.2 | observer, onlooker, spectator | -
+w007318.1 | - | -
+w007318.2 | - | -
+w007318.3 | wriggle, squirm, crawl | -
+w007322.1 | celebrity, dignitary | -
+w007323.1 | - | -
+w007324.1 | start, trigger, turn on | deactivate
+w007326.1 | funny, entertaining, humorous | boring
+w007327.1 | see, look at, observe | -
+w007328.1 | one-sided, partial | unbiased, fair
+w007329.1 | - | -
+w007332.1 | avoid, get round, skirt | -
+w007332.2 | ring road | -
+w007332.3 | - | -
+w007333.1 | computation, sum | -
+w007333.2 | planning | -
+w007334.1 | - | -
+w007335.1 | walking stick, stick | -
+w007335.2 | stem | -
+w007335.3 | beat, whip | -
+w007336.1 | trigger, stimulus, spur | -
+w007336.2 | - | -
+w007337.1 | - | -
+w007339.1 | body | -
+w007340.1 | - | -
+w007340.2 | - | -
+w007341.1 | brutality, abuse | kindness
+w007343.1 | - | -
+w007344.1 | name, title, label | -
+w007344.2 | appointment, selection | -
+w007345.1 | developer, programmer | -
+w007345.2 | development | -
+w007346.1 | die | -
+w007346.2 | cube, chop | -
+w007347.1 | certificate | -
+w007348.1 | send | recall
+w007348.2 | send, post, ship | receive
+w007348.3 | delivery | -
+w007348.4 | report, message | -
+w007349.1 | - | -
+w007350.1 | - | -
+w007351.1 | - | survival
+w007352.1 | - | -
+w007352.2 | contrast | -
+w007352.3 | thwart, frustrate, defeat | -
+w007355.1 | - | -
+w007355.2 | - | -
+w007357.1 | - | -
+w007360.1 | moor, moorland | -
+w007360.2 | heather | -
+w007361.1 | celestial, divine | earthly
+w007361.2 | wonderful, delightful, lovely | awful
+w007362.1 | horrible, terrible, dreadful, shocking | -
+w007364.1 | bug | -
+w007365.1 | - | -
+w007365.2 | - | -
+w007367.1 | - | -
+w007367.2 | recording | -
+w007369.1 | mindset, attitude, outlook | -
+w007370.1 | - | -
+w007370.2 | rhythm | -
+w007372.1 | - | -
+w007373.1 | bulletin | -
+w007374.1 | - | -
+w007374.2 | - | -
+w007375.1 | - | -
+w007376.1 | oh | -
+w007379.1 | - | -
+w007379.2 | - | -
+w007380.1 | extraordinary, remarkable, amazing, outstanding | ordinary
+w007381.1 | - | -
+w007381.2 | exact, detailed | -
+w007382.1 | nip, squeeze | -
+w007382.2 | steal, nick | -
+w007382.3 | bit, dash | -
+w007382.4 | nip | -
+w007383.1 | - | -
+w007383.2 | message, contact | -
+w007383.3 | ring | -
+w007384.1 | foreseeable, expected | unpredictable
+w007384.2 | unoriginal, boring | surprising
+w007386.1 | competently, expertly | -
+w007386.2 | - | -

@@ -1,0 +1,400 @@
+w002272.1 | trend, habit, system | -
+w002272.2 | design | -
+w002272.3 | template, model | -
+w002273.1 | staff, workforce | -
+w002273.2 | human resources | -
+w002274.1 | point of view, viewpoint, view, outlook | -
+w002274.2 | proportion | -
+w002274.3 | - | -
+w002275.1 | - | -
+w002275.2 | meaningful, significant | -
+w002276.1 | prime minister | -
+w002276.2 | leading, top, foremost, chief | -
+w002277.1 | encourage, support, boost, further | discourage, hinder
+w002277.2 | advertise, market, publicize | -
+w002277.3 | upgrade | demote
+w002278.1 | uprising, rebellion, revolt | -
+w002278.2 | transformation, upheaval | -
+w002278.3 | rotation, turn | -
+w002279.1 | serious, acute, extreme, intense | mild, slight
+w002279.2 | strict, harsh, stern | lenient
+w002279.3 | plain, austere, simple | ornate
+w002280.1 | think, believe, guess, assume | -
+w002280.2 | imagine, assume, presume | -
+w002282.1 | implement, instrument, device | -
+w002282.2 | means, instrument, aid | -
+w002283.1 | competition, championship, contest | -
+w002284.1 | - | -
+w002284.2 | flop, failure, disaster | success, hit
+w002286.1 | casualty, sufferer | -
+w002287.1 | - | -
+w002289.1 | detain, seize, catch | release, free
+w002289.2 | detention, capture | release
+w002289.3 | stop, halt, check | -
+w002290.1 | - | miss
+w002290.2 | - | -
+w002290.3 | deal with, take care of, see to, look after | neglect
+w002291.1 | forbid, prohibit, outlaw, bar | allow, permit
+w002291.2 | prohibition, embargo | permission
+w002292.1 | clever, gifted, talented, brainy | stupid
+w002292.2 | excellent, great, superb, wonderful | terrible, awful
+w002292.3 | bright, dazzling, shining | dull, dim
+w002293.1 | - | -
+w002293.2 | carbon dioxide | -
+w002294.1 | - | -
+w002294.2 | - | -
+w002294.3 | wide, broad, varied, diverse | narrow
+w002295.1 | ring, round, loop | -
+w002295.2 | group, set, crowd | -
+w002295.3 | ring, surround, encircle | -
+w002296.1 | performance, gig, recital | -
+w002296.2 | cooperation, agreement | -
+w002297.1 | accident, collision, smash | -
+w002297.2 | smash, collide, bump | -
+w002297.3 | break down, fail | -
+w002297.4 | collapse, slump | boom
+w002298.1 | bring, take, carry, convey | collect
+w002298.2 | give, present, make | -
+w002298.3 | carry out, fulfil, achieve | fail
+w002299.1 | deepness | height
+w002299.2 | profundity, thoroughness | superficiality
+w002299.3 | middle, heart | -
+w002300.1 | assistant, substitute | -
+w002300.2 | assistant, vice | -
+w002301.1 | unclean, filthy, dusty, muddy | clean
+w002301.2 | rude, obscene, indecent | clean
+w002301.3 | dishonest, unfair, crooked | honest, fair
+w002301.4 | soil, stain, mark | clean
+w002302.1 | digital | -
+w002303.1 | mistake, fault, slip, blunder | -
+w002304.1 | being, reality | absence
+w002304.2 | life, lifestyle, way of life | -
+w002305.1 | display, communication, demonstration | -
+w002305.2 | look, face | -
+w002305.3 | phrase, term, idiom | -
+w002306.1 | plant, mill | -
+w002307.1 | inside, centre | exterior, outside
+w002307.2 | inside, internal, inner | exterior, external
+w002307.3 | heartland | coast
+w002308.1 | happiness, delight, pleasure, glee | sorrow, misery
+w002308.2 | delight, pleasure, treat | -
+w002309.1 | junior | senior
+w002311.1 | law | -
+w002311.2 | lawmaking | -
+w002312.1 | upkeep, care, repair | neglect
+w002312.2 | continuation, preservation | -
+w002312.3 | alimony, support | -
+w002313.1 | way, method, style, fashion | -
+w002313.2 | behaviour, attitude, air, bearing | -
+w002313.3 | etiquette, courtesy | -
+w002314.1 | friend, buddy, pal | -
+w002314.2 | partner | -
+w002314.3 | breed | -
+w002316.1 | near, close, neighbouring, local | distant
+w002316.2 | near, close by, around | far away
+w002317.1 | sound, din, racket, row | silence
+w002317.2 | interference | signal
+w002318.1 | source, beginning, root, start | end
+w002318.2 | background, descent, ancestry | -
+w002319.1 | committee, board, jury | -
+w002319.2 | sheet, section | -
+w002319.3 | console, dashboard | -
+w002320.1 | character, nature, temperament | -
+w002320.2 | celebrity, star | -
+w002321.1 | dish | -
+w002321.2 | sheet | -
+w002321.3 | number plate | -
+w002322.1 | get ready, arrange, plan | -
+w002322.2 | make, cook, fix | -
+w002323.1 | comfort, consolation | anxiety, worry
+w002323.2 | comfort, alleviation | -
+w002323.3 | aid, help, assistance | -
+w002324.1 | opposition, refusal, defiance | acceptance
+w002324.2 | immunity | -
+w002324.3 | - | -
+w002325.1 | - | wholesale
+w002325.2 | sell | -
+w002325.3 | - | wholesale
+w002326.1 | - | -
+w002327.1 | - | floor
+w002327.2 | cover | -
+w002328.1 | pity | -
+w002328.2 | guilt, embarrassment, humiliation, disgrace | pride
+w002328.3 | embarrass, humiliate, disgrace | -
+w002329.1 | rather, fairly, quite, slightly | -
+w002330.1 | certainly, definitely, of course | -
+w002330.2 | steadily, safely | -
+w002331.1 | gratuity | -
+w002331.2 | advice, hint, suggestion, pointer | -
+w002331.3 | point, end, top | base
+w002331.4 | tilt, lean, tip over | -
+w002331.5 | reward | -
+w002334.1 | - | -
+w002334.2 | - | -
+w002336.1 | - | -
+w002336.2 | council | -
+w002337.1 | complete, total, utter, perfect | partial
+w002337.2 | unlimited, unconditional, total | limited, relative
+w002338.1 | promotion, marketing, publicity | -
+w002339.1 | - | -
+w002340.1 | toilet, washroom, restroom | -
+w002341.1 | Scripture | -
+w002341.2 | handbook, guide, manual | -
+w002342.1 | wire, cord, rope | -
+w002342.2 | - | -
+w002343.1 | relaxed, peaceful, cool | nervous, anxious
+w002343.2 | soothe, settle, calm down, quiet | upset, excite
+w002343.3 | still, smooth, tranquil | rough, stormy
+w002343.4 | peace, quiet, stillness, tranquillity | storm, chaos
+w002344.1 | competition, tournament, contest | -
+w002344.2 | title | -
+w002345.1 | customer, patron | -
+w002345.2 | - | server
+w002346.1 | continuous, continual, endless, persistent | occasional
+w002346.2 | steady, stable, fixed, unchanging | variable
+w002346.3 | - | variable
+w002347.1 | stupid, silly, foolish | clever, smart
+w002347.2 | mute | -
+w002347.3 | speechless, silent | -
+w002348.1 | kingdom, realm | -
+w002348.2 | - | -
+w002349.1 | thrilling | boring, dull
+w002350.1 | growth, increase, enlargement, development | contraction, reduction
+w002350.2 | swelling | contraction
+w002351.1 | greatly, very much, a lot | lightly
+w002351.2 | slowly, ponderously | lightly
+w002352.1 | conceal, cover, put away | reveal, show
+w002352.2 | conceal, cover up, disguise | reveal, show
+w002352.3 | skin, leather | -
+w002353.1 | event, occurrence, episode | -
+w002355.1 | succeed, cope, get by | fail
+w002355.2 | run, control, direct, handle | -
+w002355.3 | cope, deal with, handle | -
+w002358.1 | print out | -
+w002358.2 | publish | -
+w002358.3 | type, text | -
+w002358.4 | mark, impression | -
+w002358.5 | - | -
+w002359.1 | leave, resign, give up | stay
+w002359.2 | stop, give up, cease | start, continue
+w002359.3 | exit, close | open
+w002360.1 | coverage, journalism | -
+w002361.1 | vision, eyesight | blindness
+w002361.2 | view, scene, spectacle | -
+w002361.3 | - | -
+w002362.1 | considerably, substantially, greatly, markedly | slightly
+w002362.2 | meaningfully, notably | -
+w002363.1 | - | -
+w002363.2 | chirp, warble | -
+w002364.1 | arms | -
+w002364.2 | tool, means | -
+w002365.1 | damp, moist, wet through | dry
+w002365.2 | rainy, damp | dry, fine
+w002365.3 | fresh | dry
+w002365.4 | soak, dampen, moisten | dry
+w002366.1 | extensively, broadly | -
+w002366.2 | greatly, considerably | slightly
+w002367.1 | global, international, universal | local
+w002367.2 | globally, everywhere | locally
+w002369.1 | computer | -
+w002369.2 | politically correct | -
+w002369.3 | - | -
+w002370.1 | - | -
+w002371.1 | good-looking, pretty, handsome, beautiful | ugly, unattractive
+w002371.2 | appealing, desirable | unattractive
+w002372.1 | bicycle, motorcycle | -
+w002372.2 | cycle | -
+w002373.1 | wide, large | narrow
+w002373.2 | wide, wide-ranging, extensive | narrow
+w002373.3 | general, rough, overall | detailed, specific
+w002374.1 | blaze, catch fire, set fire to | -
+w002374.2 | scald, scorch | -
+w002374.3 | scald | -
+w002374.4 | copy | -
+w002375.1 | - | -
+w002375.2 | bar, block | -
+w002375.3 | coat, cover | -
+w002376.1 | nearly, intimately | loosely
+w002376.2 | carefully, attentively | carelessly
+w002377.1 | always, continually, all the time | rarely, seldom
+w002378.1 | competition, tournament | -
+w002378.2 | struggle, fight, battle | -
+w002378.3 | compete for, fight for | -
+w002378.4 | challenge, dispute, oppose, question | accept
+w002379.1 | haggard, tired, pale | -
+w002379.2 | closed, shut | open
+w002381.1 | - | -
+w002382.1 | barely, scarcely | -
+w002382.2 | barely, scarcely, only just | -
+w002382.3 | not at all | -
+w002383.1 | - | -
+w002384.1 | tallness, elevation | depth
+w002384.2 | hill, top | -
+w002384.3 | peak, top, climax | -
+w002385.1 | secret | visible, obvious
+w002387.1 | noisy, deafening | quiet, soft
+w002387.2 | loudly, aloud | quietly, softly
+w002387.3 | bright, flashy, gaudy | subdued
+w002388.1 | sea, ocean | -
+w002388.2 | maritime, naval | -
+w002388.3 | - | -
+w002389.1 | engine | -
+w002389.2 | - | -
+w002389.3 | - | -
+w002390.1 | formally, publicly | unofficially
+w002390.2 | supposedly, apparently | -
+w002391.1 | top, height, climax | low
+w002391.2 | summit, top | base
+w002391.3 | top out | -
+w002391.4 | top | -
+w002392.1 | part, share, section, piece | whole
+w002392.2 | serving | -
+w002393.1 | - | -
+w002394.1 | - | -
+w002395.1 | uncooked | -
+w002395.2 | crude, natural, unprocessed | -
+w002395.3 | strong, intense | -
+w002396.1 | change, improvement, reorganization | -
+w002396.2 | improve, change, reorganize | -
+w002396.3 | improve, change | -
+w002397.1 | reply, answer | -
+w002397.2 | react, answer | ignore
+w002397.3 | improve | -
+w002398.1 | - | -
+w002399.1 | specimen, example | -
+w002399.2 | try, taste, test | -
+w002399.3 | - | -
+w002400.1 | minor, lesser, subordinate | primary, main
+w002400.2 | high school | primary
+w002400.3 | indirect | primary
+w002401.1 | - | -
+w002402.1 | - | -
+w002402.2 | for some reason | -
+w002403.1 | pain, misery, distress, agony | -
+w002406.1 | final, eventual, last | initial
+w002406.2 | supreme | -
+w002406.3 | basic, fundamental | -
+w002407.1 | unidentified, unfamiliar | -
+w002407.2 | obscure | famous, well-known
+w002407.3 | mystery | -
+w002412.1 | fixed | detached
+w002412.2 | fond, devoted | -
+w002413.1 | mechanically | manually
+w002413.2 | instinctively | consciously
+w002414.1 | cell | -
+w002414.2 | range, series, set | -
+w002414.3 | assault | -
+w002415.1 | sightless, unsighted | sighted
+w002415.2 | unaware, ignorant | aware
+w002415.3 | shade, shutter | -
+w002415.4 | dazzle | -
+w002416.1 | - | -
+w002416.2 | - | -
+w002417.1 | short, quick, concise | long, lengthy
+w002417.2 | inform, instruct | -
+w002417.3 | - | -
+w002418.1 | breast | -
+w002418.2 | box, trunk | -
+w002419.1 | carry out, do, run, perform | -
+w002419.2 | behaviour | -
+w002419.3 | direct, lead | -
+w002419.4 | transmit, carry | insulate
+w002421.1 | launch, premiere | -
+w002421.2 | launch, premiere | -
+w002422.1 | - | -
+w002423.1 | demolish, wreck, ruin, knock down | build, create
+w002423.2 | ruin, wreck, shatter | -
+w002426.1 | - | -
+w002426.2 | busy, occupied | idle, free
+w002426.3 | busy, occupied | free, available
+w002427.1 | outside, outer, exterior | internal, inner
+w002427.2 | foreign, international | domestic
+w002428.1 | dream, daydream, fancy | reality
+w002428.2 | - | -
+w002429.1 | foot | -
+w002430.1 | seize, snatch, grasp, grip | release, let go
+w002430.2 | take, catch, snatch | -
+w002430.3 | snatch | -
+w002432.1 | instant, prompt, quick | -
+w002432.2 | current, urgent, pressing, present | -
+w002432.3 | next | distant
+w002433.1 | presentation | -
+w002433.2 | launch, establishment | removal
+w002433.3 | preface, foreword, opening | conclusion
+w002434.1 | permit, certificate | -
+w002434.2 | permit, allow, authorize | ban, forbid
+w002434.3 | freedom, liberty | -
+w002437.1 | colour | -
+w002437.2 | coat, colour | -
+w002437.3 | draw | -
+w002437.4 | portray, depict, describe | -
+w002438.1 | aviator, airman | -
+w002438.2 | trial, test, experimental | -
+w002438.3 | fly, steer, guide, navigate | -
+w002438.4 | test, trial, try out | -
+w002439.1 | rosy | -
+w002439.2 | - | -
+w002440.1 | - | -
+w002441.1 | main, chief, primary, leading | minor
+w002441.2 | head teacher, head, headmaster | -
+w002441.3 | capital | interest
+w002442.1 | identify, know, remember | -
+w002442.2 | accept, acknowledge, admit | deny, reject
+w002442.3 | honour, acknowledge, reward | ignore
+w002443.1 | official | unregistered
+w002443.2 | - | -
+w002444.1 | often, frequently, routinely | rarely, seldom
+w002444.2 | evenly, steadily | irregularly
+w002445.1 | delivery, transport | -
+w002445.2 | - | -
+w002446.1 | vocalist | -
+w002447.1 | - | -
+w002447.2 | smoky | -
+w002448.1 | vapour | -
+w002448.2 | - | -
+w002448.3 | - | -
+w002448.4 | energy, power, momentum | -
+w002449.1 | live, pull through, come through | die
+w002449.2 | last, continue, endure | -
+w002449.3 | outlive | -
+w002450.1 | high, big, giant | short
+w002450.2 | high | -
+w002452.1 | playhouse | -
+w002452.2 | drama, stage | -
+w002452.3 | - | -
+w002453.1 | treatment, cure, remedy | -
+w002453.2 | psychotherapy | -
+w002454.1 | observer, onlooker, bystander, eyewitness | -
+w002454.2 | - | defendant
+w002454.3 | see, observe, watch | -
+w002454.4 | see | -
+w002455.1 | January | -
+w002456.1 | goal, objective, target, purpose | -
+w002456.2 | intend, plan, mean, try | -
+w002456.3 | point, direct, target | -
+w002456.4 | - | -
+w002457.1 | - | -
+w002458.1 | - | -
+w002458.2 | lid, top | -
+w002458.3 | limit, ceiling | -
+w002458.4 | limit, restrict | -
+w002459.1 | youth, infancy | adulthood
+w002460.1 | - | -
+w002460.2 | cold, detached, impersonal | warm, emotional
+w002461.1 | - | tragedy
+w002461.2 | humour, fun | -
+w002462.1 | leader, chief, commanding officer | -
+w002462.2 | - | -
+w002463.1 | contrast | -
+w002463.2 | similarity, resemblance | difference
+w002465.1 | beat, conquer, overcome | -
+w002465.2 | loss, failure | victory, win
+w002465.3 | stop, prevent, block, foil | -
+w002466.1 | protection, guard | attack
+w002466.2 | military, armed forces | -
+w002466.3 | - | prosecution
+w002467.1 | - | dictatorship
+w002467.2 | republic | dictatorship
+w002468.1 | thorough, full, comprehensive | general, brief
+w002469.1 | precise, accurate, correct | approximate, rough
+w002469.2 | demand, extract | -

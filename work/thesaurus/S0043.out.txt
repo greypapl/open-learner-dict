@@ -1,0 +1,400 @@
+w009250.1 | bizarre, dreamlike, strange | -
+w009251.1 | mock, taunt, make fun of | -
+w009251.2 | tantalize | -
+w009251.3 | - | -
+w009253.1 | - | receiver
+w009253.2 | carrier | -
+w009254.1 | hurricane, cyclone | -
+w009255.1 | strange, unbelievable | real
+w009255.2 | incredible, amazing | -
+w009256.1 | immunization, inoculation | -
+w009258.1 | tremor | -
+w009258.2 | vibe, atmosphere | -
+w009259.1 | - | peacetime
+w009260.1 | - | -
+w009260.2 | gate | -
+w009264.1 | - | -
+w009265.1 | - | -
+w009265.2 | - | -
+w009266.1 | - | -
+w009266.2 | - | -
+w009268.1 | - | -
+w009268.2 | abs | -
+w009269.1 | teenager, youth, teen | adult
+w009269.2 | teenage, young | adult
+w009269.3 | childish, immature | mature
+w009270.1 | presenter, broadcaster | -
+w009272.1 | backcloth, scenery | -
+w009272.2 | background, setting, context | -
+w009273.1 | darling, sweetheart | -
+w009274.1 | boyfriend, admirer | -
+w009275.1 | power cut, outage | -
+w009275.2 | faint | -
+w009275.3 | ban, censorship | -
+w009276.1 | deceive, pretend, fake | -
+w009276.2 | deception, pretence, trick | -
+w009276.3 | cliff, bank | -
+w009277.1 | - | -
+w009278.1 | - | -
+w009278.2 | syndicate | -
+w009279.1 | disastrous, devastating, calamitous | -
+w009280.1 | - | -
+w009280.2 | group, faction | -
+w009280.3 | - | -
+w009281.1 | - | -
+w009281.2 | - | -
+w009281.3 | grey | -
+w009282.1 | corny, tacky, sentimental | -
+w009282.2 | - | -
+w009285.1 | - | -
+w009285.2 | - | -
+w009286.1 | dressed, covered | -
+w009286.2 | cover | -
+w009287.1 | - | -
+w009287.2 | indirect, veiled | direct
+w009288.1 | journalist, writer | -
+w009289.1 | ability, skill, capability | incompetence
+w009289.2 | jurisdiction, authority | -
+w009290.1 | voter | -
+w009290.2 | component, element, part | whole
+w009290.3 | component | -
+w009291.1 | infectious, catching | -
+w009291.2 | infectious, catching | -
+w009292.1 | handily | inconveniently
+w009292.2 | - | -
+w009293.1 | court | -
+w009294.1 | pillow | -
+w009294.2 | buffer, protection | -
+w009294.3 | soften, absorb | -
+w009295.1 | - | -
+w009297.1 | - | -
+w009297.2 | order, command | -
+w009297.3 | determine, govern, control | -
+w009297.4 | order, command, principle | -
+w009299.1 | dormitory, hall | -
+w009300.1 | drop, dribble, trickle | -
+w009300.2 | drop | -
+w009300.3 | - | -
+w009301.1 | pipe, tube, channel | -
+w009301.2 | tube, canal | -
+w009302.1 | odd, strange, peculiar, weird | normal, conventional
+w009302.2 | oddball | -
+w009303.1 | - | -
+w009304.1 | - | -
+w009305.1 | symbol, badge, crest | -
+w009305.2 | symbol, sign | -
+w009306.1 | yuck | -
+w009308.1 | - | -
+w009309.1 | afraid, frightened, scared | fearless, brave
+w009309.2 | frightening, terrible, dreadful | -
+w009310.1 | celebratory, merry | -
+w009311.1 | leaflet, handout, pamphlet | -
+w009311.2 | pilot, passenger | -
+w009312.1 | supervisor, overseer | -
+w009312.2 | - | -
+w009315.1 | - | -
+w009318.1 | inappropriate, unsuitable, wrong | proper
+w009318.2 | dishonest, unethical | proper
+w009319.1 | flood, inflow, rush | exodus
+w009320.1 | payment | -
+w009320.2 | episode, part | -
+w009322.1 | seed, nut | -
+w009322.2 | core, heart, essence | -
+w009322.3 | - | -
+w009324.1 | cooperation, contact, communication | -
+w009324.2 | contact, link | -
+w009324.3 | affair, romance | -
+w009326.1 | - | -
+w009328.1 | - | -
+w009328.2 | patchwork, mixture | -
+w009329.1 | - | -
+w009331.1 | poor | rich, wealthy
+w009331.2 | clingy, demanding | independent
+w009333.1 | - | -
+w009333.2 | - | -
+w009333.3 | appearance, image | -
+w009334.1 | - | -
+w009334.2 | - | -
+w009336.1 | - | -
+w009337.1 | - | -
+w009338.1 | invaluable, precious | worthless
+w009338.2 | hilarious | -
+w009339.1 | whore | -
+w009339.2 | - | -
+w009340.1 | thoughtful, contemplative | -
+w009340.2 | - | -
+w009340.3 | indicative | -
+w009341.1 | toughness | -
+w009341.2 | elasticity, flexibility | -
+w009342.1 | turn, spin, revolve | -
+w009342.2 | alternate, take turns | -
+w009344.1 | without | with
+w009345.1 | - | -
+w009346.1 | coast, seashore, beach | -
+w009346.2 | coastal | inland
+w009347.1 | - | -
+w009347.2 | wash | -
+w009350.1 | quietly, noiselessly | loudly, noisily
+w009351.1 | likeness, resemblance | difference
+w009353.1 | - | -
+w009353.2 | sharp, piercing | dull
+w009354.1 | stairs, stairway | -
+w009355.1 | - | -
+w009355.2 | - | -
+w009355.3 | hit, strike, swing | -
+w009355.4 | dig, jibe | -
+w009356.1 | tanginess, sharpness | -
+w009357.1 | - | -
+w009357.2 | - | -
+w009358.1 | telecommunications | -
+w009359.1 | open-minded | intolerant
+w009359.2 | resistant, hardy | -
+w009360.1 | poisonousness | -
+w009360.2 | - | -
+w009361.1 | - | -
+w009361.2 | proclaim, boast | -
+w009362.1 | TB | -
+w009363.1 | readily, gladly | unwillingly, reluctantly
+w009364.1 | wrapper, packaging | -
+w009365.1 | young, energetic | old, elderly
+w009366.1 | - | -
+w009367.1 | - | -
+w009367.2 | - | -
+w009371.1 | follow, observe, obey | -
+w009371.2 | stick, cling | -
+w009372.1 | positive | negative
+w009372.2 | yes | negative
+w009375.1 | unclear, vague, uncertain | clear, unambiguous
+w009376.1 | - | -
+w009377.1 | bottom, backside, bum | -
+w009377.2 | idiot, fool | -
+w009378.1 | post-mortem | -
+w009379.1 | attack, onslaught, raid | -
+w009379.2 | attack, bombard | -
+w009380.1 | barricade, siege | -
+w009380.2 | block, barricade | -
+w009381.1 | - | -
+w009382.1 | light, glow, radiance | darkness, dimness
+w009383.1 | cunning, shrewd | naive
+w009384.1 | - | -
+w009384.2 | shell, round | -
+w009385.1 | teller | -
+w009386.1 | - | -
+w009387.1 | about, around, approximately | -
+w009389.1 | cape | -
+w009389.2 | cover, mask, veil | -
+w009389.3 | hide, cover, conceal | reveal
+w009391.1 | burning | -
+w009392.1 | understanding, grasp | -
+w009392.2 | - | -
+w009393.1 | compromise | -
+w009393.2 | discount, reduction | -
+w009393.3 | franchise, licence | -
+w009394.1 | faulty, broken | -
+w009395.1 | expulsion | -
+w009396.1 | worthy | undeserving
+w009397.1 | deter, dissuade, put off | encourage
+w009397.2 | dishearten, demoralize | encourage
+w009398.1 | - | delighted
+w009399.1 | throwaway | reusable
+w009399.2 | available, spare | -
+w009401.1 | cell, prison | -
+w009402.1 | brood | -
+w009402.2 | live, reside, inhabit | -
+w009404.1 | enterprise | -
+w009405.1 | flaming | -
+w009405.2 | passionate, fierce | calm
+w009406.1 | change, instability | stability
+w009406.2 | flow | -
+w009409.1 | - | -
+w009410.1 | silly, foolish, daft | serious
+w009412.1 | writing, script | -
+w009413.1 | bother, trouble, nuisance | -
+w009413.2 | harass, pester, bother | -
+w009414.1 | tragic, devastating | heartwarming
+w009416.1 | pig, swine | -
+w009416.2 | monopolize | share
+w009417.1 | enormously, hugely, extremely | slightly
+w009418.1 | induction | -
+w009418.2 | opening, launch | closure
+w009419.1 | wrongly, mistakenly | correctly
+w009421.1 | suggestive, symptomatic | -
+w009421.2 | - | -
+w009422.1 | cheap, affordable | expensive
+w009423.1 | stop, catch, block | -
+w009423.2 | interception | -
+w009424.1 | instinctive | -
+w009424.2 | user-friendly, easy | -
+w009425.1 | create, devise, design | -
+w009425.2 | make up, fabricate, concoct | -
+w009428.1 | - | -
+w009428.2 | - | -
+w009429.1 | - | -
+w009429.2 | compete, vie | -
+w009430.1 | cheerful, merry, happy | gloomy
+w009430.2 | very | -
+w009433.1 | - | -
+w009433.2 | - | -
+w009434.1 | - | longitude
+w009434.2 | freedom, scope, leeway | -
+w009435.1 | meadow, field | -
+w009436.1 | - | -
+w009436.2 | - | authoritarian
+w009437.1 | - | -
+w009438.1 | magnificent, grand, splendid | -
+w009439.1 | skill, expertise, command | -
+w009439.2 | control, dominance | -
+w009441.1 | city | -
+w009442.1 | mum, mother, mommy | daddy
+w009442.2 | - | -
+w009443.1 | propose, put forward | -
+w009443.2 | appoint, name, choose | -
+w009444.1 | upset, insult, hurt | please
+w009444.2 | - | -
+w009446.1 | - | -
+w009447.1 | planner, coordinator | -
+w009447.2 | - | -
+w009448.1 | - | -
+w009448.2 | - | -
+w009450.1 | limit, boundary, framework | -
+w009450.2 | variable | -
+w009451.1 | - | -
+w009451.2 | - | -
+w009453.1 | - | -
+w009453.2 | shrill, penetrating, sharp | -
+w009454.1 | toxic, deadly, venomous | harmless
+w009454.2 | toxic, harmful | -
+w009455.1 | parade, march | -
+w009456.1 | remove, eliminate, clear out | -
+w009456.2 | removal, elimination | -
+w009457.1 | move | -
+w009458.1 | rhinoceros | -
+w009459.1 | - | -
+w009460.1 | - | -
+w009461.1 | hygiene | -
+w009462.1 | adequate, acceptable, sufficient | unsatisfactory
+w009463.1 | - | -
+w009463.2 | - | -
+w009464.1 | confidentiality, privacy | openness
+w009465.1 | disgraceful, shocking, scandalous | honourable
+w009467.1 | - | -
+w009468.1 | sweetheart, darling, honey | -
+w009468.2 | sweet, candy | -
+w009469.1 | puffy, bloated | -
+w009469.2 | - | -
+w009470.1 | - | -
+w009471.1 | tourist, passenger | -
+w009472.1 | um, er | -
+w009473.1 | unofficial, illegal | -
+w009474.1 | untie, unfasten, open | fasten, tie
+w009474.2 | reverse, cancel | redo
+w009474.3 | ruin | -
+w009475.1 | anonymous, unidentified | -
+w009476.1 | disturbing, worrying | reassuring
+w009477.1 | poison, toxin | -
+w009477.2 | hatred, malice, spite | -
+w009478.1 | winning, triumphant, successful | -
+w009479.1 | cautious, careful, suspicious | unwary
+w009480.1 | health, well-being | -
+w009481.1 | breezy, blustery | calm
+w009482.1 | - | -
+w009482.2 | - | -
+w009485.1 | Mr | -
+w009488.1 | belly, stomach, tummy | -
+w009489.1 | suddenly, unexpectedly | gradually
+w009489.2 | curtly, rudely | -
+w009490.1 | - | -
+w009491.1 | amid, among | -
+w009492.1 | - | arctic
+w009492.2 | - | arctic
+w009493.1 | tank | -
+w009494.1 | would-be, budding, hopeful | -
+w009495.1 | - | -
+w009496.1 | beat, pound, hammer | -
+w009496.2 | - | -
+w009496.3 | hitter | -
+w009498.1 | - | -
+w009499.1 | stuff | -
+w009501.1 | redden, flush | -
+w009501.2 | flush | -
+w009501.3 | rouge | -
+w009502.1 | - | -
+w009502.2 | - | -
+w009503.1 | roll | -
+w009503.2 | - | -
+w009504.1 | - | -
+w009505.1 | quietly, peacefully, coolly | nervously
+w009506.1 | confinement, imprisonment | freedom
+w009507.1 | disaster, calamity, tragedy | -
+w009508.1 | chemo | -
+w009509.1 | travel | -
+w009509.2 | journey | -
+w009509.3 | reduce | -
+w009510.1 | matching | -
+w009510.2 | alternative | -
+w009511.1 | - | -
+w009512.1 | - | -
+w009513.1 | - | -
+w009514.1 | argue, claim, maintain | -
+w009514.2 | compete, vie | -
+w009514.3 | cope, deal | -
+w009515.1 | sentence | acquit
+w009515.2 | prisoner, inmate | -
+w009516.1 | cooking | -
+w009517.1 | noise, racket, uproar | silence
+w009518.1 | separate, distinct | continuous
+w009519.1 | disagreement, objection, opposition | agreement, consent
+w009519.2 | disagree, object | agree, assent
+w009520.1 | interrupt, bother, disrupt | -
+w009520.2 | upset, worry, trouble | reassure
+w009520.3 | move, disarrange | -
+w009521.1 | distinguished, prominent, renowned | unknown
+w009522.1 | coding | decryption
+w009523.1 | effort, attempt, undertaking | -
+w009523.2 | try, strive, attempt | -
+w009525.1 | - | -
+w009525.2 | fence | -
+w009526.1 | collapse, slump, drop | -
+w009526.2 | failure, fiasco, disaster | success, hit
+w009526.3 | fail, bomb | succeed
+w009527.1 | supporter, disciple, fan | leader
+w009527.2 | - | -
+w009528.1 | - | sorority
+w009528.2 | community, circle | -
+w009528.3 | brotherhood, fellowship, friendship | -
+w009529.1 | fluffy, hairy | -
+w009530.1 | sparkle, glisten, twinkle | -
+w009530.2 | sparkle, shimmer | -
+w009530.3 | - | -
+w009531.1 | cemetery, churchyard | -
+w009532.1 | difficulty, suffering, poverty | comfort
+w009533.1 | chicken | rooster, cock
+w009533.2 | - | cock
+w009534.1 | vacuum | -
+w009534.2 | vacuum cleaner | -
+w009535.1 | consequence, effect, result | -
+w009535.2 | suggestion, hint, inference | -
+w009535.3 | involvement | -
+w009536.1 | cause, produce, bring about | prevent
+w009536.2 | persuade, convince, encourage | -
+w009536.3 | - | -
+w009537.1 | anxiety, uncertainty | confidence
+w009537.2 | instability, danger | security
+w009538.1 | examination | -
+w009539.1 | unreasonable, illogical, absurd | rational
+w009539.2 | - | rational
+w009541.1 | - | -
+w009542.1 | - | -
+w009544.1 | profitable, rewarding | unprofitable
+w009546.1 | administrative, executive | -
+w009547.1 | - | -
+w009550.1 | fairly, reasonably, somewhat | extremely
+w009551.1 | - | -
+w009551.2 | - | -
+w009552.1 | international, global | -
+w009552.2 | corporation | -
+w009554.1 | - | -
+w009554.2 | haven, refuge, sanctuary | -
+w009555.1 | strangely, curiously, peculiarly | -
+w009557.1 | ow | -
+w009558.1 | edge | centre

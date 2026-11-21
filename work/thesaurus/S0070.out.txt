@@ -1,0 +1,400 @@
+w024941.1 | volume, noise | quietness, softness
+w024950.1 | misunderstanding, misreading | -
+w024951.1 | moor, heath | -
+w024952.1 | innocently, credulously | -
+w024964.1 | large, outsize | undersized
+w024965.1 | lock | -
+w024965.2 | lock | unlock
+w024971.1 | sweat | -
+w024975.1 | - | -
+w024976.1 | simmer | -
+w024976.2 | hunt | -
+w024976.3 | lure, steal | -
+w024980.1 | - | -
+w024983.1 | - | -
+w024984.1 | - | -
+w024986.1 | pleasantly | -
+w024987.1 | chill, cool | -
+w024994.1 | - | -
+w025011.1 | - | -
+w025011.2 | - | -
+w025013.1 | - | -
+w025016.1 | excellently, magnificently, superbly, wonderfully | badly
+w025023.1 | - | -
+w025032.1 | ache, pound, pulse | -
+w025032.2 | pulse, pound, beat, vibrate | -
+w025032.3 | beat, pulse | -
+w025040.1 | openly, clearly, honestly | -
+w025040.2 | obviously, clearly | -
+w025044.1 | load | -
+w025044.2 | lot, heap, mass | -
+w025049.1 | uncontrollable, unruly | manageable
+w002516.1 | - | -
+w025071.1 | skilfully, competently, capably, well | badly
+w025103.1 | - | -
+w025120.1 | photocopier | -
+w025131.1 | naughty, defiant, rebellious, unruly | obedient
+w025132.1 | remotely, far | closely
+w025132.2 | coldly, coolly | warmly
+w025135.1 | sleepiness, tiredness | alertness
+w025137.1 | - | -
+w025141.1 | - | -
+w025147.1 | enroll, register, sign up, join | -
+w025153.1 | - | -
+w025157.1 | - | -
+w025158.1 | tasty, flavourful | bland, tasteless
+w025167.1 | coordinate, reconcile, match | clash
+w025167.2 | - | -
+w025179.1 | enviously | -
+w025179.2 | protectively, carefully | -
+w025181.1 | runner | -
+w025191.1 | ladybird | -
+w025194.1 | stopover | -
+w025205.1 | - | -
+w025206.1 | - | -
+w025227.1 | - | -
+w025227.2 | grow out of | -
+w025234.1 | cynic | optimist
+w025235.1 | physical therapist | -
+w025237.1 | - | -
+w025246.1 | reusable | disposable
+w025253.1 | regularly, steadily | -
+w025264.1 | signatory | -
+w025264.2 | - | -
+w025268.1 | spit | -
+w025268.2 | pierce, spear, impale | -
+w025276.1 | oddness, peculiarity, unfamiliarity | familiarity, normality
+w025295.1 | victoriously, jubilantly, exultantly | -
+w025296.1 | reliability, honesty, integrity | untrustworthiness
+w025307.1 | unfeeling, uncaring, cold, callous | sympathetic
+w025307.2 | hostile, opposed | sympathetic
+w025319.1 | - | -
+w003977.1 | - | -
+w003977.2 | - | -
+w025330.1 | worryingly, disturbingly, frighteningly | reassuringly
+w025343.1 | hairlessness | -
+w025354.1 | strangely, oddly, weirdly | -
+w025371.1 | calmly, composedly | -
+w025371.2 | coldly, frostily, distantly | warmly
+w025392.1 | separation, cut-off | connection
+w025392.2 | gap, distance | connection
+w025394.1 | - | -
+w025397.1 | - | -
+w025401.1 | swamp, overwhelm, swallow, envelop | -
+w025401.2 | overwhelm, consume | -
+w025405.1 | dig, unearth, uncover | bury
+w025405.2 | dig, dig out, hollow | fill
+w025414.1 | - | -
+w025426.1 | headstone, tombstone | -
+w025431.1 | husky, rough, croaky, gruff | clear
+w025447.1 | - | -
+w025457.1 | scoop | -
+w025457.2 | scoop, spoon, serve | -
+w025459.1 | launderette | -
+w025462.1 | - | -
+w025499.1 | acetaminophen | -
+w025500.1 | - | -
+w025535.1 | - | -
+w025565.1 | trade-off, compromise, balance | -
+w025575.1 | expensive, prohibitive | affordable
+w025581.1 | urbanization | -
+w025584.1 | - | -
+w025588.1 | vest | -
+w025590.1 | barrow | -
+w025610.1 | - | -
+w025617.1 | - | -
+w025642.1 | grip, clutch, tighten, clamp | relax, unclench
+w025651.1 | bravely, boldly, fearlessly, heroically | cowardly
+w025657.1 | - | -
+w025666.1 | worryingly, alarmingly | reassuringly
+w025668.1 | knob, handle | -
+w025673.1 | relaxed, laid-back, easy-going | uptight
+w025694.1 | - | -
+w025702.1 | - | -
+w025705.1 | bargain, negotiate, barter | -
+w025707.1 | craft, handiwork | -
+w025710.1 | - | -
+w025723.1 | jeweler | -
+w025768.1 | eavesdrop | -
+w025772.1 | immobilize, disable, paralyse | -
+w025772.2 | cripple, freeze, halt | -
+w025839.1 | flask | -
+w025876.1 | adapter, converter | -
+w025892.1 | ambitious, aspiring | -
+w025892.2 | - | -
+w025894.1 | carmaker, manufacturer | -
+w025895.1 | independently | -
+w025898.1 | traveller | -
+w025905.1 | confined | -
+w025907.1 | - | -
+w025917.1 | highlight, focus, focal point | -
+w025917.2 | - | -
+w025919.1 | describe, portray, depict | -
+w025919.2 | distinguish, mark, typify | -
+w025921.1 | chocolate | -
+w025927.1 | chill, coolness | warmth, heat
+w025927.2 | coolness, unfriendliness, frostiness | warmth, friendliness
+w025928.1 | - | -
+w025932.1 | scornful, disdainful, dismissive | respectful
+w025935.1 | worktop, counter | -
+w025941.1 | - | -
+w025953.1 | nap, snooze, drowse | wake
+w025953.2 | nap, snooze, siesta | -
+w025959.1 | fantasy | realism
+w025963.1 | - | -
+w025972.1 | flagstaff | -
+w025986.1 | - | -
+w025987.1 | - | -
+w025991.1 | - | -
+w026000.1 | dash | -
+w026001.1 | - | -
+w026010.1 | mutual | independent
+w026067.1 | dummy | -
+w026072.1 | scented, fragrant | smelly
+w026102.1 | mature, develop | -
+w026105.1 | backpack | -
+w026112.1 | playground | -
+w026113.1 | beachfront, promenade | -
+w026115.1 | - | unselfishly
+w026125.1 | sherbet | -
+w026132.1 | immediately, at once, right away, straight away | later
+w026132.2 | straight | -
+w026133.1 | sieve, colander | -
+w026135.1 | - | -
+w026140.1 | - | -
+w026147.1 | creep, sneak | stomp
+w026147.2 | - | -
+w026154.1 | intolerably, insufferably | bearably
+w026172.1 | - | -
+w026178.1 | extra, extension | -
+w026189.1 | - | -
+w026205.1 | vacantly, expressionlessly, emptily | -
+w026216.1 | chequebook | -
+w026222.1 | close-up | -
+w026225.1 | capably, ably, skilfully, efficiently | incompetently
+w026232.1 | zebra crossing, crossing | -
+w026237.1 | - | -
+w026254.1 | - | -
+w026264.1 | migrant, expatriate | immigrant
+w026271.1 | - | -
+w026272.1 | - | -
+w026274.1 | seethe, rage, boil | -
+w026274.2 | smoke, gas, exhaust | -
+w026278.1 | manipulate | -
+w026278.2 | - | -
+w026309.1 | spontaneously, rashly, hastily | cautiously
+w026370.1 | omelette | -
+w026373.1 | - | -
+w026374.1 | beeper | -
+w026438.1 | heavily | thinly
+w026438.2 | densely, closely | sparsely, thinly
+w026450.1 | - | -
+w026511.1 | clever, smart, intelligent, bright | stupid, dumb
+w026535.1 | anticlockwise | clockwise
+w026535.2 | anticlockwise | clockwise
+w026544.1 | destroy, ruin, wreck, ravage | -
+w026544.2 | shatter, crush, overwhelm | -
+w026582.1 | cuff, shackle | -
+w026582.2 | - | -
+w026597.1 | rude, discourteous | polite
+w026645.1 | mobilize, organize, rally | -
+w026658.1 | brush | -
+w026662.1 | - | -
+w026669.1 | - | -
+w026670.1 | downpour, storm | -
+w026700.1 | sluggishness | quickness, speed
+w026705.1 | air hostess, flight attendant | steward
+w026724.1 | polo neck | -
+w026743.1 | - | -
+w026776.1 | - | -
+w026786.1 | - | -
+w026854.1 | scowl, frown, wince | smile
+w026854.2 | scowl, frown, wince | smile
+w026855.1 | dazed, woozy, drowsy, sleepy | alert
+w026881.1 | migrate, settle | emigrate
+w026899.1 | curb | -
+w026906.1 | lengthways | crosswise
+w026906.2 | longitudinal | -
+w026915.1 | - | idealist
+w026915.2 | materialistic | -
+w026924.1 | misjudgement, mistake, error | -
+w026930.1 | multicoloured, colourful | -
+w026945.1 | helpful, willing, kind | unhelpful
+w026955.1 | especially, particularly | -
+w026955.2 | strangely, oddly, curiously | normally
+w026959.1 | extraordinarily, incredibly, tremendously | -
+w026969.1 | sweater, jumper | -
+w026977.1 | - | -
+w026995.1 | soldier | civilian
+w026999.1 | imprudent | farsighted
+w026999.2 | myopic | -
+w027010.1 | stockroom | -
+w027028.1 | unquestionable, certain, undeniable | doubtful
+w027031.1 | messy, disorderly | tidy, neat
+w027036.1 | - | -
+w027042.1 | flinch, grimace | -
+w027042.2 | grimace | -
+w027076.1 | quickly, swiftly, energetically, rapidly | slowly
+w027095.1 | awkwardly, gawkily | gracefully
+w027098.1 | - | -
+w027125.1 | funfair | -
+w027127.1 | paternal, protective | -
+w027128.1 | perfect, flawless, impeccable | faulty
+w027144.1 | divide, split | double
+w027160.1 | insufficiently, poorly | adequately
+w027197.1 | millimeter | -
+w027200.1 | misunderstand, misread | -
+w027211.1 | newscaster, anchor | -
+w027216.1 | optimize, perfect, improve | -
+w027235.1 | efficiently, usefully | unproductively
+w027246.1 | warm up | -
+w027270.1 | socialize, mix, mingle | -
+w027270.2 | socialize | -
+w027273.1 | - | -
+w027276.1 | sink, immerse, dip, plunge | surface
+w027276.2 | suppress, bury, hide | -
+w027278.1 | summarize, sum up, outline | -
+w027302.1 | - | -
+w027338.1 | tasty, delicious | unappetizing
+w027367.1 | car park, parking lot | -
+w027417.1 | clip, clasp, catch | -
+w027437.1 | adult, grown-up | child
+w027437.2 | mature, adult, grown-up | childish
+w027441.1 | weight, heftiness | lightness
+w027441.2 | sadness, sluggishness, gloom | lightness
+w027478.1 | marinade, soak | -
+w027487.1 | - | -
+w027520.1 | hard copy | -
+w027522.1 | check, correct, edit | -
+w027531.1 | repairer, mechanic, technician | -
+w027532.1 | saviour, savior | -
+w027567.1 | strictly, severely, harshly | gently, kindly
+w027568.1 | timer | -
+w027580.1 | diplomatic, sensitive, discreet | tactless
+w027591.1 | - | -
+w027632.1 | - | -
+w027632.2 | fluctuate | -
+w027665.1 | reader | -
+w027684.1 | - | -
+w027714.1 | tactfully, politely | tactlessly
+w027714.2 | - | -
+w027739.1 | flow chart | -
+w027757.1 | - | unhealthily
+w027772.1 | water | -
+w027772.2 | wash, rinse, flush | -
+w027785.1 | boarder, tenant | landlord
+w027813.1 | kiosk, newsagent | -
+w027849.1 | bed | -
+w027861.1 | soluble | unsolvable
+w027864.1 | south, southward | northwards
+w027865.1 | wrench | -
+w027867.1 | specialization | -
+w027880.1 | - | -
+w027883.1 | unrecognized | -
+w027884.1 | unfeeling, heartless, callous, cold | caring
+w027885.1 | untypical, unusual, atypical | characteristic
+w027887.1 | underdone, raw | -
+w027889.1 | helpfully, productively, constructively | uselessly
+w027890.1 | ambiguity, obscurity | clarity
+w027893.1 | vocabulary | -
+w027900.1 | working week | -
+w000799.1 | deliberate, careful, thoughtful | hasty
+w027935.1 | actively, energetically | idly
+w027945.1 | delightfully, pleasantly, sweetly | -
+w027968.1 | revoltingly, horribly, repulsively | -
+w027968.2 | extremely, sickeningly | -
+w027990.1 | - | introvert
+w027990.2 | outgoing, sociable | introvert
+w028032.1 | incorrectly, wrongly | accurately
+w028036.1 | - | -
+w028148.1 | fault, weakness, flaw, defect | strength
+w028261.1 | - | -
+w028269.1 | bin, trash can, garbage can | -
+w028315.1 | hippo | -
+w028454.1 | time zone | -
+w028466.1 | sadly, miserably | happily
+w028466.2 | unfortunately, sadly | fortunately, happily
+w028470.1 | open, undo | wrap
+w003288.1 | generation | -
+w003288.2 | information, info | -
+w028492.1 | - | -
+w028524.1 | centimeter | -
+w028665.1 | nightdress, nightie | -
+w028686.1 | pillowslip | -
+w028716.1 | - | -
+w028746.1 | - | -
+w028746.2 | - | -
+w028762.1 | open | zip
+w028762.2 | decompress, extract | zip, compress
+w028766.1 | visualize, imagine, picture, envisage | -
+w028836.1 | sceptically, distrustfully | -
+w028839.1 | false teeth | -
+w028862.1 | fertilization | -
+w028863.1 | celebration, festival, merrymaking | -
+w028864.1 | roommate | -
+w028867.1 | sponsor, backer, investor | -
+w028883.1 | parking brake | -
+w028890.1 | usefully, kindly, obligingly | unhelpfully
+w028894.1 | - | -
+w028895.1 | bee | -
+w028898.1 | - | -
+w028900.1 | hypnotise, mesmerize | -
+w028909.1 | - | -
+w028930.1 | ladybug | -
+w028975.1 | police officer | -
+w028978.1 | - | -
+w028978.2 | random | -
+w029026.1 | diligent, scholarly, bookish | lazy
+w029093.1 | biro | -
+w029130.1 | settler, pioneer | native
+w029191.1 | - | -
+w029221.1 | lasagna | -
+w029223.1 | mailbox, postbox | -
+w029241.1 | - | -
+w029249.1 | humid, sticky, close, oppressive | dry
+w029270.1 | trap, danger, hazard, snag | -
+w029303.1 | - | -
+w029315.1 | - | -
+w029357.1 | - | -
+w029449.1 | - | -
+w029492.1 | - | -
+w029519.1 | modernize, update, upgrade | -
+w029529.1 | newsreader, anchor | -
+w029595.1 | - | -
+w029597.1 | motorboat | -
+w029636.1 | tool, implement, gadget | -
+w029649.1 | winter | summertime
+w029658.1 | familiarize, inform | -
+w029674.1 | carefully, closely, intently | inattentively
+w029710.1 | - | uncountable
+w029748.1 | captivate, enthral, intrigue, absorb | bore
+w029806.1 | - | -
+w029823.1 | cooperate, collaborate, communicate | -
+w029827.1 | - | -
+w029845.1 | act up, play up | behave
+w029849.1 | moisturizer, lotion, cream | -
+w029850.1 | moisturise | dry
+w029862.1 | - | -
+w029863.1 | zero, nil, nothing | -
+w029863.2 | nothing, naught | everything
+w029866.1 | external, remote | onsite
+w029866.2 | - | onsite
+w029873.1 | paratroop | -
+w029878.1 | - | -
+w029896.1 | lean back, lie back, lounge | sit up
+w029896.2 | - | -
+w029910.1 | glower, glare, frown | smile
+w029910.2 | frown, glare, glower | smile
+w029934.1 | kindly, compassionately, understandingly | unsympathetically
+w029934.2 | favourably, supportively | -
+w029935.1 | - | -
+w029941.1 | slot, time slot | -
+w029958.1 | undo, unfasten, loosen | tie
+w029966.1 | west, westward | eastwards
+w029969.1 | sill | -
+w029979.1 | - | -
+w029985.1 | success | underachiever
+w029989.1 | - | -
+w029989.2 | - | -
+w030014.1 | arrogant, vain, proud | modest, humble
+w030029.1 | - | -

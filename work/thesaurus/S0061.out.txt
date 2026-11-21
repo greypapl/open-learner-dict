@@ -1,0 +1,400 @@
+w016073.1 | madness, insanity, lunacy, folly | sanity
+w016074.1 | imaginatively, inventively, originally | -
+w016075.1 | lender | debtor
+w016081.1 | dismiss, banish, remove, allay | -
+w016082.1 | dissenter, rebel, protester | loyalist
+w016082.2 | rebel | loyal
+w016084.1 | nerd, geek, idiot, fool | -
+w016090.1 | draw out, obtain, evoke, extract | -
+w016093.1 | alien | terrestrial
+w016093.2 | alien | -
+w016094.1 | - | -
+w016094.2 | stare at, eye, scrutinize | -
+w016094.3 | estimate, gauge | -
+w016097.1 | flutter, glimmer, twinkle, waver | -
+w016097.2 | glimmer, flash, twinkle | -
+w016097.3 | glimmer, flash, hint, trace | -
+w016098.1 | fragile, thin, weak, frail | sturdy, strong
+w016098.2 | weak, feeble, unconvincing, poor | convincing, strong
+w016099.1 | - | header
+w016106.1 | naive, credulous, trusting | suspicious, sceptical
+w016107.1 | blast, squall, rush, flurry | -
+w016107.2 | blow, blast | -
+w016107.3 | burst, outburst, blast | -
+w016113.1 | - | -
+w016117.1 | - | realism
+w016117.2 | - | materialism
+w016119.1 | - | -
+w016119.2 | makeshift | -
+w016124.1 | endanger, threaten, risk, undermine | protect
+w016125.1 | - | -
+w016125.2 | bumpy, jumpy, shaky | smooth
+w016129.1 | - | -
+w016129.2 | - | -
+w016131.1 | legally, legitimately | unlawfully, illegally
+w016134.1 | - | -
+w016134.2 | - | -
+w016134.3 | - | -
+w016135.1 | campaigner, advocate | -
+w016136.1 | hide, lie in wait, skulk, prowl | -
+w016136.2 | - | -
+w016138.1 | maximize, increase | minimise, minimize
+w016138.2 | maximize, exploit | -
+w016138.3 | maximize | minimise, minimize
+w016141.1 | figurative, symbolic | literal
+w016143.1 | - | match
+w016143.2 | - | match
+w016147.1 | cut, trim | -
+w016148.1 | lawnmower | -
+w016149.1 | - | -
+w016158.1 | impartiality, fairness, neutrality, detachment | subjectivity, bias
+w016159.1 | force, compel, require | -
+w016159.2 | help, accommodate, assist | -
+w016166.1 | hobby, recreation, pursuit, interest | -
+w016167.1 | - | -
+w016167.2 | mixture, mosaic, jumble, hotchpotch | -
+w016171.1 | ball, pill | -
+w016171.2 | shot, bullet | -
+w016172.1 | annoying, irritating, troublesome | -
+w016173.1 | fear, dread, horror | -
+w016174.1 | - | -
+w016178.1 | loot, rob, pillage, raid | -
+w016178.2 | pillage, robbery | -
+w016178.3 | loot, booty | -
+w016179.1 | mailman, postwoman | -
+w016181.1 | privatization | nationalization
+w016182.1 | pen name, alias, nickname | -
+w016184.1 | reason, logic, sense | irrationality
+w016187.1 | - | -
+w016187.2 | - | starter
+w016189.1 | hit back, strike back, take revenge, fight back | -
+w016193.1 | wake, awaken, waken | -
+w016193.2 | stir, provoke, arouse, inspire | calm, pacify
+w016195.1 | - | -
+w016195.2 | framework, support | -
+w016197.1 | - | schoolboy
+w016198.1 | smoothly, effortlessly | -
+w016203.1 | appallingly, disgracefully, terribly | -
+w016203.2 | terribly, dreadfully, extremely, awfully | -
+w016205.1 | - | -
+w016205.2 | rat, louse, scoundrel | -
+w016205.3 | - | -
+w016206.1 | - | -
+w016206.2 | laziness, idleness, indolence | diligence, industry
+w016207.1 | decline, slump, downturn | speedup, upturn
+w016207.2 | - | -
+w016209.1 | cosy, comfortable, warm, cozy | -
+w016209.2 | tight | loose
+w016211.1 | thinly, scantily | densely, thickly
+w016214.1 | athletic, active | -
+w016214.2 | fast, stylish | -
+w016214.3 | casual | -
+w016216.1 | employee, worker | -
+w016218.1 | take away, deduct, minus | add
+w016219.1 | - | -
+w016223.1 | - | -
+w016223.2 | - | -
+w016225.1 | knot, snarl, mass, mess | -
+w016225.2 | entangle, twist, knot, snarl | untangle
+w016225.3 | muddle, mess, confusion, jumble | -
+w016228.1 | - | -
+w016232.1 | - | -
+w016234.1 | surpass, exceed, go beyond, rise above | -
+w016235.1 | cliche, theme, convention | -
+w016235.2 | figure of speech, metaphor | -
+w016236.1 | undersell, undercharge | -
+w016236.2 | undermine, weaken, sabotage | strengthen
+w016236.3 | - | -
+w016237.1 | hostile, unkind, cold | friendly
+w016237.2 | unhelpful, unfavourable, inconvenient | friendly
+w016238.1 | unauthorized, illegal | licensed
+w016239.1 | fruitless, useless, futile, pointless | productive
+w016240.1 | - | -
+w016241.1 | phial, bottle | -
+w016243.1 | fiddler | -
+w016244.1 | - | -
+w016246.1 | fanciful, playful, quirky, eccentric | serious
+w002009.1 | calm, cool | -
+w002009.2 | - | -
+w016247.1 | - | -
+w016249.1 | - | -
+w016251.1 | maintenance | -
+w016252.1 | hello, goodbye | -
+w016255.1 | - | -
+w016256.1 | nervously, worriedly, uneasily | calmly
+w016257.1 | anxiety, worry, fear, unease | confidence
+w016257.2 | arrest, capture | release
+w016257.3 | understanding, comprehension, grasp | -
+w016259.1 | expression, statement, formulation | -
+w016259.2 | pronunciation, enunciation, diction | -
+w016259.3 | joint, connection | -
+w016261.1 | attacker, aggressor, assaulter | victim
+w016262.1 | reparation, penance, redemption | -
+w016265.1 | - | -
+w016267.1 | barrier, blockade, roadblock | -
+w016267.2 | block, blockade, bar, seal off | -
+w016268.1 | groundless, unfounded, unsupported | -
+w016269.1 | whisk, mixer | -
+w016269.2 | - | -
+w016269.3 | banger, wreck | -
+w016270.1 | donor, patron, sponsor, backer | beneficiary
+w016271.1 | - | -
+w016272.1 | darkness | whiteness, light
+w016273.1 | childhood, youth | girlhood
+w016275.1 | case | -
+w016278.1 | camp, campground | -
+w016279.1 | tin, can, container, cylinder | -
+w016281.1 | persistently, constantly | -
+w016282.1 | consistency, logic, clarity | incoherence
+w016284.1 | - | vowel
+w016284.2 | consistent, compatible | inconsistent
+w016288.1 | pointer | -
+w016289.1 | subtract, take away, take off | add
+w016295.1 | undoubtedly, certainly, surely, probably | -
+w016298.1 | forceful, firm, definite, insistent | hesitant, tentative
+w016298.2 | decisive, clear, conclusive | narrow
+w016301.1 | registration, admission, enlistment | withdrawal
+w016301.2 | intake | -
+w016303.1 | cry, shout, outcry, interjection | -
+w016303.2 | exclamation mark | -
+w016304.1 | hangman | -
+w016305.1 | motorway, freeway, highway | -
+w016306.1 | - | -
+w016306.2 | fibre, thread, strand | -
+w016308.1 | - | -
+w016308.2 | - | -
+w016309.1 | lobby, hall, vestibule | -
+w016318.1 | golden | -
+w016318.2 | - | -
+w016318.3 | - | -
+w016319.1 | - | -
+w016320.1 | seriously, severely, solemnly, badly | slightly
+w016321.1 | dirt, filth, muck, grease | -
+w016321.2 | - | -
+w016323.1 | - | -
+w016324.1 | prime, peak, golden age | decline
+w016325.1 | - | -
+w016326.1 | irrational, unreasonable, absurd | logical
+w016328.1 | convey, communicate, pass on, transmit | -
+w016328.2 | lend, give, bestow | -
+w016329.1 | confused, unclear, rambling | coherent
+w016330.1 | lenient, permissive, tolerant, soft | strict
+w016332.1 | interval, break, pause, intermission | -
+w016332.2 | intermezzo | -
+w016334.1 | grumpy, cranky, touchy | easygoing, good-natured
+w016342.1 | - | -
+w016343.1 | ranking | -
+w016347.1 | lonely, lone, isolated, forlorn | -
+w016347.2 | remote, isolated, desolate | -
+w016348.1 | drag, haul, heave, carry | -
+w016348.2 | - | -
+w016348.3 | oaf | -
+w016349.1 | tepid, warm | hot, cold
+w016349.2 | half-hearted, unenthusiastic, cool, indifferent | enthusiastic, eager
+w016352.1 | love, darling, dear, honey | -
+w016352.2 | love | -
+w016356.1 | margin | markdown
+w016356.2 | - | -
+w016357.1 | incompetence | -
+w016362.1 | diversity, pluralism | -
+w016364.1 | - | -
+w016366.1 | subtlety, shade, distinction, nicety | -
+w016366.2 | - | -
+w016367.1 | block, clog, bar | clear
+w016367.2 | hinder, impede, hamper, frustrate | assist, facilitate
+w016368.1 | often, frequently | rarely, seldom
+w016371.1 | pariah, outsider, exile, reject | -
+w016372.1 | crowded, packed, congested | empty
+w016374.1 | - | -
+w016374.2 | panel | -
+w016375.1 | - | -
+w016376.1 | mint | -
+w016376.2 | mint | -
+w016380.1 | enjoyable, pleasant, delightful, agreeable | unpleasant
+w016381.1 | plow | -
+w016381.2 | plow, till | -
+w016381.3 | plod, trudge, labour, struggle | -
+w016383.1 | monitor | -
+w016383.2 | governor | -
+w016384.1 | spread, promote, disseminate, publicize | suppress
+w016384.2 | breed, reproduce, grow | -
+w016384.3 | transmit, conduct | -
+w016386.1 | - | -
+w016387.1 | restore, reinstall, bring back | dismiss, remove
+w016390.1 | interviewee, participant | -
+w016390.2 | defendant | petitioner, applicant
+w016391.1 | restart, renewal, continuation, recommencement | suspension
+w016392.1 | retail | wholesale
+w016394.1 | - | partition
+w016397.1 | - | -
+w016397.2 | - | -
+w016400.1 | - | -
+w016402.1 | - | -
+w016403.1 | doubtful, dubious, suspicious, skeptical | credulous
+w016406.1 | soya bean, soy | -
+w016407.1 | uniformity, regulation | -
+w016408.1 | fame, celebrity | obscurity
+w016409.1 | humid, muggy, sticky, misty | dry
+w016409.2 | erotic, sexy, raunchy | -
+w016410.1 | plug, cork, bung | -
+w016410.2 | plug, cork | -
+w016411.1 | delicacy, nuance, finesse | crudeness
+w016413.1 | lightning bolt, bolt | -
+w016413.2 | bombshell, shock | -
+w016414.1 | layered | -
+w016415.1 | switch | -
+w016415.2 | switch | -
+w016415.3 | - | -
+w016417.1 | emblem | -
+w016417.2 | symbol, emblem, icon | -
+w016419.1 | - | -
+w016420.1 | illegally, illicitly, wrongfully | lawfully, legally
+w016421.1 | relax, chill out | -
+w016421.2 | unroll, uncoil, unravel, untwist | wind
+w016422.1 | foolish, imprudent, rash | wise, sensible
+w016424.1 | vigilant, alert, attentive, wary | careless, inattentive
+w016426.1 | craftsmanship, craft, skill, quality | -
+w016431.1 | - | -
+w016435.1 | ill, sick, sickly, unwell | healthy
+w016435.2 | failing, troubled, weak | -
+w016436.1 | - | -
+w016441.1 | - | -
+w016445.1 | mechanize, computerize | -
+w016450.1 | spiteful, catty, nasty, malicious | kind
+w016452.1 | beep | -
+w016452.2 | beep | -
+w016452.3 | beep, censor | -
+w016453.1 | - | -
+w016454.1 | - | -
+w016455.1 | cave, grotto | -
+w016457.1 | verify, confirm, attest, vouch for | -
+w016457.2 | accredit, license, qualify | -
+w016459.1 | inspector, examiner | -
+w016459.2 | draught | -
+w016459.3 | chequer | -
+w016462.1 | - | -
+w016462.2 | shelter, haven | -
+w016462.3 | wrap, envelop, protect, shelter | expose
+w016465.1 | - | -
+w016465.2 | - | -
+w016468.1 | borrower | creditor
+w016469.1 | - | -
+w016469.2 | disrupt, sabotage, wreck, upset | -
+w016471.1 | controller | -
+w016472.1 | misrepresent, twist, falsify, pervert | -
+w016472.2 | deform, twist, warp, contort | -
+w016474.1 | draft, breeze, current | -
+w016474.2 | gulp, swallow, swig, drink | -
+w016474.3 | draft | -
+w016475.1 | dull, gloomy, dismal, boring | cheerful, bright
+w016476.1 | - | graduate
+w016476.2 | - | -
+w016477.1 | - | -
+w016480.1 | vaporization | condensation
+w016482.1 | scare, terrify, alarm, startle | reassure, calm
+w016482.2 | scare off, scare away, chase away | attract
+w016484.1 | - | -
+w016486.1 | axe | -
+w016489.1 | summit, peak, top | -
+w016491.1 | housekeeping | -
+w016492.1 | hello, hi, hiya | -
+w016495.1 | cluster, crowd, gather, cuddle | disperse, scatter
+w016495.2 | cluster, group, knot, bunch | -
+w016495.3 | meeting, conference, discussion | -
+w016496.1 | embarrass, shame, disgrace, mortify | honour
+w016498.1 | - | exporter
+w016499.1 | outrage, anger, resentment, fury | -
+w016500.1 | fixed, inbred | -
+w016500.2 | - | -
+w016501.1 | annoy, anger, bother, exasperate | soothe, please
+w016501.2 | inflame, chafe, aggravate | soothe
+w016503.1 | acutely, deeply, intensely, strongly | -
+w016503.2 | closely, sharply, eagerly, intently | -
+w016505.1 | girl, lassie, maiden | lad
+w016508.1 | pause, break, respite, calm | -
+w016508.2 | soothe, calm, quieten, hush | rouse, excite
+w016508.3 | deceive, trick, beguile | alert
+w016509.1 | - | -
+w016510.1 | - | -
+w016513.1 | medalist, winner | -
+w016514.1 | carefully, painstakingly, scrupulously, thoroughly | carelessly, sloppily
+w016515.1 | - | -
+w016515.2 | tot | -
+w016515.3 | bit, little, touch, trifle | -
+w016516.1 | brief, fleeting, short-lived, passing | lasting, permanent
+w016518.1 | mortuary | -
+w016520.1 | chew, crunch, chomp, eat | -
+w016523.1 | anxious, nervous, obsessive | stable, calm
+w016523.2 | - | -
+w016527.1 | - | -
+w016529.1 | pit bull | -
+w016533.1 | caution, wisdom, care | recklessness, rashness
+w016535.1 | snoop, interfere, meddle, nose | -
+w016535.2 | prise, lever, force, wrench | -
+w016537.1 | resolutely, determinedly, decisively | aimlessly
+w016537.2 | deliberately, intentionally, purposely, on purpose | accidentally
+w016539.1 | logically, reasonably, sensibly, sanely | irrationally
+w016541.1 | oppressive, authoritarian, tyrannical, harsh | liberal
+w016542.1 | ingenious, inventive, enterprising, clever | -
+w016546.1 | boiling, blistering, burning | freezing
+w016546.2 | harsh, scathing, savage | mild
+w016552.1 | cutlery, flatware | -
+w016552.2 | silver, plate | -
+w016553.1 | frying pan, pan | -
+w016554.1 | slippery, sticky, gooey, greasy | -
+w016554.2 | smarmy, oily, creepy | -
+w016555.1 | - | -
+w016556.1 | muzzle, nose, trunk | -
+w016557.1 | smack, slap, paddle | -
+w016557.2 | smack, slap | -
+w016560.1 | saturated, full | -
+w016561.1 | narrator, raconteur | -
+w016563.1 | pushchair, buggy, pram | -
+w016563.2 | walker, rambler, wanderer | -
+w016564.1 | counterfoil | -
+w016564.2 | butt, stump, end, remnant | -
+w016564.3 | bang, knock, bump | -
+w016564.4 | put out, extinguish | -
+w016565.1 | subset, subdivision | -
+w016567.1 | distrustfully, warily, doubtfully | trustingly
+w016567.2 | questionably, oddly, strangely | -
+w016569.1 | diplomacy, discretion, sensitivity, tactfulness | tactlessness
+w016571.1 | untiringly, relentlessly, unceasingly | -
+w016572.1 | tedious, tiring, irritating, boring | interesting
+w016573.1 | kit, toolbox | -
+w016576.1 | inflexible, rigid, firm | flexible
+w016577.1 | obvious, clear, distinct, unambiguous | ambiguous
+w016578.1 | disorderly, rowdy, wild, unmanageable | obedient
+w016578.2 | untidy, messy, unkempt | tidy, neat
+w016579.1 | - | -
+w016580.1 | poisonous, toxic | -
+w016580.2 | spiteful, malicious, vicious, hostile | kind
+w016582.1 | video | -
+w016582.2 | record, tape, film | -
+w016583.1 | - | -
+w016587.1 | unusually, atypically, exceptionally | normally
+w016588.1 | - | -
+w016588.2 | refrain, give up, forgo | indulge
+w016591.1 | airplane, jet, plane | -
+w016598.1 | exile, expel, deport | -
+w016598.2 | dispel, dismiss, eliminate, get rid of | -
+w016599.1 | battlefield, front | -
+w016599.2 | arena, battlefield | -
+w016600.1 | drop, lump, dollop, spot | -
+w016601.1 | frankly, plainly, directly, candidly | tactfully
+w016609.1 | animator | -
+w016610.1 | stew | -
+w016610.2 | - | -
+w016617.1 | admirable, praiseworthy, laudable, worthy | deplorable
+w016618.1 | - | -
+w016618.2 | - | -
+w016619.1 | squeeze, compact, condense, press | expand, decompress
+w016619.2 | condense, shorten, abridge, abbreviate | expand
+w016619.3 | pad, poultice, dressing | -
+w016621.1 | traditionally, normally, customarily, usually | unconventionally
+w016623.1 | booth, compartment, stall | -
+w016633.1 | pharmacy, chemist | -
+w016634.1 | - | -
+w016639.1 | emphasize, stress, highlight, underline | understate, play down
+w016640.1 | firmly, forcefully, definitely, strongly | -
+w016644.1 | tap | -

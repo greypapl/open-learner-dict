@@ -1,0 +1,401 @@
+w012421.1 | shine, gloss, lustre | -
+w012422.1 | honesty, frankness, openness | insincerity, dishonesty
+w012423.1 | wicked, evil, immoral | virtuous
+w012424.1 | defamation, lie | praise
+w012424.2 | defame, smear | praise
+w012425.1 | streamlined, elegant, stylish | clumsy
+w012425.2 | glossy, shiny, smooth | dull
+w012426.1 | throw, toss, chuck, fling | catch
+w012426.2 | hang, suspend | -
+w012426.3 | - | -
+w012426.4 | catapult | -
+w012427.1 | - | -
+w012428.1 | impulsively, naturally | deliberately
+w012432.1 | curriculum, course | -
+w012433.1 | - | -
+w012433.2 | - | -
+w012433.3 | - | -
+w012434.1 | - | -
+w012435.1 | - | -
+w012437.1 | untouched, unchanged | -
+w012437.2 | natural, sincere, genuine | pretentious
+w012438.1 | indisputable, unquestionable, certain | doubtful, questionable
+w012440.1 | - | -
+w012440.2 | - | -
+w012441.1 | watchful, alert, careful | careless
+w012444.1 | washing machine | -
+w012444.2 | - | -
+w012447.1 | - | -
+w012448.1 | material, earthly | spiritual
+w012448.2 | sophisticated, experienced | naive
+w012449.1 | - | -
+w012449.2 | - | -
+w012450.1 | skilled, expert, skilful | inept, clumsy
+w012450.2 | expert, master | novice
+w012451.1 | beneficial, favourable, useful | disadvantageous
+w012453.1 | - | -
+w012453.2 | solvent | bankrupt
+w012454.1 | nimbleness, quickness | clumsiness
+w012457.1 | change, modification, adjustment | -
+w012458.1 | irritation, anger | pleasure
+w012458.2 | nuisance, irritation, pest | -
+w012465.1 | swollen | -
+w012465.2 | excessive | lean
+w012466.1 | sailing | -
+w012467.1 | - | -
+w012470.1 | - | -
+w012470.2 | - | -
+w012470.3 | dog | -
+w012471.1 | carbohydrate | -
+w012471.2 | carburettor | -
+w012473.1 | - | -
+w012474.1 | - | -
+w012474.2 | - | -
+w012475.1 | - | -
+w012475.2 | supporter, champion, advocate | critic
+w012478.1 | imperialism | -
+w012479.1 | embarrassing | -
+w012482.1 | - | -
+w012482.2 | - | -
+w012483.1 | lacking, short | sufficient, adequate
+w012483.2 | inadequate, poor, faulty | adequate
+w012484.1 | deteriorate, worsen, decline | improve
+w012484.2 | corrupt, immoral | moral
+w012484.3 | - | -
+w012486.1 | disincentive, discouragement | incentive
+w012486.2 | - | -
+w012487.1 | contempt, scorn | respect, admiration
+w012487.2 | scorn, despise | respect
+w012488.1 | shameful, scandalous, outrageous | admirable
+w012489.1 | dog | -
+w012489.2 | - | -
+w012490.1 | benefit, welfare | -
+w012490.2 | hand out, distribute, give out | -
+w012492.1 | creepy, spooky, strange | -
+w012494.1 | trip, outing, expedition | -
+w012495.1 | rapid | -
+w012495.2 | - | -
+w012496.1 | mockery, joke | -
+w012496.2 | comedy | tragedy
+w012497.1 | mortally | -
+w012497.2 | - | -
+w012500.1 | throw, hurl, toss | catch
+w012500.2 | throw, hurl | -
+w012500.3 | affair, romance | -
+w012502.1 | panicky, desperate, hysterical | calm
+w012502.2 | hectic, hurried | leisurely
+w012503.1 | - | -
+w012503.2 | dodge, evade | -
+w012503.3 | falsify, fake | -
+w012506.1 | slide, slip, drift | -
+w012506.2 | soar, float | -
+w012506.3 | - | -
+w012508.1 | mourn, lament | rejoice
+w012508.2 | sadden, distress, upset | cheer
+w012509.1 | extremely, hugely | slightly
+w012510.1 | resentment, grievance, bitterness | -
+w012510.2 | begrudge, resent | -
+w012512.1 | haircut | -
+w012513.1 | - | -
+w012516.1 | cruel, unkind, callous | kind, compassionate
+w012517.1 | busy, frantic, chaotic | quiet, calm
+w012518.1 | comprehensive | -
+w012518.2 | - | -
+w012520.1 | - | -
+w012522.1 | - | -
+w012523.1 | informer, source | -
+w012523.2 | source | -
+w012524.1 | live in, occupy | -
+w012525.1 | intermediate | -
+w012526.1 | invasive | -
+w012527.1 | cite, appeal to | -
+w012527.2 | evoke, conjure up | -
+w012527.3 | call on, summon | -
+w012531.1 | joyful, happy, cheerful | sad, sorrowful
+w012532.1 | - | -
+w012532.2 | - | -
+w012532.3 | - | -
+w012534.1 | limousine | -
+w012536.1 | - | -
+w012539.1 | cancerous | benign
+w012539.2 | malicious, evil, spiteful | kind
+w012540.1 | - | -
+w012540.2 | - | -
+w012541.1 | - | -
+w012543.1 | - | -
+w012544.1 | repair, fix | break
+w012544.2 | heal, improve, recover | worsen
+w012544.3 | repair, patch | -
+w012547.1 | headache | -
+w012548.1 | - | -
+w012548.2 | - | -
+w012549.1 | glove, mitten | -
+w012549.2 | hand, paw | -
+w012550.1 | liquid | solid
+w012551.1 | - | -
+w012553.1 | careless, neglectful | careful
+w012555.1 | zero, nothing, none | -
+w012557.1 | maximize, improve | -
+w012558.1 | fervently, intensely, ardently | coolly
+w012559.1 | perceptive, sharp, keen | superficial
+w012559.2 | piercing, shrill | soft
+w012560.1 | - | -
+w012560.2 | belief, faith, conviction | -
+w012562.1 | tartan, check | -
+w012563.1 | replay | -
+w012564.1 | luxurious, lavish, sumptuous | shabby
+w012564.2 | - | -
+w012565.1 | optimism | negativity, pessimism
+w012566.1 | priority, preference | -
+w012567.1 | immaculate, spotless, perfect | dirty
+w012567.2 | unspoiled, untouched, unspoilt | -
+w012569.1 | - | -
+w012570.1 | racquet | -
+w012570.2 | din, noise, uproar, row | silence
+w012570.3 | scam, swindle, fraud | -
+w012571.1 | practically, sensibly | -
+w012571.2 | - | -
+w012572.1 | - | -
+w012573.1 | reshuffle | -
+w012574.1 | recovery, recall | -
+w012575.1 | traffic circle | -
+w012575.2 | indirect, circuitous | direct
+w012575.3 | carousel | -
+w012577.1 | rescuer, deliverer | -
+w012577.2 | - | -
+w012578.1 | hardly, barely | -
+w012578.2 | hardly, barely, no sooner | -
+w012580.1 | - | -
+w012582.1 | smoggy | -
+w012582.2 | - | -
+w012582.3 | hazy, grey | -
+w012583.1 | shovel | -
+w012583.2 | - | -
+w012584.1 | - | -
+w012584.2 | - | -
+w012586.1 | mild, moderate | -
+w012586.2 | moderate, restrained | immoderate
+w012587.1 | - | -
+w012588.1 | trio | -
+w012588.2 | - | -
+w012589.1 | - | -
+w012590.1 | triple | -
+w012590.2 | triple | -
+w012590.3 | - | bass
+w012591.1 | - | -
+w012591.2 | - | -
+w012591.3 | - | -
+w012592.1 | - | -
+w012592.2 | - | -
+w012593.1 | impartial, fair, objective, neutral | biased
+w012594.1 | eerie, strange, weird, mysterious | -
+w012595.1 | outsider | favourite
+w012596.1 | unappreciative, thankless | grateful
+w012597.1 | - | -
+w012597.2 | raw, natural, unprocessed | -
+w012598.1 | value, utility | uselessness
+w012599.1 | destruction, damage | -
+w012600.1 | - | consonant
+w012601.1 | traveller, explorer, sailor | -
+w012602.1 | freak, oddball | -
+w012603.1 | fuse, join | -
+w012603.2 | unite, bind, join | divide
+w012603.3 | joint, seam | -
+w012604.1 | - | -
+w012605.1 | unlawful, illegal, unjust | lawful
+w001358.1 | scholarly, educated, erudite | ignorant
+w001358.2 | scholarly, academic | -
+w001358.3 | - | innate
+w012609.1 | admission, recognition, acceptance | denial
+w012609.2 | receipt, confirmation | -
+w012609.3 | thanks, credit, gratitude | -
+w012610.1 | - | -
+w012612.1 | estimate, estimation, guess | -
+w012612.2 | likeness, semblance | -
+w012613.1 | fragrant, scented, perfumed | -
+w012613.2 | - | -
+w012614.1 | - | -
+w012614.2 | elaborate, ornate, fancy | plain, simple
+w012614.3 | - | -
+w012615.1 | - | -
+w012619.1 | folder, file | -
+w012619.2 | adhesive | -
+w012620.1 | unquestioningly | -
+w012620.2 | - | -
+w012622.1 | faulty | -
+w012622.2 | pushchair, stroller, pram | -
+w012622.3 | carriage, cart | -
+w012626.1 | carefully, warily, prudently | recklessly, carelessly
+w012627.1 | truce, armistice | -
+w012628.1 | - | -
+w012629.1 | typify, distinguish, mark | -
+w012629.2 | describe, portray, depict | -
+w012631.1 | adviser, counselor, therapist | -
+w012631.2 | lawyer, barrister, attorney | -
+w012633.1 | sweetheart | -
+w012634.1 | pat, touch | -
+w012634.2 | spot, bit, touch, drop | -
+w012638.1 | discontent, displeasure, unhappiness | satisfaction
+w012639.1 | dubious, suspicious, shady | trustworthy
+w012639.2 | unreliable, faulty | reliable
+w012640.1 | worldly, mortal, material | heavenly, spiritual
+w012640.2 | conceivable, possible | -
+w012641.1 | optional, voluntary | compulsory
+w012641.2 | option | -
+w012641.3 | - | -
+w012643.1 | intensification, increase, rise | reduction
+w012645.1 | - | -
+w012646.1 | executive | -
+w012647.1 | witness, observer, onlooker | -
+w012651.1 | brief, momentary, short-lived, passing | lasting, permanent
+w012654.1 | - | -
+w012655.1 | furniture | -
+w012656.1 | - | -
+w012659.1 | mill | -
+w012659.2 | - | -
+w012660.1 | shooter | -
+w012661.1 | hardback | paperback
+w012661.2 | hardback | paperback
+w012662.1 | - | -
+w012664.1 | - | -
+w012664.2 | depend on, rest on, hang on | -
+w012668.1 | athlete | geek
+w012668.2 | DJ, disc jockey | -
+w012672.1 | mum, mom, mummy, mother | -
+w012673.1 | frantic, wild, hectic | calm
+w012673.2 | - | depressive
+w012675.1 | quantifiable | -
+w012675.2 | noticeable, significant, appreciable | negligible
+w012677.1 | submissive, docile, gentle, humble | assertive, bold
+w012678.1 | smooth, soft, mild, rich | harsh
+w012678.2 | relaxed, calm, easy-going | tense
+w012678.3 | soften, mature | -
+w012679.1 | - | -
+w012680.1 | - | -
+w012680.2 | failure | -
+w012685.1 | commentary, voice-over | -
+w012685.2 | storytelling, account, telling | -
+w012687.1 | bite, pinch, nibble | -
+w012687.2 | pop, dash | -
+w012687.3 | bite, pinch | -
+w012691.1 | decoration, trinket | -
+w012691.2 | decoration, adornment, embellishment | -
+w012691.3 | decorate, adorn, embellish | -
+w012692.1 | - | inpatient
+w012692.2 | - | inpatient
+w012693.1 | leaflet, brochure, booklet | -
+w012695.1 | die, pass away | survive
+w012695.2 | vanish, disappear | survive
+w012695.3 | decay, rot, decompose | -
+w012696.1 | offender, culprit, criminal | victim
+w012698.1 | - | -
+w012701.1 | brew, elixir, drink | -
+w012702.1 | readiness | unpreparedness
+w012707.1 | pound | -
+w012707.2 | - | -
+w012708.1 | open, open-minded, responsive | resistant
+w012709.1 | dismissal, layoff | -
+w012709.2 | superfluity, repetition | -
+w012710.1 | - | -
+w012711.1 | caribou | -
+w012712.1 | - | recovery
+w012712.2 | regress, lapse, backslide | recover
+w012713.1 | enjoy, savour, love | dislike, hate
+w012713.2 | enjoyment, delight, pleasure | distaste
+w012713.3 | pickle, chutney, sauce | -
+w012715.1 | revocable | irreversible
+w012715.2 | - | -
+w012720.1 | - | -
+w012721.1 | scrap, strip, fragment | -
+w012721.2 | scrap, trace, bit | -
+w012721.3 | tear up, rip up, cut up | -
+w012722.1 | touchline | -
+w012722.2 | side job | -
+w012722.3 | exclude, bench | -
+w012723.1 | naive | -
+w012724.1 | - | -
+w012724.2 | skateboarder | -
+w012725.1 | - | -
+w012728.1 | oversee, monitor, manage, watch over | -
+w012729.1 | managerial | -
+w012730.1 | - | -
+w012732.1 | takeout | -
+w012732.2 | lesson, message | -
+w012734.1 | dangerous, hazardous, perilous | safe
+w012734.2 | disloyal, traitorous, deceitful | loyal, faithful
+w012735.1 | countless, incalculable, immeasurable | -
+w012735.2 | secret | -
+w012736.1 | encouraging | depressing
+w012737.1 | flexibility, adaptability | -
+w012738.1 | - | -
+w012738.2 | imagination, imagery | -
+w012739.1 | - | -
+w012740.1 | - | -
+w012746.1 | assign, allot, distribute, give | -
+w012747.1 | analytical, logical | -
+w012748.1 | due | -
+w012759.1 | helicopter | -
+w012759.2 | cleaver, axe | -
+w012759.3 | - | -
+w012760.1 | thick, bulky, heavy | thin
+w012760.2 | stocky, sturdy, solid | slender
+w012760.3 | lumpy | smooth
+w012761.1 | united, coherent | -
+w012763.1 | - | -
+w012764.1 | difficulty, problem, snag | -
+w012764.2 | - | -
+w012767.1 | snug, comfortable, warm | -
+w012767.2 | intimate, friendly | -
+w012768.1 | fold, wrinkle, crinkle | -
+w012768.2 | wrinkle, crumple, crinkle | smooth
+w012768.3 | wrinkle, line | -
+w012769.1 | - | hydration
+w012771.1 | - | -
+w012771.2 | stomach | -
+w012772.1 | unhappy | satisfied, content
+w012773.1 | doughnut | -
+w012776.1 | descriptive, illustrative | -
+w012777.1 | radicalism, fanaticism | moderation
+w012780.1 | - | -
+w012787.1 | obvious, blatant, flagrant | -
+w012787.2 | dazzling, blinding, harsh | dim
+w012787.3 | - | -
+w012788.1 | despair, sadness, depression, melancholy | cheerfulness
+w012788.2 | darkness, dark, dimness | light
+w012789.1 | - | -
+w012790.1 | - | -
+w012791.1 | - | -
+w012794.1 | insincere | sincere
+w012796.1 | minor, secondary, peripheral | essential
+w012796.2 | - | -
+w012797.1 | - | -
+w012797.2 | - | -
+w012797.3 | - | -
+w012798.1 | order, tell, direct, command | -
+w012798.2 | teach, train, educate, coach | -
+w012800.1 | frighten, threaten, bully, scare | -
+w012807.1 | stay, remain, hang around, wait | leave
+w012807.2 | persist, remain, last | disappear
+w012808.1 | awful, terrible, rotten, bad | excellent
+w012808.2 | ill, unwell, sick, rotten | well
+w012809.1 | lunch | -
+w012810.1 | postbox, letterbox | -
+w012810.2 | inbox | -
+w012811.1 | - | -
+w012813.1 | - | -
+w012813.2 | - | -
+w012813.3 | - | -
+w012814.1 | - | -
+w012817.1 | foster, raise, cultivate, nourish | neglect
+w012817.2 | upbringing, care | nature
+w012818.1 | unaware, unconscious, heedless | aware
+w012819.1 | poem | -
+w012824.1 | - | -
+w012828.1 | - | -
+w012828.2 | - | -
+w012829.1 | early | -
+w012830.1 | rank | -
+w012831.1 | owner, landlord | -
+w012832.1 | argument, row, dispute, fight | -
+w012832.2 | argue, row, fight, squabble | agree
+w012832.3 | disagreement, objection | -

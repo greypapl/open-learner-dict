@@ -1,0 +1,400 @@
+w005052.1 | position, attitude, view, standpoint | -
+w005052.2 | posture, position | -
+w005053.1 | stationary, fixed, stable, unchanging | dynamic, moving
+w005053.2 | - | -
+w005053.3 | interference | -
+w005054.1 | underground, metro, tube | -
+w005054.2 | underpass | -
+w005055.1 | helpful, encouraging, sympathetic | unsupportive
+w005056.1 | - | -
+w005057.1 | pill, capsule | -
+w005057.2 | - | -
+w005057.3 | slab | -
+w005058.1 | - | -
+w005059.1 | dissertation | -
+w005059.2 | argument, theory, proposition | -
+w005060.1 | - | -
+w005060.2 | trend, current, course | -
+w005062.1 | war, combat, fighting | peace
+w005063.1 | retreat, pull out, remove | advance
+w005063.2 | take out | deposit
+w005063.3 | retract, take back, cancel | -
+w005064.1 | removal, retreat | -
+w005064.2 | - | deposit
+w005064.3 | - | -
+w005065.1 | - | -
+w005068.1 | - | -
+w005068.2 | - | -
+w005077.1 | carrier | -
+w005077.2 | route | -
+w005078.1 | inspection, review, examination | -
+w005078.2 | inspect, examine, check | -
+w005078.3 | - | -
+w005079.1 | genuine, real, original | fake, false
+w005079.2 | accurate, true, reliable | false
+w005080.1 | - | -
+w005081.1 | back | forward
+w005081.2 | in reverse | -
+w005082.1 | fair | dark
+w005082.2 | - | brunette
+w005083.1 | pin, bar | -
+w005083.2 | flash | -
+w005083.3 | dash, run, flee, dart | -
+w005083.4 | lock, fasten, bar | unbolt
+w005084.1 | break, smash, wreck | fix
+w005084.2 | arrest, raid | -
+w005084.3 | sculpture | -
+w005084.4 | chest | -
+w005084.5 | broke, bankrupt | -
+w005085.1 | glade | -
+w005085.2 | removal | -
+w005085.3 | - | -
+w005086.1 | - | -
+w005086.2 | - | -
+w005086.3 | catch, seize, grab, arrest | release
+w005088.1 | obey, conform, follow, observe | disobey, defy
+w005089.1 | manage, deal with, handle, get by | -
+w005091.1 | scary, eerie, spooky | -
+w005091.2 | weird, sinister | -
+w005092.1 | separated | married
+w005092.2 | separate, detached | connected
+w005093.1 | give, contribute | -
+w005094.1 | dry | fresh
+w005096.1 | - | -
+w005096.2 | reverberate, resound | -
+w005096.3 | repeat, reflect, mirror | -
+w005097.1 | - | -
+w005098.1 | improve, increase, boost | reduce, damage
+w005099.1 | ending, climax, conclusion | opening
+w005099.2 | - | overture
+w005100.1 | taste, flavour | -
+w005100.2 | character, quality, feel | -
+w005100.3 | season, spice | -
+w005102.1 | unawareness, inexperience | knowledge
+w005103.1 | settler, migrant | emigrant
+w005104.1 | middle | beginner, advanced
+w005104.2 | middle, halfway | -
+w005105.1 | creation, discovery, design, device | -
+w005105.2 | creation, development, discovery | -
+w005105.3 | lie, fiction, fabrication | truth
+w005106.1 | similarly, also, too | -
+w005106.2 | same to you | -
+w005107.1 | line-up, list | -
+w005107.2 | schedule, programme | -
+w005107.3 | - | -
+w005109.1 | splendid, impressive, glorious, superb | -
+w005109.2 | excellent, superb, wonderful, brilliant | awful
+w005110.1 | - | -
+w005110.2 | precise, exact, accurate | -
+w005111.1 | meanwhile, interim | -
+w005111.2 | meanwhile | -
+w005112.1 | nevertheless, however, still, even so | -
+w005113.1 | - | -
+w005113.2 | - | -
+w005113.3 | fan, enthusiast, fanatic | -
+w005114.1 | rival, opposite | -
+w005114.2 | opposite, contrary | similar
+w005116.1 | pipe | -
+w005116.2 | - | -
+w005117.1 | - | -
+w005117.2 | internship, work experience | -
+w005117.3 | - | -
+w005118.1 | leisure, relaxation, entertainment | work
+w005119.1 | patient | -
+w005120.1 | - | deep
+w005120.2 | superficial, trivial | deep, profound
+w005120.3 | - | -
+w005121.1 | lousy, awful, terrible | -
+w005122.1 | drawing, outline, draft | -
+w005122.2 | skit | -
+w005122.3 | draw, outline | -
+w005122.4 | outline, describe, summarize | -
+w005123.1 | soft drink, pop | -
+w005123.2 | soda water, sparkling water | -
+w005123.3 | - | -
+w005124.1 | malice, ill will, resentment | -
+w005124.2 | annoy, upset, hurt | -
+w005125.1 | backer, supporter, patron | -
+w005125.2 | fund, finance, back, support | -
+w005126.1 | reinforce, toughen, boost | weaken
+w005127.1 | dusk, sundown, nightfall | sunrise, dawn
+w005127.2 | twilight, end | dawn
+w005129.1 | - | -
+w005129.2 | thanks, gratitude, praise | -
+w005130.1 | you | -
+w005131.1 | heat | -
+w005131.2 | warm | -
+w005131.3 | - | -
+w005132.1 | change, convert, alter, revolutionize | -
+w005133.1 | office, workshop | -
+w005135.1 | - | -
+w005135.2 | Arab | -
+w005138.1 | - | -
+w005138.2 | - | -
+w005138.3 | - | -
+w005141.1 | researcher, expert | -
+w005142.1 | polar | -
+w005142.2 | - | antarctic
+w005142.3 | freezing, frozen, icy | tropical
+w005144.1 | charred | -
+w005146.1 | purchaser, customer, consumer | seller, vendor
+w005146.2 | purchaser | -
+w005147.1 | marijuana, hemp, pot | -
+w005148.1 | stop, end, finish, halt | begin, start
+w005149.1 | church | -
+w005150.1 | fabric, material, textile | -
+w005150.2 | rag, duster | -
+w005151.1 | box, holder, receptacle | -
+w005151.2 | - | -
+w005152.1 | vary, contrast | resemble
+w005152.2 | disagree | agree
+w005153.1 | - | -
+w005153.2 | - | -
+w005154.1 | keen, enthusiastic, anxious | reluctant, unwilling
+w005155.1 | vote for, choose, select | -
+w005155.2 | choose, decide, opt | -
+w005155.3 | - | -
+w005156.1 | heart, core, nature, spirit | -
+w005156.2 | extract, concentrate | -
+w005157.1 | - | -
+w005157.2 | junction, split, branch | -
+w005157.3 | split, branch, divide | merge
+w005158.1 | hair, coat, wool | -
+w005158.2 | - | -
+w005160.1 | gathering | -
+w005160.2 | crop, yield | -
+w005160.3 | gather, reap, pick | sow, plant
+w005161.1 | title, heading | -
+w005161.2 | - | -
+w005161.3 | top the bill, star | -
+w005162.1 | publicity, promotion, advertising | -
+w005162.2 | promote, publicize | -
+w005163.1 | demand, require, urge | -
+w005163.2 | maintain, claim, assert | -
+w005165.1 | rubbish, trash, garbage | treasure
+w005165.2 | throw away, scrap, discard, dump | keep
+w005165.3 | - | -
+w005167.1 | - | -
+w005168.1 | - | -
+w005168.2 | hierarchy, scale | -
+w005170.1 | foyer, hall, entrance | -
+w005170.2 | pressure group | -
+w005170.3 | campaign, petition, press | -
+w005172.1 | - | -
+w005172.2 | - | -
+w005173.1 | crowd, horde, gang | -
+w005173.2 | mafia, gang | -
+w005173.3 | surround, crowd | -
+w005174.1 | moderate, small, limited | large
+w005174.2 | humble, unassuming | arrogant, boastful
+w005174.3 | decent | revealing
+w005175.1 | - | -
+w005176.1 | - | -
+w005176.2 | sailing, shipping | -
+w005178.1 | circuit, path | -
+w005178.2 | circle, revolve around | -
+w005179.1 | section, passage | -
+w005180.1 | inactive, submissive | active
+w005180.2 | - | active
+w005180.3 | - | active
+w005181.1 | - | -
+w005183.1 | tablet, capsule | -
+w005183.2 | - | -
+w005184.1 | - | -
+w005185.1 | lucrative, commercial | unprofitable
+w005185.2 | beneficial, worthwhile, useful, productive | -
+w005186.1 | farm | -
+w005186.2 | farm | -
+w005187.1 | fairly, quite, rather, pretty | -
+w005187.2 | sensibly, fairly, rationally | unreasonably
+w005188.1 | refuse, turn down, decline, dismiss | accept, approve
+w005188.2 | abandon, spurn | -
+w005188.3 | second | -
+w005189.1 | rest, remains, balance | -
+w005189.2 | - | -
+w005190.1 | term | -
+w005191.1 | feeling, opinion, view, attitude | -
+w005191.2 | sentimentality, emotion, tenderness | -
+w005192.1 | suitable, appropriate, fit | unsuitable
+w005193.1 | addition, extra | -
+w005193.2 | - | -
+w005193.3 | insert, pullout | -
+w005193.4 | add to, boost, increase | -
+w005194.1 | thus, so, hence | -
+w005195.1 | limit, level, point | -
+w005195.2 | doorstep, doorway | -
+w005196.1 | until, till | -
+w005196.2 | until, till | -
+w005197.1 | - | -
+w005197.2 | can | -
+w005197.3 | - | -
+w005198.1 | - | -
+w005198.2 | - | -
+w005199.1 | stem, stalk | -
+w005199.2 | boot | -
+w005199.3 | - | -
+w005200.1 | doubt, insecurity | certainty
+w005201.1 | - | -
+w005202.1 | diverse, various, mixed, assorted | uniform
+w005203.1 | judgment, decision, ruling, finding | -
+w005203.2 | opinion, judgment, conclusion | -
+w005206.1 | - | -
+w005208.1 | nonsense, rubbish | -
+w005208.2 | - | -
+w005210.1 | - | -
+w005212.1 | postscript | -
+w005214.1 | leave, desert, give up | -
+w005214.2 | give up, drop, quit, cancel | continue
+w005214.3 | recklessness, wildness | restraint
+w005215.1 | house, hold, lodge | -
+w005215.2 | adapt, adjust, suit | -
+w005216.1 | appropriately, suitably | -
+w005216.2 | therefore, consequently, so, thus | -
+w005217.1 | artistic | -
+w005217.2 | style, taste | -
+w005217.3 | attractive, pleasing, beautiful | ugly
+w005218.1 | procedure, formula | -
+w005219.1 | - | -
+w005219.2 | moor, dock | -
+w005219.3 | fix, secure, fasten, attach | -
+w005219.4 | presenter, newsreader, host | -
+w005221.1 | archway, vault | -
+w005221.2 | curve, bend | straighten
+w005222.1 | - | -
+w005222.2 | - | -
+w005223.1 | emblem, pin, sign | -
+w005223.2 | mark, sign, symbol | -
+w005225.1 | strange, weird, odd, peculiar | normal, ordinary
+w005226.1 | rebound, spring, bound | -
+w005226.2 | - | -
+w005226.3 | rebound, spring | -
+w005227.1 | transmission | -
+w005228.1 | gun | -
+w005229.1 | hymn | -
+w005229.2 | sing | -
+w005230.1 | complication, intricacy, difficulty | simplicity
+w005230.2 | complication | -
+w005231.1 | unclear, complicated | clear
+w005232.1 | discussion, dialogue | -
+w005232.2 | appointment, meeting, session | -
+w005233.1 | - | -
+w005233.2 | European | -
+w005234.1 | ease, usefulness, comfort | inconvenience
+w005234.2 | amenity, facility | -
+w005235.1 | intentionally, on purpose, purposely | accidentally
+w005235.2 | carefully, slowly | hastily
+w005236.1 | - | -
+w005237.1 | respect, honour, pride, self-respect | humiliation
+w005237.2 | composure, poise | -
+w005238.1 | aspect, feature, element, side | -
+w005238.2 | measurement, size | -
+w005238.3 | - | -
+w005239.1 | unsatisfactory, poor | satisfying
+w005240.1 | - | -
+w005240.2 | - | -
+w005243.1 | self-esteem, pride, vanity | -
+w005243.2 | self | -
+w005244.1 | eagerness, passion, excitement, zeal | apathy, indifference
+w005244.2 | interest, passion, hobby | -
+w005245.1 | formula | -
+w005245.2 | situation | -
+w005246.1 | remove, draw, take out | insert
+w005246.2 | pull out, remove | insert
+w005246.3 | obtain, get, wring | -
+w005246.4 | excerpt, passage, quotation | -
+w005246.5 | essence, concentrate | -
+w005247.1 | - | -
+w005247.2 | transport, carry, shuttle | -
+w005249.1 | adaptability, versatility | rigidity
+w005249.2 | suppleness, elasticity | stiffness, rigidity
+w005250.1 | refrigerator | -
+w005251.1 | merger, blend, combination, union | separation
+w005251.2 | - | fission
+w005251.3 | - | -
+w005252.1 | meter, indicator, measure | -
+w005252.2 | measure, indicator, yardstick | -
+w005252.3 | judge, estimate, assess, evaluate | -
+w005252.4 | measure | -
+w005253.1 | - | -
+w005254.1 | intestine, bowel, stomach | -
+w005254.2 | instinct, intuition, hunch | -
+w005254.3 | courage, nerve, bravery | -
+w005254.4 | - | -
+w005254.5 | clean | -
+w005254.6 | instinctive, intuitive | rational
+w005255.1 | damn, hell | -
+w005255.2 | hell | -
+w005256.1 | - | -
+w005257.1 | belief, doctrine, philosophy | -
+w005258.1 | addition, incorporation | exclusion
+w005258.2 | - | exclusion
+w005259.1 | - | -
+w005259.2 | - | -
+w005260.1 | teacher, trainer, coach, tutor | student
+w005260.2 | lecturer | -
+w005261.1 | separation, seclusion | contact
+w005261.2 | loneliness, solitude | -
+w005263.1 | reasonable, legitimate | unjustified
+w005263.2 | - | -
+w005264.1 | goalkeeper, goalie | -
+w005264.2 | guardian, custodian, caretaker | -
+w005265.1 | - | -
+w005265.2 | - | -
+w005265.3 | - | -
+w005266.1 | - | -
+w005267.1 | equipment | -
+w005267.2 | system, structure, mechanism | -
+w005268.1 | - | -
+w005269.1 | huge, great, massive | -
+w005269.2 | extremely, very | -
+w005270.1 | quicksilver | -
+w005270.2 | - | -
+w005271.1 | specifically, that is | -
+w005274.1 | undecided, unresolved, outstanding | settled
+w005274.2 | imminent, forthcoming, coming | -
+w005274.3 | until | -
+w005275.1 | - | -
+w005275.2 | - | -
+w005276.1 | own, have, hold | lack
+w005276.2 | have, boast | lack
+w005276.3 | control, dominate, obsess | -
+w005277.1 | property, site, building | -
+w005278.1 | likelihood, chance, possibility | improbability
+w005278.2 | chance, odds | -
+w005278.3 | likelihood | -
+w005279.1 | departure, notice | appointment
+w005279.2 | acceptance, patience | resistance
+w005280.1 | - | -
+w005280.2 | passenger | -
+w005280.3 | clause, addition | -
+w005281.1 | ceremony, rite | -
+w005281.2 | routine, habit, custom | -
+w005281.3 | ceremonial, routine | -
+w005282.1 | - | -
+w005283.1 | bang, shut | -
+w005283.2 | smash, crash, bang | -
+w005283.3 | criticize, attack, condemn | praise
+w005283.4 | bang, crash | -
+w005284.1 | appetizer | dessert, main course
+w005284.2 | - | substitute
+w005284.3 | - | -
+w005285.1 | - | cancel
+w005285.2 | sign up, follow | unsubscribe
+w005285.3 | agree with, support, endorse | -
+w005286.1 | superhero | -
+w005287.1 | thanks | -
+w005289.1 | tyre | -
+w005289.2 | exhaust, wear out, weary, fatigue | refresh
+w005289.3 | weary | -
+w005290.1 | completely, totally, absolutely, entirely | -
+w005291.1 | - | -
+w005292.1 | alert, caution | -
+w005292.2 | advise, caution | encourage
+w005293.1 | breadth, thickness | length
+w005294.1 | exercise, training, session | -
+w005297.1 | - | -
+w005298.1 | - | -
+w005299.1 | - | -
+w005299.2 | - | -
+w005303.1 | version | -
+w005303.2 | adjustment, modification, change | -

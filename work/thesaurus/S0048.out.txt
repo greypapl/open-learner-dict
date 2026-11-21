@@ -1,0 +1,400 @@
+w010792.1 | - | -
+w010792.2 | goal, dream, prize, aim | -
+w010793.1 | visual, pictorial | -
+w010794.1 | group, set, alliance, faction | -
+w010794.2 | classification, arrangement | -
+w010796.1 | sanctity, sacredness, purity | -
+w010796.2 | - | -
+w010797.1 | horrific, shocking, appalling | -
+w010798.1 | cold | hot
+w010798.2 | - | -
+w010799.1 | artist | -
+w010800.1 | inequality, disparity | balance
+w010801.1 | wrong, wicked, unethical, evil | moral
+w010802.1 | wasteful, ineffective, incompetent | efficient
+w010803.1 | equipment | -
+w010803.2 | orchestration, arrangement | -
+w010804.1 | bigotry, prejudice | tolerance
+w010804.2 | allergy, sensitivity | tolerance
+w010805.1 | gosh, wow | -
+w010806.1 | - | -
+w010807.1 | catsup | -
+w010808.1 | - | -
+w010810.1 | ancestry, descent, bloodline, family | -
+w010810.2 | history | -
+w010811.1 | litre | -
+w010814.1 | labour, workforce, staff | -
+w010815.1 | - | -
+w010815.2 | - | -
+w010816.1 | - | -
+w010817.1 | reduction, relief | aggravation
+w010819.1 | highway, freeway, expressway | -
+w010823.1 | indecent, dirty, filthy, vulgar | decent
+w010823.2 | outrageous, scandalous, shocking | reasonable
+w010824.1 | - | -
+w010825.1 | forward, onwards, ahead | backward
+w010825.2 | forward | backward
+w010826.1 | - | -
+w010827.1 | - | -
+w010828.1 | pick, strike, tap | -
+w010828.2 | kiss | -
+w010829.1 | punitive, disciplinary | -
+w010830.1 | board, beam, timber | -
+w010830.2 | policy, principle, point | -
+w010831.1 | predicament, difficulty, trouble, hardship | -
+w010832.1 | - | -
+w010832.2 | - | preseason
+w010833.1 | aware, informed | -
+w010833.2 | toilet, latrine, outhouse | -
+w010834.1 | thrust, drive, force | -
+w010835.1 | - | -
+w010835.2 | lot, host, load, mass | -
+w010835.3 | float | -
+w010836.1 | celebrate, delight, exult | mourn, grieve
+w010838.1 | wander, drift, stroll | -
+w010840.1 | snake | -
+w010841.1 | - | -
+w010843.1 | streamline, clarify, ease | complicate
+w010844.1 | alarm, horn | -
+w010844.2 | temptress, seductress | -
+w010846.1 | - | -
+w010846.2 | - | -
+w010846.3 | - | -
+w010847.1 | spread, smudge, daub, rub | -
+w010847.2 | slander, libel, defame | -
+w010847.3 | smudge, stain, streak, mark | -
+w010848.1 | - | -
+w010848.2 | white | -
+w010849.1 | - | -
+w010849.2 | ghostly, phantom, eerie | -
+w010850.1 | steady, secure, balance | destabilize
+w010851.1 | stem | -
+w010851.2 | follow, track, harass | -
+w010851.3 | track, hunt, trail | -
+w010852.1 | politician, leader | -
+w010853.1 | reek, smell | -
+w010853.2 | suck | -
+w010853.3 | stench, reek, smell | fragrance
+w010854.1 | rough, windy, wild | calm
+w010854.2 | turbulent, heated, violent | calm, peaceful
+w010855.1 | committee | -
+w010856.1 | do, serve | -
+w010857.1 | hit, slap, smack | -
+w010857.2 | hit, slap, smack | -
+w010858.1 | pig, hog | -
+w010858.2 | pig, beast, brute | -
+w010859.1 | imagery | -
+w010860.1 | streetcar, trolley | -
+w010862.1 | mafia | -
+w010862.2 | hell | heaven
+w010863.1 | upright | horizontally
+w010864.1 | energetic, strenuous, forceful, intense | gentle, weak
+w010864.2 | robust, healthy, hardy | feeble, weak
+w010865.1 | incorrectly, mistakenly, unfairly, falsely | rightly, correctly
+w010866.1 | yummy, delicious | yuck
+w010868.1 | lasting, permanent | -
+w010870.1 | - | -
+w010871.1 | amp | -
+w010873.1 | amazing, astonishing, staggering, stunning | -
+w010874.1 | - | theism
+w010875.1 | detectable, perceptible | inaudible
+w010876.1 | - | -
+w010878.1 | bath, tub | -
+w010879.1 | bleep, tone | -
+w010879.2 | bleep, honk | -
+w010880.1 | cookie | -
+w010880.2 | roll, bun | -
+w010881.1 | resentment, anger, hostility | -
+w010881.2 | sharpness | sweetness
+w010882.1 | flagrant, obvious, open, glaring | subtle
+w010883.1 | blessing, benefit, godsend, gift | curse
+w010884.1 | rascal, imp | -
+w010885.1 | berth, bed | -
+w010885.2 | nonsense, rubbish, garbage | -
+w010885.3 | sleep, stay | -
+w010886.1 | frank, honest, open, straightforward | evasive
+w010886.2 | informal, natural, unposed | -
+w010887.1 | carer, nurse | -
+w010887.2 | janitor, custodian, porter | -
+w010887.3 | temporary, interim, acting | permanent
+w010888.1 | - | -
+w010888.2 | - | -
+w010889.1 | list | -
+w010890.1 | - | -
+w010890.2 | - | -
+w010892.1 | vice, clip, brace | -
+w010892.2 | grip, clench, fasten | release
+w010892.3 | crack down, restrict | -
+w010893.1 | - | -
+w010894.1 | federation, alliance, league, union | -
+w010895.1 | secrecy, privacy | -
+w010896.1 | inconsistency, conflict, clash | consistency
+w010896.2 | denial, refutation | confirmation
+w010897.1 | - | -
+w010898.1 | biscuit | -
+w010898.2 | - | -
+w010898.3 | hacker | -
+w010900.1 | crafty, sly, devious, wily | naive
+w010900.2 | craftiness, guile, trickery | -
+w010902.1 | portrayal, representation, description | -
+w010903.1 | - | -
+w010903.2 | - | -
+w010904.1 | electronically | -
+w010905.1 | conflict, disagreement, strife, friction | harmony, agreement
+w010905.2 | dissonance | harmony
+w010906.1 | godliness | -
+w010906.2 | theology | -
+w010906.3 | god, goddess, deity | -
+w010907.1 | - | ventral
+w010908.1 | strength, toughness | fragility
+w010909.1 | - | emperor
+w010910.1 | effort, attempt, undertaking | -
+w010910.2 | try, strive, attempt | -
+w010911.1 | register, sign up, enlist, join | -
+w010912.1 | performer, artist | -
+w010914.1 | - | -
+w010915.1 | device, tool, appliance | -
+w010916.1 | pant, gulp | -
+w010916.2 | pant, gulp | -
+w010917.1 | sexual | -
+w010917.2 | - | -
+w010918.1 | fault, bug, hitch, problem | -
+w010919.1 | - | -
+w010919.2 | medal, award, honour | -
+w010920.1 | oily, fatty, slippery | -
+w010921.1 | - | -
+w010921.2 | - | -
+w010921.3 | - | -
+w010922.1 | burger | -
+w010922.2 | mince | -
+w010923.1 | obey, follow, listen to, mind | ignore, disregard
+w010923.2 | attention, notice | -
+w010924.1 | ugly, horrible, grotesque, revolting | beautiful
+w010925.1 | - | -
+w010926.1 | creative, inventive, original | unimaginative
+w010927.1 | faulty, defective | perfect
+w010927.2 | - | -
+w010928.1 | unspoken, indirect | explicit
+w010928.2 | absolute, complete, total, unquestioning | -
+w010929.1 | cove, bay, creek | -
+w010929.2 | intake, opening | outlet
+w010930.1 | thoughtless, tactless, unkind, callous | sensitive
+w010930.2 | numb, immune | sensitive
+w010931.1 | cornerstone, foundation, basis | -
+w010931.2 | - | -
+w010932.1 | - | -
+w010932.2 | - | -
+w010933.1 | praise, credit, glory, prestige | -
+w010935.1 | tiered | -
+w010936.1 | - | -
+w010937.1 | - | -
+w010937.2 | cash | -
+w010938.1 | lake | -
+w010940.1 | cream | -
+w010942.1 | - | -
+w010942.2 | - | -
+w010944.1 | marquess | -
+w010945.1 | chaos, havoc, disorder, confusion | order
+w010946.1 | wrongly, incorrectly, erroneously | correctly
+w010947.1 | mildew, fungus | -
+w010947.2 | cast, form, shape | -
+w010947.3 | shape, form, model, influence | -
+w010948.1 | - | -
+w010949.1 | teat | -
+w010949.2 | teat | -
+w010950.1 | wistful, sentimental | -
+w010952.1 | tyrannical, harsh, cruel, repressive | -
+w010952.2 | stifling, muggy, sultry, close | -
+w010953.1 | sponsorship, support, backing | -
+w010953.2 | - | -
+w010953.3 | custom, business, trade | -
+w010954.1 | peak, summit, height, top | bottom
+w010954.2 | spire, peak | -
+w010955.1 | - | -
+w010955.2 | - | -
+w010956.1 | stink, stench, smell | -
+w010956.2 | stink, reek | -
+w010957.1 | encouragement, prompt | -
+w010958.1 | thrive, flourish, succeed, boom | fail, decline
+w010959.1 | - | -
+w010959.2 | - | -
+w010960.1 | earthquake, tremor | -
+w010960.2 | tremble, shake, shiver | -
+w010961.1 | - | quantitative
+w010962.1 | competitor, runner | -
+w010962.2 | - | -
+w010963.1 | - | -
+w010963.2 | - | -
+w010964.1 | summary, review, recapitulation | -
+w010964.2 | summarize, sum up, review | -
+w010965.1 | identifiable, familiar, distinctive | unrecognizable
+w010966.1 | survey, exploration | -
+w010967.1 | ruler | -
+w010967.2 | governor, trustee | -
+w010968.1 | current | -
+w010968.2 | ruling | -
+w010969.1 | unwillingly, grudgingly | willingly, eagerly
+w010970.1 | performance, interpretation, version | -
+w010970.2 | extradition | -
+w010971.1 | wayside, verge | -
+w010971.2 | - | -
+w010972.1 | - | -
+w010973.1 | - | -
+w010974.1 | - | -
+w010975.1 | stitch, mend | -
+w010976.1 | unsteady, wobbly | steady
+w010976.2 | weak, unreliable, uncertain, insecure | solid, firm
+w010977.1 | fraud, pretence, fake, hoax | -
+w010977.2 | fake, false, bogus, mock | genuine, real
+w010977.3 | pretend, fake, feign | -
+w010980.1 | killer, murderer | -
+w010981.1 | - | -
+w010981.2 | hunter | -
+w010982.1 | figure, number | -
+w010983.1 | status, standing, reputation, prestige | -
+w010983.2 | height, build, size | -
+w010984.1 | attendant, flight attendant | -
+w010984.2 | manager, custodian, guardian | -
+w010984.3 | marshal, organizer | -
+w010985.1 | fat, plump, stocky, heavy | thin, slim
+w010985.2 | sturdy, strong, tough, brave | weak, flimsy
+w010985.3 | - | -
+w010986.1 | tactically | -
+w010987.1 | - | -
+w010987.2 | - | -
+w010988.1 | - | -
+w010988.2 | baffle, puzzle, perplex | -
+w010988.3 | campaign, canvass | -
+w010989.1 | junior, assistant, inferior | superior, boss
+w010989.2 | secondary, lesser, junior, inferior | superior, senior
+w010989.3 | - | -
+w010990.1 | temple | -
+w010991.1 | provisional, preliminary, experimental | definite, final
+w010991.2 | hesitant, uncertain, cautious, timid | confident
+w010993.1 | current, contemporary, newsworthy | -
+w010993.2 | external | -
+w010994.1 | anxious, worried, nervous, uncomfortable | calm, comfortable
+w010994.2 | unstable, insecure, fragile | stable
+w010995.1 | open, spread out, unroll | fold
+w010995.2 | develop, happen, emerge, evolve | -
+w010996.1 | difference, discrepancy, variation | agreement
+w010996.2 | - | -
+w010997.1 | - | -
+w010999.1 | - | -
+w010999.2 | - | -
+w011000.1 | work, burden | -
+w011002.1 | white | -
+w011002.2 | white | -
+w011003.1 | - | -
+w011004.1 | unnaturally, falsely | naturally
+w011005.1 | except, excluding, unless | including
+w011006.1 | - | -
+w011006.2 | drop, droplet, drip | -
+w011007.1 | bunk, bed | -
+w011007.2 | dock, mooring, quay | -
+w011007.3 | dock, moor, anchor | -
+w011008.1 | extortion | -
+w011008.2 | extort, threaten, coerce | -
+w011009.1 | sightlessness | sight
+w011009.2 | ignorance, unawareness | awareness
+w011010.1 | brilliantly, vividly | dimly
+w011010.2 | cheerfully, happily, gaily | sadly
+w011011.1 | break-in, theft, robbery | -
+w011012.1 | canteen | -
+w011013.1 | - | -
+w011013.2 | yellow | -
+w011014.1 | aerobics | -
+w011016.1 | awkward, ungainly | graceful, agile
+w011016.2 | awkward, tactless, crude | skilful
+w011017.1 | traveller | -
+w011018.1 | eventuality, possibility, emergency | -
+w011019.1 | cabinet, closet, wardrobe | -
+w011020.1 | silly, stupid, foolish, idiotic | sensible
+w011022.1 | poverty, hardship, need, want | wealth, affluence
+w011023.1 | properly, correctly, punctually, appropriately | -
+w011024.1 | twilight, nightfall, sunset, evening | dawn
+w011025.1 | ecologically | -
+w011026.1 | - | -
+w011027.1 | eternal, endless, permanent, undying | temporary
+w011028.1 | practicality, viability, possibility | -
+w011029.1 | nationally | -
+w011030.1 | - | -
+w011031.1 | fury, madness, hysteria, fever | calm
+w011032.1 | satisfaction, contentment | dissatisfaction
+w011032.2 | achievement, realization, completion, accomplishment | failure
+w011032.3 | delivery | -
+w011034.1 | sponsor | godmother
+w011034.2 | boss, don | -
+w011034.3 | father, founder, pioneer | -
+w011036.1 | granny, grandmother, grandma, nan | grandpa
+w011037.1 | - | -
+w011039.1 | war, fighting, warfare, conflict | peace
+w011040.1 | accidentally, unintentionally, unwittingly | deliberately, intentionally
+w011041.1 | uninterested, unconcerned, detached, apathetic | interested, concerned
+w011041.2 | mediocre, average, ordinary | excellent
+w011042.1 | - | -
+w011042.2 | introduce, add, infuse | -
+w011043.1 | demand, insistency, persistence | -
+w011044.1 | always, consistently, without exception | -
+w011045.1 | unbeatable, invulnerable, indestructible | vulnerable
+w011047.1 | anniversary, celebration, festival | -
+w011049.1 | moving, dynamic | static
+w011049.2 | dynamic, energetic, lively | static
+w011052.1 | - | -
+w011052.2 | lilac, mauve | -
+w011053.1 | - | -
+w011053.2 | - | -
+w011055.1 | accommodation, housing, shelter | -
+w011055.2 | room, lodgings | -
+w011057.1 | craze, passion, obsession, fever | -
+w011057.2 | madness, frenzy | depression
+w011058.1 | clinically | -
+w011059.1 | - | -
+w011059.2 | courier, smuggler | -
+w011059.3 | slipper | -
+w011060.1 | legendary, mythological, fabled | real
+w011060.2 | imaginary, fictitious | real, actual
+w011062.1 | - | -
+w011064.1 | neat, tidy, organized, systematic | disorderly, messy
+w011064.2 | attendant | -
+w011065.1 | direct, aim, focus, adjust | -
+w011065.2 | orientate | -
+w011065.3 | east | west
+w011066.1 | start, beginning, onset, inception | end
+w011067.1 | block, deflect, ward off, fend off | -
+w011067.2 | dodge, evade, sidestep, deflect | -
+w011067.3 | block | -
+w011068.1 | terrace, courtyard, yard | -
+w011069.1 | - | -
+w011069.2 | show-off, dandy | -
+w011072.1 | card | -
+w011073.1 | bang, wham | -
+w011073.2 | - | -
+w011074.1 | giant, heavyweight | -
+w011074.2 | dynamo | weakling
+w011075.1 | forerunner, predecessor, ancestor | successor
+w011076.1 | better, superior | -
+w011077.1 | preliminary, introductory | -
+w011078.1 | - | -
+w011078.2 | - | -
+w011079.1 | announcement, declaration, statement | -
+w011080.1 | inflammatory, controversial | -
+w011080.2 | seductive, sexy, suggestive | -
+w011081.1 | deliberately, intentionally, on purpose | accidentally
+w011082.1 | survey, form | -
+w011083.1 | recover, retrieve, regain, take back | -
+w011083.2 | restore | -
+w011083.3 | recycle, recover, salvage | -
+w011084.1 | regeneration, renewal | -
+w011085.1 | reaction, response | -
+w011085.2 | reaction | -
+w011086.1 | move, transfer | -
+w011087.1 | return match | -
+w011088.1 | kidney | -
+w011089.1 | refund, reimbursement | -
+w011089.2 | instalment | -
+w011090.1 | controlled, calm, reserved, moderate | unrestrained
+w011090.2 | subdued, understated, discreet | flamboyant
+w011091.1 | puzzle, conundrum, brainteaser | -
+w011091.2 | mystery, puzzle, enigma | -
+w011091.3 | pepper, fill, perforate | -

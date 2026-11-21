@@ -1,0 +1,401 @@
+w030039.1 | - | -
+w030046.1 | - | -
+w030051.1 | distort, twist | -
+w030052.1 | thaw, unfreeze | freeze
+w030052.2 | - | -
+w030096.1 | hairdresser | -
+w030113.1 | speculate, suppose, theorize | -
+w030133.1 | - | -
+w030133.2 | - | -
+w030143.1 | log, diary, journal | -
+w030143.2 | - | -
+w030163.1 | speedboat | -
+w030165.1 | - | -
+w030166.1 | grandmother, granny, grandma | -
+w030183.1 | characteristic, feature, trait | -
+w030183.2 | oddity, quirk, eccentricity | -
+w030191.1 | thief | -
+w030224.1 | doubter, cynic | believer
+w030226.1 | - | -
+w030239.1 | expertly, skillfully | clumsily
+w030241.1 | snobby, arrogant, superior | -
+w030244.1 | standardization | -
+w030298.1 | appealingly, beautifully | unattractively
+w030305.1 | note, bill | coin
+w030334.1 | - | -
+w030348.1 | madly, wildly | sanely
+w030365.1 | headphone, earpiece | -
+w030377.1 | stylishly, smartly | unfashionably
+w030402.1 | - | -
+w030435.1 | mine | -
+w030451.1 | happen, occur, come about | -
+w030451.2 | appear | disappear, vanish
+w030469.1 | abuse, maltreat | -
+w030473.1 | whinny | -
+w030473.2 | whinny | -
+w030477.1 | loudly | quietly, silently
+w030483.1 | rip off | undercharge
+w030483.2 | - | -
+w030532.1 | stutter | -
+w030532.2 | stutter | -
+w030534.1 | tense, harden | relax, soften
+w030534.2 | strengthen, reinforce, toughen | weaken
+w030545.1 | represent, stand for, signify | -
+w030552.1 | trackpad | -
+w030620.1 | wildfire | -
+w030622.1 | bottom, backside | -
+w030639.1 | crossroads, intersection, junction | -
+w030639.2 | - | -
+w030647.1 | deli | -
+w030652.1 | - | -
+w030664.1 | overhear, listen in | -
+w030670.1 | surround, wrap, enclose, cover | -
+w030758.1 | - | -
+w030802.1 | - | -
+w030819.1 | - | -
+w030820.1 | tactfully, considerately | insensitively
+w030826.1 | - | -
+w030829.1 | snigger, giggle, chuckle | -
+w030829.2 | snigger, giggle | -
+w030832.1 | - | -
+w030832.2 | flip | -
+w030839.1 | - | -
+w030839.2 | - | -
+w030847.1 | - | -
+w030847.2 | - | -
+w030860.1 | improvement, recovery, upswing | downturn
+w030860.2 | overturn, upend | -
+w030867.1 | - | -
+w030873.1 | disgusting, gross, horrible | yummy
+w030890.1 | amaze, astound, stun, surprise | -
+w030918.1 | Celsius | -
+w030918.2 | Celsius | -
+w030924.1 | - | -
+w030946.1 | catastrophically | -
+w030956.1 | - | -
+w030956.2 | - | -
+w030966.1 | - | rigidly
+w030980.1 | - | -
+w031122.1 | - | -
+w031122.2 | fluctuate, swing | -
+w031164.1 | capital | lowercase
+w031164.2 | - | lowercase
+w031196.1 | humorously, entertainingly | -
+w031237.1 | clear | cloudy
+w031316.1 | natural, fluent | -
+w031316.2 | - | -
+w031428.1 | sign | -
+w031428.2 | indicate, signal | -
+w031441.1 | - | -
+w002509.1 | crossing | -
+w002509.2 | cross, wade | -
+w004724.1 | disabled, handicapped | -
+w031528.1 | cage | -
+w031600.1 | complete, finish, settle | -
+w031679.1 | - | -
+w031724.1 | silence, calm, stillness | noise, loudness
+w031756.1 | - | -
+w004884.1 | intelligence, information | -
+w031826.1 | haughtily, proudly | humbly, modestly
+w031878.1 | personalise, tailor, adapt | -
+w031896.1 | - | -
+w031896.2 | centre, heart, hub | -
+w031911.1 | quadruple | -
+w031911.2 | - | -
+w031919.1 | - | -
+w031921.1 | - | -
+w031922.1 | beautifully, stunningly | -
+w031933.1 | - | -
+w031934.1 | idol | -
+w031936.1 | uncertainly, tentatively | confidently
+w031938.1 | - | -
+w031951.1 | distracted, careless | attentive
+w031952.1 | - | -
+w031952.2 | indentation | -
+w031952.3 | order | -
+w031953.1 | tactless, careless | discreet
+w031956.1 | - | -
+w031975.1 | stand | -
+w031976.1 | leftist | -
+w031981.1 | faithfully | disloyally
+w031996.1 | learn by heart, memorize | forget
+w032013.1 | hopefully, confidently | pessimistically
+w032032.1 | forestall, prevent | -
+w032032.2 | replace | -
+w032087.1 | sunny, bright | dark, shady
+w032105.1 | - | countable
+w032105.2 | countless, innumerable | -
+w032107.1 | outdated | fashionable
+w032123.1 | keeper | -
+w032128.1 | trouble, plague, torment | -
+w032156.1 | birthday | -
+w032207.1 | disenchant | -
+w032207.2 | disillusionment, disappointment | -
+w032217.1 | - | -
+w032224.1 | smiley, emoji | -
+w032225.1 | sympathise, identify | -
+w032227.1 | fund, finance | -
+w032227.2 | give, bless | -
+w032231.1 | nervously, anxiously | bravely, fearlessly
+w032231.2 | extremely, terribly, awfully | -
+w032233.1 | predictor | -
+w032239.1 | - | -
+w032244.1 | greenhouse, hothouse | -
+w032252.1 | - | -
+w032253.1 | safely | harmfully
+w032261.1 | delay, hold-up | -
+w032261.2 | robbery, hold-up | -
+w032268.1 | - | -
+w032302.1 | legalize, legitimise | ban, outlaw
+w032311.1 | oil, grease | -
+w032335.1 | musty | fresh
+w032348.1 | counteract, cancel out | -
+w032360.1 | - | -
+w032367.1 | fertilise | -
+w032383.1 | swindle, con | bargain
+w032383.2 | imitation, fake, knockoff | original
+w032393.1 | reorganization, overhaul | -
+w032396.1 | - | -
+w032406.1 | stock market, stock exchange | -
+w032431.1 | - | -
+w032431.2 | play truant | -
+w032472.1 | archaeologist | -
+w032491.1 | fragile, delicate | unbreakable
+w032497.1 | centralise | decentralize
+w032528.1 | worm | -
+w032569.1 | - | -
+w032576.1 | link | -
+w032576.2 | link | -
+w032690.1 | disinfect, sterilize, clean | contaminate
+w032690.2 | clean up, censor | -
+w032707.1 | timidly, bashfully | boldly, confidently
+w032713.1 | investor | -
+w032759.1 | cutely, sweetly | -
+w032775.1 | eggplant | -
+w032813.1 | - | -
+w032813.2 | toilet, restroom, lavatory | -
+w032823.1 | cut, reduction | increase
+w032853.1 | yard | -
+w032886.1 | - | -
+w032898.1 | enrage, anger | calm, soothe
+w032907.1 | endanger, threaten, risk | protect
+w032960.1 | - | -
+w032992.1 | adapt, convert | -
+w032994.1 | divert, redirect | -
+w032997.1 | - | -
+w032997.2 | return | one-way
+w033008.1 | - | -
+w033011.1 | place, locate, position | -
+w033022.1 | - | -
+w033045.1 | intruder | -
+w033050.1 | fixed, unalterable, permanent | changeable
+w033062.1 | bleach, lighten | darken, blacken
+w033064.1 | hooray, hurray | -
+w033070.1 | - | -
+w033116.1 | - | -
+w033128.1 | - | -
+w033147.1 | rust, eat away | -
+w033147.2 | erode, undermine, weaken | strengthen
+w033157.1 | - | -
+w033368.1 | sunscreen | -
+w033453.1 | wave, signal, motion | -
+w033453.2 | call, attract, await | -
+w033489.1 | - | -
+w033579.1 | hungrily | -
+w033629.1 | delay, tardiness | punctuality
+w033750.1 | shell | -
+w033908.1 | - | -
+w033928.1 | thrilled, elated, excited | -
+w034003.1 | - | -
+w034037.1 | advertise, promote, publicize | -
+w034193.1 | awkwardness | grace, gracefulness
+w034208.1 | soak, saturate, douse | dry
+w034220.1 | carve, inscribe, etch | -
+w034220.2 | imprint, etch | -
+w034457.1 | - | -
+w004641.1 | - | -
+w004641.2 | potter about, putter | -
+w034514.1 | - | -
+w034546.1 | - | -
+w034546.2 | leg | -
+w034547.1 | earphone | -
+w034553.1 | aesthetic, artistic | -
+w034553.2 | aesthetic | -
+w034562.1 | food | -
+w034564.1 | - | -
+w034764.1 | fund, finance, support | -
+w034767.1 | - | -
+w034960.1 | - | -
+w035116.1 | lace | -
+w035128.1 | lamppost | -
+w035304.1 | - | -
+w035314.1 | glamour, allure, charm | -
+w035319.1 | grandma, granny, grandmother | -
+w035351.1 | cheerless, miserable, gloomy | joyful
+w035364.1 | streetlight | -
+w035370.1 | - | -
+w035377.1 | marsh, swamp, bog | -
+w035391.1 | multipurpose | -
+w035406.1 | - | southerner
+w035415.1 | - | -
+w035427.1 | - | -
+w035445.1 | recklessly, hastily, carelessly | carefully, cautiously
+w035504.1 | - | -
+w035506.1 | - | -
+w035525.1 | nastily, disagreeably | pleasantly
+w035536.1 | tiredly | -
+w035565.1 | vaguely, unclearly | clearly, unambiguously
+w035614.1 | - | -
+w035617.1 | - | -
+w035651.1 | wryly | -
+w035701.1 | creatively, inventively | unimaginatively
+w035779.1 | dutifully | disobediently
+w035827.1 | thief | -
+w035871.1 | nervously, anxiously, uncomfortably | calmly
+w035987.1 | crush, crease, scrunch | smooth
+w035987.2 | collapse, fall down | -
+w036150.1 | - | -
+w036167.1 | - | -
+w036167.2 | - | -
+w036172.1 | - | -
+w036195.1 | classmate | -
+w036215.1 | - | -
+w006602.1 | - | -
+w006602.2 | - | -
+w036428.1 | tower block, skyscraper | -
+w036428.2 | multistorey | -
+w036457.1 | expertise, skill | -
+w036470.1 | pastille, cough drop | -
+w036470.2 | diamond, rhombus | -
+w036483.1 | - | -
+w036484.1 | - | -
+w036509.1 | - | -
+w036510.1 | - | -
+w036511.1 | - | -
+w036512.1 | restore, regularise | -
+w036520.1 | spectator, bystander, observer, witness | -
+w036525.1 | overseas, foreign | domestic
+w036557.1 | - | disconnection
+w036560.1 | transplant | -
+w036574.1 | scorecard | -
+w036601.1 | honestly, frankly, directly | -
+w036601.2 | simply, easily | -
+w036607.1 | - | headwind
+w036607.2 | boost | headwind
+w036611.1 | - | -
+w036630.1 | - | heated
+w036642.1 | - | -
+w036642.2 | - | -
+w036650.1 | gale | -
+w036653.1 | - | -
+w036671.1 | stroll, wander, saunter | -
+w036671.2 | stroll, wander | -
+w036700.1 | brainstorm, inspiration | -
+w036700.2 | - | -
+w036723.1 | happiness, cheer, brightness | gloom, sadness
+w036749.1 | adapt | -
+w036749.2 | exaggerate, sensationalize | downplay
+w036801.1 | - | tailwind
+w036801.2 | obstacle, hindrance | tailwind
+w036842.1 | wonderfully, superbly, brilliantly | terribly
+w036874.1 | - | -
+w036874.2 | - | -
+w036882.1 | overindulge, gorge | -
+w036916.1 | transfer, redeploy | -
+w036927.1 | idealize, glamorize | -
+w036936.1 | frighteningly, terrifyingly | -
+w037042.1 | - | -
+w037085.1 | spider web, web | -
+w037098.1 | dry | hydrate
+w037098.2 | - | -
+w037129.1 | mask | -
+w037171.1 | hoodie | -
+w037257.1 | - | privatize
+w037264.1 | - | -
+w037359.1 | fashionably, smartly, elegantly | -
+w037454.1 | - | -
+w037471.1 | classify, group, sort | -
+w037499.1 | digitise | -
+w037506.1 | deposit | -
+w037530.1 | unlikely, implausible, unbelievable | believable, plausible
+w037596.1 | - | -
+w037607.1 | - | -
+w037620.1 | layman | expert, specialist
+w037626.1 | energy, vitality, vivacity | dullness
+w037659.1 | lose, mislay | find
+w037665.1 | deaden, dampen, mute | amplify
+w037665.2 | wrap up | -
+w037706.1 | privatize | nationalise
+w037729.1 | saleslady | -
+w037741.1 | - | -
+w037751.1 | slyly, secretly, furtively | openly
+w037760.1 | tan | -
+w037760.2 | tan | -
+w037787.1 | - | friend
+w037789.1 | erratically | predictably
+w037808.1 | alarmingly, disturbingly | reassuringly
+w037869.1 | settle, occupy | -
+w037899.1 | - | -
+w037902.1 | - | -
+w037966.1 | shade | -
+w038073.1 | - | -
+w038084.1 | - | -
+w004005.1 | contagious, infectious | -
+w038221.1 | cancellation | -
+w038279.1 | - | cheaply
+w038288.1 | step, footfall, footprint | -
+w038303.1 | post | -
+w038314.1 | coordinate, harmonize, reconcile | -
+w038398.1 | - | -
+w038439.1 | comfortingly, encouragingly | worryingly, alarmingly
+w038668.1 | shine, glint, sparkle, gleam | -
+w038787.1 | dampen, wet | dry
+w038834.1 | divide, split | unite
+w038834.2 | - | -
+w038848.1 | - | -
+w038850.1 | consequence, effect, result | -
+w038911.1 | indifferent, lukewarm, uninterested | enthusiastic
+w038968.1 | navel, belly button | -
+w039170.1 | - | -
+w039210.1 | - | -
+w039212.1 | - | -
+w039231.1 | uneasily, anxiously, nervously | calmly
+w039232.1 | recount | -
+w039233.1 | revive, rejuvenate, regenerate | -
+w039257.1 | examine, inspect, study | -
+w039283.1 | tan | -
+w039311.1 | - | check
+w039338.1 | shorten | expand
+w039395.1 | automaker | -
+w039396.1 | - | -
+w039454.1 | acquaint, introduce | -
+w039476.1 | - | -
+w039476.2 | popularise | -
+w039568.1 | - | -
+w039618.1 | - | -
+w039618.2 | overrun | -
+w039782.1 | - | -
+w039835.1 | - | -
+w040081.1 | expensive, costly, pricey | cheap
+w040096.1 | rearrange, restructure, reorganize | -
+w040148.1 | broadcast, air | -
+w040175.1 | - | -
+w040197.1 | adequately, satisfactorily | unacceptably
+w040203.1 | amp | -
+w040235.1 | - | -
+w040259.1 | maid | -
+w040364.1 | kindness, usefulness | unhelpfulness
+w040488.1 | promptly, on time | late
+w004709.1 | determined, resolute | -
+w040710.1 | annoy, upset, irritate | please
+w041209.1 | stitch | -
+w041209.2 | embellish, exaggerate | -
+w041508.1 | damage, wreck, deface | -
+w041548.1 | regretfully, sorrowfully | -
+w041562.1 | - | -
+w041562.2 | - | -
+w041705.1 | hitch | -
+w041802.1 | - | -
+w041818.1 | - | -
+w042131.1 | fail | pass
+w042131.2 | fail | pass

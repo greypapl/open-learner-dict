@@ -173,6 +173,18 @@ for r in core:
             n_ex += 1
 if len(EX) != n_ex:
     die(f'例句里有 {len(EX) - n_ex} 条 sense_id 不在主词典里')
+# 同义词 / 反义词（scripts/thesaurus.py 生成：work/merged/thesaurus.jsonl {sense_id, synonyms, antonyms, revised}）
+TH = {}
+if (M / 'thesaurus.jsonl').exists():
+    TH = {t['sense_id']: t for t in load('thesaurus.jsonl')}
+n_th = 0
+for r in core:
+    for s in r['senses']:
+        if s['sense_id'] in TH:
+            s['synonyms'], s['antonyms'] = TH[s['sense_id']]['synonyms'], TH[s['sense_id']]['antonyms']
+            n_th += 1
+if len(TH) != n_th:
+    die(f'同反义词里有 {len(TH) - n_th} 条 sense_id 不在主词典里')
 core_words = {r['word'] for r in core}
 core_lower = {r['word'].lower() for r in core}
 
@@ -305,6 +317,8 @@ wcsv('collocations.csv', ['id', 'collocation', 'pattern', 'zh', 'zh_hant', 'head
      [[r['id'], r['collocation'], r['pattern'], r['zh'], r['zh_hant'], J(r['headwords']), r['confidence']] for r in out_col])
 wcsv('examples.csv', ['sense_id', 'entry_id', 'word', 'en', 'zh', 'zh_hant'],
      [[s['sense_id'], r['id'], r['word'], e['en'], e['zh'], e['zh_hant']] for r in core for s in r['senses'] for e in s['examples']])
+wcsv('relations.csv', ['sense_id', 'entry_id', 'word', 'type', 'related'],
+     [[s['sense_id'], r['id'], r['word'], t, x] for r in core for s in r['senses'] for t in ('synonym', 'antonym') for x in s[t + 's']])
 wcsv('inflections.csv', ['form', 'lemma', 'types', 'is_headword'],
      [[r['form'], l['lemma'], J(l['types']), int(r['is_headword'])] for r in out_inf for l in r['lemmas']])
 
@@ -329,6 +343,7 @@ CREATE TABLE entries(id TEXT PRIMARY KEY, word TEXT NOT NULL, standard_form TEXT
   kid_safe INTEGER, game_ok INTEGER, confidence TEXT, reviewed INTEGER, review_status TEXT);
 CREATE TABLE senses(sense_id TEXT PRIMARY KEY, entry_id TEXT NOT NULL, idx INTEGER, pos TEXT, zh TEXT, zh_hant TEXT, en_short TEXT, register TEXT);
 CREATE TABLE examples(sense_id TEXT NOT NULL, idx INTEGER, en TEXT NOT NULL, zh TEXT, zh_hant TEXT);
+CREATE TABLE sense_relations(sense_id TEXT NOT NULL, type TEXT NOT NULL, idx INTEGER, related TEXT NOT NULL);
 CREATE TABLE proper(id TEXT PRIMARY KEY, word TEXT NOT NULL, display TEXT, zipf REAL, also_common INTEGER, confidence TEXT);
 CREATE TABLE proper_names(proper_id TEXT NOT NULL, idx INTEGER, type TEXT, zh TEXT, zh_hant TEXT, note TEXT, note_hant TEXT);
 CREATE TABLE phrases(id TEXT PRIMARY KEY, phrase TEXT NOT NULL, type TEXT, level TEXT, kid_safe INTEGER, confidence TEXT);
@@ -351,6 +366,8 @@ con.executemany('INSERT INTO senses VALUES(?,?,?,?,?,?,?,?)',
                  for r in core + out_gloss for i, s in enumerate(r['senses'], 1)])
 con.executemany('INSERT INTO examples VALUES(?,?,?,?,?)',
                 [(s['sense_id'], i, e['en'], e['zh'], e['zh_hant']) for r in core for s in r['senses'] for i, e in enumerate(s['examples'], 1)])
+con.executemany('INSERT INTO sense_relations VALUES(?,?,?,?)',
+                [(s['sense_id'], t, i, x) for r in core for s in r['senses'] for t in ('synonym', 'antonym') for i, x in enumerate(s[t + 's'], 1)])
 con.executemany('INSERT INTO proper VALUES(?,?,?,?,?,?)', [(r['id'], r['word'], r['display'], r['zipf'], int(r['also_common']), 'low') for r in out_proper])
 con.executemany('INSERT INTO proper_names VALUES(?,?,?,?,?,?,?)', [(r['id'], i, n['type'], n['zh'], n['zh_hant'], n['note'], n['note_hant']) for r in out_proper for i, n in enumerate(r['names'], 1)])
 con.executemany('INSERT INTO phrases VALUES(?,?,?,?,?,?)', [(r['id'], r['phrase'], r['type'], r['level'], int(r['kid_safe']), r['confidence']) for r in out_phr])
@@ -369,10 +386,10 @@ CREATE INDEX idx_entries_word ON entries(word COLLATE NOCASE); CREATE INDEX idx_
 CREATE INDEX idx_senses_entry ON senses(entry_id); CREATE INDEX idx_lookup_key ON lookup(key);
 CREATE INDEX idx_phrases_phrase ON phrases(phrase COLLATE NOCASE); CREATE INDEX idx_psenses ON phrase_senses(phrase_id);
 CREATE INDEX idx_colhw ON collocation_headwords(headword); CREATE INDEX idx_infl ON inflections(form COLLATE NOCASE);
-CREATE INDEX idx_pnames ON proper_names(proper_id); CREATE INDEX idx_examples ON examples(sense_id);
+CREATE INDEX idx_pnames ON proper_names(proper_id); CREATE INDEX idx_examples ON examples(sense_id); CREATE INDEX idx_rel ON sense_relations(sense_id); CREATE INDEX idx_rel_word ON sense_relations(related COLLATE NOCASE);
 ''')
 counts = {'core': len(core), 'core_senses': sum(len(r['senses']) for r in core), 'gloss': len(out_gloss), 'proper': len(out_proper),
-          'phrases': len(out_phr), 'collocations': len(out_col), 'inflections': len(out_inf), 'examples': n_ex}
+          'phrases': len(out_phr), 'collocations': len(out_col), 'inflections': len(out_inf), 'examples': n_ex, 'thesaurus_senses': n_th}
 con.executemany('INSERT INTO meta VALUES(?,?)', [('version', VERSION), ('license', 'CC BY-SA 4.0')] + [(k, str(v)) for k, v in counts.items()])
 con.commit(); con.execute('VACUUM'); con.close()
 

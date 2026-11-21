@@ -1,0 +1,401 @@
+w009915.1 | fragrance | n. | B2 | 香味, 芳香, 香气 | a pleasant smell
+w009915.2 | fragrance | n. | B2 | 香水, 香料 | a perfume or scented product
+w009917.1 | fungus | n. | B2 | 真菌, 霉菌, 菌类 | an organism such as a mushroom or mould
+w009920.1 | gunfire | n. | B2 | 炮火, 枪声, 射击 | the repeated shooting of guns
+w009921.1 | heroine | n. | B1 | 女主角, 女主人公 | the main female character in a story
+w009921.2 | heroine | n. | B1 | 女英雄, 女杰 | a woman admired for bravery
+w009922.1 | hoax | n. | C1 | 骗局, 恶作剧, 愚弄 | a trick to make people believe something false
+w009922.2 | hoax | v. | C1 | 欺骗, 戏弄 | to trick people with a false story
+w009923.1 | impending | adj. | C1 | 即将发生的, 迫在眉睫的, 逼近的 | about to happen soon, usually something bad
+w009924.1 | insignificant | adj. | B2 | 微不足道的, 无关紧要的, 无足轻重的 | too small or unimportant to matter
+w009925.1 | insurer | n. | C1 | 保险公司, 承保人, 保险商 | a company that provides insurance
+w009928.1 | knowledgeable | adj. | B2 | 知识渊博的, 有见识的, 博学的 | knowing a lot about something
+w009930.1 | lingerie | n. | C1 | 女式内衣, 女用贴身衣物 | women's underwear and nightclothes
+w009931.1 | lite | adj. | B2 | 低脂的, 低热量的, 清淡的 | containing less fat, sugar or alcohol
+w009931.2 | lite | adj. | B2 | 简化版的, 精简的 | a simpler or weaker version of something
+w009934.1 | magician | n. | B1 | 魔术师, 变戏法的人 | a person who performs magic tricks
+w009934.2 | magician | n. | B1 | 魔法师, 巫师 | a person in stories with magic powers
+w009936.1 | maneuver | n. | C1 | 熟练动作, 机动, 调动 | a skilful or careful movement
+w009936.2 | maneuver | n. | C1 | 策略, 计谋, 花招 | a clever plan to gain an advantage
+w009936.3 | maneuver | v. | C1 | 操纵, 移动, 调动 | to move something carefully into position
+w009936.4 | maneuver | v. | C1 | 耍手段, 策划 | to act cleverly to get what you want
+w009937.1 | marrow | n. | C1 | 骨髓 | the soft substance inside bones
+w009937.2 | marrow | n. | C1 | 精髓, 核心 | the most important part of something
+w009937.3 | marrow | n. | C1 | 西葫芦, 菜瓜 | a large green vegetable like a cucumber
+w009938.1 | marvelous | adj. | B1 | 极好的, 了不起的, 非凡的 | extremely good or pleasant
+w009939.1 | medicinal | adj. | C1 | 药用的, 有药效的, 医疗的 | used to treat illness
+w009941.1 | mono | adj. | C1 | 单声道的 | using only one sound channel
+w009941.2 | mono | n. | C1 | 单核细胞增多症, 腺热 | an infectious illness causing tiredness and fever
+w009942.1 | numb | adj. | B2 | 麻木的, 失去知觉的, 发麻的 | unable to feel anything in part of the body
+w009942.2 | numb | adj. | B2 | 呆住的, 麻木的 | unable to feel emotion because of shock
+w009942.3 | numb | v. | B2 | 使麻木, 使失去知觉 | to make something unable to feel
+w009943.1 | overlook | v. | B2 | 忽视, 忽略, 没注意到 | to fail to notice something
+w009943.2 | overlook | v. | B2 | 宽恕, 不予追究 | to ignore a fault or mistake
+w009943.3 | overlook | v. | B2 | 俯瞰, 眺望 | to have a view of from above
+w009944.1 | pastry | n. | B1 | 糕点, 酥皮点心 | a small sweet cake made with dough
+w009944.2 | pastry | n. | B1 | 油酥面团, 面皮 | dough of flour, fat and water for pies
+w009945.1 | pawn | n. | C1 | 卒, 兵 | the least valuable piece in chess
+w009945.2 | pawn | n. | C1 | 棋子, 傀儡, 被利用的人 | a person used by others for their own purposes
+w009945.3 | pawn | v. | C1 | 典当, 抵押 | to leave something with a lender for money
+w009946.1 | pediatric | adj. | C1 | 儿科的, 小儿科的 | relating to medical care of children
+w009947.1 | persist | v. | B2 | 持续, 存留, 继续存在 | to continue to exist
+w009947.2 | persist | v. | B2 | 坚持, 执意 | to keep trying despite difficulty
+w009948.1 | planner | n. | B2 | 规划者, 策划人, 设计者 | a person who plans things
+w009948.2 | planner | n. | B2 | 计划本, 日程本 | a book for writing plans and appointments
+w009949.1 | plaster | n. | B2 | 灰泥, 石膏 | a paste used to cover walls
+w009949.2 | plaster | n. | B2 | 创可贴, 橡皮膏 | a small sticky bandage
+w009949.3 | plaster | v. | B2 | 抹灰泥, 涂抹 | to cover a wall with plaster
+w009949.4 | plaster | v. | B2 | 贴满, 涂满 | to cover a surface thickly with something
+w009950.1 | playful | adj. | B2 | 爱玩的, 顽皮的, 嬉戏的 | full of fun and liking to play
+w009950.2 | playful | adj. | B2 | 开玩笑的, 不严肃的 | done in fun, not seriously
+w009951.1 | pleading | n. | C1 | 恳求, 请求, 哀求 | the act of asking for something emotionally
+w009951.2 | pleading | n. | C1 | 诉状, 答辩状 | a formal statement of a case in court
+w009951.3 | pleading | adj. | C1 | 恳求的, 哀求的 | showing that you want something very much
+w009952.1 | quirky | adj. | C1 | 古怪的, 离奇的, 别具一格的 | unusual in an interesting way
+w009953.1 | quota | n. | C1 | 定额, 配额, 限额 | a fixed amount that is allowed or required
+w009955.1 | rationale | n. | C1 | 基本原理, 理由, 根据 | the reasons behind a decision or belief
+w009956.1 | reap | v. | C1 | 获得, 得到, 收获 | to get something good as a result
+w009956.2 | reap | v. | C1 | 收割, 收获 | to cut and gather a crop
+w009957.1 | rebound | v. | C1 | 反弹, 弹回 | to bounce back after hitting something
+w009957.2 | rebound | v. | C1 | 回升, 恢复 | to increase again after falling
+w009957.3 | rebound | n. | C1 | 篮板球 | a ball caught after a missed shot
+w009957.4 | rebound | n. | C1 | 反弹, 回升 | a recovery after a fall
+w009958.1 | recess | n. | C1 | 休会, 休庭, 休息 | a break in the work of a parliament or court
+w009958.2 | recess | n. | C1 | 课间休息 | a break between school classes
+w009958.3 | recess | n. | C1 | 壁凹, 凹室 | a space set back into a wall
+w009959.1 | redeem | v. | C1 | 弥补, 补救, 挽回 | to make up for earlier faults
+w009959.2 | redeem | v. | C1 | 兑换, 兑现 | to exchange a voucher or coupon for something
+w009959.3 | redeem | v. | C1 | 赎回, 救赎 | to get something back by paying, or save from sin
+w009960.1 | reformation | n. | C1 | 改革, 改良, 改造 | the act of improving something by change
+w009960.2 | reformation | n. | C1 | 宗教改革 | the 16th-century movement that created Protestant churches
+w009961.1 | residue | n. | C1 | 残余, 残渣, 剩余物 | what remains after most is gone
+w009962.1 | runoff | n. | C2 | 径流, 地表流水 | rain water flowing over land into rivers
+w009962.2 | runoff | n. | C2 | 决胜选举, 复赛 | a final vote or race to decide a tie
+w009963.1 | rwanda | n. | C1 | 卢旺达, 卢旺达共和国 | a country in east-central Africa
+w009964.1 | salsa | n. | B2 | 莎莎酱, 辣调味汁 | a spicy sauce of tomatoes, onions and chilli
+w009964.2 | salsa | n. | B2 | 萨尔萨舞, 萨尔萨音乐 | a lively Latin American dance and music
+w009965.1 | semiconductor | n. | B2 | 半导体, 半导体器件 | a material that partly conducts electricity
+w009966.1 | sentimental | adj. | B2 | 多愁善感的, 感伤的, 伤感的 | showing tender feelings in an excessive way
+w009966.2 | sentimental | adj. | B2 | 情感的, 情感上的 | connected with feelings rather than reason
+w009967.1 | serbian | adj. | B2 | 塞尔维亚的, 塞尔维亚人的 | relating to Serbia or its people
+w009967.2 | serbian | n. | B2 | 塞尔维亚人 | a person from Serbia
+w009967.3 | serbian | n. | B2 | 塞尔维亚语 | the language of Serbia
+w009968.1 | short-sighted | adj. | B2 | 目光短浅的, 短视的 | not thinking about future effects
+w009968.2 | short-sighted | adj. | B2 | 近视的, 近视眼的 | unable to see distant things clearly
+w009969.1 | simultaneous | adj. | B2 | 同时的, 同时发生的, 同步的 | happening at the same time
+w009970.1 | snatch | v. | B2 | 抢夺, 夺取, 一把抓起 | to take something quickly and roughly
+w009970.2 | snatch | v. | B2 | 抓紧时间做, 抽空 | to take a short chance to do something
+w009970.3 | snatch | n. | B2 | 片段, 一阵 | a short part of a conversation or song
+w009971.1 | spooky | adj. | B2 | 吓人的, 鬼怪般的, 阴森的 | strange and frightening
+w009972.1 | staffing | n. | C1 | 人员配置, 员工配备, 人手 | the providing of workers for an organization
+w009973.1 | stealth | n. | C1 | 秘密行动, 隐秘, 鬼祟 | acting quietly and secretly
+w009973.2 | stealth | adj. | C1 | 隐形的, 隐身的 | hard for radar to detect
+w009974.1 | strained | adj. | C1 | 紧张的, 不友好的 | showing tension between people
+w009974.2 | strained | adj. | C1 | 勉强的, 不自然的 | forced and not natural
+w009974.3 | strained | adj. | C1 | 疲惫的, 焦虑的 | tired and worried
+w009975.1 | subset | n. | C1 | 一部分, 小群体 | a smaller group within a larger group
+w009975.2 | subset | n. | C1 | 子集, 子集合 | a set contained within another set
+w009976.1 | suspense | n. | B2 | 悬念, 紧张感, 焦虑不安 | an anxious feeling while waiting to know what happens
+w009977.1 | swearing | n. | B2 | 咒骂, 骂人, 脏话 | the use of rude or offensive words
+w009978.1 | syntax | n. | C1 | 句法, 句子结构 | the rules for arranging words into sentences
+w009978.2 | syntax | n. | C1 | 语法, 语法规则 | the rules for writing a programming language
+w009979.1 | tad | n. | C1 | 一点儿, 少许, 稍微 | a small amount; slightly (a tad)
+w009980.1 | tandem | n. | C1 | 合作, 协同, 同时 | working together or at the same time (in tandem)
+w009980.2 | tandem | n. | C1 | 双人自行车, 协力车 | a bicycle for two riders
+w009982.1 | tertiary | adj. | C1 | 第三的, 第三级的 | third in order or importance
+w009982.2 | tertiary | adj. | C1 | 高等教育的, 大专的 | relating to college or university education
+w009983.1 | thyroid | n. | C1 | 甲状腺 | a gland in the neck that controls growth
+w009983.2 | thyroid | adj. | C1 | 甲状腺的 | relating to the thyroid gland
+w009984.1 | tidy | adj. | A2 | 整洁的, 整齐的, 爱整洁的 | neat and in good order
+w009984.2 | tidy | v. | A2 | 收拾, 整理, 打扫 | to make a place neat
+w009984.3 | tidy | adj. | A2 | 相当大的, 可观的 | fairly large, of an amount of money
+w009985.1 | timeless | adj. | C1 | 永恒的, 经久不衰的, 不受时间影响的 | not changed by time or fashion
+w009987.1 | unreliable | adj. | B2 | 不可靠的, 靠不住的, 不可信的 | not able to be trusted or depended on
+w009988.1 | upbeat | adj. | C1 | 乐观的, 积极的, 欢快的 | cheerful and hopeful
+w009988.2 | upbeat | n. | C1 | 弱拍, 上拍 | an unaccented beat in music
+w009989.1 | usable | adj. | B2 | 可用的, 能用的, 合用的 | able to be used
+w009990.1 | vanguard | n. | C1 | 先锋, 前卫, 先头部队 | the leading position in a movement or army
+w009991.1 | vomit | v. | B2 | 呕吐, 吐 | to bring food up from the stomach
+w009991.2 | vomit | n. | B2 | 呕吐物, 秽物 | food brought up from the stomach
+w009992.1 | vulgar | adj. | C1 | 粗俗的, 下流的, 粗鄙的 | rude, especially about sex or the body
+w009992.2 | vulgar | adj. | C1 | 庸俗的, 俗气的 | lacking good taste
+w009993.1 | waiver | n. | C1 | 弃权声明, 免责声明, 弃权书 | a document giving up a right or claim
+w009993.2 | waiver | n. | C1 | 豁免, 免除 | official permission not to follow a rule
+w009995.1 | watershed | n. | C1 | 转折点, 分水岭 | an event marking an important change
+w009995.2 | watershed | n. | C1 | 分水岭, 流域 | high land dividing river systems
+w009996.1 | weave | v. | B2 | 编织, 织 | to make cloth by crossing threads
+w009996.2 | weave | v. | B2 | 编排, 编造 | to put ideas together into a story
+w009996.3 | weave | v. | B2 | 迂回穿行, 穿梭 | to move by turning around obstacles
+w009996.4 | weave | n. | B2 | 编织法, 织法 | the way a fabric is woven
+w009998.1 | wiring | n. | B2 | 线路, 电线, 布线 | the system of wires in a building or device
+w010007.1 | Nordic | adj. | B2 | 北欧的, 北欧人的 | relating to Scandinavia, Finland or Iceland
+w010007.2 | Nordic | n. | B2 | 北欧人 | a person from northern Europe
+w010009.1 | RPG | abbr. | B2 | 角色扮演游戏, 角色扮演 | role-playing game
+w010009.2 | RPG | abbr. | B2 | 火箭推进榴弹, 火箭筒 | rocket-propelled grenade
+w010012.1 | adrenaline | n. | B2 | 肾上腺素, 肾上腺激素 | a hormone released when you are excited or afraid
+w010014.1 | alleviate | v. | C1 | 减轻, 缓解, 缓和 | to make pain or a problem less severe
+w010016.1 | anarchy | n. | C1 | 无政府状态, 混乱, 无秩序 | a situation with no order or government control
+w010019.1 | ashore | adv. | B2 | 上岸, 在岸上, 向岸 | onto or on land from the sea
+w010020.1 | aura | n. | C1 | 气氛, 气质, 光环 | a special quality that seems to surround someone
+w010022.1 | ballroom | n. | B2 | 舞厅, 宴会厅 | a large room used for formal dancing
+w010023.1 | beginner | n. | A2 | 初学者, 新手, 生手 | someone who has just started learning something
+w010024.1 | bilingual | adj. | B2 | 双语的, 会两种语言的 | able to speak or using two languages
+w010024.2 | bilingual | n. | B2 | 双语者, 双语人士 | a person who speaks two languages
+w010028.1 | canopy | n. | C1 | 遮篷, 天篷, 华盖 | a cloth or roof cover above something
+w010028.2 | canopy | n. | C1 | 树冠层, 林冠 | the top layer of branches in a forest
+w010030.1 | cherish | v. | B2 | 珍爱, 珍视, 爱护 | to love and care for something
+w010030.2 | cherish | v. | B2 | 怀有, 珍藏 | to keep a memory or hope in your mind
+w010031.1 | chuckle | v. | B2 | 轻声笑, 暗笑, 咯咯笑 | to laugh quietly
+w010031.2 | chuckle | n. | B2 | 轻笑, 暗笑 | a quiet laugh
+w010032.1 | civilized | adj. | B2 | 文明的, 开化的 | having an advanced society and culture
+w010032.2 | civilized | adj. | B2 | 有礼貌的, 有教养的 | polite and reasonable
+w010033.1 | comb | n. | A2 | 梳子, 梳 | a toothed tool for tidying hair
+w010033.2 | comb | v. | A2 | 梳, 梳理 | to tidy hair with a comb
+w010033.3 | comb | v. | A2 | 仔细搜寻, 搜查 | to search a place very carefully
+w010034.1 | conceal | v. | B2 | 隐藏, 隐瞒, 掩盖 | to hide something or keep it secret
+w010035.1 | condemnation | n. | C1 | 谴责, 指责, 非难 | strong public disapproval
+w010035.2 | condemnation | n. | C1 | 定罪, 判罪 | the act of sentencing someone to punishment
+w010036.1 | cruiser | n. | C1 | 巡洋舰 | a large fast warship
+w010036.2 | cruiser | n. | C1 | 警车, 巡逻车 | a police patrol car
+w010036.3 | cruiser | n. | C1 | 游艇, 游轮 | a motorboat with a cabin for leisure
+w010037.1 | curl | v. | B1 | 卷曲, 使卷曲 | to form or make into a curved shape
+w010037.2 | curl | v. | B1 | 蜷缩, 盘绕 | to sit or lie with the body bent (curl up)
+w010037.3 | curl | n. | B1 | 卷发, 鬈发 | a piece of hair in a curved shape
+w010037.4 | curl | n. | B1 | 螺旋状物, 卷曲物 | something with a curved spiral shape
+w010038.1 | dart | v. | B2 | 猛冲, 飞奔, 急驰 | to move suddenly and quickly
+w010038.2 | dart | n. | B2 | 飞镖, 镖 | a small pointed object thrown at a target
+w010038.3 | dart | n. | B2 | 飞镖游戏 | a game of throwing darts at a board (darts)
+w010039.1 | denim | n. | B2 | 牛仔布, 斜纹粗棉布 | a strong cotton cloth used for jeans
+w010039.2 | denim | n. | B2 | 牛仔裤, 牛仔服 | clothes made of this cloth (denims)
+w010040.1 | dependency | n. | C1 | 依赖, 依靠, 依赖性 | the state of needing someone or something
+w010040.2 | dependency | n. | C1 | 附属国, 属地 | a country controlled by another country
+w010040.3 | dependency | n. | C1 | 依赖项, 依赖关系 | software that another program needs to work
+w010041.1 | dew | n. | B2 | 露水, 露珠 | small drops of water on surfaces at night
+w010042.1 | disable | v. | B2 | 使丧失能力, 使残疾 | to injure someone so they cannot do things normally
+w010042.2 | disable | v. | B2 | 禁用, 使失效, 关闭 | to stop a machine or feature from working
+w010043.1 | dishonest | adj. | B1 | 不诚实的, 欺诈的, 不老实的 | not honest; likely to lie or cheat
+w010044.1 | dosage | n. | C1 | 剂量, 用量, 服用量 | the amount of medicine to take
+w010045.1 | doubtful | adj. | B2 | 怀疑的, 不确定的 | feeling unsure about something
+w010045.2 | doubtful | adj. | B2 | 不大可能的, 可疑的 | not likely to be true or happen
+w010046.1 | dysfunction | n. | C1 | 功能障碍, 机能失调 | a failure of a body part to work normally
+w010046.2 | dysfunction | n. | C1 | 失调, 不正常 | a failure of a group or system to work well
+w010047.1 | encyclopedia | n. | B1 | 百科全书, 百科辞典 | a book or set of books with facts on many subjects
+w010048.1 | endowment | n. | C1 | 捐赠, 捐款, 基金 | money given to support an institution
+w010048.2 | endowment | n. | C1 | 天赋, 才能 | a natural quality or ability
+w010049.1 | enrichment | n. | C1 | 充实, 丰富, 提高 | the improving of quality by adding something
+w010049.2 | enrichment | n. | C1 | 浓缩 | increasing the amount of uranium in fuel
+w010050.1 | erect | v. | C1 | 建造, 竖立, 搭起 | to build or put up a structure
+w010050.2 | erect | adj. | C1 | 直立的, 竖直的 | standing straight up
+w010051.1 | erection | n. | C1 | 勃起 | the swelling and stiffening of the penis
+w010051.2 | erection | n. | C1 | 建造, 建立 | the act of building something
+w010052.1 | eruption | n. | B2 | 爆发, 喷发 | the sudden explosion of a volcano
+w010052.2 | eruption | n. | B2 | 突然发生, 爆发 | a sudden outbreak of violence or emotion
+w010053.1 | examiner | n. | B2 | 主考官, 考官 | a person who sets or marks exams
+w010053.2 | examiner | n. | B2 | 检查员, 审查员 | a person who officially inspects something
+w010055.1 | fam | n. | C1 | 家人, 家里人 | family
+w010055.2 | fam | n. | C1 | 哥们, 好朋友 | a close friend
+w010056.1 | fauna | n. | C1 | 动物群, 动物区系 | all the animals living in an area
+w010057.1 | feds | n. | C1 | 联邦探员, 联邦调查人员 | US federal government agents (the feds)
+w010058.1 | fidelity | n. | C1 | 忠诚, 忠实 | loyalty to a person, partner or belief
+w010058.2 | fidelity | n. | C1 | 精确度, 保真度 | how accurately something is copied or reproduced
+w010059.1 | finely | adv. | B2 | 细小地, 细细地 | into very small pieces
+w010059.2 | finely | adv. | B2 | 精细地, 精确地 | in a delicate or precise way
+w010060.1 | flirt | v. | B2 | 调情, 打情骂俏 | to behave as if attracted to someone, playfully
+w010060.2 | flirt | v. | B2 | 有意尝试, 玩弄 | to consider an idea but not seriously (flirt with)
+w010060.3 | flirt | n. | B2 | 爱调情的人 | a person who often flirts
+w010061.1 | fluent | adj. | B1 | 流利的, 流畅的 | able to speak a language easily and well
+w010061.2 | fluent | adj. | B1 | 熟练的, 娴熟的 | smooth and skilful
+w010062.1 | flute | n. | B1 | 长笛, 笛子 | a pipe-shaped wind instrument held sideways
+w010062.2 | flute | n. | B1 | 细长香槟杯, 高脚杯 | a tall narrow wine glass
+w010063.1 | footprint | n. | B2 | 脚印, 足迹 | a mark left by a foot or shoe
+w010063.2 | footprint | n. | B2 | 影响, 足迹 | the effect someone or something has, e.g. on the environment
+w010063.3 | footprint | n. | B2 | 占地面积, 覆盖范围 | the area taken up by something
+w010064.1 | fore | n. | C1 | 显著位置, 前面 | the front or most noticeable position (to the fore)
+w010064.2 | fore | adj. | C1 | 前部的, 前面的 | situated at the front
+w010065.1 | forefront | n. | C1 | 最前线, 最前沿, 前列 | the leading or most important position
+w010066.1 | freshwater | adj. | B2 | 淡水的, 淡水中生长的 | living in or relating to water that is not salty
+w010066.2 | freshwater | n. | B2 | 淡水 | water that is not salty
+w010068.1 | harden | v. | B2 | 变硬, 使变硬, 硬化 | to become or make firm or hard
+w010068.2 | harden | v. | B2 | 变得冷酷, 使坚定, 变强硬 | to become less kind or more determined
+w010069.1 | hateful | adj. | C1 | 可恨的, 可憎的, 讨厌的 | very unpleasant
+w010069.2 | hateful | adj. | C1 | 充满仇恨的, 恶毒的 | showing hatred
+w010070.1 | haunting | adj. | C1 | 萦绕心头的, 难以忘怀的 | beautiful or sad in a way you cannot forget
+w010070.2 | haunting | n. | C1 | 闹鬼, 鬼魂出没 | the appearance of a ghost in a place
+w010071.1 | hepatitis | n. | C1 | 肝炎, 肝脏炎症 | a disease that causes swelling of the liver
+w010075.1 | inherit | v. | B2 | 继承, 遗传 | to receive money, property or a trait from a parent
+w010075.2 | inherit | v. | B2 | 接手, 接管 | to take over a situation from someone before you
+w010076.1 | initiation | n. | C1 | 入会, 入会仪式, 入门 | the act of becoming a member of a group
+w010076.2 | initiation | n. | C1 | 开始, 发起 | the start of something
+w010077.1 | intensely | adv. | B2 | 强烈地, 极度地, 非常 | to a very great degree
+w010078.1 | jeopardy | n. | C1 | 危险, 危难, 风险 | danger of loss or harm (in jeopardy)
+w010082.1 | listener | n. | B1 | 听众, 听者, 倾听者 | a person who listens
+w010083.1 | lockdown | n. | B2 | 封锁, 封城, 禁闭 | an order keeping people in one place for safety
+w010084.1 | mandarin | n. | B2 | 普通话, 官话 | the official language of China (Mandarin)
+w010084.2 | mandarin | n. | B2 | 柑橘, 橘子 | a small sweet orange fruit
+w010084.3 | mandarin | n. | B2 | 高官, 官员 | a powerful government official
+w010085.1 | mast | n. | C1 | 桅杆, 船桅 | a tall pole holding a ship's sails
+w010085.2 | mast | n. | C1 | 天线杆, 旗杆 | a tall pole for an aerial or flag
+w010086.1 | matte | adj. | C1 | 亚光的, 无光泽的 | not shiny
+w010087.1 | mediocre | adj. | C1 | 平庸的, 普通的, 二流的 | of only average or poor quality
+w010090.1 | nicotine | n. | C1 | 尼古丁, 烟碱 | an addictive substance in tobacco
+w010092.1 | outward | adj. | B2 | 外表的, 表面的 | seen on the outside, not necessarily real
+w010092.2 | outward | adj. | B2 | 向外的, 外出的 | going away from a place
+w010092.3 | outward | adv. | B2 | 向外 | towards the outside
+w010095.1 | pep | n. | C1 | 活力, 精力, 劲头 | energy and enthusiasm
+w010095.2 | pep | v. | C1 | 使活跃, 使振作 | to make more lively (pep up)
+w010096.1 | piracy | n. | C1 | 盗版, 侵权 | illegal copying of films, music or software
+w010096.2 | piracy | n. | C1 | 海盗行为, 劫掠 | the attacking of ships at sea to steal
+w010097.1 | platoon | n. | C1 | 排, 小分队 | a small military unit led by a lieutenant
+w010098.1 | practise | v. | A2 | 练习, 训练 | to do something regularly to improve
+w010098.2 | practise | v. | A2 | 从事, 执业 | to work in a profession such as law or medicine
+w010098.3 | practise | v. | A2 | 实践, 奉行 | to follow a religion or custom
+w010099.1 | rave | v. | C1 | 极力赞扬, 热情谈论 | to praise something very enthusiastically
+w010099.2 | rave | v. | C1 | 胡言乱语, 怒斥 | to talk wildly or angrily
+w010099.3 | rave | n. | C1 | 锐舞派对, 狂欢聚会 | a large party with loud electronic dance music
+w010100.1 | recreate | v. | C1 | 再现, 重现, 重建 | to make something exist or happen again
+w010102.1 | residual | adj. | C1 | 残余的, 剩余的, 残留的 | remaining after most has gone
+w010102.2 | residual | n. | C1 | 剩余物, 残渣 | something that remains
+w010103.1 | robe | n. | B2 | 长袍, 礼服 | a long loose garment worn for ceremonies
+w010103.2 | robe | n. | B2 | 浴袍, 睡袍 | a loose coat worn at home
+w010104.1 | rye | n. | C1 | 黑麦, 裸麦 | a cereal grain used for bread and whisky
+w010104.2 | rye | n. | C1 | 黑麦威士忌 | whisky made from rye
+w010105.1 | sensational | adj. | B2 | 轰动的, 耸人听闻的, 哗众取宠的 | causing great excitement or shock
+w010105.2 | sensational | adj. | B2 | 极好的, 了不起的 | extremely good
+w010106.1 | sexism | n. | C1 | 性别歧视, 性别偏见 | unfair treatment of people because of their sex
+w010107.1 | sneaky | adj. | B2 | 鬼鬼祟祟的, 偷偷摸摸的, 狡猾的 | acting secretly or dishonestly
+w010108.1 | socket | n. | B2 | 插座, 插口 | a device in a wall for an electric plug
+w010108.2 | socket | n. | B2 | 窝, 槽 | a hollow part that something fits into
+w010108.3 | socket | n. | B2 | 套接字 | an endpoint for network communication
+w010109.1 | specifics | n. | C1 | 细节, 具体情况, 详情 | the exact details of something
+w010110.1 | starvation | n. | B2 | 饥饿, 挨饿, 饿死 | suffering or death from lack of food
+w010111.1 | starve | v. | B1 | 挨饿, 饿死, 使挨饿 | to suffer or die from lack of food
+w010111.2 | starve | v. | B1 | 使缺乏, 剥夺 | to deprive of something needed (starved of)
+w010112.1 | stool | n. | B1 | 凳子, 高脚凳 | a seat without a back or arms
+w010112.2 | stool | n. | B1 | 粪便, 大便 | solid waste from the body
+w010113.1 | stricken | adj. | C1 | 受灾的, 患病的, 受折磨的 | badly affected by trouble or illness
+w010113.2 | stricken | adj. | C1 | 极度悲伤的, 惊慌的 | showing great sadness or fear
+w010114.1 | subscriber | n. | B2 | 订户, 订阅者, 用户 | a person who pays for a regular service
+w010115.1 | systematically | adv. | B2 | 系统地, 有条理地, 有计划地 | in an organized and thorough way
+w010118.1 | tread | v. | C1 | 踩, 踏, 行走 | to walk or step on something
+w010118.2 | tread | n. | C1 | 胎面, 轮胎花纹 | the patterned surface of a tyre
+w010118.3 | tread | n. | C1 | 脚步声, 步态 | the sound or way of walking
+w010119.1 | truce | n. | C1 | 休战, 停战, 停火 | an agreement to stop fighting for a time
+w010120.1 | turmoil | n. | C1 | 混乱, 骚乱, 动荡 | a state of great confusion or disorder
+w010121.1 | tyranny | n. | C1 | 暴政, 专制, 苛政 | cruel and unfair use of power
+w010121.2 | tyranny | n. | C1 | 束缚, 压制 | something that controls people unfairly
+w010122.1 | unfit | adj. | B2 | 不适合的, 不胜任的 | not suitable or good enough
+w010122.2 | unfit | adj. | B2 | 身体不好的, 不健康的 | not physically healthy or strong
+w010123.1 | uphold | v. | C1 | 维护, 支持, 坚持 | to support a law, principle or decision
+w010123.2 | uphold | v. | C1 | 维持原判, 确认 | to confirm an earlier court decision
+w010124.1 | vita | n. | C2 | 简历, 履历 | a summary of your education and career
+w010127.1 | weir | n. | C2 | 堰, 拦河坝, 低坝 | a low wall built across a river
+w010128.1 | wellbeing | n. | B2 | 幸福, 健康, 安康 | the state of being healthy and happy
+w010130.1 | wonderland | n. | B2 | 仙境, 奇境, 奇妙的地方 | an imaginary or real place full of wonderful things
+w010131.1 | wrestler | n. | B2 | 摔跤运动员, 摔跤手 | a person who takes part in wrestling
+w010134.1 | CCTV | abbr. | B2 | 闭路电视, 监控摄像, 监控系统 | closed-circuit television, used mainly for security monitoring
+w010136.1 | Georgian | adj. | B2 | 格鲁吉亚的, 格鲁吉亚人的, 格鲁吉亚语的 | relating to the country of Georgia or its people
+w010136.2 | Georgian | adj. | B2 | 乔治王时代的, 乔治亚风格的 | from the period of British kings George I to IV
+w010136.3 | Georgian | n. | B2 | 格鲁吉亚人, 格鲁吉亚语 | a person from Georgia, or its language
+w010138.1 | abolition | n. | C1 | 废除, 废止, 取消 | the official ending of a law, system or practice
+w010139.1 | accessibility | n. | C1 | 可达性, 可进入性, 便利性 | how easy something is to reach, enter or use
+w010139.2 | accessibility | n. | C1 | 无障碍, 无障碍设计 | design that lets disabled people use something
+w010139.3 | accessibility | n. | C1 | 易懂性, 通俗性 | the quality of being easy to understand
+w010140.1 | aloud | adv. | A2 | 出声地, 大声地, 高声地 | in a voice that other people can hear
+w010141.1 | angular | adj. | C1 | 有棱角的, 棱角分明的, 骨瘦如柴的 | having sharp corners or a thin bony shape
+w010141.2 | angular | adj. | C1 | 角的, 角度的 | relating to angles or measured by an angle
+w010142.1 | anterior | adj. | C2 | 前面的, 前部的, 前方的 | situated at or towards the front of the body
+w010143.1 | appendix | n. | B2 | 附录, 附表, 补遗 | extra information at the end of a book or document
+w010143.2 | appendix | n. | B2 | 阑尾, 盲肠 | a small tube-shaped organ attached to the large intestine
+w010145.1 | auditorium | n. | B2 | 礼堂, 会堂, 大厅 | a large building or hall for public events
+w010145.2 | auditorium | n. | B2 | 观众席, 听众席 | the part of a theatre where the audience sits
+w010148.1 | benign | adj. | C1 | 良性的, 无害的 | not dangerous to health, especially of a tumour
+w010148.2 | benign | adj. | C1 | 和善的, 亲切的, 温和的 | kind and gentle
+w010149.1 | bleach | n. | B2 | 漂白剂, 漂白粉 | a strong chemical used to clean or whiten things
+w010149.2 | bleach | v. | B2 | 漂白, 使褪色, 晒白 | to make something white or paler
+w010150.1 | boast | v. | B2 | 自夸, 吹嘘, 夸耀 | to talk too proudly about yourself
+w010150.2 | boast | v. | B2 | 拥有, 享有 | to have something impressive
+w010150.3 | boast | n. | B2 | 自夸, 大话 | a proud statement about yourself
+w010152.1 | brandy | n. | B2 | 白兰地, 白兰地酒 | a strong alcoholic drink made from wine
+w010153.1 | brethren | n. | C2 | 弟兄们, 教友, 同胞 | members of a religious group or organization
+w010154.1 | brink | n. | C1 | 边缘, 边沿, 濒临 | the point just before something very bad or good happens
+w010155.1 | bruh | int. | C1 | 兄弟, 老兄, 哥们儿 | used to address a friend or show disbelief
+w010156.1 | carving | n. | B2 | 雕刻品, 雕像, 雕饰 | an object or pattern cut from wood or stone
+w010156.2 | carving | n. | B2 | 雕刻, 雕刻术 | the art or activity of cutting shapes from material
+w010159.1 | cheeky | adj. | B2 | 厚脸皮的, 无礼的, 调皮的 | rude or disrespectful, often in a funny way
+w010160.1 | chemist | n. | B1 | 化学家, 化学工作者 | a scientist who studies chemistry
+w010160.2 | chemist | n. | B1 | 药剂师, 药房, 药店 | a pharmacist or a shop selling medicines
+w010161.1 | coastline | n. | B2 | 海岸线, 海岸 | the edge of the land where it meets the sea
+w010162.1 | cobra | n. | B2 | 眼镜蛇 | a poisonous snake that can widen its neck
+w010163.1 | collaborate | v. | B2 | 合作, 协作, 协同 | to work together with others on something
+w010163.2 | collaborate | v. | B2 | 勾结, 通敌 | to help an enemy that has invaded your country
+w010164.1 | comparatively | adv. | B2 | 相对地, 比较地, 相当 | when compared with something else
+w010165.1 | cosmos | n. | C1 | 宇宙, 天地万物 | the whole universe seen as an ordered system
+w010165.2 | cosmos | n. | C1 | 秋英, 波斯菊 | a garden plant with bright daisy-like flowers
+w010166.1 | cuff | n. | B2 | 袖口, 裤脚翻边 | the end part of a sleeve or trouser leg
+w010166.2 | cuff | n. | B2 | 手铐, 镣铐 | handcuffs used to hold a prisoner's wrists
+w010166.3 | cuff | v. | B2 | 铐上, 给人戴手铐 | to put handcuffs on someone
+w010167.1 | cyclone | n. | B2 | 气旋, 旋风, 飓风 | a violent tropical storm with strong circular winds
+w010168.1 | dedicate | v. | B2 | 致力于, 献身于, 奉献 | to give your time or effort to something
+w010168.2 | dedicate | v. | B2 | 题献, 献给 | to say a book, song or building honours someone
+w010169.1 | delusional | adj. | C1 | 妄想的, 有错觉的, 不切实际的 | believing things that are clearly not true
+w010170.1 | deposition | n. | C2 | 证词, 书面证词, 宣誓证言 | a formal written statement given under oath
+w010170.2 | deposition | n. | C2 | 沉积, 沉积物, 沉淀 | the natural process of leaving layers of material
+w010170.3 | deposition | n. | C2 | 罢免, 废黜 | the removal of someone from a position of power
+w010171.1 | derive | v. | B2 | 获得, 得到, 取得 | to get something from a particular source
+w010171.2 | derive | v. | B2 | 源自, 起源于, 派生 | to come or develop from something
+w010172.1 | descend | v. | B2 | 下降, 下来, 下去 | to move or go down
+w010172.2 | descend | v. | B2 | 起源于, 传下来, 是后裔 | to come from an ancestor or earlier source
+w010173.1 | diligence | n. | C1 | 勤奋, 勤勉, 用功 | careful and steady effort in your work
+w010174.1 | disciplined | adj. | B2 | 有纪律的, 守纪律的, 自律的 | able to control your behaviour and work steadily
+w010175.1 | discriminate | v. | C1 | 歧视, 区别对待 | to treat a group of people unfairly
+w010175.2 | discriminate | v. | C1 | 区分, 辨别, 分辨 | to see the difference between things
+w010176.1 | diversion | n. | C1 | 转移, 改道, 转向 | a change in the direction or use of something
+w010176.2 | diversion | n. | C1 | 分散注意力, 牵制, 佯攻 | something that draws attention away from something else
+w010176.3 | diversion | n. | C1 | 消遣, 娱乐 | an enjoyable activity that relaxes you
+w010177.1 | doorway | n. | B2 | 门口, 门道, 出入口 | the opening where a door is
+w010178.1 | dumpster | n. | B2 | 大型垃圾箱, 垃圾桶 | a large metal container for rubbish
+w010180.1 | empower | v. | C1 | 增强能力, 使自主, 使有信心 | to give someone more control over their life
+w010180.2 | empower | v. | C1 | 授权, 赋予权力 | to give someone official authority to do something
+w010181.1 | excerpt | n. | C1 | 摘录, 节选, 选段 | a short part taken from a longer text or film
+w010181.2 | excerpt | v. | C1 | 摘录, 节选 | to take a short part from a longer work
+w010182.1 | existent | adj. | C2 | 存在的, 现存的, 实有的 | real and present at this time
+w010184.1 | fandom | n. | B2 | 粉丝群体, 迷群, 饭圈 | all the fans of a particular star, show or game
+w010184.2 | fandom | n. | B2 | 狂热, 迷恋 | the state of being a keen fan
+w010185.1 | foe | n. | C1 | 敌人, 仇敌, 对手 | an enemy or opponent
+w010186.1 | getaway | n. | B2 | 逃跑, 逃离, 逃逸 | an escape, especially after a crime
+w010186.2 | getaway | n. | B2 | 短假, 度假, 度假地 | a short holiday or a place to go for one
+w010187.1 | glamour | n. | C1 | 魅力, 诱惑力, 光鲜亮丽 | the attractive and exciting quality of something special
+w010189.1 | inbox | n. | B1 | 收件箱, 收件匣 | the place where new emails or messages arrive
+w010190.1 | incidentally | adv. | C1 | 顺便说一句, 顺便提一下 | used to add extra information or change the subject
+w010190.2 | incidentally | adv. | C1 | 附带地, 偶然地 | as a minor or chance result
+w010191.1 | infinitely | adv. | C1 | 极其, 大大地, 无比 | very much, to a very great degree
+w010191.2 | infinitely | adv. | C1 | 无限地, 无穷地 | without any limit or end
+w010192.1 | influenza | n. | B2 | 流行性感冒, 流感 | an infectious illness like a bad cold with fever
+w010193.1 | instructional | adj. | C1 | 教学的, 教育的, 指导性的 | meant to teach people how to do something
+w010194.1 | interviewer | n. | B1 | 面试官, 采访者, 记者 | a person who asks questions in an interview
+w010195.1 | introductory | adj. | B2 | 入门的, 初级的, 介绍性的 | giving basic information about a subject to beginners
+w010195.2 | introductory | adj. | B2 | 开场的, 引言的 | coming at the start of something
+w010195.3 | introductory | adj. | B2 | 优惠试用的, 推广期的 | offered at a low price when a product first appears
+w010197.1 | jaguar | n. | B2 | 美洲豹, 美洲虎 | a large spotted wild cat of Central and South America
+w010199.1 | ling | n. | C2 | 鳕鱼类, 长鳕 | a long thin edible sea fish of the cod family
+w010199.2 | ling | n. | C2 | 石南, 帚石南 | heather, a low plant with small purple flowers
+w010200.1 | loft | n. | B2 | 阁楼, 顶楼 | a room or space directly under a roof
+w010200.2 | loft | n. | B2 | 仓库改建公寓, 开放式公寓 | a flat made in a former warehouse or factory
+w010200.3 | loft | v. | B2 | 高击, 把球击高 | to hit or throw a ball high into the air
+w010202.1 | massively | adv. | C1 | 大规模地, 极大地, 非常 | to a very large degree
+w010203.1 | mediation | n. | C1 | 调解, 斡旋, 调停 | an attempt to end a disagreement by talking to both sides
+w010204.1 | modular | adj. | C1 | 模块化的, 组合式的, 积木式的 | made of separate parts that can be combined
+w010205.1 | nutrient | n. | B2 | 营养素, 营养物, 养分 | a substance that living things need to grow
+w010206.1 | outlaw | v. | C1 | 宣布非法, 取缔, 禁止 | to make something illegal
+w010206.2 | outlaw | n. | C1 | 逃犯, 亡命之徒, 歹徒 | a criminal who is hiding from the law
+w010207.1 | oversee | v. | C1 | 监督, 监管, 主管 | to watch and direct work to check it is done properly
+w010208.1 | pageant | n. | C1 | 选美比赛, 选美大赛 | a beauty competition
+w010208.2 | pageant | n. | C1 | 露天表演, 历史剧, 盛装游行 | a public show of scenes from history
+w010209.1 | parachute | n. | B2 | 降落伞 | a large cloth device that lets people fall slowly
+w010209.2 | parachute | v. | B2 | 跳伞, 空投, 伞降 | to jump or drop something using a parachute
+w010210.1 | parasite | n. | B2 | 寄生虫, 寄生生物 | an organism that lives on or in another
+w010210.2 | parasite | n. | B2 | 寄生虫, 不劳而获者 | a person who lives off others without giving back
+w010211.1 | parenthood | n. | C1 | 为人父母, 父母身份 | the state of being a parent
+w010212.1 | perennial | adj. | C1 | 长期存在的, 反复出现的, 永久的 | lasting a long time or happening again and again
+w010212.2 | perennial | adj. | C1 | 多年生的 | of a plant, living for more than two years
+w010212.3 | perennial | n. | C1 | 多年生植物 | a plant that lives for several years

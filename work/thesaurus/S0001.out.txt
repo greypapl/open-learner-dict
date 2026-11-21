@@ -1,0 +1,400 @@
+w000001.1 | - | -
+w000002.1 | towards | from
+w000002.2 | - | -
+w000002.3 | until, till | from
+w000003.1 | - | -
+w000003.2 | then | -
+w000004.1 | - | -
+w000004.2 | - | -
+w000004.3 | about, concerning | -
+w000005.1 | one | -
+w000005.2 | per, each | -
+w000006.1 | inside, within | outside
+w000006.2 | during | -
+w000006.3 | inside | out
+w000007.1 | - | -
+w000007.2 | - | -
+w000007.3 | - | -
+w000007.4 | because, since, as | -
+w000008.1 | - | this
+w000008.2 | - | this
+w000008.3 | - | -
+w000008.4 | so | -
+w000009.1 | - | -
+w000009.2 | one | -
+w000010.1 | - | -
+w000010.2 | - | -
+w000011.1 | on top of | under
+w000011.2 | - | -
+w000011.3 | about, concerning | -
+w000011.4 | - | -
+w000011.5 | working | off
+w000012.1 | - | without
+w000012.2 | - | -
+w000012.3 | - | without
+w000013.1 | - | that
+w000013.2 | - | that
+w000013.3 | so | -
+w000015.1 | - | -
+w000015.2 | - | -
+w000015.3 | exist, happen | -
+w000015.4 | - | -
+w000016.1 | while, when | -
+w000016.2 | because, since | -
+w000016.3 | - | -
+w000016.4 | - | -
+w000018.1 | own, possess | lack
+w000018.2 | must | -
+w000018.3 | eat, drink, experience | -
+w000018.4 | - | -
+w000019.1 | - | -
+w000019.2 | - | -
+w000019.3 | towards | -
+w000020.1 | - | she
+w000021.1 | - | -
+w000022.1 | - | -
+w000022.2 | through | -
+w000022.3 | before | -
+w000023.1 | however, yet | -
+w000023.2 | except | -
+w000023.3 | only, merely, just | -
+w000024.1 | - | to
+w000024.2 | - | -
+w000024.3 | because of | -
+w000025.1 | - | -
+w000025.2 | wow | -
+w000026.1 | - | -
+w000026.2 | otherwise | -
+w000026.3 | - | -
+w000027.1 | - | -
+w000028.1 | - | -
+w000029.1 | - | -
+w000030.1 | every, whole | no
+w000030.2 | everyone, everything | none, nothing
+w000030.3 | completely, totally | -
+w000031.1 | very, extremely | -
+w000031.2 | therefore | -
+w000031.3 | also, too | -
+w000031.4 | so that | -
+w000032.1 | - | her
+w000032.2 | - | hers
+w000033.1 | - | -
+w000033.2 | people | -
+w000034.1 | - | -
+w000035.1 | provided | unless
+w000035.2 | whether | -
+w000036.1 | - | -
+w000036.2 | - | -
+w000036.3 | - | -
+w000037.1 | - | -
+w000037.2 | may | -
+w000037.3 | tin | -
+w000038.1 | - | -
+w000038.2 | - | -
+w000038.3 | determination | -
+w000038.4 | - | -
+w000039.1 | recently | -
+w000039.2 | only, simply, merely | -
+w000039.3 | exactly | -
+w000039.4 | fair, right | unfair, unjust
+w000040.1 | enjoy | dislike, hate
+w000040.2 | want, wish | -
+w000040.3 | - | unlike
+w000040.4 | such as | -
+w000041.1 | concerning, regarding, on | -
+w000041.2 | approximately, around, roughly | exactly
+w000041.3 | around | -
+w000042.1 | upward | down
+w000042.2 | - | down
+w000042.3 | completely | -
+w000042.4 | awake | asleep
+w000043.1 | outside | in
+w000043.2 | away | in
+w000043.3 | - | -
+w000044.1 | - | -
+w000044.2 | which | -
+w000044.3 | - | -
+w000045.1 | - | -
+w000045.2 | as, while | -
+w000045.3 | although | -
+w000046.1 | - | less, fewer
+w000046.2 | - | less
+w000046.3 | again | -
+w000047.1 | perform, carry out | -
+w000047.2 | finish, complete | -
+w000047.3 | suit | -
+w000047.4 | - | -
+w000048.1 | - | yes
+w000048.2 | - | some
+w000048.3 | - | -
+w000049.1 | - | -
+w000049.2 | that | -
+w000050.1 | - | -
+w000051.1 | - | here
+w000051.2 | - | -
+w000051.3 | - | -
+w000052.1 | - | his
+w000052.2 | - | him
+w000053.1 | what | -
+w000053.2 | - | -
+w000053.3 | that | -
+w000054.1 | - | -
+w000054.2 | - | -
+w000054.3 | occasion | -
+w000054.4 | measure | -
+w000055.1 | obtain, receive, gain | give, lose
+w000055.2 | become | -
+w000055.3 | arrive, reach | leave
+w000056.1 | - | -
+w000056.2 | - | -
+w000056.3 | used to | -
+w000057.1 | - | he
+w000058.1 | modern, recent, fresh | old
+w000058.2 | unfamiliar | familiar
+w000058.3 | unused, brand new | used, second-hand
+w000059.1 | - | -
+w000059.2 | nation, race | -
+w000059.3 | public | -
+w000060.1 | - | -
+w000060.2 | - | -
+w000060.3 | - | -
+w000062.1 | several | -
+w000062.2 | certain | -
+w000062.3 | - | none
+w000063.1 | too, as well, besides | -
+w000065.1 | - | -
+w000066.1 | currently, at present, nowadays | then
+w000066.2 | immediately, at once, right away | later
+w000066.3 | since | -
+w000067.1 | different, additional | same
+w000067.2 | - | -
+w000067.3 | another | -
+w000071.1 | - | -
+w000072.1 | - | -
+w000073.1 | - | -
+w000073.2 | - | -
+w000074.1 | fine, nice, excellent | bad, poor
+w000074.2 | skilled, capable | bad
+w000074.3 | kind, polite | bad, naughty
+w000074.4 | benefit, advantage | harm
+w000075.1 | just, merely, simply | -
+w000075.2 | single, sole | -
+w000075.3 | but, except | -
+w000076.1 | following | before
+w000076.2 | - | before
+w000076.3 | - | -
+w000077.1 | initial | last
+w000077.2 | - | last
+w000077.3 | firstly, initially | finally
+w000078.1 | - | her
+w000079.1 | inside | out of
+w000079.2 | - | -
+w000079.3 | - | -
+w000080.1 | - | -
+w000080.2 | - | -
+w000080.3 | - | -
+w000081.1 | notice, spot | -
+w000081.2 | understand, realize, get | -
+w000081.3 | meet, visit | -
+w000082.1 | - | -
+w000084.1 | produce, create, build | destroy
+w000084.2 | force, cause | -
+w000084.3 | earn | lose
+w000084.4 | brand | -
+w000085.1 | above, across | under, below
+w000085.2 | more than, above | under, below
+w000085.3 | during | -
+w000085.4 | finished, done | -
+w000086.1 | believe, suppose, consider | -
+w000086.2 | consider, reflect | -
+w000087.1 | - | -
+w000087.2 | - | -
+w000087.3 | - | none
+w000089.1 | next, afterwards | -
+w000089.2 | - | now
+w000089.3 | - | -
+w000090.1 | - | -
+w000090.2 | might, may | -
+w000090.3 | - | -
+w000091.1 | - | -
+w000091.2 | - | front
+w000091.3 | rear | front
+w000091.4 | rear | front
+w000091.5 | support | oppose
+w000091.6 | reverse | -
+w000092.1 | - | those
+w000092.2 | - | those
+w000093.1 | - | -
+w000094.1 | wish, desire | -
+w000094.2 | need, require | -
+w000094.3 | lack, shortage | -
+w000095.1 | since, as | -
+w000097.1 | travel, move | come
+w000097.2 | leave, depart | stay, arrive
+w000097.3 | become, turn | -
+w000097.4 | attempt, try, turn | -
+w000098.1 | - | badly
+w000098.2 | thoroughly, fully | -
+w000098.3 | healthy, fine | ill, sick
+w000098.4 | - | -
+w000098.5 | - | -
+w000099.1 | method, manner, means | -
+w000099.2 | route, road, path | -
+w000099.3 | respect, aspect | -
+w000099.4 | far | -
+w000100.1 | - | least
+w000100.2 | - | -
+w000100.3 | very, extremely | -
+w000101.1 | a lot of, plenty of | little
+w000101.2 | a lot, greatly | -
+w000101.3 | a lot | little
+w000102.1 | extremely, really | -
+w000102.2 | exact, actual | -
+w000103.1 | - | -
+w000103.2 | - | -
+w000104.1 | - | -
+w000104.2 | still | -
+w000104.3 | flat, smooth, level | uneven, rough
+w000104.4 | equal, level | unequal
+w000104.5 | - | odd
+w000105.1 | ought to | -
+w000105.2 | - | -
+w000105.3 | - | -
+w000106.1 | might | -
+w000106.2 | can | -
+w000106.3 | - | -
+w000107.1 | - | there
+w000107.2 | now | -
+w000107.3 | - | -
+w000108.1 | require | -
+w000108.2 | requirement, necessity | -
+w000108.3 | poverty, hardship | -
+w000109.1 | truly, actually, in fact | -
+w000109.2 | very, extremely | -
+w000109.3 | - | -
+w000111.1 | correct, true | wrong, incorrect
+w000111.2 | - | left
+w000111.3 | suitable, proper, appropriate | wrong
+w000111.4 | exactly, directly | -
+w000111.5 | - | -
+w000111.6 | - | left
+w000112.1 | labour | rest
+w000112.2 | function, operate | fail
+w000112.3 | effort, labour | rest
+w000112.4 | job, employment | -
+w000112.5 | piece | -
+w000113.1 | - | -
+w000113.2 | grade | -
+w000113.3 | - | -
+w000114.1 | creature | -
+w000114.2 | existence | -
+w000115.1 | - | -
+w000115.2 | daytime | night
+w000115.3 | age, era, period | -
+w000116.1 | excessively | -
+w000116.2 | also, as well | -
+w000116.3 | very | -
+w000117.1 | progress | -
+w000117.2 | current | -
+w000117.3 | departure | arrival
+w000118.1 | prior to, ahead of | after
+w000118.2 | - | after
+w000118.3 | previously, earlier | after
+w000119.1 | away | -
+w000119.2 | - | on
+w000119.3 | - | onto
+w000119.4 | - | -
+w000119.5 | bad, rotten | fresh
+w000120.1 | - | -
+w000122.1 | yet | -
+w000122.2 | however, nevertheless | -
+w000122.3 | motionless, calm | moving
+w000123.1 | grab, hold, carry | give
+w000123.2 | need, require | -
+w000123.3 | catch, use | -
+w000125.1 | numerous, a lot of | few
+w000125.2 | - | few
+w000126.1 | - | always
+w000128.1 | - | these
+w000128.2 | - | these
+w000129.1 | lifestyle | -
+w000129.2 | existence | death
+w000129.3 | lifetime | -
+w000130.1 | speak, state, tell | -
+w000130.2 | state, read | -
+w000130.3 | for example | -
+w000130.4 | voice | -
+w000131.1 | earth, globe | -
+w000131.2 | field, area | -
+w000131.3 | everyone, public | -
+w000132.1 | downward | up
+w000132.2 | - | up
+w000132.3 | sad, depressed, unhappy | happy
+w000132.4 | - | -
+w000132.5 | - | -
+w000133.1 | excellent, wonderful, fantastic | terrible, awful
+w000133.2 | large, huge, big | small
+w000133.3 | important, famous | -
+w000135.1 | across | -
+w000135.2 | throughout | -
+w000135.3 | by means of, because of | -
+w000136.1 | final | first
+w000136.2 | previous, latest | next
+w000136.3 | continue, endure | -
+w000136.4 | finally | first
+w000137.1 | as, when | -
+w000137.2 | whereas | -
+w000137.3 | although, though | -
+w000137.4 | time, period | -
+w000140.1 | - | -
+w000140.2 | so | -
+w000140.3 | - | -
+w000141.1 | adore | hate
+w000141.2 | enjoy, adore | hate
+w000141.3 | affection | hate, hatred
+w000141.4 | dear, darling | -
+w000141.5 | zero | -
+w000142.1 | male, gentleman | woman
+w000142.2 | humanity, mankind | -
+w000142.3 | operate, staff | -
+w000144.1 | house | -
+w000144.2 | - | -
+w000144.3 | - | -
+w000144.4 | domestic | foreign
+w000144.5 | - | -
+w000145.1 | lengthy | short
+w000145.2 | - | -
+w000145.3 | yearn, desire | -
+w000146.1 | watch, glance | -
+w000146.2 | seem, appear | -
+w000146.3 | search, seek | -
+w000146.4 | glance | -
+w000146.5 | appearance | -
+w000147.1 | - | nothing
+w000147.2 | somewhat, rather | -
+w000148.1 | employ, apply | -
+w000148.2 | consume, use up | save
+w000148.3 | purpose, function | -
+w000149.1 | identical, alike | different
+w000149.2 | - | -
+w000151.1 | accustomed | -
+w000151.2 | second-hand | new
+w000152.1 | - | neither
+w000152.2 | - | neither
+w000152.3 | - | -
+w000153.1 | each, all | -
+w000153.2 | each | -
+w000154.1 | - | PM
+w000154.2 | - | -
+w000155.1 | approach | go
+w000155.2 | arrive, reach | leave
+w000155.3 | happen, occur, appear | -
+w000156.1 | piece, section, portion | whole
+w000156.2 | component, piece | -
+w000156.3 | role | -
+w000156.4 | separate, split | join
+w000157.1 | condition | -
+w000157.2 | country, nation | -
+w000157.3 | province | -
+w000157.4 | declare, announce, say | -
+w000158.1 | - | -

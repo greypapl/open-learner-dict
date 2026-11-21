@@ -1,0 +1,400 @@
+w001885.1 | - | -
+w001885.2 | system | -
+w001885.3 | stage | -
+w001886.1 | - | -
+w001886.2 | puddle | -
+w001886.3 | supply, reserve | -
+w001886.4 | combine, share | -
+w001888.1 | about, concerning | -
+w001889.1 | way, course, path | -
+w001889.2 | way, path, road | -
+w001889.3 | send, direct | -
+w001890.1 | timetable, plan, programme | -
+w001890.2 | plan, arrange, book | cancel
+w001891.1 | - | -
+w001891.2 | systematic, methodical | -
+w001892.1 | - | -
+w001892.2 | - | -
+w001892.3 | - | -
+w001893.1 | team, unit | -
+w001893.2 | team | -
+w001893.3 | unit | -
+w001894.1 | instruct, train, educate | learn
+w001894.2 | show | -
+w001895.1 | - | -
+w001895.2 | difficult, hard, tough | easy
+w001899.1 | - | -
+w001900.1 | - | -
+w001900.2 | - | -
+w001900.3 | - | -
+w001901.1 | - | -
+w001903.1 | maximum | MIN
+w001904.1 | misuse | -
+w001904.2 | cruelty, mistreatment | -
+w001904.3 | insult | praise
+w001904.4 | mistreat, hurt, harm | -
+w001904.5 | misuse, exploit | -
+w001905.1 | cross, mad, furious, annoyed | calm, pleased
+w001906.1 | applicant, nominee | -
+w001906.2 | - | -
+w001906.3 | choice | -
+w001907.1 | cosy, comfy, snug | uncomfortable
+w001907.2 | relaxed, at ease | uneasy
+w001907.3 | well off, wealthy | poor
+w001908.1 | worry, anxiety | -
+w001908.2 | interest, business, issue | -
+w001908.3 | worry, trouble, bother | reassure
+w001908.4 | involve, affect, relate to | -
+w001909.1 | - | -
+w001910.1 | debate | -
+w001912.1 | - | -
+w001912.2 | moving, passionate | calm
+w001913.1 | - | nowhere
+w001914.1 | - | -
+w001914.2 | - | -
+w001916.1 | gap, opening, hollow | -
+w001916.2 | flaw, weakness | -
+w001916.3 | - | -
+w001917.1 | vacation, break, leave | -
+w001917.2 | - | -
+w001917.3 | vacation | -
+w001918.1 | inner, inside | external
+w001918.2 | domestic, national | foreign
+w001919.1 | shirt | -
+w001919.2 | sweater, jumper | -
+w001921.1 | giggle, chuckle | cry
+w001921.2 | mock, make fun of | -
+w001921.3 | giggle, chuckle | -
+w001922.1 | - | -
+w001922.2 | - | -
+w001922.3 | stage, part | -
+w001923.1 | tolerant, open-minded | intolerant
+w001923.2 | progressive | conservative
+w001923.3 | - | conservative
+w001924.1 | - | -
+w001924.2 | - | -
+w001925.1 | - | -
+w001925.2 | - | -
+w001925.3 | exploit | -
+w001927.1 | - | unpack
+w001927.2 | fill, cram, crowd | -
+w001927.3 | packet, box, package | -
+w001927.4 | - | -
+w001928.1 | - | -
+w001928.2 | fee, charge | -
+w001929.1 | play, act, present | -
+w001929.2 | do, carry out | -
+w001929.3 | work, do | -
+w001931.1 | fairly, comparatively, quite | -
+w001932.1 | area, part, industry | -
+w001932.2 | part, zone, area | -
+w001933.1 | - | -
+w001933.2 | - | -
+w001934.1 | tempest | -
+w001934.2 | outcry, uproar | -
+w001934.3 | attack, charge | -
+w001935.1 | hit, beat, knock | -
+w001935.2 | - | -
+w001935.3 | occur to, hit | -
+w001935.4 | walkout | -
+w001935.5 | attack, raid | -
+w001936.1 | workshop | -
+w001936.2 | - | -
+w001936.3 | - | -
+w001937.1 | substitute, reserve | -
+w001937.2 | submarine | -
+w001937.3 | - | -
+w001937.4 | substitute, stand in | -
+w001938.1 | feeble, frail | strong
+w001938.2 | poor, ineffective | strong
+w001938.3 | thin, watery | strong
+w001940.1 | - | -
+w001941.1 | - | -
+w001942.1 | performer, player | -
+w001942.2 | player, participant | -
+w001943.1 | progress, development, breakthrough | -
+w001943.2 | proceed, progress | retreat
+w001943.3 | promote, further, develop | -
+w001943.4 | early, prior | -
+w001943.5 | - | -
+w001944.1 | flat | -
+w001945.1 | - | -
+w001945.2 | - | -
+w001945.3 | series, sequence, string | -
+w001945.4 | tie | -
+w001946.1 | section, part | -
+w001946.2 | period, phase, stage | -
+w001947.1 | assurance | doubt
+w001947.2 | trust, faith, belief | distrust
+w001947.3 | secret | -
+w001948.1 | make, prepare | -
+w001948.2 | chef | -
+w001949.1 | sweet, lovely, adorable | ugly
+w001949.2 | attractive, sexy | -
+w001950.1 | identical, same, equivalent | unequal, different
+w001950.2 | - | unequal
+w001950.3 | match, amount to | -
+w001950.4 | peer, match | -
+w001951.1 | false, artificial, counterfeit | real, genuine
+w001951.2 | copy, forgery | original
+w001951.3 | pretend, forge | -
+w001952.1 | - | -
+w001952.2 | money, fund | -
+w001952.3 | fund, pay for | -
+w001953.1 | - | -
+w001953.2 | individuality, character | -
+w001954.1 | trip, voyage, tour | -
+w001954.2 | process | -
+w001954.3 | travel | -
+w001955.1 | - | -
+w001956.1 | keep, preserve, sustain | -
+w001956.2 | look after, preserve | neglect
+w001956.3 | claim, insist | -
+w001957.1 | - | -
+w001957.2 | step, action | -
+w001957.3 | unit | -
+w001958.1 | - | -
+w001958.2 | - | -
+w001960.1 | many, countless | few
+w001961.1 | silent, soft | loud, noisy
+w001961.2 | calm, peaceful | busy
+w001961.3 | shy, silent | talkative
+w001961.4 | silence, calm, peace | noise
+w001961.5 | calm, silence | -
+w001962.1 | especially, particularly | generally
+w001962.2 | precisely, explicitly | -
+w001963.1 | divide, separate | join, unite
+w001963.2 | tear, crack, break | -
+w001963.3 | share, divide | -
+w001963.4 | division, rift | -
+w001963.5 | crack, tear | -
+w001964.1 | job, duty, assignment | -
+w001964.2 | - | -
+w001966.1 | - | -
+w001967.1 | city | rural
+w001969.1 | plane | -
+w001970.1 | about, roughly, around | exactly
+w001971.1 | quarrel, row, dispute | -
+w001971.2 | case, reason | -
+w001972.1 | disagreement, dispute, clash | agreement
+w001972.2 | war, fighting, struggle | peace
+w001972.3 | clash, disagree | agree
+w001973.1 | - | -
+w001973.2 | - | -
+w001974.1 | business | -
+w001974.2 | collective | -
+w001975.1 | discussion, argument | -
+w001975.2 | discuss, argue | -
+w001975.3 | consider, weigh | -
+w001976.1 | resolute | -
+w001977.1 | delivery | collection
+w001977.2 | spread | -
+w001977.3 | supply, delivery | -
+w001978.1 | flee, get away, run away | -
+w001978.2 | avoid | -
+w001978.3 | getaway, flight | capture
+w001978.4 | - | -
+w001979.1 | long | -
+w001980.1 | blame, responsibility | -
+w001980.2 | weakness, flaw | virtue
+w001980.3 | defect, problem | -
+w001981.1 | load, pack | empty
+w001981.2 | complete, fill in | -
+w001981.3 | take | -
+w001982.1 | kind, pleasant, warm | unfriendly, hostile
+w001982.2 | - | -
+w001982.3 | - | -
+w001984.1 | place, put, set | -
+w001984.2 | - | -
+w001984.3 | place, set, spread | -
+w001984.4 | amateur | professional
+w001986.1 | varied, diverse | -
+w001986.2 | - | -
+w001986.3 | - | -
+w001987.1 | stage, period | -
+w001987.2 | - | -
+w001988.1 | correctly, appropriately | improperly
+w001988.2 | really, completely | -
+w001989.1 | clean, clear | impure
+w001989.2 | complete, total, sheer | -
+w001989.3 | innocent, chaste | impure
+w001990.1 | income, earnings | expenditure
+w001991.1 | safe | insecure
+w001991.2 | confident, safe | insecure
+w001991.3 | obtain, gain, get, win | lose
+w001991.4 | fasten, fix, attach | -
+w001992.1 | grin, beam | frown
+w001992.2 | grin | frown
+w001993.1 | odd, weird, unusual, peculiar | normal, ordinary
+w001993.2 | unfamiliar, unknown, new | familiar
+w001994.1 | gift, ability, flair | -
+w001994.2 | - | -
+w001995.1 | - | -
+w001995.2 | fever | -
+w001996.1 | - | -
+w001996.2 | - | -
+w001998.1 | lorry | -
+w001998.2 | - | -
+w001999.1 | - | -
+w002000.1 | - | -
+w002001.1 | oh | -
+w002002.1 | essentially, fundamentally | -
+w002002.2 | essentially, in short | -
+w002003.1 | in addition to, apart from | -
+w002003.2 | moreover, also, anyway | -
+w002004.1 | - | -
+w002005.1 | accuse | -
+w002005.2 | responsibility, fault | credit
+w002006.1 | bounce | -
+w002006.2 | - | -
+w002007.1 | dish | -
+w002007.2 | - | -
+w002008.1 | - | -
+w002008.2 | - | -
+w002008.3 | coward | -
+w002010.1 | situation, background, setting | -
+w002010.2 | - | -
+w002011.1 | reporting | -
+w002011.2 | range, reach | -
+w002011.3 | cover, protection | -
+w002012.1 | decide, control, shape | -
+w002012.2 | find out, establish, discover | -
+w002012.3 | decide, resolve | -
+w002013.1 | exhibition, show | -
+w002013.2 | screen, monitor | -
+w002013.3 | show, exhibit, present | hide
+w002013.4 | show, reveal, demonstrate | hide, conceal
+w002014.1 | - | -
+w002014.2 | - | -
+w002015.1 | skilled, expert | -
+w002016.1 | untrue, wrong, incorrect | true, correct
+w002016.2 | fake, artificial | real, genuine
+w002018.1 | unbelievable, amazing | believable
+w002018.2 | amazing, fantastic, wonderful | -
+w002019.1 | - | -
+w002020.1 | department | -
+w002020.2 | - | -
+w002021.1 | way, manner, method | -
+w002021.2 | setting | -
+w002022.1 | - | -
+w002022.2 | - | -
+w002023.1 | - | -
+w002023.2 | new, original, fresh | -
+w002024.1 | clear, plain, evident | unclear
+w002025.1 | - | -
+w002025.2 | brief, temporary | permanent
+w002025.3 | death | -
+w002026.1 | - | -
+w002027.1 | - | -
+w002028.1 | - | quickly, fast
+w002029.1 | arena | -
+w002030.1 | operation | -
+w002030.2 | clinic | -
+w002031.1 | trade, commerce | -
+w002032.1 | sight, eyesight | -
+w002032.2 | dream, idea | -
+w002032.3 | image, dream | -
+w002033.1 | - | -
+w002033.2 | - | -
+w002034.1 | anxious, nervous, concerned | relaxed, calm
+w002035.1 | nothing | -
+w002035.2 | - | -
+w002037.1 | - | -
+w002038.1 | - | -
+w002039.1 | - | -
+w002040.1 | - | -
+w002042.1 | winner, victor | loser
+w002042.2 | supporter, defender | -
+w002042.3 | support, defend, promote | oppose
+w002044.1 | - | -
+w002044.2 | lotion | -
+w002044.3 | - | -
+w002045.1 | emergency, disaster | -
+w002047.1 | - | -
+w002047.2 | - | -
+w002047.3 | - | -
+w002048.1 | huge, enormous, massive | tiny
+w002048.2 | - | dwarf
+w002048.3 | - | -
+w002049.1 | prison | -
+w002049.2 | imprison, lock up | release, free
+w002051.1 | realm, monarchy | -
+w002051.2 | realm, domain | -
+w002051.3 | - | -
+w002052.1 | - | -
+w002052.2 | - | -
+w002052.3 | - | -
+w002053.1 | - | -
+w002054.1 | small, slight, unimportant | major
+w002054.2 | child | adult
+w002054.3 | - | major
+w002055.1 | - | -
+w002055.2 | contrary, different, reverse | same
+w002055.3 | - | -
+w002055.4 | reverse, contrary | -
+w002056.1 | - | -
+w002056.2 | - | -
+w002056.3 | - | -
+w002057.1 | - | -
+w002057.2 | - | -
+w002059.1 | choice | -
+w002059.2 | range, variety, choice | -
+w002059.3 | choice | -
+w002060.1 | portion | -
+w002060.2 | - | -
+w002061.1 | sign, gesture | -
+w002061.2 | gesture, indicate, show | -
+w002061.3 | sign, indication | -
+w002062.1 | brook, creek | -
+w002062.2 | flow, flood, series | -
+w002062.3 | pour, flow | -
+w002062.4 | - | -
+w002063.1 | strive, labour | -
+w002063.2 | effort, fight, battle | -
+w002063.3 | fight, wrestle | -
+w002064.1 | - | -
+w002064.2 | - | -
+w002065.1 | subject, topic | -
+w002065.2 | - | -
+w002066.1 | small, little, minute | huge, enormous
+w002067.1 | usually, normally, generally | -
+w002067.2 | - | -
+w002068.1 | sadly, regrettably | fortunately, luckily
+w002069.1 | normal, ordinary, typical, common | unusual
+w002070.1 | - | -
+w002070.2 | - | -
+w002070.3 | surge, rush | -
+w002070.4 | - | -
+w002070.5 | shake, flourish | -
+w002072.1 | - | -
+w002074.1 | drink, liquor | -
+w002074.2 | - | -
+w002075.1 | gathering, meeting | -
+w002075.2 | parliament | -
+w002075.3 | construction | -
+w002076.1 | - | -
+w002077.1 | brilliant, shining, light | dark, dim
+w002077.2 | vivid, brilliant | dull, pale
+w002077.3 | clever, intelligent, smart | stupid, dull
+w002078.1 | able | incapable, unable
+w002078.2 | competent, able, skilful | incompetent
+w002079.1 | mixture, blend, mix | -
+w002079.2 | code | -
+w002080.1 | client, buyer, consumer | -
+w002081.1 | hurtful, unkind, sharp | kind
+w002081.2 | clipping | -
+w002081.3 | - | -
+w002082.1 | wish, longing, urge | -
+w002082.2 | want, wish for, long for | -
+w002083.1 | outline, version | -
+w002083.2 | write, outline, prepare | -
+w002083.3 | conscription | -
+w002083.4 | - | -
+w002084.1 | - | sober
+w002084.2 | drunkard, alcoholic | -
+w002085.1 | necessary, vital, crucial | unnecessary
+w002085.2 | basic, fundamental | -
+w002085.3 | necessity | luxury
+w002086.1 | - | succeed
+w002086.2 | - | pass
+w002086.3 | break down | work
