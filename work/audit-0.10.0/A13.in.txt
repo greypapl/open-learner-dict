@@ -1,0 +1,150 @@
+c_hand-to-hand-combat | hand-to-hand combat | n+n | 肉搏战
+ex_w020078.1 | argumentative | THIS SENSE adj.好争辩的, 爱吵架的 = often arguing or wanting to argue | all senses: 1:adj.好争辩的, 爱吵架的 ; 2:adj.论证的, 议论的 | He gets argumentative when he's tired. | 他累了就爱跟人争吵。
+hz_w200614.1 | methylurea | 简体 甲脲 | 繁体 甲脲
+hz_w266929.1 | ultrafiche | 简体 超缩微胶片 | 繁体 超縮微膠片
+ex_w000669.1 | bill | THIS SENSE n.账单, 账款 = a document showing how much you must pay | all senses: 1:n.账单, 账款 ; 2:n.法案, 议案 ; 3:n.钞票, 纸币 ; 4:v.给…开账单, 要求付款 | Have you paid the phone bill yet? | 你交电话费了吗？
+w254281 | subsequential | adj.后续的
+ph_balance-sheet | balance sheet | compound | n.资产负债表 = a statement of a company's finances [domain:金融] | C1
+hz_w089074.1 | solicitously | 简体 关切地, 殷勤地 | 繁体 關切地, 殷勤地
+w265985 | tuberin | n.结节蛋白 [domain:生物]
+ex_w005737.3 | tab | THIS SENSE n.账单, 账 = the money owed for food or drinks | all senses: 1:n.标签, 小标签, 拉环 ; 2:n.选项卡, 标签页 ; 3:n.账单, 账 | Don't worry, I'll pay the tab tonight. | 别担心，今晚我来买单。
+c_emotionally-exhausted | emotionally exhausted | adv+adj | 心力交瘁
+w006921 | intro | n.介绍, 开场, 引言 = a short introduction [informal] ; n.前奏, 开头部分 = the opening part of a song [informal,domain:音乐] | US ˈɪntroʊ | UK ˈɪntrəʊ | in·tro | B1 | family: introduction, introduce
+ex_w008136.2 | scoop | THIS SENSE n.勺子, 铲子 = a deep spoon for serving food | all senses: 1:v.舀, 铲, 挖 ; 2:n.勺子, 铲子 ; 3:n.一勺, 一球 ; 4:n.独家新闻, 抢先报道 ; 5:v.抢先报道, 抢先 | Use the scoop to measure the coffee. | 用这个勺子量咖啡。
+ex_w006674.3 | renewal | THIS SENSE n.恢复, 重新开始 = starting something again after a break | all senses: 1:n.续期, 续订, 更新 ; 2:n.复兴, 振兴, 重建 ; 3:n.恢复, 重新开始 | The talks led to a renewal of trade between them. | 会谈使双方恢复了贸易往来。
+ph_trouble-sb-for-sth | trouble sb for sth | phrv | v.麻烦某人 = to ask someone for something politely [formal] | C1
+w000388 | along | prep.沿着, 顺着 = from one end towards the other end of ; adv.向前, 一起, 一道 = forward, or together with someone | US əˈlɔŋ | UK əˈlɒŋ | a·long | A2 | family: alongside
+w225360 | pigstick | v.骑马猎野猪 = to hunt wild boar on horseback with a spear | US ˈpɪɡstɪk | UK ˈpɪɡstɪk | pig·stick | C2 | family: pigsticking, pigsticker
+w249157 | somnambulance | n.梦游
+ph_tie-up | tie up | phrv | v.捆绑, 系牢 = to fasten with string or rope ; v.使忙碌 = to keep someone busy | B2
+p_somme | Somme | place:索姆河=法国河流
+w217200 | palaeophytologic | adj.古植物学的 [domain:植物]
+hx_w004333.2 | barrier | 简体 警察设置了栅栏，不让人群靠近。 | 繁体 警察設置了柵欄，不讓人群靠近。
+p_autodesk | Autodesk | brand:欧特克=美国软件公司
+p_leonidas | Leonidas | person:列奥尼达=斯巴达国王
+w037051 | bauble | n.小饰品, 小玩意 = a cheap pretty ornament ; n.圣诞树挂球 = a decorative ball for a Christmas tree [uk] | US ˈbɔbəl | UK ˈbɔːbəl | bau·ble | C2 | family: -
+ex_w036700.2 | brainwave | THIS SENSE n.脑电波 = electrical activity in the brain | all senses: 1:n.灵感, 好主意 ; 2:n.脑电波 | The machine records brainwaves during sleep. | 这台机器记录睡眠时的脑电波。
+hz_w114686.1 | agnogenic | 简体 原因不明的 | 繁体 原因不明的
+p_famas | FAMAS | brand:法玛斯=法国突击步枪
+w005659 | sweep | v.扫, 打扫, 清扫 = clean with a brush ; v.席卷, 横扫, 迅速传播 = move or spread quickly over an area ; n.打扫, 清扫 = an act of sweeping | US swip | UK swiːp | sweep | B2 | family: sweeper, sweeping
+hx_w017451.2 | preorder | 简体 这款游戏有超过一百万份预订。 | 繁体 這款遊戲有超過一百萬份預訂。
+w240052 | rhathymia | n.无忧无虑 [domain:心理]
+w113500 | adnation | n.贴生, 合生 = the joining of unlike plant parts [domain:植物] | US ædˈneɪʃən | UK ædˈneɪʃən | ad·na·tion | C2 | family: adnate
+p_efron | Efron | person:埃夫隆=美国演员
+ex_w006998.1 | flush | THIS SENSE v.冲洗, 冲水 = to clean a toilet or pipe with water | all senses: 1:v.冲洗, 冲水 ; 2:v.脸红, 涨红 ; 3:adj.齐平的, 平齐的 ; 4:n.红晕, 脸红 | Don't forget to flush the toilet. | 别忘了冲马桶。
+w040294 | dander | n.动物皮屑 = tiny skin flakes from animals that cause allergies ; n.怒气 = temper or anger [informal] | US ˈdændər | UK ˈdændə | dan·der | C2 | family: -
+hz_w004279.4 | embrace | 简体 拥抱 | 繁体 擁抱
+c_go-fishing | go fishing | v+n | 去钓鱼
+c_gain-altitude | gain altitude | v+n | 爬升高度
+p_uppsala | Uppsala | place:乌普萨拉=瑞典城市
+ex_w001406.3 | count | THIS SENSE v.算作, 认为 = to consider someone or something as | all senses: 1:v.数, 计数, 计算 ; 2:v.重要, 有价值 ; 3:v.算作, 认为 ; 4:n.计数, 总数 ; 5:n.伯爵 | I count her as one of my best friends. | 我把她当作我最好的朋友之一。
+ph_on-no-account | on no account | phrase | adv.绝不 = not for any reason [formal] | C1
+c_perfectly-normal | perfectly normal | adv+adj | 完全正常
+p_stewie | Stewie | work:斯图威=家庭卫士角色
+w006578 | gasoline | n.汽油 = fuel for cars [us] | US ˈɡæsəˌlin | UK ˈɡæsəliːn | gas·o·line | B1 | family: gas
+c_pressing-issue | pressing issue | adj+n | 紧迫问题
+ph_next-to-nothing | next to nothing | idiom | adv.几乎没有, 微不足道 = almost nothing at all | B2
+w121078 | apogametic | adj.无配子生殖的 [domain:生物]
+ph_bomb-disposal | bomb disposal | compound | n.拆弹 = the work of making bombs safe | B2
+ph_change-the-subject | change the subject | phrase | v.转换话题 = to start talking about something else | B1
+c_an-occasional-drink | an occasional drink | adj+n | 偶尔小酌
+hx_w022278.2 | layoff | 简体 长时间休养后，他回到了球队。 | 繁体 長時間休養後，他回到了球隊。
+c_restore-confidence | restore confidence | v+n | 恢复信心
+w203560 | monarchess | n.女君主 [dated]
+hx_w016786.1 | brim | 简体 他把杯子倒得满满的。 | 繁体 他把杯子倒得滿滿的。
+ph_hike-up | hike up | phrv | v.大幅提高 = to increase prices suddenly | C1
+p_klobuchar | Klobuchar | person:克洛布彻=美国参议员
+c_a-sign-of-weakness | a sign of weakness | n+n | 软弱的表现
+ph_white-goods | white goods | compound | n.白色家电 = large household machines such as fridges | C1
+c_transparent-process | transparent process | adj+n | 透明的程序
+ph_ever-so | ever so | phrase | adv.非常 = very [uk,informal] | B2
+w264108 | triallate | n.燕麦敌 [domain:农业]
+c_rise-to-fame | rise to fame | v+prep | 成名
+w001173 | daughter-in-law | n.儿媳, 媳妇 = the wife of your son | US ˈdɔtɚɪnˌlɔ | UK ˈdɔːtərɪnlɔː | daugh·ter-in-law | B1 | family: -
+w245274 | semidome | n.半圆顶 = a half dome over a recess [domain:建筑] | US ˈsɛmiˌdoʊm | UK ˈsemidəʊm | sem·i·dome | C2 | family: dome
+p_powerball | Powerball | brand:强力球=美国彩票
+w001627 | cultural | adj.文化的, 文化上的 = relating to the customs and ideas of a society ; adj.文艺的, 艺术的 = relating to art, music and literature | US ˈkʌltʃɚəl | UK ˈkʌltʃərəl | cul·tur·al | B1 | family: culture, culturally, multicultural
+w231110 | preterhuman | adj.超人类的
+w001796 | fixed | adj.固定的, 不变的, 确定的 = not changing or not able to change ; adj.牢固的, 固定住的 = firmly attached in one place ; adj.被操纵的, 作弊的 = dishonestly arranged in advance [informal] | US fɪkst | UK fɪkst | fixed | B1 | family: fix
+ex_w000199.2 | ever | THIS SENSE adv.永远, 始终 = always; all the time | all senses: 1:adv.曾经, 在任何时候 ; 2:adv.永远, 始终 ; 3:adv.究竟, 到底 | They lived happily ever after. | 从此他们永远幸福地生活在一起。
+p_tweety | Tweety | work:崔弟=华纳卡通角色
+c_marvel-at-sth | marvel at sth | v+prep | 对某事惊叹
+w185316 | intraglacial | adj.冰内的 [domain:地质]
+hx_w036611.1 | taxman | 简体 他忘了交税。 | 繁体 他忘了交稅。
+c_bring-sb-to-justice | bring sb to justice | v+prep | 将某人绳之以法
+hz_w043824.1 | facultative | 简体 兼性的, 非强制的 | 繁体 兼性的, 非強制的
+w174600 | hematocele | n.血囊肿 [domain:医学]
+w070135 | wheatear | n.鵖 = a small songbird [domain:动物] | US ˈwiːtɪr | UK ˈwiːtɪə | wheat·ear | C2 | family: -
+w264663 | triethylenemelamine | n.三亚乙基三聚氰胺 [domain:药学]
+w122608 | arthropodous | adj.节肢动物的 [domain:动物]
+ex_w004496.1 | lesser | THIS SENSE adj.较小的, 较少的, 次要的 = smaller in size, amount or importance | all senses: 1:adj.较小的, 较少的, 次要的 ; 2:adv.较少地, 较不 | He was charged with a lesser crime. | 他被控犯有较轻的罪行。
+p_aldrich | Aldrich | person:奥尔德里奇=英语姓氏
+p_lamarck | Lamarck | person:拉马克=法国生物学家
+p_channing | Channing | person:钱宁=英语姓氏
+p_scholes | Scholes | person:斯科尔斯=英国足球运动员
+w000513 | march | v.行军, 齐步走 = to walk with regular steps like soldiers ; n.游行, 示威游行 = an organized walk to protest ; n.行军, 进军 = a journey made by soldiers on foot | US mɑrtʃ | UK mɑːtʃ | march | B1 | family: -
+w055855 | futurology | n.未来学 = the study of possible future developments | US ˌfjutʃəˈrɑlədʒi | UK ˌfjuːtʃəˈrɒlədʒi | fu·tur·ol·o·gy | C2 | family: future, futurologist
+ph_reverend-mother | reverend mother | compound | n.女修道院院长 = the head of a convent [domain:宗教] | C2
+ph_more-haste-less-speed | more haste, less speed | idiom | int.欲速则不达 = rushing makes you slower in the end [uk] | C2
+p_palenque | Palenque | place:帕伦克=墨西哥玛雅遗址
+c_have-patience | have patience | v+n | 有耐心
+ph_rush-into | rush into | phrv | v.仓促行事 = to do something without enough thought | B2
+p_sasol | Sasol | brand:沙索=南非能源化工公司
+c_concern-for-sb | concern for sb | n+prep | 对某人的关心
+c_empty-rhetoric | empty rhetoric | adj+n | 空话
+x_unfollow | unfollow | v.取消关注
+c_weak-tea | weak tea | adj+n | 淡茶
+w237735 | recollective | adj.回忆的
+ph_hear-sth-on-the-grapevine | hear sth on the grapevine | idiom | v.听到小道消息 = to hear news passed informally between people | C1
+hz_w165936.1 | flintlike | 简体 燧石般的, 坚硬的 | 繁体 燧石般的, 堅硬的
+w171886 | grantable | adj.可授予的
+w126049 | bankroller | n.出资人
+w044355 | hup | int.一二, 嘿 = a word used to mark marching steps or urge effort | US hʌp | UK hʌp | hup | C2 | family: -
+w158738 | endorheism | n.内流 [domain:地理]
+p_bordeaux | Bordeaux | place:波尔多=法国城市
+w274696 | xanthogenic | adj.黄原酸的 [domain:化学]
+c_avid-reader | avid reader | adj+n | 狂热读者
+hz_w210364.1 | nongrounded | 简体 未接地的 | 繁体 未接地的
+w060998 | newsdesk | n.新闻编辑部 = the department that edits news | US ˈnuzˌdɛsk | UK ˈnjuːzdesk | news·desk | C2 | family: news, desk
+hx_w005467.2 | facilitate | 简体 一位老师主持了小组讨论。 | 繁体 一位老師主持了小組討論。
+w185626 | inviolableness | n.不可侵犯
+w127861 | betacism | n.重复使用乙字音 [domain:语言]
+ex_w003555.2 | judgment | THIS SENSE n.看法, 意见, 评价 = an opinion formed after thinking carefully | all senses: 1:n.判断, 判断力 ; 2:n.看法, 意见, 评价 ; 3:n.判决, 裁决 | In my judgment, it was the right decision. | 依我看，那是正确的决定。
+ex_w016599.2 | battleground | THIS SENSE n.争论焦点, 角逐场, 争夺之地 = an area or issue that people strongly disagree over | all senses: 1:n.战场, 战地 ; 2:n.争论焦点, 角逐场, 争夺之地 | Education has become a political battleground. | 教育已成为政治角逐的焦点。
+w000182 | again | adv.再, 又, 再次 = one more time ; adv.回到原处, 恢复原状 = back to a previous state or place | US əˈɡɛn | UK əˈɡen | a·gain | A1 | family: -
+ph_no-wonder | no wonder | phrase | int.难怪 = it is not surprising | B2
+w000218 | name | n.名字, 姓名, 名称 = the word that someone or something is called ; n.名声, 名誉 = the reputation someone has ; v.命名, 给取名 = to give someone or something a name ; v.说出名字, 指定, 任命 = to say the name of; to choose officially | US neɪm | UK neɪm | name | A1 | family: namely, nameless, nickname, surname, rename
+ex_w014157.1 | erm | THIS SENSE int.嗯, 呃 = a sound made while hesitating | all senses: 1:int.嗯, 呃 | Erm, I'm not sure what to say. | 呃，我不知道该说什么。
+w021987 | communicable | adj.可传染的 = able to be passed between people [domain:医学] ; adj.可传达的 = able to be communicated | US kəˈmjunəkəbəl | UK kəˈmjuːnɪkəbl | com·mu·ni·ca·ble | C2 | family: communicate
+w019347 | naturalistic | adj.自然主义的, 写实的 = showing things as they really are | US ˌnætʃɚəˈlɪstɪk | UK ˌnætʃrəˈlɪstɪk | nat·u·ral·is·tic | C2 | family: naturalism, naturalist, natural
+c_gain-confidence | gain confidence | v+n | 增强信心
+ex_w013739.1 | patterned | THIS SENSE adj.有图案的, 带花纹的 = decorated with a design of lines or shapes | all senses: 1:adj.有图案的, 带花纹的 | She wore a patterned dress. | 她穿着一条带图案的连衣裙。
+w011164 | discreet | adj.谨慎的, 慎重的 = careful not to attract attention or reveal secrets ; adj.不显眼的, 低调的 = small and not easily noticed | US dɪˈskrit | UK dɪˈskriːt | dis·creet | C1 | family: discreetly, discretion
+w227081 | plumula | n.胚芽 [domain:植物]
+hz_w165586.1 | flackery | 简体 宣传, 吹捧 | 繁体 宣傳, 吹捧
+ex_w015993.2 | shipwreck | THIS SENSE n.沉船, 失事船只 = the remains of a destroyed ship | all senses: 1:n.船只失事, 海难 ; 2:n.沉船, 失事船只 ; 3:v.使遭遇海难, 使失事 | Divers explored the shipwreck on the sea floor. | 潜水员探索了海底的沉船残骸。
+ex_w014356.2 | magnolia | THIS SENSE n.淡乳白色 = a very pale creamy white colour | all senses: 1:n.木兰, 玉兰 ; 2:n.淡乳白色 | The walls are painted magnolia. | 墙被漆成了淡乳白色。
+ex_w018488.1 | bib | THIS SENSE n.围嘴, 围兜 = a cloth tied under a baby's chin while eating | all senses: 1:n.围嘴, 围兜 ; 2:n.号码布, 背心号码 | Put a bib on the baby before feeding her. | 喂宝宝之前给她戴上围嘴。
+ph_a-testament-to | a testament to | phrase | n.证明, 证据 = clear proof of something | C1
+ex_w002059.1 | selection | THIS SENSE n.选择, 挑选 = the act of choosing from a group | all senses: 1:n.选择, 挑选 ; 2:n.可供选择的东西, 品种 ; 3:n.选出的人或物, 精选品 | The selection of the team will take place next week. | 球队的选拔将于下周进行。
+w053934 | sightless | adj.失明的 = unable to see [literary] | US ˈsaɪtləs | UK ˈsaɪtləs | sight·less | C2 | family: sight
+ex_w007878.2 | hourly | THIS SENSE adv.每小时, 每小时一次 = once every hour | all senses: 1:adj.每小时的, 按小时计的 ; 2:adv.每小时, 每小时一次 | The buses leave hourly from the station. | 公交车每小时从车站发一班。
+w159316 | enterospasm | n.肠痉挛 [domain:医学]
+ph_flight-of-stairs | flight of stairs | phrase | n.一段楼梯 = a set of steps between floors | B2
+ph_expensive-taste | expensive taste | phrase | n.讲究的品味 = a liking for costly things | C1
+w220680 | pentaiodinated | adj.五碘代的 [domain:化学]
+c_juicy-gossip | juicy gossip | adj+n | 劲爆八卦
+w141249 | cogenetic | adj.同源的
+ex_w010354.1 | regression | THIS SENSE n.倒退, 退化, 衰退 = a return to an earlier or worse state | all senses: 1:n.倒退, 退化, 衰退 ; 2:n.回归, 回归分析 | Doctors noticed a regression in the patient's condition. | 医生注意到病人的病情倒退了。
+w002002 | basically | adv.基本上, 大体上 = in the most important ways ; adv.总之, 说白了 = used to give a simple summary [informal] | US ˈbeɪsɪkli | UK ˈbeɪsɪkli | ba·si·cal·ly | B1 | family: basic, basis
+c_mow-the-lawn | mow the lawn | v+n | 修剪草坪
+ph_leave-sb-to-their-own-devices | leave sb to their own devices | idiom | v.让某人自行其是 = to let someone decide what to do | C2
+p_lou | Lou | person:卢=英语男子名
+c_attract-investment | attract investment | v+n | 吸引投资
+ex_w007039.1 | sufficiently | THIS SENSE adv.充分地, 足够地 = to an adequate degree | all senses: 1:adv.充分地, 足够地 | The room was not sufficiently large for the whole class. | 这个房间不够大，容不下全班同学。
+c_a-tennis-court | a tennis court | n+n | 网球场
+ph_quartz-watch | quartz watch | compound | n.石英表 = a watch controlled by a vibrating crystal | C1
+ph_booster-shot | booster shot | compound | n.加强针 = an extra dose of a vaccine [domain:医学] | C1
+w000665 | themselves | pron.他们自己, 她们自己, 它们自己 = used when the people already mentioned are the object ; pron.他们亲自, 本身 = used to emphasize the people being referred to | US ðɛmˈsɛlvz | UK ðəmˈselvz | them·selves | A2 | family: -
+p_salesforce | Salesforce | brand:赛富时=美国软件公司
+hx_w004360.3 | portfolio | 简体 那位画家把画装在一个皮质文件夹里。 | 繁体 那位畫家把畫裝在一個皮質資料夾裡。

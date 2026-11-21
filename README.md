@@ -4,7 +4,7 @@
 
 Open English–Chinese learner's dictionary: 86,851 fully written headwords plus rare-word glosses, proper names, phrases, collocations and an inflection index (about 169,000 entries). Structured data, free to use.
 
-> 当前版本 **v0.10.0（预览版）**。全部内容由 Claude 模型撰写和互相审核，**没有人工校对**。错误率估计见 [reports/quality-0.9.0.md](reports/quality-0.9.0.md)。
+> 当前版本 **v0.10.0（预览版）**。全部内容由 Claude 模型撰写和互相审核，**没有人工校对**。错误率估计见 [reports/quality-0.10.0.md](reports/quality-0.10.0.md)（主词典释义 major 约 0.7%，例句 0%，例句繁体 3%，简释层 4%）。
 
 ## 内容
 

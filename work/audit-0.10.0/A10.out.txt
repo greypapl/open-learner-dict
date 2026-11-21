@@ -1,0 +1,150 @@
+w270050 | ok
+w148585 | ok
+p_changsha | ok
+ex_w001855.2 | ok
+w269566 | ok
+w269390 | ok
+p_cambria | ok
+ph_ice-skating | ok
+p_bligh | ok
+ph_of-all | minor | form | incomplete citation form; should be "of all people/things/places"
+hz_w001205.1 | minor | hant | Taiwan standard form is 克制; 剋制 is an over-conversion variant
+ex_w000709.1 | ok
+c_fight-a-battle | ok
+ph_on-the-run | ok
+p_blackhawks | ok
+w246084 | minor | meaning | standard medical term is 浆液血性的, not 血清血液的
+ex_w005590.1 | ok
+ph_hold-sb-to-ransom | ok
+w258973 | ok
+w192365 | ok
+ex_w052494.2 | ok
+ex_w008770.1 | ok
+w251308 | ok
+w259688 | ok
+hz_w028653.1 | ok
+c_swear-an-oath | ok
+w011620 | minor | meaning | bare "thrift" rarely means the shop (thrift store/shop); US noun sense is savings institution 储蓄机构
+w002059 | ok
+ex_w008155.2 | ok
+hx_w004190.1 | ok
+c_speak-fluently | ok
+w188579 | ok
+hx_w008069.2 | ok
+ph_day-to-day | minor | form | adjective is hyphenated: day-to-day
+p_joburg | ok
+w126325 | major | meaning | barreler is one who packs goods in barrels 装桶工; 制桶工 is cooper
+w263055 | ok
+ex_w002382.1 | ok
+c_beat-the-traffic | ok
+w244852 | ok
+p_balkan | minor | form | Balkan is the adjective; the region is the Balkans 巴尔干(半岛/地区)
+ph_go-great-guns | ok
+c_deeply-divided | ok
+p_pwc | ok
+w157871 | ok
+hz_w001951.3 | ok
+ph_belly-flop | ok
+c_rebel-forces | ok
+hz_w163243.1 | ok
+ex_w001186.1 | ok
+ex_w009127.2 | ok
+c_exert-influence | ok
+hz_w008495.1 | ok
+ex_w010244.2 | ok
+p_kanye | ok
+w231092 | ok
+ph_no-end-of | ok
+ex_w004809.1 | ok
+hz_w041412.2 | ok
+hz_w009519.2 | ok
+c_unfortunate-circumstances | ok
+w201649 | ok
+w021500 | ok
+w143386 | ok
+ex_w001303.3 | ok
+c_strongly-agree | minor | zh | 强烈同意 is a calque; natural: 非常同意/完全赞同
+ex_w005131.1 | ok
+ex_w004438.1 | ok
+ph_go-sightseeing | ok
+w006857 | minor | missing | missing UK verb sense: to criticize severely 严厉批评, 抨击
+ex_w016554.2 | ok
+w121494 | ok
+ph_throw-together | ok
+p_kentucky | ok
+p_parton | ok
+c_alien-to-sb | ok
+hx_w015341.1 | ok
+c_the-honest-truth | ok
+c_sheer-genius | minor | meaning | refers to brilliance of an idea/act, not a person: 纯属天才之举/绝妙
+w004874 | ok
+ph_snake-pit | ok
+hz_w036341.1 | ok
+hz_w011804.1 | ok
+w175739 | ok
+x_tunneled | ok
+w121475 | ok
+p_ielts | ok
+ph_beer-garden | ok
+hz_w123588.1 | ok
+c_subtle-hint | ok
+w248265 | ok
+w040474 | ok
+c_wear-glasses | ok
+ph_up-close | ok
+c_interaction-with-sb | ok
+c_key-component | ok
+w273580 | ok
+hx_w005002.2 | ok
+ph_cause-a-stir | ok
+p_jainism | ok
+c_unsolved-mystery | ok
+hz_w025295.1 | ok
+hz_w015670.2 | minor | hant | Taiwan official term since 2014 is 思覺失調症患者
+w238404 | minor | meaning | transitive: 使再次住院/再次收治, not intransitive 再住院
+c_earn-a-commission | ok
+hz_w025172.1 | ok
+p_zhivago | ok
+c_working-relationship | ok
+ph_district-nurse | ok
+w044034 | ok
+w005338 | minor | meaning | 乐池 is the orchestra pit, not the seats described; keep 正厅前排(座位)
+w159670 | ok
+ex_w000560.4 | ok
+w250103 | ok
+c_blame-sb-for-sth | ok
+c_a-loaded-gun | ok
+ph_control-group | ok
+p_denali | minor | zh | standard mainland name is 德纳里(峰), not 迪纳利
+p_uighur | ok
+c_tax-incentive | ok
+w200830 | major | meaning | 瑞香素 is daphnetin; mezerein is 瑞香毒素 (mezereon toxin)
+ph_collision-course | ok
+c_highly-likely | ok
+ph_flower-girl | ok
+p_islay | ok
+w157795 | ok
+w211079 | ok
+c_deadly-serious | ok
+c_related-to-sth | minor | tag | pattern should be adj+prep, not v+prep
+p_somalian | ok
+hz_w041668.1 | ok
+ph_hang-up | ok
+hz_w006727.2 | ok
+ph_make-heavy-weather-of-sth | ok
+w152485 | ok
+w000832 | ok
+ph_engine-driver | ok
+w241209 | ok
+w051366 | ok
+hz_w246447.1 | ok
+x_dinos | ok
+p_gardai | ok
+ex_w000161.1 | ok
+p_abdelkader | ok
+ex_w000033.2 | ok
+ex_w000411.2 | ok
+c_fill-a-gap | ok
+ex_w016883.3 | ok
+c_build-momentum | ok
+w110627 | ok

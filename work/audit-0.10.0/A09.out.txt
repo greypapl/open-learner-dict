@@ -1,0 +1,150 @@
+hz_w082063.1 | ok
+w193388 | ok
+c_brutal-honesty | minor | meaning | 过分直率 imprecise; brutal honesty is 毫不留情的坦诚/直言不讳, not "excessive"
+ph_mention-sth-in-passing | ok
+hx_w004531.2 | ok
+c_amount-of-money | ok
+w171908 | ok
+ex_w007197.1 | ok
+hx_w007941.2 | ok
+c_wind-the-clock | ok
+c_give-feedback | ok
+hz_w025659.1 | ok
+ex_w006690.1 | ok
+p_messerschmitt | ok
+hz_w003057.3 | ok
+w222546 | ok
+hz_w010724.1 | ok
+w171748 | ok
+p_kripke | ok
+c_reliable-source | ok
+ph_floor-exercise | ok
+c_teach-sb-to-do-sth | minor | tag | pattern is v+n+to-inf, not v+prep
+p_garfunkel | ok
+hz_w051585.1 | ok
+p_dix | ok
+hz_w125540.1 | ok
+ex_w011076.1 | ok
+w131658 | ok
+ph_zero-in-on-sth | ok
+p_joanne | ok
+hx_w004567.3 | ok
+w004100 | ok
+ph_pension-fund | ok
+c_socially-responsible | ok
+ph_good-for-you | ok
+p_patagonia | ok
+ph_good-as-gold | ok
+c_conduct-an-investigation | ok
+w013090 | ok
+hz_w155229.1 | ok
+p_eurydice | minor | tag | mythological figure typed as work; should be a myth/person type
+w218861 | major | meaning | 副拱 wrong; parapsis is an insect thoracic sclerite 盾侧片 (or 触觉异常 in medicine)
+ex_w026899.1 | ok
+ph_hair-of-the-dog | minor | tag | not UK-only; used equally in US English, drop [uk]
+c_a-standard-of-living | ok
+p_ashkelon | minor | zh | standard mainland (Xinhua) name is 阿什凯隆
+c_lower-one-s-voice | ok
+w176645 | ok
+ex_w004854.2 | ok
+w091868 | ok
+ex_w004948.2 | ok
+ph_screen-off | minor | zh | 用屏隔开 awkward; better 用屏风/帘子隔开
+w193274 | ok
+w002168 | ok
+ph_ashamed-of | ok
+w022935 | ok
+p_jeffries | ok
+hz_w253088.1 | ok
+p_olivia | ok
+hz_w002633.1 | ok
+w105016 | minor | meaning | 同质论 suggests homoousion; standard term is 圣体共在论/同体论
+c_earn-an-income | ok
+w243709 | ok
+w009924 | ok
+ph_run-short | ok
+ph_the-game-is-up | ok
+hz_w133307.1 | ok
+ex_w010039.2 | ok
+w246483 | ok
+ph_off-guard | ok
+w175004 | ok
+p_kansas | ok
+c_gain-an-understanding | minor | zh | 获得了解 unnatural; better 有所了解/加深理解
+p_kali | minor | zh | usual Chinese name is 迦梨 (时母), not 迦利
+w275356 | ok
+p_ahsoka | ok
+ex_w051245.1 | ok
+c_guilty-verdict | ok
+w036906 | minor | meaning | 将来地/预期地 unnatural; better 前瞻性地, 面向未来地
+ex_w012500.1 | ok
+w208161 | ok
+c_financially-secure | ok
+c_put-sth-to-use | ok
+p_benedick | ok
+hz_w009047.1 | ok
+ex_w013155.1 | ok
+w264387 | ok
+ph_steal-the-show | ok
+w043271 | ok
+hz_w264996.1 | ok
+c_a-vague-notion | ok
+p_nara | ok
+p_vittorio | ok
+hz_w211419.1 | ok
+hx_w006809.3 | ok
+p_brum | ok
+c_worthy-cause | minor | meaning | 有价值的事业 flat; means 值得支持的(公益/崇高)事业
+ph_snooze-button | ok
+p_holodomor | ok
+w158347 | ok
+ph_firm-up | ok
+c_valid-passport | ok
+hz_w023463.1 | ok
+hx_w004012.1 | ok
+ex_w013539.2 | ok
+p_tatarstan | ok
+ph_moral-support | ok
+c_make-an-impact | ok
+hx_w016557.2 | ok
+ex_w000956.2 | ok
+ph_do-a-number-on-sb | ok
+c_marry-into-sth | ok
+ex_w011921.2 | ok
+c_controversy-over-sth | ok
+w000192 | ok
+ph_ambient-temperature | ok
+c_object-to-sth | ok
+c_smile-broadly | ok
+p_thessalonians | ok
+w088043 | ok
+ex_w002577.2 | ok
+ph_put-one-s-mind-to-sth | ok
+p_abdelaziz | ok
+p_besant | ok
+ph_the-pros-and-cons | ok
+p_ariane | ok
+p_bishkek | ok
+ph_do-the-washing-up | ok
+ph_gear-up | ok
+w217741 | ok
+w001259 | ok
+p_kline | ok
+ex_w009067.1 | minor | example | translation drops "amazing"; e.g. 这款游戏有令人惊叹的电影级画面
+hz_w217178.1 | ok
+ph_cottage-pie | ok
+p_nrdc | ok
+c_execute-an-order | ok
+ph_run-across | ok
+p_chicagoan | ok
+ph_rise-above | ok
+ex_w013051.1 | ok
+w274451 | ok
+c_temporarily-suspend | ok
+p_tasha | minor | meaning | used as an English given name (short for Natasha); 俄语女子名 is misleading
+hx_w016833.1 | minor | hant | Taiwan standard name for flamingo is 紅鶴, not 火烈鳥
+w000977 | ok
+ph_worth-its-weight-in-gold | minor | meaning | 价值连城 implies literal price; idiom means 极有价值/非常宝贵 (useful)
+c_form-an-opinion | ok
+ex_w016236.3 | ok
+hx_w003132.4 | ok

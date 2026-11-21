@@ -1,0 +1,150 @@
+w270050 | uranoplastic | adj.腭成形的 [domain:医学]
+w148585 | defraudment | n.欺诈 [dated]
+p_changsha | Changsha | place:长沙=中国城市
+ex_w001855.2 | joke | THIS SENSE v.开玩笑, 说笑 = to say things that are not serious | all senses: 1:n.笑话, 玩笑 ; 2:v.开玩笑, 说笑 | Don't worry, I was only joking. | 别担心，我只是在开玩笑。
+w269566 | unsubstantialize | v.使虚幻
+w269390 | unseriousness | n.不严肃 = lack of seriousness | US ʌnˈsɪriəsnəs | UK ʌnˈsɪəriəsnəs | un·se·ri·ous·ness | C2 | family: unserious, serious
+p_cambria | Cambria | place:坎布里亚=威尔士古称
+ph_ice-skating | ice skating | compound | n.滑冰 = the sport of moving on ice in skates | B1
+p_bligh | Bligh | person:布莱=邦蒂号船长
+ph_of-all | of all | phrase | adv.偏偏, 尤其 = used to emphasize the most surprising one | B2
+hz_w001205.1 | low-key | 简体 低调的, 不张扬的, 克制的 | 繁体 低調的, 不張揚的, 剋制的
+ex_w000709.1 | management | THIS SENSE n.管理, 经营 = the control and organizing of a business | all senses: 1:n.管理, 经营 ; 2:n.管理层, 资方 | She studied business management at college. | 她在大学学习企业管理。
+c_fight-a-battle | fight a battle | v+n | 打仗
+ph_on-the-run | on the run | phrase | adj.在逃的 = trying to escape from the police | C1
+p_blackhawks | Blackhawks | org:黑鹰队=芝加哥冰球队
+w246084 | serosanguineous | adj.血清血液的 [domain:医学]
+ex_w005590.1 | whale | THIS SENSE n.鲸, 鲸鱼 = a very large sea mammal | all senses: 1:n.鲸, 鲸鱼 | We saw a whale from the boat. | 我们在船上看到了一头鲸鱼。
+ph_hold-sb-to-ransom | hold sb to ransom | idiom | v.绑架勒索, 要挟 = to keep someone until money is paid | C1
+w258973 | telodrin | n.碳氯灵 [domain:化学]
+w192365 | leucitite | n.白榴岩 [domain:地质]
+ex_w052494.2 | anticlockwise | THIS SENSE adj.逆时针的 = moving anticlockwise | all senses: 1:adv.逆时针地 ; 2:adj.逆时针的 | Move in an anticlockwise direction. | 按逆时针方向移动。
+ex_w008770.1 | podium | THIS SENSE n.领奖台, 讲台, 指挥台 = a small raised platform | all senses: 1:n.领奖台, 讲台, 指挥台 | The winner stood on the podium to receive her medal. | 获胜者站在领奖台上领奖牌。
+w251308 | squitter | n.腹泻 [dated,informal]
+w259688 | tetanogenic | adj.引起破伤风的 [domain:医学]
+hz_w028653.1 | moxie | 简体 勇气, 魄力 | 繁体 勇氣, 魄力
+c_swear-an-oath | swear an oath | v+n | 宣誓
+w011620 | thrift | n.节俭, 节约 = careful use of money ; n.二手商店 = a shop selling used goods for charity [us] | US θrɪft | UK θrɪft | thrift | C1 | family: thrifty, spendthrift
+w002059 | selection | n.选择, 挑选 = the act of choosing from a group ; n.可供选择的东西, 品种 = a range of things to choose from ; n.选出的人或物, 精选品 = things that have been chosen | US səˈlɛkʃən | UK sɪˈlekʃn | se·lec·tion | B1 | family: select, selective, selector
+ex_w008155.2 | wallpaper | THIS SENSE n.桌面背景, 屏幕壁纸 = the background image on a computer or phone screen | all senses: 1:n.墙纸, 壁纸 ; 2:n.桌面背景, 屏幕壁纸 ; 3:v.贴墙纸 | She has a photo of her dog as her wallpaper. | 她把自己小狗的照片设成了屏幕壁纸。
+hx_w004190.1 | tropical | 简体 我们在水族馆看到了热带鱼。 | 繁体 我們在水族館看到了熱帶魚。
+c_speak-fluently | speak fluently | v+adv | 流利地说
+w188579 | karyopycnosis | n.核固缩 [domain:生物]
+hx_w008069.2 | apt | 简体 旧车容易抛锚。 | 繁体 舊車容易拋錨。
+ph_day-to-day | day to day | phrase | adj.日常的, 逐日的 = happening every day as a normal part of life | B2
+p_joburg | Joburg | place:约翰内斯堡=南非城市
+w126325 | barreler | n.制桶工
+w263055 | touser | n.弄乱者
+ex_w002382.1 | hardly | THIS SENSE adv.几乎不, 几乎没有 = almost not | all senses: 1:adv.几乎不, 几乎没有 ; 2:adv.一…就 ; 3:adv.绝不, 并不 | I could hardly hear what he said. | 我几乎听不见他说的话。
+c_beat-the-traffic | beat the traffic | v+n | 避开交通拥堵
+w244852 | seedily | adv.破旧地, 不体面地 = in a shabby or sordid way | US ˈsiːdɪli | UK ˈsiːdɪli | seed·i·ly | C2 | family: seedy, seediness
+p_balkan | Balkan | place:巴尔干=东南欧地区
+ph_go-great-guns | go great guns | idiom | v.进展神速 = to do very well [informal] | C2
+c_deeply-divided | deeply divided | adv+adj | 严重分裂
+p_pwc | PwC | org:普华永道=会计师事务所
+w157871 | embosom | v.拥抱, 环绕 = to enclose or embrace [literary] | US ɪmˈbʊzəm | UK ɪmˈbʊzəm | em·bos·om | C2 | family: bosom
+hz_w001951.3 | fake | 简体 伪造, 假装 | 繁体 偽造, 假裝
+ph_belly-flop | belly flop | compound | n.腹部着水的跳水 = a poor dive in which you land flat on your front | C2
+c_rebel-forces | rebel forces | n+n | 叛军
+hz_w163243.1 | exploringly | 简体 探索地 | 繁体 探索地
+ex_w001186.1 | senior | THIS SENSE adj.级别高的, 资深的 = higher in rank or position | all senses: 1:adj.级别高的, 资深的 ; 2:adj.年长的, 老年人的 ; 3:n.毕业班学生, 高年级学生 ; 4:n.老年人, 长者 | He has a senior position in the bank. | 他在银行担任高级职位。
+ex_w009127.2 | restless | THIS SENSE adj.不眠的, 不安宁的 = without rest or sleep | all senses: 1:adj.焦躁不安的, 坐立不安的 ; 2:adj.不眠的, 不安宁的 | I had a restless night and woke up tired. | 我一夜没睡好，醒来很累。
+c_exert-influence | exert influence | v+n | 施加影响
+hz_w008495.1 | corporal | 简体 下士 | 繁体 下士
+ex_w010244.2 | usher | THIS SENSE v.开创, 迎来, 引进 = to mark or cause the start of something new | all senses: 1:v.引领, 带领, 引导 ; 2:v.开创, 迎来, 引进 ; 3:n.引座员, 招待员, 迎宾员 | The new law ushered in a period of change. | 新法律开启了一个变革时期。
+p_kanye | Kanye | person:坎耶=美国说唱歌手
+w231092 | pretectal | adj.顶盖前的 [domain:解剖]
+ph_no-end-of | no end of | phrase | det.大量的, 很多 = a very large amount of [informal] | C1
+ex_w004809.1 | gambling | THIS SENSE n.赌博, 博彩 = playing games of chance for money | all senses: 1:n.赌博, 博彩 | Gambling can cause serious money problems. | 赌博会造成严重的经济问题。
+hz_w041412.2 | postmodernist | 简体 后现代主义的 | 繁体 後現代主義的
+hz_w009519.2 | dissent | 简体 持异议, 不同意 | 繁体 持異議, 不同意
+c_unfortunate-circumstances | unfortunate circumstances | adj+n | 不幸的处境
+w201649 | microradiography | n.显微射线照相 = X-ray imaging of small objects [domain:医学] | US ˌmaɪkroʊˌreɪdiˈɑɡrəfi | UK ˌmaɪkrəʊˌreɪdiˈɒɡrəfi | mi·cro·ra·di·og·ra·phy | C2 | family: radiography
+w021500 | succinctly | adv.简洁地, 简明扼要地 = clearly and in few words | US səkˈsɪŋktli | UK səkˈsɪŋktli | suc·cinct·ly | C1 | family: succinct, succinctness
+w143386 | coprology | n.粪便学 [domain:医学]
+ex_w001303.3 | drug | THIS SENSE v.使服麻醉药, 下药 = to give someone a drug to make them unconscious | all senses: 1:n.毒品 ; 2:n.药, 药物 ; 3:v.使服麻醉药, 下药 | The thieves drugged the guard dog. | 小偷给看门狗下了药。
+c_strongly-agree | strongly agree | adv+v | 强烈同意
+ex_w005131.1 | thermal | THIS SENSE adj.热的, 热量的, 热力的 = relating to heat | all senses: 1:adj.热的, 热量的, 热力的 ; 2:adj.保暖的, 防寒的 ; 3:n.上升暖气流, 热气流 | The building uses thermal energy from the ground. | 这栋楼利用来自地下的热能。
+ex_w004438.1 | plug | THIS SENSE n.插头, 电源插头 = a device that connects equipment to electricity | all senses: 1:n.插头, 电源插头 ; 2:n.塞子, 栓 ; 3:v.堵塞, 塞住 ; 4:v.宣传, 推销 | This plug doesn't fit the socket. | 这个插头和插座不配。
+ph_go-sightseeing | go sightseeing | phrase | v.观光 = to visit interesting places | A2
+w006857 | slate | n.板岩, 石板 = a dark grey stone that splits into thin layers [domain:地质] ; n.候选人名单 = a list of candidates for election [us] ; v.预定, 计划 = to plan something for a particular time [us] | US sleɪt | UK sleɪt | slate | C1 | family: -
+ex_w016554.2 | slimy | THIS SENSE adj.谄媚的, 虚伪的, 讨厌的 = friendly in a false, unpleasant way | all senses: 1:adj.黏糊糊的, 黏滑的 ; 2:adj.谄媚的, 虚伪的, 讨厌的 | I don't trust that slimy salesman. | 我不相信那个油嘴滑舌的推销员。
+w121494 | apyretic | adj.无热的 [domain:医学]
+ph_throw-together | throw together | phrv | v.匆忙拼凑 = to make something quickly | C1
+p_kentucky | Kentucky | place:肯塔基=美国州名
+p_parton | Parton | person:帕顿=英语姓氏
+c_alien-to-sb | alien to sb | adj+prep | 与某人格格不入
+hx_w015341.1 | pixie | 简体 这个故事讲的是一个住在森林里的小精灵。 | 繁体 這個故事講的是一個住在森林裡的小精靈。
+c_the-honest-truth | the honest truth | adj+n | 实情
+c_sheer-genius | sheer genius | adj+n | 绝顶天才
+w004874 | ethical | adj.道德的, 伦理的 = relating to beliefs about right and wrong ; adj.合乎道德的, 正当的 = morally correct or acceptable | US ˈɛθɪkəl | UK ˈeθɪkl | eth·i·cal | B2 | family: ethics, ethically, unethical
+ph_snake-pit | snake pit | compound | n.蛇坑 = a place with snakes ; n.混乱险恶之地 = a dangerous or chaotic place | C2
+hz_w036341.1 | candidature | 简体 候选资格 | 繁体 候選資格
+hz_w011804.1 | ditto | 简体 同上, 也一样 | 繁体 同上, 也一樣
+w175739 | hermatype | n.造礁珊瑚 [domain:动物]
+x_tunneled | tunneled | v.挖隧道, 开凿隧道
+w121475 | aptitudinal | adj.能力倾向的
+p_ielts | IELTS | abbr:雅思=国际英语测试
+ph_beer-garden | beer garden | compound | n.啤酒花园 = a garden of a pub where drinks are served | B2
+hz_w123588.1 | atonally | 简体 无调性地 | 繁体 無調性地
+c_subtle-hint | subtle hint | adj+n | 含蓄的暗示
+w248265 | slipperily | adv.滑溜地 = in a slippery way | US ˈslɪpərəli | UK ˈslɪpərəli | slip·per·i·ly | C2 | family: slippery
+w040474 | perlite | n.珍珠岩 = a light volcanic glass used in soil mixes [domain:地质] | US ˈpɝlaɪt | UK ˈpɜːlaɪt | per·lite | C2 | family: -
+c_wear-glasses | wear glasses | v+n | 戴眼镜
+ph_up-close | up close | phrase | adv.近距离地 = very near | B2
+c_interaction-with-sb | interaction with sb | n+prep | 与某人互动
+c_key-component | key component | adj+n | 关键组成部分
+w273580 | waxpaper | n.蜡纸
+hx_w005002.2 | bowling | 简体 他的快速投球赢下了这场板球比赛。 | 繁体 他的快速投球贏下了這場板球比賽。
+ph_cause-a-stir | cause a stir | idiom | v.引起轰动 = to make people excited or shocked | C1
+p_jainism | Jainism | religion:耆那教=印度宗教
+c_unsolved-mystery | unsolved mystery | adj+n | 未解之谜
+hz_w025295.1 | triumphantly | 简体 得意洋洋地, 胜利地 | 繁体 得意洋洋地, 勝利地
+hz_w015670.2 | schizophrenic | 简体 精神分裂症患者 | 繁体 精神分裂症患者
+w238404 | rehospitalize | v.再住院 [domain:医学]
+c_earn-a-commission | earn a commission | v+n | 赚取佣金
+hz_w025172.1 | houseboat | 简体 船屋, 水上住家 | 繁体 船屋, 水上住家
+p_zhivago | Zhivago | work:日瓦戈=日瓦戈医生主人公
+c_working-relationship | working relationship | n+n | 工作关系
+ph_district-nurse | district nurse | compound | n.社区护士 = a nurse who visits sick people at home [uk] | C1
+w044034 | radionuclide | n.放射性核素 = a radioactive form of an element [domain:物理] | US ˌreɪdioʊˈnuklaɪd | UK ˌreɪdiəʊˈnjuːklaɪd | ra·di·o·nu·clide | C2 | family: nuclide
+w005338 | orchestra | n.管弦乐队, 乐团 = a large group of musicians playing together ; n.正厅前排, 乐池 = the seats nearest the stage in a theatre [us] | US ˈɔrkəstrə | UK ˈɔːkɪstrə | or·ches·tra | B1 | family: orchestral, orchestrate, orchestration
+w159670 | epapillate | adj.无乳头的 [domain:生物]
+ex_w000560.4 | project | THIS SENSE v.投射, 放映 = to show an image on a screen | all senses: 1:n.项目, 工程, 计划 ; 2:n.课题, 作业 ; 3:v.预计, 推算 ; 4:v.投射, 放映 | The teacher projected the photos onto the wall. | 老师把照片投射到墙上。
+w250103 | sphagnous | adj.泥炭藓的 [domain:植物]
+c_blame-sb-for-sth | blame sb for sth | v+prep | 因某事责怪某人
+c_a-loaded-gun | a loaded gun | adj+n | 上膛的枪
+ph_control-group | control group | compound | n.对照组 = a group not given treatment in an experiment | B2
+p_denali | Denali | place:迪纳利=北美最高峰
+p_uighur | Uighur | people:维吾尔族=中国新疆民族
+c_tax-incentive | tax incentive | n+n | 税收优惠
+w200830 | mezerein | n.瑞香素 [domain:化学]
+ph_collision-course | collision course | idiom | n.相撞航线, 冲突的趋势 = a direction likely to end in a crash or conflict | C1
+c_highly-likely | highly likely | adv+adj | 很可能
+ph_flower-girl | flower girl | compound | n.花童 = a girl who carries flowers at a wedding | C1
+p_islay | Islay | place:艾莱岛=苏格兰岛屿
+w157795 | emarginated | adj.凹缘的 [domain:生物]
+w211079 | normovolemia | n.血容量正常 [domain:医学]
+c_deadly-serious | deadly serious | adv+adj | 极其严肃
+c_related-to-sth | related to sth | v+prep | 与…有关
+p_somalian | Somalian | people:索马里人
+hz_w041668.1 | encumbrance | 简体 负担, 累赘 | 繁体 負擔, 累贅
+ph_hang-up | hang up | phrv | v.挂断电话 = to end a phone call ; v.挂起 = to put sth on a hook | A2
+hz_w006727.2 | exploit | 简体 开发, 利用 | 繁体 開發, 利用
+ph_make-heavy-weather-of-sth | make heavy weather of sth | idiom | v.小题大做, 把事情搞复杂 = to make a task harder than needed [uk] | C1
+w152485 | dimethylphenanthrene | n.二甲基菲 [domain:化学]
+w000832 | crazy | adj.疯狂的, 发疯的, 疯了的 = mentally unbalanced or acting wildly [informal] ; adj.荒唐的, 愚蠢的 = very foolish or unreasonable [informal] ; adj.狂热的, 着迷的 = extremely enthusiastic about something or someone [informal] | US ˈkreɪzi | UK ˈkreɪzi | cra·zy | A2 | family: craze, crazily, craziness
+ph_engine-driver | engine driver | compound | n.火车司机 = a person who drives a train [uk] | B2
+w241209 | ropily | adv.黏稠地
+w051366 | tractate | n.论文, 专著 = a formal written treatise [formal] | US ˈtrækteɪt | UK ˈtrækteɪt | trac·tate | C2 | family: tract
+hz_w246447.1 | sgabello | 简体 意大利木凳 | 繁体 義大利木凳
+x_dinos | dinos | n.恐龙 [informal]
+p_gardai | Gardai | org:爱尔兰警方=盖尔语称呼
+ex_w000161.1 | always | THIS SENSE adv.总是, 一直, 永远 = at all times; forever | all senses: 1:adv.总是, 一直, 永远 | She always walks to school. | 她总是步行去上学。
+p_abdelkader | Abdelkader | person:阿卜杜勒卡德尔=阿拉伯男子名
+ex_w000033.2 | they | THIS SENSE pron.人们, 有人 = people in general | all senses: 1:pron.他们, 她们, 它们 ; 2:pron.人们, 有人 | They say it will snow tomorrow. | 人们说明天会下雪。
+ex_w000411.2 | past | THIS SENSE n.过去, 往昔, 往事 = the time before now | all senses: 1:adj.过去的, 以往的 ; 2:n.过去, 往昔, 往事 ; 3:prep.经过, 越过 ; 4:prep.晚于, 超过 ; 5:adv.经过, 过去 | In the past, people wrote letters by hand. | 过去，人们用手写信。
+c_fill-a-gap | fill a gap | v+n | 填补空白
+ex_w016883.3 | mime | THIS SENSE v.模仿, 对口型假唱 = to act out without speaking or pretend to sing | all senses: 1:n.哑剧, 默剧 ; 2:n.哑剧演员 ; 3:v.模仿, 对口型假唱 | The singer was accused of miming on TV. | 这位歌手被指在电视上假唱。
+c_build-momentum | build momentum | v+n | 积聚势头
+w110627 | histiocyte | n.组织细胞 = a type of immune cell in tissue [domain:医学] | US ˈhɪstioʊˌsaɪt | UK ˈhɪstiəʊsaɪt | his·ti·o·cyte | C2 | family: -
