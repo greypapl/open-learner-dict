@@ -232,13 +232,13 @@ gloss_lower = {r['word'].lower() for r in out_gloss}
 # ---------- 专名层 ----------
 # 专名层审核（scripts/proper_review.py 生成：work/merged/proper-review.jsonl）
 PN, PDROP, PDISP, PDEL, PREV = {}, set(), {}, set(), set()
-if (M / 'proper-review.jsonl').exists():
-    for x in load('proper-review.jsonl'):
+for pf in sorted(M.glob('proper-review*.jsonl')):  # 按轮次：proper-review.jsonl、proper-review2.jsonl…，后一轮覆盖前一轮
+    for x in load(pf.name):
         if 'key' in x: PN[x['key']] = x
         elif 'drop' in x: PDROP.add(x['drop'])
         elif 'display' in x: PDISP[x['display']] = x['value']
         elif 'delete' in x: PDEL.add(x['delete'])
-        else: PREV = set(x['reviewed_ids'])
+        else: PREV |= set(x['reviewed_ids'])
 out_proper, n_pused = [], 0
 for r in load('proper.jsonl'):
     if r['word'] in core_lower:
@@ -247,7 +247,7 @@ for r in load('proper.jsonl'):
     if pid in PDEL:
         n_pused += 1; continue
     names = []
-    for i in range(1, len(r['names']) + 2):
+    for i in range(1, len(r['names']) + 4):  # 每轮审核可各新增一个名字
         k = f'{pid}#{i}'
         if k in PDROP:
             n_pused += 1; continue

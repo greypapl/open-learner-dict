@@ -16,7 +16,8 @@ import json, re, sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-D, M = ROOT / 'work/proper-review', ROOT / 'work/merged'
+RND = sys.argv[sys.argv.index('--round') + 1] if '--round' in sys.argv else ''  # 第二轮：--round 2 → work/proper-review2、proper-review2.jsonl
+D, M = ROOT / f'work/proper-review{RND}', ROOT / 'work/merged'
 TYPES = {'person', 'place', 'brand', 'org', 'abbr', 'work', 'people', 'religion', 'event', 'other'}
 BAD = re.compile(r'[()（）；;。\[\]|]')
 
@@ -95,7 +96,7 @@ if cmd == 'make':
     D.mkdir(parents=True, exist_ok=True)
     ver, size = arg('--version', '0.10.0'), arg('--size', 1500)
     if list(D.glob('P*.in.txt')):
-        sys.exit('已经切过块了；要重切先删掉 work/proper-review/P*.in.txt')
+        sys.exit(f'已经切过块了；要重切先删掉 {D}/P*.in.txt')
     chunks, cur = [], []
     for r in (json.loads(l) for l in open(ROOT / 'release' / ver / 'jsonl/proper.jsonl', encoding='utf-8')):
         if len(cur) >= size:
@@ -124,11 +125,11 @@ elif cmd in ('check', 'apply'):
     if cmd == 'apply':
         if pend or bad:
             sys.exit('还有未完成或格式问题')
-        with open(M / 'proper-review.jsonl', 'w', encoding='utf-8', newline='\n') as f:
+        with open(M / f'proper-review{RND}.jsonl', 'w', encoding='utf-8', newline='\n') as f:
             for k, v in sorted(allr['name'].items()):
                 f.write(json.dumps({'key': k, **v}, ensure_ascii=False) + '\n')
             for t in ('drop', 'display', 'delete'):
                 for k, v in sorted(allr[t].items()):
                     f.write(json.dumps({t: k, 'value': v}, ensure_ascii=False) + '\n')
             f.write(json.dumps({'reviewed_ids': sorted(reviewed)}, ensure_ascii=False) + '\n')
-        print(f'work/merged/proper-review.jsonl 已写，审过 {len(reviewed)} 个词条')
+        print(f'work/merged/proper-review{RND}.jsonl 已写，审过 {len(reviewed)} 个词条')
