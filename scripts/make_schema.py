@@ -46,7 +46,7 @@ SCHEMAS = {
         'id': {'type': 'string', 'pattern': r'^p_'}, 'word': S, 'display': S, 'layer': {'enum': ['proper']}, 'zipf': N,
         'names': {'type': 'array', 'items': obj({
             'type': {'enum': ['place', 'person', 'brand', 'org', 'abbr', 'work', 'people', 'religion', 'event', 'other']}, 'zh': S, 'zh_hant': S, 'note': S, 'note_hant': S})},
-        'also_common': B, 'confidence': {'enum': ['low']}, 'reviewed': B, 'meta': META}),
+        'also_common': B, 'confidence': {'enum': ['low', 'medium']}, 'reviewed': B, 'meta': META}),
     'phrases': obj({
         'id': {'type': 'string', 'pattern': r'^ph_'}, 'phrase': S, 'layer': {'enum': ['phrase']}, 'type': {'enum': ['phrv', 'idiom', 'phrase', 'compound']},
         'senses': {'type': 'array', 'items': obj({'sense_id': S, 'pos': {'enum': POS}, 'zh': S, 'zh_hant': S, 'en_short': S, 'register': REG})},

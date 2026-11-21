@@ -1,0 +1,62 @@
+p_ewok#1 | work | 伊沃克人 | 星球大战种族 | 伊渥克人
+p_kraftwerk#1 | org | 发电站乐队 | 德国电子乐队 | 發電廠樂團
+p_nazarbayev#1 | person | 纳扎尔巴耶夫 | 哈萨克斯坦前总统 | 納札巴耶夫
+p_ohara | display | O'Hara
+p_qaddafi#1 | person | 卡扎菲 | 利比亚前领导人 | 格達費
+p_speedos | delete | plural of Speedo, not a separate name
+p_amun#1 | person | 阿蒙 | 古埃及神 | 阿蒙
+p_jocasta#1 | person | 伊俄卡斯忒 | 希腊神话王后 | 伊俄卡斯忒
+p_kasabian#1 | org | 卡萨比安 | 英国摇滚乐队 | 卡薩比安
+p_lanvin#1 | brand | 浪凡 | 法国时装品牌 | 浪凡
+p_whitesnake#1 | org | 白蛇乐队 | 英国摇滚乐队 | 白蛇樂隊
+p_zawahiri#1 | person | 扎瓦希里 | 基地组织前头目 | 札瓦希里
+p_soas#1 | org | 亚非学院 | 伦敦大学成员学院 | 亞非學院
+p_beersheba#1 | place | 贝尔谢巴 | 以色列城市 | 別是巴
+p_cpas | delete | plural of CPA, not a separate name
+p_hephaestus#1 | person | 赫菲斯托斯 | 希腊火神 | 赫菲斯托斯
+p_methuselah#1 | person | 玛土撒拉 | 圣经人物 | 瑪土撒拉
+p_thanatos#1 | person | 塔那托斯 | 希腊死神 | 塔納托斯
+p_sandiego#1 | place | 圣迭戈 | 美国加州城市 | 聖地牙哥
+p_benes#1 | person | 贝奈斯 | 捷克斯洛伐克前总统 | 貝奈斯
+p_byrds#1 | org | 飞鸟乐队 | 美国摇滚乐队 | 飛鳥樂隊
+p_sarmiento#1 | person | 萨米恩托 | 阿根廷前总统 | 薩米恩托
+p_wotan#1 | person | 沃坦 | 日耳曼神话主神 | 沃坦
+p_zarqawi#1 | person | 扎卡维 | 伊拉克基地组织前头目 | 扎卡維
+p_cronus#1 | person | 克洛诺斯 | 希腊神话泰坦神 | 克洛諾斯
+p_hathor#1 | person | 哈托尔 | 古埃及女神 | 哈托爾
+p_macbooks | delete | plural of MacBook, not a separate name
+p_pkc#1 | abbr | 蛋白激酶C | 生物化学术语 | 蛋白激酶C
+p_skrtel#1 | person | 斯克特尔 | 斯洛伐克足球运动员 | 斯克特爾
+p_moncler#1 | brand | 盟可睐 | 意大利服装品牌 | 盟可睞
+p_avebury#1 | place | 埃夫伯里 | 英国史前巨石圈 | 埃夫伯里
+p_iuds | delete | plural of IUD, not a separate name
+p_kpis | delete | plural of KPI, not a separate name
+p_dslrs | delete | plural of DSLR, not a separate name
+p_onerepublic#1 | org | 共和世代 | 美国乐队 | 共和世代
+p_sihanouk#1 | person | 西哈努克 | 柬埔寨前国王 | 施亞努
+p_typhon#1 | person | 提丰 | 希腊神话怪物 | 提豐
+p_woden#1 | person | 沃登 | 盎格鲁撒克逊神 | 沃登
+p_apollon#1 | person | 阿波罗 | 希腊神话神祇 | 阿波羅
+p_gambon#1 | person | 刚本 | 英国演员 | 坎邦
+p_pokemons | delete | plural of Pokemon, not a separate name
+p_quetzalcoatl#1 | person | 羽蛇神 | 阿兹特克神祇 | 羽蛇神
+p_creon#1 | person | 克瑞翁 | 希腊神话人物 | 克瑞翁
+p_grable#1 | person | 格拉布尔 | 美国女演员 | 葛萊寶
+p_hestia#1 | person | 赫斯提亚 | 希腊灶神 | 赫斯提亞
+p_horcruxes | delete | plural of Horcrux, not a separate name
+p_merz#1 | person | 默茨 | 德国总理 | 梅爾茨
+p_niebuhr#1 | person | 尼布尔 | 美国神学家 | 尼布爾
+p_b-ed | display | B.Ed.
+p_bellona#1 | person | 柏洛娜 | 罗马战争女神 | 柏洛娜
+p_d-d-s | display | D.D.S.
+p_ed-d | display | Ed.D.
+p_mithras#1 | person | 密特拉 | 波斯罗马神祇 | 密特拉
+p_o-b-e | display | O.B.E.
+p_obrador#1 | person | 奥夫拉多尔 | 墨西哥前总统 | 奧夫拉多爾
+p_applebees | display | Applebee's
+p_fugees#1 | org | 流亡者合唱团 | 美国嘻哈组合 | 流亡者合唱團
+p_g-o-p | display | G.O.P.
+p_heimdall#1 | person | 海姆达尔 | 北欧神话神明 | 海姆達爾
+p_keble#1 | org | 基布尔学院 | 牛津大学学院 | 基布爾學院
+p_rsfsr#1 | abbr | 俄罗斯苏维埃联邦社会主义共和国 | 苏联加盟共和国 | 俄羅斯蘇維埃聯邦社會主義共和國
+p_tiesto#1 | person | 铁斯托 | 荷兰电子音乐人 | 提雅斯多

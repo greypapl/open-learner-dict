@@ -1,0 +1,46 @@
+p_uefa#1 | org | 欧洲足联 | 欧洲足球协会联盟 | 歐洲足聯
+p_buchanan#1 | person | 布坎南 | 苏格兰姓氏 | 布坎南
+p_buchanan#2 | person | 布坎南 | 美国第15任总统 | 布坎南
+p_toledo#1 | place | 托莱多 | 西班牙及美国城市 | 托萊多
+p_ethiopian#1 | people | 埃塞俄比亚人 | 埃塞俄比亚国民 | 衣索比亞人
+p_jurassic#1 | other | 侏罗纪 | 地质年代 | 侏羅紀
+p_jurassic#2 | work | 侏罗纪公园 | 系列电影 | 侏羅紀公園
+p_overwatch#1 | work | 守望先锋 | 暴雪游戏 | 鬥陣特攻
+p_u-n | display | U.N.
+p_ajax#2 | person | 埃阿斯 | 希腊神话英雄 | 埃阿斯
+p_b-a | display | B.A.
+p_iphones | delete | plural of iPhone, not a separate name
+p_achilles#1 | person | 阿喀琉斯 | 希腊神话英雄 | 阿基里斯
+p_marcos#1 | person | 马科斯 | 西语姓氏 | 馬可仕
+p_ngos | delete | plural of NGO, not a separate name
+p_oecd#1 | org | 经合组织 | 经济合作与发展组织 | 經濟合作暨發展組織
+p_trudeau#1 | person | 特鲁多 | 加拿大前总理 | 杜魯道
+p_merlin#1 | person | 梅林 | 亚瑟王传说巫师 | 梅林
+p_n-j | display | N.J.
+p_jeanne#1 | person | 让娜 | 法语女子名 | 讓娜
+p_darius#2 | person | 达里厄斯 | 英语男子名 | 達瑞斯
+p_pandora#1 | person | 潘多拉 | 希腊神话人物 | 潘多拉
+p_a-d | display | A.D.
+p_britney#1 | person | 布兰妮 | 英语女子名 | 布蘭妮
+p_j-d | display | J.D.
+p_mcdonalds | display | McDonald's
+p_m-a | display | M.A.
+p_jenner#1 | person | 詹纳 | 英语姓氏 | 詹納
+p_n-c | display | N.C.
+p_lockheed#1 | brand | 洛克希德 | 美国航空航天企业 | 洛克希德
+p_dwayne#1 | person | 德韦恩 | 英语男子名 | 德韋恩
+p_a-k-a | display | a.k.a.
+p_b-s | display | B.S.
+p_s-c | display | S.C.
+p_fortnite#1 | work | 堡垒之夜 | 电子游戏 | 要塞英雄
+p_diablo#1 | work | 暗黑破坏神 | 暴雪游戏系列 | 暗黑破壞神
+p_taft#1 | person | 塔夫脱 | 美国前总统 | 塔虎脫
+p_gladstone#1 | person | 格莱斯顿 | 英国前首相 | 格萊斯頓
+p_marino#1 | person | 马里诺 | 意大利姓氏 | 馬里諾
+p_rudd#1 | person | 拉德 | 英语姓氏 | 拉德
+p_rudd#2 | person | 陆克文 | 澳大利亚前总理 | 陸克文
+p_metallica#1 | org | 金属乐队 | 美国摇滚乐队 | 金屬製品樂團
+p_johansson#1 | person | 约翰松 | 瑞典姓氏 | 喬韓森
+p_kali#1 | religion | 迦梨 | 印度教女神 | 迦梨
+p_caleb#1 | person | 凯莱布 | 英语男子名 | 凱勒布
+p_stacy#1 | person | 斯泰西 | 英语女子名 | 史黛西

@@ -1,0 +1,61 @@
+p_igm#1 | abbr | 免疫球蛋白M | - | 免疫球蛋白M
+p_rehnquist#1 | person | 伦奎斯特 | 美国前首席大法官 | 倫奎斯特
+p_saraswati#1 | person | 萨拉斯瓦蒂 | 印度教智慧女神 | 薩拉斯瓦蒂
+p_vivekananda#1 | person | 辨喜 | 印度宗教家 | 辨喜
+p_wolfenstein#1 | work | 德军总部 | 游戏系列 | 德軍總部
+p_cadillacs | delete | plural of Cadillac, not a separate name
+p_culloden#1 | event | 卡洛登战役 | 1746年苏格兰战役 | 卡洛登戰役
+p_jvm#1 | abbr | Java虚拟机 | - | Java虛擬機
+p_levante#1 | place | 莱万特 | 西班牙东部沿海地区 | 萊萬特
+p_levante#2 | org | 莱万特 | 西班牙足球俱乐部 | 萊萬特
+p_peron#1 | person | 庇隆 | 阿根廷前总统 | 裴隆
+p_sontag#1 | person | 桑塔格 | 美国作家 | 桑塔格
+p_thoth#1 | person | 托特 | 古埃及智慧之神 | 托特
+p_tiamat#1 | person | 提亚马特 | 巴比伦神话女神 | 提亞馬特
+p_aleksander#1 | person | 亚历山大 | 波兰男子名 | 亞歷山大
+p_bmws | delete | plural of BMW, not a separate name
+p_chiquita#1 | brand | 金吉达 | 美国水果品牌 | 金吉達
+p_piaget#2 | brand | 伯爵 | 瑞士钟表品牌 | 伯爵
+p_hbv#1 | abbr | 乙型肝炎病毒 | - | B型肝炎病毒
+p_phoebus#1 | person | 福玻斯 | 阿波罗的别名 | 福玻斯
+p_pollux#1 | person | 波吕克斯 | 希腊神话人物 | 波呂克斯
+p_pollux#2 | other | 北河三 | 双子座恒星 | 北河三
+p_nephi#1 | person | 尼腓 | 摩尔门经人物 | 尼腓
+p_baloo#1 | work | 巴鲁 | 丛林之书角色 | 巴魯
+p_nasrallah#1 | person | 纳斯鲁拉 | 黎巴嫩真主党前领导人 | 納斯魯拉
+p_ravana#1 | person | 罗波那 | 罗摩衍那魔王 | 羅波那
+p_westlife#1 | org | 西城男孩 | 爱尔兰男团 | 西城男孩
+p_eurydice#1 | person | 欧律狄刻 | 希腊神话人物 | 歐律狄刻
+p_nsync#1 | org | 超级男孩 | 美国男团 | 超級男孩
+p_priam#1 | person | 普里阿摩斯 | 特洛伊国王 | 普里阿摩斯
+p_abyssinian#1 | people | 阿比西尼亚人 | 埃塞俄比亚人旧称 | 阿比西尼亞人
+p_pygmalion#1 | person | 皮格马利翁 | 希腊神话人物 | 皮格馬利翁
+p_pygmalion#2 | work | 卖花女 | 萧伯纳戏剧 | 賣花女
+p_rudra#1 | person | 楼陀罗 | 吠陀神祇 | 樓陀羅
+p_arashi#1 | org | 岚 | 日本偶像组合 | 嵐
+p_cuervo#1 | brand | 豪帅快活 | 龙舌兰酒品牌 | 豪帥快活
+p_navalny#1 | person | 纳瓦尔尼 | 已故俄罗斯反对派领袖 | 納瓦尼
+p_warframe#1 | work | 星际战甲 | 电子游戏 | 星際戰甲
+p_campbells | display | Campbell's
+p_fahd#1 | person | 法赫德 | 沙特前国王 | 法赫德
+p_raipur#1 | place | 赖布尔 | 印度城市 | 賴布爾
+p_rammstein#1 | org | 德国战车 | 德国乐队 | 德國戰車
+p_rammstein#2 | place | 拉姆施泰因 | 德国美军空军基地 | 拉姆施泰因
+p_porsches | delete | plural of Porsche, not a separate name
+p_simcity#1 | work | 模拟城市 | 电子游戏 | 模擬城市
+p_madero#1 | person | 马德罗 | 墨西哥前总统 | 馬德羅
+p_hecate#1 | person | 赫卡特 | 希腊女神 | 赫卡特
+p_khashoggi#1 | person | 卡舒吉 | 沙特记者 | 哈紹吉
+p_ll-m | display | LL.M.
+p_carranza#1 | person | 卡兰萨 | 墨西哥前总统 | 卡蘭薩
+p_marduk#1 | person | 马尔杜克 | 巴比伦主神 | 馬爾杜克
+p_mobutu#1 | person | 蒙博托 | 扎伊尔前总统 | 蒙博托
+p_phobos#2 | person | 福波斯 | 希腊恐惧之神 | 福波斯
+p_rivlin#1 | person | 里夫林 | 以色列前总统 | 李佛林
+p_stoltenberg#1 | person | 斯托尔滕贝格 | 北约前秘书长 | 史托騰柏格
+p_tsipras#1 | person | 齐普拉斯 | 希腊前总理 | 齊普拉斯
+p_draghi#1 | person | 德拉吉 | 意大利前总理 | 德拉吉
+p_yugioh | display | Yu-Gi-Oh!
+p_ashkelon#1 | place | 阿什凯隆 | 以色列城市 | 亞實基倫
+p_klobuchar#1 | person | 克洛布查尔 | 美国参议员 | 克羅布查
+p_mpumalanga#1 | place | 姆普马兰加 | 南非省份 | 姆普馬蘭加

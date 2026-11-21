@@ -1,0 +1,47 @@
+p_cupid#1 | person | 丘比特 | 罗马爱神 | 丘比特
+p_cleopatra#1 | person | 克娄巴特拉 | 古埃及女王 | 克麗奧佩脫拉
+p_github#1 | brand | GitHub | 微软旗下代码托管平台 | GitHub
+p_andromeda#2 | person | 安德洛墨达 | 希腊神话人物 | 安德洛墨達
+p_dorian#1 | person | 道林 | 英语男子名 | 道林
+p_juno#1 | person | 朱诺 | 罗马女神 | 朱諾
+p_abba#1 | org | 阿巴乐队 | 瑞典流行乐队 | 阿巴合唱團
+p_heisman#1 | other | 海斯曼奖 | 美式橄榄球大学奖项 | 海斯曼獎
+p_isps | delete | plural of ISP, not a separate name
+p_meps | delete | plural of MEP, not a separate name
+p_ipads | delete | plural of iPad, not a separate name
+p_macs | delete | plural of Mac, not a separate name
+p_smes | delete | plural of SME, not a separate name
+p_supergirl#1 | work | 超级少女 | 美国漫画人物 | 超級少女
+p_micah#1 | person | 弥迦 | 圣经先知 | 彌迦
+p_prometheus#1 | person | 普罗米修斯 | 希腊神话神祇 | 普羅米修斯
+p_aguero#1 | person | 阿圭罗 | 阿根廷足球运动员 | 阿奎羅
+p_burberry#1 | brand | 博柏利 | 英国时装品牌 | 巴寶莉
+p_juliette#1 | person | 朱丽叶 | 法语女子名 | 茱麗葉
+p_medusa#1 | person | 美杜莎 | 希腊神话女妖 | 美杜莎
+p_poseidon#1 | person | 波塞冬 | 希腊海神 | 波賽頓
+p_ares#1 | person | 阿瑞斯 | 希腊战神 | 阿瑞斯
+p_camaro#1 | brand | 科迈罗 | 雪佛兰跑车 | 卡馬羅
+p_enoch#1 | person | 以诺 | 圣经人物 | 以諾
+p_champaign#1 | place | 香槟 | 美国伊利诺伊州城市 | 香檳
+p_erwin#1 | person | 埃尔温 | 德语男子名 | 埃爾溫
+p_icloud#1 | brand | iCloud | 苹果云服务 | iCloud
+p_imax#1 | brand | IMAX | 影院放映格式 | IMAX
+p_umar#1 | person | 欧麦尔 | 阿拉伯男子名 | 歐麥爾
+p_hailey#1 | person | 海莉 | 英语女子名 | 海莉
+p_argus#1 | person | 阿耳戈斯 | 希腊神话百眼巨人 | 阿古斯
+p_artemis#1 | person | 阿尔忒弥斯 | 希腊女神 | 阿提米絲
+p_coldplay#1 | org | 酷玩乐队 | 英国摇滚乐队 | 酷玩樂團
+p_qin#2 | other | 秦朝 | 中国古代王朝 | 秦朝
+p_radiohead#1 | org | 电台司令 | 英国摇滚乐队 | 電臺司令
+p_fema#1 | org | 联邦紧急事务管理署 | 美国机构 | 聯邦緊急事務管理署
+p_blondie#1 | org | 金发女郎乐队 | 美国摇滚乐队 | 金髮女郎樂團
+p_gaia#1 | person | 盖亚 | 希腊大地女神 | 蓋亞
+p_salazar#1 | person | 萨拉萨尔 | 西语姓氏 | 薩拉薩爾
+p_simeon#1 | person | 西缅 | 圣经人物 | 西緬
+p_janus#1 | person | 雅努斯 | 罗马神话门神 | 雅努斯
+p_macos#1 | brand | macOS | 苹果电脑操作系统 | macOS
+p_osiris#1 | person | 奥西里斯 | 埃及冥神 | 奧西里斯
+p_ephraim#1 | person | 以法莲 | 圣经人物 | 以法蓮
+p_eros#1 | person | 厄洛斯 | 希腊爱神 | 厄洛斯
+p_minerva#1 | person | 密涅瓦 | 罗马智慧女神 | 密涅瓦
+p_superbowl | display | Super Bowl

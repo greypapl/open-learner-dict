@@ -1,0 +1,35 @@
+p_cowper#1 | person | 考珀 | 英国诗人 | 考珀
+p_guetta#1 | person | 库塔 | 法国电音制作人 | 庫塔
+p_trt#2 | org | 土耳其广播电视公司 | 土耳其国家广播机构 | 土耳其廣播電視公司
+p_cgt#2 | org | 法国总工会 | 法国工会组织 | 法國總工會
+p_hellman#1 | person | 海尔曼 | 美国剧作家 | 海爾曼
+p_ll-b | display | LL.B.
+p_oleksandr#1 | person | 奥列克桑德尔 | 乌克兰男子名 | 奧列克桑德爾
+p_microsd#1 | brand | microSD卡 | 存储卡规格 | microSD卡
+p_gouda#2 | other | 高达奶酪 | 荷兰奶酪 | 高達起司
+p_sassoon#2 | brand | 沙宣 | 美发品牌 | 沙宣
+p_atalanta#2 | person | 阿塔兰忒 | 希腊神话女猎手 | 阿塔蘭忒
+p_palmdale#1 | place | 帕姆代尔 | 美国加州城市 | 帕姆代爾
+p_christiansen#1 | person | 克里斯蒂安森 | 丹麦挪威姓氏 | 克里斯蒂安森
+p_ganymede#1 | other | 木卫三 | 木星最大卫星 | 木衛三
+p_ganymede#2 | person | 伽倪墨得斯 | 希腊神话美少年 | 伽倪墨得斯
+p_tsonga#1 | person | 特松加 | 法国网球运动员 | 松加
+p_tyndall#1 | person | 丁达尔 | 英国物理学家 | 廷得耳
+p_mosfet#1 | abbr | 金属氧化物半导体场效应晶体管 | 半导体器件 | 金屬氧化物半導體場效電晶體
+p_paramore#1 | org | 帕拉摩尔 | 美国摇滚乐队 | 帕拉摩爾
+p_duda#1 | person | 杜达 | 波兰前总统 | 杜達
+p_guwahati#1 | place | 古瓦哈蒂 | 印度城市 | 古瓦哈提
+p_asperger#1 | person | 阿斯伯格 | 奥地利儿科医生 | 亞斯伯格
+p_m-i-t | display | M.I.T.
+p_w-va | display | W.Va.
+p_chronos#1 | religion | 柯罗诺斯 | 希腊神话时间神 | 柯羅諾斯
+p_kenzo#1 | brand | 凯卓 | 法国时装品牌 | 高田賢三
+p_m-b-a | display | M.B.A.
+p_u-s-s-r | display | U.S.S.R.
+p_casimir#1 | person | 卡西米尔 | 欧洲男子名 | 卡西米爾
+p_mahama#1 | person | 马哈马 | 加纳总统 | 馬哈馬
+p_orban#1 | person | 欧尔班 | 匈牙利政治家 | 奧班
+p_barbies | delete | plural of Barbie, not a separate name
+p_soundgarden#1 | org | 音速花园 | 美国摇滚乐队 | 音速花園
+p_doraemon#1 | work | 哆啦A梦 | 日本动漫角色 | 哆啦A夢
+p_selfridges#1 | brand | 塞尔福里奇 | 英国百货公司 | 塞爾福里奇

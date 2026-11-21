@@ -1,0 +1,66 @@
+p_kravitz#1 | person | 克拉维茨 | 美国歌手 | 克羅維茲
+p_legos | delete | plural of Lego, not a separate name
+p_medea#1 | person | 美狄亚 | 希腊神话人物 | 美狄亞
+p_minotaur#1 | person | 弥诺陶洛斯 | 希腊神话牛头怪 | 米諾陶洛斯
+p_nilsson#1 | person | 尼尔松 | 瑞典姓氏 | 尼爾森
+p_buffon#2 | person | 布丰 | 法国博物学家 | 布豐
+p_kenobi#1 | work | 克诺比 | 星球大战角色欧比旺 | 肯諾比
+p_nyx#1 | person | 倪克斯 | 希腊神话夜之女神 | 倪克斯
+p_perseus#1 | person | 珀尔修斯 | 希腊神话英雄 | 柏修斯
+p_proteus#1 | person | 普罗透斯 | 希腊神话海神 | 普羅透斯
+p_mmorpg#1 | abbr | 大型多人在线角色扮演游戏 | - | 大型多人線上角色扮演遊戲
+p_oreos | delete | plural of Oreo, not a separate name
+p_salome#1 | person | 莎乐美 | 圣经人物 | 莎樂美
+p_theseus#1 | person | 忒修斯 | 希腊神话英雄 | 忒修斯
+p_durga#1 | person | 杜尔伽 | 印度教女神 | 杜爾伽
+p_ramones#1 | org | 雷蒙斯乐队 | 美国朋克乐队 | 雷蒙斯合唱團
+p_chewbacca#1 | work | 丘巴卡 | 星球大战角色 | 秋巴卡
+p_dbz#1 | abbr | 龙珠Z | 日本动漫 | 七龍珠Z
+p_fortuna#1 | person | 福尔图娜 | 罗马幸运女神 | 福爾圖娜
+p_gretel#1 | work | 格蕾特 | 格林童话角色 | 葛麗特
+p_holi#1 | event | 洒红节 | 印度教节日 | 灑紅節
+p_lavigne#1 | person | 拉维尼 | 法语姓氏 | 拉維尼
+p_parvati#1 | person | 帕尔瓦蒂 | 印度教女神 | 帕爾瓦蒂
+p_anubis#1 | person | 阿努比斯 | 古埃及神 | 阿努比斯
+p_somaliland#1 | place | 索马里兰 | 东非地区 | 索馬利蘭
+p_hanuman#1 | person | 哈奴曼 | 印度教神猴 | 哈奴曼
+p_lowes | display | Lowe's
+p_m-sc | display | M.Sc.
+p_morpheus#1 | person | 摩耳甫斯 | 希腊梦神 | 摩耳甫斯
+p_clio#1 | person | 克利俄 | 希腊历史女神 | 克利俄
+p_ganesha#1 | person | 象头神 | 印度教神 | 象頭神
+p_reichstag#1 | place | 德国国会大厦 | 柏林议会建筑 | 德國國會大廈
+p_bolshoi#1 | org | 莫斯科大剧院 | 俄罗斯剧院 | 莫斯科大劇院
+p_kronos#1 | person | 克洛诺斯 | 希腊神话泰坦神 | 克洛諾斯
+p_helios#1 | person | 赫利俄斯 | 希腊太阳神 | 赫利俄斯
+p_pham#1 | person | 范 | 越南姓氏 | 范
+p_dionysus#1 | person | 狄俄尼索斯 | 希腊酒神 | 戴奧尼索斯
+p_nehemiah#1 | person | 尼希米 | 圣经人物 | 尼希米
+p_hodor#1 | work | 阿多 | 《权力的游戏》人物 | 阿多
+p_kerber#1 | person | 科贝尔 | 德国网球运动员 | 柯貝爾
+p_nimrod#1 | person | 宁录 | 圣经中的猎人 | 寧錄
+p_tyr#1 | person | 提尔 | 北欧战神 | 提爾
+p_persephone#1 | person | 珀耳塞福涅 | 希腊神话冥后 | 波瑟芬妮
+p_vassar#1 | org | 瓦萨学院 | 美国文理学院 | 瓦薩學院
+p_breyer#1 | person | 布雷耶 | 美国前大法官 | 布雷耶
+p_chiron#1 | person | 喀戎 | 希腊神话半人马 | 喀戎
+p_hezekiah#1 | person | 希西家 | 圣经中犹大国王 | 希西家
+p_levis | display | Levi's
+p_rubinstein#1 | person | 鲁宾斯坦 | 犹太姓氏 | 魯賓斯坦
+p_hagar#1 | person | 夏甲 | 圣经人物 | 夏甲
+p_johnsons | delete | plural of Johnson, not a separate name
+p_kennedys#1 | person | 肯尼迪家族 | 美国政治家族 | 甘迺迪家族
+p_uriel#1 | person | 乌列 | 大天使名 | 烏列
+p_vesta#1 | person | 维斯塔 | 罗马灶神 | 維斯塔
+p_yama#1 | person | 阎摩 | 印度教死神 | 閻摩
+p_ariadne#1 | person | 阿里阿德涅 | 希腊神话人物 | 阿里阿德涅
+p_arjuna#1 | person | 阿周那 | 印度史诗人物 | 阿周那
+p_daedalus#1 | person | 代达罗斯 | 希腊神话工匠 | 代達羅斯
+p_esau#1 | person | 以扫 | 圣经人物 | 以掃
+p_harrods#1 | brand | 哈罗德百货 | 伦敦百货公司 | 哈洛德百貨
+p_hosea#1 | person | 何西阿 | 圣经先知 | 何西阿
+p_uriah#1 | person | 乌利亚 | 圣经人物 | 烏利亞
+p_aeneas#1 | person | 埃涅阿斯 | 罗马神话英雄 | 埃涅阿斯
+p_chewie#1 | work | 丘巴卡 | 星球大战角色 | 秋巴卡
+p_stewie#1 | work | 斯图伊 | 恶搞之家角色 | 史都威
+p_denali#1 | place | 德纳里峰 | 北美最高峰 | 德納利峰

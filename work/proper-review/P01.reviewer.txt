@@ -1,0 +1,20 @@
+p_columbia#1 | place | 哥伦比亚 | 美国地名 | 哥倫比亞
+p_columbia#2 | org | 哥伦比亚大学 | 美国名校 | 哥倫比亞大學
+p_jean#2 | person | 让 | 法语男子名 | 尚
+p_robinson#1 | person | 罗宾逊 | 英语姓氏 | 羅賓森
+p_java#2 | brand | Java语言 | 编程语言 | Java語言
+p_grande#1 | person | 格兰德 | 意大利姓氏 | 格蘭德
+p_beatles#1 | org | 披头士 | 英国摇滚乐队 | 披頭四
+p_nobel#2 | other | 诺贝尔奖 | 国际奖项 | 諾貝爾獎
+p_elvis#2 | person | 猫王 | 美国摇滚歌手 | 貓王
+p_mccain#1 | person | 麦凯恩 | 美国已故参议员 | 麥凱恩
+p_sherlock#1 | person | 夏洛克 | 福尔摩斯的名字 | 夏洛克
+p_jupiter#1 | other | 木星 | 太阳系行星 | 木星
+p_laurie#1 | person | 劳里 | 英语人名 | 勞瑞
+p_assad#1 | person | 阿萨德 | 叙利亚前总统姓氏 | 阿薩德
+p_dow#2 | other | 道指 | 道琼斯工业平均指数 | 道瓊指數
+p_hercules#1 | person | 赫拉克勒斯 | 希腊神话英雄 | 海克力斯
+p_n-y | display | N.Y.
+p_zelda#1 | work | 塞尔达 | 任天堂游戏 | 薩爾達
+p_brittany#2 | person | 布列塔妮 | 英语女子名 | 布列塔妮
+p_hercules#1 | person | 海格力斯 | 罗马神话英雄 | 海克力斯

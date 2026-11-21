@@ -230,14 +230,41 @@ for r in gloss:
 gloss_lower = {r['word'].lower() for r in out_gloss}
 
 # ---------- 专名层 ----------
-out_proper = []
+# 专名层审核（scripts/proper_review.py 生成：work/merged/proper-review.jsonl）
+PN, PDROP, PDISP, PDEL, PREV = {}, set(), {}, set(), set()
+if (M / 'proper-review.jsonl').exists():
+    for x in load('proper-review.jsonl'):
+        if 'key' in x: PN[x['key']] = x
+        elif 'drop' in x: PDROP.add(x['drop'])
+        elif 'display' in x: PDISP[x['display']] = x['value']
+        elif 'delete' in x: PDEL.add(x['delete'])
+        else: PREV = set(x['reviewed_ids'])
+out_proper, n_pused = [], 0
 for r in load('proper.jsonl'):
     if r['word'] in core_lower:
         continue
-    out_proper.append({'id': 'p_' + slug(r['word']), 'word': r['word'], 'display': r['display'], 'layer': 'proper', 'zipf': r['zipf'],
-                       'names': [dict(n, zh_hant=hant(f"p_{slug(r['word'])}#{i}", n['zh']), note_hant=hant('', n['note']) if n['note'] else '')
-                                 for i, n in enumerate(r['names'], 1)], 'also_common': r['also_common'], 'confidence': 'low', 'reviewed': False,
-                       'meta': {'source': r['source']}})
+    pid = 'p_' + slug(r['word'])
+    if pid in PDEL:
+        n_pused += 1; continue
+    names = []
+    for i in range(1, len(r['names']) + 2):
+        k = f'{pid}#{i}'
+        if k in PDROP:
+            n_pused += 1; continue
+        if k in PN:  # 审核改过：台湾名用审核给的
+            x = PN[k]; n_pused += 1
+            names.append({'type': x['type'], 'zh': x['zh'], 'note': '' if x['note'] == '-' else x['note'], 'zh_hant': x['zh_hant']})
+        elif i <= len(r['names']):
+            n = r['names'][i - 1]
+            names.append(dict(n, zh_hant=hant(k, n['zh'])))
+    for n in names:
+        n['note_hant'] = hant('', n['note']) if n['note'] else ''
+    n_pused += pid in PDISP
+    out_proper.append({'id': pid, 'word': r['word'], 'display': PDISP.get(pid, r['display']), 'layer': 'proper', 'zipf': r['zipf'],
+                       'names': names, 'also_common': r['also_common'], 'confidence': 'low', 'reviewed': pid in PREV,  # 审过一轮但召回约 42%（抽检 26 条只改到 11 条），可信度仍标 low
+                       'meta': {'source': r['source'], **({'review': 'proper-review-v1'} if pid in PREV else {})}})
+if n_pused != len(PN) + len(PDROP) + len(PDISP) + len(PDEL):
+    die(f'专名审核有 {len(PN) + len(PDROP) + len(PDISP) + len(PDEL) - n_pused} 条没对上词条')
 if len({r['id'] for r in out_proper}) != len(out_proper):
     die('专名层 id 重复')
 
@@ -368,7 +395,7 @@ con.executemany('INSERT INTO examples VALUES(?,?,?,?,?)',
                 [(s['sense_id'], i, e['en'], e['zh'], e['zh_hant']) for r in core for s in r['senses'] for i, e in enumerate(s['examples'], 1)])
 con.executemany('INSERT INTO sense_relations VALUES(?,?,?,?)',
                 [(s['sense_id'], t, i, x) for r in core for s in r['senses'] for t in ('synonym', 'antonym') for i, x in enumerate(s[t + 's'], 1)])
-con.executemany('INSERT INTO proper VALUES(?,?,?,?,?,?)', [(r['id'], r['word'], r['display'], r['zipf'], int(r['also_common']), 'low') for r in out_proper])
+con.executemany('INSERT INTO proper VALUES(?,?,?,?,?,?)', [(r['id'], r['word'], r['display'], r['zipf'], int(r['also_common']), r['confidence']) for r in out_proper])
 con.executemany('INSERT INTO proper_names VALUES(?,?,?,?,?,?,?)', [(r['id'], i, n['type'], n['zh'], n['zh_hant'], n['note'], n['note_hant']) for r in out_proper for i, n in enumerate(r['names'], 1)])
 con.executemany('INSERT INTO phrases VALUES(?,?,?,?,?,?)', [(r['id'], r['phrase'], r['type'], r['level'], int(r['kid_safe']), r['confidence']) for r in out_phr])
 con.executemany('INSERT INTO phrase_senses VALUES(?,?,?,?,?,?,?,?)',

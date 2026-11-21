@@ -1,0 +1,48 @@
+p_tantalus#1 | person | 坦塔洛斯 | 希腊神话人物 | 坦塔洛斯
+p_tsmc#1 | abbr | 台积电 | 台湾积体电路制造公司 | 臺積電
+p_zadok#1 | person | 撒督 | 圣经祭司 | 撒督
+p_zoroaster#1 | person | 琐罗亚斯德 | 拜火教创始人 | 瑣羅亞斯德
+p_bruegel#1 | person | 勃鲁盖尔 | 尼德兰画家 | 布勒哲爾
+p_ecmo#1 | abbr | 体外膜肺氧合 | - | 葉克膜
+p_gardasil#1 | brand | 佳达修 | 人乳头瘤病毒疫苗 | 嘉喜
+p_tvxq#1 | org | 东方神起 | 韩国男子组合 | 東方神起
+p_u-a-e | display | U.A.E.
+p_vorster#1 | person | 沃斯特 | 南非前总理 | 沃斯特
+p_yondu#1 | work | 勇度 | 《银河护卫队》角色 | 勇度
+p_baphomet#1 | religion | 巴风特 | 神秘学象征 | 巴風特
+p_fatca#1 | abbr | 海外账户税收遵从法 | 美国法律 | 海外帳戶稅收遵從法
+p_iphigenia#1 | person | 伊菲革涅亚 | 希腊神话人物 | 伊菲革涅亞
+p_kassandra#1 | person | 卡珊德拉 | 希腊神话人物 | 卡珊德拉
+p_mifune#1 | person | 三船 | 日本姓氏 如三船敏郎 | 三船
+p_moai#1 | other | 摩艾石像 | 复活节岛雕像 | 摩艾石像
+p_n-s-w | display | N.S.W.
+p_pyramus#1 | person | 皮拉摩斯 | 古罗马神话人物 | 皮拉摩斯
+p_andersons | delete | plural of Anderson, not a separate name
+p_weah#1 | person | 维阿 | 利比里亚前总统 | 維阿
+p_zwingli#1 | person | 茨温利 | 瑞士宗教改革家 | 慈運理
+p_ndrangheta | display | 'Ndrangheta
+p_ravan#1 | person | 罗波那 | 罗摩衍那魔王 | 羅波那
+p_serling#1 | person | 瑟林 | 美国编剧 | 瑟林
+p_shinhwa#1 | org | 神话 | 韩国男子组合 | 神話
+p_webrtc#1 | abbr | 网页实时通信 | 网页技术 | 網頁即時通訊
+p_cointelpro#1 | other | 反间谍计划 | 美国联邦调查局项目 | 反間諜計畫
+p_hellsing#1 | work | 皇家国教骑士团 | 日本漫画 | 厄夜怪客
+p_loreal | display | L'Oreal
+p_seabiscuit#1 | other | 海饼干 | 美国传奇赛马 | 海餅乾
+p_dennys | display | Denny's
+p_habakkuk#1 | person | 哈巴谷 | 《圣经》先知 | 哈巴谷
+p_keqiang#1 | person | 克强 | 中文男子名 如李克强 | 克強
+p_lethe#1 | place | 勒忒河 | 希腊神话遗忘之河 | 勒忒河
+p_sainsburys | display | Sainsbury's
+p_supertramp#1 | org | 超级流浪汉 | 英国摇滚乐队 | 超級流浪漢
+p_uiuc#1 | org | 伊利诺伊大学香槟分校 | 美国公立大学 | 伊利諾大學香檳分校
+p_arpanet#1 | other | 阿帕网 | 互联网前身 | 阿帕網
+p_jael#1 | person | 雅亿 | 《圣经》人物 | 雅億
+p_jlo | display | J.Lo
+p_levite#1 | people | 利未人 | 《圣经》祭司支派 | 利未人
+p_zedekiah#1 | person | 西底家 | 圣经人物 | 西底家
+p_shinohara#1 | person | 筱原 | 日本姓氏 | 篠原
+p_bhima#1 | person | 怖军 | 摩诃婆罗多英雄 | 怖軍
+p_japheth#1 | person | 雅弗 | 圣经人物 | 雅弗
+p_narada#1 | person | 那罗陀 | 印度教神话仙人 | 那羅陀
+p_salonika#1 | place | 萨洛尼卡 | 塞萨洛尼基旧称 | 薩洛尼卡
