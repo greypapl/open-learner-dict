@@ -173,6 +173,33 @@ B0307 起为尾部罕见/专业词，拉丁学名按 rules.md 一律 not-english
 - 没做的：香港用词；3 万名以后专业术语的台湾说法；繁体没有抽检过。
 - 额度：周额度 2%→5%，5 小时窗口 12%→约 38%（Sonnet 每个 agent 约 30 万 token，比预想的贵）。
 
+### compact 后从这里接着做：专名层审核（2026-11-21 用户定的下一个任务）
+
+**现状（2026-11-21 收工时）**：release 0.10.0，全部已提交（最新 `0f3e943`，工作区干净）。各层：
+主词典 86,851（审过；例句 29,034 条 + 同反义词 28,912 个义项，范围都是「前 1 万名 + 全部 A1–C1」）、简释 50,969（审过一轮，召回低，confidence 仍 low）、
+**专名 12,954 个词条 / 13,126 个名字（唯一完全没审过的一层）**、短语 13,153、搭配 5,016、变形 43,919。繁体：释义/短语/搭配/专名/例句都校对过。
+抽检报告 `reports/quality-0.10.0.md`（audit-v2，Fable，2,100 条）：专名层 major 1%、minor 8%，minor 大多是「有更通行的大陆译名」（班克斯→班克西、廷德尔→丁达尔、塞尔福里奇、迈赫迈特、Hercules 罗马名应作海格力斯），
+另有个别 type 标错（Byrds 乐队标成 work）、note 过窄（Fawcett 只写「美国女演员姓氏」）、复数不该立条（Macs）。
+
+**做法（照 `scripts/gloss_review.py` 的套路，已验证可用）**：
+1. 新脚本 `scripts/proper_review.py`：`make` 从 `release/0.10.0/jsonl/proper.jsonl` 每个名字一行：`<p_id>#<序号> | Display | type | 中文名 | 说明`，每块约 1,500 行（约 9 块）；
+   `check`；`apply` → `work/merged/proper-review.jsonl`。
+2. 审核输出只写要改的行：`<p_id>#<序号> | type | 中文名 | 说明`；删词条：`<p_id> | delete | 原因`（只删不是专名的、拼写错误、无意义的复数形式）。
+3. prompt `prompts/proper-review.md`：标准是大陆通行译名（新华社译名、百科常用名）；type 只能是 person place brand org abbr work people religion event other；
+   **不确定就别改**这句要写得比简释层宽松（简释层就是因为这句太保守，独立抽检的错只改到一半）：改成「有把握的通行译名就改；冷门人名若无通行译名，保留音译即可」。prompt 里的示例不要用抽检查出的那几条（会让召回测试失真），抽检那几条留作试点后的召回检查。
+4. 模型：Opus（默认 effort）。先试点 1 块，看改动率和质量，再派其余块。
+5. `release.py` 的专名层部分读 `work/merged/proper-review.jsonl`：改 type/zh/note、删词条、`reviewed=true`、confidence 视召回情况定（Schema 里 proper 的 confidence 目前只允许 low，要改 `make_schema.py`）。
+6. **注意繁体覆盖**：`data/hant-overrides.jsonl` 里有 13,126 条 `p_<slug>#<i>` 的台湾译名（模型校对过）。如果审核改了大陆译名，对应的台湾译名可能也要变（尤其是原来译错人的情况）。
+   做法：apply 后列出「大陆名改了」的 key，交给 Sonnet 按 `prompts/hant.md` 的 N 规则重新给台湾名，写进覆盖表（可以在 hant.py 里加一个 N2 前缀或直接生成小块）。
+7. 发布 → Schema → DATA.md（「proper 层未经审核」那句）/ README（专名「未审核」）/ 本节 → 提交。
+
+**额度经验（本轮实测）**：Opus 审 2,000 行约 13–20 万 token ≈ 5 小时窗口 0.7%；Opus low 写 400 行同反义词 ≈ 0.3%；Sonnet 校繁体 2,500 句 ≈ 15 万 token。闸门照旧：5 小时 ≥ 90% 或周额度 ≥ 95% 就停派。
+
+**专名层之后的建议顺序**（2026-11-21 跟用户讨论过）：
+1. **接入单词接龙 app**（第一个真实用户；可顺便做「接龙专用精简包」——SQLite 现在 67 MB，手机端偏大）。
+2. **正式发布**：GitHub 仓库 + Releases 放 zip；发布前核对上游许可（ECDICT MIT、wordfreq 数据 CC BY-SA、CMUdict BSD、OpenCC Apache）和 NOTICE。推送是对外操作，要先问用户、用用户自己的账号。
+3. 其余候选：按词性分开给音标（record/present 名动重音不同，是格式变更）、短语层例句（1.3 万个，约 40% 窗口）、简释层换 Fable 再审、MDX/Anki 导出。
+
 ### 例句层 v1 完成（2026-11-21）→ release 0.10.0
 
 - 前 5,000 词 11,658 个义项全部有 1 句例句（`scripts/examples.py`，prompts `example-writer.md` / `example-reviewer.md`）。
