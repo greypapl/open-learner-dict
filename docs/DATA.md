@@ -1,4 +1,4 @@
-# 数据说明 · open-learner-dict v0.9
+# 数据说明 · open-learner-dict v0.10
 
 本文说明发布包里每个文件、每个字段的含义。发布包由 `scripts/release.py` 生成，位于 `release/<版本>/`。
 
@@ -100,7 +100,7 @@ SELECT c.collocation, c.zh FROM collocation_headwords h JOIN collocations c ON c
 **gloss**：`id`、`word`、`zipf`、`senses[]`（`sense_id`、`pos`、`zh`、`register`）、`kid_safe`。没有音标、英文释义和级别。`id` 以 `x_` 开头的是整理专名层和短语层时顺带补的普通词（如 `double-check`）。
 
 **proper**：`id`（`p_…`）、`word`（小写）、`display`（正常大小写写法）、`zipf`、`names[]`（`type`、`zh`、`note`）、`also_common`（true 表示它同时是个普通词）。
-`type`：`place person brand org abbr work people religion event other`。中文名是大陆通行译名。已知问题：`display` 不含重音符和撇号（`LOreal`）。
+`type`：`place person brand org abbr work people religion event other`。中文名是大陆通行译名。已知问题：`display` 不含重音符（如 `L'Oreal`）。
 
 **phrases**：`id`（`ph_…`）、`phrase`、`type`、`senses[]`（同 core，但没有 synonyms 等）、`level`、`kid_safe`。
 `type`：`phrv` 短语动词、`idiom` 习语、`phrase` 固定短语、`compound` 分写复合词。短语里 `sb` / `sth` / `one's` 表示可替换的位置。短语没有词频数据，排序请用 `level`。
@@ -132,5 +132,5 @@ SELECT c.collocation, c.zh FROM collocation_headwords h JOIN collocations c ON c
 ## 7. 版本与许可
 
 - 语义化版本：字段含义不变只加数据 → 小版本；改字段 → 大版本。`id` 和 `sense_id` 跨版本稳定。
-- 数据：CC BY-SA 4.0（署名、相同方式共享）。代码：MIT。第三方来源见 `NOTICE.md`。
+- 数据：[CC BY-SA 4.0](../LICENSE-DATA)（署名、相同方式共享）。代码：[MIT](../LICENSE)。第三方来源见 [NOTICE.md](../NOTICE.md)。
 - 发现错误请提 Issue，写明 `id` 或 `sense_id`。

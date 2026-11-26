@@ -35,7 +35,7 @@
 - **主词典**：300 条里 major 2 条（0.7%），minor 19 条（6.3%）。两条 major：`record` 只给了名词重音（见下面「结构性问题」）；`adnation` 把 connation 的译名「合生」也列了进去。按更严的口径仍在 1% 左右，和 v0.9.0 的人工复核结论一致。
 - **例句**：300 条 0 条 major，6 条 minor（2%）。minor 是个别句子不够自然、译文漏了一个形容词、或例句更像相邻义项。这是目前质量最好的一层。
 - **简释层**（未审核）：major 12 条（4%），**全部是冷僻术语的中文定名**（okenite、triallate、mezerein、explementary……），外加 1 个拼写错误词头（glossapharyngeal）。这一层本来就标了「未审核、仅供参考」，结果符合预期；要提高只能做一轮审核。
-- **专名层**（未审核）：major 2 条（1%），minor 24 条（8%），minor 大多是「有更通行的译名」（班克西、丁达尔、塞尔福里奇）。
+- **专名层**（未审核）：major 2 条（1%），minor 24 条（8%），minor 大多是「有更通行的译名」（班克西、丁达尔、塞尔福里奇）。**已在发布前修复**：抽检后对专名层做了两轮全量审核（v1 Opus + v2 Fable / Gemini 4 Neon，共改/增 900+ 处译名与写法、删 26 条非专名/冗余复数，`confidence` 升为 `medium`）；上表为审核前的抽检数字。
 - **短语、搭配**：major 合计 1 条（work ethic 列了「职业道德」）。搭配的 minor 主要是 pattern 标得不准（`a sign of weakness` 标成 n+n、`afford to do sth` 标成 v+prep）。
 - **繁体**：
   - 主词典 3 万名以内、短语、搭配（模型逐条校对过）：0 major，8% minor，minor 是「台湾更常说 X」（文法、音韻學、蘇沙號）。
