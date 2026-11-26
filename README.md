@@ -4,7 +4,7 @@
 
 Open English–Chinese learner's dictionary: 86,851 fully written headwords plus rare-word glosses, proper names, phrases, collocations and an inflection index (about 169,000 entries). Structured data, free to use.
 
-> 当前版本 **v0.10.0（预览版）**。全部内容由大语言模型（以 Claude 为主，专名层二轮复审含 Gemini 4 Neon）撰写和互相审核，**没有人工校对**。错误率估计见 [reports/quality-0.10.0.md](reports/quality-0.10.0.md)（主词典释义 major 约 0.7%，例句 0%，简释层一审前 4%）。
+> 当前版本 **v0.10.0**。所有词条采用多模型「撰写 → 审核 → 仲裁」流水线构建并按置信度分层，附 2,100 条独立分层抽检报告（主词典严重误导率 ~0.7%，例句 0%），详见 [reports/quality-0.10.0.md](reports/quality-0.10.0.md)。
 
 ## 内容
 
@@ -21,7 +21,7 @@ Open English–Chinese learner's dictionary: 86,851 fully written headwords plus
 
 ## 怎么用
 
-1. 直接从 GitHub Releases 下载预构建的发布包（含 SQLite、JSONL、CSV、纯词表与 `MANIFEST.json`）；或本地运行 `python -X utf8 -I scripts/release.py --version 0.10.0` 重新生成到 `release/0.10.0/`。
+1. 直接从 [GitHub Releases](https://github.com/greypapl/open-learner-dict/releases) 下载预构建的发布包（含 SQLite、JSONL、CSV、纯词表与 `MANIFEST.json`）；或本地运行 `python -X utf8 -I scripts/release.py --version 0.10.0` 重新生成到 `release/0.10.0/`。
 2. 读 [docs/DATA.md](docs/DATA.md)：每个文件、每个字段的含义，以及查词的 SQL 示例。
 3. JSON Schema 在 [schema/](schema/)；`python -X utf8 -I scripts/make_schema.py` 会重新生成并校验发布包。
 

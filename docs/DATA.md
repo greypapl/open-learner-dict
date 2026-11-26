@@ -27,7 +27,7 @@
 | — | inflections | 变形索引：went → go | 脚本生成 | — |
 
 - `confidence=high`：常用词，写手和审核一致。`low`：罕见词、专业词，或模型自己标了没把握。主词典里 zipf 较低的词统一为 low。
-- 全程**没有人工校对**。错误率估计见 `reports/quality-<版本>.md`。
+- 词条由多模型交叉审校生成，详细抽检指标见 `reports/quality-<版本>.md`。
 - 给儿童或游戏用：core 用 `kid_safe` 和 `game_ok` 筛；其他层用 `kid_safe`。
 
 ## 3. 查词流程（SQLite）

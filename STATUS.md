@@ -23,7 +23,7 @@
 | 质量抽检 | ✅ v0.10.0：Fable 按更严口径（audit-v2）抽 2,100 条，含例句和繁体，报告 `reports/quality-0.10.0.md`；v0.9.0 的旧报告保留。例句繁体已在抽检后由 Sonnet 逐句校对（改 1,604 句，X01–X12，`hant.py make-ex`）。 |
 | 同义 / 反义词 | ✅ 完成（2026-11-21）：`scripts/thesaurus.py`（make/check/review-make/review-check/apply，增量），prompts `thesaurus-writer.md` / `thesaurus-reviewer.md`。范围同例句（前 1 万 + A1–C1，28,912 个义项），每项必须是词典已有词条或短语。Opus low 写 73 块 × 400（约 24% 窗口），Opus 审 12 块 × 2,500，改 361 条；apply 时按规则去掉代词/限定词的人称、物主、指示词反义（he→she 这类，15 条）。结果：同义 46,954 条、反义 9,421 条。发布：`senses[].synonyms/antonyms`、`csv/relations.csv`、SQLite `sense_relations` |
 | 简释层审核 | ✅ 完成（2026-11-21）：`scripts/gloss_review.py` + `prompts/gloss-review.md`，Opus 逐条审 51,159 个义项（G001–G026，每块 2,000），只输出要改/要删的行。试点 G002 改 29 条（1.5%）。**复数等变形不删**（试点删了 7 个拉丁复数，已撤回并改了规则）。26 块全部审完：改 423 条、删 14 个拼写错误词头（glossapharyngeal、irridentism 等），每块约 0.7% 的 5 小时窗口。**召回率低**：抽检查出的 12 条错误里，审核只改到 7 条，而且恰好都是 prompt 里举过的例子；另外 5 条（intertill、mezerein、packless、parapsis、torfaceous）是我按抽检结论手工追加到 reviewer.txt 的。所以 gloss 标 reviewed=true，confidence 仍为 low。想再提高只能换模型（Fable）再审一轮，或不给「不确定就别改」的限制。 |
-| git | ✅ 2026-11-18 首次提交（work/raw、sources、headwords*.jsonl、selected.jsonl 不入库，见 .gitignore） |
+| git | ✅ 2026-11-18 首次提交；2026-11-26 已公开推送至 `https://github.com/greypapl/open-learner-dict` 并发布 GitHub Release `v0.10.0` |
 
 批次顺序 = 选词顺序：B0001–B0306 ≈ 前 1000 + 主池（常用到中频），B0307 起为尾部罕见/专业词（几乎全是 K2）。
 
@@ -175,13 +175,12 @@ B0307 起为尾部罕见/专业词，拉丁学名按 rules.md 一律 not-english
 
 ### compact 后从这里继续（2026-11-26 现状与下一步）
 
-- **当前基线**：`release/0.10.0` 已重发且 `make_schema.py` 全部通过，本地 `master` 干净（尚未设 git remote）。
-  - 各层条数：`core` 86,851（105,257 义项；前 1 万 + 全部 A1–C1 共 29,034 条例句、28,912 个义项同反义词）、`gloss` 50,969（一轮 Opus 审，confidence=low）、`proper` **12,928**（两轮审完，confidence=medium）、`phrases` 13,153、`collocations` 5,016、`inflections` 43,919；全层 `zh_hant` 已校对；SQLite 体积 73.2 MB。
+- **当前基线**：`v0.10.0` 已正式公开推送至 `https://github.com/greypapl/open-learner-dict` 并发布 GitHub Release（含 SQLite / JSONL / CSV / wordlists 四个压缩包与 `SHA256SUMS.txt`），`make_schema.py` 全过。
+  - 各层条数：`core` 86,851（105,257 义项；前 1 万 + 全部 A1–C1 共 29,034 条例句、28,912 个义项同反义词）、`gloss` 50,969（一轮 Opus 审，confidence=low）、`proper` **12,928**（两轮审完，confidence=medium）、`phrases` 13,153、`collocations` 5,016、`inflections` 43,919；全层 `zh_hant` 已校对；SQLite 体积 73.2 MB（压缩包 27.55 MB）。
 - **专名层二轮已收口（2026-11-26）**：见下方「专名层第二轮审核完成」；核心口径已固化（`Chewbacca`/`Chewie` = 楚巴卡/楚伊；知名品牌如 YouTube/Instagram/JCB 允许保留拉丁原名；`p_oreal` 已删、`p_artagnan` 暂保留）。
 - **下一步优先级**：
   1. **接入「单词接龙」小程序**（工作区 `C:\Users\greypapl\Desktop\新同步文件夹\单词接龙源码\单词接龙`；完整 SQLite 73.2 MB，移动端需另做精简包）。
-  2. **正式开源发布**：核对上游许可（ECDICT MIT、wordfreq CC BY-SA、CMUdict BSD、OpenCC Apache）与 `NOTICE.md`，经用户确认后用用户 GitHub 账号建仓推送并发布 Releases zip。
-  3. **后续候选增强**：按词性分音标（record/present 等）、短语层补例句（1.3 万条）、简释层换强模型二审、MDX / Anki 导出。
+  2. **v1.0.0 候选增强**：按词性分音标（record/present 等，属 Schema 变更）、短语层补例句（1.3 万条）、导出 MDX / Anki 格式、简释层换强模型二审。
 - **环境备忘**：若从「单词接龙」工作区启动会话，本仓库（`C:\Users\greypapl\project\整理单词`）在工作区外，执行 Python 脚本与 `git -C` 需用 `BypassSandbox: true`；子 agent 审核完毕后由主会话统一落盘并跑 `check`。
 
 ### 专名层第二轮审核完成（2026-11-26）→ release 0.10.0（重发）
