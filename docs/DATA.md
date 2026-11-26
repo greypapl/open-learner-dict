@@ -21,7 +21,7 @@
 |---|---|---|---|---|
 | core | core | 主词典：释义、音标、音节、词族、级别 | Opus 写 → Opus 审 → 有分歧由 Fable 仲裁 | high / low |
 | gloss | gloss | 冷僻词：只有一行中文简释 | Sonnet / Opus 写 → Opus 审一轮（召回偏低） | low |
-| proper | proper | 专名：地名、人名、品牌、机构缩写的中文名 | Sonnet 写 → Opus 审一轮（召回偏低） | low |
+| proper | proper | 专名：地名、人名、品牌、机构缩写的中文名 | Sonnet 写 → Opus 审一轮 → Fable / Gemini 4 Neon 审二轮 | medium |
 | phrase | phrases | 短语动词、习语、固定短语、分写复合词 | Opus / Sonnet 写 → Opus 审 | medium / low |
 | collocation | collocations | 强搭配（make a decision、heavy rain） | Sonnet 写 → Opus 审 | medium |
 | — | inflections | 变形索引：went → go | 脚本生成 | — |
@@ -125,7 +125,7 @@ SELECT c.collocation, c.zh FROM collocation_headwords h JOIN collocations c ON c
 - 没有人工校对；级别、冒犯程度都是模型判断。
 - 发现的错误记在 `data/errata.jsonl`，每次发布时自动应用。
 - 例句覆盖前 1 万名和全部 A1–C1 的词，排名 1 万以后的 C2 词没有；短语层还没有例句。同义词、反义词只覆盖前 1 万名和 A1–C1；发音音频还没有。
-- gloss 层经过一轮 Opus 审核（`reviewed=true`，改 423 条、删 14 个拼写错误的词头），但审核偏保守：独立抽检查出的 12 条错误里它只主动改到 7 条（其余 5 条是人工按抽检结果补改的），所以估计仍有约 2–3% 的冷僻术语译名不准，`confidence` 仍为 low。proper 层也经过一轮 Opus 审核（`reviewed=true`，`meta.review = "proper-review-v1"`）：改了 363 个名字（其中约 130 个换成通行译名，如 班克斯→班克西、廷德尔→丁达尔、机器猫→哆啦A梦；其余是类型、过时说明、台湾译名），补了 20 多个漏掉的主要义项（Nobel → 诺贝尔奖、Rudd → 陆克文），修了 39 个写法（McDonald's、J.D.、Super Bowl），删了 23 个品牌/缩写/姓氏的复数词条（iPhones、KPIs；民族、教派、家族的复数如 Houthis、Habsburgs 保留）。但召回同样偏低：抽检查出的 26 条只主动改到 11 条（其余 15 条人工补改），估计仍有约 5% 的名字不是最通行的译法，`confidence` 仍为 low。两层都建议在界面上标明「仅供参考」。
+- gloss 层经过一轮 Opus 审核（`reviewed=true`，改 423 条、删 14 个拼写错误的词头），但审核偏保守：独立抽检查出的 12 条错误里它只主动改到 7 条（其余 5 条是人工按抽检结果补改的），所以估计仍有约 2–3% 的冷僻术语译名不准，`confidence` 仍为 low，建议在界面上标明「仅供参考」。proper 层经过两轮审核（`reviewed=true`，`meta.review = "proper-review-v2"`，`confidence = medium`，共 12,928 条）：第一轮（Opus）改了 363 个名字、补了 20 多个主要义项、修 39 个写法、删 23 个冗余复数；第二轮（P01–P06 由 Fable、P07–P09 由 Gemini 4 Neon 按更严口径复审）又改/增了 539 个名字（其中大陆译名变 165 个，并集中修正台湾译名与繁简误转）、修 4 个写法、删 3 条非专名/切词残片（`p_oreal`、`p_pipa`、`p_bodhisattvas`）。少数知名品牌的中文/台湾译名栏保留拉丁原名（如 YouTube、Instagram、JCB）。
 - `zh` 是大陆用语和译名（软件、奥巴马）；台湾用语见 `zh_hant`。
 - 主词典 86,851 条里约 7.2 万条是 C2 级的罕见词，学习类应用通常只需要 `rank` 靠前或 `level` ≤ C1 的部分。
 

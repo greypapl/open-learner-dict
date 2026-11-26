@@ -261,8 +261,8 @@ for r in load('proper.jsonl'):
         n['note_hant'] = hant('', n['note']) if n['note'] else ''
     n_pused += pid in PDISP
     out_proper.append({'id': pid, 'word': r['word'], 'display': PDISP.get(pid, r['display']), 'layer': 'proper', 'zipf': r['zipf'],
-                       'names': names, 'also_common': r['also_common'], 'confidence': 'low', 'reviewed': pid in PREV,  # 审过一轮但召回约 42%（抽检 26 条只改到 11 条），可信度仍标 low
-                       'meta': {'source': r['source'], **({'review': 'proper-review-v1'} if pid in PREV else {})}})
+                       'names': names, 'also_common': r['also_common'], 'confidence': 'medium' if pid in PREV else 'low', 'reviewed': pid in PREV,  # 经两轮审核（v1 Opus + v2 Fable/Gemini 4 Neon）
+                       'meta': {'source': r['source'], **({'review': 'proper-review-v2'} if pid in PREV else {})}})
 if n_pused != len(PN) + len(PDROP) + len(PDISP) + len(PDEL):
     die(f'专名审核有 {len(PN) + len(PDROP) + len(PDISP) + len(PDEL) - n_pused} 条没对上词条')
 if len({r['id'] for r in out_proper}) != len(out_proper):

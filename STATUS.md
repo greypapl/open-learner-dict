@@ -173,14 +173,16 @@ B0307 起为尾部罕见/专业词，拉丁学名按 rules.md 一律 not-english
 - 没做的：香港用词；3 万名以后专业术语的台湾说法；繁体没有抽检过。
 - 额度：周额度 2%→5%，5 小时窗口 12%→约 38%（Sonnet 每个 agent 约 30 万 token，比预想的贵）。
 
-### 专名层第二轮审核（Fable，进行中，2026-11-22）
+### 专名层第二轮审核完成（2026-11-26）→ release 0.10.0（重发）
 
-- 用户要求在 v1 之后换 Fable 再审一轮。`scripts/proper_review.py --round 2`（目录 `work/proper-review2`，输出 `work/merged/proper-review2.jsonl`），prompt `prompts/proper-review2.md`（v1 prompt + 「第一轮太保守，你是更严格的第二轮」）。
+- 用户要求在 v1 之后换更严格模型再审一轮。`scripts/proper_review.py --round 2`（目录 `work/proper-review2`，输出 `work/merged/proper-review2.jsonl`），prompt `prompts/proper-review2.md`（v1 prompt + 「第一轮太保守，你是更严格的第二轮」）。
   输入从当前发布包切（已含 v1 和人工补改），key 编号与 v1 兼容；`release.py` 按 `proper-review*.jsonl` 顺序读，后一轮覆盖前一轮。
-- **进度：P01–P06 已完成并 check 通过；P07、P08、P09 还没派**（5 小时窗口到 84% 停派）。接着做：
-  `--round 2` 派 P07–P09（Fable，prompt 同上）→ `check --round 2` → 人工抽查（注意 Chewie/Chewbacca 两轮译名要一致；YouTube/Instagram 台湾栏改成拉丁原名是否接受）→ `apply --round 2` → release → schema → 文档（DATA.md 专名段、README）→ 提交。
-- 试点对比：P04 Opus 第一轮改译名 14 个，Fable 第二轮又改 33 个（巴麦尊、皮尔士、米洛、蒙纳士大学、Brahman→梵），质量明显更好。每块约 15 万 token，5 小时窗口约 3–4%、Fable 周额度约 1%。
-- 遗留：`p_oreal`（Oreal）、`p_artagnan`（Artagnan）是切词残片（应为 L'Oréal、d'Artagnan），display 校验不许加字母，没改。
+- **已完成（P01–P06 由 Fable 审，P07–P09 由 Gemini 4 Neon 审）**：
+  - 全量 9 块通过 `check --round 2`（0 格式错误）：合计改/增名字 **539**（大陆译名变 165）、去名字 0、改写法 4（含 `Cape Town`、`Ant-Man`）、删词条 3（`p_oreal` 与 `p_loreal` 重复残片、`p_pipa`、`p_bodhisattvas`）。
+  - 试点对比：P04 Opus 第一轮改译名 14 个，Fable 第二轮又改 33 个（巴麦尊、皮尔士、米洛、蒙纳士大学、Brahman→梵）；P07–P09 亦查出多处张冠李戴（Laois 劳斯郡→莱伊什郡、Pentonville 本顿维尔→彭顿维尔）与繁简误转。
+  - 人工核对决断：`Chewbacca`/`Chewie` 二轮已统一为「楚巴卡 / 楚伊」（台「秋巴卡 / 秋仔」）；允许品牌词中文/台湾栏保留拉丁原名（YouTube、Instagram、JCB）。
+  - `release/0.10.0` 已重发，Schema 校验全过：proper 12,931 → **12,928**，`confidence` 升为 `medium`，`meta.review = "proper-review-v2"`。
+- 遗留：`p_artagnan`（Artagnan）是切词残片（应为 d'Artagnan，因词库无 `p_dartagnan` 暂保留；`p_oreal` 已删）。
 
 ### 专名层审核 v1 完成（2026-11-22）→ release 0.10.0（重发）
 

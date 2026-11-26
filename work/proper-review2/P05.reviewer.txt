@@ -21,7 +21,7 @@ p_chewbacca#1 | work | 楚巴卡 | 星球大战角色 | 秋巴卡
 p_gretel#1 | work | 格莱特 | 格林童话角色 | 葛麗特
 p_meir#1 | person | 梅厄 | 以色列前总理 | 梅爾
 p_oldman#1 | person | 奥德曼 | 英国演员 | 歐德曼
-p_oreal#1 | brand | 欧莱雅 | 法国化妆品集团 | 萊雅
+p_oreal | delete | fragment of L'Oréal (covered by p_loreal)
 p_aslan#1 | work | 阿斯兰 | 纳尼亚传奇狮子 | 亞斯藍
 p_gwynedd#1 | place | 圭内斯 | 威尔士郡 | 圭內斯
 p_hansel#1 | work | 汉塞尔 | 格林童话角色 | 韓賽爾
