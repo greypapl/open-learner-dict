@@ -1,6 +1,6 @@
 # open-learner-dict 交接文档（STATUS）
 
-> 更新于 2026-11-19。给 compact 之后的自己 / 维护者看：项目现状、怎么继续、踩过的坑。
+> 更新于 2026-11-26。给 compact 之后的自己 / 维护者看：项目现状、怎么继续、踩过的坑。
 > 设计依据见 [SPEC.md](SPEC.md)；逐步操作模板见 [prompts/RUNBOOK.md](prompts/RUNBOOK.md)。
 
 ## 1. 当前进度
@@ -14,11 +14,11 @@
 | 已合并词条 | **86,851 条**（453/453 批），disputed 0；另有 61,076 个尾部词经初筛记为 too-rare（`work/merged/triage-skips.jsonl`） |
 | 简释扩展层 | ✅ **48,359 条**（含 Opus 重试 2,692 条）（`work/merged/gloss.jsonl`，confidence=low，未审核） |
 | 变形索引 | ✅ **43,970 个形式**（`work/merged/inflections.jsonl`，纯脚本） |
-| 专名层 | ✅ **12,954 条**专名 + 2,568 条普通漏词（`proper.jsonl` / `proper-common.jsonl`，Sonnet，zipf ≥ 2，confidence=low，未审核） |
-| 短语层 | ✅ **13,349 条**（`phrases.jsonl`，全部经 Opus 审核，confidence=medium；见 §0 短语层各轮） |
+| 专名层 | ✅ **12,928 条**（经两轮审核：v1 Opus + v2 Fable/Gemini 4 Neon，confidence=medium；见 §0「专名层第二轮审核完成」） |
+| 短语层 | ✅ **13,153 条**（`phrases.jsonl`，全部经 Opus 审核并做过连写定向修正，confidence=medium；见 §0 短语层各轮） |
 | 搭配层 | ✅ **5,016 条**（`collocations.jsonl`，前 5,000 实词，Sonnet 写 + Opus 审，confidence=medium） |
-| 扩展层（例句、同反义） | ⏳ 未开始 |
-| 发布脚本 | ✅ `scripts/release.py --version 0.10.0` → `release/0.10.0/`（JSONL、CSV、SQLite、词表、MANIFEST）；`docs/DATA.md`、`schema/`、README 已写。MDX、Anki 未做 |
+| 扩展层（例句、同反义） | ✅ 已完成（见下方例句与同义/反义词两行） |
+| 发布脚本 | ✅ `scripts/release.py --version 0.10.0` → `release/0.10.0/`（JSONL、CSV、SQLite 73.2MB、词表、MANIFEST），Schema 校验全过；`docs/DATA.md`、`schema/`、README 已同步。MDX、Anki 未做 |
 | 例句 | ✅ 前 1 万词 + 全部 A1–C1 词，每个义项 1 句（29,034 条，Opus 写 + Opus 审），见 §0「例句层 v1 完成」。短语层例句未做 |
 | 质量抽检 | ✅ v0.10.0：Fable 按更严口径（audit-v2）抽 2,100 条，含例句和繁体，报告 `reports/quality-0.10.0.md`；v0.9.0 的旧报告保留。例句繁体已在抽检后由 Sonnet 逐句校对（改 1,604 句，X01–X12，`hant.py make-ex`）。 |
 | 同义 / 反义词 | ✅ 完成（2026-11-21）：`scripts/thesaurus.py`（make/check/review-make/review-check/apply，增量），prompts `thesaurus-writer.md` / `thesaurus-reviewer.md`。范围同例句（前 1 万 + A1–C1，28,912 个义项），每项必须是词典已有词条或短语。Opus low 写 73 块 × 400（约 24% 窗口），Opus 审 12 块 × 2,500，改 361 条；apply 时按规则去掉代词/限定词的人称、物主、指示词反义（he→she 这类，15 条）。结果：同义 46,954 条、反义 9,421 条。发布：`senses[].synonyms/antonyms`、`csv/relations.csv`、SQLite `sense_relations` |
@@ -172,6 +172,17 @@ B0307 起为尾部罕见/专业词，拉丁学名按 rules.md 一律 not-english
 - release.py：所有层输出 `zh_hant`（专名另有 `note_hant`），CSV / SQLite / Schema 同步；`docs/DATA.md` §5.1 说明来源。
 - 没做的：香港用词；3 万名以后专业术语的台湾说法；繁体没有抽检过。
 - 额度：周额度 2%→5%，5 小时窗口 12%→约 38%（Sonnet 每个 agent 约 30 万 token，比预想的贵）。
+
+### compact 后从这里继续（2026-11-26 现状与下一步）
+
+- **当前基线**：`release/0.10.0` 已重发且 `make_schema.py` 全部通过，本地 `master` 干净（尚未设 git remote）。
+  - 各层条数：`core` 86,851（105,257 义项；前 1 万 + 全部 A1–C1 共 29,034 条例句、28,912 个义项同反义词）、`gloss` 50,969（一轮 Opus 审，confidence=low）、`proper` **12,928**（两轮审完，confidence=medium）、`phrases` 13,153、`collocations` 5,016、`inflections` 43,919；全层 `zh_hant` 已校对；SQLite 体积 73.2 MB。
+- **专名层二轮已收口（2026-11-26）**：见下方「专名层第二轮审核完成」；核心口径已固化（`Chewbacca`/`Chewie` = 楚巴卡/楚伊；知名品牌如 YouTube/Instagram/JCB 允许保留拉丁原名；`p_oreal` 已删、`p_artagnan` 暂保留）。
+- **下一步优先级**：
+  1. **接入「单词接龙」小程序**（工作区 `C:\Users\greypapl\Desktop\新同步文件夹\单词接龙源码\单词接龙`；完整 SQLite 73.2 MB，移动端需另做精简包）。
+  2. **正式开源发布**：核对上游许可（ECDICT MIT、wordfreq CC BY-SA、CMUdict BSD、OpenCC Apache）与 `NOTICE.md`，经用户确认后用用户 GitHub 账号建仓推送并发布 Releases zip。
+  3. **后续候选增强**：按词性分音标（record/present 等）、短语层补例句（1.3 万条）、简释层换强模型二审、MDX / Anki 导出。
+- **环境备忘**：若从「单词接龙」工作区启动会话，本仓库（`C:\Users\greypapl\project\整理单词`）在工作区外，执行 Python 脚本与 `git -C` 需用 `BypassSandbox: true`；子 agent 审核完毕后由主会话统一落盘并跑 `check`。
 
 ### 专名层第二轮审核完成（2026-11-26）→ release 0.10.0（重发）
 
