@@ -1,8 +1,8 @@
 # open-learner-dict
 
-面向中文学习者的开放英汉词库：主词典 8.7 万词，加上冷僻词简释、专名、短语、搭配和变形索引，共约 16.9 万条，全部结构化、可商用。
+开放、结构化、可商用的现代英汉双解词库（简繁并列）：主词典 8.7 万词，加上冷僻词简释、专名、短语、搭配与变形索引，共约 16.9 万条，适用于词典与学习应用、划词插件、文字游戏及 NLP / AI 项目。
 
-Open English–Chinese learner's dictionary: 86,851 fully written headwords plus rare-word glosses, proper names, phrases, collocations and an inflection index (about 169,000 entries). Structured data, free to use.
+An open, structured, commercially usable English–Chinese dictionary dataset (Simplified & Traditional Chinese): 86,851 core headwords plus rare-word glosses, proper names, phrases, collocations, and an inflection index (~169,000 entries) — ready for dictionary apps, language learning tools, word games, and NLP / AI pipelines.
 
 > 当前版本 **v0.10.0**。所有词条采用多模型「撰写 → 审核 → 仲裁」流水线构建并按置信度分层，附 2,100 条独立分层抽检报告（主词典严重误导率 ~0.7%，例句 0%），详见 [reports/quality-0.10.0.md](reports/quality-0.10.0.md)。
 
